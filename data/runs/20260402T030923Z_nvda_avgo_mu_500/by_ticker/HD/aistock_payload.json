@@ -1,0 +1,240 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "290ff0c0-91e0-56b7-af0a-5deb73cf5743",
+      "timestamp_utc": "2026-03-31T10:15:00+00:00",
+      "source": "businesswire",
+      "url": "https://www.businesswire.com/news/home/20260331969185/en/Excelerate-Energy-Names-New-FSRU-Excelerate-Acadia-at-HD-Hyundai-Heavy-Industries",
+      "title": "Excelerate Energy Names New FSRU Excelerate Acadia at HD Hyundai Heavy Industries - Business Wire",
+      "body": "Excelerate Energy Names New FSRU Excelerate Acadia at HD Hyundai Heavy Industries Business Wire",
+      "author": null,
+      "language": "en",
+      "ticker": "HD",
+      "tickers_hint": [
+        "HD"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "businesswire.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Business Wire",
+        "source_domain": "businesswire.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a23d440d-bba9-5cc1-99c1-85787ead9d7c",
+      "timestamp_utc": "2026-04-01T06:05:38+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzVTd3JpYlNQd3dDcU00WWVESVNGZktOTzNpOW91dlYyQ3Z6dGYtaE53MzFCcGozZmVzSTZDblhsS21Gc0tNQnlxcC0zdHR3ekdsRFJSQWY3UU4xbmJycFNtbVFCckUzc3ZUcS1BQk5ydlhlalFOYVhXZjBrUVVoWWlnR3ZLblozZnFDSlowNnBmQ1MwMG53dU4wWTlCb0xSbXNkdFNhSEIxTmZxdFREZk40RE1CXzZEOURIcw?oc=5",
+      "title": "“Busy Behind the Scenes Making Your Life Easier”: Home Depot Stock (NYSE:HD) Gains With New Hire - TipRanks",
+      "body": "“Busy Behind the Scenes Making Your Life Easier”: Home Depot Stock (NYSE:HD) Gains With New Hire TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "HD",
+      "tickers_hint": [
+        "HD"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "49cc14d2-cdcb-56dd-a11f-2e0318cea733",
+      "timestamp_utc": "2026-04-01T06:25:25+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/evercore-issues-pessimistic-forecast-for-home-depot-nysehd-stock-price-2026-04-01/",
+      "title": "Evercore Issues Pessimistic Forecast for Home Depot (NYSE:HD) Stock Price - MarketBeat",
+      "body": "Evercore Issues Pessimistic Forecast for Home Depot (NYSE:HD) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "HD",
+      "tickers_hint": [
+        "HD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fd81784b-0836-5f26-ae25-5d24a8f48bc7",
+      "timestamp_utc": "2026-03-31T08:37:56+00:00",
+      "source": "ad_hoc_news",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/hd-hyundai-heavy-industries-stock-faces-market-pressure-amid-geopolitical/69041696",
+      "title": "HD Hyundai Heavy Industries Stock Faces Market Pressure Amid Geopolitical Tensions and Shareholder C - AD HOC NEWS",
+      "body": "NEWSAKTIENKURSEBÖRSE WIRTSCHAFT POLITIK SPORT UNTERHALTUNG WISSENSCHAFT AUSLAND POLIZEI INTERNATIONAL SONSTIGE ARCHIV BLOGS KALENDERBLATT NEWSLETTER BÖRSENLEXIKON RSS WATCHLISTNews SucheMenü ein-/ausblendenBlogsBilderNews",
+      "author": null,
+      "language": "en",
+      "ticker": "HD",
+      "tickers_hint": [
+        "HD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "ad hoc news",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "AD HOC NEWS",
+        "source_domain": "adhocnews.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HD"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "290ff0c0-91e0-56b7-af0a-5deb73cf5743",
+      "timestamp_utc": "2026-03-31T10:15:00+00:00",
+      "source": "businesswire",
+      "url": "https://www.businesswire.com/news/home/20260331969185/en/Excelerate-Energy-Names-New-FSRU-Excelerate-Acadia-at-HD-Hyundai-Heavy-Industries",
+      "title": "Excelerate Energy Names New FSRU Excelerate Acadia at HD Hyundai Heavy Industries - Business Wire",
+      "body": "Excelerate Energy Names New FSRU Excelerate Acadia at HD Hyundai Heavy Industries Business Wire",
+      "author": null,
+      "language": "en",
+      "ticker": "HD",
+      "tickers_hint": [
+        "HD"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "businesswire.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Business Wire",
+        "source_domain": "businesswire.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a23d440d-bba9-5cc1-99c1-85787ead9d7c",
+      "timestamp_utc": "2026-04-01T06:05:38+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzVTd3JpYlNQd3dDcU00WWVESVNGZktOTzNpOW91dlYyQ3Z6dGYtaE53MzFCcGozZmVzSTZDblhsS21Gc0tNQnlxcC0zdHR3ekdsRFJSQWY3UU4xbmJycFNtbVFCckUzc3ZUcS1BQk5ydlhlalFOYVhXZjBrUVVoWWlnR3ZLblozZnFDSlowNnBmQ1MwMG53dU4wWTlCb0xSbXNkdFNhSEIxTmZxdFREZk40RE1CXzZEOURIcw?oc=5",
+      "title": "“Busy Behind the Scenes Making Your Life Easier”: Home Depot Stock (NYSE:HD) Gains With New Hire - TipRanks",
+      "body": "“Busy Behind the Scenes Making Your Life Easier”: Home Depot Stock (NYSE:HD) Gains With New Hire TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "HD",
+      "tickers_hint": [
+        "HD"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "49cc14d2-cdcb-56dd-a11f-2e0318cea733",
+      "timestamp_utc": "2026-04-01T06:25:25+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/evercore-issues-pessimistic-forecast-for-home-depot-nysehd-stock-price-2026-04-01/",
+      "title": "Evercore Issues Pessimistic Forecast for Home Depot (NYSE:HD) Stock Price - MarketBeat",
+      "body": "Evercore Issues Pessimistic Forecast for Home Depot (NYSE:HD) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "HD",
+      "tickers_hint": [
+        "HD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fd81784b-0836-5f26-ae25-5d24a8f48bc7",
+      "timestamp_utc": "2026-03-31T08:37:56+00:00",
+      "source": "ad_hoc_news",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/hd-hyundai-heavy-industries-stock-faces-market-pressure-amid-geopolitical/69041696",
+      "title": "HD Hyundai Heavy Industries Stock Faces Market Pressure Amid Geopolitical Tensions and Shareholder C - AD HOC NEWS",
+      "body": "NEWSAKTIENKURSEBÖRSE WIRTSCHAFT POLITIK SPORT UNTERHALTUNG WISSENSCHAFT AUSLAND POLIZEI INTERNATIONAL SONSTIGE ARCHIV BLOGS KALENDERBLATT NEWSLETTER BÖRSENLEXIKON RSS WATCHLISTNews SucheMenü ein-/ausblendenBlogsBilderNews",
+      "author": null,
+      "language": "en",
+      "ticker": "HD",
+      "tickers_hint": [
+        "HD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "ad hoc news",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "AD HOC NEWS",
+        "source_domain": "adhocnews.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HD"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

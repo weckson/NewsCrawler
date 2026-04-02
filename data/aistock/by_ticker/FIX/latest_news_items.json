@@ -1,0 +1,89 @@
+[
+  {
+    "id": "09bddd37-814e-584d-a543-6d39dafc113e",
+    "timestamp_utc": "2026-04-01T12:14:24+00:00",
+    "source": "tipranks",
+    "url": "https://www.tipranks.com/news/company-announcements/stitch-fix-resumes-share-repurchase-program-signals-confidence",
+    "title": "Stitch Fix Resumes Share Repurchase Program, Signals Confidence - TipRanks",
+    "body": "Stitch Fix Resumes Share Repurchase Program, Signals Confidence TipRanks",
+    "author": null,
+    "language": "en",
+    "ticker": "FIX",
+    "tickers_hint": [
+      "FIX"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "tipranks.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
+      "trust_tier": 3,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "FIX"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "ceb2e742-becf-5be8-bae8-6ea79f1069d6",
+    "timestamp_utc": "2026-04-01T12:39:00+00:00",
+    "source": "wsj",
+    "url": "https://www.wsj.com/business/retail/nikes-road-to-recovery-in-china-is-hitting-new-hurdles-5aced75f?gaa_at=eafs&gaa_n=AWEtsqfCztrugzsVcR4135uScmzABd256pJarz-q6-gsfyATRh3ZhnaBLofM&gaa_ts=69cdf73a&gaa_sig=tMv5p9JTq40pOuzGgp9-1Fs1v023Sm3QoS0AWp_CGvGnHLZuU1KTuqwVK7RDPrP2BZKHHFykIj5Jm8f4ppWwSQ%3D%3D",
+    "title": "Nike Can’t Fix Its China Problem and That’s Tanking Its Stock - WSJ",
+    "body": "Nike Can’t Fix Its China Problem and That’s Tanking Its Stock WSJ",
+    "author": null,
+    "language": "en",
+    "ticker": "FIX",
+    "tickers_hint": [
+      "FIX"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "wsj.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "WSJ",
+      "source_domain": "wsj.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "FIX"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "f2da939e-b4e7-5de8-acad-04cd49c5f528",
+    "timestamp_utc": "2026-04-01T11:00:00+00:00",
+    "source": "stock_titan",
+    "url": "https://www.stocktitan.net/news/SFIX/stitch-fix-resumes-share-repurchase-xg7x6jldpska.html",
+    "title": "Stitch Fix restarts stock buybacks, spends $15M since March 17 - Stock Titan",
+    "body": "Stitch Fix NASDAQ:SFIX View SFIX Stock Overview → SFIX Rankings #3558 Ranked by Market Cap N/A Ranked by Dividends SFIX Latest News Mar 11, 2026 Stitch Fix Announces Second Quarter of Fiscal 2026 Financial Results Feb 18, 2026 Stitch Fix Announces Date for Second Quarter 2026 Financial Results and Conference Call Dec 29, 2025 Stitch Fix to Participate in 2026 ICR Conference Dec 11, 2025 Stitch Fix Unveils the Top Trends of Women’s Fashion in 2025 and the Style Shift to Watch for in 2026 Dec 5, 2025 Stitch Fix to Participate in KeyBanc Capital Markets Virtual December Consumer Spotlight SFIX Latest SEC Filings Apr 1, 2026 [8-K] Stitch Fix, Inc.\n\nReports Material Event Mar 27, 2026 [SCHEDULE 13G/A] Stitch Fix, Inc.\n\nAmended Passive Investment Disclosure Mar 20, 2026 [Form 4] Stitch Fix, Inc.\n\nInsider Trading Activity Mar 20, 2026 [Form 4] Stitch Fix, Inc.\n\nInsider Trading Activity Mar 20, 2026 [Form 4] Stitch Fix, Inc.\n\nInsider Trading Activity SFIX Stock Data Market Cap 451.89M Float 115.46M Industry Apparel Retail Sector Retail-catalog & Mail-order Houses Website Link Country United States City SAN FRANCISCO",
+    "author": null,
+    "language": "en",
+    "ticker": "FIX",
+    "tickers_hint": [
+      "FIX"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "FIX"
+      ],
+      "body_kind": "article_text"
+    },
+    "stream_type": "soft"
+  }
+]

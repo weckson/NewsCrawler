@@ -1,0 +1,89 @@
+[
+  {
+    "id": "5bb5d1db-027b-5487-b9fd-3d6f6f03a534",
+    "timestamp_utc": "2026-04-01T06:35:44+00:00",
+    "source": "tipranks",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNHg1SGtMWGtZVG0xa0g4U3AzNTRaeXFERlRTUUtUTGFLNG8yQWp5elZzdU1pUnZzYjhUVWRaZkh4TFFaYTFBTTdoNTJYUW91eVdDMVFZUXVtQVVwZWZpYmwtdk1lZzdCa2RpZjhuMnNSS1FVTjY1cy1OcV9NUDc4WmJWUW1nTnFvVTF0WGR6ckh2SGRqYlVzcUVnVFZfcDMwM1c5NnJqYVNMNl83TEhyWWlZZ3o4b3BJUmh6QnNFNXEzVUtFR2JGdDhwV2piaFBBX1NCMGI0MA?oc=5",
+    "title": "The Most Memorable Ads are Television Ads: Comcast Stock (NASDAQ:CMCSA) Slides Despite Releasing Favorable Study - TipRanks",
+    "body": "The Most Memorable Ads are Television Ads: Comcast Stock (NASDAQ:CMCSA) Slides Despite Releasing Favorable Study TipRanks",
+    "author": null,
+    "language": "en",
+    "ticker": "CMCSA",
+    "tickers_hint": [
+      "CMCSA"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "tipranks.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "CMCSA"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "d294915f-bf0b-54bf-8ce0-df7c4aab6ac6",
+    "timestamp_utc": "2026-04-01T01:39:17+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-scharf-investments-llc-reduces-stock-position-in-comcast-corporation-cmcsa-2026-04-01/",
+    "title": "Scharf Investments LLC Reduces Stock Position in Comcast Corporation $CMCSA - MarketBeat",
+    "body": "Scharf Investments LLC Reduces Stock Position in Comcast Corporation $CMCSA MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "CMCSA",
+    "tickers_hint": [
+      "CMCSA"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "CMCSA"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "fd2cc5dd-1bdf-5548-bf45-db55a967dda3",
+    "timestamp_utc": "2026-04-01T13:20:46+00:00",
+    "source": "msn",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHFXMEVTVFRaT0JRaUMwU1FoWng0UGoydnBYTFN5ai1ZOUxjbXFERmxrbGItS3lnSHVVcWNuYnJxSVlxQUM3RjJ6ZTZhNDN0SW5UeklBaW0xZm1DN3RFdW1feE1KZWN6c2p5dDljVjVzV0pkSzhlWEpJd1BYYlVGMVQ4T1ltRlVUaVJUeUdYYWVRajF1c0V5ZjlCWnZlUTEtMGtYQ2JKRi02czYyak9RR1ZvT1YyN3p2TzhRVnhfOWhSWFl2M3BDV0RsWGg?oc=5",
+    "title": "Comcast (CMCSA) stock sinks as market gains: Here's why - MSN",
+    "body": "Comcast (CMCSA) stock sinks as market gains: Here's why MSN",
+    "author": null,
+    "language": "en",
+    "ticker": "CMCSA",
+    "tickers_hint": [
+      "CMCSA"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "msn",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MSN",
+      "source_domain": "msn.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "CMCSA"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

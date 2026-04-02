@@ -1,0 +1,60 @@
+[
+  {
+    "id": "91d299c4-3df6-5644-976e-13128a502cb5",
+    "timestamp_utc": "2026-04-01T08:55:09+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8765345/truist-securities-lowers-price-target-for-charles-schwab-schw-schw-stock-news?mobile=true",
+    "title": "Truist Securities Lowers Price Target for Charles Schwab (SCHW) - GuruFocus",
+    "body": "Truist Securities Lowers Price Target for Charles Schwab (SCHW) GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "SCHW",
+    "tickers_hint": [
+      "SCHW"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "SCHW"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "9406ad02-98b7-5cc6-bf51-dc6c46f63a29",
+    "timestamp_utc": "2026-04-01T04:44:36+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/truist-financial-has-lowered-expectations-for-charles-schwab-nyseschw-stock-price-2026-04-01/",
+    "title": "Truist Financial Has Lowered Expectations for Charles Schwab (NYSE:SCHW) Stock Price - MarketBeat",
+    "body": "Truist Financial Has Lowered Expectations for Charles Schwab (NYSE:SCHW) Stock Price MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "SCHW",
+    "tickers_hint": [
+      "SCHW"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "SCHW"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

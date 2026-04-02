@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "9b3642b0-36b9-5777-9a54-1ec8137592ff",
+      "timestamp_utc": "2026-04-01T10:03:04+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdjRnbWFRSVpuR0pzUzFMTVJLdEt6YUtZQ3RSeUNkNnFiT3I1YTkxWGJON1ZITFh0SHVibDZlcUZoUXJlMzM4Q1pIc2Y2bVlIVkdacGliazQ1bTM5RlBVdkhndjNOTGQ2d1VCU0RqRkZkbURJNFpsTkhpc2RTN1hfUTg4NjdjNDk5cWhVbg?oc=5",
+      "title": "Paramount Skydance Stock (NASDAQ:PSKY) Gains With New SVP - TipRanks",
+      "body": "Paramount Skydance Stock (NASDAQ:PSKY) Gains With New SVP TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "PSKY",
+      "tickers_hint": [
+        "PSKY"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PSKY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "9b3642b0-36b9-5777-9a54-1ec8137592ff",
+      "timestamp_utc": "2026-04-01T10:03:04+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdjRnbWFRSVpuR0pzUzFMTVJLdEt6YUtZQ3RSeUNkNnFiT3I1YTkxWGJON1ZITFh0SHVibDZlcUZoUXJlMzM4Q1pIc2Y2bVlIVkdacGliazQ1bTM5RlBVdkhndjNOTGQ2d1VCU0RqRkZkbURJNFpsTkhpc2RTN1hfUTg4NjdjNDk5cWhVbg?oc=5",
+      "title": "Paramount Skydance Stock (NASDAQ:PSKY) Gains With New SVP - TipRanks",
+      "body": "Paramount Skydance Stock (NASDAQ:PSKY) Gains With New SVP TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "PSKY",
+      "tickers_hint": [
+        "PSKY"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PSKY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

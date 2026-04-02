@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "c4352da5-495e-5960-ab96-9eca7908e91f",
+      "timestamp_utc": "2026-03-31T05:56:15+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8761627/weyerhaeuser-wy-receives-maintained-buy-rating-from-da-davidson-wy-stock-news?mobile=true",
+      "title": "Weyerhaeuser (WY) Receives Maintained Buy Rating from DA Davidso - GuruFocus",
+      "body": "Weyerhaeuser (WY) Receives Maintained Buy Rating from DA Davidso GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "WY",
+      "tickers_hint": [
+        "WY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "WY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "c4352da5-495e-5960-ab96-9eca7908e91f",
+      "timestamp_utc": "2026-03-31T05:56:15+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8761627/weyerhaeuser-wy-receives-maintained-buy-rating-from-da-davidson-wy-stock-news?mobile=true",
+      "title": "Weyerhaeuser (WY) Receives Maintained Buy Rating from DA Davidso - GuruFocus",
+      "body": "Weyerhaeuser (WY) Receives Maintained Buy Rating from DA Davidso GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "WY",
+      "tickers_hint": [
+        "WY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "WY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

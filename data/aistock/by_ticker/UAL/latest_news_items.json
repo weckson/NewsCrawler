@@ -1,0 +1,31 @@
+[
+  {
+    "id": "dbec9662-bcd8-50da-a39f-ac302df77ceb",
+    "timestamp_utc": "2026-04-01T21:10:25+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-allspring-global-investments-holdings-llc-raises-position-in-united-airlines-holdings-inc-ual-2026-04-02/",
+    "title": "Allspring Global Investments Holdings LLC Raises Position in United Airlines Holdings Inc $UAL - MarketBeat",
+    "body": "Allspring Global Investments Holdings LLC Raises Position in United Airlines Holdings Inc $UAL MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "UAL",
+    "tickers_hint": [
+      "UAL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "UAL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

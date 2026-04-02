@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "07d9e7a7-21d4-57b1-80ca-b4959c007e45",
+      "timestamp_utc": "2026-03-31T10:46:52+00:00",
+      "source": "investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbFhjOS12SUJicTExeHlMU0RydFpHYjZkMGgyNlB2TkxVS1prTndSQUthX3pYdjlvRWlFVHcyYzh0el8tSU44RWs1UWJoaGNjMWRubDdFUDcyQ2NsbG9aMEhNOV9PcDVvSHQtQTA5MU5ybDM4TlZob29EdndKWVBzSUloVEI0ZFlNQ25lNjMxTjQ0TkF2ZVItNGVUNUN4S0hwbUpN?oc=5",
+      "title": "DTE Energy stock hits 52-week low at 20.55 USD - investing.com",
+      "body": "DTE Energy stock hits 52-week low at 20.55 USD investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "DTE",
+      "tickers_hint": [
+        "DTE"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "DTE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "07d9e7a7-21d4-57b1-80ca-b4959c007e45",
+      "timestamp_utc": "2026-03-31T10:46:52+00:00",
+      "source": "investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbFhjOS12SUJicTExeHlMU0RydFpHYjZkMGgyNlB2TkxVS1prTndSQUthX3pYdjlvRWlFVHcyYzh0el8tSU44RWs1UWJoaGNjMWRubDdFUDcyQ2NsbG9aMEhNOV9PcDVvSHQtQTA5MU5ybDM4TlZob29EdndKWVBzSUloVEI0ZFlNQ25lNjMxTjQ0TkF2ZVItNGVUNUN4S0hwbUpN?oc=5",
+      "title": "DTE Energy stock hits 52-week low at 20.55 USD - investing.com",
+      "body": "DTE Energy stock hits 52-week low at 20.55 USD investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "DTE",
+      "tickers_hint": [
+        "DTE"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "DTE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

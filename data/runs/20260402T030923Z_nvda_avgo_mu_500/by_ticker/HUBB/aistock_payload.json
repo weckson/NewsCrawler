@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "0e0ae398-b63c-583d-af92-0c6db5e7325c",
+      "timestamp_utc": "2026-04-01T06:53:38+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765569/hubb-wells-fargo-lowers-price-target-but-maintains-overweight-rating-hubb-stock-news",
+      "title": "HUBB: Wells Fargo Lowers Price Target but Maintains Overweight R - GuruFocus",
+      "body": "HUBB: Wells Fargo Lowers Price Target but Maintains Overweight R GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "HUBB",
+      "tickers_hint": [
+        "HUBB"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HUBB"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "0e0ae398-b63c-583d-af92-0c6db5e7325c",
+      "timestamp_utc": "2026-04-01T06:53:38+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765569/hubb-wells-fargo-lowers-price-target-but-maintains-overweight-rating-hubb-stock-news",
+      "title": "HUBB: Wells Fargo Lowers Price Target but Maintains Overweight R - GuruFocus",
+      "body": "HUBB: Wells Fargo Lowers Price Target but Maintains Overweight R GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "HUBB",
+      "tickers_hint": [
+        "HUBB"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HUBB"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

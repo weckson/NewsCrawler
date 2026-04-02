@@ -1,0 +1,31 @@
+[
+  {
+    "id": "2f2c39b1-039b-5b68-9fb0-ba6a707def7d",
+    "timestamp_utc": "2026-04-01T09:16:39+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8765787/barclays-maintains-overweight-rating-on-swk-lowers-price-target-to-95-swk-stock-news",
+    "title": "Barclays Maintains Overweight Rating on SWK, Lowers Price Target to $95 | SWK Stock News - GuruFocus",
+    "body": "Barclays Maintains Overweight Rating on SWK, Lowers Price Target to $95 | SWK Stock News GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "SWK",
+    "tickers_hint": [
+      "SWK"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.7000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "SWK"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

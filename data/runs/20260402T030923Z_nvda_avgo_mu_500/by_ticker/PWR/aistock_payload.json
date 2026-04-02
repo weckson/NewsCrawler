@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "6cd8467c-d82c-5a65-9f04-a8856c33f76e",
+      "timestamp_utc": "2026-04-01T07:52:02+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765659/quanta-services-pwr-receives-price-target-adjustment-from-evercore-isi-group-pwr-stock-news",
+      "title": "Quanta Services (PWR) Receives Price Target Adjustment from Ever - GuruFocus",
+      "body": "Quanta Services (PWR) Receives Price Target Adjustment from Ever GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "PWR",
+      "tickers_hint": [
+        "PWR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "PWR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "6cd8467c-d82c-5a65-9f04-a8856c33f76e",
+      "timestamp_utc": "2026-04-01T07:52:02+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765659/quanta-services-pwr-receives-price-target-adjustment-from-evercore-isi-group-pwr-stock-news",
+      "title": "Quanta Services (PWR) Receives Price Target Adjustment from Ever - GuruFocus",
+      "body": "Quanta Services (PWR) Receives Price Target Adjustment from Ever GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "PWR",
+      "tickers_hint": [
+        "PWR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "PWR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

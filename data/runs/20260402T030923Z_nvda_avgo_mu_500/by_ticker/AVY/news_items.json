@@ -1,0 +1,60 @@
+[
+  {
+    "id": "9dfb4512-e6d3-5069-9c87-461a7ab5b97f",
+    "timestamp_utc": "2026-04-01T07:36:01+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8765559/avy-deutsche-bank-initiates-coverage-with-a-buy-rating-avy-stock-news",
+    "title": "AVY: Deutsche Bank Initiates Coverage with a Buy Rating | AVY St - GuruFocus",
+    "body": "AVY: Deutsche Bank Initiates Coverage with a Buy Rating | AVY St GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "AVY",
+    "tickers_hint": [
+      "AVY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "AVY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "466026f3-947d-5895-851e-29afeafc5d20",
+    "timestamp_utc": "2026-03-31T23:42:14+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-avery-dennison-corporation-avy-shares-purchased-by-retirement-systems-of-alabama-2026-04-01/",
+    "title": "Avery Dennison Corporation $AVY Shares Purchased by Retirement Systems of Alabama - MarketBeat",
+    "body": "Avery Dennison Corporation $AVY Shares Purchased by Retirement Systems of Alabama MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "AVY",
+    "tickers_hint": [
+      "AVY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "AVY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

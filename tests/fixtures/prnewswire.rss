@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>PR Newswire Financial News</title>
+    <link>https://www.prnewswire.com</link>
+    <description>Financial news from PR Newswire</description>
+    <item>
+      <title>Acme Corp Announces Acquisition of Widget Industries for $2.4 Billion</title>
+      <link>https://www.prnewswire.com/news-releases/acme-corp-acquisition-301234567.html</link>
+      <guid>https://www.prnewswire.com/news-releases/acme-corp-acquisition-301234567.html</guid>
+      <pubDate>Thu, 28 Mar 2024 09:00:00 +0000</pubDate>
+      <description>SYDNEY, March 28, 2024 — Acme Corp today announced the acquisition of Widget Industries in a deal valued at $2.4 billion.</description>
+    </item>
+    <item>
+      <title>GlobalBank Reports Full Year 2023 Results; Declares Special Dividend</title>
+      <link>https://www.prnewswire.com/news-releases/globalbank-results-301234568.html?utm_source=test&amp;utm_medium=rss</link>
+      <guid>pr-globalbank-results-2024-301234568</guid>
+      <pubDate>Thu, 28 Mar 2024 10:30:00 +0000</pubDate>
+      <description>GlobalBank today announced its full-year 2023 financial results and declared a special dividend of $0.50 per share.</description>
+    </item>
+  </channel>
+</rss>

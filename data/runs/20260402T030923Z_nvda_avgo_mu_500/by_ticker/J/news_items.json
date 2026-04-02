@@ -1,0 +1,31 @@
+[
+  {
+    "id": "eed0d63d-d81b-526b-9d7f-3d153b72ea07",
+    "timestamp_utc": "2026-03-31T09:17:08+00:00",
+    "source": "stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUDhsc05OUkpOM3ZjdTZoUXRraDFOeUMtU25LWmQ3bG03UGFEMWhkNzF3UjRxaFZwaWUtemIwaTk1Vml1ak5nODRIREVtNkgxVmhtQ3RrVlFUdzVVSndmQlN5Q3A0OEd4eU1BM3dqZC1XZ3FlMTZ5YVFrc211b0Zfby1RNG1HQ29BUHJhNUM4NXBnN1VYOUIxQmg5Smh4eDc4dXc?oc=5",
+    "title": "J. Jill Stock Slumps 26% Today – Why Such A Selloff? - Stocktwits",
+    "body": "J. Jill Stock Slumps 26% Today – Why Such A Selloff? Stocktwits",
+    "author": null,
+    "language": "en",
+    "ticker": "J",
+    "tickers_hint": [
+      "J"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stocktwits",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stocktwits",
+      "source_domain": "stocktwits.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "J"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

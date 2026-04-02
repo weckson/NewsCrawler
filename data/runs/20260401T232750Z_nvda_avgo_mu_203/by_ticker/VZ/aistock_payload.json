@@ -1,0 +1,240 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "96bb658e-bbd9-5857-bde0-3f3e0a2a6e2e",
+      "timestamp_utc": "2026-03-31T05:11:48+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8761624/barclays-maintains-verizon-vz-rating-raises-price-target-to-47-vz-stock-news",
+      "title": "Barclays Maintains Verizon (VZ) Rating, Raises Price Target to $47 | VZ Stock News - GuruFocus",
+      "body": "Barclays Maintains Verizon (VZ) Rating, Raises Price Target to $47 | VZ Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "VZ",
+      "tickers_hint": [
+        "VZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "VZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8047a475-135f-5bed-9aa3-0386b683bdea",
+      "timestamp_utc": "2026-04-01T11:45:51+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/verizon-communications-nysevz-stock-price-down-16-time-to-sell-2026-04-01/",
+      "title": "Verizon Communications (NYSE:VZ) Stock Price Down 1.6% - Time to Sell? - MarketBeat",
+      "body": "Verizon Communications (NYSE:VZ) Stock Price Down 1.6% - Time to Sell? MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "VZ",
+      "tickers_hint": [
+        "VZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "VZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "23f9a7b4-befe-5597-b07c-0b7b12f6e195",
+      "timestamp_utc": "2026-04-01T11:45:05+00:00",
+      "source": "ca.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaVBiOVduN3Zzb1R5eW1JbTRyZ25GMEpvYnk0ZGI4cEIwNjNwaHdxQmN6RUZxczZSNk1BZjJWZ2w1VkZpemlCREtEalJUeHNZbG11dDk2SFI4WUFqTXpxV3kzbVN1NHNnUHp1LWZVY2Vaa0ZYWUpkUnowTmU1dldrTnVqQk84YnplR01TcGVXRmNFcEU?oc=5",
+      "title": "Verizon Communications (VZ) Stock Declines While Market Improves: Some Information for Investors - ca.finance.yahoo.com",
+      "body": "Verizon Communications (VZ) Stock Declines While Market Improves: Some Information for Investors ca.finance.yahoo.com",
+      "author": null,
+      "language": "en",
+      "ticker": "VZ",
+      "tickers_hint": [
+        "VZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "ca.finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "ca.finance.yahoo.com",
+        "source_domain": "cafinanceyahoocom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "VZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "605a1bc5-e50b-57d2-98b9-2f342717cf2c",
+      "timestamp_utc": "2026-03-31T23:37:16+00:00",
+      "source": "ad_hoc_news",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0k4RC1jM25HTk8zb1ZpenJIYWZNUkNsVmtTdGJmdmpDLVNpVjRVREYzZVllWC1CS29Kd184WHZYVVdTOWVyTzNpVmc0V0pJUzctalRQU0RGTDdNT3U1NTRHVDVxSmZkNlRnUVQ5bTYxLTI0X05UT2tuSk9lbXBRMHBLV0I0Y0RudXFDVkV0T2o1cHh2WHF1MXFiSEpBM01NMGRlcFhfcGNUdTNWZ2RmMF92YmxfaTgxSkRmek5R?oc=5",
+      "title": "Volkswagen AG (Vz.) Stock: Strategic Moves in Trucks and Core Auto Resilience Amid Global Shifts - AD HOC NEWS",
+      "body": "Volkswagen AG (Vz.) Stock: Strategic Moves in Trucks and Core Auto Resilience Amid Global Shifts AD HOC NEWS",
+      "author": null,
+      "language": "en",
+      "ticker": "VZ",
+      "tickers_hint": [
+        "VZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "ad hoc news",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "AD HOC NEWS",
+        "source_domain": "adhocnews.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "VZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "96bb658e-bbd9-5857-bde0-3f3e0a2a6e2e",
+      "timestamp_utc": "2026-03-31T05:11:48+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8761624/barclays-maintains-verizon-vz-rating-raises-price-target-to-47-vz-stock-news",
+      "title": "Barclays Maintains Verizon (VZ) Rating, Raises Price Target to $47 | VZ Stock News - GuruFocus",
+      "body": "Barclays Maintains Verizon (VZ) Rating, Raises Price Target to $47 | VZ Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "VZ",
+      "tickers_hint": [
+        "VZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "VZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8047a475-135f-5bed-9aa3-0386b683bdea",
+      "timestamp_utc": "2026-04-01T11:45:51+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/verizon-communications-nysevz-stock-price-down-16-time-to-sell-2026-04-01/",
+      "title": "Verizon Communications (NYSE:VZ) Stock Price Down 1.6% - Time to Sell? - MarketBeat",
+      "body": "Verizon Communications (NYSE:VZ) Stock Price Down 1.6% - Time to Sell? MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "VZ",
+      "tickers_hint": [
+        "VZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "VZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "23f9a7b4-befe-5597-b07c-0b7b12f6e195",
+      "timestamp_utc": "2026-04-01T11:45:05+00:00",
+      "source": "ca.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaVBiOVduN3Zzb1R5eW1JbTRyZ25GMEpvYnk0ZGI4cEIwNjNwaHdxQmN6RUZxczZSNk1BZjJWZ2w1VkZpemlCREtEalJUeHNZbG11dDk2SFI4WUFqTXpxV3kzbVN1NHNnUHp1LWZVY2Vaa0ZYWUpkUnowTmU1dldrTnVqQk84YnplR01TcGVXRmNFcEU?oc=5",
+      "title": "Verizon Communications (VZ) Stock Declines While Market Improves: Some Information for Investors - ca.finance.yahoo.com",
+      "body": "Verizon Communications (VZ) Stock Declines While Market Improves: Some Information for Investors ca.finance.yahoo.com",
+      "author": null,
+      "language": "en",
+      "ticker": "VZ",
+      "tickers_hint": [
+        "VZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "ca.finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "ca.finance.yahoo.com",
+        "source_domain": "cafinanceyahoocom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "VZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "605a1bc5-e50b-57d2-98b9-2f342717cf2c",
+      "timestamp_utc": "2026-03-31T23:37:16+00:00",
+      "source": "ad_hoc_news",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0k4RC1jM25HTk8zb1ZpenJIYWZNUkNsVmtTdGJmdmpDLVNpVjRVREYzZVllWC1CS29Kd184WHZYVVdTOWVyTzNpVmc0V0pJUzctalRQU0RGTDdNT3U1NTRHVDVxSmZkNlRnUVQ5bTYxLTI0X05UT2tuSk9lbXBRMHBLV0I0Y0RudXFDVkV0T2o1cHh2WHF1MXFiSEpBM01NMGRlcFhfcGNUdTNWZ2RmMF92YmxfaTgxSkRmek5R?oc=5",
+      "title": "Volkswagen AG (Vz.) Stock: Strategic Moves in Trucks and Core Auto Resilience Amid Global Shifts - AD HOC NEWS",
+      "body": "Volkswagen AG (Vz.) Stock: Strategic Moves in Trucks and Core Auto Resilience Amid Global Shifts AD HOC NEWS",
+      "author": null,
+      "language": "en",
+      "ticker": "VZ",
+      "tickers_hint": [
+        "VZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "ad hoc news",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "AD HOC NEWS",
+        "source_domain": "adhocnews.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "VZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

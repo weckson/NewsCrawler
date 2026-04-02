@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "945216cf-dc10-5dab-8f53-712b8833e16e",
+      "timestamp_utc": "2026-03-31T09:52:30+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8762285/cintas-ctas-receives-maintained-sell-rating-from-citigroup-as-price-target-lowered-ctas-stock-news?mobile=true",
+      "title": "Cintas (CTAS) Receives Maintained 'Sell' Rating from Citigroup a - GuruFocus",
+      "body": "Cintas (CTAS) Receives Maintained 'Sell' Rating from Citigroup a GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "CTAS",
+      "tickers_hint": [
+        "CTAS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "CTAS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "945216cf-dc10-5dab-8f53-712b8833e16e",
+      "timestamp_utc": "2026-03-31T09:52:30+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8762285/cintas-ctas-receives-maintained-sell-rating-from-citigroup-as-price-target-lowered-ctas-stock-news?mobile=true",
+      "title": "Cintas (CTAS) Receives Maintained 'Sell' Rating from Citigroup a - GuruFocus",
+      "body": "Cintas (CTAS) Receives Maintained 'Sell' Rating from Citigroup a GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "CTAS",
+      "tickers_hint": [
+        "CTAS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "CTAS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

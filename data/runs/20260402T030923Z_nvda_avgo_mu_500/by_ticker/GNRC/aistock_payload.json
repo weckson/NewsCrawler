@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "f451f5f8-731e-5cec-b0d6-4ee0802657a3",
+      "timestamp_utc": "2026-04-01T04:58:03+00:00",
+      "source": "stock_titan",
+      "url": "https://www.stocktitan.net/sec-filings/GNRC/144-generac-holdings-inc-sec-filing-7fedcd038a60.html",
+      "title": "GNRC (NYSE: GNRC) insider sales: 15,000 shares sold across Q1 2026 - Stock Titan",
+      "body": "Generac Hldgs Inc NYSE:GNRC View GNRC Stock Overview → GNRC Rankings #844 Ranked by Market Cap N/A Ranked by Dividends #264 52-Week Gainer #97 YTD Gainer #1377 Monthly Gainer #1646 Ranked by Short %Change GNRC Latest News Mar 18, 2026 Generac Introduces SD1250 & SD1500 Diesel Generators: Smarter Solutions for Mission-Critical Power Applications Mar 11, 2026 Generac Announces Webcast of Upcoming 2026 Investor Day Mar 10, 2026 Generac Recognized for Excellence in Design with 2025 GOOD DESIGN Awards Mar 9, 2026 Generac's Jagdfeld Named to Manufacturers Association Board of Directors Mar 5, 2026 Generac and EPC Power to Deploy Fully Integrated Energy Solutions for Data Center Applications GNRC Latest SEC Filings Mar 26, 2026 [SCHEDULE 13G/A] GENERAC HOLDINGS INC.\n\nAmended Passive Investment Disclosure Mar 25, 2026 [8-K] GENERAC HOLDINGS INC.\n\nReports Material Event Mar 6, 2026 [Form 4] GENERAC HOLDINGS INC.\n\nInsider Trading Activity Mar 5, 2026 [144] GENERAC HOLDINGS INC.\n\nInsider Trading Activity GNRC Stock Data Market Cap 11.46B Float 57.65M Industry Specialty Industrial Machinery Sector Motors & Generators Website Link Country United States City WAUKESHA",
+      "author": null,
+      "language": "en",
+      "ticker": "GNRC",
+      "tickers_hint": [
+        "GNRC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "GNRC"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "f451f5f8-731e-5cec-b0d6-4ee0802657a3",
+      "timestamp_utc": "2026-04-01T04:58:03+00:00",
+      "source": "stock_titan",
+      "url": "https://www.stocktitan.net/sec-filings/GNRC/144-generac-holdings-inc-sec-filing-7fedcd038a60.html",
+      "title": "GNRC (NYSE: GNRC) insider sales: 15,000 shares sold across Q1 2026 - Stock Titan",
+      "body": "Generac Hldgs Inc NYSE:GNRC View GNRC Stock Overview → GNRC Rankings #844 Ranked by Market Cap N/A Ranked by Dividends #264 52-Week Gainer #97 YTD Gainer #1377 Monthly Gainer #1646 Ranked by Short %Change GNRC Latest News Mar 18, 2026 Generac Introduces SD1250 & SD1500 Diesel Generators: Smarter Solutions for Mission-Critical Power Applications Mar 11, 2026 Generac Announces Webcast of Upcoming 2026 Investor Day Mar 10, 2026 Generac Recognized for Excellence in Design with 2025 GOOD DESIGN Awards Mar 9, 2026 Generac's Jagdfeld Named to Manufacturers Association Board of Directors Mar 5, 2026 Generac and EPC Power to Deploy Fully Integrated Energy Solutions for Data Center Applications GNRC Latest SEC Filings Mar 26, 2026 [SCHEDULE 13G/A] GENERAC HOLDINGS INC.\n\nAmended Passive Investment Disclosure Mar 25, 2026 [8-K] GENERAC HOLDINGS INC.\n\nReports Material Event Mar 6, 2026 [Form 4] GENERAC HOLDINGS INC.\n\nInsider Trading Activity Mar 5, 2026 [144] GENERAC HOLDINGS INC.\n\nInsider Trading Activity GNRC Stock Data Market Cap 11.46B Float 57.65M Industry Specialty Industrial Machinery Sector Motors & Generators Website Link Country United States City WAUKESHA",
+      "author": null,
+      "language": "en",
+      "ticker": "GNRC",
+      "tickers_hint": [
+        "GNRC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "GNRC"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

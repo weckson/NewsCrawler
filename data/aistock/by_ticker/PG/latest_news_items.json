@@ -1,0 +1,36 @@
+[
+  {
+    "id": "7bdbec6c-c9f7-5cc6-8689-faefcbccea08",
+    "timestamp_utc": "2026-03-31T23:34:38+00:00",
+    "source": "intellectia_ai",
+    "url": "https://intellectia.ai/en/stock/PSA-PG/news",
+    "title": "PSA-PG Stock News Today | Earnings, Events & Price Alerts - Intellectia AI",
+    "body": "PSA-PG Stock News Today | Earnings, Events & Price Alerts Intellectia AI",
+    "author": null,
+    "language": "en",
+    "ticker": "PG",
+    "tickers_hint": [
+      "PG",
+      "PSA"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "intellectia ai",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Intellectia AI",
+      "source_domain": "intellectiaai.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "PG",
+        "PSA"
+      ],
+      "alt_sources": [
+        "Intellectia AI"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "13e49020-d724-583c-8f8b-fd2ade26d8aa",
+      "timestamp_utc": "2026-03-31T20:40:59+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/amgen-inc-nasdaqamgn-given-average-rating-of-hold-by-analysts-2026-04-01/",
+      "title": "Amgen Inc. (NASDAQ:AMGN) Given Average Rating of \"Hold\" by Analysts - MarketBeat",
+      "body": "Amgen Inc. (NASDAQ:AMGN) Given Average Rating of \"Hold\" by Analysts MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMGN",
+      "tickers_hint": [
+        "AMGN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMGN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a4a501bc-5772-595f-b4b8-1060c092738a",
+      "timestamp_utc": "2026-04-01T00:28:36+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-amgen-inc-amgn-shares-bought-by-moody-lynn-lieberson-llc-2026-04-01/",
+      "title": "Amgen Inc. $AMGN Shares Bought by Moody Lynn & Lieberson LLC - MarketBeat",
+      "body": "Amgen Inc. $AMGN Shares Bought by Moody Lynn & Lieberson LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMGN",
+      "tickers_hint": [
+        "AMGN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMGN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "13e49020-d724-583c-8f8b-fd2ade26d8aa",
+      "timestamp_utc": "2026-03-31T20:40:59+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/amgen-inc-nasdaqamgn-given-average-rating-of-hold-by-analysts-2026-04-01/",
+      "title": "Amgen Inc. (NASDAQ:AMGN) Given Average Rating of \"Hold\" by Analysts - MarketBeat",
+      "body": "Amgen Inc. (NASDAQ:AMGN) Given Average Rating of \"Hold\" by Analysts MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMGN",
+      "tickers_hint": [
+        "AMGN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMGN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a4a501bc-5772-595f-b4b8-1060c092738a",
+      "timestamp_utc": "2026-04-01T00:28:36+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-amgen-inc-amgn-shares-bought-by-moody-lynn-lieberson-llc-2026-04-01/",
+      "title": "Amgen Inc. $AMGN Shares Bought by Moody Lynn & Lieberson LLC - MarketBeat",
+      "body": "Amgen Inc. $AMGN Shares Bought by Moody Lynn & Lieberson LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMGN",
+      "tickers_hint": [
+        "AMGN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMGN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "7e42108b-797a-5d4d-8a5e-090ddb2e6e36",
+      "timestamp_utc": "2026-04-01T03:42:53+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765064/analyst-update-morgan-stanley-lowers-t-rowe-price-group-trow-price-target-trow-stock-news",
+      "title": "Analyst Update: Morgan Stanley Lowers T. Rowe Price Group (TROW) Price Target | TROW Stock News - GuruFocus",
+      "body": "Analyst Update: Morgan Stanley Lowers T. Rowe Price Group (TROW) Price Target | TROW Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "TROW",
+      "tickers_hint": [
+        "TROW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TROW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "7e42108b-797a-5d4d-8a5e-090ddb2e6e36",
+      "timestamp_utc": "2026-04-01T03:42:53+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765064/analyst-update-morgan-stanley-lowers-t-rowe-price-group-trow-price-target-trow-stock-news",
+      "title": "Analyst Update: Morgan Stanley Lowers T. Rowe Price Group (TROW) Price Target | TROW Stock News - GuruFocus",
+      "body": "Analyst Update: Morgan Stanley Lowers T. Rowe Price Group (TROW) Price Target | TROW Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "TROW",
+      "tickers_hint": [
+        "TROW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TROW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

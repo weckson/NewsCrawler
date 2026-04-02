@@ -1,0 +1,188 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "001125ca-91e1-505b-8f14-fde48970eb64",
+      "timestamp_utc": "2026-03-31T10:46:58+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR1g2bS15UXJEcjVad3VkWldMM0I1U3ZpVXFZOGJOb2F4dWxhcDRCTHVRdXFIemstaFJ6QUZ3WEVTR0gzN1YzVmtzR2laNDhxaWltcW41bUczeVpwcmFJcnZtY1FPOE5wc1JYeUR4UEhwdUdMUzNpTkF5V3JtU2JmQV9SQlppTl9iRmEwU0NqTTBHRFc4cXRLYVRxUHVJY2oyQV8zUThsa1NvMkFsemlNZnJxekhJUlFkWVg0REZocUJJTkkyT0xHME1Kd3kwR0E?oc=5",
+      "title": "If You Invested $1000 In Kroger Stock 15 Years Ago, You Would Have This Much Today - Benzinga",
+      "body": "If You Invested $1000 In Kroger Stock 15 Years Ago, You Would Have This Much Today Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "KR",
+      "tickers_hint": [
+        "KR"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KR"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "dd026eed-8afc-5d31-ae0c-0e7a06c6a3d2",
+      "timestamp_utc": "2026-04-01T06:55:37+00:00",
+      "source": "stockstory",
+      "url": "https://stockstory.org/us/stocks/nyse/kr/news/why-up-down/why-kroger-kr-stock-is-trading-lower-today",
+      "title": "Why Kroger (KR) Stock Is Trading Lower Today - StockStory",
+      "body": "Why Kroger (KR) Stock Is Trading Lower Today StockStory",
+      "author": null,
+      "language": "en",
+      "ticker": "KR",
+      "tickers_hint": [
+        "KR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stockstory",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "StockStory",
+        "source_domain": "stockstory.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "KR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "57927998-f3b9-5a48-b306-78186db9b6b0",
+      "timestamp_utc": "2026-03-31T07:00:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbml1bUxUVS1Jc1dOemswUjZkeXdPclJIWkVnVDNETjN2VlpOU1ZHTVFUYnJSWW1taTdxeXFJMnJnOGh6b0xhd2tZV2t4RkJMMXNyWnRqb0ZkS1ZhWmxsYi0ydml3Wm1qZnJXRU53bVRtdHpNSWJlenFBdVp3VGE4WGlwQXZjNEdoTkdwMHp2aUxJN3dVYWxGb0tKUHAwWlJKeE0tTWYtWDBBYXNiUmVuMWktcHQwSThx?oc=5",
+      "title": "Easter dinner and basket staples get cheaper at Kroger this week - Stock Titan",
+      "body": "Easter dinner and basket staples get cheaper at Kroger this week Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "KR",
+      "tickers_hint": [
+        "KR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "001125ca-91e1-505b-8f14-fde48970eb64",
+      "timestamp_utc": "2026-03-31T10:46:58+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR1g2bS15UXJEcjVad3VkWldMM0I1U3ZpVXFZOGJOb2F4dWxhcDRCTHVRdXFIemstaFJ6QUZ3WEVTR0gzN1YzVmtzR2laNDhxaWltcW41bUczeVpwcmFJcnZtY1FPOE5wc1JYeUR4UEhwdUdMUzNpTkF5V3JtU2JmQV9SQlppTl9iRmEwU0NqTTBHRFc4cXRLYVRxUHVJY2oyQV8zUThsa1NvMkFsemlNZnJxekhJUlFkWVg0REZocUJJTkkyT0xHME1Kd3kwR0E?oc=5",
+      "title": "If You Invested $1000 In Kroger Stock 15 Years Ago, You Would Have This Much Today - Benzinga",
+      "body": "If You Invested $1000 In Kroger Stock 15 Years Ago, You Would Have This Much Today Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "KR",
+      "tickers_hint": [
+        "KR"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KR"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "dd026eed-8afc-5d31-ae0c-0e7a06c6a3d2",
+      "timestamp_utc": "2026-04-01T06:55:37+00:00",
+      "source": "stockstory",
+      "url": "https://stockstory.org/us/stocks/nyse/kr/news/why-up-down/why-kroger-kr-stock-is-trading-lower-today",
+      "title": "Why Kroger (KR) Stock Is Trading Lower Today - StockStory",
+      "body": "Why Kroger (KR) Stock Is Trading Lower Today StockStory",
+      "author": null,
+      "language": "en",
+      "ticker": "KR",
+      "tickers_hint": [
+        "KR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stockstory",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "StockStory",
+        "source_domain": "stockstory.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "KR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "57927998-f3b9-5a48-b306-78186db9b6b0",
+      "timestamp_utc": "2026-03-31T07:00:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbml1bUxUVS1Jc1dOemswUjZkeXdPclJIWkVnVDNETjN2VlpOU1ZHTVFUYnJSWW1taTdxeXFJMnJnOGh6b0xhd2tZV2t4RkJMMXNyWnRqb0ZkS1ZhWmxsYi0ydml3Wm1qZnJXRU53bVRtdHpNSWJlenFBdVp3VGE4WGlwQXZjNEdoTkdwMHp2aUxJN3dVYWxGb0tKUHAwWlJKeE0tTWYtWDBBYXNiUmVuMWktcHQwSThx?oc=5",
+      "title": "Easter dinner and basket staples get cheaper at Kroger this week - Stock Titan",
+      "body": "Easter dinner and basket staples get cheaper at Kroger this week Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "KR",
+      "tickers_hint": [
+        "KR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

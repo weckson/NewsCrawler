@@ -1,0 +1,31 @@
+[
+  {
+    "id": "d5d24b6a-6e99-58e8-ba17-bcab82bc60db",
+    "timestamp_utc": "2026-04-01T07:36:12+00:00",
+    "source": "gurufocus",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWjVFQmF0X3hrU24wTXQ1ZUU3MWJmdVNfQzBGWVlodlNCdlZZNjAzZmQ5THNNdGpzZ2NxaTlKd3N1THNReHQ2Y0lFRGhPWmhsNWtHN291VlA0Mkx1eU0yUklIU2xQNXU1dlFEVDZYU3d6S0hmMWxGYzluS0hRamtxQXYwVDdCV0hhcTdMSnZJOGlNTnBYRkd6bElsUEljTGtGRGNNelhIZmYtblZYVEJvdV9RT01qSUk?oc=5",
+    "title": "Deutsche Bank Initiates Coverage on Ball (BALL) with 'Buy' Ratin - GuruFocus",
+    "body": "Deutsche Bank Initiates Coverage on Ball (BALL) with 'Buy' Ratin GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "BALL",
+    "tickers_hint": [
+      "BALL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "BALL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

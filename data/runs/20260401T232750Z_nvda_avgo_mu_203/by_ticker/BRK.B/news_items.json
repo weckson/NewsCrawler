@@ -1,0 +1,89 @@
+[
+  {
+    "id": "32fd2cd3-71d9-585a-b70b-28f700304197",
+    "timestamp_utc": "2026-04-01T03:00:05+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTnhTSDRJNDhWVWRlTHhya09sTHVpbk9nbGFPUTRic1k4b1dwYzZZQVgwM1dVeGNCdF9JeXpFYW9SRUtiY3NrZnBBR1drc21ERUl1Z3FiR2hnNkRLY2lwMDJFUGpHcUNQX3hFYVR2UG1fZWlQaVg0dkRVZG10SmdUbGRKa2ZsX1FjTURwazFlem56OFVPTnlpMG9DdjVxSHkx?oc=5",
+    "title": "Here is What to Know Beyond Why Berkshire Hathaway Inc. (BRK.B) is a Trending Stock - Yahoo Finance",
+    "body": "Here is What to Know Beyond Why Berkshire Hathaway Inc. (BRK.B) is a Trending Stock Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "BRK.B",
+    "tickers_hint": [
+      "BRK.B"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "BRK.B"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "a5f96814-1835-5268-9b12-9be681039fb7",
+    "timestamp_utc": "2026-04-01T03:58:50+00:00",
+    "source": "intellectia_ai",
+    "url": "https://intellectia.ai/en/stock/BRK.B/earnings",
+    "title": "BRK.B Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+    "body": "BRK.B Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+    "author": null,
+    "language": "en",
+    "ticker": "BRK.B",
+    "tickers_hint": [
+      "BRK.B"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "intellectia ai",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Intellectia AI",
+      "source_domain": "intellectiaai.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "BRK.B"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "1752a7de-9d58-5997-ad96-eee0c53b6f7a",
+    "timestamp_utc": "2026-03-31T02:46:00+00:00",
+    "source": "aastocks.com",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkg5RkpFVldjS0tkamJwbnFYNkpfWjNKbEd2aGluY1U2WXB3VDA4czF4OW9SSjc3NWE0ZlU3V3Z2TFg1ZmVXZzZ3QmhGeTFDYmhCNTlBY2FaRVNTMlp2ZE9IYTZNTGIwd3BKZjlabVBBOXNpNjFTX1kwN1BwQTJncg?oc=5",
+    "title": "\"Oracle of Omaha\" Buffett: Still Involved in Berkshire Hathaway (BRK.B) Investment Decisions, Recently Made Small-Scale Purchases - AASTOCKS.com",
+    "body": "\"Oracle of Omaha\" Buffett: Still Involved in Berkshire Hathaway (BRK.B) Investment Decisions, Recently Made Small-Scale Purchases AASTOCKS.com",
+    "author": null,
+    "language": "en",
+    "ticker": "BRK.B",
+    "tickers_hint": [
+      "BRK.B"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "aastocks.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "AASTOCKS.com",
+      "source_domain": "aastockscom.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "BRK.B"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

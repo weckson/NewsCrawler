@@ -1,0 +1,418 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "e7b4d709-2fe9-5d25-80cd-06273c345b6e",
+      "timestamp_utc": "2026-03-31T03:00:00+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/article/4887287-qualcomm-stock-cracks-are-widening-and-broadening-downgrade",
+      "title": "Qualcomm: The Cracks Are Widening And Broadening (Downgrade) (NASDAQ:QCOM) - Seeking Alpha",
+      "body": "AutumnSkyPhotography/iStock Editorial via Getty Images\n\nIt’s hard to imagine the stock of Qualcomm (QCOM) has dropped so hard that it is now firmly in a bear market.\n\nSign up now for a hugely discounted trial to test our service promise!\n\nAnalyst’s Disclosure: I/we have a beneficial long position in the shares of AAPL, NVDA, TSM either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+      "author": null,
+      "language": "en",
+      "ticker": "QCOM",
+      "tickers_hint": [
+        "QCOM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "QCOM"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "bf3e7f87-f215-58e9-b32b-8f624a6ec83f",
+      "timestamp_utc": "2026-04-01T05:32:43+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/news/4571502-sa-analyst-upgrades-downgrades-qcom-rklb-bj-sndk",
+      "title": "SA analyst upgrades/downgrades: QCOM, RKLB, BJ, SNDK - Seeking Alpha",
+      "body": "Rocket Lab (RKLB) and Sandisk (SNDK) have received upgrades as analysts point to improved risk-reward profiles and structural improvements in hardware demand. Meanwhile, Qualcomm (QCOM) faces a downgrade amid smartphone market headwinds, and BJ’s Wholesale Club (",
+      "author": null,
+      "language": "en",
+      "ticker": "QCOM",
+      "tickers_hint": [
+        "QCOM",
+        "SNDK"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "QCOM",
+          "SNDK"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ae1c4e3e-52a8-5f58-a9f0-e4fb7ac9c4f1",
+      "timestamp_utc": "2026-03-30T23:55:08+00:00",
+      "source": "investing.com",
+      "url": "https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-qualcomm-stock-rating-amid-memory-pricing-concerns-93CH-4589602",
+      "title": "Raymond James reiterates Qualcomm stock rating amid memory pricing concerns - Investing.com",
+      "body": "Raymond James reiterates Qualcomm stock rating amid memory pricing concerns Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "QCOM",
+      "tickers_hint": [
+        "QCOM"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "QCOM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "93dc7ea9-4ee5-57e4-a7cc-201c21c059d3",
+      "timestamp_utc": "2026-04-01T03:33:00+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdjBzUlNRVjVfaHlVZzd0UC0ySzI4d2ItYXVyQlZ5djZwYXR0X2xQQTBHbVo2R1hzcEZnWjFpZjJiQ1FPNWUyTjdFVjFZem9zcEJ5bFdjY0EzbTBSdEU4UFp5aHVLbzVHYVNxQXNYRFJKRjRreFhiNVItRTktR19VMHJhbl8xOUxJQ2E4YTNrbWxFcVBfY3B1bHk3THZsdFhLUkE2aFBoU202WTJTb01ndzNnR0phYmltdEE?oc=5",
+      "title": "Qualcomm Declines 25.5% in Past 3 Months: Should Investors Worry? - TradingView",
+      "body": "Qualcomm Declines 25.5% in Past 3 Months: Should Investors Worry? TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "QCOM",
+      "tickers_hint": [
+        "QCOM"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "QCOM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "bbb801f8-7eef-52fe-87b2-c04e8b6c8aee",
+      "timestamp_utc": "2026-04-01T01:13:04+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-highline-wealth-partners-llc-trims-stake-in-qualcomm-incorporated-qcom-2026-04-01/",
+      "title": "Highline Wealth Partners LLC Trims Stake in Qualcomm Incorporated $QCOM - MarketBeat",
+      "body": "Highline Wealth Partners LLC Trims Stake in Qualcomm Incorporated $QCOM MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "QCOM",
+      "tickers_hint": [
+        "QCOM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "QCOM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2bd65d79-4769-5361-930c-dc1ad50b437e",
+      "timestamp_utc": "2026-03-31T04:05:05+00:00",
+      "source": "tipranks.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQl92YU9fdHFSMGV3NHhHaGFGdWJPWTBqTWxuQl9MdjRqNkRpY2hwaF9YM1Q2TjZFRHdzNEFCY3dINzhZVjNZT29jT1NLbnotVEFVWmg1a3doRkNKWDluZlZMR29fb3EtVjhNVlhnckpmcHJyeG1jSFNqZ0loTUFpSWJuS3l5cnRoRUtoZmY4a1BZRWlhVVAtX0JJWQ?oc=5",
+      "title": "Qualcomm Stock Forecast: Trending Hold Amid Mixed Outlook - tipranks.com",
+      "body": "Qualcomm Stock Forecast: Trending Hold Amid Mixed Outlook tipranks.com",
+      "author": null,
+      "language": "en",
+      "ticker": "QCOM",
+      "tickers_hint": [
+        "QCOM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "tipranks.com",
+        "source_domain": "tiprankscom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "QCOM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "00ba9c88-73bf-54a1-88fe-2787e0e96367",
+      "timestamp_utc": "2026-03-31T03:53:50+00:00",
+      "source": "ad_hoc_news",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa1JhRGE4S1IzSml4Qm03WW9Ca2s2VUNicUV5TGdWcWFlTzRyVUYtWld1VnpsZks3OGVpS3BJaC0yZTJhY1FGTWVZRTNXdU1QZ2REai1WX1k4MDc2bUlORDBuS2VuNUJTdWZBRTlYS1JXOFhYU0k5SS1JTmFxRHJZVmdqbWNLaC1ZTGdPY3Fwc0ZNcFVTdGVSbHMycV92QXliVThtSmtwMXhfQ05nOEhmZW9sdVNXd0ZHVlROaFhzRVJ3dmNwNjhiSmxwYw?oc=5",
+      "title": "QUALCOMM Incorporated Stock: Navigating Semiconductor Diversification and Shareholder Returns Amid M - AD HOC NEWS",
+      "body": "QUALCOMM Incorporated Stock: Navigating Semiconductor Diversification and Shareholder Returns Amid M AD HOC NEWS",
+      "author": null,
+      "language": "en",
+      "ticker": "QCOM",
+      "tickers_hint": [
+        "QCOM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "ad hoc news",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "AD HOC NEWS",
+        "source_domain": "adhocnews.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "QCOM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "e7b4d709-2fe9-5d25-80cd-06273c345b6e",
+      "timestamp_utc": "2026-03-31T03:00:00+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/article/4887287-qualcomm-stock-cracks-are-widening-and-broadening-downgrade",
+      "title": "Qualcomm: The Cracks Are Widening And Broadening (Downgrade) (NASDAQ:QCOM) - Seeking Alpha",
+      "body": "AutumnSkyPhotography/iStock Editorial via Getty Images\n\nIt’s hard to imagine the stock of Qualcomm (QCOM) has dropped so hard that it is now firmly in a bear market.\n\nSign up now for a hugely discounted trial to test our service promise!\n\nAnalyst’s Disclosure: I/we have a beneficial long position in the shares of AAPL, NVDA, TSM either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+      "author": null,
+      "language": "en",
+      "ticker": "QCOM",
+      "tickers_hint": [
+        "QCOM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "QCOM"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "bf3e7f87-f215-58e9-b32b-8f624a6ec83f",
+      "timestamp_utc": "2026-04-01T05:32:43+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/news/4571502-sa-analyst-upgrades-downgrades-qcom-rklb-bj-sndk",
+      "title": "SA analyst upgrades/downgrades: QCOM, RKLB, BJ, SNDK - Seeking Alpha",
+      "body": "Rocket Lab (RKLB) and Sandisk (SNDK) have received upgrades as analysts point to improved risk-reward profiles and structural improvements in hardware demand. Meanwhile, Qualcomm (QCOM) faces a downgrade amid smartphone market headwinds, and BJ’s Wholesale Club (",
+      "author": null,
+      "language": "en",
+      "ticker": "QCOM",
+      "tickers_hint": [
+        "QCOM",
+        "SNDK"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "QCOM",
+          "SNDK"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ae1c4e3e-52a8-5f58-a9f0-e4fb7ac9c4f1",
+      "timestamp_utc": "2026-03-30T23:55:08+00:00",
+      "source": "investing.com",
+      "url": "https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-qualcomm-stock-rating-amid-memory-pricing-concerns-93CH-4589602",
+      "title": "Raymond James reiterates Qualcomm stock rating amid memory pricing concerns - Investing.com",
+      "body": "Raymond James reiterates Qualcomm stock rating amid memory pricing concerns Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "QCOM",
+      "tickers_hint": [
+        "QCOM"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "QCOM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "93dc7ea9-4ee5-57e4-a7cc-201c21c059d3",
+      "timestamp_utc": "2026-04-01T03:33:00+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdjBzUlNRVjVfaHlVZzd0UC0ySzI4d2ItYXVyQlZ5djZwYXR0X2xQQTBHbVo2R1hzcEZnWjFpZjJiQ1FPNWUyTjdFVjFZem9zcEJ5bFdjY0EzbTBSdEU4UFp5aHVLbzVHYVNxQXNYRFJKRjRreFhiNVItRTktR19VMHJhbl8xOUxJQ2E4YTNrbWxFcVBfY3B1bHk3THZsdFhLUkE2aFBoU202WTJTb01ndzNnR0phYmltdEE?oc=5",
+      "title": "Qualcomm Declines 25.5% in Past 3 Months: Should Investors Worry? - TradingView",
+      "body": "Qualcomm Declines 25.5% in Past 3 Months: Should Investors Worry? TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "QCOM",
+      "tickers_hint": [
+        "QCOM"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "QCOM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "bbb801f8-7eef-52fe-87b2-c04e8b6c8aee",
+      "timestamp_utc": "2026-04-01T01:13:04+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-highline-wealth-partners-llc-trims-stake-in-qualcomm-incorporated-qcom-2026-04-01/",
+      "title": "Highline Wealth Partners LLC Trims Stake in Qualcomm Incorporated $QCOM - MarketBeat",
+      "body": "Highline Wealth Partners LLC Trims Stake in Qualcomm Incorporated $QCOM MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "QCOM",
+      "tickers_hint": [
+        "QCOM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "QCOM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2bd65d79-4769-5361-930c-dc1ad50b437e",
+      "timestamp_utc": "2026-03-31T04:05:05+00:00",
+      "source": "tipranks.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQl92YU9fdHFSMGV3NHhHaGFGdWJPWTBqTWxuQl9MdjRqNkRpY2hwaF9YM1Q2TjZFRHdzNEFCY3dINzhZVjNZT29jT1NLbnotVEFVWmg1a3doRkNKWDluZlZMR29fb3EtVjhNVlhnckpmcHJyeG1jSFNqZ0loTUFpSWJuS3l5cnRoRUtoZmY4a1BZRWlhVVAtX0JJWQ?oc=5",
+      "title": "Qualcomm Stock Forecast: Trending Hold Amid Mixed Outlook - tipranks.com",
+      "body": "Qualcomm Stock Forecast: Trending Hold Amid Mixed Outlook tipranks.com",
+      "author": null,
+      "language": "en",
+      "ticker": "QCOM",
+      "tickers_hint": [
+        "QCOM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "tipranks.com",
+        "source_domain": "tiprankscom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "QCOM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "00ba9c88-73bf-54a1-88fe-2787e0e96367",
+      "timestamp_utc": "2026-03-31T03:53:50+00:00",
+      "source": "ad_hoc_news",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa1JhRGE4S1IzSml4Qm03WW9Ca2s2VUNicUV5TGdWcWFlTzRyVUYtWld1VnpsZks3OGVpS3BJaC0yZTJhY1FGTWVZRTNXdU1QZ2REai1WX1k4MDc2bUlORDBuS2VuNUJTdWZBRTlYS1JXOFhYU0k5SS1JTmFxRHJZVmdqbWNLaC1ZTGdPY3Fwc0ZNcFVTdGVSbHMycV92QXliVThtSmtwMXhfQ05nOEhmZW9sdVNXd0ZHVlROaFhzRVJ3dmNwNjhiSmxwYw?oc=5",
+      "title": "QUALCOMM Incorporated Stock: Navigating Semiconductor Diversification and Shareholder Returns Amid M - AD HOC NEWS",
+      "body": "QUALCOMM Incorporated Stock: Navigating Semiconductor Diversification and Shareholder Returns Amid M AD HOC NEWS",
+      "author": null,
+      "language": "en",
+      "ticker": "QCOM",
+      "tickers_hint": [
+        "QCOM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "ad hoc news",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "AD HOC NEWS",
+        "source_domain": "adhocnews.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "QCOM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

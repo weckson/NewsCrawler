@@ -1,0 +1,186 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "99aba626-ff25-53f9-8cce-3c7c5f8af885",
+      "timestamp_utc": "2026-04-01T07:27:34+00:00",
+      "source": "ad_hoc_news",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRE1GMnJveUlCVTRSQlFHNERLeDdLMnR0RWp2OFJTcTE4UlBPZTVsdVlBYmZhbkE0bXFadmd2ajBwNVRVeTdETGlNWGpwX01xdUN0bDlKSkt6REhZcnU1dkloeTNiQVNXTGJiTHFZT1F1VndaTUdTd3lNUDk5WmdIQXlQQ0lfNUx6MDB1dGpDbGdjV3NnWlNIRFNzR3FwYldDMEhUb2ZEdzdLOFp6UE5ieFlzNHAyeUh6T1dYMXlTRTQ?oc=5",
+      "title": "EPAM Systems Stock: Engineering Leader in Digital Transformation Faces Evolving Tech Landscape - AD HOC NEWS",
+      "body": "EPAM Systems Stock: Engineering Leader in Digital Transformation Faces Evolving Tech Landscape AD HOC NEWS",
+      "author": null,
+      "language": "en",
+      "ticker": "EPAM",
+      "tickers_hint": [
+        "EPAM",
+        "TECH"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "ad hoc news",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "AD HOC NEWS",
+        "source_domain": "adhocnews.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "EPAM",
+          "TECH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "cd372f4f-8f42-5900-b367-59f313ad63d7",
+      "timestamp_utc": "2026-04-01T10:17:01+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZWlfOEhTNWFNSjBYTXF4Uk1MMTJvTWQ3emduODFmeU85cEpHTFp4REtySDJMYzQ2NDZQbVh5cWZSQkFDV3VURGI3QkhnbTUyTmZCaHdHcE9IbGx3aHRZNjE3SWlGV2FNVWdDb19QVTdKaUZDQ0xKSW45WGNrMXVWeGE1MHNLY2NOQWxKR1lneDVfcTZrT3I4bUkxWE5nZ3UzSzhjLW5EUFNaTGE0TW1N?oc=5",
+      "title": "EPAM (EPAM) SVP Viktar Dvorkin awarded 21,695 restricted stock units - Stock Titan",
+      "body": "EPAM (EPAM) SVP Viktar Dvorkin awarded 21,695 restricted stock units Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "EPAM",
+      "tickers_hint": [
+        "EPAM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "EPAM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "07e41fa8-bbb3-51f4-8da6-4ed8c70505cf",
+      "timestamp_utc": "2026-04-01T10:02:58+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTzJhR0VQbm8wdHZqREFrSWU5M3VWQzg1Njk5X3o1cjl0b2JMcnltSjJqNWVxdlhaM1I0a1lRNlBOS3VNcVcwMjNyUGZmcmNtanhkM0dSdnpfY2lRXzVKamRqMlpDcGRZYndTb2RaTDQ5STdEbU1KaWh3NTVWOXN2MmItUFVfeFIzOWxrOVZWMXY1cGpxVkE1M3hDZG9pVVhTUHEzWVRLUDk?oc=5",
+      "title": "EPAM Systems (NYSE: EPAM) awards $3M RSU retention grant to senior leader - Stock Titan",
+      "body": "EPAM Systems (NYSE: EPAM) awards $3M RSU retention grant to senior leader Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "EPAM",
+      "tickers_hint": [
+        "EPAM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "EPAM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "99aba626-ff25-53f9-8cce-3c7c5f8af885",
+      "timestamp_utc": "2026-04-01T07:27:34+00:00",
+      "source": "ad_hoc_news",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRE1GMnJveUlCVTRSQlFHNERLeDdLMnR0RWp2OFJTcTE4UlBPZTVsdVlBYmZhbkE0bXFadmd2ajBwNVRVeTdETGlNWGpwX01xdUN0bDlKSkt6REhZcnU1dkloeTNiQVNXTGJiTHFZT1F1VndaTUdTd3lNUDk5WmdIQXlQQ0lfNUx6MDB1dGpDbGdjV3NnWlNIRFNzR3FwYldDMEhUb2ZEdzdLOFp6UE5ieFlzNHAyeUh6T1dYMXlTRTQ?oc=5",
+      "title": "EPAM Systems Stock: Engineering Leader in Digital Transformation Faces Evolving Tech Landscape - AD HOC NEWS",
+      "body": "EPAM Systems Stock: Engineering Leader in Digital Transformation Faces Evolving Tech Landscape AD HOC NEWS",
+      "author": null,
+      "language": "en",
+      "ticker": "EPAM",
+      "tickers_hint": [
+        "EPAM",
+        "TECH"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "ad hoc news",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "AD HOC NEWS",
+        "source_domain": "adhocnews.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "EPAM",
+          "TECH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "cd372f4f-8f42-5900-b367-59f313ad63d7",
+      "timestamp_utc": "2026-04-01T10:17:01+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZWlfOEhTNWFNSjBYTXF4Uk1MMTJvTWQ3emduODFmeU85cEpHTFp4REtySDJMYzQ2NDZQbVh5cWZSQkFDV3VURGI3QkhnbTUyTmZCaHdHcE9IbGx3aHRZNjE3SWlGV2FNVWdDb19QVTdKaUZDQ0xKSW45WGNrMXVWeGE1MHNLY2NOQWxKR1lneDVfcTZrT3I4bUkxWE5nZ3UzSzhjLW5EUFNaTGE0TW1N?oc=5",
+      "title": "EPAM (EPAM) SVP Viktar Dvorkin awarded 21,695 restricted stock units - Stock Titan",
+      "body": "EPAM (EPAM) SVP Viktar Dvorkin awarded 21,695 restricted stock units Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "EPAM",
+      "tickers_hint": [
+        "EPAM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "EPAM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "07e41fa8-bbb3-51f4-8da6-4ed8c70505cf",
+      "timestamp_utc": "2026-04-01T10:02:58+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTzJhR0VQbm8wdHZqREFrSWU5M3VWQzg1Njk5X3o1cjl0b2JMcnltSjJqNWVxdlhaM1I0a1lRNlBOS3VNcVcwMjNyUGZmcmNtanhkM0dSdnpfY2lRXzVKamRqMlpDcGRZYndTb2RaTDQ5STdEbU1KaWh3NTVWOXN2MmItUFVfeFIzOWxrOVZWMXY1cGpxVkE1M3hDZG9pVVhTUHEzWVRLUDk?oc=5",
+      "title": "EPAM Systems (NYSE: EPAM) awards $3M RSU retention grant to senior leader - Stock Titan",
+      "body": "EPAM Systems (NYSE: EPAM) awards $3M RSU retention grant to senior leader Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "EPAM",
+      "tickers_hint": [
+        "EPAM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "EPAM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

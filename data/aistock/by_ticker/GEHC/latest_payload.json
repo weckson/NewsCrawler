@@ -1,0 +1,128 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "57ded587-e99f-5e01-ad89-291e09a892bf",
+      "timestamp_utc": "2026-04-01T05:40:03+00:00",
+      "source": "finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZWF3QXhRX1NMZ0NCMGNMcDU4ZXFsdUtrU1hBaE5HZy1xcDVUTUxiUWp2V2s3aGNtT21Ody1icjZucHc5cndwcUlwbnlCcmc2X2MtclJHVHk1aXlCMWdJbm1LUmpKY2R4MF9YV0xvRWFzRUNpM05yTWRBbmY4Z2F6OXZzWTZRcTUzeHlRa0hhaU5Kc3RkWmc4?oc=5",
+      "title": "GEHC or ABT: Which Is the Better Value Stock Right Now? - finance.yahoo.com",
+      "body": "GEHC or ABT: Which Is the Better Value Stock Right Now? finance.yahoo.com",
+      "author": null,
+      "language": "en",
+      "ticker": "ABT",
+      "tickers_hint": [
+        "ABT",
+        "GEHC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "finance.yahoo.com",
+        "source_domain": "financeyahoocom.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ABT",
+          "GEHC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "cff56095-8539-5979-8453-8c8b40004633",
+      "timestamp_utc": "2026-04-01T09:08:02+00:00",
+      "source": "bitget",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05Y3VudVo2bS11aktQbE4yX244R1RkM2xhZjNMYktWSXQ5RHdJd3VlVzQ2YTNaT0xnaW4tZnpkWjJUR1pBSXYxcHFmc250SmJuNi16R2xhWDdweHVnS0RONW5Md9IBY0FVX3lxTE05Y3VudVo2bS11aktQbE4yX244R1RkM2xhZjNMYktWSXQ5RHdJd3VlVzQ2YTNaT0xnaW4tZnpkWjJUR1pBSXYxcHFmc250SmJuNi16R2xhWDdweHVnS0RONW5Mdw?oc=5",
+      "title": "GEHC vs. ABT: Which Stock Offers Greater Value at This Moment? - Bitget",
+      "body": "GEHC vs. ABT: Which Stock Offers Greater Value at This Moment? Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "GEHC",
+      "tickers_hint": [
+        "GEHC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "GEHC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "57ded587-e99f-5e01-ad89-291e09a892bf",
+      "timestamp_utc": "2026-04-01T05:40:03+00:00",
+      "source": "finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZWF3QXhRX1NMZ0NCMGNMcDU4ZXFsdUtrU1hBaE5HZy1xcDVUTUxiUWp2V2s3aGNtT21Ody1icjZucHc5cndwcUlwbnlCcmc2X2MtclJHVHk1aXlCMWdJbm1LUmpKY2R4MF9YV0xvRWFzRUNpM05yTWRBbmY4Z2F6OXZzWTZRcTUzeHlRa0hhaU5Kc3RkWmc4?oc=5",
+      "title": "GEHC or ABT: Which Is the Better Value Stock Right Now? - finance.yahoo.com",
+      "body": "GEHC or ABT: Which Is the Better Value Stock Right Now? finance.yahoo.com",
+      "author": null,
+      "language": "en",
+      "ticker": "ABT",
+      "tickers_hint": [
+        "ABT",
+        "GEHC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "finance.yahoo.com",
+        "source_domain": "financeyahoocom.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ABT",
+          "GEHC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "cff56095-8539-5979-8453-8c8b40004633",
+      "timestamp_utc": "2026-04-01T09:08:02+00:00",
+      "source": "bitget",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05Y3VudVo2bS11aktQbE4yX244R1RkM2xhZjNMYktWSXQ5RHdJd3VlVzQ2YTNaT0xnaW4tZnpkWjJUR1pBSXYxcHFmc250SmJuNi16R2xhWDdweHVnS0RONW5Md9IBY0FVX3lxTE05Y3VudVo2bS11aktQbE4yX244R1RkM2xhZjNMYktWSXQ5RHdJd3VlVzQ2YTNaT0xnaW4tZnpkWjJUR1pBSXYxcHFmc250SmJuNi16R2xhWDdweHVnS0RONW5Mdw?oc=5",
+      "title": "GEHC vs. ABT: Which Stock Offers Greater Value at This Moment? - Bitget",
+      "body": "GEHC vs. ABT: Which Stock Offers Greater Value at This Moment? Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "GEHC",
+      "tickers_hint": [
+        "GEHC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "GEHC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

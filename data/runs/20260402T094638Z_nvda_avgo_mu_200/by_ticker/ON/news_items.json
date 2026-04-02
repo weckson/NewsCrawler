@@ -1,0 +1,60 @@
+[
+  {
+    "id": "e54d9f4c-0032-54a3-a270-213957a1d0f6",
+    "timestamp_utc": "2026-03-31T10:30:00+00:00",
+    "source": "marketwatch",
+    "url": "https://www.marketwatch.com/data-news/on-semiconductor-corp-stock-outperforms-competitors-on-strong-trading-day-4f8b0566-dfe930116705?gaa_at=eafs&gaa_n=AWEtsqdtQO880dtg7_Q29ceIUjUmAg9C1FPy6_je95ijzhBL0xfi075VCQFY&gaa_ts=69ce3f94&gaa_sig=w7od14qWY8_WUqorXYiSwm2WvCAcQrGQtTMqkEypDTz51ohOln8ZevsnzBr-W9KzpI3OvFZnNYEDz2nvaXDf-A%3D%3D",
+    "title": "ON Semiconductor Corp. stock outperforms competitors on strong trading day - MarketWatch",
+    "body": "ON Semiconductor Corp. stock outperforms competitors on strong trading day MarketWatch",
+    "author": null,
+    "language": "en",
+    "ticker": "ON",
+    "tickers_hint": [
+      "ON"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "marketwatch.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketWatch",
+      "source_domain": "marketwatch.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "ON"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "1c6b83e0-ca03-5471-9d77-0927d621a181",
+    "timestamp_utc": "2026-04-01T22:47:27+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-fv-capital-management-llc-purchases-shares-of-278390-on-semiconductor-corporation-on-2026-04-02/",
+    "title": "F&V Capital Management LLC Purchases Shares of 278,390 ON Semiconductor Corporation $ON - MarketBeat",
+    "body": "F&V Capital Management LLC Purchases Shares of 278,390 ON Semiconductor Corporation $ON MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "ON",
+    "tickers_hint": [
+      "ON"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "ON"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

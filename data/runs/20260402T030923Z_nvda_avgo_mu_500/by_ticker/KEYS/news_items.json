@@ -1,0 +1,60 @@
+[
+  {
+    "id": "4ebbedbf-35a7-5048-80f6-d5d3912356d3",
+    "timestamp_utc": "2026-03-31T05:56:15+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8761603/keysight-technologies-keys-receives-new-analyst-coverage-with-hold-rating-keys-stock-news?mobile=true",
+    "title": "Keysight Technologies (KEYS) Receives New Analyst Coverage with Hold Rating | KEYS Stock News - GuruFocus",
+    "body": "Keysight Technologies (KEYS) Receives New Analyst Coverage with Hold Rating | KEYS Stock News GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "KEYS",
+    "tickers_hint": [
+      "KEYS"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.7000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "KEYS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "5f5b805e-c264-59bb-9c23-a079bed6c0bc",
+    "timestamp_utc": "2026-04-01T00:54:57+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUWFncTVZVXp5T1A3YWdweURReE5qV2J1VTJFaUcwT0M1SENEVk40Nk1zMHBQR1Z4dVZobktFbmtzRlZjaDhBXy1MZ2NRQzllcVJpdGJKMWFWR0FfZG5idEF0aFdoSVlVSkEwemNhNkZ3c3I3TzZXRjVFM2g0ZTBVMEwxdWxZbUM0V3NRRHVyTEw2bWlYT0VTMEs1aDJSNHlHbUw4NFRVRmR4d3UwSlYwakVMNjluUFBzMnNN?oc=5",
+    "title": "Keysight (NYSE: KEYS) director sells 870 shares, keeps over 42K - Stock Titan",
+    "body": "Keysight (NYSE: KEYS) director sells 870 shares, keeps over 42K Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "KEYS",
+    "tickers_hint": [
+      "KEYS"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "KEYS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

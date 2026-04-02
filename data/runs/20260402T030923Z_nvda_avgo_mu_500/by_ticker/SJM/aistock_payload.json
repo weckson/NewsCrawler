@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "1c7bce97-6bc3-52a4-b9b6-5424a5c5769e",
+      "timestamp_utc": "2026-03-31T07:43:45+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/sjm-surges-9-but-hostess-weakness-clouds-outlook/ar-AA1Xs969",
+      "title": "SJM surges 9%, but Hostess weakness clouds outlook - MSN",
+      "body": "SJM surges 9%, but Hostess weakness clouds outlook MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "SJM",
+      "tickers_hint": [
+        "SJM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "SJM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "1c7bce97-6bc3-52a4-b9b6-5424a5c5769e",
+      "timestamp_utc": "2026-03-31T07:43:45+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/sjm-surges-9-but-hostess-weakness-clouds-outlook/ar-AA1Xs969",
+      "title": "SJM surges 9%, but Hostess weakness clouds outlook - MSN",
+      "body": "SJM surges 9%, but Hostess weakness clouds outlook MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "SJM",
+      "tickers_hint": [
+        "SJM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "SJM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

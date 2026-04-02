@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "53a3a0b0-6417-5e85-a564-dcd2d7b01b2a",
+      "timestamp_utc": "2026-04-01T04:58:52+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb0FrMkdDak5RNnBaVU13dklWVWJ2V3g5R1FpYUFYS3J1VEFXUGVjNTFETW9xSVA3Snh5VV81OTFQSjVBc2lQYnctd0JqLXcxRkxaNjhzS0ZVc3NZOVoxVk4zS3M4OGRUdF81Ti02cWxwSkg2dUVnZ0tQaXdoYXJ5UEU2aS1PcEhyZENnRkxlaXNDZnRN?oc=5",
+      "title": "Insider sells 5,213 shares at MCO (NYSE: MCO) — multiple January–March 2026 trades - Stock Titan",
+      "body": "Insider sells 5,213 shares at MCO (NYSE: MCO) — multiple January–March 2026 trades Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "MCO",
+      "tickers_hint": [
+        "MCO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6bdaac4d-00c5-54a6-9557-49573e8f9f90",
+      "timestamp_utc": "2026-04-01T06:45:37+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZy01Qjg2TzlLek9KNDJqVUp3ZktEQVd0ZUZ1N0VXYTBnRDgwYmZVRHhnOW9XT3J5Rno2SWFFREhHZTFSSWlUTTF4azhnQnk5RnctZzJpVjlzcUVUcDlONllTSzFRelkwNGRwY0szTUx5YjZqYUF3cUF2QmZZYjVBWEp2NDNNUk5vSEtQOGswT19GTkY1?oc=5",
+      "title": "MCO (NYSE) Form 144: Richard Steele reports sale of 375 shares - Stock Titan",
+      "body": "MCO (NYSE) Form 144: Richard Steele reports sale of 375 shares Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "MCO",
+      "tickers_hint": [
+        "MCO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5246bbef-1e29-5ffc-bb93-3de20835520b",
+      "timestamp_utc": "2026-04-01T03:58:49+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/MCO/earnings",
+      "title": "MCO Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "MCO Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "MCO",
+      "tickers_hint": [
+        "MCO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "53a3a0b0-6417-5e85-a564-dcd2d7b01b2a",
+      "timestamp_utc": "2026-04-01T04:58:52+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb0FrMkdDak5RNnBaVU13dklWVWJ2V3g5R1FpYUFYS3J1VEFXUGVjNTFETW9xSVA3Snh5VV81OTFQSjVBc2lQYnctd0JqLXcxRkxaNjhzS0ZVc3NZOVoxVk4zS3M4OGRUdF81Ti02cWxwSkg2dUVnZ0tQaXdoYXJ5UEU2aS1PcEhyZENnRkxlaXNDZnRN?oc=5",
+      "title": "Insider sells 5,213 shares at MCO (NYSE: MCO) — multiple January–March 2026 trades - Stock Titan",
+      "body": "Insider sells 5,213 shares at MCO (NYSE: MCO) — multiple January–March 2026 trades Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "MCO",
+      "tickers_hint": [
+        "MCO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6bdaac4d-00c5-54a6-9557-49573e8f9f90",
+      "timestamp_utc": "2026-04-01T06:45:37+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZy01Qjg2TzlLek9KNDJqVUp3ZktEQVd0ZUZ1N0VXYTBnRDgwYmZVRHhnOW9XT3J5Rno2SWFFREhHZTFSSWlUTTF4azhnQnk5RnctZzJpVjlzcUVUcDlONllTSzFRelkwNGRwY0szTUx5YjZqYUF3cUF2QmZZYjVBWEp2NDNNUk5vSEtQOGswT19GTkY1?oc=5",
+      "title": "MCO (NYSE) Form 144: Richard Steele reports sale of 375 shares - Stock Titan",
+      "body": "MCO (NYSE) Form 144: Richard Steele reports sale of 375 shares Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "MCO",
+      "tickers_hint": [
+        "MCO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5246bbef-1e29-5ffc-bb93-3de20835520b",
+      "timestamp_utc": "2026-04-01T03:58:49+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/MCO/earnings",
+      "title": "MCO Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "MCO Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "MCO",
+      "tickers_hint": [
+        "MCO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

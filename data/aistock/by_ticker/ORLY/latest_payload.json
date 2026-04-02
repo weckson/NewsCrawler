@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "475142fc-c47a-5ad5-84db-de28162b8b5d",
+      "timestamp_utc": "2026-04-01T16:55:55+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OS1lMR0laVGsxUmpKM2tZYVQ0d3Y0SFFQQmF3SGxicG10VjEtbUJUelBsd3hzWkF6ZDBIZG0tcEQ5dkhmbXBqV3RBVmpyY1lZOGx5TVdxSlJCQ2gxcVcwRUxUbVpLUQ?oc=5",
+      "title": "ORLY SEC Filings - Oreilly Automotive Inc 10-K, 10-Q, 8-K Forms - Stock Titan",
+      "body": "ORLY SEC Filings - Oreilly Automotive Inc 10-K, 10-Q, 8-K Forms Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ORLY",
+      "tickers_hint": [
+        "ORLY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORLY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "475142fc-c47a-5ad5-84db-de28162b8b5d",
+      "timestamp_utc": "2026-04-01T16:55:55+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OS1lMR0laVGsxUmpKM2tZYVQ0d3Y0SFFQQmF3SGxicG10VjEtbUJUelBsd3hzWkF6ZDBIZG0tcEQ5dkhmbXBqV3RBVmpyY1lZOGx5TVdxSlJCQ2gxcVcwRUxUbVpLUQ?oc=5",
+      "title": "ORLY SEC Filings - Oreilly Automotive Inc 10-K, 10-Q, 8-K Forms - Stock Titan",
+      "body": "ORLY SEC Filings - Oreilly Automotive Inc 10-K, 10-Q, 8-K Forms Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ORLY",
+      "tickers_hint": [
+        "ORLY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORLY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "a7129f46-808e-53e4-b257-178e044fadba",
+    "timestamp_utc": "2026-04-01T07:19:56+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8765552/wrb-keefe-bruyette-woods-lowers-price-target-maintains-rating-wrb-stock-news",
+    "title": "WRB: Keefe, Bruyette & Woods Lowers Price Target, Maintains Rati - GuruFocus",
+    "body": "WRB: Keefe, Bruyette & Woods Lowers Price Target, Maintains Rati GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "WRB",
+    "tickers_hint": [
+      "WRB"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "WRB"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

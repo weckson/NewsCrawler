@@ -1,0 +1,31 @@
+[
+  {
+    "id": "fbb00895-4e38-5b64-94df-7ba034b7d0f7",
+    "timestamp_utc": "2026-04-01T08:36:11+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/best-buy-nysebby-given-new-7000-price-target-at-evercore-2026-04-01/",
+    "title": "Best Buy (NYSE:BBY) Given New $70.00 Price Target at Evercore - MarketBeat",
+    "body": "Best Buy (NYSE:BBY) Given New $70.00 Price Target at Evercore MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "BBY",
+    "tickers_hint": [
+      "BBY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "BBY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "115ae0a2-0b48-553a-acaa-8954012e9585",
+    "timestamp_utc": "2026-04-01T06:10:03+00:00",
+    "source": "yahoo_finance_australia",
+    "url": "https://au.finance.yahoo.com/news/goldman-gs-beat-estimates-again-161003884.html",
+    "title": "Will Goldman (GS) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance Australia",
+    "body": "Will Goldman (GS) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance Australia",
+    "author": null,
+    "language": "en",
+    "ticker": "GS",
+    "tickers_hint": [
+      "GS"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo finance australia",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance Australia",
+      "source_domain": "yahoofinanceaustralia.com",
+      "trust_tier": 1,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "GS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

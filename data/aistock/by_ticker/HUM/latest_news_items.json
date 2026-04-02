@@ -1,0 +1,35 @@
+[
+  {
+    "id": "f20531c5-3d07-5d65-b703-7674a1667d0a",
+    "timestamp_utc": "2026-04-01T06:15:41+00:00",
+    "source": "seeking_alpha",
+    "url": "https://seekingalpha.com/news/4570606-healthcare-among-laggards-in-q1-mrna-and-dva-lead-gainers-while-hum-drags",
+    "title": "Healthcare among laggards in Q1; MRNA and DVA lead gainers while HUM drags - Seeking Alpha",
+    "body": "The Health Care Select Sector SPDR Fund (XLV) declined 5.29% in the first quarter of 2026; it slightly underperformed the broader S&P 500 Index, which fell 4.63% over the same period. Market sentiment suffered due to persistent inflation, rising Treasury yields, and",
+    "author": null,
+    "language": "en",
+    "ticker": "DVA",
+    "tickers_hint": [
+      "DVA",
+      "HUM",
+      "MRNA"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "seekingalpha.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Seeking Alpha",
+      "source_domain": "seekingalpha.com",
+      "trust_tier": 3,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "DVA",
+        "HUM",
+        "MRNA"
+      ],
+      "body_kind": "article_text"
+    },
+    "stream_type": "soft"
+  }
+]

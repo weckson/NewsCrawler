@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "7aef5e88-33d3-5aea-8884-d690dc4b286b",
+      "timestamp_utc": "2026-03-31T20:53:34+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/company-announcements/prudential-cancels-385403-shares-after-latest-buyback-transaction",
+      "title": "Prudential Cancels 385,403 Shares After Latest Buyback Transaction - TipRanks",
+      "body": "Prudential Cancels 385,403 Shares After Latest Buyback Transaction TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "PRU",
+      "tickers_hint": [
+        "PRU"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "PRU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "7aef5e88-33d3-5aea-8884-d690dc4b286b",
+      "timestamp_utc": "2026-03-31T20:53:34+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/company-announcements/prudential-cancels-385403-shares-after-latest-buyback-transaction",
+      "title": "Prudential Cancels 385,403 Shares After Latest Buyback Transaction - TipRanks",
+      "body": "Prudential Cancels 385,403 Shares After Latest Buyback Transaction TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "PRU",
+      "tickers_hint": [
+        "PRU"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "PRU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

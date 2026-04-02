@@ -1,0 +1,128 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "3cbc1977-8b96-531e-889c-0c8e2ca29057",
+      "timestamp_utc": "2026-04-01T03:00:03+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNajY0aXNqNm93ZENLdnBseXE1NXFXTER4ZVJPRUV3QXl6UDVTdWxRTGZ6VGNqbDFYTnhaZnJQd1ZoMHlnSWxiS1ZsU0pDZkF4REo1TENKSGdZaG1HYkdkMHY2bWVDcnJNUnp3Wjh3aTU3MWhYSEVOM1NMTkltc1pPaGZMMWt6c1RGTllMaUFvOHduZS1xUFdINUEtQ2xsejdOMmc?oc=5",
+      "title": "Here is What to Know Beyond Why Abbott Laboratories (ABT) is a Trending Stock - Yahoo Finance",
+      "body": "Here is What to Know Beyond Why Abbott Laboratories (ABT) is a Trending Stock Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "ABT",
+      "tickers_hint": [
+        "ABT"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ABT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "589b90dc-84f5-5c42-abdd-5c8f255cd1eb",
+      "timestamp_utc": "2026-04-01T14:05:01+00:00",
+      "source": "qz.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oVmtkQjlXYVZLQllEVGVpXzctd2tiUXUtbzBxQWlOdTRIUmo1VF9aVTBZZmRTaTVIUnUycnRtRnFHZ2FQUjB5ekpQejFDTGdkT2tzbmNnLWNkZDN1Mmo2VHgzdjluZHEyNlRxcDZFMVExYUlFajBF?oc=5",
+      "title": "GEHC or ABT: Which Is the Better Value Stock Right Now? - qz.com",
+      "body": "GEHC or ABT: Which Is the Better Value Stock Right Now? qz.com",
+      "author": null,
+      "language": "en",
+      "ticker": "ABT",
+      "tickers_hint": [
+        "ABT",
+        "GEHC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "qz.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "qz.com",
+        "source_domain": "qzcom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ABT",
+          "GEHC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "3cbc1977-8b96-531e-889c-0c8e2ca29057",
+      "timestamp_utc": "2026-04-01T03:00:03+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNajY0aXNqNm93ZENLdnBseXE1NXFXTER4ZVJPRUV3QXl6UDVTdWxRTGZ6VGNqbDFYTnhaZnJQd1ZoMHlnSWxiS1ZsU0pDZkF4REo1TENKSGdZaG1HYkdkMHY2bWVDcnJNUnp3Wjh3aTU3MWhYSEVOM1NMTkltc1pPaGZMMWt6c1RGTllMaUFvOHduZS1xUFdINUEtQ2xsejdOMmc?oc=5",
+      "title": "Here is What to Know Beyond Why Abbott Laboratories (ABT) is a Trending Stock - Yahoo Finance",
+      "body": "Here is What to Know Beyond Why Abbott Laboratories (ABT) is a Trending Stock Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "ABT",
+      "tickers_hint": [
+        "ABT"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ABT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "589b90dc-84f5-5c42-abdd-5c8f255cd1eb",
+      "timestamp_utc": "2026-04-01T14:05:01+00:00",
+      "source": "qz.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oVmtkQjlXYVZLQllEVGVpXzctd2tiUXUtbzBxQWlOdTRIUmo1VF9aVTBZZmRTaTVIUnUycnRtRnFHZ2FQUjB5ekpQejFDTGdkT2tzbmNnLWNkZDN1Mmo2VHgzdjluZHEyNlRxcDZFMVExYUlFajBF?oc=5",
+      "title": "GEHC or ABT: Which Is the Better Value Stock Right Now? - qz.com",
+      "body": "GEHC or ABT: Which Is the Better Value Stock Right Now? qz.com",
+      "author": null,
+      "language": "en",
+      "ticker": "ABT",
+      "tickers_hint": [
+        "ABT",
+        "GEHC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "qz.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "qz.com",
+        "source_domain": "qzcom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ABT",
+          "GEHC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

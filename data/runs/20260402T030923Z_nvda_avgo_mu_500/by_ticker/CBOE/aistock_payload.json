@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "43c47419-b4a3-552b-8b14-284e3617d8ae",
+      "timestamp_utc": "2026-04-01T16:11:27+00:00",
+      "source": "fakta.co",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HVTd6WU5hb25TN0hBLVcyVGJDZVo0SktyYlZOQkQ2VFk0bTM1T3VYTU51THMzeUMxTVRlRjN1eVNWTjlkd290VXZsNER4OWE3dDF6OE9ENmxKVVctZXo0TXhRczlrZHhE?oc=5",
+      "title": "CNBC Partners with Cboe for Daily Live Market Coverage from Chicago Floor - fakta.co",
+      "body": "CNBC Partners with Cboe for Daily Live Market Coverage from Chicago Floor fakta.co",
+      "author": null,
+      "language": "en",
+      "ticker": "CBOE",
+      "tickers_hint": [
+        "CBOE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "fakta.co",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "fakta.co",
+        "source_domain": "faktaco.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CBOE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b4b856f7-1220-507f-93ee-89ed06edc56a",
+      "timestamp_utc": "2026-03-31T10:41:21+00:00",
+      "source": "ts2.tech",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbFdrWnk0bm1lQ2V3b25OUm5xSFpkNUQ0aWVfa1JmeW5rY2lGY0xQWTN3V2owcGN4dV9PQy1BaWpjRjZDY3lUWllJWjNuLXlEWWZPa05CUGlPRnhRU3pqWnVZMUU4TUhjYVV1dGJ6dU1SNTR4U1hRYTc1VGRjLUR3dWJRdV9BOE5yemlUUDI1Z2VIaExRbDZmQXBOdE1oQTlwNFhXV1ZB?oc=5",
+      "title": "CNBC to Air Daily From Cboe’s Chicago Trading Floor as Options Trading Hits Records - ts2.tech",
+      "body": "CNBC to Air Daily From Cboe’s Chicago Trading Floor as Options Trading Hits Records ts2.tech",
+      "author": null,
+      "language": "en",
+      "ticker": "CBOE",
+      "tickers_hint": [
+        "CBOE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "ts2.tech",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "ts2.tech",
+        "source_domain": "ts2tech.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CBOE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "43c47419-b4a3-552b-8b14-284e3617d8ae",
+      "timestamp_utc": "2026-04-01T16:11:27+00:00",
+      "source": "fakta.co",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HVTd6WU5hb25TN0hBLVcyVGJDZVo0SktyYlZOQkQ2VFk0bTM1T3VYTU51THMzeUMxTVRlRjN1eVNWTjlkd290VXZsNER4OWE3dDF6OE9ENmxKVVctZXo0TXhRczlrZHhE?oc=5",
+      "title": "CNBC Partners with Cboe for Daily Live Market Coverage from Chicago Floor - fakta.co",
+      "body": "CNBC Partners with Cboe for Daily Live Market Coverage from Chicago Floor fakta.co",
+      "author": null,
+      "language": "en",
+      "ticker": "CBOE",
+      "tickers_hint": [
+        "CBOE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "fakta.co",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "fakta.co",
+        "source_domain": "faktaco.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CBOE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b4b856f7-1220-507f-93ee-89ed06edc56a",
+      "timestamp_utc": "2026-03-31T10:41:21+00:00",
+      "source": "ts2.tech",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbFdrWnk0bm1lQ2V3b25OUm5xSFpkNUQ0aWVfa1JmeW5rY2lGY0xQWTN3V2owcGN4dV9PQy1BaWpjRjZDY3lUWllJWjNuLXlEWWZPa05CUGlPRnhRU3pqWnVZMUU4TUhjYVV1dGJ6dU1SNTR4U1hRYTc1VGRjLUR3dWJRdV9BOE5yemlUUDI1Z2VIaExRbDZmQXBOdE1oQTlwNFhXV1ZB?oc=5",
+      "title": "CNBC to Air Daily From Cboe’s Chicago Trading Floor as Options Trading Hits Records - ts2.tech",
+      "body": "CNBC to Air Daily From Cboe’s Chicago Trading Floor as Options Trading Hits Records ts2.tech",
+      "author": null,
+      "language": "en",
+      "ticker": "CBOE",
+      "tickers_hint": [
+        "CBOE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "ts2.tech",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "ts2.tech",
+        "source_domain": "ts2tech.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CBOE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

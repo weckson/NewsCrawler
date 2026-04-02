@@ -1,0 +1,240 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "d97cd3a8-dee2-5eb9-a965-8130a62a300b",
+      "timestamp_utc": "2026-04-01T12:15:03+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMlp4bXI1eUJfQjdLYnphQ0F5elhtNDdTOG5wYjNTalpOR1p2emlyeW9ucVMxeDA1UUNldWk3MXNsQlZGemtMQ2VVeGNadllGeWg4clBLdTZVa0FLYVFqWmdfaml2YkU4RU5pT3RCU3RDLXlxOVBjdDgyWENtRXZxeGprUXhVXzRBRVRKY0p2TXRsNk0wN2c?oc=5",
+      "title": "Phillips 66 (PSX) Stock Dips While Market Gains: Key Facts - Yahoo Finance",
+      "body": "Phillips 66 (PSX) Stock Dips While Market Gains: Key Facts Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "PSX",
+      "tickers_hint": [
+        "PSX"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PSX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "03e2103a-1407-552b-8cba-e386a0bb61ea",
+      "timestamp_utc": "2026-04-01T09:12:20+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/td-cowen-issues-positive-forecast-for-phillips-66-nysepsx-stock-price-2026-04-01/",
+      "title": "TD Cowen Issues Positive Forecast for Phillips 66 (NYSE:PSX) Stock Price - MarketBeat",
+      "body": "TD Cowen Issues Positive Forecast for Phillips 66 (NYSE:PSX) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "PSX",
+      "tickers_hint": [
+        "PSX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "PSX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1e1f17ee-e1cd-5422-a523-50350f039d63",
+      "timestamp_utc": "2026-03-31T05:45:00+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8761330/wells-fargo-raises-price-target-on-phillips-66-psx-to-201-psx-stock-news?mobile=true",
+      "title": "Wells Fargo Raises Price Target on Phillips 66 (PSX) to $201 | P - GuruFocus",
+      "body": "Wells Fargo Raises Price Target on Phillips 66 (PSX) to $201 | P GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "PSX",
+      "tickers_hint": [
+        "PSX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "PSX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "31f272b3-f9a0-53c3-8763-626f2c07fe4a",
+      "timestamp_utc": "2026-03-31T22:19:12+00:00",
+      "source": "bitget",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NS2RZNWI2Sk5OLUcta19IVWVtci1RMERKWWpFbm5WX2NzbHE3YmRhX2l4RDNjLXhSdTlmaWdobWk5OFNkODRYNHJxUmtTN3FFeHRJS1JYYWlUcy1ReEHSAWNBVV95cUxObXYtSzhPbmFRQzRBWUpyVGlCY0FvSjVhR2tkc3dXYmNleGEwMDVIYzNrYUh1b2tBdFRqa3VDdTdFSEk5ZXRKSGVPWkUwNVBRWnNPT0pLUzdCbzh3ZE94WU4xamc?oc=5",
+      "title": "Phillips 66 (PSX) Shares Fall as Broader Market Rises: Important Details - Bitget",
+      "body": "Phillips 66 (PSX) Shares Fall as Broader Market Rises: Important Details Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "PSX",
+      "tickers_hint": [
+        "PSX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PSX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "d97cd3a8-dee2-5eb9-a965-8130a62a300b",
+      "timestamp_utc": "2026-04-01T12:15:03+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMlp4bXI1eUJfQjdLYnphQ0F5elhtNDdTOG5wYjNTalpOR1p2emlyeW9ucVMxeDA1UUNldWk3MXNsQlZGemtMQ2VVeGNadllGeWg4clBLdTZVa0FLYVFqWmdfaml2YkU4RU5pT3RCU3RDLXlxOVBjdDgyWENtRXZxeGprUXhVXzRBRVRKY0p2TXRsNk0wN2c?oc=5",
+      "title": "Phillips 66 (PSX) Stock Dips While Market Gains: Key Facts - Yahoo Finance",
+      "body": "Phillips 66 (PSX) Stock Dips While Market Gains: Key Facts Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "PSX",
+      "tickers_hint": [
+        "PSX"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PSX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "03e2103a-1407-552b-8cba-e386a0bb61ea",
+      "timestamp_utc": "2026-04-01T09:12:20+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/td-cowen-issues-positive-forecast-for-phillips-66-nysepsx-stock-price-2026-04-01/",
+      "title": "TD Cowen Issues Positive Forecast for Phillips 66 (NYSE:PSX) Stock Price - MarketBeat",
+      "body": "TD Cowen Issues Positive Forecast for Phillips 66 (NYSE:PSX) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "PSX",
+      "tickers_hint": [
+        "PSX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "PSX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1e1f17ee-e1cd-5422-a523-50350f039d63",
+      "timestamp_utc": "2026-03-31T05:45:00+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8761330/wells-fargo-raises-price-target-on-phillips-66-psx-to-201-psx-stock-news?mobile=true",
+      "title": "Wells Fargo Raises Price Target on Phillips 66 (PSX) to $201 | P - GuruFocus",
+      "body": "Wells Fargo Raises Price Target on Phillips 66 (PSX) to $201 | P GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "PSX",
+      "tickers_hint": [
+        "PSX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "PSX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "31f272b3-f9a0-53c3-8763-626f2c07fe4a",
+      "timestamp_utc": "2026-03-31T22:19:12+00:00",
+      "source": "bitget",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NS2RZNWI2Sk5OLUcta19IVWVtci1RMERKWWpFbm5WX2NzbHE3YmRhX2l4RDNjLXhSdTlmaWdobWk5OFNkODRYNHJxUmtTN3FFeHRJS1JYYWlUcy1ReEHSAWNBVV95cUxObXYtSzhPbmFRQzRBWUpyVGlCY0FvSjVhR2tkc3dXYmNleGEwMDVIYzNrYUh1b2tBdFRqa3VDdTdFSEk5ZXRKSGVPWkUwNVBRWnNPT0pLUzdCbzh3ZE94WU4xamc?oc=5",
+      "title": "Phillips 66 (PSX) Shares Fall as Broader Market Rises: Important Details - Bitget",
+      "body": "Phillips 66 (PSX) Shares Fall as Broader Market Rises: Important Details Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "PSX",
+      "tickers_hint": [
+        "PSX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PSX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "b403df40-8863-517d-a818-64686edf5872",
+      "timestamp_utc": "2026-04-01T06:10:05+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/newmont-nem-beat-estimates-again-161005841.html",
+      "title": "Will Newmont (NEM) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
+      "body": "Will Newmont (NEM) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "A",
+      "tickers_hint": [
+        "A",
+        "NEM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "A",
+          "NEM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c1bef259-d8e2-50a4-bb88-a6da4a798422",
+      "timestamp_utc": "2026-03-31T22:30:09+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://uk.finance.yahoo.com/news/nemetscheks-etr-nem-earnings-more-083009399.html",
+      "title": "We Like Nemetschek's (ETR:NEM) Earnings For More Than Just Statutory Profit - Yahoo Finance UK",
+      "body": "We Like Nemetschek's (ETR:NEM) Earnings For More Than Just Statutory Profit Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "NEM",
+      "tickers_hint": [
+        "NEM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "NEM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9329b78f-dadf-5d63-82c6-3b247b479164",
+      "timestamp_utc": "2026-04-01T05:30:33+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUkVtbzRUS01fcmhsMDVXUWppMnRpSUxLejJhR0hqd0FOWmJHYjNmX0ZiemhybHRoZ2oycUlibm9xaFMySlp6S0N4WDFwai03MXJEV0ZEWnZlUUM3YUVDWmc0d002ajctcXcxSF85TW4tQTlvRzR1a1R0NjBpNXhpc1dZdHJ6LUVpUVhhMmYzUWJSNzJKRFE?oc=5",
+      "title": "3,000-share insider sale at NEM (NYSE: NEM) reported in Form 144 - Stock Titan",
+      "body": "3,000-share insider sale at NEM (NYSE: NEM) reported in Form 144 Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "NEM",
+      "tickers_hint": [
+        "NEM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "NEM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "b403df40-8863-517d-a818-64686edf5872",
+      "timestamp_utc": "2026-04-01T06:10:05+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/newmont-nem-beat-estimates-again-161005841.html",
+      "title": "Will Newmont (NEM) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
+      "body": "Will Newmont (NEM) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "A",
+      "tickers_hint": [
+        "A",
+        "NEM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "A",
+          "NEM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c1bef259-d8e2-50a4-bb88-a6da4a798422",
+      "timestamp_utc": "2026-03-31T22:30:09+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://uk.finance.yahoo.com/news/nemetscheks-etr-nem-earnings-more-083009399.html",
+      "title": "We Like Nemetschek's (ETR:NEM) Earnings For More Than Just Statutory Profit - Yahoo Finance UK",
+      "body": "We Like Nemetschek's (ETR:NEM) Earnings For More Than Just Statutory Profit Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "NEM",
+      "tickers_hint": [
+        "NEM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "NEM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9329b78f-dadf-5d63-82c6-3b247b479164",
+      "timestamp_utc": "2026-04-01T05:30:33+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUkVtbzRUS01fcmhsMDVXUWppMnRpSUxLejJhR0hqd0FOWmJHYjNmX0ZiemhybHRoZ2oycUlibm9xaFMySlp6S0N4WDFwai03MXJEV0ZEWnZlUUM3YUVDWmc0d002ajctcXcxSF85TW4tQTlvRzR1a1R0NjBpNXhpc1dZdHJ6LUVpUVhhMmYzUWJSNzJKRFE?oc=5",
+      "title": "3,000-share insider sale at NEM (NYSE: NEM) reported in Form 144 - Stock Titan",
+      "body": "3,000-share insider sale at NEM (NYSE: NEM) reported in Form 144 Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "NEM",
+      "tickers_hint": [
+        "NEM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "NEM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

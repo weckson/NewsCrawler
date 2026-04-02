@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "054bfa41-05c2-522f-abfe-1c343d7a8e0c",
+      "timestamp_utc": "2026-04-01T10:09:21+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUppQXRKMlkydXFwamRPcTNWa0tQdUNoUTFPVnV3VUxDNEJVamI4NGVlc0c2Z2hQMjNxQldRbEEtYjVMUDcwVGdyQWlvX0pOLTRmbzZEc1ltWVYxX2I1MW1kbXdwdWtGbkJEV25jSWE1QTVQZ1NOMXNlMlJIaElsT2R5ZEl2eVA1S3p3MDM0bGU?oc=5",
+      "title": "CIEN (NYSE: CIEN) Form 144 shows a 21,383-share sale and scheduled performance/restricted shares - Stock Titan",
+      "body": "CIEN (NYSE: CIEN) Form 144 shows a 21,383-share sale and scheduled performance/restricted shares Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "CIEN",
+      "tickers_hint": [
+        "CIEN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "CIEN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "934a50ac-89fb-5e2e-a7df-38ee1ff4598e",
+      "timestamp_utc": "2026-04-01T10:04:08+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON3padFZVRnJkZVIzbWlvaDRYWHJ5VXlwbS0tdUZtYkY1YTY5RG55QnpEbk9iY3hSaktYdnBNZEhJYVpLcDVaYW5SYkhxdHc2aDN0cjhuWUk4LXZXV1BuSEJIemlicmllOUZyd0VGQjV2djVZcGNIMFpZbll2WDBua1RsaFFQcGllUWctMjZRSGk?oc=5",
+      "title": "Sheela Kosaraju reports Rule 144 sales via Morgan Stanley (NYSE: CIEN) - Stock Titan",
+      "body": "Sheela Kosaraju reports Rule 144 sales via Morgan Stanley (NYSE: CIEN) Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "CIEN",
+      "tickers_hint": [
+        "CIEN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CIEN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "054bfa41-05c2-522f-abfe-1c343d7a8e0c",
+      "timestamp_utc": "2026-04-01T10:09:21+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUppQXRKMlkydXFwamRPcTNWa0tQdUNoUTFPVnV3VUxDNEJVamI4NGVlc0c2Z2hQMjNxQldRbEEtYjVMUDcwVGdyQWlvX0pOLTRmbzZEc1ltWVYxX2I1MW1kbXdwdWtGbkJEV25jSWE1QTVQZ1NOMXNlMlJIaElsT2R5ZEl2eVA1S3p3MDM0bGU?oc=5",
+      "title": "CIEN (NYSE: CIEN) Form 144 shows a 21,383-share sale and scheduled performance/restricted shares - Stock Titan",
+      "body": "CIEN (NYSE: CIEN) Form 144 shows a 21,383-share sale and scheduled performance/restricted shares Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "CIEN",
+      "tickers_hint": [
+        "CIEN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "CIEN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "934a50ac-89fb-5e2e-a7df-38ee1ff4598e",
+      "timestamp_utc": "2026-04-01T10:04:08+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON3padFZVRnJkZVIzbWlvaDRYWHJ5VXlwbS0tdUZtYkY1YTY5RG55QnpEbk9iY3hSaktYdnBNZEhJYVpLcDVaYW5SYkhxdHc2aDN0cjhuWUk4LXZXV1BuSEJIemlicmllOUZyd0VGQjV2djVZcGNIMFpZbll2WDBua1RsaFFQcGllUWctMjZRSGk?oc=5",
+      "title": "Sheela Kosaraju reports Rule 144 sales via Morgan Stanley (NYSE: CIEN) - Stock Titan",
+      "body": "Sheela Kosaraju reports Rule 144 sales via Morgan Stanley (NYSE: CIEN) Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "CIEN",
+      "tickers_hint": [
+        "CIEN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CIEN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

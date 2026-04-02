@@ -1,0 +1,105 @@
+
+============================================================================================
+  2-ticker watchlist NEWS REPORT — Quality Filtered, 2026-04-01 19:33
+============================================================================================
+
+  CRAWL STATS:
+  Channel                      Raw Description
+  ------------------------- ------ ----------------------------------------
+  AMD-IR                        10 Official AMD Investor Relations press releases RSS
+  BZ-via-Google                400 Google News filtered to site:benzinga.com
+  Google-broad                 400 Google News all financial sources
+  TOTAL                        810
+
+  QUALITY PIPELINE:
+    Raw articles:        810
+    After quality filter:   12  (removed 798 junk/irrelevant/dupes)
+    New saved to DB:      12
+    Benzinga articles:     0  (direct Benzinga coverage)
+    Watchlist tickers:     2
+
+  TICKER COVERAGE:
+    NVDA      9
+    AMD       3
+
+  ANTI-SCRAPE STRATEGY:
+    - Benzinga HTML: SKIPPED (Cloudflare JS challenge blocks simple HTTP)
+    - Benzinga RSS:  /feed + /news/feed (no CF, structured XML)
+    - Google->BZ:    site:benzinga.com (Google already crawled, no CF)
+    - Polite crawl:  2s delay, standard UA, no JS execution needed
+
+  ── OTHER SOURCES (12) ──
+
+    1. [low] [03-31 11:30] [rel:0.65] [Google-broad]
+       Advanced Micro Devices (NASDAQ:AMD) Trading Up 3.8% - Still a Buy?
+       Source: MarketBeat
+       > Advanced Micro Devices (NASDAQ:AMD) Trading Up 3.8% - Still a Buy? MarketBeat
+       https://www.marketbeat.com/instant-alerts/advanced-micro-devices-nasdaqamd-trading-up-38-still-a-buy-2026-03-31/
+
+    2. [low] [03-31 16:05] [rel:0.60] [Google-broad]
+       Advanced Micro Devices Stock Maintains Bullish Outlook Amid Global Tensions
+       Source: AD HOC NEWS
+       > Advanced Micro Devices Stock Maintains Bullish Outlook Amid Global Tensions AD HOC NEWS
+       https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmJMTGpnaE8zclRua05XeGU4OE5HNUoteTN6R1dlSngwZ19NSWktOUhBa3pMZ3NqLVQ
+
+    3. [low] [03-31 09:59] [rel:0.60] [Google-broad]
+       Advanced Micro Devices Inc Stock Price Today (NASDAQ: AMD) - AMD Share Price Live Quote
+       Source: INDmoney
+       > Advanced Micro Devices Inc Stock Price Today (NASDAQ: AMD) - AMD Share Price Live Quote INDmoney
+       https://news.google.com/rss/articles/CBMigwFBVV95cUxNWFQwc2dCam5IOVZrRmxIb3RXU3JxQkROeWViVkRoQi10ZFQxYksyMmFJS19nQW1SZDc
+
+    4. [TOP] [03-31 14:37] [rel:0.60] [Google-broad]
+       Nvidia (NVDA) Stock Trades Up, Here Is Why
+       Source: Yahoo Finance
+       > Nvidia (NVDA) Stock Trades Up, Here Is Why Yahoo Finance
+       https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-trades-why-003719723.html
+
+    5. [TOP] [03-31 13:49] [rel:0.60] [Google-broad]
+       Stock Market Today, March 31: Nvidia Rises on $2 Billion Marvell AI Infrastructure Partnership
+       Source: The Motley Fool
+       > Stock Market Today, March 31: Nvidia Rises on $2 Billion Marvell AI Infrastructure Partnership The Motley Fool
+       https://www.fool.com/coverage/stock-market-today/2026/03/31/stock-market-today-march-31-nvidia-rises-on-usd2-billion-mar
+
+    6. [TOP] [03-31 10:22] [rel:0.50] [Google-broad]
+       Why Did Nvidia Stock Pop Today?
+       Source: The Motley Fool
+       > Why Did Nvidia Stock Pop Today? The Motley Fool
+       https://news.google.com/rss/articles/CBMifkFVX3lxTFBXaHMzZWI4QTVLSUdIN2ZXZjRkYl8xX3BLaEt1dEhXd0dNbXVtcjRUckFpMV81WkJQUDh
+
+    7. [OK ] [03-31 22:15] [rel:0.50] [Google-broad]
+       Is It Too Late to Buy Nvidia Stock?
+       Source: The Globe and Mail
+       > Is It Too Late to Buy Nvidia Stock? The Globe and Mail
+       https://news.google.com/rss/articles/CBMivgFBVV95cUxNdXBLQm53VFpuTm0xb0FCWm52b2s3aUEtWDNMN3RmWF9tYy1fQmVLVHRxNHZ5dW1KUTJ
+
+    8. [low] [03-31 21:51] [rel:0.75] [Google-broad]
+       Nvidia (NVDA) Stock: Climbs Almost 6% as $2B Marvell AI Deal Expands Custom Chip Ecosystem
+       Source: CoinCentral
+       > Nvidia (NVDA) Stock: Climbs Almost 6% as $2B Marvell AI Deal Expands Custom Chip Ecosystem CoinCentral
+       https://coincentral.com/nvidia-stock-climbs-6-percent-2b-marvell-ai-deal-custom-chip-ecosystem/
+
+    9. [low] [03-31 21:53] [rel:0.65] [Google-broad]
+       NVIDIA Corporation $NVDA Stock Position Lowered by Evolution Wealth Advisors LLC
+       Source: MarketBeat
+       > NVIDIA Corporation $NVDA Stock Position Lowered by Evolution Wealth Advisors LLC MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-stock-position-lowered-by-evolution-wealth-advi
+
+   10. [low] [03-31 21:53] [rel:0.65] [Google-broad]
+       NVIDIA Corporation $NVDA is Czech National Bank's Largest Position
+       Source: MarketBeat
+       > NVIDIA Corporation $NVDA is Czech National Bank's Largest Position MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-is-czech-national-banks-largest-position-2026-0
+
+   11. [low] [03-31 21:53] [rel:0.65] [Google-broad]
+       Defender Capital LLC. Invests $1.03 Million in NVIDIA Corporation $NVDA
+       Source: MarketBeat
+       > Defender Capital LLC. Invests $1.03 Million in NVIDIA Corporation $NVDA MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-defender-capital-llc-invests-103-million-in-nvidia-corporation-nvda-202
+
+   12. [low] [03-31 21:42] [rel:0.65] [Google-broad]
+       NVIDIA Corporation $NVDA Stake Lifted by Connective Portfolio Management LLC
+       Source: MarketBeat
+       > NVIDIA Corporation $NVDA Stake Lifted by Connective Portfolio Management LLC MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-stake-lifted-by-connective-portfolio-management
+
+============================================================================================

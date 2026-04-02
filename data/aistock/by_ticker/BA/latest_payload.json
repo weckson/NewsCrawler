@@ -1,0 +1,414 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "20bc516d-5e76-57dc-9d3c-8865c6d8df10",
+      "timestamp_utc": "2026-03-31T08:35:32+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/boeing-stock-nyseba-surges-with-new-ghost-bat-team-up",
+      "title": "Boeing Stock (NYSE:BA) Surges with New Ghost Bat Team-Up - TipRanks",
+      "body": "Boeing Stock (NYSE:BA) Surges with New Ghost Bat Team-Up TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "BA",
+      "tickers_hint": [
+        "BA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "BA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "dd5ab02f-f49e-5df2-918b-5b94b7a431e4",
+      "timestamp_utc": "2026-04-01T08:36:58+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/boeing-stock-nyseba-lands-huge-new-missile-deal",
+      "title": "Boeing Stock (NYSE:BA) Lands Huge New Missile Deal - TipRanks",
+      "body": "Boeing Stock (NYSE:BA) Lands Huge New Missile Deal TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "BA",
+      "tickers_hint": [
+        "BA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "BA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1979c75a-f5cd-5543-a63a-ba8e4517a453",
+      "timestamp_utc": "2026-04-01T06:37:35+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765363/wells-fargo-initiates-coverage-on-boeing-ba-sets-price-target-at-250-ba-stock-news",
+      "title": "Wells Fargo Initiates Coverage on Boeing (BA): Sets Price Target at $250 | BA Stock News - GuruFocus",
+      "body": "Wells Fargo Initiates Coverage on Boeing (BA): Sets Price Target at $250 | BA Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "BA",
+      "tickers_hint": [
+        "BA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "BA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "42a73e7a-8d93-5107-b83e-76b9eab4e54d",
+      "timestamp_utc": "2026-04-01T05:37:46+00:00",
+      "source": "mexc",
+      "url": "https://www.mexc.com/news/997623",
+      "title": "Boeing (BA) Stock Surges 5% After a Very Good Week for the Aerospace Giant - MEXC",
+      "body": "Boeing (BA) Stock Surges 5% After a Very Good Week for the Aerospace Giant MEXC",
+      "author": null,
+      "language": "en",
+      "ticker": "BA",
+      "tickers_hint": [
+        "BA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "mexc",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MEXC",
+        "source_domain": "mexc.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "BA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "587130b8-78ab-510b-971d-ea8e4331cf20",
+      "timestamp_utc": "2026-03-31T11:50:46+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/boeing-nyseba-stock-price-up-52-heres-why-2026-03-31/",
+      "title": "Boeing (NYSE:BA) Stock Price Up 5.2% - Here's Why - MarketBeat",
+      "body": "Boeing (NYSE:BA) Stock Price Up 5.2% - Here's Why MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "BA",
+      "tickers_hint": [
+        "BA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "BA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c8121410-ca45-5542-aded-f457b676e2fa",
+      "timestamp_utc": "2026-03-31T14:00:34+00:00",
+      "source": "fxleaders",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbldWakVRYkpGUWxRdVRVNEVZRzhldmNUMmRTbnRCTUJwbFVWWGd0dHYzQm5TNl90TVBSNDR2b1NUMXZnSFpCcEdORDA1RTBLaU1yS19peTJLV0ozLTNjRXB3bVVLVzdFdjhyNmE4VU9peGxjYU1DYk1SRDZSU0E2SVlteXRYTVpISFVsbHY2S0NDal80S2NxMWlwTWl2SUl2cUNvVUhvQUNSclNPaGo4LUY3cEhJU1E2?oc=5",
+      "title": "Boeing BA Stock Climbs Close to $200 as War De-Escalation Boosts Confidence - FXLeaders",
+      "body": "Boeing BA Stock Climbs Close to $200 as War De-Escalation Boosts Confidence FXLeaders",
+      "author": null,
+      "language": "en",
+      "ticker": "BA",
+      "tickers_hint": [
+        "BA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "fxleaders",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "FXLeaders",
+        "source_domain": "fxleaders.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "aeca0680-ae30-5643-a5f3-48d855c76d98",
+      "timestamp_utc": "2026-03-31T11:39:24+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/BA/earnings",
+      "title": "BA Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "BA Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "BA",
+      "tickers_hint": [
+        "BA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "20bc516d-5e76-57dc-9d3c-8865c6d8df10",
+      "timestamp_utc": "2026-03-31T08:35:32+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/boeing-stock-nyseba-surges-with-new-ghost-bat-team-up",
+      "title": "Boeing Stock (NYSE:BA) Surges with New Ghost Bat Team-Up - TipRanks",
+      "body": "Boeing Stock (NYSE:BA) Surges with New Ghost Bat Team-Up TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "BA",
+      "tickers_hint": [
+        "BA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "BA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "dd5ab02f-f49e-5df2-918b-5b94b7a431e4",
+      "timestamp_utc": "2026-04-01T08:36:58+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/boeing-stock-nyseba-lands-huge-new-missile-deal",
+      "title": "Boeing Stock (NYSE:BA) Lands Huge New Missile Deal - TipRanks",
+      "body": "Boeing Stock (NYSE:BA) Lands Huge New Missile Deal TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "BA",
+      "tickers_hint": [
+        "BA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "BA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1979c75a-f5cd-5543-a63a-ba8e4517a453",
+      "timestamp_utc": "2026-04-01T06:37:35+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765363/wells-fargo-initiates-coverage-on-boeing-ba-sets-price-target-at-250-ba-stock-news",
+      "title": "Wells Fargo Initiates Coverage on Boeing (BA): Sets Price Target at $250 | BA Stock News - GuruFocus",
+      "body": "Wells Fargo Initiates Coverage on Boeing (BA): Sets Price Target at $250 | BA Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "BA",
+      "tickers_hint": [
+        "BA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "BA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "42a73e7a-8d93-5107-b83e-76b9eab4e54d",
+      "timestamp_utc": "2026-04-01T05:37:46+00:00",
+      "source": "mexc",
+      "url": "https://www.mexc.com/news/997623",
+      "title": "Boeing (BA) Stock Surges 5% After a Very Good Week for the Aerospace Giant - MEXC",
+      "body": "Boeing (BA) Stock Surges 5% After a Very Good Week for the Aerospace Giant MEXC",
+      "author": null,
+      "language": "en",
+      "ticker": "BA",
+      "tickers_hint": [
+        "BA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "mexc",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MEXC",
+        "source_domain": "mexc.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "BA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "587130b8-78ab-510b-971d-ea8e4331cf20",
+      "timestamp_utc": "2026-03-31T11:50:46+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/boeing-nyseba-stock-price-up-52-heres-why-2026-03-31/",
+      "title": "Boeing (NYSE:BA) Stock Price Up 5.2% - Here's Why - MarketBeat",
+      "body": "Boeing (NYSE:BA) Stock Price Up 5.2% - Here's Why MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "BA",
+      "tickers_hint": [
+        "BA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "BA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c8121410-ca45-5542-aded-f457b676e2fa",
+      "timestamp_utc": "2026-03-31T14:00:34+00:00",
+      "source": "fxleaders",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbldWakVRYkpGUWxRdVRVNEVZRzhldmNUMmRTbnRCTUJwbFVWWGd0dHYzQm5TNl90TVBSNDR2b1NUMXZnSFpCcEdORDA1RTBLaU1yS19peTJLV0ozLTNjRXB3bVVLVzdFdjhyNmE4VU9peGxjYU1DYk1SRDZSU0E2SVlteXRYTVpISFVsbHY2S0NDal80S2NxMWlwTWl2SUl2cUNvVUhvQUNSclNPaGo4LUY3cEhJU1E2?oc=5",
+      "title": "Boeing BA Stock Climbs Close to $200 as War De-Escalation Boosts Confidence - FXLeaders",
+      "body": "Boeing BA Stock Climbs Close to $200 as War De-Escalation Boosts Confidence FXLeaders",
+      "author": null,
+      "language": "en",
+      "ticker": "BA",
+      "tickers_hint": [
+        "BA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "fxleaders",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "FXLeaders",
+        "source_domain": "fxleaders.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "aeca0680-ae30-5643-a5f3-48d855c76d98",
+      "timestamp_utc": "2026-03-31T11:39:24+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/BA/earnings",
+      "title": "BA Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "BA Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "BA",
+      "tickers_hint": [
+        "BA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

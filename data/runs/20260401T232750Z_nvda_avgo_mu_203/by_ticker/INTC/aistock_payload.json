@@ -1,0 +1,762 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "d0ea20e9-54f8-5304-98de-911e7bd0d60e",
+      "timestamp_utc": "2026-04-01T09:02:03+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/plan-to-buy-back-chip-facility-interest-sends-intel-stock-nasdaqintc-racing-up",
+      "title": "Plan to Buy Back Chip Facility Interest Sends Intel Stock (NASDAQ:INTC) Racing Up - TipRanks",
+      "body": "Plan to Buy Back Chip Facility Interest Sends Intel Stock (NASDAQ:INTC) Racing Up TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "810cbced-2d62-5ae3-8201-c43b15e26e62",
+      "timestamp_utc": "2026-03-31T09:05:48+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/intel-stock-nasdaqintc-blasts-up-as-intel-beats-arm-to-the-punch",
+      "title": "Intel Stock (NASDAQ:INTC) Blasts Up as Intel Beats ARM to the Punch - TipRanks",
+      "body": "Intel Stock (NASDAQ:INTC) Blasts Up as Intel Beats ARM to the Punch TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fe92e804-f76f-51da-8314-c1bf2c1a6ea5",
+      "timestamp_utc": "2026-04-01T04:24:24+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-jumps-8-amd-rises-142424490.html",
+      "title": "Intel Jumps 8%, AMD Rises 3%: A $14.2 Billion Fab Deal and AI Momentum Lift the Chip Sector - Yahoo Finance",
+      "body": "Intel Jumps 8%, AMD Rises 3%: A $14.2 Billion Fab Deal and AI Momentum Lift the Chip Sector Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c31eb618-31a5-5a36-84cb-cdfb71f7f25e",
+      "timestamp_utc": "2026-04-01T11:28:14+00:00",
+      "source": "investopedia",
+      "url": "https://www.investopedia.com/intel-leads-chip-stock-rally-wednesday-it-is-paying-usd14-billion-to-buy-back-stake-in-ireland-chip-plant-intc-update-11940370",
+      "title": "Intel Leads Wednesday's Chip Stock Rally. It's Paying $14 Billion To Buy Back a 49% Stake in Its Ireland Chip Plant. - Investopedia",
+      "body": "Intel Leads Wednesday's Chip Stock Rally. It's Paying $14 Billion To Buy Back a 49% Stake in Its Ireland Chip Plant. Investopedia",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "investopedia.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investopedia",
+        "source_domain": "investopedia.com",
+        "trust_tier": 3,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b075dd1b-78ba-5bc0-a1af-af27688d6af3",
+      "timestamp_utc": "2026-04-01T04:52:42+00:00",
+      "source": "cnbc",
+      "url": "https://www.cnbc.com/2026/04/01/intel-stock-ireland-stake-chip-factory.html",
+      "title": "Intel shares jump 9% after buying back Ireland chip fab in sign of renewed strength - CNBC",
+      "body": "Intel shares jump 9% after buying back Ireland chip fab in sign of renewed strength CNBC",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "cnbc.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "CNBC",
+        "source_domain": "cnbc.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e94195fe-b428-5274-ac2e-9d4aa4472d21",
+      "timestamp_utc": "2026-03-31T11:02:00+00:00",
+      "source": "businesswire",
+      "url": "https://www.businesswire.com/news/home/20260331355476/en/Intel-to-Report-First-Quarter-2026-Financial-Results",
+      "title": "Intel to Report First-Quarter 2026 Financial Results - Business Wire",
+      "body": "Intel to Report First-Quarter 2026 Financial Results Business Wire",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "businesswire.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Business Wire",
+        "source_domain": "businesswire.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "17fca475-5e57-5f9d-884c-407ab7bf96b4",
+      "timestamp_utc": "2026-04-01T05:52:30+00:00",
+      "source": "cnbc",
+      "url": "https://www.cnbc.com/2026/04/01/stocks-making-the-biggest-moves-midday-lly-has-pm-intc-mu.html",
+      "title": "Stocks making the biggest moves midday: Eli Lilly, Hasbro, Philip Morris, Intel, Micron & more - CNBC",
+      "body": "Check out the companies making the biggest moves in midday trading: Eli Lilly — The Food and Drug Administration approved Foundayo , the company's once-daily GLP-1 pill to treat obesity.\n\nHasbro — The toymaker fell more than 4% after it disclosed a cybersecurity incident where there was unauthorized access to the company's network.\n\nHasbro has taken certain systems offline and is currently conducting an investigation to discover the full impact of the incident and solve it.\n\nThe company also said it will take on additional measures to protect its business as needed.\n\nPhilip Morris International — The international tobacco firm saw shares dropping more than 5% after Reuters reported the FDA delayed authorization for sales of nicotine pouch products as agency scientists grew concerned about potential risks to new ‌users, including children.\n\nIntel — Shares popped 9% after the semiconductor manufacturer announced it will repurchase a 49% stake in its Ireland Fab 34 joint venture from Apollo Global Management for $14.2 billion.\n\nThe Ireland Fab 34 facility produces chips using Intel's latest process technologies, Intel 3 and Intel 4.\n\nThe move will be funded through a mix of cash on hand and roughly $6.5 billion in new debt.\n\nCal-Maine — The egg producer gained 5.8% following its beat on both the top and bottom lines.\n\nCal-Maine's third-quarter earnings came in at $1.06 per share, beating the 70 cents expected from analysts polled by FactSet.\n\nRevenue was $667 million, versus the $642.5 million consensus estimate.\n\nMemory stocks — Investors' favorite group in 2026 continued their rebound on Wednesday after a hefty sell-off that lasted through Monday trading.\n\nA number of Wall Street firms issued fresh notes on the group.\n\nSeagate Technology gained more than 8% and Lam Research jumped nearly 5%.\n\nMicron added 10% as Cantor Fitzgerald touted the stock as a top pick.\n\nNike — The athletic apparel stock slumped 14% after its North American revenue came in at $5.03 billion, while analysts surveyed by LSEG had expected $5.04 billion.\n\nHowever, Nike posted fiscal third-quarter earnings of 35 cents per share and $11.28 billion in revenue.\n\nThat exceeded the expected earnings of 28 cents per share and the anticipated $11.24 billion in revenue.\n\nThe stock also was pressured by downgrades from JPMorgan, Bank of America and Goldman Sachs.\n\nDave & Buster's Entertainment — Shares rose 20% after management said the company expects an increase in same-store sales, revenue and adjusted earnings before interest, taxes, depreciation and amortization during 2026.\n\nDave & Buster's posted a fourth-quarter adjusted loss of 35 cents per share and revenue of $529.6 million.\n\nAnalysts polled by FactSet had expected a profit of 39 cents per share and $555.9 million in revenue.\n\nPVH — The clothing company, which owns brands Tommy Hilfiger and Calvin Klein, added 9% after posting fourth-quarter adjusted earnings of $3.82 per share and revenue of $2.51 billion.\n\nAnalysts had expected earnings of $3.31 per share and $2.43 billion in revenue, according to FactSet.\n\nRH said it sees full-year revenue growth ranging from 4% to 8%, missing the Street's estimate of 8.8%.\n\nFourth-quarter adjusted earnings came in at $1.53 per share and revenue was $843 million.\n\nThe LSEG consensus forecast had called for earnings of $2.22 per share and revenue of $873 million.\n\nNCino — Shares surged 12% after the cloud-based software company reported first-quarter revenue guidance of $154.5 million to $156.4 million, topping the FactSet consensus of $152.7 million.\n\nFourth-quarter revenue also surpassed expectations, landing at $149.7 million, versus the $147.9 million analysts had anticipated.\n\nOil stocks — Energy companies came under pressure as Western Texas Intermediate Crude futures once again fell below $100 on renewed investor hopes that an end to the Iran war is near.\n\nConocoPhillips and EOG Resources both fell more than 3%, while Occidental Petroleum declined over 4%.\n\nNewmont — The gold miner jumped 6% as gold prices rebounded to start April after its worst month since 2013.\n\nGold was up more than 2%, and earlier in the session traded at levels it hadn't hit since March 20.\n\nAres Management — Shares fell 1% after the company revised down its first-quarter net performance income guidance on Tuesday.\n\nAres expects that figure to be around $75 million instead of the previously forecasted $100 million.\n\n— CNBC's Christina Cheddar Berk, Michelle Fox, and Yun Li contributed to this report.",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "cnbc.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "CNBC",
+        "source_domain": "cnbc.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ce0c058f-c24c-57fd-b0a1-38cffd5b6d14",
+      "timestamp_utc": "2026-04-01T04:50:00+00:00",
+      "source": "stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/intc-stock-gains-intel-strikes-14-2b-deal-apollo-ai-ambitions/cZ7HVePRInC",
+      "title": "INTC Stock Gains As Intel Strikes A Massive $14.2B Deal To Fuel Its AI Ambitions - Stocktwits",
+      "body": "INTC Stock Gains As Intel Strikes A Massive $14.2B Deal To Fuel Its AI Ambitions Stocktwits",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktwits",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stocktwits",
+        "source_domain": "stocktwits.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "4f2d3d36-7310-5425-b5b9-dfe4fc113745",
+      "timestamp_utc": "2026-04-01T03:50:35+00:00",
+      "source": "coincentral.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbmMyZlRub2VxZmQwMmxYcWhSZkFpYUp6UHRISktaT2dZVHdEYXBxLWVKQ3NlY2VOVzIxNzdrcnFIbGszeUliUkpveUx4eURDY2RibTM3NUVHYWg3NXNVRDg1LXpaQzh2R2ZYOWVZak9HRWdTZjFOdDEtUy1BUEk4YkJZb0psMUE5eXYxbUVwZkdiNVppSkduNThsSlNiUVI5MHpTTWxFVTlYVkp4dWZaaWtR?oc=5",
+      "title": "Intel (INTC) Stock Rises 6% as Company Buys Back Ireland Chip Plant Stake for $14.2 Billion - coincentral.com",
+      "body": "Intel (INTC) Stock Rises 6% as Company Buys Back Ireland Chip Plant Stake for $14.2 Billion coincentral.com",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "coincentral.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "coincentral.com",
+        "source_domain": "coincentralcom.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "eb8c297a-2b25-5710-8886-0e2b71fef2c1",
+      "timestamp_utc": "2026-04-01T01:13:07+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSjBqTkRzSTBQbVhQWkY0RTVsUktzV2VpTGswQlRtM0pVZG1ubEUwWVplaXNlSzZEZHhsaVYyaEdtWC1yMjJiOXpGSTlWZkx3OTMxSlZRS1lOQ3dHQ3dxcDNkZ0U5cGcxOGVibW4zMWpaamJJYnZ6UmNyTzJISkdQOEFnUHdQT09YNHdJQXdneTE5Z0h0X1o0TWJselhYXzU2VEpnTE1IVGdhVUxyX3lKWklYZF94ckdXU3JwN2FUajRxdFNsS1BOMzVnTmNNSlE?oc=5",
+      "title": "51,063 Shares in Intel Corporation $INTC Bought by Three Seasons Wealth LLC - MarketBeat",
+      "body": "51,063 Shares in Intel Corporation $INTC Bought by Three Seasons Wealth LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a2b50219-d65c-5a9f-83fd-cb7282d0f5dd",
+      "timestamp_utc": "2026-04-01T07:30:02+00:00",
+      "source": "barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWpoeHcyYVB2dml0V2VMSnZKSDE1MUh3RGczU0UxSVFRV2dxd0RCVktESFR4SXJIaXJZZlZLNktKLTI3UVN4NzcwZVZpV20wNmgzT29SZHFpb2VnbS1yTXY2Zm1CY0w5dHRaUlJoa1FsSmVjYVJwekpsRGNPZGlmQkVoN1RncUQyaDhBUTBMb0gwaHJJNWpYR0dQSE5HRmVLajVZd2UxZG1fN2FC?oc=5",
+      "title": "Intel Has Unusual Put Option Volume - Signals Upside in INTC Stock - barchart.com",
+      "body": "Intel Has Unusual Put Option Volume - Signals Upside in INTC Stock barchart.com",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "barchart.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "barchart.com",
+        "source_domain": "barchartcom.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ace65af8-a908-584e-8c4b-c2b2a5855f10",
+      "timestamp_utc": "2026-03-31T23:46:14+00:00",
+      "source": "techi.com",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE80Njk3YVBRbUJTajNYTFp4a2NqZ28tVFBnUTFvN3VEeS1IeWZPTHJGSU81QUhILV9Zd01BbWt2OEZHZjQ3eDhZMkZ3?oc=5",
+      "title": "Intel Stock (INTC): Complete Analysis, Foundry Update & Forecast 2026 - techi.com",
+      "body": "Intel Stock (INTC): Complete Analysis, Foundry Update & Forecast 2026 techi.com",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "techi.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "techi.com",
+        "source_domain": "techicom.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "bca77f41-b92a-509f-a00f-8c728d38b41f",
+      "timestamp_utc": "2026-03-31T11:02:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSjVTcFlDdjBGTGc1Wkh3OVFqN3hKYnNqY0dJSWwyQUpFZDVRVExpN2VPZC0wMXJDSEpsdzlCYXFkNzNqZEVFVDFlbm1pc01aVFF5a0hCR01iSGdZWHBMbG5GQVhPT0RhZEZFMHdlTTdiZE00Q2N6ZmEyVGdBS1Z5aWxGekJEaklVN1B0c2VmSHVzQ3ZkUXpDQ3FOMmU4VTM2?oc=5",
+      "title": "Intel sets April 23 earnings report, webcast after market close - Stock Titan",
+      "body": "Intel sets April 23 earnings report, webcast after market close Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "d0ea20e9-54f8-5304-98de-911e7bd0d60e",
+      "timestamp_utc": "2026-04-01T09:02:03+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/plan-to-buy-back-chip-facility-interest-sends-intel-stock-nasdaqintc-racing-up",
+      "title": "Plan to Buy Back Chip Facility Interest Sends Intel Stock (NASDAQ:INTC) Racing Up - TipRanks",
+      "body": "Plan to Buy Back Chip Facility Interest Sends Intel Stock (NASDAQ:INTC) Racing Up TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "810cbced-2d62-5ae3-8201-c43b15e26e62",
+      "timestamp_utc": "2026-03-31T09:05:48+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/intel-stock-nasdaqintc-blasts-up-as-intel-beats-arm-to-the-punch",
+      "title": "Intel Stock (NASDAQ:INTC) Blasts Up as Intel Beats ARM to the Punch - TipRanks",
+      "body": "Intel Stock (NASDAQ:INTC) Blasts Up as Intel Beats ARM to the Punch TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fe92e804-f76f-51da-8314-c1bf2c1a6ea5",
+      "timestamp_utc": "2026-04-01T04:24:24+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-jumps-8-amd-rises-142424490.html",
+      "title": "Intel Jumps 8%, AMD Rises 3%: A $14.2 Billion Fab Deal and AI Momentum Lift the Chip Sector - Yahoo Finance",
+      "body": "Intel Jumps 8%, AMD Rises 3%: A $14.2 Billion Fab Deal and AI Momentum Lift the Chip Sector Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c31eb618-31a5-5a36-84cb-cdfb71f7f25e",
+      "timestamp_utc": "2026-04-01T11:28:14+00:00",
+      "source": "investopedia",
+      "url": "https://www.investopedia.com/intel-leads-chip-stock-rally-wednesday-it-is-paying-usd14-billion-to-buy-back-stake-in-ireland-chip-plant-intc-update-11940370",
+      "title": "Intel Leads Wednesday's Chip Stock Rally. It's Paying $14 Billion To Buy Back a 49% Stake in Its Ireland Chip Plant. - Investopedia",
+      "body": "Intel Leads Wednesday's Chip Stock Rally. It's Paying $14 Billion To Buy Back a 49% Stake in Its Ireland Chip Plant. Investopedia",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "investopedia.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investopedia",
+        "source_domain": "investopedia.com",
+        "trust_tier": 3,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b075dd1b-78ba-5bc0-a1af-af27688d6af3",
+      "timestamp_utc": "2026-04-01T04:52:42+00:00",
+      "source": "cnbc",
+      "url": "https://www.cnbc.com/2026/04/01/intel-stock-ireland-stake-chip-factory.html",
+      "title": "Intel shares jump 9% after buying back Ireland chip fab in sign of renewed strength - CNBC",
+      "body": "Intel shares jump 9% after buying back Ireland chip fab in sign of renewed strength CNBC",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "cnbc.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "CNBC",
+        "source_domain": "cnbc.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e94195fe-b428-5274-ac2e-9d4aa4472d21",
+      "timestamp_utc": "2026-03-31T11:02:00+00:00",
+      "source": "businesswire",
+      "url": "https://www.businesswire.com/news/home/20260331355476/en/Intel-to-Report-First-Quarter-2026-Financial-Results",
+      "title": "Intel to Report First-Quarter 2026 Financial Results - Business Wire",
+      "body": "Intel to Report First-Quarter 2026 Financial Results Business Wire",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "businesswire.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Business Wire",
+        "source_domain": "businesswire.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "17fca475-5e57-5f9d-884c-407ab7bf96b4",
+      "timestamp_utc": "2026-04-01T05:52:30+00:00",
+      "source": "cnbc",
+      "url": "https://www.cnbc.com/2026/04/01/stocks-making-the-biggest-moves-midday-lly-has-pm-intc-mu.html",
+      "title": "Stocks making the biggest moves midday: Eli Lilly, Hasbro, Philip Morris, Intel, Micron & more - CNBC",
+      "body": "Check out the companies making the biggest moves in midday trading: Eli Lilly — The Food and Drug Administration approved Foundayo , the company's once-daily GLP-1 pill to treat obesity.\n\nHasbro — The toymaker fell more than 4% after it disclosed a cybersecurity incident where there was unauthorized access to the company's network.\n\nHasbro has taken certain systems offline and is currently conducting an investigation to discover the full impact of the incident and solve it.\n\nThe company also said it will take on additional measures to protect its business as needed.\n\nPhilip Morris International — The international tobacco firm saw shares dropping more than 5% after Reuters reported the FDA delayed authorization for sales of nicotine pouch products as agency scientists grew concerned about potential risks to new ‌users, including children.\n\nIntel — Shares popped 9% after the semiconductor manufacturer announced it will repurchase a 49% stake in its Ireland Fab 34 joint venture from Apollo Global Management for $14.2 billion.\n\nThe Ireland Fab 34 facility produces chips using Intel's latest process technologies, Intel 3 and Intel 4.\n\nThe move will be funded through a mix of cash on hand and roughly $6.5 billion in new debt.\n\nCal-Maine — The egg producer gained 5.8% following its beat on both the top and bottom lines.\n\nCal-Maine's third-quarter earnings came in at $1.06 per share, beating the 70 cents expected from analysts polled by FactSet.\n\nRevenue was $667 million, versus the $642.5 million consensus estimate.\n\nMemory stocks — Investors' favorite group in 2026 continued their rebound on Wednesday after a hefty sell-off that lasted through Monday trading.\n\nA number of Wall Street firms issued fresh notes on the group.\n\nSeagate Technology gained more than 8% and Lam Research jumped nearly 5%.\n\nMicron added 10% as Cantor Fitzgerald touted the stock as a top pick.\n\nNike — The athletic apparel stock slumped 14% after its North American revenue came in at $5.03 billion, while analysts surveyed by LSEG had expected $5.04 billion.\n\nHowever, Nike posted fiscal third-quarter earnings of 35 cents per share and $11.28 billion in revenue.\n\nThat exceeded the expected earnings of 28 cents per share and the anticipated $11.24 billion in revenue.\n\nThe stock also was pressured by downgrades from JPMorgan, Bank of America and Goldman Sachs.\n\nDave & Buster's Entertainment — Shares rose 20% after management said the company expects an increase in same-store sales, revenue and adjusted earnings before interest, taxes, depreciation and amortization during 2026.\n\nDave & Buster's posted a fourth-quarter adjusted loss of 35 cents per share and revenue of $529.6 million.\n\nAnalysts polled by FactSet had expected a profit of 39 cents per share and $555.9 million in revenue.\n\nPVH — The clothing company, which owns brands Tommy Hilfiger and Calvin Klein, added 9% after posting fourth-quarter adjusted earnings of $3.82 per share and revenue of $2.51 billion.\n\nAnalysts had expected earnings of $3.31 per share and $2.43 billion in revenue, according to FactSet.\n\nRH said it sees full-year revenue growth ranging from 4% to 8%, missing the Street's estimate of 8.8%.\n\nFourth-quarter adjusted earnings came in at $1.53 per share and revenue was $843 million.\n\nThe LSEG consensus forecast had called for earnings of $2.22 per share and revenue of $873 million.\n\nNCino — Shares surged 12% after the cloud-based software company reported first-quarter revenue guidance of $154.5 million to $156.4 million, topping the FactSet consensus of $152.7 million.\n\nFourth-quarter revenue also surpassed expectations, landing at $149.7 million, versus the $147.9 million analysts had anticipated.\n\nOil stocks — Energy companies came under pressure as Western Texas Intermediate Crude futures once again fell below $100 on renewed investor hopes that an end to the Iran war is near.\n\nConocoPhillips and EOG Resources both fell more than 3%, while Occidental Petroleum declined over 4%.\n\nNewmont — The gold miner jumped 6% as gold prices rebounded to start April after its worst month since 2013.\n\nGold was up more than 2%, and earlier in the session traded at levels it hadn't hit since March 20.\n\nAres Management — Shares fell 1% after the company revised down its first-quarter net performance income guidance on Tuesday.\n\nAres expects that figure to be around $75 million instead of the previously forecasted $100 million.\n\n— CNBC's Christina Cheddar Berk, Michelle Fox, and Yun Li contributed to this report.",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "cnbc.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "CNBC",
+        "source_domain": "cnbc.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ce0c058f-c24c-57fd-b0a1-38cffd5b6d14",
+      "timestamp_utc": "2026-04-01T04:50:00+00:00",
+      "source": "stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/intc-stock-gains-intel-strikes-14-2b-deal-apollo-ai-ambitions/cZ7HVePRInC",
+      "title": "INTC Stock Gains As Intel Strikes A Massive $14.2B Deal To Fuel Its AI Ambitions - Stocktwits",
+      "body": "INTC Stock Gains As Intel Strikes A Massive $14.2B Deal To Fuel Its AI Ambitions Stocktwits",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktwits",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stocktwits",
+        "source_domain": "stocktwits.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "4f2d3d36-7310-5425-b5b9-dfe4fc113745",
+      "timestamp_utc": "2026-04-01T03:50:35+00:00",
+      "source": "coincentral.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbmMyZlRub2VxZmQwMmxYcWhSZkFpYUp6UHRISktaT2dZVHdEYXBxLWVKQ3NlY2VOVzIxNzdrcnFIbGszeUliUkpveUx4eURDY2RibTM3NUVHYWg3NXNVRDg1LXpaQzh2R2ZYOWVZak9HRWdTZjFOdDEtUy1BUEk4YkJZb0psMUE5eXYxbUVwZkdiNVppSkduNThsSlNiUVI5MHpTTWxFVTlYVkp4dWZaaWtR?oc=5",
+      "title": "Intel (INTC) Stock Rises 6% as Company Buys Back Ireland Chip Plant Stake for $14.2 Billion - coincentral.com",
+      "body": "Intel (INTC) Stock Rises 6% as Company Buys Back Ireland Chip Plant Stake for $14.2 Billion coincentral.com",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "coincentral.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "coincentral.com",
+        "source_domain": "coincentralcom.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "eb8c297a-2b25-5710-8886-0e2b71fef2c1",
+      "timestamp_utc": "2026-04-01T01:13:07+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSjBqTkRzSTBQbVhQWkY0RTVsUktzV2VpTGswQlRtM0pVZG1ubEUwWVplaXNlSzZEZHhsaVYyaEdtWC1yMjJiOXpGSTlWZkx3OTMxSlZRS1lOQ3dHQ3dxcDNkZ0U5cGcxOGVibW4zMWpaamJJYnZ6UmNyTzJISkdQOEFnUHdQT09YNHdJQXdneTE5Z0h0X1o0TWJselhYXzU2VEpnTE1IVGdhVUxyX3lKWklYZF94ckdXU3JwN2FUajRxdFNsS1BOMzVnTmNNSlE?oc=5",
+      "title": "51,063 Shares in Intel Corporation $INTC Bought by Three Seasons Wealth LLC - MarketBeat",
+      "body": "51,063 Shares in Intel Corporation $INTC Bought by Three Seasons Wealth LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a2b50219-d65c-5a9f-83fd-cb7282d0f5dd",
+      "timestamp_utc": "2026-04-01T07:30:02+00:00",
+      "source": "barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWpoeHcyYVB2dml0V2VMSnZKSDE1MUh3RGczU0UxSVFRV2dxd0RCVktESFR4SXJIaXJZZlZLNktKLTI3UVN4NzcwZVZpV20wNmgzT29SZHFpb2VnbS1yTXY2Zm1CY0w5dHRaUlJoa1FsSmVjYVJwekpsRGNPZGlmQkVoN1RncUQyaDhBUTBMb0gwaHJJNWpYR0dQSE5HRmVLajVZd2UxZG1fN2FC?oc=5",
+      "title": "Intel Has Unusual Put Option Volume - Signals Upside in INTC Stock - barchart.com",
+      "body": "Intel Has Unusual Put Option Volume - Signals Upside in INTC Stock barchart.com",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "barchart.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "barchart.com",
+        "source_domain": "barchartcom.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ace65af8-a908-584e-8c4b-c2b2a5855f10",
+      "timestamp_utc": "2026-03-31T23:46:14+00:00",
+      "source": "techi.com",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE80Njk3YVBRbUJTajNYTFp4a2NqZ28tVFBnUTFvN3VEeS1IeWZPTHJGSU81QUhILV9Zd01BbWt2OEZHZjQ3eDhZMkZ3?oc=5",
+      "title": "Intel Stock (INTC): Complete Analysis, Foundry Update & Forecast 2026 - techi.com",
+      "body": "Intel Stock (INTC): Complete Analysis, Foundry Update & Forecast 2026 techi.com",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "techi.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "techi.com",
+        "source_domain": "techicom.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "bca77f41-b92a-509f-a00f-8c728d38b41f",
+      "timestamp_utc": "2026-03-31T11:02:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSjVTcFlDdjBGTGc1Wkh3OVFqN3hKYnNqY0dJSWwyQUpFZDVRVExpN2VPZC0wMXJDSEpsdzlCYXFkNzNqZEVFVDFlbm1pc01aVFF5a0hCR01iSGdZWHBMbG5GQVhPT0RhZEZFMHdlTTdiZE00Q2N6ZmEyVGdBS1Z5aWxGekJEaklVN1B0c2VmSHVzQ3ZkUXpDQ3FOMmU4VTM2?oc=5",
+      "title": "Intel sets April 23 earnings report, webcast after market close - Stock Titan",
+      "body": "Intel sets April 23 earnings report, webcast after market close Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

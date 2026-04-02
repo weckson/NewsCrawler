@@ -1,0 +1,31 @@
+[
+  {
+    "id": "d430b411-1a08-5a4f-a61b-c4746c7f1754",
+    "timestamp_utc": "2026-04-01T01:33:25+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-357764-shares-in-marsh-mclennan-companies-inc-mrsh-acquired-by-scharf-investments-llc-2026-04-01/",
+    "title": "357,764 Shares in Marsh & McLennan Companies, Inc. $MRSH Acquired by Scharf Investments LLC - MarketBeat",
+    "body": "357,764 Shares in Marsh & McLennan Companies, Inc. $MRSH Acquired by Scharf Investments LLC MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "MRSH",
+    "tickers_hint": [
+      "MRSH"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "MRSH"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

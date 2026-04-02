@@ -1,0 +1,65 @@
+[
+  {
+    "id": "0b8d8882-83a0-5c22-a001-5dc226670b86",
+    "timestamp_utc": "2026-03-31T07:39:43+00:00",
+    "source": "benzinga",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaHR1dUpseENxTktYTWFXVHVLVDhVTkU3WG1VckFyS1JqWFVMYl9kRnNWXy1PUF9EQnNXb3kwclJaalVCcXJLVGNnY05adEpEX0dqb0J2Z1hTS2FVRGhTZFFwV2tBMldaZi0yQkxmc3M2YWt2VUxBRlJzWk1XekZFeGF2TnNMei05LVBKRF9lcVRWbUVWN1J0WnBTdUM5dzRfNXFkS1JYUm5XaGxXRElR?oc=5",
+    "title": "Industrials Post Worst Month Since 2022 – History Says Buy The Dip - A.O. Smith (NYSE:AOS), Axon Enterpri - Benzinga",
+    "body": "Industrials Post Worst Month Since 2022 – History Says Buy The Dip - A.O. Smith (NYSE:AOS), Axon Enterpri Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "AOS",
+    "tickers_hint": [
+      "AOS",
+      "AXON"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "meta": {
+      "channel": "google_benzinga",
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "AOS",
+        "AXON"
+      ],
+      "alt_sources": [
+        "Benzinga"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "b84cac11-614d-5e83-826c-2ac858434b52",
+    "timestamp_utc": "2026-04-01T02:11:33+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-axon-enterprise-inc-axon-stock-holdings-lessened-by-vaughan-nelson-investment-management-lp-2026-04-01/",
+    "title": "Axon Enterprise, Inc $AXON Stock Holdings Lessened by Vaughan Nelson Investment Management L.P. - MarketBeat",
+    "body": "Axon Enterprise, Inc $AXON Stock Holdings Lessened by Vaughan Nelson Investment Management L.P. MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "AXON",
+    "tickers_hint": [
+      "AXON"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "AXON"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

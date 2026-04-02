@@ -1,0 +1,121 @@
+[
+  {
+    "id": "b0ce1137-60e4-5549-a796-a80cd341b411",
+    "timestamp_utc": "2026-04-01T03:00:04+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/realty-income-corporation-o-trending-130004049.html",
+    "title": "Realty Income Corporation (O) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+    "body": "Realty Income Corporation (O) Is a Trending Stock: Facts to Know Before Betting on It Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "O",
+    "tickers_hint": [
+      "O"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "O"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "1c42b178-a01a-5ad2-8873-6853adf20366",
+    "timestamp_utc": "2026-04-01T04:25:13+00:00",
+    "source": "intellectia_ai",
+    "url": "https://intellectia.ai/en/stock/GOOGL.O/news",
+    "title": "GOOGL.O Stock News Today | Earnings, Events & Price Alerts - Intellectia AI",
+    "body": "GOOGL.O Stock News Today | Earnings, Events & Price Alerts Intellectia AI",
+    "author": null,
+    "language": "en",
+    "ticker": "O",
+    "tickers_hint": [
+      "O"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "intellectia ai",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Intellectia AI",
+      "source_domain": "intellectiaai.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "O"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "289e127a-9c98-5a9b-965f-83bed1112e89",
+    "timestamp_utc": "2026-04-01T13:09:43+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSHhPNVRsdHdRQTNSRXprRmRMNFlTUVFqTHdTLXRoRndFVkd6T2RlaC1pdXJ0alNhWFVlRzlEMHZXd3U0WHdycFAyQjd4WGJCWkk5X3hVRjNKQUh0NnpmalJwVmlnOWwtMUNldF90Y1JULUt0THZmZ3FtVFRZazFZVlNLZUxIa0RETnNJMTBUOENLS2FncUN2T09Ub0g0XzhVUmZmRFZ1dkpfSEhXQVE?oc=5",
+    "title": "Director-linked trust at Realty Income (NYSE: O) sells 3,275 shares - Stock Titan",
+    "body": "Director-linked trust at Realty Income (NYSE: O) sells 3,275 shares Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "O",
+    "tickers_hint": [
+      "O"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "O"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "5b0430a9-3feb-59c1-a17b-0b608d94d358",
+    "timestamp_utc": "2026-04-01T03:55:08+00:00",
+    "source": "intellectia_ai",
+    "url": "https://intellectia.ai/en/stock/RZLT.O/earnings",
+    "title": "RZLT.O Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+    "body": "RZLT.O Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+    "author": null,
+    "language": "en",
+    "ticker": "O",
+    "tickers_hint": [
+      "O"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "intellectia ai",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Intellectia AI",
+      "source_domain": "intellectiaai.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "O"
+      ],
+      "alt_sources": [
+        "Intellectia AI"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

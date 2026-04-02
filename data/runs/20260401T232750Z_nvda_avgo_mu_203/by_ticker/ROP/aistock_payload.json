@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "7743697b-2ec5-5cc4-b6f8-c8aa5abf5833",
+      "timestamp_utc": "2026-04-01T00:00:16+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-roper-technologies-inc-rop-shares-acquired-by-rockland-trust-co-2026-04-01/",
+      "title": "Roper Technologies, Inc. $ROP Shares Acquired by Rockland Trust Co. - MarketBeat",
+      "body": "Roper Technologies, Inc. $ROP Shares Acquired by Rockland Trust Co. MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ROP",
+      "tickers_hint": [
+        "ROP"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ROP"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "7743697b-2ec5-5cc4-b6f8-c8aa5abf5833",
+      "timestamp_utc": "2026-04-01T00:00:16+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-roper-technologies-inc-rop-shares-acquired-by-rockland-trust-co-2026-04-01/",
+      "title": "Roper Technologies, Inc. $ROP Shares Acquired by Rockland Trust Co. - MarketBeat",
+      "body": "Roper Technologies, Inc. $ROP Shares Acquired by Rockland Trust Co. MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ROP",
+      "tickers_hint": [
+        "ROP"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ROP"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

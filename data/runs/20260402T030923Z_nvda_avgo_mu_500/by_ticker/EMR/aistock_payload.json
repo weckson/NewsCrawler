@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "d0e9c80d-6e51-5348-85ab-05d211944dd8",
+      "timestamp_utc": "2026-04-01T06:53:38+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765566/emr-wells-fargo-lowers-price-target-amidst-maintained-rating-emr-stock-news",
+      "title": "EMR: Wells Fargo Lowers Price Target Amidst Maintained Rating | - GuruFocus",
+      "body": "EMR: Wells Fargo Lowers Price Target Amidst Maintained Rating | GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "EMR",
+      "tickers_hint": [
+        "EMR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "EMR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "aa08237a-86bb-53bd-99b9-0ddd53a7f38b",
+      "timestamp_utc": "2026-03-31T06:29:22+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8761767/emr-jefferies-raises-emerson-electrics-price-target-and-rating-emr-stock-news?mobile=true",
+      "title": "EMR: Jefferies Raises Emerson Electric's Price Target and Rating - GuruFocus",
+      "body": "EMR: Jefferies Raises Emerson Electric's Price Target and Rating GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "EMR",
+      "tickers_hint": [
+        "EMR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "EMR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a2ed9c1a-5062-5cfb-a59b-1459a25efa70",
+      "timestamp_utc": "2026-04-01T08:50:27+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765737/emerson-electric-emr-sees-price-target-lowered-by-barclays-emr-stock-news",
+      "title": "Emerson Electric (EMR) Sees Price Target Lowered by Barclays | E - GuruFocus",
+      "body": "Emerson Electric (EMR) Sees Price Target Lowered by Barclays | E GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "EMR",
+      "tickers_hint": [
+        "EMR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "EMR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "d0e9c80d-6e51-5348-85ab-05d211944dd8",
+      "timestamp_utc": "2026-04-01T06:53:38+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765566/emr-wells-fargo-lowers-price-target-amidst-maintained-rating-emr-stock-news",
+      "title": "EMR: Wells Fargo Lowers Price Target Amidst Maintained Rating | - GuruFocus",
+      "body": "EMR: Wells Fargo Lowers Price Target Amidst Maintained Rating | GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "EMR",
+      "tickers_hint": [
+        "EMR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "EMR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "aa08237a-86bb-53bd-99b9-0ddd53a7f38b",
+      "timestamp_utc": "2026-03-31T06:29:22+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8761767/emr-jefferies-raises-emerson-electrics-price-target-and-rating-emr-stock-news?mobile=true",
+      "title": "EMR: Jefferies Raises Emerson Electric's Price Target and Rating - GuruFocus",
+      "body": "EMR: Jefferies Raises Emerson Electric's Price Target and Rating GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "EMR",
+      "tickers_hint": [
+        "EMR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "EMR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a2ed9c1a-5062-5cfb-a59b-1459a25efa70",
+      "timestamp_utc": "2026-04-01T08:50:27+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765737/emerson-electric-emr-sees-price-target-lowered-by-barclays-emr-stock-news",
+      "title": "Emerson Electric (EMR) Sees Price Target Lowered by Barclays | E - GuruFocus",
+      "body": "Emerson Electric (EMR) Sees Price Target Lowered by Barclays | E GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "EMR",
+      "tickers_hint": [
+        "EMR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "EMR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

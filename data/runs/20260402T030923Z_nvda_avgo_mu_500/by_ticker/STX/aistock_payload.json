@@ -1,0 +1,414 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "5d7ef052-5766-528f-9c01-1a73fec9f3a9",
+      "timestamp_utc": "2026-03-31T18:03:45+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV0ZQaFZpdXVVY3FKR0t5d1lBc3F0dGc0QlpWdzFyblF2eC1wWU4zRlYxc0dhRnhEd2NYbEhCZjRyTXppSE92Y3AxWUozMmxyYjVlTVFqVWp1NTFRNEQzWC1LVG1hWmgxWnBfbzdrYmZvbDFLRUlzRUwyX1B4NUZnb3NjWS1TTi04YnBTbUtiOU4zSnU4REV5ZVFOazhvdnZBdHc?oc=5",
+      "title": "2 Reasons to Like STX (and 1 Not So Much) - TradingView",
+      "body": "2 Reasons to Like STX (and 1 Not So Much) TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "STX",
+      "tickers_hint": [
+        "STX"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "STX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8db37675-1a98-57d4-ab47-5212c395ed59",
+      "timestamp_utc": "2026-04-01T05:51:14+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/seagate-technology-nasdaqstx-shares-up-91-on-analyst-upgrade-2026-04-01/",
+      "title": "Seagate Technology (NASDAQ:STX) Shares Up 9.1% on Analyst Upgrade - MarketBeat",
+      "body": "Seagate Technology (NASDAQ:STX) Shares Up 9.1% on Analyst Upgrade MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "STX",
+      "tickers_hint": [
+        "STX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "STX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b2ab5e8a-79c8-51b5-8700-15ba67017fdf",
+      "timestamp_utc": "2026-04-01T10:39:24+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRGdrVXhkZm40SUN4MHhVaExfSlVVc2RKbGZVMEJaM29jRGVnWkxTdXl2LVhTQUI3OXE5bjBQNFFweTNJV0tPbm8tYm5WaVU1R2JvaHdWb3FtQURyZ1d5elpnWkgtZXd6ZTJrNlVQTUYtQVdGYThJLWE5MlZweVJNZ0tGS25TYUlPNGZ6T0daVGI4Uk1hcnY0U1pqT0RMUktFQl9Tdm8ybkdDMnc?oc=5",
+      "title": "MOSLEY reports 10b5-1 sales of STX shares across Jan–Mar 2026 (NASDAQ: STX) - Stock Titan",
+      "body": "MOSLEY reports 10b5-1 sales of STX shares across Jan–Mar 2026 (NASDAQ: STX) Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "STX",
+      "tickers_hint": [
+        "STX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "STX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e7fa99a5-278b-5b75-9bcb-c3bf88773d76",
+      "timestamp_utc": "2026-04-01T00:08:20+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/seagate-technology-nasdaqstx-lowered-to-hold-rating-by-zacks-research-2026-04-01/",
+      "title": "Seagate Technology (NASDAQ:STX) Lowered to Hold Rating by Zacks Research - MarketBeat",
+      "body": "Seagate Technology (NASDAQ:STX) Lowered to Hold Rating by Zacks Research MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "STX",
+      "tickers_hint": [
+        "STX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "STX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c46e1aef-cf43-5fb9-bf18-86149de6cc94",
+      "timestamp_utc": "2026-03-31T07:03:45+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8761820/stx-bernstein-raises-price-target-maintains-outperform-rating-stx-stock-news?mobile=true",
+      "title": "STX: Bernstein Raises Price Target, Maintains Outperform Rating - GuruFocus",
+      "body": "STX: Bernstein Raises Price Target, Maintains Outperform Rating GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "STX",
+      "tickers_hint": [
+        "STX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "STX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "878f1619-ea31-5f68-980c-e3f809e698ce",
+      "timestamp_utc": "2026-04-01T01:13:03+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-three-seasons-wealth-llc-increases-stake-in-seagate-technology-holdings-plc-stx-2026-04-01/",
+      "title": "Three Seasons Wealth LLC Increases Stake in Seagate Technology Holdings PLC $STX - MarketBeat",
+      "body": "Three Seasons Wealth LLC Increases Stake in Seagate Technology Holdings PLC $STX MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "STX",
+      "tickers_hint": [
+        "STX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "STX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "069e5127-3c10-5e0f-97e8-9f66b5d993ec",
+      "timestamp_utc": "2026-03-31T06:17:53+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/sanford-c-bernstein-issues-positive-forecast-for-seagate-technology-nasdaqstx-stock-price-2026-03-31/",
+      "title": "Sanford C. Bernstein Issues Positive Forecast for Seagate Technology (NASDAQ:STX) Stock Price - MarketBeat",
+      "body": "Sanford C. Bernstein Issues Positive Forecast for Seagate Technology (NASDAQ:STX) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "STX",
+      "tickers_hint": [
+        "STX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "STX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "5d7ef052-5766-528f-9c01-1a73fec9f3a9",
+      "timestamp_utc": "2026-03-31T18:03:45+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV0ZQaFZpdXVVY3FKR0t5d1lBc3F0dGc0QlpWdzFyblF2eC1wWU4zRlYxc0dhRnhEd2NYbEhCZjRyTXppSE92Y3AxWUozMmxyYjVlTVFqVWp1NTFRNEQzWC1LVG1hWmgxWnBfbzdrYmZvbDFLRUlzRUwyX1B4NUZnb3NjWS1TTi04YnBTbUtiOU4zSnU4REV5ZVFOazhvdnZBdHc?oc=5",
+      "title": "2 Reasons to Like STX (and 1 Not So Much) - TradingView",
+      "body": "2 Reasons to Like STX (and 1 Not So Much) TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "STX",
+      "tickers_hint": [
+        "STX"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "STX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8db37675-1a98-57d4-ab47-5212c395ed59",
+      "timestamp_utc": "2026-04-01T05:51:14+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/seagate-technology-nasdaqstx-shares-up-91-on-analyst-upgrade-2026-04-01/",
+      "title": "Seagate Technology (NASDAQ:STX) Shares Up 9.1% on Analyst Upgrade - MarketBeat",
+      "body": "Seagate Technology (NASDAQ:STX) Shares Up 9.1% on Analyst Upgrade MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "STX",
+      "tickers_hint": [
+        "STX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "STX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b2ab5e8a-79c8-51b5-8700-15ba67017fdf",
+      "timestamp_utc": "2026-04-01T10:39:24+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRGdrVXhkZm40SUN4MHhVaExfSlVVc2RKbGZVMEJaM29jRGVnWkxTdXl2LVhTQUI3OXE5bjBQNFFweTNJV0tPbm8tYm5WaVU1R2JvaHdWb3FtQURyZ1d5elpnWkgtZXd6ZTJrNlVQTUYtQVdGYThJLWE5MlZweVJNZ0tGS25TYUlPNGZ6T0daVGI4Uk1hcnY0U1pqT0RMUktFQl9Tdm8ybkdDMnc?oc=5",
+      "title": "MOSLEY reports 10b5-1 sales of STX shares across Jan–Mar 2026 (NASDAQ: STX) - Stock Titan",
+      "body": "MOSLEY reports 10b5-1 sales of STX shares across Jan–Mar 2026 (NASDAQ: STX) Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "STX",
+      "tickers_hint": [
+        "STX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "STX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e7fa99a5-278b-5b75-9bcb-c3bf88773d76",
+      "timestamp_utc": "2026-04-01T00:08:20+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/seagate-technology-nasdaqstx-lowered-to-hold-rating-by-zacks-research-2026-04-01/",
+      "title": "Seagate Technology (NASDAQ:STX) Lowered to Hold Rating by Zacks Research - MarketBeat",
+      "body": "Seagate Technology (NASDAQ:STX) Lowered to Hold Rating by Zacks Research MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "STX",
+      "tickers_hint": [
+        "STX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "STX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c46e1aef-cf43-5fb9-bf18-86149de6cc94",
+      "timestamp_utc": "2026-03-31T07:03:45+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8761820/stx-bernstein-raises-price-target-maintains-outperform-rating-stx-stock-news?mobile=true",
+      "title": "STX: Bernstein Raises Price Target, Maintains Outperform Rating - GuruFocus",
+      "body": "STX: Bernstein Raises Price Target, Maintains Outperform Rating GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "STX",
+      "tickers_hint": [
+        "STX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "STX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "878f1619-ea31-5f68-980c-e3f809e698ce",
+      "timestamp_utc": "2026-04-01T01:13:03+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-three-seasons-wealth-llc-increases-stake-in-seagate-technology-holdings-plc-stx-2026-04-01/",
+      "title": "Three Seasons Wealth LLC Increases Stake in Seagate Technology Holdings PLC $STX - MarketBeat",
+      "body": "Three Seasons Wealth LLC Increases Stake in Seagate Technology Holdings PLC $STX MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "STX",
+      "tickers_hint": [
+        "STX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "STX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "069e5127-3c10-5e0f-97e8-9f66b5d993ec",
+      "timestamp_utc": "2026-03-31T06:17:53+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/sanford-c-bernstein-issues-positive-forecast-for-seagate-technology-nasdaqstx-stock-price-2026-03-31/",
+      "title": "Sanford C. Bernstein Issues Positive Forecast for Seagate Technology (NASDAQ:STX) Stock Price - MarketBeat",
+      "body": "Sanford C. Bernstein Issues Positive Forecast for Seagate Technology (NASDAQ:STX) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "STX",
+      "tickers_hint": [
+        "STX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "STX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

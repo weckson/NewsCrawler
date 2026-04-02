@@ -1,0 +1,38 @@
+[
+  {
+    "id": "477d87ef-5cf7-5f1d-b5b1-ea7de07b7237",
+    "timestamp_utc": "2026-04-01T06:44:53+00:00",
+    "source": "benzinga",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORG5DSVh5dm51Y19ZQkpZZXlLR0JnNEFLSzF2SUItVHZKeGpEWUY0OGxtLXNySVJkQXI0TjJiaW1zQ1VkTmlsdXY4ZVdqYUFRWGI5a2M2Sjk5cl9TWFF2ZnZkckI5UF84SnZKQUl2d2lfZWRBdEFiNi1fd1BnejluOEdCWGZqTElBRVhENGk2d0Z6cFBwZXpEWV9NVlZsVmc?oc=5",
+    "title": "What's Going On With Microsoft Stock? - Microsoft (NASDAQ:MSFT) - Benzinga",
+    "body": "What's Going On With Microsoft Stock? - Microsoft (NASDAQ:MSFT) Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "A",
+    "tickers_hint": [
+      "A",
+      "MS",
+      "ON"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "meta": {
+      "channel": "google_benzinga",
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
+      "trust_tier": 3,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "A",
+        "MS",
+        "ON"
+      ],
+      "alt_sources": [
+        "Benzinga"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

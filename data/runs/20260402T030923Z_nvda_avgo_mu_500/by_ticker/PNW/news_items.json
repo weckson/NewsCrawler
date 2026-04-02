@@ -1,0 +1,118 @@
+[
+  {
+    "id": "079bfa7e-1a08-5b4a-a9fb-8095b9f5f37c",
+    "timestamp_utc": "2026-04-01T00:34:06+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/quote/PNW261218C00090000/",
+    "title": "PNW Dec 2026 90.000 call (PNW261218C00090000) Stock Price, News, Quote & History - Yahoo Finance",
+    "body": "PNW Dec 2026 90.000 call (PNW261218C00090000) Stock Price, News, Quote & History Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "PNW",
+    "tickers_hint": [
+      "PNW"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "PNW"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "dccc9a2d-a349-5630-a702-9620f513e4e4",
+    "timestamp_utc": "2026-03-31T04:57:25+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/barclays-raises-pinnacle-west-capital-nysepnw-price-target-to-10100-2026-03-31/",
+    "title": "Barclays Raises Pinnacle West Capital (NYSE:PNW) Price Target to $101.00 - MarketBeat",
+    "body": "Barclays Raises Pinnacle West Capital (NYSE:PNW) Price Target to $101.00 MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "PNW",
+    "tickers_hint": [
+      "PNW"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "PNW"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "805b82f0-3794-5fad-867d-5ca97acd2416",
+    "timestamp_utc": "2026-03-31T21:05:02+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/pinnacle-west-capital-corporation-nysepnw-given-average-recommendation-of-hold-by-brokerages-2026-04-01/",
+    "title": "Pinnacle West Capital Corporation (NYSE:PNW) Given Average Recommendation of \"Hold\" by Brokerages - MarketBeat",
+    "body": "Pinnacle West Capital Corporation (NYSE:PNW) Given Average Recommendation of \"Hold\" by Brokerages MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "PNW",
+    "tickers_hint": [
+      "PNW"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "PNW"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "50ba31e7-3dc5-5967-9012-1bec7bc72a0d",
+    "timestamp_utc": "2026-03-31T06:07:30+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8761622/pnw-barclays-raises-price-target-to-101-maintains-equalweight-rating-pnw-stock-news?mobile=true",
+    "title": "PNW: Barclays Raises Price Target to $101, Maintains Equal-Weigh - GuruFocus",
+    "body": "PNW: Barclays Raises Price Target to $101, Maintains Equal-Weigh GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "PNW",
+    "tickers_hint": [
+      "PNW"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "PNW"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

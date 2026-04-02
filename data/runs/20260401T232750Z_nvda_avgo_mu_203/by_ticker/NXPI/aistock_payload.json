@@ -1,0 +1,72 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "966878cf-c448-52de-830c-4db541c48eed",
+      "timestamp_utc": "2026-03-31T11:37:43+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/NXPI/news",
+      "title": "NXPI Stock News Today | Earnings, Events & Price Alerts - Intellectia AI",
+      "body": "NXPI Stock News Today | Earnings, Events & Price Alerts Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "NXPI",
+      "tickers_hint": [
+        "NXPI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "NXPI"
+        ],
+        "alt_sources": [
+          "Intellectia AI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "966878cf-c448-52de-830c-4db541c48eed",
+      "timestamp_utc": "2026-03-31T11:37:43+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/NXPI/news",
+      "title": "NXPI Stock News Today | Earnings, Events & Price Alerts - Intellectia AI",
+      "body": "NXPI Stock News Today | Earnings, Events & Price Alerts Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "NXPI",
+      "tickers_hint": [
+        "NXPI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "NXPI"
+        ],
+        "alt_sources": [
+          "Intellectia AI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+
+============================================================================================
+  2-ticker watchlist NEWS REPORT — Quality Filtered, 2026-03-30 01:33
+============================================================================================
+
+  CRAWL STATS:
+  Channel                      Raw Description
+  ------------------------- ------ ----------------------------------------
+  AMD-IR                        10 Official AMD Investor Relations press releases RSS
+  BZ-via-Google                300 Google News filtered to site:benzinga.com
+  Google-broad                 400 Google News all financial sources
+  TOTAL                        710
+
+  QUALITY PIPELINE:
+    Raw articles:        710
+    After quality filter:   10  (removed 700 junk/irrelevant/dupes)
+    New saved to DB:      10
+    Benzinga articles:     2  (direct Benzinga coverage)
+    Watchlist tickers:     2
+
+  TICKER COVERAGE:
+    NVDA      8
+    AMD       2
+
+  ANTI-SCRAPE STRATEGY:
+    - Benzinga HTML: SKIPPED (Cloudflare JS challenge blocks simple HTTP)
+    - Benzinga RSS:  /feed + /news/feed (no CF, structured XML)
+    - Google->BZ:    site:benzinga.com (Google already crawled, no CF)
+    - Polite crawl:  2s delay, standard UA, no JS execution needed
+
+  ── BENZINGA ARTICLES (2) ──
+
+    1. [TOP] [03-29 03:50] [rel:0.65] [BZ-via-Google]
+       Cathie Wood Going Cold On Big Tech? Ark Sells Nvidia, AMD, Meta And Google Stock — AI Darlings Get The Dump - Advanced Micro Devices (NASDAQ:AMD), ARK Blockchain & Fintech Innovation ETF (BATS:ARKF)
+       Source: Benzinga  (also: Benzinga)
+       > Cathie Wood Going Cold On Big Tech? Ark Sells Nvidia, AMD, Meta And Google Stock — AI Darlings Get The Dump - Advanced Micro Devices (NASDAQ:AMD), ARK Blockchai...
+       https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMHgza2luR3lFOVE0TG95NnpISllfVUp4bnVWaE0yeXUtSzlaRVBtSWxYMFo0bEpjWUF
+
+    2. [TOP] [03-28 06:01] [rel:0.60] [BZ-via-Google]
+       Jensen Huang Says The Ability To 'Forget The Last Moment' Gives Great Achievers A Superpower: 'Let The Past Be The Past' - NVIDIA (NASDAQ:NVDA)
+       Source: Benzinga
+       > Jensen Huang Says The Ability To 'Forget The Last Moment' Gives Great Achievers A Superpower: 'Let The Past Be The Past' - NVIDIA (NASDAQ:NVDA) Benzinga
+       https://news.google.com/rss/articles/CBMirAFBVV95cUxNYkF0N1NrQjVINEEzWU9xcDdUTDlzQWI2UllRVXpieDlyM1NqalZmUmN1eXpxZlpiSXJ
+
+  ── OTHER SOURCES (8) ──
+
+    1. [OK ] [03-28 05:27] [rel:0.65] [Google-broad]
+       Analyst Signals Caution Amid Demand Concerns For Advanced Micro Devices (AMD)
+       Source: Insider Monkey
+       > Analyst Signals Caution Amid Demand Concerns For Advanced Micro Devices (AMD) Insider Monkey
+       https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY1pwU1Y4TG5UMkptMXlydUUwRURrd0ZZZ2xfclZ5ZG1Hd05yT0IwMllEQ0hjSllsVXV
+
+    2. [TOP] [03-28 05:18] [rel:0.70] [Google-broad]
+       Analysts Nudge Their Nvidia (NVDA) Price Targets Higher After GTC
+       Source: Yahoo Finance
+       > Analysts Nudge Their Nvidia (NVDA) Price Targets Higher After GTC Yahoo Finance
+       https://news.google.com/rss/articles/CBMingFBVV95cUxOM2xSeUZWZV9WcXVGSmQ4aVFUUG5sMlpPb01tTjVaVEl5WGJIMnN2a2p1YkdyZWJGUUF
+
+    3. [TOP] [03-29 03:35] [rel:0.60] [Google-broad]
+       Nvidia Stock (NVDA) Is Stalling – and Cathie Wood Is Losing Patience
+       Source: TipRanks
+       > Nvidia Stock (NVDA) Is Stalling – and Cathie Wood Is Losing Patience TipRanks
+       https://news.google.com/rss/articles/CBMimgFBVV95cUxORUhTajRGWU16VjBIM1A0a081eWNmb0RDaVptcUhfZDhVRm53VW0xSGJ5NWwweElBQlp
+
+    4. [TOP] [03-28 03:49] [rel:0.60] [Google-broad]
+       NVIDIA (NVDA) Shares Higher After Jim Cramer Criticized Sellers
+       Source: Yahoo Finance
+       > NVIDIA (NVDA) Shares Higher After Jim Cramer Criticized Sellers Yahoo Finance
+       https://news.google.com/rss/articles/CBMimgFBVV95cUxONVhMZi1NWHpacGswaGo0TGJ0NTA2bU85MGROSkxSbFVVOFBFSnBnYWRoNm4tVzRFUGY
+
+    5. [TOP] [03-28 21:44] [rel:0.50] [Google-broad]
+       Prediction: This Will Be Nvidia's Stock Price 3 Years From Now
+       Source: The Motley Fool
+       > Prediction: This Will Be Nvidia's Stock Price 3 Years From Now The Motley Fool
+       https://news.google.com/rss/articles/CBMimAFBVV95cUxPYUgtMng3MHdmT3doLXRRSENoZDY4M1NzcDVLZ29aOEFjWVdEQ0tIZWw0VFJHbVRJbHY
+
+    6. [TOP] [03-28 09:43] [rel:0.50] [Google-broad]
+       Investors Are Completely Wrong About Nvidia Stock
+       Source: The Motley Fool  (also: The Globe and Mail)
+       > Investors Are Completely Wrong About Nvidia Stock The Motley Fool
+       https://news.google.com/rss/articles/CBMilwFBVV95cUxQbzBwREMzRXMxLTRscV9VNjhXZkVMY2hibkVKdGI5SzZQOWRfTXRtd0tOLVlYa3VaRHQ
+
+    7. [OK ] [03-28 02:23] [rel:0.50] [Google-broad]
+       $10,000 in XRP and Bitcoin vs $10,000 in Nvidia: What Each Could Be Worth by the End of 2026
+       Source: 24/7 Wall St.
+       > $10,000 in XRP and Bitcoin vs $10,000 in Nvidia: What Each Could Be Worth by the End of 2026 24/7 Wall St.
+       https://news.google.com/rss/articles/CBMiywFBVV95cUxONkhfZGpXQ0QtaC1BcmRmdHFVYlU1T1pfd3hGeVU2MVZwdHFzdTVZcnAwd3d5SnpxOHl
+
+    8. [low] [03-28 15:00] [rel:0.50] [Google-broad]
+       Cramer says he’d wait on Nvidia stock right now
+       Source: thestreet.com
+       > Cramer says he’d wait on Nvidia stock right now thestreet.com
+       https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDZ2QzF3ZTk5Sk1NbU9hVlpMRGg0bGtBYWZ5YUJod3dQdzJxN2k5SVNqd25SU0oybW5
+
+============================================================================================

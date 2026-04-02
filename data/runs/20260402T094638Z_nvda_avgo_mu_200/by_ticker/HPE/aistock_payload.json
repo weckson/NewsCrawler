@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "c475d3e8-0a71-5b63-a9a2-8627c686204e",
+      "timestamp_utc": "2026-03-31T14:17:00+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYUptSl8weDUzQ1NIUmJNc2VpeVk0QzgxaWRzY1g4Y3U2aDhqSC1WQ3Z2bXAxV0tWV3c4Vld1MEdvczNsWVZjd1VMWmtXV2xZc0JnOFN1NXpqcTNieHhiUno5aEFiZXhfOUxnWDVwTlp0M3R0eFNIMFhGS1dLY29ZM2RtNHZPc0pTRThlSGlzQjRoZUJyMHVPdjJ4d0oybHI2aVpMWmVRS1M?oc=5",
+      "title": "Assessing Hewlett Packard Enterprise (HPE) Valuation After Recent Share Price Strength - Yahoo Finance",
+      "body": "Assessing Hewlett Packard Enterprise (HPE) Valuation After Recent Share Price Strength Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "HPE",
+      "tickers_hint": [
+        "HPE"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HPE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a625562c-9121-54b0-9bd8-3e8aec796296",
+      "timestamp_utc": "2026-04-01T00:14:23+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/hewlett-packard-enterprise-nysehpe-stock-rating-upgraded-by-truist-financial-2026-04-01/",
+      "title": "Hewlett Packard Enterprise (NYSE:HPE) Stock Rating Upgraded by Truist Financial - MarketBeat",
+      "body": "Hewlett Packard Enterprise (NYSE:HPE) Stock Rating Upgraded by Truist Financial MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "HPE",
+      "tickers_hint": [
+        "HPE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "HPE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b1904447-7e39-54a8-965b-cd5e0d144422",
+      "timestamp_utc": "2026-03-31T12:22:00+00:00",
+      "source": "kalkine_media",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMkFuQnRyS2U3OWFGYkZldS1QaVhkNUpqTXdSak9zRFlDYS1tTnBYREpGZHNOTmwtTk4xYVZEcjNKRURjQk9jRVR5UkJCM1JuUi1Bc09IclZCUzBlQ3VrOTNfSGxSekpyRXRIVTdYQmNpLXdHZFV0b2JDd2VMNEZIZUFhWTZOR0paenlDWVlJcDc1WGhCQUdoTzhoWS1DQTl1b2pndmJTX25ZXzg0V0VPb3ZVcnlpSVc5SGxsZEhB?oc=5",
+      "title": "Hewlett Packard Enterprise (NYSE:HPE) Share Activity Draws Attention In S&P 500 - Kalkine Media",
+      "body": "Hewlett Packard Enterprise (NYSE:HPE) Share Activity Draws Attention In S&P 500 Kalkine Media",
+      "author": null,
+      "language": "en",
+      "ticker": "HPE",
+      "tickers_hint": [
+        "HPE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "kalkine media",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Kalkine Media",
+        "source_domain": "kalkinemedia.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HPE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "c475d3e8-0a71-5b63-a9a2-8627c686204e",
+      "timestamp_utc": "2026-03-31T14:17:00+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYUptSl8weDUzQ1NIUmJNc2VpeVk0QzgxaWRzY1g4Y3U2aDhqSC1WQ3Z2bXAxV0tWV3c4Vld1MEdvczNsWVZjd1VMWmtXV2xZc0JnOFN1NXpqcTNieHhiUno5aEFiZXhfOUxnWDVwTlp0M3R0eFNIMFhGS1dLY29ZM2RtNHZPc0pTRThlSGlzQjRoZUJyMHVPdjJ4d0oybHI2aVpMWmVRS1M?oc=5",
+      "title": "Assessing Hewlett Packard Enterprise (HPE) Valuation After Recent Share Price Strength - Yahoo Finance",
+      "body": "Assessing Hewlett Packard Enterprise (HPE) Valuation After Recent Share Price Strength Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "HPE",
+      "tickers_hint": [
+        "HPE"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HPE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a625562c-9121-54b0-9bd8-3e8aec796296",
+      "timestamp_utc": "2026-04-01T00:14:23+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/hewlett-packard-enterprise-nysehpe-stock-rating-upgraded-by-truist-financial-2026-04-01/",
+      "title": "Hewlett Packard Enterprise (NYSE:HPE) Stock Rating Upgraded by Truist Financial - MarketBeat",
+      "body": "Hewlett Packard Enterprise (NYSE:HPE) Stock Rating Upgraded by Truist Financial MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "HPE",
+      "tickers_hint": [
+        "HPE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "HPE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b1904447-7e39-54a8-965b-cd5e0d144422",
+      "timestamp_utc": "2026-03-31T12:22:00+00:00",
+      "source": "kalkine_media",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMkFuQnRyS2U3OWFGYkZldS1QaVhkNUpqTXdSak9zRFlDYS1tTnBYREpGZHNOTmwtTk4xYVZEcjNKRURjQk9jRVR5UkJCM1JuUi1Bc09IclZCUzBlQ3VrOTNfSGxSekpyRXRIVTdYQmNpLXdHZFV0b2JDd2VMNEZIZUFhWTZOR0paenlDWVlJcDc1WGhCQUdoTzhoWS1DQTl1b2pndmJTX25ZXzg0V0VPb3ZVcnlpSVc5SGxsZEhB?oc=5",
+      "title": "Hewlett Packard Enterprise (NYSE:HPE) Share Activity Draws Attention In S&P 500 - Kalkine Media",
+      "body": "Hewlett Packard Enterprise (NYSE:HPE) Share Activity Draws Attention In S&P 500 Kalkine Media",
+      "author": null,
+      "language": "en",
+      "ticker": "HPE",
+      "tickers_hint": [
+        "HPE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "kalkine media",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Kalkine Media",
+        "source_domain": "kalkinemedia.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HPE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

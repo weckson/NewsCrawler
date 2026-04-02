@@ -1,0 +1,31 @@
+[
+  {
+    "id": "d9b9de18-a2f5-52e1-9a79-ca539a8517b0",
+    "timestamp_utc": "2026-04-01T05:45:03+00:00",
+    "source": "yahoo_finance_australia",
+    "url": "https://au.finance.yahoo.com/news/why-american-international-group-aig-154503831.html",
+    "title": "Why American International Group (AIG) is a Great Dividend Stock Right Now - Yahoo Finance Australia",
+    "body": "Why American International Group (AIG) is a Great Dividend Stock Right Now Yahoo Finance Australia",
+    "author": null,
+    "language": "en",
+    "ticker": "AIG",
+    "tickers_hint": [
+      "AIG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo finance australia",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance Australia",
+      "source_domain": "yahoofinanceaustralia.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "AIG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

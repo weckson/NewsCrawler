@@ -1,0 +1,60 @@
+[
+  {
+    "id": "2e39de66-0b13-5088-bd45-3ae3cac7b8ed",
+    "timestamp_utc": "2026-03-31T04:43:39+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8761525/eqix-truist-securities-raises-price-target-to-1127-maintains-buy-rating-eqix-stock-news",
+    "title": "EQIX: Truist Securities Raises Price Target to $1127, Maintains Buy Rating | EQIX Stock News - GuruFocus",
+    "body": "EQIX: Truist Securities Raises Price Target to $1127, Maintains Buy Rating | EQIX Stock News GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "EQIX",
+    "tickers_hint": [
+      "EQIX"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.7000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "EQIX"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "c1350d15-4318-52d7-bd90-77da97888a25",
+    "timestamp_utc": "2026-03-31T19:25:55+00:00",
+    "source": "intellectia_ai",
+    "url": "https://intellectia.ai/en/stock/EQIX/technical",
+    "title": "EQIX Technical Analysis & Stock Price Forecast - Intellectia AI",
+    "body": "EQIX Technical Analysis & Stock Price Forecast Intellectia AI",
+    "author": null,
+    "language": "en",
+    "ticker": "EQIX",
+    "tickers_hint": [
+      "EQIX"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "intellectia ai",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Intellectia AI",
+      "source_domain": "intellectiaai.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "EQIX"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

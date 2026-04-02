@@ -1,0 +1,130 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "7bdbec6c-c9f7-5cc6-8689-faefcbccea08",
+      "timestamp_utc": "2026-03-31T23:34:38+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/PSA-PG/news",
+      "title": "PSA-PG Stock News Today | Earnings, Events & Price Alerts - Intellectia AI",
+      "body": "PSA-PG Stock News Today | Earnings, Events & Price Alerts Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "PSA",
+      "tickers_hint": [
+        "PSA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "PSA"
+        ],
+        "alt_sources": [
+          "Intellectia AI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8760a6f5-3d5f-54d8-b644-e8efac79594f",
+      "timestamp_utc": "2026-03-31T15:26:02+00:00",
+      "source": "stock_traders_daily",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTEtuRmd5WXgxZHVfazh3WkktUE1oTzBnTE5BWk5tNExCRHhqWHdQTnNRUUZ2Zng3VnhxQlUybmVWaGxlUklMX0Ftb09fWFpOaHY5emhISlR5RmJVMW5mcXZqc2xwbFhYT0NqZmtKb2d3TTRNa09RQ2dyR0NSQmk1S0s3TVVVZHl6aURrMUkzNHlXdzR3QWR1Q1FQTEJ1dFdNeFZ0MnJOTWRJZGdLQkhidFNoa3ItbkxKWURjeDlRUlFCUVhBRHA3VUk5V0U?oc=5",
+      "title": "Precision Trading with Public Storage (PSA) Risk Zones - Stock Traders Daily",
+      "body": "Precision Trading with Public Storage (PSA) Risk Zones Stock Traders Daily",
+      "author": null,
+      "language": "en",
+      "ticker": "PSA",
+      "tickers_hint": [
+        "PSA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock traders daily",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Traders Daily",
+        "source_domain": "stocktradersdaily.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PSA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "7bdbec6c-c9f7-5cc6-8689-faefcbccea08",
+      "timestamp_utc": "2026-03-31T23:34:38+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/PSA-PG/news",
+      "title": "PSA-PG Stock News Today | Earnings, Events & Price Alerts - Intellectia AI",
+      "body": "PSA-PG Stock News Today | Earnings, Events & Price Alerts Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "PSA",
+      "tickers_hint": [
+        "PSA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "PSA"
+        ],
+        "alt_sources": [
+          "Intellectia AI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8760a6f5-3d5f-54d8-b644-e8efac79594f",
+      "timestamp_utc": "2026-03-31T15:26:02+00:00",
+      "source": "stock_traders_daily",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTEtuRmd5WXgxZHVfazh3WkktUE1oTzBnTE5BWk5tNExCRHhqWHdQTnNRUUZ2Zng3VnhxQlUybmVWaGxlUklMX0Ftb09fWFpOaHY5emhISlR5RmJVMW5mcXZqc2xwbFhYT0NqZmtKb2d3TTRNa09RQ2dyR0NSQmk1S0s3TVVVZHl6aURrMUkzNHlXdzR3QWR1Q1FQTEJ1dFdNeFZ0MnJOTWRJZGdLQkhidFNoa3ItbkxKWURjeDlRUlFCUVhBRHA3VUk5V0U?oc=5",
+      "title": "Precision Trading with Public Storage (PSA) Risk Zones - Stock Traders Daily",
+      "body": "Precision Trading with Public Storage (PSA) Risk Zones Stock Traders Daily",
+      "author": null,
+      "language": "en",
+      "ticker": "PSA",
+      "tickers_hint": [
+        "PSA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock traders daily",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Traders Daily",
+        "source_domain": "stocktradersdaily.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PSA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

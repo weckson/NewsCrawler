@@ -1,0 +1,31 @@
+[
+  {
+    "id": "de8cbba5-7457-5a03-a27b-10e336a69b3f",
+    "timestamp_utc": "2026-04-01T02:30:00+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSXphUEdQb2FxdURya1BVRlBSSVFRZjh6OE1ONkNYeXFDWUk4MjNqZGctSzhIOEhDLTZGTnJ0NHBWOVpSaG5ZX3VsbWpRSjNGcTF6TVU1bUwyMDV1aDFBNHFvZ3RBNjVpUWE2RWlFcFlSVkhYLVppQmZDZjI4bXJMbTVKVldzNWIybGtFc3NPcUJ0RzkyLUNyU0JxVXdDeGNIYXhBdUNJUWFxWXI2N2xjeklQSlo4Q1FhcDJj?oc=5",
+    "title": "BMW replaces fragmented engineering systems with PTC Codebeamer - Stock Titan",
+    "body": "BMW replaces fragmented engineering systems with PTC Codebeamer Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "PTC",
+    "tickers_hint": [
+      "PTC"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "PTC"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

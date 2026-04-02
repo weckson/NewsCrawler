@@ -1,0 +1,31 @@
+[
+  {
+    "id": "23f14d6c-9d6e-58cb-aaad-b9f0667cc546",
+    "timestamp_utc": "2026-03-31T23:06:08+00:00",
+    "source": "msn",
+    "url": "https://www.msn.com/en-us/money/topstocks/henry-schein-hsic-down-94-since-last-earnings-report-can-it-rebound/ar-AA1ZtFyB",
+    "title": "Henry Schein (HSIC) down 9.4% since last earnings report: Can it rebound? - MSN",
+    "body": "Henry Schein (HSIC) down 9.4% since last earnings report: Can it rebound? MSN",
+    "author": null,
+    "language": "en",
+    "ticker": "HSIC",
+    "tickers_hint": [
+      "HSIC"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "msn",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MSN",
+      "source_domain": "msn.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "HSIC"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

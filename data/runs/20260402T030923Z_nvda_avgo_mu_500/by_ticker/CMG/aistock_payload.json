@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "86441110-0093-519d-88b9-793492b6841b",
+      "timestamp_utc": "2026-03-31T14:10:45+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/stock/XSWX:CMG/summary?mobile",
+      "title": "Chipotle Mexican Grill Inc (XSWX:CMG) Stock Price, Trades & News - GuruFocus",
+      "body": "Chipotle Mexican Grill Inc (XSWX:CMG) Stock Price, Trades & News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "CMG",
+      "tickers_hint": [
+        "CMG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "CMG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "86441110-0093-519d-88b9-793492b6841b",
+      "timestamp_utc": "2026-03-31T14:10:45+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/stock/XSWX:CMG/summary?mobile",
+      "title": "Chipotle Mexican Grill Inc (XSWX:CMG) Stock Price, Trades & News - GuruFocus",
+      "body": "Chipotle Mexican Grill Inc (XSWX:CMG) Stock Price, Trades & News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "CMG",
+      "tickers_hint": [
+        "CMG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "CMG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "52007ddc-7b26-5dbf-b0a4-3cd190290ba6",
+    "timestamp_utc": "2026-03-31T05:43:23+00:00",
+    "source": "benzinga",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQzdYQVZFczRpMmh3LVBJSHBremNpRGd3MW5ZYkozdnozRWtZVllHSXJYTEpEeGJBYUR3VjNfZVRyQTROUnBzTlpSSlZoaHB6Q1dzY2FfRTA3Q3pNT1ZrTWpZdjdlT3RYTjlJNWRQQjlaUDJ4TlFYNkVwY1hWYXNwNVVVejhEZFh5b3hLT2dYZDhULXFaVWhMYVJTRU9QQW5wbl8tTEpTMDFXX1Fv?oc=5",
+    "title": "Amazon Stock Is Climbing Tuesday — What's Going On? - Benzinga",
+    "body": "Amazon Stock Is Climbing Tuesday — What's Going On? Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "AMZN",
+    "tickers_hint": [
+      "AMZN",
+      "MA"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "meta": {
+      "channel": "google_benzinga",
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "AMZN",
+        "MA"
+      ],
+      "alt_sources": [
+        "Benzinga"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "7b111ad5-1fa9-522e-8915-3f83c1b5fde3",
+    "timestamp_utc": "2026-04-01T09:00:23+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-incorporated-ma-billionaire-ray-190023221.html",
+    "title": "Mastercard Incorporated (MA): Billionaire Ray Dalio Is Buying This Stock - Yahoo Finance",
+    "body": "Mastercard Incorporated (MA): Billionaire Ray Dalio Is Buying This Stock Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "MA",
+    "tickers_hint": [
+      "MA"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "MA"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "6b401dd3-5601-58cd-b7ba-199e44624e55",
+    "timestamp_utc": "2026-04-01T07:35:58+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8765657/ma-evercore-isi-lowers-price-target-on-mastercard-while-maintaining-rating-ma-stock-news",
+    "title": "MA: Evercore ISI Lowers Price Target on Mastercard While Maintai - GuruFocus",
+    "body": "MA: Evercore ISI Lowers Price Target on Mastercard While Maintai GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "MA",
+    "tickers_hint": [
+      "MA"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.7000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "MA"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "860bf99b-f3dc-5593-83d9-94ce3094cf55",
+    "timestamp_utc": "2026-03-31T10:48:45+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8762391/ubs-lowers-price-target-for-mastercard-ma-to-650-maintains-buy-rating-ma-stock-news?mobile=true",
+    "title": "UBS Lowers Price Target for Mastercard (MA) to $650, Maintains B - GuruFocus",
+    "body": "UBS Lowers Price Target for Mastercard (MA) to $650, Maintains B GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "MA",
+    "tickers_hint": [
+      "MA"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "MA"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "5b151ace-26bf-5965-acef-37442634ed17",
+    "timestamp_utc": "2026-03-31T11:45:00+00:00",
+    "source": "gurufocus",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMXR0eEFJdm1JSnR5XzdIZ00yRWdqekJJVjA0U1BFamJVb0JNQnF3ZkxTSF9TUWJCRlhWSjVGY1hzaS1mZzlKMVZHVkplOFlJUzhJZzZ0cUR5eUVXNzAwT1dkdTk3S25aTTdQdEFUenZNTUF6WU5RaXdUdDZLVjlqcUN5MEZ4Qk90RGZpbUVRblVhN2RXZ1ZEeUJkek9iV1pueVZPTVRCX0JHSlA1bXRqRWdLemppRHUwUXZKeVQ3dHM0Ml8xcGhsNw?oc=5",
+    "title": "Loop Capital Initiates Coverage on Mastercard (MA) with Buy Rati - GuruFocus",
+    "body": "Loop Capital Initiates Coverage on Mastercard (MA) with Buy Rati GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "MA",
+    "tickers_hint": [
+      "MA"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "MA"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

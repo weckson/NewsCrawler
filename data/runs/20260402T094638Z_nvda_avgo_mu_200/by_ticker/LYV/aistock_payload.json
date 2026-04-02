@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "aa955db8-ba83-52f3-b02e-de8b80d038db",
+      "timestamp_utc": "2026-03-31T21:11:10+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-live-nation-entertainment-inc-lyv-shares-bought-by-allspring-global-investments-holdings-llc-2026-04-01/",
+      "title": "Live Nation Entertainment, Inc. $LYV Shares Bought by Allspring Global Investments Holdings LLC - MarketBeat",
+      "body": "Live Nation Entertainment, Inc. $LYV Shares Bought by Allspring Global Investments Holdings LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "LYV",
+      "tickers_hint": [
+        "LYV"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "LYV"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "aa955db8-ba83-52f3-b02e-de8b80d038db",
+      "timestamp_utc": "2026-03-31T21:11:10+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-live-nation-entertainment-inc-lyv-shares-bought-by-allspring-global-investments-holdings-llc-2026-04-01/",
+      "title": "Live Nation Entertainment, Inc. $LYV Shares Bought by Allspring Global Investments Holdings LLC - MarketBeat",
+      "body": "Live Nation Entertainment, Inc. $LYV Shares Bought by Allspring Global Investments Holdings LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "LYV",
+      "tickers_hint": [
+        "LYV"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "LYV"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

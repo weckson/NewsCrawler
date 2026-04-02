@@ -1,0 +1,31 @@
+[
+  {
+    "id": "6bed7202-4c18-5c51-af4e-bef3db1c2fe6",
+    "timestamp_utc": "2026-04-01T09:12:06+00:00",
+    "source": "tipranks",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMU84cWRHSGR3eC1oWUpNZXVIb0hJTHJwMG9vdE1EWmRWenRuQjkzQlpoc1djNXpYLW8tenhZeWhDUUQ4eG1kVGFxOWtaQkRUUmtHa1hfcUlraFZ3UnBLS3dPTV84TGl4YlFfQnVMMWJXMzJXTkEzRHdCYXdoejN1VWU5Y2MzZXpRbmY5b0FXMGphZDZBUHc?oc=5",
+    "title": "General Motors Stock (GM) Runs Out of Gas as Deliveries Fall 10% - TipRanks",
+    "body": "General Motors Stock (GM) Runs Out of Gas as Deliveries Fall 10% TipRanks",
+    "author": null,
+    "language": "en",
+    "ticker": "GM",
+    "tickers_hint": [
+      "GM"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "tipranks.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "GM"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

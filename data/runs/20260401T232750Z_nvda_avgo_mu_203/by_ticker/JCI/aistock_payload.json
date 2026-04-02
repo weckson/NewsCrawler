@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "e3051bbf-c157-58f9-9f9b-38f183317edf",
+      "timestamp_utc": "2026-03-31T00:07:18+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-johnson-controls-international-plc-jci-holdings-cut-by-retirement-systems-of-alabama-2026-03-31/",
+      "title": "Johnson Controls International plc $JCI Holdings Cut by Retirement Systems of Alabama - MarketBeat",
+      "body": "Johnson Controls International plc $JCI Holdings Cut by Retirement Systems of Alabama MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JCI",
+      "tickers_hint": [
+        "JCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "JCI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8294fe14-c504-509a-8090-26145373a6c9",
+      "timestamp_utc": "2026-03-31T14:07:00+00:00",
+      "source": "voi.id",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1VbV9jLXgxZXJlaGp2QnBxczBJUWxmWjhXdWxhalp1WEdjUnVsM01uV3pUS3F6VzY4V0g1TXBSS3RVZGNGWDln0gFCQVVfeXFMUDNxbWEyYk01SWsxM2l3SXp4ZFptM01RM0ZONlk0YVZQS2tJdm5jS3k1NXQ1OHNfWHpNVHNuWlFCOTVR?oc=5",
+      "title": "JCI Wednesday has the opportunity to rebound, these five stocks are worth choosing - VOI.id",
+      "body": "JCI Wednesday has the opportunity to rebound, these five stocks are worth choosing VOI.id",
+      "author": null,
+      "language": "en",
+      "ticker": "JCI",
+      "tickers_hint": [
+        "JCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "voi.id",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "VOI.id",
+        "source_domain": "voiid.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JCI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3402e0c8-d852-5a33-9b16-ce93e3a6d927",
+      "timestamp_utc": "2026-03-31T07:38:19+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSkJhU205U1Q5bWlIOGpwUGlpTUZkYjBYdWZPWFV6VGJQRVBoSkg1RVRJUmJYbURGdlVHQ05mY2VsaFFWazQ0QzdvQ0RwZEZrdnlmbFZMeVJPNVZfUU1MUzMweHlGelhMTlE3Z1RCLWhhSENHLXBoSUk5UW5NXzlRYmtzNS02TXN1M0ViM2xMZGZWa210MTdtM1RYRlNCenVjSjlLTkJsVUQtQ0xlczRBODZMbGlUVUlfMXc?oc=5",
+      "title": "Johnson Controls International PLC (JCI) Stock Price Up 2.31% on Mar 31 - GuruFocus",
+      "body": "Johnson Controls International PLC (JCI) Stock Price Up 2.31% on Mar 31 GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "JCI",
+      "tickers_hint": [
+        "JCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JCI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "e3051bbf-c157-58f9-9f9b-38f183317edf",
+      "timestamp_utc": "2026-03-31T00:07:18+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-johnson-controls-international-plc-jci-holdings-cut-by-retirement-systems-of-alabama-2026-03-31/",
+      "title": "Johnson Controls International plc $JCI Holdings Cut by Retirement Systems of Alabama - MarketBeat",
+      "body": "Johnson Controls International plc $JCI Holdings Cut by Retirement Systems of Alabama MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JCI",
+      "tickers_hint": [
+        "JCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "JCI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8294fe14-c504-509a-8090-26145373a6c9",
+      "timestamp_utc": "2026-03-31T14:07:00+00:00",
+      "source": "voi.id",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1VbV9jLXgxZXJlaGp2QnBxczBJUWxmWjhXdWxhalp1WEdjUnVsM01uV3pUS3F6VzY4V0g1TXBSS3RVZGNGWDln0gFCQVVfeXFMUDNxbWEyYk01SWsxM2l3SXp4ZFptM01RM0ZONlk0YVZQS2tJdm5jS3k1NXQ1OHNfWHpNVHNuWlFCOTVR?oc=5",
+      "title": "JCI Wednesday has the opportunity to rebound, these five stocks are worth choosing - VOI.id",
+      "body": "JCI Wednesday has the opportunity to rebound, these five stocks are worth choosing VOI.id",
+      "author": null,
+      "language": "en",
+      "ticker": "JCI",
+      "tickers_hint": [
+        "JCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "voi.id",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "VOI.id",
+        "source_domain": "voiid.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JCI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3402e0c8-d852-5a33-9b16-ce93e3a6d927",
+      "timestamp_utc": "2026-03-31T07:38:19+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSkJhU205U1Q5bWlIOGpwUGlpTUZkYjBYdWZPWFV6VGJQRVBoSkg1RVRJUmJYbURGdlVHQ05mY2VsaFFWazQ0QzdvQ0RwZEZrdnlmbFZMeVJPNVZfUU1MUzMweHlGelhMTlE3Z1RCLWhhSENHLXBoSUk5UW5NXzlRYmtzNS02TXN1M0ViM2xMZGZWa210MTdtM1RYRlNCenVjSjlLTkJsVUQtQ0xlczRBODZMbGlUVUlfMXc?oc=5",
+      "title": "Johnson Controls International PLC (JCI) Stock Price Up 2.31% on Mar 31 - GuruFocus",
+      "body": "Johnson Controls International PLC (JCI) Stock Price Up 2.31% on Mar 31 GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "JCI",
+      "tickers_hint": [
+        "JCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JCI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

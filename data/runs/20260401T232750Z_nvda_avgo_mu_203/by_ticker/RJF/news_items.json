@@ -1,0 +1,31 @@
+[
+  {
+    "id": "a2fde45e-881d-5379-81d8-f3444cc66c25",
+    "timestamp_utc": "2026-03-31T23:26:41+00:00",
+    "source": "bitget.com",
+    "url": "https://www.bitget.com/amp/news/detail/12560605325451",
+    "title": "RJF’s Dividend Dip: 2.5 Days to Recovery, Every Time? - bitget.com",
+    "body": "RJF’s Dividend Dip: 2.5 Days to Recovery, Every Time? bitget.com",
+    "author": null,
+    "language": "en",
+    "ticker": "RJF",
+    "tickers_hint": [
+      "RJF"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "bitget.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "bitget.com",
+      "source_domain": "bitgetcom.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "RJF"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

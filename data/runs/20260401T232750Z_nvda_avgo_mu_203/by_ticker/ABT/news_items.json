@@ -1,0 +1,62 @@
+[
+  {
+    "id": "57ded587-e99f-5e01-ad89-291e09a892bf",
+    "timestamp_utc": "2026-04-01T05:40:03+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZWF3QXhRX1NMZ0NCMGNMcDU4ZXFsdUtrU1hBaE5HZy1xcDVUTUxiUWp2V2s3aGNtT21Ody1icjZucHc5cndwcUlwbnlCcmc2X2MtclJHVHk1aXlCMWdJbm1LUmpKY2R4MF9YV0xvRWFzRUNpM05yTWRBbmY4Z2F6OXZzWTZRcTUzeHlRa0hhaU5Kc3RkWmc4?oc=5",
+    "title": "GEHC or ABT: Which Is the Better Value Stock Right Now? - Yahoo Finance",
+    "body": "GEHC or ABT: Which Is the Better Value Stock Right Now? Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "ABT",
+    "tickers_hint": [
+      "ABT",
+      "GEHC"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "ABT",
+        "GEHC"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "3cbc1977-8b96-531e-889c-0c8e2ca29057",
+    "timestamp_utc": "2026-04-01T03:00:03+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNajY0aXNqNm93ZENLdnBseXE1NXFXTER4ZVJPRUV3QXl6UDVTdWxRTGZ6VGNqbDFYTnhaZnJQd1ZoMHlnSWxiS1ZsU0pDZkF4REo1TENKSGdZaG1HYkdkMHY2bWVDcnJNUnp3Wjh3aTU3MWhYSEVOM1NMTkltc1pPaGZMMWt6c1RGTllMaUFvOHduZS1xUFdINUEtQ2xsejdOMmc?oc=5",
+    "title": "Here is What to Know Beyond Why Abbott Laboratories (ABT) is a Trending Stock - Yahoo Finance",
+    "body": "Here is What to Know Beyond Why Abbott Laboratories (ABT) is a Trending Stock Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "ABT",
+    "tickers_hint": [
+      "ABT"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "ABT"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

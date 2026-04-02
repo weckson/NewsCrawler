@@ -1,0 +1,60 @@
+[
+  {
+    "id": "021a8a60-3873-546b-9c49-0f7453c3c5b9",
+    "timestamp_utc": "2026-03-31T23:32:08+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-warner-bros-discovery-inc-wbd-shares-purchased-by-mn-services-vermogensbeheer-bv-2026-04-01/",
+    "title": "Warner Bros. Discovery, Inc. $WBD Shares Purchased by Mn Services Vermogensbeheer B.V. - MarketBeat",
+    "body": "Warner Bros. Discovery, Inc. $WBD Shares Purchased by Mn Services Vermogensbeheer B.V. MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "WBD",
+    "tickers_hint": [
+      "WBD"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "WBD"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "f65bf774-1f50-58f5-8018-5c84c946d090",
+    "timestamp_utc": "2026-03-31T06:19:00+00:00",
+    "source": "stock_titan",
+    "url": "https://www.stocktitan.net/news/WBD/are-ewcz-kore-wbd-obtaining-fair-deals-for-their-fotud2ok4sym.html",
+    "title": "Are EWCZ, KORE, WBD Obtaining Fair Deals for their Shareholders? - Stock Titan",
+    "body": "WARNER BROS DISCOVERY INC NASDAQ:WBD View WBD Stock Overview → WBD Rankings #233 Ranked by Market Cap N/A Ranked by Dividends WBD Latest News Mar 27, 2026 Are WBD, FONR, ULY Obtaining Fair Deals for their Shareholders?\n\nDiscovery Sets Shareholder Meeting Date of April 23, 2026 to Approve Transaction with Paramount Skydance Mar 18, 2026 GoPro Named Official Wearable Camera Supplier of the WHOOP UCI Mountain Bike World Series Feb 27, 2026 PARAMOUNT TO ACQUIRE WARNER BROS.\n\nDISCOVERY TO FORM NEXT-GENERATION GLOBAL MEDIA AND ENTERTAINMENT COMPANY Feb 26, 2026 Netflix Declines to Raise Offer for Warner Bros.\n\nInsider Trading Activity Mar 30, 2026 [DFAN14A] Warner Bros.\n\nAmended Passive Investment Disclosure Mar 26, 2026 [DEFM14A] Warner Bros.\n\nMerger Proxy Statement WBD Stock Data Market Cap 67.91B Float 2.37B Industry Entertainment Sector Cable & Other Pay Television Services Website Link Country United States City NEW YORK",
+    "author": null,
+    "language": "en",
+    "ticker": "WBD",
+    "tickers_hint": [
+      "WBD"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "WBD"
+      ],
+      "body_kind": "article_text"
+    },
+    "stream_type": "soft"
+  }
+]

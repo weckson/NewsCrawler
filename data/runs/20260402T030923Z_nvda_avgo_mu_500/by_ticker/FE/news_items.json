@@ -1,0 +1,31 @@
+[
+  {
+    "id": "56a796b5-71ac-5bbe-a711-a656b1d14ad8",
+    "timestamp_utc": "2026-04-01T10:20:00+00:00",
+    "source": "chartmill",
+    "url": "https://www.chartmill.com/news/FE/prnews-2026-4-1-firstenergy-to-webcast-first-quarter-earnings-teleconference",
+    "title": "FirstEnergy to Webcast First Quarter Earnings Teleconference - ChartMill",
+    "body": "FirstEnergy to Webcast First Quarter Earnings Teleconference ChartMill",
+    "author": null,
+    "language": "en",
+    "ticker": "FE",
+    "tickers_hint": [
+      "FE"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "chartmill",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "ChartMill",
+      "source_domain": "chartmill.com",
+      "trust_tier": 1,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "FE"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

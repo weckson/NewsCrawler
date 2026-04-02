@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "786e06cc-a5b8-593f-920c-f4aad09f59fa",
+      "timestamp_utc": "2026-04-01T08:42:35+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/ingersoll-rand-nyseir-given-new-10000-price-target-at-barclays-2026-04-01/",
+      "title": "Ingersoll Rand (NYSE:IR) Given New $100.00 Price Target at Barclays - MarketBeat",
+      "body": "Ingersoll Rand (NYSE:IR) Given New $100.00 Price Target at Barclays MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "IR",
+      "tickers_hint": [
+        "IR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "IR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "dbd07063-f454-58a6-88e3-309df1c76184",
+      "timestamp_utc": "2026-04-01T06:55:32+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/ingersoll-rand-nyseir-price-target-lowered-to-9000-at-wells-fargo-company-2026-04-01/",
+      "title": "Ingersoll Rand (NYSE:IR) Price Target Lowered to $90.00 at Wells Fargo & Company - MarketBeat",
+      "body": "Ingersoll Rand (NYSE:IR) Price Target Lowered to $90.00 at Wells Fargo & Company MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "IR",
+      "tickers_hint": [
+        "IR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "IR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a9d9e94b-d1e2-59f8-8b91-5a4a6e194b25",
+      "timestamp_utc": "2026-03-31T21:07:14+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTi1HYlczMTFqSlJzdVE3Y0p6RzdZQkJicVBKOXpTa0pITEtnUlpBQWxlVnJVUDBaeXJyeGdBeHZGb2w3ZHl2UkJveVdSbkdCZnk2dDBhdmEzWUhLUFJrQThhRW5hN3RobTBXZVc3QXhETFhqclBuWDRMNE1wanktcFk5QU8ybEpxT3dxNjZKeDQ4M3FzbDA2OTdIWE03aGpOZ01kbGVuOHdRVHNEN3NyWHgtMnBmOF9iNTdwU2h1ZXBydDA?oc=5",
+      "title": "Ingersoll Rand Inc. $IR Stake Reduced by Allspring Global Investments Holdings LLC - Defense World",
+      "body": "Ingersoll Rand Inc. $IR Stake Reduced by Allspring Global Investments Holdings LLC Defense World",
+      "author": null,
+      "language": "en",
+      "ticker": "IR",
+      "tickers_hint": [
+        "IR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "IR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "786e06cc-a5b8-593f-920c-f4aad09f59fa",
+      "timestamp_utc": "2026-04-01T08:42:35+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/ingersoll-rand-nyseir-given-new-10000-price-target-at-barclays-2026-04-01/",
+      "title": "Ingersoll Rand (NYSE:IR) Given New $100.00 Price Target at Barclays - MarketBeat",
+      "body": "Ingersoll Rand (NYSE:IR) Given New $100.00 Price Target at Barclays MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "IR",
+      "tickers_hint": [
+        "IR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "IR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "dbd07063-f454-58a6-88e3-309df1c76184",
+      "timestamp_utc": "2026-04-01T06:55:32+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/ingersoll-rand-nyseir-price-target-lowered-to-9000-at-wells-fargo-company-2026-04-01/",
+      "title": "Ingersoll Rand (NYSE:IR) Price Target Lowered to $90.00 at Wells Fargo & Company - MarketBeat",
+      "body": "Ingersoll Rand (NYSE:IR) Price Target Lowered to $90.00 at Wells Fargo & Company MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "IR",
+      "tickers_hint": [
+        "IR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "IR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a9d9e94b-d1e2-59f8-8b91-5a4a6e194b25",
+      "timestamp_utc": "2026-03-31T21:07:14+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTi1HYlczMTFqSlJzdVE3Y0p6RzdZQkJicVBKOXpTa0pITEtnUlpBQWxlVnJVUDBaeXJyeGdBeHZGb2w3ZHl2UkJveVdSbkdCZnk2dDBhdmEzWUhLUFJrQThhRW5hN3RobTBXZVc3QXhETFhqclBuWDRMNE1wanktcFk5QU8ybEpxT3dxNjZKeDQ4M3FzbDA2OTdIWE03aGpOZ01kbGVuOHdRVHNEN3NyWHgtMnBmOF9iNTdwU2h1ZXBydDA?oc=5",
+      "title": "Ingersoll Rand Inc. $IR Stake Reduced by Allspring Global Investments Holdings LLC - Defense World",
+      "body": "Ingersoll Rand Inc. $IR Stake Reduced by Allspring Global Investments Holdings LLC Defense World",
+      "author": null,
+      "language": "en",
+      "ticker": "IR",
+      "tickers_hint": [
+        "IR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "IR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

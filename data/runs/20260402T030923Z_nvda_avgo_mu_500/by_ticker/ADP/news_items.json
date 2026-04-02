@@ -1,0 +1,60 @@
+[
+  {
+    "id": "de713ece-4d12-5464-b9df-53f6852396b9",
+    "timestamp_utc": "2026-03-31T12:36:23+00:00",
+    "source": "bitget",
+    "url": "https://www.bitget.com/asia/news/detail/12560605326799",
+    "title": "ADP Employment Data Exceeds Expectations, US Stock Indices Open Higher - Bitget",
+    "body": "ADP Employment Data Exceeds Expectations, US Stock Indices Open Higher Bitget",
+    "author": null,
+    "language": "en",
+    "ticker": "ADP",
+    "tickers_hint": [
+      "ADP"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "bitget",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Bitget",
+      "source_domain": "bitget.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "ADP"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "a9c04aef-1b79-57b8-9ca6-03f28e54ca33",
+    "timestamp_utc": "2026-04-01T04:27:21+00:00",
+    "source": "zacks.com",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdFJIQldzZGFrZUhxdzJJaVJWSHpzNVF3VWJkb2xWMmJ3RkFwQ1ZjT1NfUTFlX1FTcGV1Tmc3dUxlSzB2bFBuZDBheXVraFUxTjFFY3JzNUJ6d1A3WkM5Z1F2ODVEbEpnYzZpT05WWUczdnlSanlkVFZIY29LQTRyejZoN000VkY0NjhseFdWaDZqOXFCaVhYZ0FzRUZtc244Ymc?oc=5",
+    "title": "Here's Why You Should Retain ADP Stock in Your Portfolio Now - zacks.com",
+    "body": "Here's Why You Should Retain ADP Stock in Your Portfolio Now zacks.com",
+    "author": null,
+    "language": "en",
+    "ticker": "ADP",
+    "tickers_hint": [
+      "ADP"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "zacks.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "zacks.com",
+      "source_domain": "zackscom.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "ADP"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

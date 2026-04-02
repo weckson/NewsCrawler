@@ -1,0 +1,130 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "aaf40056-9dd4-5abf-a509-58aa2ee57f57",
+      "timestamp_utc": "2026-04-01T05:51:15+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/raymond-james-financial-has-lowered-expectations-for-delta-air-lines-nysedal-stock-price-2026-04-01/",
+      "title": "Raymond James Financial Has Lowered Expectations for Delta Air Lines (NYSE:DAL) Stock Price - MarketBeat",
+      "body": "Raymond James Financial Has Lowered Expectations for Delta Air Lines (NYSE:DAL) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "DAL",
+      "tickers_hint": [
+        "DAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "DAL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3cb1006e-ef04-5342-9484-c9f81f26d7d8",
+      "timestamp_utc": "2026-03-31T11:18:44+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/DAL/news",
+      "title": "DAL Stock News Today | Earnings, Events & Price Alerts - Intellectia AI",
+      "body": "DAL Stock News Today | Earnings, Events & Price Alerts Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "DAL",
+      "tickers_hint": [
+        "DAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "DAL"
+        ],
+        "alt_sources": [
+          "Intellectia AI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "aaf40056-9dd4-5abf-a509-58aa2ee57f57",
+      "timestamp_utc": "2026-04-01T05:51:15+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/raymond-james-financial-has-lowered-expectations-for-delta-air-lines-nysedal-stock-price-2026-04-01/",
+      "title": "Raymond James Financial Has Lowered Expectations for Delta Air Lines (NYSE:DAL) Stock Price - MarketBeat",
+      "body": "Raymond James Financial Has Lowered Expectations for Delta Air Lines (NYSE:DAL) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "DAL",
+      "tickers_hint": [
+        "DAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "DAL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3cb1006e-ef04-5342-9484-c9f81f26d7d8",
+      "timestamp_utc": "2026-03-31T11:18:44+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/DAL/news",
+      "title": "DAL Stock News Today | Earnings, Events & Price Alerts - Intellectia AI",
+      "body": "DAL Stock News Today | Earnings, Events & Price Alerts Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "DAL",
+      "tickers_hint": [
+        "DAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "DAL"
+        ],
+        "alt_sources": [
+          "Intellectia AI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

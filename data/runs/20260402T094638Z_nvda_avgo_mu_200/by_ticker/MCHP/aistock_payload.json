@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "f9a9c439-3c95-5de5-86ce-7be20e5fc8e1",
+      "timestamp_utc": "2026-04-01T10:44:31+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/technologyinvesting/microchip-technology-mchp-will-address-emerging-cybersecurity-requirements-with-its-new-trust-platform/ar-AA1Z2ePl",
+      "title": "Microchip Technology (MCHP) will address emerging cybersecurity requirements with its new trust platform - MSN",
+      "body": "Microchip Technology (MCHP) will address emerging cybersecurity requirements with its new trust platform MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "MCHP",
+      "tickers_hint": [
+        "MCHP"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCHP"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "f9a9c439-3c95-5de5-86ce-7be20e5fc8e1",
+      "timestamp_utc": "2026-04-01T10:44:31+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/technologyinvesting/microchip-technology-mchp-will-address-emerging-cybersecurity-requirements-with-its-new-trust-platform/ar-AA1Z2ePl",
+      "title": "Microchip Technology (MCHP) will address emerging cybersecurity requirements with its new trust platform - MSN",
+      "body": "Microchip Technology (MCHP) will address emerging cybersecurity requirements with its new trust platform MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "MCHP",
+      "tickers_hint": [
+        "MCHP"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCHP"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

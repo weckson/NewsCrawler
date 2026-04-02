@@ -1,0 +1,89 @@
+[
+  {
+    "id": "6d56f921-2731-5591-b7a3-cd0e70afb8a3",
+    "timestamp_utc": "2026-04-01T02:45:02+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/conagra-brands-cag-q3-earnings-124502168.html",
+    "title": "Conagra Brands (CAG) Q3 Earnings Lag Estimates - Yahoo Finance",
+    "body": "Conagra Brands (CAG) Q3 Earnings Lag Estimates Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "CAG",
+    "tickers_hint": [
+      "CAG"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "CAG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "5f56aa0b-b8b1-5048-9265-fbeb1a279bda",
+    "timestamp_utc": "2026-04-01T02:27:06+00:00",
+    "source": "coincentral",
+    "url": "https://coincentral.com/conagra-brands-cag-stock-falls-after-earnings-miss-and-tightened-annual-profit-forecast/",
+    "title": "Conagra Brands (CAG) Stock Falls After Earnings Miss and Tightened Annual Profit Forecast - CoinCentral",
+    "body": "The Best AI Stock Picking Tools in 2026: Your Complete Guide to Smarter InvestingFebruary 3, 2026 Finding The Best Crypto to Invest In: Expert Strategies for Identifying Tomorrow’s WinnersFebruary 27, 2025 Sui Blockchain Explained: How It Works and What You Need to KnowFebruary 6, 2025 Is Trump’s Memecoin Legit?\n\nHere’s What We Know About $TRUMPFebruary 1, 2025 What is Decentralized AI and Why We Need It ASAP?December 29, 2024",
+    "author": null,
+    "language": "en",
+    "ticker": "CAG",
+    "tickers_hint": [
+      "CAG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "coincentral",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "CoinCentral",
+      "source_domain": "coincentral.com",
+      "trust_tier": 1,
+      "relevance": 0.7,
+      "event_origin": "news",
+      "query_tickers": [
+        "CAG"
+      ],
+      "body_kind": "article_text"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "f65327f8-ff86-5a75-89c1-eeb67daff9fd",
+    "timestamp_utc": "2026-04-01T05:06:42+00:00",
+    "source": "mexc",
+    "url": "https://www.mexc.com/news/997758",
+    "title": "Conagra Brands (CAG) Stock Drops Following Q3 Earnings Shortfall and Revised Profit Outlook - MEXC",
+    "body": "Conagra Brands (CAG) Stock Drops Following Q3 Earnings Shortfall and Revised Profit Outlook MEXC",
+    "author": null,
+    "language": "en",
+    "ticker": "CAG",
+    "tickers_hint": [
+      "CAG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "mexc",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MEXC",
+      "source_domain": "mexc.com",
+      "trust_tier": 1,
+      "relevance": 0.65,
+      "event_origin": "news",
+      "query_tickers": [
+        "CAG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

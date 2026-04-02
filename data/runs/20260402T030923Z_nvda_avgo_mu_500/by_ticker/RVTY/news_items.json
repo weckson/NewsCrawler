@@ -1,0 +1,60 @@
+[
+  {
+    "id": "6c9993e2-db79-5227-8891-e6b0fb03f57e",
+    "timestamp_utc": "2026-04-01T05:04:29+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX01WRGx2YjhjZ3hmRmxvb21Xa2xRc2UyaHRMRXVGM1BYWGR0RG05ZzhldUs5WDJDVjVVeEdoa3pwVFVOd3liQmVuLWNQLXNjbXh5WFRLRWxzRktxVmtJNC12LUJsR0NQSmI5am92TFNybFlYeXhhTm5GRjFfaEx3QzMxWjIzbTFCQkZZbmJSOFJBYllTTWc?oc=5",
+    "title": "Here’s Artisan Mid Cap Value Fund’s Investment Thesis for Revvity (RVTY) - Yahoo Finance",
+    "body": "Here’s Artisan Mid Cap Value Fund’s Investment Thesis for Revvity (RVTY) Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "RVTY",
+    "tickers_hint": [
+      "RVTY"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "RVTY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "35cacb12-f285-50fc-8fde-c35121a61e08",
+    "timestamp_utc": "2026-03-31T08:33:34+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8762024/jp-morgan-lowers-revvity-rvty-price-target-to-96-maintains-neutral-rating-rvty-stock-news?mobile=true",
+    "title": "JP Morgan Lowers Revvity (RVTY) Price Target to $96, Maintains N - GuruFocus",
+    "body": "JP Morgan Lowers Revvity (RVTY) Price Target to $96, Maintains N GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "RVTY",
+    "tickers_hint": [
+      "RVTY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "RVTY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

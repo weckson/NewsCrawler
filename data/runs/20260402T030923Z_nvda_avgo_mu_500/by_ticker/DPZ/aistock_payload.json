@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "2edf61a5-f7c8-5196-81ee-615dff66a108",
+      "timestamp_utc": "2026-03-31T05:11:15+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8761315/dominos-pizza-dpz-analyst-rating-update-wells-fargo-lowers-price-target-dpz-stock-news?mobile=true",
+      "title": "Domino's Pizza (DPZ) Analyst Rating Update: Wells Fargo Lowers P - GuruFocus",
+      "body": "Domino's Pizza (DPZ) Analyst Rating Update: Wells Fargo Lowers P GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "DPZ",
+      "tickers_hint": [
+        "DPZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "DPZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "2edf61a5-f7c8-5196-81ee-615dff66a108",
+      "timestamp_utc": "2026-03-31T05:11:15+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8761315/dominos-pizza-dpz-analyst-rating-update-wells-fargo-lowers-price-target-dpz-stock-news?mobile=true",
+      "title": "Domino's Pizza (DPZ) Analyst Rating Update: Wells Fargo Lowers P - GuruFocus",
+      "body": "Domino's Pizza (DPZ) Analyst Rating Update: Wells Fargo Lowers P GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "DPZ",
+      "tickers_hint": [
+        "DPZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "DPZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

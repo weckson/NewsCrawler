@@ -1,0 +1,89 @@
+[
+  {
+    "id": "20d3778e-fa4b-5c1d-b12d-b4ec76a3860e",
+    "timestamp_utc": "2026-03-31T13:06:54+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYUhWVTBGSXdUei1SeUhIU2xJTGlxLUVpNFlJd0tFclFYT2wxT241cC03MEtXWWtHMU10dHRjd2t2TUE3S2cyb2VIZ1p0aXBtODdjZXV6OUlyZm9Dd01VQnoycmc0S2d4bUtnOVVaTDI4WkFaNHR5UFMySUFWMWxDNzVVWmtEcGNGTEE2QWVsYXNSOEZJWnlxS21kSQ?oc=5",
+    "title": "A Look At SOLV Energy (MWH) Valuation After Recent Share Price Rebound - Yahoo Finance",
+    "body": "A Look At SOLV Energy (MWH) Valuation After Recent Share Price Rebound Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "SOLV",
+    "tickers_hint": [
+      "SOLV"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "SOLV"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "c4625aea-6f89-5c4d-8a61-32727ab96afa",
+    "timestamp_utc": "2026-04-01T04:22:12+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ydEF2M2ZISmJVRGdKTnRmZFRKbk9hMWJ0ZkNhbDBySDR5T21jOUo3SE5kV2tmZ0lrQ2J6TEt4ZjJ1cERZY1BjcDZrSENZOVE0Q0FzazBjODFhYllLVExDdzBZbU9Vdw?oc=5",
+    "title": "SOLV SEC Filings - Solventum Corporation 10-K, 10-Q, 8-K Forms - Stock Titan",
+    "body": "SOLV SEC Filings - Solventum Corporation 10-K, 10-Q, 8-K Forms Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "SOLV",
+    "tickers_hint": [
+      "SOLV"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "SOLV"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "e02cfc18-2219-54bc-ad27-27618cb06b4b",
+    "timestamp_utc": "2026-04-01T00:00:00+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQU1CN0tQdklnNlphM1gtRk02Y2tnZFd3VEh0dmd0Nzd6M3ZUN2RabnctUEFaTUhwdzZhR1ZRcjlFM1h1aUF1RUtaOFQxRWhYYW1zUGNJRU83OVJUNG5XOHdpY1JqcHRVazByUWx6cXVVa2JyWnZCaXRKZk5DYUE1Xy1xSGJnTTFSa2VaZ1F4QU1QNEhVMnkwazBOTUtCb2c5ZUtSTTRiNVFQc3JCaGF4ekh3allaaTlRRmtmakU4TQ?oc=5",
+    "title": "SOLV Energy lands its biggest site yet as managed renewables top 20 GW - Stock Titan",
+    "body": "SOLV Energy lands its biggest site yet as managed renewables top 20 GW Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "SOLV",
+    "tickers_hint": [
+      "SOLV"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "SOLV"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

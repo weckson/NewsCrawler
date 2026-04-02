@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "6f9e2f3a-27aa-53cb-9d82-432bc3d45f2b",
+      "timestamp_utc": "2026-03-31T08:34:57+00:00",
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/8762235/hban-morgan-stanley-lowers-price-target-while-maintaining-overweight-rating-hban-stock-news",
+      "title": "HBAN: Morgan Stanley Lowers Price Target While Maintaining Overw - gurufocus.com",
+      "body": "HBAN: Morgan Stanley Lowers Price Target While Maintaining Overw gurufocus.com",
+      "author": null,
+      "language": "en",
+      "ticker": "HBAN",
+      "tickers_hint": [
+        "HBAN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "gurufocus.com",
+        "source_domain": "gurufocuscom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HBAN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7f4b52f5-bc2a-517d-8305-e5bd63b56c03",
+      "timestamp_utc": "2026-03-31T07:13:07+00:00",
+      "source": "gurufocus.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE9wLU5RX2FyX1dUcU5FWUNGSU9KWVdMUHhYVjlheDRYRzR1U1lqdlhOdURNc2RVX3I3SnIzZ3VWX2VKYkFpNzlXYzVWSjlDUHV1SDNzd0F3UGhDdzhYNVpHMl9GTFozZzF0a0M3WFA4STZBZmU0a2RRUDU0bHc0cTZ6R3V5cV83WE9GWWlqbFVFSHVIeTExUEhCZkgzYWMybkoxczNpXzY?oc=5",
+      "title": "Huntington Bancshares Inc (HBAN) Shares Up 3.99% on Mar 31 - gurufocus.com",
+      "body": "Huntington Bancshares Inc (HBAN) Shares Up 3.99% on Mar 31 gurufocus.com",
+      "author": null,
+      "language": "en",
+      "ticker": "HBAN",
+      "tickers_hint": [
+        "HBAN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "gurufocus.com",
+        "source_domain": "gurufocuscom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HBAN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "6f9e2f3a-27aa-53cb-9d82-432bc3d45f2b",
+      "timestamp_utc": "2026-03-31T08:34:57+00:00",
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/8762235/hban-morgan-stanley-lowers-price-target-while-maintaining-overweight-rating-hban-stock-news",
+      "title": "HBAN: Morgan Stanley Lowers Price Target While Maintaining Overw - gurufocus.com",
+      "body": "HBAN: Morgan Stanley Lowers Price Target While Maintaining Overw gurufocus.com",
+      "author": null,
+      "language": "en",
+      "ticker": "HBAN",
+      "tickers_hint": [
+        "HBAN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "gurufocus.com",
+        "source_domain": "gurufocuscom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HBAN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7f4b52f5-bc2a-517d-8305-e5bd63b56c03",
+      "timestamp_utc": "2026-03-31T07:13:07+00:00",
+      "source": "gurufocus.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE9wLU5RX2FyX1dUcU5FWUNGSU9KWVdMUHhYVjlheDRYRzR1U1lqdlhOdURNc2RVX3I3SnIzZ3VWX2VKYkFpNzlXYzVWSjlDUHV1SDNzd0F3UGhDdzhYNVpHMl9GTFozZzF0a0M3WFA4STZBZmU0a2RRUDU0bHc0cTZ6R3V5cV83WE9GWWlqbFVFSHVIeTExUEhCZkgzYWMybkoxczNpXzY?oc=5",
+      "title": "Huntington Bancshares Inc (HBAN) Shares Up 3.99% on Mar 31 - gurufocus.com",
+      "body": "Huntington Bancshares Inc (HBAN) Shares Up 3.99% on Mar 31 gurufocus.com",
+      "author": null,
+      "language": "en",
+      "ticker": "HBAN",
+      "tickers_hint": [
+        "HBAN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "gurufocus.com",
+        "source_domain": "gurufocuscom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HBAN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

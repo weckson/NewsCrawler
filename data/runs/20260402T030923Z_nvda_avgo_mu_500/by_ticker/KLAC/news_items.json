@@ -1,0 +1,60 @@
+[
+  {
+    "id": "d8c1625d-579c-5d35-b544-267518ab5043",
+    "timestamp_utc": "2026-04-01T14:39:00+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-kla-corporation-klac-stock-003926430.html",
+    "title": "Why KLA Corporation (KLAC) Stock Is Trading Up Today - Yahoo Finance",
+    "body": "Why KLA Corporation (KLAC) Stock Is Trading Up Today Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "KLAC",
+    "tickers_hint": [
+      "KLAC"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "KLAC"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "c4e95a01-1847-57d1-8326-ebd282dcc7dd",
+    "timestamp_utc": "2026-04-01T04:28:30+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/cantor-fitzgerald-forecasts-strong-price-appreciation-for-kla-nasdaqklac-stock-2026-04-01/",
+    "title": "Cantor Fitzgerald Forecasts Strong Price Appreciation for KLA (NASDAQ:KLAC) Stock - MarketBeat",
+    "body": "Cantor Fitzgerald Forecasts Strong Price Appreciation for KLA (NASDAQ:KLAC) Stock MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "KLAC",
+    "tickers_hint": [
+      "KLAC"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "KLAC"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

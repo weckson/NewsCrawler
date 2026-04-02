@@ -1,0 +1,118 @@
+[
+  {
+    "id": "5aa6ef17-6d06-5b91-8a60-e181089ab46f",
+    "timestamp_utc": "2026-04-01T06:55:33+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/otis-worldwide-nyseotis-price-target-lowered-to-8000-at-wells-fargo-company-2026-04-01/",
+    "title": "Otis Worldwide (NYSE:OTIS) Price Target Lowered to $80.00 at Wells Fargo & Company - MarketBeat",
+    "body": "Otis Worldwide (NYSE:OTIS) Price Target Lowered to $80.00 at Wells Fargo & Company MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "OTIS",
+    "tickers_hint": [
+      "OTIS"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.7000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "OTIS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "e0eaf876-02e5-507b-9688-4b0ed6934f8c",
+    "timestamp_utc": "2026-04-01T09:16:42+00:00",
+    "source": "gurufocus.com",
+    "url": "https://www.gurufocus.com/news/8765782/barclays-lowers-price-target-for-otis-retains-underweight-rating-otis-stock-news",
+    "title": "Barclays Lowers Price Target for OTIS, Retains 'Underweight' Rat - gurufocus.com",
+    "body": "Barclays Lowers Price Target for OTIS, Retains 'Underweight' Rat gurufocus.com",
+    "author": null,
+    "language": "en",
+    "ticker": "OTIS",
+    "tickers_hint": [
+      "OTIS"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "gurufocus.com",
+      "source_domain": "gurufocuscom.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "OTIS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "d7cc1d50-b1a5-5086-a271-199f05728c5c",
+    "timestamp_utc": "2026-04-01T07:19:55+00:00",
+    "source": "gurufocus.com",
+    "url": "https://www.gurufocus.com/news/8765625/wells-fargo-lowers-otis-price-target-to-80-while-maintaining-equalweight-rating-otis-stock-news",
+    "title": "Wells Fargo Lowers OTIS Price Target to $80 While Maintaining Eq - gurufocus.com",
+    "body": "Wells Fargo Lowers OTIS Price Target to $80 While Maintaining Eq gurufocus.com",
+    "author": null,
+    "language": "en",
+    "ticker": "OTIS",
+    "tickers_hint": [
+      "OTIS"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "gurufocus.com",
+      "source_domain": "gurufocuscom.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "OTIS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "21f3fe83-769e-5b78-b88d-793dcddfd89c",
+    "timestamp_utc": "2026-04-01T01:00:00+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRGpEYXdKTnYzQmhNeDBpNnV6UjJxNDY1TnVsRUp5bUxKeURmYWVMVlJfSEJTWEhhLU44VHdEeU1VYnRmSkhlbTQzRTJJazZPUHdSZ0NZYTVLM3ZDTkJjUmJBUWlBY3RjaVY2cWtFX09JNmR0eFVUYTAzSVdZS21FWTQ4UE5oTjdQa1dFd2RiTEM?oc=5",
+    "title": "Otis executives will outline 2026 outlook on April 22 webcast - Stock Titan",
+    "body": "Otis executives will outline 2026 outlook on April 22 webcast Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "OTIS",
+    "tickers_hint": [
+      "OTIS"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "OTIS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

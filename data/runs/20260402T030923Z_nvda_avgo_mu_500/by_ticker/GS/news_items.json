@@ -1,0 +1,118 @@
+[
+  {
+    "id": "115ae0a2-0b48-553a-acaa-8954012e9585",
+    "timestamp_utc": "2026-04-01T06:10:03+00:00",
+    "source": "yahoo_finance_australia",
+    "url": "https://au.finance.yahoo.com/news/goldman-gs-beat-estimates-again-161003884.html",
+    "title": "Will Goldman (GS) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance Australia",
+    "body": "Will Goldman (GS) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance Australia",
+    "author": null,
+    "language": "en",
+    "ticker": "GS",
+    "tickers_hint": [
+      "GS"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo finance australia",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance Australia",
+      "source_domain": "yahoofinanceaustralia.com",
+      "trust_tier": 1,
+      "relevance": 0.7000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "GS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "719a8ee4-00d7-57d3-9241-3216fca46d8e",
+    "timestamp_utc": "2026-04-01T01:40:21+00:00",
+    "source": "ad_hoc_news",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS19hME50Q1kzOU1vUGgybF84d3Nqamk5MmZ2MkRPaXFOSXFPT1BFOFYxVDFmZmcwdGlKLWtJNWxMY1pNa0tIMlJkblQtemY5c1BUbkNhMUc0UjZ0M3liT2w0bURqYWNmcVVEVlBpUUhpbGMyUVB4cUd3QXNObU9GQkpDMlQtR3E3c1hudnlxU0cxSFF3MFliU1FtbkV3VkgxZngtVW5pSklEQVVKRkhIbkRjN2JSckRlMTdfRGswaEhwZw?oc=5",
+    "title": "GS Engineering & Const Stock: Key Business Drivers and Strategic Shifts Shaping Investor Interest in - AD HOC NEWS",
+    "body": "GS Engineering & Const Stock: Key Business Drivers and Strategic Shifts Shaping Investor Interest in AD HOC NEWS",
+    "author": null,
+    "language": "en",
+    "ticker": "GS",
+    "tickers_hint": [
+      "GS"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "ad hoc news",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "AD HOC NEWS",
+      "source_domain": "adhocnews.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "GS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "a0fe9aed-332e-5f9b-9c12-a1f04edc6df7",
+    "timestamp_utc": "2026-03-31T20:55:19+00:00",
+    "source": "intellectia_ai",
+    "url": "https://intellectia.ai/en/stock/GS/earnings",
+    "title": "GS Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+    "body": "GS Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+    "author": null,
+    "language": "en",
+    "ticker": "GS",
+    "tickers_hint": [
+      "GS"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "intellectia ai",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Intellectia AI",
+      "source_domain": "intellectiaai.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "GS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "85c65060-afff-5f72-a686-44ed5258e2d3",
+    "timestamp_utc": "2026-03-31T07:18:47+00:00",
+    "source": "gurufocus",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNExPeXdXSXpFaF9ibG5VV1dJTmdZN18yXzJDWEpySGVFRW9vMW1TTEY4cXljalJseWpZcXpQakp0XzFjTUZiMzhkaUZPNUhacVVrYU9SbnUySTlfVXkxWU9OUDNxREhnTC1DdGNXVmRLT0pBV3Aza2pRSnJObzZWZVBtbWVXLWhrTTFVV0dsUVdzcUNvcGsxQ0tVcUc0QQ?oc=5",
+    "title": "The Goldman Sachs Group Inc (GS) Stock Price Up 3.6% on Mar 31 - GuruFocus",
+    "body": "The Goldman Sachs Group Inc (GS) Stock Price Up 3.6% on Mar 31 GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "GS",
+    "tickers_hint": [
+      "GS"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "GS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "a1c638a1-6eda-58d9-a588-91e5ca984164",
+      "timestamp_utc": "2026-04-01T03:42:57+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765063/blackrock-blk-sees-price-target-lowered-by-morgan-stanley-blk-stock-news",
+      "title": "BlackRock (BLK) Sees Price Target Lowered by Morgan Stanley | BL - GuruFocus",
+      "body": "BlackRock (BLK) Sees Price Target Lowered by Morgan Stanley | BL GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "BLK",
+      "tickers_hint": [
+        "BLK"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "BLK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "a1c638a1-6eda-58d9-a588-91e5ca984164",
+      "timestamp_utc": "2026-04-01T03:42:57+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765063/blackrock-blk-sees-price-target-lowered-by-morgan-stanley-blk-stock-news",
+      "title": "BlackRock (BLK) Sees Price Target Lowered by Morgan Stanley | BL - GuruFocus",
+      "body": "BlackRock (BLK) Sees Price Target Lowered by Morgan Stanley | BL GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "BLK",
+      "tickers_hint": [
+        "BLK"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "BLK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

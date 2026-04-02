@@ -1,0 +1,188 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "9ffe70b3-ace9-55e7-a31e-3dfc634878c8",
+      "timestamp_utc": "2026-03-31T10:24:07+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdTVCQnBhVUFkYXVad2ZiM3JCOFNSMUlBdXdScl96T3pLTk5oeXUzQUFWcWo3ZnZ1MjEzYndEdi1iWVJWem56TmNabE16WWZ5S1pzUXNRamkyNW8ySkx3eDVNZ2hNc0hvbWt2Q1RQVnlFNHdwRzR4anFUemNjTWp0ZHdKZVZOTUhyRk9udFN3M2NGZkZXYm9NVlhJaW94ZElPZEZwVXo2Q2duZHR3MzZqOA?oc=5",
+      "title": "Why Exxon Mobil Stock Is Falling Tuesday Afternoon - Exxon Mobil (NYSE:XOM) - Benzinga",
+      "body": "Why Exxon Mobil Stock Is Falling Tuesday Afternoon - Exxon Mobil (NYSE:XOM) Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "XOM",
+      "tickers_hint": [
+        "XOM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "XOM"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c4436832-a578-54a9-90ad-de22a778cfa7",
+      "timestamp_utc": "2026-04-01T07:27:08+00:00",
+      "source": "seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ0NuR2Z4ZWpST1JUYzUtNWNmUzZRYlJGbXoySTNjazVjSm9ZSnM0OWNLb0pwWldLVTVqS3pZTHVWeUlndDhhcXRlR3VheVRQTHc2RE05TDd4c29zVFl4TGRJMkJsdlZMWkRXcjBYSFZNT2NWUVRXNExrNmtqbXNWamhvTmJoU2hiTTlTb0YwWEJ1dzY4dkxoelE1WE1yUlpuU1FYZg?oc=5",
+      "title": "Exxon leads energy stock rout, on pace for biggest drop in a year (XOM:NYSE) - seekingalpha.com",
+      "body": "Exxon leads energy stock rout, on pace for biggest drop in a year (XOM:NYSE) seekingalpha.com",
+      "author": null,
+      "language": "en",
+      "ticker": "XOM",
+      "tickers_hint": [
+        "XOM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "seekingalpha.com",
+        "source_domain": "seekingalphacom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "XOM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "78adde0f-7008-5b37-bd16-c81594b18b6b",
+      "timestamp_utc": "2026-04-01T00:58:03+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/XOM/earnings",
+      "title": "XOM Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "XOM Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "XOM",
+      "tickers_hint": [
+        "XOM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "XOM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "9ffe70b3-ace9-55e7-a31e-3dfc634878c8",
+      "timestamp_utc": "2026-03-31T10:24:07+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdTVCQnBhVUFkYXVad2ZiM3JCOFNSMUlBdXdScl96T3pLTk5oeXUzQUFWcWo3ZnZ1MjEzYndEdi1iWVJWem56TmNabE16WWZ5S1pzUXNRamkyNW8ySkx3eDVNZ2hNc0hvbWt2Q1RQVnlFNHdwRzR4anFUemNjTWp0ZHdKZVZOTUhyRk9udFN3M2NGZkZXYm9NVlhJaW94ZElPZEZwVXo2Q2duZHR3MzZqOA?oc=5",
+      "title": "Why Exxon Mobil Stock Is Falling Tuesday Afternoon - Exxon Mobil (NYSE:XOM) - Benzinga",
+      "body": "Why Exxon Mobil Stock Is Falling Tuesday Afternoon - Exxon Mobil (NYSE:XOM) Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "XOM",
+      "tickers_hint": [
+        "XOM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "XOM"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c4436832-a578-54a9-90ad-de22a778cfa7",
+      "timestamp_utc": "2026-04-01T07:27:08+00:00",
+      "source": "seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ0NuR2Z4ZWpST1JUYzUtNWNmUzZRYlJGbXoySTNjazVjSm9ZSnM0OWNLb0pwWldLVTVqS3pZTHVWeUlndDhhcXRlR3VheVRQTHc2RE05TDd4c29zVFl4TGRJMkJsdlZMWkRXcjBYSFZNT2NWUVRXNExrNmtqbXNWamhvTmJoU2hiTTlTb0YwWEJ1dzY4dkxoelE1WE1yUlpuU1FYZg?oc=5",
+      "title": "Exxon leads energy stock rout, on pace for biggest drop in a year (XOM:NYSE) - seekingalpha.com",
+      "body": "Exxon leads energy stock rout, on pace for biggest drop in a year (XOM:NYSE) seekingalpha.com",
+      "author": null,
+      "language": "en",
+      "ticker": "XOM",
+      "tickers_hint": [
+        "XOM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "seekingalpha.com",
+        "source_domain": "seekingalphacom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "XOM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "78adde0f-7008-5b37-bd16-c81594b18b6b",
+      "timestamp_utc": "2026-04-01T00:58:03+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/XOM/earnings",
+      "title": "XOM Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "XOM Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "XOM",
+      "tickers_hint": [
+        "XOM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "XOM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

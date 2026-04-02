@@ -1,0 +1,356 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "1c190675-94ca-5705-894d-8e7af7c3484b",
+      "timestamp_utc": "2026-04-01T00:05:00+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQkY3XzdqYlZFYkY3TUtPZkEtQUJRRVFPUTRVU0RQZnlzbjRTQXFSTnloUldzNVktN1lqcmZ5cUxVa0hHVVU0UElvTkdibHNNM2xzeGFValJuOVA0N0lwUHJyVUR3cTF6TzF2TTQyRDA4eTFsc2VmenduSmhROW1GN3Q0Vmx2U294SDMtcXQyZUZUWVdZU3J5elhfcjVmZ0t6ZkFRQUdn?oc=5",
+      "title": "Zacks Industry Outlook Highlights Ulta Beauty, Five, Sally Beauty and Arhaus - Yahoo Finance",
+      "body": "Zacks Industry Outlook Highlights Ulta Beauty, Five, Sally Beauty and Arhaus Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3d72746e-5ca9-5766-bfc0-d0308a559f13",
+      "timestamp_utc": "2026-04-01T06:51:43+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdW5yV1JXeTdIVjU1NTUxMi1aNTV2bkJhTTZCR3c3cUpOZW1FWTJPSWhCUDgyZ1R6TVFRdmRvZTdURDhnbG9GelJwMEJtN2l4bm9PSTdjODJhckRHRm1DQ1VxRjlwZTh1UjV4cmh3TW9kVW1NTlFOMEVNY19WWVJ5ZzN0ZWx6UU5WLUE?oc=5",
+      "title": "Ulta Beauty Inc (ULTA) Shares Up 3.01% on Apr 1 - GuruFocus",
+      "body": "Ulta Beauty Inc (ULTA) Shares Up 3.01% on Apr 1 GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "07dfd0a8-aa84-5ea0-877a-7166ad71125f",
+      "timestamp_utc": "2026-04-01T18:01:27+00:00",
+      "source": "wwd",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM2lkYmMwbEl5Z2NJcFh0MUVnQ2V2ejB4Yzk2YlNUMEJBUHF4eUlLVjRkbkhPcEhaN0pYdnBfWGFTR0MxOGttSnI3cHZFdUV0QUlNbzFGUUlXdjFVWnV3THlfNkw5Y2xBSGpFRDgyQVlUeTlzUHBUN3BCc0Izb3p4VmtTZU1iWFRWRTlPS1g4azByR3FseUVsaEFRZkl4LUJNdTZTYWtWTEQ?oc=5",
+      "title": "Teen Skin Care Brand Erly Lands First Retail Partner With Ulta Beauty - WWD",
+      "body": "Teen Skin Care Brand Erly Lands First Retail Partner With Ulta Beauty WWD",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "wwd",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "WWD",
+        "source_domain": "wwd.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f0b613c6-7f39-5162-b656-58c8ab63883f",
+      "timestamp_utc": "2026-04-01T16:26:01+00:00",
+      "source": "stock_traders_daily",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLTlCazhoQkJTUFFZZWc0UWhSb0tVaXo5NkVaVE82eGVlLU02eWVfeDU0YmNibnNtdmFsOGZHajYzRzB5NXpVUlpBN0g1ODlRaUtnd2VOMlp4UUpQakllRlp4WUxYSm1PU2ZWTl8zb0lHX2hfQ3RHZUY3U0FGeDhRRVhWZUE2TTVoVlFKeUV1dzMtZUoxQVdrYmUxX0VlMkV3dFhjUmMtR3gxTHJHWkpGbmNyOHh3Zk1qNTg5WWUwMlBDWUJkNE5HWg?oc=5",
+      "title": "(ULTA) Movement Within Algorithmic Entry Frameworks - Stock Traders Daily",
+      "body": "(ULTA) Movement Within Algorithmic Entry Frameworks Stock Traders Daily",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock traders daily",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Traders Daily",
+        "source_domain": "stocktradersdaily.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "57630917-3b1a-5600-9be0-b1ca7552fbc8",
+      "timestamp_utc": "2026-04-01T03:22:09+00:00",
+      "source": "beauty_packaging",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSmYxWWlTLVBPZGVFM3owVG43NkVqak5tU0FLQ1lENUtjcFZLZzBPSXUzem90eXpVRlk4MkFDblFmdjJQSTd2QkttbjJ1YWprOENyRjZ2SVlaNXlUelVrUUYzeDB3M29waGFaXzk5ZTdmV3RTR3dUdG9IMXBuN2RvMkhkZm5GNG52ZWU2TkpnQlpGTmE5Y1I2N0hmRm5CTFAxdVE?oc=5",
+      "title": "Ulta Names Kristin Wolf Chief Strategy & Growth Officer - Beauty Packaging",
+      "body": "Ulta Names Kristin Wolf Chief Strategy & Growth Officer Beauty Packaging",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "beauty packaging",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Beauty Packaging",
+        "source_domain": "beautypackaging.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fa4f3a84-66d2-50f1-9f46-78166c383813",
+      "timestamp_utc": "2026-03-31T11:23:26+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVTZQdEJDcDdKNjVwbFRpM2kzbUZFRk1RWV9FcFJMRUl6SjIxMHlSLWdaamxYenBIWHlPUWpnNE5BMEdvM3Zvc0tpZ1ZFVnZLWGl0cjdQRDhSeVYzWkw0cThYMHBMdGtpT1FHcFpEWm4yOE9wM2JtNHpEdU1vaWJTVEM5SlYtQTUwVFE?oc=5",
+      "title": "Ulta Beauty Promotes Kristin Wolf to Newly Created Chief Strategy and Growth Officer Role - Yahoo Finance Singapore",
+      "body": "Ulta Beauty Promotes Kristin Wolf to Newly Created Chief Strategy and Growth Officer Role Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "1c190675-94ca-5705-894d-8e7af7c3484b",
+      "timestamp_utc": "2026-04-01T00:05:00+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQkY3XzdqYlZFYkY3TUtPZkEtQUJRRVFPUTRVU0RQZnlzbjRTQXFSTnloUldzNVktN1lqcmZ5cUxVa0hHVVU0UElvTkdibHNNM2xzeGFValJuOVA0N0lwUHJyVUR3cTF6TzF2TTQyRDA4eTFsc2VmenduSmhROW1GN3Q0Vmx2U294SDMtcXQyZUZUWVdZU3J5elhfcjVmZ0t6ZkFRQUdn?oc=5",
+      "title": "Zacks Industry Outlook Highlights Ulta Beauty, Five, Sally Beauty and Arhaus - Yahoo Finance",
+      "body": "Zacks Industry Outlook Highlights Ulta Beauty, Five, Sally Beauty and Arhaus Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3d72746e-5ca9-5766-bfc0-d0308a559f13",
+      "timestamp_utc": "2026-04-01T06:51:43+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdW5yV1JXeTdIVjU1NTUxMi1aNTV2bkJhTTZCR3c3cUpOZW1FWTJPSWhCUDgyZ1R6TVFRdmRvZTdURDhnbG9GelJwMEJtN2l4bm9PSTdjODJhckRHRm1DQ1VxRjlwZTh1UjV4cmh3TW9kVW1NTlFOMEVNY19WWVJ5ZzN0ZWx6UU5WLUE?oc=5",
+      "title": "Ulta Beauty Inc (ULTA) Shares Up 3.01% on Apr 1 - GuruFocus",
+      "body": "Ulta Beauty Inc (ULTA) Shares Up 3.01% on Apr 1 GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "07dfd0a8-aa84-5ea0-877a-7166ad71125f",
+      "timestamp_utc": "2026-04-01T18:01:27+00:00",
+      "source": "wwd",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM2lkYmMwbEl5Z2NJcFh0MUVnQ2V2ejB4Yzk2YlNUMEJBUHF4eUlLVjRkbkhPcEhaN0pYdnBfWGFTR0MxOGttSnI3cHZFdUV0QUlNbzFGUUlXdjFVWnV3THlfNkw5Y2xBSGpFRDgyQVlUeTlzUHBUN3BCc0Izb3p4VmtTZU1iWFRWRTlPS1g4azByR3FseUVsaEFRZkl4LUJNdTZTYWtWTEQ?oc=5",
+      "title": "Teen Skin Care Brand Erly Lands First Retail Partner With Ulta Beauty - WWD",
+      "body": "Teen Skin Care Brand Erly Lands First Retail Partner With Ulta Beauty WWD",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "wwd",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "WWD",
+        "source_domain": "wwd.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f0b613c6-7f39-5162-b656-58c8ab63883f",
+      "timestamp_utc": "2026-04-01T16:26:01+00:00",
+      "source": "stock_traders_daily",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLTlCazhoQkJTUFFZZWc0UWhSb0tVaXo5NkVaVE82eGVlLU02eWVfeDU0YmNibnNtdmFsOGZHajYzRzB5NXpVUlpBN0g1ODlRaUtnd2VOMlp4UUpQakllRlp4WUxYSm1PU2ZWTl8zb0lHX2hfQ3RHZUY3U0FGeDhRRVhWZUE2TTVoVlFKeUV1dzMtZUoxQVdrYmUxX0VlMkV3dFhjUmMtR3gxTHJHWkpGbmNyOHh3Zk1qNTg5WWUwMlBDWUJkNE5HWg?oc=5",
+      "title": "(ULTA) Movement Within Algorithmic Entry Frameworks - Stock Traders Daily",
+      "body": "(ULTA) Movement Within Algorithmic Entry Frameworks Stock Traders Daily",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock traders daily",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Traders Daily",
+        "source_domain": "stocktradersdaily.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "57630917-3b1a-5600-9be0-b1ca7552fbc8",
+      "timestamp_utc": "2026-04-01T03:22:09+00:00",
+      "source": "beauty_packaging",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSmYxWWlTLVBPZGVFM3owVG43NkVqak5tU0FLQ1lENUtjcFZLZzBPSXUzem90eXpVRlk4MkFDblFmdjJQSTd2QkttbjJ1YWprOENyRjZ2SVlaNXlUelVrUUYzeDB3M29waGFaXzk5ZTdmV3RTR3dUdG9IMXBuN2RvMkhkZm5GNG52ZWU2TkpnQlpGTmE5Y1I2N0hmRm5CTFAxdVE?oc=5",
+      "title": "Ulta Names Kristin Wolf Chief Strategy & Growth Officer - Beauty Packaging",
+      "body": "Ulta Names Kristin Wolf Chief Strategy & Growth Officer Beauty Packaging",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "beauty packaging",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Beauty Packaging",
+        "source_domain": "beautypackaging.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fa4f3a84-66d2-50f1-9f46-78166c383813",
+      "timestamp_utc": "2026-03-31T11:23:26+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVTZQdEJDcDdKNjVwbFRpM2kzbUZFRk1RWV9FcFJMRUl6SjIxMHlSLWdaamxYenBIWHlPUWpnNE5BMEdvM3Zvc0tpZ1ZFVnZLWGl0cjdQRDhSeVYzWkw0cThYMHBMdGtpT1FHcFpEWm4yOE9wM2JtNHpEdU1vaWJTVEM5SlYtQTUwVFE?oc=5",
+      "title": "Ulta Beauty Promotes Kristin Wolf to Newly Created Chief Strategy and Growth Officer Role - Yahoo Finance Singapore",
+      "body": "Ulta Beauty Promotes Kristin Wolf to Newly Created Chief Strategy and Growth Officer Role Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

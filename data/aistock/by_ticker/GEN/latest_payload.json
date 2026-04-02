@@ -1,0 +1,240 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "3676d051-83f4-5fb7-b6ce-1b27c2a362d8",
+      "timestamp_utc": "2026-03-31T11:15:00+00:00",
+      "source": "marketwatch",
+      "url": "https://www.marketwatch.com/data-news/gen-digital-inc-stock-rises-tuesday-still-underperforms-market-c5a2a595-cfc0e171b935?gaa_at=eafs&gaa_n=AWEtsqcdMJjEyan3DEfT7TTSJHPugq1JcIPOVmwTvr6KNYPSqzCeMtIxwYmA&gaa_ts=69cdf857&gaa_sig=i8wYWpL3ibgSjMJs_G1zXkLc1rEQhjIdJyEBKwMNMGq3PjBsFEW3fOlTHvbPGx42dzhoh4OTwhOy09ZGFUKg2Q%3D%3D",
+      "title": "Gen Digital Inc. stock rises Tuesday, still underperforms market - MarketWatch",
+      "body": "Gen Digital Inc. stock rises Tuesday, still underperforms market MarketWatch",
+      "author": null,
+      "language": "en",
+      "ticker": "GEN",
+      "tickers_hint": [
+        "GEN"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "marketwatch.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketWatch",
+        "source_domain": "marketwatch.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "GEN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b06eefc7-338d-5fa7-b27b-1e5b4d5f0c8a",
+      "timestamp_utc": "2026-03-31T08:48:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYmpKYzlYVkxFTW10UnJsQVpleE02dlJkUHNlcW9zam5QN1NBQVNBbVhVVW5HTThhX0tJa1N4ZlFaTEhLWmhaZDBFRE9SNDJKSkdrTDlNSUplcnBDYU0wRmFuU2xlMndEZUZSYXdJMnFVTFR3OXJPc2hKd1NXdWpVbWZCREgzSWEzMUs1Z3ljc1puZldybWtfaGwwdDM3bjBMWndiczRBdVZhRElwRXJwMnVtYnJ1OGMtdm5NVVhR?oc=5",
+      "title": "More Gen Z than any generation thinks a U.S. revival is coming - Stock Titan",
+      "body": "More Gen Z than any generation thinks a U.S. revival is coming Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "GEN",
+      "tickers_hint": [
+        "GEN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "GEN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c083a285-94e5-587b-a757-afdb3d3bb10f",
+      "timestamp_utc": "2026-04-01T01:00:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSFlPTXIzQnNvcnlfREd2YWhvMzMwd2lDM3U5NV9ITFdvQ1VDTTAwNzJxOGVib3ZHeW1vbEtQWGJDdXpSQjJhc0JrRktIMEVjWlRWRTk1T3pPdk9SWmFIN3NNSXhnYlFJQUd3Wk9FWlhiUnF1N3pzbUJiZ3N0aGVpRVhsbGlIQ2F0ODBmVTJZMTl6R2lYV3c0Yk5NUUx5a2RHbjNNSG53?oc=5",
+      "title": "Nearly half of Gen Xers expect to work in retirement, survey finds - Stock Titan",
+      "body": "Nearly half of Gen Xers expect to work in retirement, survey finds Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "GEN",
+      "tickers_hint": [
+        "GEN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "GEN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "dd426302-f305-5feb-97b1-4dd2969f8844",
+      "timestamp_utc": "2026-04-01T00:58:34+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/GEN/earnings",
+      "title": "GEN Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "GEN Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "GEN",
+      "tickers_hint": [
+        "GEN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "GEN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "3676d051-83f4-5fb7-b6ce-1b27c2a362d8",
+      "timestamp_utc": "2026-03-31T11:15:00+00:00",
+      "source": "marketwatch",
+      "url": "https://www.marketwatch.com/data-news/gen-digital-inc-stock-rises-tuesday-still-underperforms-market-c5a2a595-cfc0e171b935?gaa_at=eafs&gaa_n=AWEtsqcdMJjEyan3DEfT7TTSJHPugq1JcIPOVmwTvr6KNYPSqzCeMtIxwYmA&gaa_ts=69cdf857&gaa_sig=i8wYWpL3ibgSjMJs_G1zXkLc1rEQhjIdJyEBKwMNMGq3PjBsFEW3fOlTHvbPGx42dzhoh4OTwhOy09ZGFUKg2Q%3D%3D",
+      "title": "Gen Digital Inc. stock rises Tuesday, still underperforms market - MarketWatch",
+      "body": "Gen Digital Inc. stock rises Tuesday, still underperforms market MarketWatch",
+      "author": null,
+      "language": "en",
+      "ticker": "GEN",
+      "tickers_hint": [
+        "GEN"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "marketwatch.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketWatch",
+        "source_domain": "marketwatch.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "GEN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b06eefc7-338d-5fa7-b27b-1e5b4d5f0c8a",
+      "timestamp_utc": "2026-03-31T08:48:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYmpKYzlYVkxFTW10UnJsQVpleE02dlJkUHNlcW9zam5QN1NBQVNBbVhVVW5HTThhX0tJa1N4ZlFaTEhLWmhaZDBFRE9SNDJKSkdrTDlNSUplcnBDYU0wRmFuU2xlMndEZUZSYXdJMnFVTFR3OXJPc2hKd1NXdWpVbWZCREgzSWEzMUs1Z3ljc1puZldybWtfaGwwdDM3bjBMWndiczRBdVZhRElwRXJwMnVtYnJ1OGMtdm5NVVhR?oc=5",
+      "title": "More Gen Z than any generation thinks a U.S. revival is coming - Stock Titan",
+      "body": "More Gen Z than any generation thinks a U.S. revival is coming Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "GEN",
+      "tickers_hint": [
+        "GEN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "GEN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c083a285-94e5-587b-a757-afdb3d3bb10f",
+      "timestamp_utc": "2026-04-01T01:00:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSFlPTXIzQnNvcnlfREd2YWhvMzMwd2lDM3U5NV9ITFdvQ1VDTTAwNzJxOGVib3ZHeW1vbEtQWGJDdXpSQjJhc0JrRktIMEVjWlRWRTk1T3pPdk9SWmFIN3NNSXhnYlFJQUd3Wk9FWlhiUnF1N3pzbUJiZ3N0aGVpRVhsbGlIQ2F0ODBmVTJZMTl6R2lYV3c0Yk5NUUx5a2RHbjNNSG53?oc=5",
+      "title": "Nearly half of Gen Xers expect to work in retirement, survey finds - Stock Titan",
+      "body": "Nearly half of Gen Xers expect to work in retirement, survey finds Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "GEN",
+      "tickers_hint": [
+        "GEN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "GEN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "dd426302-f305-5feb-97b1-4dd2969f8844",
+      "timestamp_utc": "2026-04-01T00:58:34+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/GEN/earnings",
+      "title": "GEN Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "GEN Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "GEN",
+      "tickers_hint": [
+        "GEN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "GEN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

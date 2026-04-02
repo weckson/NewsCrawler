@@ -1,0 +1,60 @@
+[
+  {
+    "id": "a23d440d-bba9-5cc1-99c1-85787ead9d7c",
+    "timestamp_utc": "2026-04-01T06:05:38+00:00",
+    "source": "tipranks",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzVTd3JpYlNQd3dDcU00WWVESVNGZktOTzNpOW91dlYyQ3Z6dGYtaE53MzFCcGozZmVzSTZDblhsS21Gc0tNQnlxcC0zdHR3ekdsRFJSQWY3UU4xbmJycFNtbVFCckUzc3ZUcS1BQk5ydlhlalFOYVhXZjBrUVVoWWlnR3ZLblozZnFDSlowNnBmQ1MwMG53dU4wWTlCb0xSbXNkdFNhSEIxTmZxdFREZk40RE1CXzZEOURIcw?oc=5",
+    "title": "“Busy Behind the Scenes Making Your Life Easier”: Home Depot Stock (NYSE:HD) Gains With New Hire - TipRanks",
+    "body": "“Busy Behind the Scenes Making Your Life Easier”: Home Depot Stock (NYSE:HD) Gains With New Hire TipRanks",
+    "author": null,
+    "language": "en",
+    "ticker": "HD",
+    "tickers_hint": [
+      "HD"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "tipranks.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "HD"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "49cc14d2-cdcb-56dd-a11f-2e0318cea733",
+    "timestamp_utc": "2026-04-01T06:25:25+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/evercore-issues-pessimistic-forecast-for-home-depot-nysehd-stock-price-2026-04-01/",
+    "title": "Evercore Issues Pessimistic Forecast for Home Depot (NYSE:HD) Stock Price - MarketBeat",
+    "body": "Evercore Issues Pessimistic Forecast for Home Depot (NYSE:HD) Stock Price MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "HD",
+    "tickers_hint": [
+      "HD"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "HD"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

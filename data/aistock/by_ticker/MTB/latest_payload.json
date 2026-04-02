@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "e15fa9bb-39a9-5392-8ba4-b405a8810aeb",
+      "timestamp_utc": "2026-04-01T22:39:40+00:00",
+      "source": "dailyforex",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaC1HWXJYQWxDMW4xQlFYcGdwMU1xOWJYVkg3WVhyS0o2a25rcUh2eVJNdjRhcUI1UEJqUUJWRFdRU29lV0hZdUFYT3NhVC1hbXRORWJYWGFYSWdnV1Z0aUo5Yl92UlNHTEl3YzZCYlRXQ3Juc3dnNnhsWUJYMkYxNEdwOXZaRGN2Qk8tLVR3c3dYS2c1a0xFSlJn?oc=5",
+      "title": "M&T Bank (NYSE:MTB) Stock Signal: Will Net Margin Pressures and Commercial Real Estate Exposure Force a Breakdown? - DailyForex",
+      "body": "M&T Bank (NYSE:MTB) Stock Signal: Will Net Margin Pressures and Commercial Real Estate Exposure Force a Breakdown? DailyForex",
+      "author": null,
+      "language": "en",
+      "ticker": "MTB",
+      "tickers_hint": [
+        "MTB"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "dailyforex",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "DailyForex",
+        "source_domain": "dailyforex.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MTB"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "e15fa9bb-39a9-5392-8ba4-b405a8810aeb",
+      "timestamp_utc": "2026-04-01T22:39:40+00:00",
+      "source": "dailyforex",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaC1HWXJYQWxDMW4xQlFYcGdwMU1xOWJYVkg3WVhyS0o2a25rcUh2eVJNdjRhcUI1UEJqUUJWRFdRU29lV0hZdUFYT3NhVC1hbXRORWJYWGFYSWdnV1Z0aUo5Yl92UlNHTEl3YzZCYlRXQ3Juc3dnNnhsWUJYMkYxNEdwOXZaRGN2Qk8tLVR3c3dYS2c1a0xFSlJn?oc=5",
+      "title": "M&T Bank (NYSE:MTB) Stock Signal: Will Net Margin Pressures and Commercial Real Estate Exposure Force a Breakdown? - DailyForex",
+      "body": "M&T Bank (NYSE:MTB) Stock Signal: Will Net Margin Pressures and Commercial Real Estate Exposure Force a Breakdown? DailyForex",
+      "author": null,
+      "language": "en",
+      "ticker": "MTB",
+      "tickers_hint": [
+        "MTB"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "dailyforex",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "DailyForex",
+        "source_domain": "dailyforex.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MTB"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

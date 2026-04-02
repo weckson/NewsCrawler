@@ -1,0 +1,31 @@
+[
+  {
+    "id": "9432420a-b0ac-53a1-994e-63ec752bba0e",
+    "timestamp_utc": "2026-03-31T02:52:18+00:00",
+    "source": "msn",
+    "url": "https://www.msn.com/en-us/money/topstocks/why-is-workday-wday-down-46-since-last-earnings-report/ar-AA1Zt9dT?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "title": "Why is Workday (WDAY) down 4.6% since last earnings report? - MSN",
+    "body": "Why is Workday (WDAY) down 4.6% since last earnings report? MSN",
+    "author": null,
+    "language": "en",
+    "ticker": "WDAY",
+    "tickers_hint": [
+      "WDAY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "msn",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MSN",
+      "source_domain": "msn.com",
+      "trust_tier": 1,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "WDAY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

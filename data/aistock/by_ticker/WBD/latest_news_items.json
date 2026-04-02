@@ -1,0 +1,31 @@
+[
+  {
+    "id": "021a8a60-3873-546b-9c49-0f7453c3c5b9",
+    "timestamp_utc": "2026-03-31T23:32:08+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-warner-bros-discovery-inc-wbd-shares-purchased-by-mn-services-vermogensbeheer-bv-2026-04-01/",
+    "title": "Warner Bros. Discovery, Inc. $WBD Shares Purchased by Mn Services Vermogensbeheer B.V. - MarketBeat",
+    "body": "Warner Bros. Discovery, Inc. $WBD Shares Purchased by Mn Services Vermogensbeheer B.V. MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "WBD",
+    "tickers_hint": [
+      "WBD"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "WBD"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

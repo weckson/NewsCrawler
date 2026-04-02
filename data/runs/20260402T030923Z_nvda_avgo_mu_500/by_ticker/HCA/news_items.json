@@ -1,0 +1,31 @@
+[
+  {
+    "id": "a2d6c3ad-bb12-55e7-9562-860ad75e3395",
+    "timestamp_utc": "2026-04-01T02:00:11+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/does-hca-healthcare-inc-nyse-120011216.html",
+    "title": "What Does HCA Healthcare, Inc.'s (NYSE:HCA) Share Price Indicate? - Yahoo Finance",
+    "body": "What Does HCA Healthcare, Inc.'s (NYSE:HCA) Share Price Indicate? Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "HCA",
+    "tickers_hint": [
+      "HCA"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "HCA"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

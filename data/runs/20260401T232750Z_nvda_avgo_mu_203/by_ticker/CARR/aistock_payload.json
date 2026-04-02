@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "583be3d6-9591-5d57-ac1b-2978e4a67db7",
+      "timestamp_utc": "2026-04-01T08:46:21+00:00",
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/8765730/carrier-global-carr-barclays-lowers-price-target-but-maintains-rating-carr-stock-news",
+      "title": "Carrier Global (CARR): Barclays Lowers Price Target but Maintains Rating | CARR Stock News - gurufocus.com",
+      "body": "Carrier Global (CARR): Barclays Lowers Price Target but Maintains Rating | CARR Stock News gurufocus.com",
+      "author": null,
+      "language": "en",
+      "ticker": "CARR",
+      "tickers_hint": [
+        "CARR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "gurufocus.com",
+        "source_domain": "gurufocuscom.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "CARR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0b0fbf51-969a-5447-a112-2b084dac8d6e",
+      "timestamp_utc": "2026-04-01T06:53:39+00:00",
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/8765563/carrier-global-carr-price-target-lowered-by-wells-fargo-carr-stock-news",
+      "title": "Carrier Global (CARR) Price Target Lowered by Wells Fargo | CARR Stock News - gurufocus.com",
+      "body": "Carrier Global (CARR) Price Target Lowered by Wells Fargo | CARR Stock News gurufocus.com",
+      "author": null,
+      "language": "en",
+      "ticker": "CARR",
+      "tickers_hint": [
+        "CARR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "gurufocus.com",
+        "source_domain": "gurufocuscom.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "CARR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "43c5dc59-70c8-5987-8d42-0bcc085e2d9c",
+      "timestamp_utc": "2026-04-01T05:31:05+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/barclays-issues-pessimistic-forecast-for-carrier-global-nysecarr-stock-price-2026-04-01/",
+      "title": "Barclays Issues Pessimistic Forecast for Carrier Global (NYSE:CARR) Stock Price - MarketBeat",
+      "body": "Barclays Issues Pessimistic Forecast for Carrier Global (NYSE:CARR) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "CARR",
+      "tickers_hint": [
+        "CARR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "CARR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "583be3d6-9591-5d57-ac1b-2978e4a67db7",
+      "timestamp_utc": "2026-04-01T08:46:21+00:00",
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/8765730/carrier-global-carr-barclays-lowers-price-target-but-maintains-rating-carr-stock-news",
+      "title": "Carrier Global (CARR): Barclays Lowers Price Target but Maintains Rating | CARR Stock News - gurufocus.com",
+      "body": "Carrier Global (CARR): Barclays Lowers Price Target but Maintains Rating | CARR Stock News gurufocus.com",
+      "author": null,
+      "language": "en",
+      "ticker": "CARR",
+      "tickers_hint": [
+        "CARR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "gurufocus.com",
+        "source_domain": "gurufocuscom.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "CARR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0b0fbf51-969a-5447-a112-2b084dac8d6e",
+      "timestamp_utc": "2026-04-01T06:53:39+00:00",
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/8765563/carrier-global-carr-price-target-lowered-by-wells-fargo-carr-stock-news",
+      "title": "Carrier Global (CARR) Price Target Lowered by Wells Fargo | CARR Stock News - gurufocus.com",
+      "body": "Carrier Global (CARR) Price Target Lowered by Wells Fargo | CARR Stock News gurufocus.com",
+      "author": null,
+      "language": "en",
+      "ticker": "CARR",
+      "tickers_hint": [
+        "CARR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "gurufocus.com",
+        "source_domain": "gurufocuscom.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "CARR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "43c5dc59-70c8-5987-8d42-0bcc085e2d9c",
+      "timestamp_utc": "2026-04-01T05:31:05+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/barclays-issues-pessimistic-forecast-for-carrier-global-nysecarr-stock-price-2026-04-01/",
+      "title": "Barclays Issues Pessimistic Forecast for Carrier Global (NYSE:CARR) Stock Price - MarketBeat",
+      "body": "Barclays Issues Pessimistic Forecast for Carrier Global (NYSE:CARR) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "CARR",
+      "tickers_hint": [
+        "CARR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "CARR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}
