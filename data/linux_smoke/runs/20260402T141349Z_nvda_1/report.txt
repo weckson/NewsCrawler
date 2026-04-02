@@ -1,0 +1,27 @@
+
+============================================================================================
+  NVDA NEWS REPORT — Quality Filtered, 2026-04-03 01:14
+============================================================================================
+
+  CRAWL STATS:
+  Channel                      Raw Description
+  ------------------------- ------ ----------------------------------------
+  BZ-RSS                        25 Official Benzinga RSS /feed + /news/feed
+  BZ-via-Google                200 Google News filtered to site:benzinga.com
+  Google-broad                 200 Google News all financial sources
+  TOTAL                        425
+
+  QUALITY PIPELINE:
+    Raw articles:        425
+    After quality filter:    0  (removed 425 junk/irrelevant/dupes)
+    New saved to DB:       0
+    Benzinga articles:     0  (direct Benzinga coverage)
+
+  ANTI-SCRAPE STRATEGY:
+    - Benzinga HTML: SKIPPED (Cloudflare JS challenge blocks simple HTTP)
+    - Benzinga RSS:  /feed + /news/feed (no CF, structured XML)
+    - Google->BZ:    site:benzinga.com (Google already crawled, no CF)
+    - Polite crawl:  2s delay, standard UA, no JS execution needed
+
+  No quality NVDA news in last 1h.
+

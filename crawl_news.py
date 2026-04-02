@@ -29,6 +29,7 @@ import hashlib
 import html as html_lib
 import json
 import logging
+import os
 import re
 import sqlite3
 import struct
@@ -59,12 +60,64 @@ _RUN_FILE_HANDLER: logging.Handler | None = None
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
-DB_PATH = "./data/news.db"
-LEGACY_DB_PATH = "./data/amd_news.db"
-RAW_DIR = "./data/raw"
-RUNS_DIR = "./data/runs"
-AISTOCK_EXPORT_DIR = "./data/aistock"
-TICKER_EXPORTS_DIR = "./data/aistock/by_ticker"
+PROJECT_ROOT = Path(__file__).resolve().parent
+
+
+def _resolve_runtime_path(value: str | Path, *, relative_to: Path) -> Path:
+    path = Path(value).expanduser()
+    if not path.is_absolute():
+        path = relative_to / path
+    return path.resolve()
+
+
+def build_runtime_paths(*, data_dir: str | Path | None = None) -> dict[str, Path]:
+    data_root_input = data_dir or os.environ.get("NEWSCRAWLER_DATA_DIR", "data")
+    data_root = _resolve_runtime_path(data_root_input, relative_to=PROJECT_ROOT)
+
+    db_value = os.environ.get("NEWSCRAWLER_DB_PATH")
+    legacy_db_value = os.environ.get("NEWSCRAWLER_LEGACY_DB_PATH")
+    raw_dir_value = os.environ.get("NEWSCRAWLER_RAW_DIR")
+    runs_dir_value = os.environ.get("NEWSCRAWLER_RUNS_DIR")
+    aistock_export_value = os.environ.get("NEWSCRAWLER_AISTOCK_EXPORT_DIR")
+    ticker_exports_value = os.environ.get("NEWSCRAWLER_TICKER_EXPORTS_DIR")
+
+    db_path = _resolve_runtime_path(db_value, relative_to=data_root) if db_value else data_root / "news.db"
+    legacy_db_path = (
+        _resolve_runtime_path(legacy_db_value, relative_to=data_root)
+        if legacy_db_value
+        else data_root / "amd_news.db"
+    )
+    raw_dir = _resolve_runtime_path(raw_dir_value, relative_to=data_root) if raw_dir_value else data_root / "raw"
+    runs_dir = _resolve_runtime_path(runs_dir_value, relative_to=data_root) if runs_dir_value else data_root / "runs"
+    aistock_export_dir = (
+        _resolve_runtime_path(aistock_export_value, relative_to=data_root)
+        if aistock_export_value
+        else data_root / "aistock"
+    )
+    ticker_exports_dir = (
+        _resolve_runtime_path(ticker_exports_value, relative_to=aistock_export_dir)
+        if ticker_exports_value
+        else aistock_export_dir / "by_ticker"
+    )
+
+    return {
+        "DATA_DIR": data_root,
+        "DB_PATH": db_path,
+        "LEGACY_DB_PATH": legacy_db_path,
+        "RAW_DIR": raw_dir,
+        "RUNS_DIR": runs_dir,
+        "AISTOCK_EXPORT_DIR": aistock_export_dir,
+        "TICKER_EXPORTS_DIR": ticker_exports_dir,
+    }
+
+
+def configure_runtime_paths(*, data_dir: str | Path | None = None) -> dict[str, Path]:
+    paths = build_runtime_paths(data_dir=data_dir)
+    globals().update(paths)
+    return paths
+
+
+configure_runtime_paths()
 DEFAULT_TICKER = "AMD"
 DEFAULT_HOURS = 48
 DEFAULT_TICKER_SET = "aistock500"
@@ -621,7 +674,7 @@ def _json_default(value):
 def make_run_dir(label: str) -> Path:
     stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     safe_label = re.sub(r"[^a-z0-9_-]+", "_", label.lower()).strip("_")
-    run_dir = Path(RUNS_DIR) / f"{stamp}_{safe_label}"
+    run_dir = RUNS_DIR / f"{stamp}_{safe_label}"
     run_dir.mkdir(parents=True, exist_ok=True)
     return run_dir
 
@@ -715,9 +768,9 @@ def export_articles_by_ticker(
 
     run_by_ticker_dir = run_dir / "by_ticker"
     run_by_ticker_dir.mkdir(parents=True, exist_ok=True)
-    stable_root_dir = Path(AISTOCK_EXPORT_DIR)
+    stable_root_dir = AISTOCK_EXPORT_DIR
     stable_root_dir.mkdir(parents=True, exist_ok=True)
-    stable_by_ticker_dir = Path(TICKER_EXPORTS_DIR)
+    stable_by_ticker_dir = TICKER_EXPORTS_DIR
     stable_by_ticker_dir.mkdir(parents=True, exist_ok=True)
 
     write_json(run_dir / "aistock_payload.json", build_aistock_payload(news_items))
@@ -1230,12 +1283,12 @@ async def enrich_articles_with_bodies(articles: list[dict]) -> None:
 # ══════════════════════════════════════════════════════════════════════════════
 
 def init_db():
-    Path(DB_PATH).parent.mkdir(parents=True, exist_ok=True)
-    legacy_path = Path(LEGACY_DB_PATH)
-    current_path = Path(DB_PATH)
+    DB_PATH.parent.mkdir(parents=True, exist_ok=True)
+    legacy_path = LEGACY_DB_PATH
+    current_path = DB_PATH
     if not current_path.exists() and legacy_path.exists():
         legacy_path.replace(current_path)
-    conn = sqlite3.connect(DB_PATH)
+    conn = sqlite3.connect(str(DB_PATH))
     conn.executescript("""
         CREATE TABLE IF NOT EXISTS news (
             id TEXT PRIMARY KEY,
@@ -1331,7 +1384,7 @@ def save_article(conn, article: dict) -> bool:
 
 
 def save_raw(payload: bytes, name: str, fmt: str = "xml"):
-    raw_dir = Path(RAW_DIR) / re.sub(r"[^a-z0-9_]", "_", name.lower())
+    raw_dir = RAW_DIR / re.sub(r"[^a-z0-9_]", "_", name.lower())
     raw_dir.mkdir(parents=True, exist_ok=True)
     digest = hashlib.sha256(payload).hexdigest()[:16]
     (raw_dir / f"{digest}.{fmt}").write_bytes(payload)
@@ -1687,7 +1740,13 @@ async def main():
         default="newsitem-json",
         help="Output mode: standard NewsItem JSON array or legacy pretty report",
     )
+    parser.add_argument(
+        "--data-dir",
+        default=None,
+        help="Base directory for SQLite, raw payloads, run artifacts, and AIStock exports",
+    )
     args = parser.parse_args()
+    runtime_paths = configure_runtime_paths(data_dir=args.data_dir)
 
     hours = args.hours
 
@@ -1702,7 +1761,7 @@ async def main():
 
     run_dir = make_run_dir(f"{'_'.join(tickers[:3])}_{len(tickers)}")
     log_path = setup_run_logging(run_dir)
-    log.info("run_start", run_dir=str(run_dir), tickers=tickers, hours=hours)
+    log.info("run_start", run_dir=str(run_dir), data_dir=str(runtime_paths["DATA_DIR"]), tickers=tickers, hours=hours)
 
     if len(tickers) == 1:
         run_label = tickers[0]
