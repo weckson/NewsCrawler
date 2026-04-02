@@ -1,0 +1,308 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "b4013b10-3bbd-50f5-9193-4e030ff5dd9e",
+      "timestamp_utc": "2026-04-01T06:10:03+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bristol-myers-bmy-beat-estimates-161003771.html",
+      "title": "Will Bristol Myers (BMY) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
+      "body": "Will Bristol Myers (BMY) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "A",
+      "tickers_hint": [
+        "A",
+        "BMY"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "A",
+          "BMY"
+        ],
+        "alt_sources": [
+          "MSN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "4ae0f8bc-1e7f-5061-9d43-8a560a3b52e5",
+      "timestamp_utc": "2026-03-31T02:24:12+00:00",
+      "source": "insider_monkey",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdkUxZmhPOHJFblV1UmYtaXZBWVotemo1UUdIazRnOFg2V1NmVHFsTTJtMDRiR2Q4VkdmaVlycVVPMFczRGpZU2RNSmRDQU5sWmVYM3lHUTI5d1BKbkpuTUJYcEFSYk1UQVY1Sy15WVRCV1FtaFhfazIyX1JMOW1tQlpNVEZ0UzhpSTczalZhQndjV1JSWW9WRzl0RTN4TkZ3ZUZSa2tjZlB1RElPaWQ0X3BOMEZEZmVMV1lPNEx4OHlLYmJvQlgxR3VBMHRHYXVlcGJrT3NZR3pwUWdJMlVObl8xc9IB6wFBVV95cUxOZ0dhWlJWdjlkX0pDa3F2Rm43N2ZOdzNVajdmQUlMN0NnV29zMzNkSnU3OE5hd25jMzM1RFFPLWhCdHlKeFhjMVdOTUF6WDNSRVE4aUNMRnhVR3poZXFmLWt0cjE3ZEZSSkNjYUo1QVRBZk9mUnRqcUpuSXNsTWlVRVBvS1BZLVRlOEliWHRGQmFGdlR1VnJxb1lBOEFLT3N0SHhQeG9WdUtTU3F5VE0xWG9Vb25PSkp3ZWtIZFpIakdPaE1iZUFVNERTcVB3UmpWcmptR0NXVzRHX29xS1FSX2pMUFUwUXFRcjlB?oc=5",
+      "title": "Ariel Global Fund Re-Added Bristol-Myers Squibb Company (BMY) on Pipeline Strength and Attractive Valuation - Insider Monkey",
+      "body": "Ariel Global Fund Re-Added Bristol-Myers Squibb Company (BMY) on Pipeline Strength and Attractive Valuation Insider Monkey",
+      "author": null,
+      "language": "en",
+      "ticker": "BMY",
+      "tickers_hint": [
+        "BMY"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "insidermonkey.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Insider Monkey",
+        "source_domain": "insidermonkey.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BMY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "23b7f51d-0dc8-5a9e-9b56-5fb5acd455d4",
+      "timestamp_utc": "2026-04-01T10:01:07+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/bristol-myers-squibb-target-of-unusually-high-options-trading-nysebmy-2026-04-01/",
+      "title": "Bristol Myers Squibb Target of Unusually High Options Trading (NYSE:BMY) - MarketBeat",
+      "body": "Bristol Myers Squibb Target of Unusually High Options Trading (NYSE:BMY) MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "BMY",
+      "tickers_hint": [
+        "BMY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "BMY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b94d6a57-caf8-50b3-8934-3b76250cda9a",
+      "timestamp_utc": "2026-04-01T00:44:46+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bristol-myers-squibb-company-bmy-shares-bought-by-nisa-investment-advisors-llc-2026-04-01/",
+      "title": "Bristol Myers Squibb Company $BMY Shares Bought by Nisa Investment Advisors LLC - MarketBeat",
+      "body": "Bristol Myers Squibb Company $BMY Shares Bought by Nisa Investment Advisors LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "BMY",
+      "tickers_hint": [
+        "BMY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "BMY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "15dfb0b2-d2e4-5a84-9271-01674d161a9c",
+      "timestamp_utc": "2026-03-31T00:27:28+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mn-services-vermogensbeheer-bv-increases-stock-position-in-bristol-myers-squibb-company-bmy-2026-03-31/",
+      "title": "Mn Services Vermogensbeheer B.V. Increases Stock Position in Bristol Myers Squibb Company $BMY - MarketBeat",
+      "body": "Mn Services Vermogensbeheer B.V. Increases Stock Position in Bristol Myers Squibb Company $BMY MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "BMY",
+      "tickers_hint": [
+        "BMY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "BMY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "b4013b10-3bbd-50f5-9193-4e030ff5dd9e",
+      "timestamp_utc": "2026-04-01T06:10:03+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bristol-myers-bmy-beat-estimates-161003771.html",
+      "title": "Will Bristol Myers (BMY) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
+      "body": "Will Bristol Myers (BMY) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "A",
+      "tickers_hint": [
+        "A",
+        "BMY"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "A",
+          "BMY"
+        ],
+        "alt_sources": [
+          "MSN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "4ae0f8bc-1e7f-5061-9d43-8a560a3b52e5",
+      "timestamp_utc": "2026-03-31T02:24:12+00:00",
+      "source": "insider_monkey",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdkUxZmhPOHJFblV1UmYtaXZBWVotemo1UUdIazRnOFg2V1NmVHFsTTJtMDRiR2Q4VkdmaVlycVVPMFczRGpZU2RNSmRDQU5sWmVYM3lHUTI5d1BKbkpuTUJYcEFSYk1UQVY1Sy15WVRCV1FtaFhfazIyX1JMOW1tQlpNVEZ0UzhpSTczalZhQndjV1JSWW9WRzl0RTN4TkZ3ZUZSa2tjZlB1RElPaWQ0X3BOMEZEZmVMV1lPNEx4OHlLYmJvQlgxR3VBMHRHYXVlcGJrT3NZR3pwUWdJMlVObl8xc9IB6wFBVV95cUxOZ0dhWlJWdjlkX0pDa3F2Rm43N2ZOdzNVajdmQUlMN0NnV29zMzNkSnU3OE5hd25jMzM1RFFPLWhCdHlKeFhjMVdOTUF6WDNSRVE4aUNMRnhVR3poZXFmLWt0cjE3ZEZSSkNjYUo1QVRBZk9mUnRqcUpuSXNsTWlVRVBvS1BZLVRlOEliWHRGQmFGdlR1VnJxb1lBOEFLT3N0SHhQeG9WdUtTU3F5VE0xWG9Vb25PSkp3ZWtIZFpIakdPaE1iZUFVNERTcVB3UmpWcmptR0NXVzRHX29xS1FSX2pMUFUwUXFRcjlB?oc=5",
+      "title": "Ariel Global Fund Re-Added Bristol-Myers Squibb Company (BMY) on Pipeline Strength and Attractive Valuation - Insider Monkey",
+      "body": "Ariel Global Fund Re-Added Bristol-Myers Squibb Company (BMY) on Pipeline Strength and Attractive Valuation Insider Monkey",
+      "author": null,
+      "language": "en",
+      "ticker": "BMY",
+      "tickers_hint": [
+        "BMY"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "insidermonkey.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Insider Monkey",
+        "source_domain": "insidermonkey.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BMY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "23b7f51d-0dc8-5a9e-9b56-5fb5acd455d4",
+      "timestamp_utc": "2026-04-01T10:01:07+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/bristol-myers-squibb-target-of-unusually-high-options-trading-nysebmy-2026-04-01/",
+      "title": "Bristol Myers Squibb Target of Unusually High Options Trading (NYSE:BMY) - MarketBeat",
+      "body": "Bristol Myers Squibb Target of Unusually High Options Trading (NYSE:BMY) MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "BMY",
+      "tickers_hint": [
+        "BMY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "BMY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b94d6a57-caf8-50b3-8934-3b76250cda9a",
+      "timestamp_utc": "2026-04-01T00:44:46+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bristol-myers-squibb-company-bmy-shares-bought-by-nisa-investment-advisors-llc-2026-04-01/",
+      "title": "Bristol Myers Squibb Company $BMY Shares Bought by Nisa Investment Advisors LLC - MarketBeat",
+      "body": "Bristol Myers Squibb Company $BMY Shares Bought by Nisa Investment Advisors LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "BMY",
+      "tickers_hint": [
+        "BMY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "BMY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "15dfb0b2-d2e4-5a84-9271-01674d161a9c",
+      "timestamp_utc": "2026-03-31T00:27:28+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mn-services-vermogensbeheer-bv-increases-stock-position-in-bristol-myers-squibb-company-bmy-2026-03-31/",
+      "title": "Mn Services Vermogensbeheer B.V. Increases Stock Position in Bristol Myers Squibb Company $BMY - MarketBeat",
+      "body": "Mn Services Vermogensbeheer B.V. Increases Stock Position in Bristol Myers Squibb Company $BMY MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "BMY",
+      "tickers_hint": [
+        "BMY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "BMY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

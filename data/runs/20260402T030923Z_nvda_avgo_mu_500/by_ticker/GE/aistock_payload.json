@@ -1,0 +1,304 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "0c1879fa-94f8-5f33-b3a5-359dd9b9e07d",
+      "timestamp_utc": "2026-03-31T07:42:15+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51578239/ge-vernova-stock-jumps-after-wells-fargo-boosts-price-target",
+      "title": "GE Vernova Stock Jumps After Wells Fargo Boosts Price Target - Benzinga",
+      "body": "GE Vernova Stock Jumps After Wells Fargo Boosts Price Target Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "GE",
+      "tickers_hint": [
+        "GE"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "GE"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "38393d57-ab59-5980-836f-c7fde27b01c9",
+      "timestamp_utc": "2026-03-31T23:44:53+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOand3LV9FX29PX3lJS0xQLTJ0YUx4elA2WlNtbmg0WjN5ZHItZ0NGdzN6ZEI5RWlHVzFtU2NVS1hDOE9EU0c2eE5GYzB4YnpTdmpvWXZTRkJjNVRlQ2tIbFNYWVYxTF9jaTZwM1k5Nk5GZVVBYUZjQnM3MWNQbE11T0NXUjVveUk0Rzcxc1JEeHZuaW1PSHpFelN5TUlTemdiejFsMDNqcG0?oc=5",
+      "title": "Iran threatens attacks on Nvidia, Apple and other tech majors: report (GE:NYSE) - Seeking Alpha",
+      "body": "Iran threatens attacks on Nvidia, Apple and other tech majors: report (GE:NYSE) Seeking Alpha",
+      "author": null,
+      "language": "en",
+      "ticker": "GE",
+      "tickers_hint": [
+        "GE"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "GE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c96a18b1-8d95-5d5b-98a8-8ad6988f2c59",
+      "timestamp_utc": "2026-03-31T04:36:28+00:00",
+      "source": "247_wall_st",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNEppTUdYQjVHOGRQVlB1Nl9lbW1US3I4c2tNY3J2NFU2MFVGRmJoU2NrVVlpX3VMNWxuLXhMRjd3R2dCbFBiV2F1VTJOMnpFVTRMZlk0cWFxTDl3YVE0clRLLXJQZ3BtX210QlVIUHRCOHlLZ0dJeW12aGM2ZERzc0YwWnptMkxUaWhCUjVXX1BnaFBQWkJMT0JsZ3lSWWtkX0hDdVlHOE5La1lwNXpZd0ozSkdHcHQ0dEU4bHVjLVE1aXZWSm9rT1ZR?oc=5",
+      "title": "Wall Street Split on GE Aerospace as Daiwa Sets $301 Target and Flags High Expectations - 24/7 Wall St.",
+      "body": "Wall Street Split on GE Aerospace as Daiwa Sets $301 Target and Flags High Expectations 24/7 Wall St.",
+      "author": null,
+      "language": "en",
+      "ticker": "GE",
+      "tickers_hint": [
+        "GE"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "247wallst.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "24/7 Wall St.",
+        "source_domain": "247wallst.com",
+        "trust_tier": 2,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "GE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c6c2904d-90bd-58b8-bb3a-1044c3a9ba98",
+      "timestamp_utc": "2026-04-01T06:37:36+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765339/wells-fargo-initiates-coverage-on-ge-with-overweight-rating-ge-stock-news",
+      "title": "Wells Fargo Initiates Coverage on GE with Overweight Rating | GE Stock News - GuruFocus",
+      "body": "Wells Fargo Initiates Coverage on GE with Overweight Rating | GE Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "GE",
+      "tickers_hint": [
+        "GE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "GE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c72cead2-7565-5624-afa7-7fd6c04f2a2d",
+      "timestamp_utc": "2026-03-31T11:26:39+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/ge-aerospace-nysege-shares-up-37-time-to-buy-2026-03-31/",
+      "title": "GE Aerospace (NYSE:GE) Shares Up 3.7% - Time to Buy? - MarketBeat",
+      "body": "GE Aerospace (NYSE:GE) Shares Up 3.7% - Time to Buy? MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "GE",
+      "tickers_hint": [
+        "GE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "GE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "0c1879fa-94f8-5f33-b3a5-359dd9b9e07d",
+      "timestamp_utc": "2026-03-31T07:42:15+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51578239/ge-vernova-stock-jumps-after-wells-fargo-boosts-price-target",
+      "title": "GE Vernova Stock Jumps After Wells Fargo Boosts Price Target - Benzinga",
+      "body": "GE Vernova Stock Jumps After Wells Fargo Boosts Price Target Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "GE",
+      "tickers_hint": [
+        "GE"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "GE"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "38393d57-ab59-5980-836f-c7fde27b01c9",
+      "timestamp_utc": "2026-03-31T23:44:53+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOand3LV9FX29PX3lJS0xQLTJ0YUx4elA2WlNtbmg0WjN5ZHItZ0NGdzN6ZEI5RWlHVzFtU2NVS1hDOE9EU0c2eE5GYzB4YnpTdmpvWXZTRkJjNVRlQ2tIbFNYWVYxTF9jaTZwM1k5Nk5GZVVBYUZjQnM3MWNQbE11T0NXUjVveUk0Rzcxc1JEeHZuaW1PSHpFelN5TUlTemdiejFsMDNqcG0?oc=5",
+      "title": "Iran threatens attacks on Nvidia, Apple and other tech majors: report (GE:NYSE) - Seeking Alpha",
+      "body": "Iran threatens attacks on Nvidia, Apple and other tech majors: report (GE:NYSE) Seeking Alpha",
+      "author": null,
+      "language": "en",
+      "ticker": "GE",
+      "tickers_hint": [
+        "GE"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "GE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c96a18b1-8d95-5d5b-98a8-8ad6988f2c59",
+      "timestamp_utc": "2026-03-31T04:36:28+00:00",
+      "source": "247_wall_st",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNEppTUdYQjVHOGRQVlB1Nl9lbW1US3I4c2tNY3J2NFU2MFVGRmJoU2NrVVlpX3VMNWxuLXhMRjd3R2dCbFBiV2F1VTJOMnpFVTRMZlk0cWFxTDl3YVE0clRLLXJQZ3BtX210QlVIUHRCOHlLZ0dJeW12aGM2ZERzc0YwWnptMkxUaWhCUjVXX1BnaFBQWkJMT0JsZ3lSWWtkX0hDdVlHOE5La1lwNXpZd0ozSkdHcHQ0dEU4bHVjLVE1aXZWSm9rT1ZR?oc=5",
+      "title": "Wall Street Split on GE Aerospace as Daiwa Sets $301 Target and Flags High Expectations - 24/7 Wall St.",
+      "body": "Wall Street Split on GE Aerospace as Daiwa Sets $301 Target and Flags High Expectations 24/7 Wall St.",
+      "author": null,
+      "language": "en",
+      "ticker": "GE",
+      "tickers_hint": [
+        "GE"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "247wallst.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "24/7 Wall St.",
+        "source_domain": "247wallst.com",
+        "trust_tier": 2,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "GE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c6c2904d-90bd-58b8-bb3a-1044c3a9ba98",
+      "timestamp_utc": "2026-04-01T06:37:36+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765339/wells-fargo-initiates-coverage-on-ge-with-overweight-rating-ge-stock-news",
+      "title": "Wells Fargo Initiates Coverage on GE with Overweight Rating | GE Stock News - GuruFocus",
+      "body": "Wells Fargo Initiates Coverage on GE with Overweight Rating | GE Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "GE",
+      "tickers_hint": [
+        "GE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "GE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c72cead2-7565-5624-afa7-7fd6c04f2a2d",
+      "timestamp_utc": "2026-03-31T11:26:39+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/ge-aerospace-nysege-shares-up-37-time-to-buy-2026-03-31/",
+      "title": "GE Aerospace (NYSE:GE) Shares Up 3.7% - Time to Buy? - MarketBeat",
+      "body": "GE Aerospace (NYSE:GE) Shares Up 3.7% - Time to Buy? MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "GE",
+      "tickers_hint": [
+        "GE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "GE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

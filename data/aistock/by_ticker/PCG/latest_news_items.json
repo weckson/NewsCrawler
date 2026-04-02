@@ -1,0 +1,31 @@
+[
+  {
+    "id": "20695731-9e55-52f9-9e03-363b14c62e98",
+    "timestamp_utc": "2026-03-31T18:34:11+00:00",
+    "source": "businesstoday_malaysia",
+    "url": "https://www.businesstoday.com.my/2026/04/01/stock-today-pcg-slips-4-61-after-recent-rally-amid-elevated-geopolitical-risks/",
+    "title": "Stock Today: PCG Slips 4.61% After Recent Rally Amid Elevated Geopolitical Risks - BusinessToday Malaysia",
+    "body": "Stock Today: PCG Slips 4.61% After Recent Rally Amid Elevated Geopolitical Risks BusinessToday Malaysia",
+    "author": null,
+    "language": "en",
+    "ticker": "PCG",
+    "tickers_hint": [
+      "PCG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "businesstoday malaysia",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "BusinessToday Malaysia",
+      "source_domain": "businesstodaymalaysia.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "PCG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

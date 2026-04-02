@@ -1,0 +1,31 @@
+[
+  {
+    "id": "25601e5a-c29c-54d8-9b97-35298523be73",
+    "timestamp_utc": "2026-04-01T13:35:26+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-coherent-cohr-stock-soaring-233526716.html",
+    "title": "Why Is Coherent (COHR) Stock Soaring Today - Yahoo Finance",
+    "body": "Why Is Coherent (COHR) Stock Soaring Today Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "COHR",
+    "tickers_hint": [
+      "COHR"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "COHR"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

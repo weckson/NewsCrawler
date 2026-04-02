@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "d7bd3994-c459-5d86-989d-b60173efd0f3",
+      "timestamp_utc": "2026-04-01T05:08:00+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX0NiUE9MTms0UzN3aEYwZWtfdDFSNkxNRGxKeGZCeHBpbHVuWWtUaU15b1dMeDR0QnNuOUZoeE1kZk12S3RCaWxlQk5VR2haTGNIbkgxbW5ETEpxcFhpdE91QjZyOVFWRDBBVm94RHNfUkhfTEdMcDQ4VjQ3ZTUxb25XZ3NDWkEyTUJSc18zOU5zY3lleWtlQUpwQS1VSGNQX0tfZ1FqdWhrbUxhaEQyUGRDcHBSeTMzeGhnWXQyZVQ?oc=5",
+      "title": "CCL's PROPEL Strategy Targets 50% EPS Growth: Is the Upside Realistic? - TradingView",
+      "body": "CCL's PROPEL Strategy Targets 50% EPS Growth: Is the Upside Realistic? TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "CCL",
+      "tickers_hint": [
+        "CCL"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CCL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "d7bd3994-c459-5d86-989d-b60173efd0f3",
+      "timestamp_utc": "2026-04-01T05:08:00+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX0NiUE9MTms0UzN3aEYwZWtfdDFSNkxNRGxKeGZCeHBpbHVuWWtUaU15b1dMeDR0QnNuOUZoeE1kZk12S3RCaWxlQk5VR2haTGNIbkgxbW5ETEpxcFhpdE91QjZyOVFWRDBBVm94RHNfUkhfTEdMcDQ4VjQ3ZTUxb25XZ3NDWkEyTUJSc18zOU5zY3lleWtlQUpwQS1VSGNQX0tfZ1FqdWhrbUxhaEQyUGRDcHBSeTMzeGhnWXQyZVQ?oc=5",
+      "title": "CCL's PROPEL Strategy Targets 50% EPS Growth: Is the Upside Realistic? - TradingView",
+      "body": "CCL's PROPEL Strategy Targets 50% EPS Growth: Is the Upside Realistic? TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "CCL",
+      "tickers_hint": [
+        "CCL"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CCL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

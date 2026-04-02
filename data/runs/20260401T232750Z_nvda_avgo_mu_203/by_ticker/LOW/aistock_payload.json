@@ -1,0 +1,956 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "b669e393-50bf-5bd0-892c-9f7d60001008",
+      "timestamp_utc": "2026-04-01T03:00:03+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lowes-companies-inc-low-trending-130003609.html",
+      "title": "Lowe's Companies, Inc. (LOW) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+      "body": "Lowe's Companies, Inc. (LOW) Is a Trending Stock: Facts to Know Before Betting on It Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c4d60792-e60e-5fea-a928-4e86a167e40b",
+      "timestamp_utc": "2026-04-01T11:02:38+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0U0MFRHdENmWi13VG5NWHJTQzJjenh4cGxUVDFGdjFLM3hVbjRHX1NKQ1VNZm9JbjZOblNaaTk1VnhhT1JtVkRrQWJpRXZrY3ROLVVuRmFNTDV1ZW9mRXk5YkM3NHp2R2NHRF9oNVpYZmc0b1BKcVAtbzBnU01QbEhwY00wN3pIN3hraXVrYzhpRl9zOUV0M09qNUpPWHRZTmJZSmlKMEtDUjE2cWtWOA?oc=5",
+      "title": "Why Wingstop Stock Hit A New 52-Week Low Wednesday - Wingstop (NASDAQ:WING) - Benzinga",
+      "body": "Why Wingstop Stock Hit A New 52-Week Low Wednesday - Wingstop (NASDAQ:WING) Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "A",
+      "tickers_hint": [
+        "A",
+        "LOW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "A",
+          "LOW"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5b12eb7d-1ac0-5996-9939-9891c832b405",
+      "timestamp_utc": "2026-03-31T06:44:38+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSURUSXRpVW5WUTh2SVZfcGgtYUlHTUdtRUxBYmg4SFVDX25raERHdHowdXJpXzJDRWdfNmdXeXJoSFNtTHJZbnlqdkc1aXlIS2c4VEVtb3ltcERnNFlWbndPSS12elJybEdkLTU1Y2V4QmVsQ0NuY2xFS3dwemY5c0V1alBsYW1GcENBZlNabVpjQllfWVNlSnNuc3phUzhiNGFCWVpn?oc=5",
+      "title": "McCormick Stock Sinks To 52-Week Low - Here's Why - Benzinga",
+      "body": "McCormick Stock Sinks To 52-Week Low - Here's Why Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "A",
+      "tickers_hint": [
+        "A",
+        "LOW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "A",
+          "LOW"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "69006cd2-d7d2-5028-b915-81286f3393da",
+      "timestamp_utc": "2026-03-31T02:34:00+00:00",
+      "source": "barrons",
+      "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxORkJhLVROeEFaVWZpN2hFOE41RE1KVHJpRkFhUDFaY1lLYUFXaU1PX1ZmMTFrVHN6YXN4N3RoLWRuTW0xQVl2eGJJOFpoN1BucW1BNlRuSFVZN2ZkUTgwc1BMZ1VaN0R0REY2dVN6Rk02OGhveHliMDZjdWhaR0VZbl9ZNlQ2Rm1YaUt6Z3paTy11R2lYa2gteGJfQnhwTUdoeWRwTVJsLW9nbUpuV3hkX2k5RDlUS2tBYUd2a3lNU1RBYVA0cURodTNOdHJhUFpMdldTUFRhdEZ3eHJJNWYyNlAyekNPM2FqVUp1SFI1eDVHREVPMlFJNFJVSWR2eWdOLVJGTEdOeTk1RmktejEybjFwWVBYV0RVREgwVHl6bXA3cGROUDlINjIwWEp4Tk5HX0RQOXNlV0RXSmQwT0hqbURicVVnYWZIWFhrMHg3Y3lmWHN4VXAwZUwwSjlONTNHX2ZkS0hYbi1qZklVNVplODZRMUVoN21uOHE1cjNPcXhUUDB1R3B5S20wYmFqNkxJUGZUVFZYaUFBb1dUU3JfMjlyYmMzRUpvVkRXLUpaaS0zZFVaR1NtdFZibkl0d1dTSGc5ZkJORWFiUQ?oc=5",
+      "title": "Boston Scientific Stock Sinks to 2-Year Low. Why Wall Street Is Souring on Trial Data. - Barron's",
+      "body": "Boston Scientific Stock Sinks to 2-Year Low. Why Wall Street Is Souring on Trial Data. Barron's",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "barrons.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Barron's",
+        "source_domain": "barrons.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ac5a0522-9a96-57d6-9959-d2518fed43f9",
+      "timestamp_utc": "2026-03-31T05:40:47+00:00",
+      "source": "investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNjlPZ2hUbUNfcWxWX0w1RGs2TUhWaFlnc1dHM0h6ZjB0S3F0NUNwbXRWUGFtQVpNUzBSdUJiUEdfSkhIV2FUT0kzNkR0TDE0dE1Jb3N0VThwRFF0NndSenNvM3dIenZMVURtOTNzd1R0Q3d0bW9RZnUxSzNiWUR2T3RYNE5teVhaSU1tLUNiR1E0YVJ2RE1uNDdWd2h1OTVjZUVjQXhsdlZaeU0?oc=5",
+      "title": "Hercules Capital stock hits 52-week low at 24.36 USD - investing.com",
+      "body": "Hercules Capital stock hits 52-week low at 24.36 USD investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "45c5a17b-3f4c-54c3-95d2-635bc59277c4",
+      "timestamp_utc": "2026-03-31T04:54:29+00:00",
+      "source": "investing.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORGVrYkJlaUhnSGJZNDdzLVcwc18zTE9jeFhDWkNhQ1VBRUxrUzdoTnprN1ZHMDBWSWFzeEhscGxaNGpZazdMN05VVFFxQTRsVktfcW54ZWFtMEhNUHdkQlZSMlo4dEpsbDVrVlpRbF9kOVdtMzEwVUNUMmNNb0Y4T3dSaE9XZ3pKRlNLRjRENWUzMnRfbWUwUEd3?oc=5",
+      "title": "Coty stock hits 52-week low at 1.98 USD - investing.com",
+      "body": "Coty stock hits 52-week low at 1.98 USD investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7d15d65c-15da-57b4-876a-0dfd86e07f69",
+      "timestamp_utc": "2026-03-31T04:43:50+00:00",
+      "source": "investing.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNalBYdWRIS2NrcV9aQjVNOWtfUENkeVJaaXdRME9scDEzXzVPbzN0NkhTT3IwcEl4d1JBaE04THpNd1FVZ0NmSVBSM0IwckVXUG5pbm9yTGxic0dobDNnNDhNU3FiYnFjVlZpX3lybVhsODRyR3lJY3BRRkNvQk9fUk12TlBIMFhEQ2ZqQ3d6eWUxbk9xVGVyU1U2SXFaVlc3cWI2aDNkdw?oc=5",
+      "title": "Progressive Corp stock hits 52-week low at $197.83 - investing.com",
+      "body": "Progressive Corp stock hits 52-week low at $197.83 investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "410cfe54-bede-569a-a002-82e1e19f8bdd",
+      "timestamp_utc": "2026-03-31T04:21:12+00:00",
+      "source": "247_wall_st",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTzJFX1JXZ1JSUDZhcnBFSl9mS3A2WnZNSTlrR1NSeWEyVW40NDRmYUZRNGUyWWZwQ3Q3SlduY2VOcUZCdHpCWmtfYXI0bTdYb3VHS0doeFotVWI3UjBnejFSdkh6X1FRV3lWY2Q0OHVud2NSOGZ5c21CczVUcFZXXzRvR3NxdFRBQ2RDS1kxSVZxT0dhOFNEemdjcGdTeG1LWXZ3YVAxOWY3OE1TQzIw?oc=5",
+      "title": "Wingstop Stock Near 52-Week Low as Wells Fargo Trims Target to $225 - 24/7 Wall St.",
+      "body": "Wingstop Stock Near 52-Week Low as Wells Fargo Trims Target to $225 24/7 Wall St.",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "247wallst.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "24/7 Wall St.",
+        "source_domain": "247wallst.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1872f6d2-864c-5a6b-b1bb-702335ac6050",
+      "timestamp_utc": "2026-04-01T10:25:38+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaFF6c2JaYVJNdGkxZHJVbnA3VHZfMUEzN2k5Zk5UQjAtQVZhQjBRZy1vb2JGY1Zjd3g4aGRXMXdLOHp4blRPRFhoVXpOSU4xTGVaTEpxX3F0MndDZDVmZlB6YnVDX1V2UTVuaUxSYjMwQXlwdm5lbVExMGdyc0xGNVI5ei1mMjNTdUduUkVJOVdWcy1mUTMyRDNZUVRudk1yUUZCYnpWMWx0eDU2aUtJVW5n?oc=5",
+      "title": "Lowe's (NYSE: LOW) director adds deferred phantom stock award - Stock Titan",
+      "body": "Lowe's (NYSE: LOW) director adds deferred phantom stock award Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6b38e718-61f2-57f7-a202-e44b20b7058b",
+      "timestamp_utc": "2026-04-01T10:24:11+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYWtmMG9RbVBVR0V6VFY4aWFWWVJVYlVHNWFOTFNzdkRsZVhRd3JyX0s2SGhobUtrdUNMcGk2Mzd3d3lUYUdfaVZmR1ZhZXRtYTExZFpaUFI5dmhLRUlodENZUnk4bVhvSzJTVFFaTURyV20tdkdaRXZzd0JQN1pKUmp0MjZLVDhJWFppY25HQk1NTnEzUHZfcDhXREdVb2ZrbjdYNDNrUWd1aWlhcVZjNXZn?oc=5",
+      "title": "Lowe’s (LOW) director Brian Rogers adds 105 phantom stock units in deferred pay - Stock Titan",
+      "body": "Lowe’s (LOW) director Brian Rogers adds 105 phantom stock units in deferred pay Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e0c3c01c-b925-5341-8e7c-400243ea1b9b",
+      "timestamp_utc": "2026-04-01T10:22:30+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHFxTHpyTllhdU1CWW5tXzZrblFTT0xPSnVhbm5nS1U4U19SeW9Pb1JlVGYwWkdUWTctejczMGVQY3dJdVliZmozbXQ0OWFVbTI1NzRGNmxjZk9MbEdKQmV6Y2Z3MFlzWGZ5ejY4eUJ6ZVktZy1GSnN3OWxWY0tkakNTUTFDMWVPMmNoTERnOEZQSXdvV2RBM0VhS2s2S245TlFqNFVoR180Zndzbmp6QzJ3?oc=5",
+      "title": "Lowe’s (LOW) director receives phantom stock under deferred compensation plan - Stock Titan",
+      "body": "Lowe’s (LOW) director receives phantom stock under deferred compensation plan Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "68023900-96cc-5f8b-96d1-1f63ae88cb25",
+      "timestamp_utc": "2026-04-01T10:21:42+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0NJN1dWWjE5c0NXTzg2WnhwQnp6b3gtcGFFYmJ6QlJQZ0U2NnRQdW0zQjdXcnZTV0xpRnFzTkNTb21leDZjMnh5VFN5WDNualNTcy1DbWM4ZHVya1doZTNyNExScnBjbkJTbzJqLUR4TTdXYUR3cWJYWXN2bHRLQ0lSbkYxMmQzd1Njd0ZMci1hSGdlcm1IVFVSdlhuUklWc1U4U0VhWkVnaHc4cF9lZjNB?oc=5",
+      "title": "Lowe’s (NYSE: LOW) director receives phantom stock grant as deferred pay - Stock Titan",
+      "body": "Lowe’s (NYSE: LOW) director receives phantom stock grant as deferred pay Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c576e410-0fad-5a49-9e5a-614f744f7998",
+      "timestamp_utc": "2026-04-01T05:54:00+00:00",
+      "source": "stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/rh-stock-at-six-year-low-analysts-warn-of-short-term-pressure-weak-housing-trends/cZ7HpTZRIFP",
+      "title": "RH Stock At Six-Year Low: Analysts Warn Of Short-Term Pressure, Weak Housing Trends - Stocktwits",
+      "body": "RH Stock At Six-Year Low: Analysts Warn Of Short-Term Pressure, Weak Housing Trends Stocktwits",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktwits",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stocktwits",
+        "source_domain": "stocktwits.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b5eacf4d-435a-576e-ae95-85cf3199d587",
+      "timestamp_utc": "2026-04-01T10:25:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc0FIazJmNUtyVVlTbk1uaHY5QUVtNWFpcXJsT1NqakE4dGgxODd4WGZ3cW9aWTZQQWdHLTlZUWJ6TUFqUUZCMnNTT2dUMTM5QndhSV8wSlMtSDVDaWFTWFNVMjJoTTI2eVdncmU4TjZBQzEwUW5xTXNoeUpSUWFZTEM5dExVYmhfN1hvb2t4VXdqYl9EcXlOWS1SNHlOZnNjeHp6OFNxQi0xMDRiUlduQnln?oc=5",
+      "title": "Colleen Taylor (NYSE: LOW) adds phantom stock via deferred pay - Stock Titan",
+      "body": "Colleen Taylor (NYSE: LOW) adds phantom stock via deferred pay Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2c01b605-a76e-531a-bd00-2fb93f6ffcfb",
+      "timestamp_utc": "2026-04-01T04:43:26+00:00",
+      "source": "the_block",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa2tuMGhBX2NlQjJOY01vVHJrbWRTSkVWanFybUNWeXJTRGhPdFNhYlZta0dUNEYySm9xQW9HZHV6SjRHUzg4Z0VOV0JFRnFMOEFEaFlNT3RaaUlOeDVmSXUyei1IZjdUekJ1MWNiNmN1Zlo2ZG9NOUNhdkhwVklTRUJQWTJsS1JJby1wTTZNc3RMTnNUTE5XbV83UTZlNTJOYzBmQng4Rm5VZWIyczA0?oc=5",
+      "title": "Bitcoin miner Cango secures financing as NYSE delisting looms amid low stock price - The Block",
+      "body": "Bitcoin miner Cango secures financing as NYSE delisting looms amid low stock price The Block",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "the block",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Block",
+        "source_domain": "theblock.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "66b4e7d5-75a9-51bf-bcc9-769549c3a9b9",
+      "timestamp_utc": "2026-03-31T14:00:28+00:00",
+      "source": "stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNS1pYejc0a2M2Nmg3Z3pnUnAyX05MVWtjSHV2dTEwMm1GaUQzamJmZHFVcEhsaF9leTNYbU5Ta2p0UllDYTZVR1dfWDlCZ2g2YlZsb1p5ZXY2dkx6b055NWNnQmpNMHVDVEdWVk0tT0FSSHNFVy1SUWRneUhZTEVtQWZ2dVBRREk2RURVU0Ffb2hhalRaVzdfNTJFSU9pZm04RmpFUmhKOEEyUk5UTk14Q0tYeFdfWnp1ZE5kY1RseWpYXzRnenZNZDgzSldHTHgwQXZYYQ?oc=5",
+      "title": "Nike Stock Tumbles Toward 9-Year Low: Retail Traders Shrug Off Soft Outlook To Scoop Up ‘Crazy Good Pricing’ - Stocktwits",
+      "body": "Nike Stock Tumbles Toward 9-Year Low: Retail Traders Shrug Off Soft Outlook To Scoop Up ‘Crazy Good Pricing’ Stocktwits",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktwits",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stocktwits",
+        "source_domain": "stocktwits.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "b669e393-50bf-5bd0-892c-9f7d60001008",
+      "timestamp_utc": "2026-04-01T03:00:03+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lowes-companies-inc-low-trending-130003609.html",
+      "title": "Lowe's Companies, Inc. (LOW) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+      "body": "Lowe's Companies, Inc. (LOW) Is a Trending Stock: Facts to Know Before Betting on It Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c4d60792-e60e-5fea-a928-4e86a167e40b",
+      "timestamp_utc": "2026-04-01T11:02:38+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0U0MFRHdENmWi13VG5NWHJTQzJjenh4cGxUVDFGdjFLM3hVbjRHX1NKQ1VNZm9JbjZOblNaaTk1VnhhT1JtVkRrQWJpRXZrY3ROLVVuRmFNTDV1ZW9mRXk5YkM3NHp2R2NHRF9oNVpYZmc0b1BKcVAtbzBnU01QbEhwY00wN3pIN3hraXVrYzhpRl9zOUV0M09qNUpPWHRZTmJZSmlKMEtDUjE2cWtWOA?oc=5",
+      "title": "Why Wingstop Stock Hit A New 52-Week Low Wednesday - Wingstop (NASDAQ:WING) - Benzinga",
+      "body": "Why Wingstop Stock Hit A New 52-Week Low Wednesday - Wingstop (NASDAQ:WING) Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "A",
+      "tickers_hint": [
+        "A",
+        "LOW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "A",
+          "LOW"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5b12eb7d-1ac0-5996-9939-9891c832b405",
+      "timestamp_utc": "2026-03-31T06:44:38+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSURUSXRpVW5WUTh2SVZfcGgtYUlHTUdtRUxBYmg4SFVDX25raERHdHowdXJpXzJDRWdfNmdXeXJoSFNtTHJZbnlqdkc1aXlIS2c4VEVtb3ltcERnNFlWbndPSS12elJybEdkLTU1Y2V4QmVsQ0NuY2xFS3dwemY5c0V1alBsYW1GcENBZlNabVpjQllfWVNlSnNuc3phUzhiNGFCWVpn?oc=5",
+      "title": "McCormick Stock Sinks To 52-Week Low - Here's Why - Benzinga",
+      "body": "McCormick Stock Sinks To 52-Week Low - Here's Why Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "A",
+      "tickers_hint": [
+        "A",
+        "LOW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "A",
+          "LOW"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "69006cd2-d7d2-5028-b915-81286f3393da",
+      "timestamp_utc": "2026-03-31T02:34:00+00:00",
+      "source": "barrons",
+      "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxORkJhLVROeEFaVWZpN2hFOE41RE1KVHJpRkFhUDFaY1lLYUFXaU1PX1ZmMTFrVHN6YXN4N3RoLWRuTW0xQVl2eGJJOFpoN1BucW1BNlRuSFVZN2ZkUTgwc1BMZ1VaN0R0REY2dVN6Rk02OGhveHliMDZjdWhaR0VZbl9ZNlQ2Rm1YaUt6Z3paTy11R2lYa2gteGJfQnhwTUdoeWRwTVJsLW9nbUpuV3hkX2k5RDlUS2tBYUd2a3lNU1RBYVA0cURodTNOdHJhUFpMdldTUFRhdEZ3eHJJNWYyNlAyekNPM2FqVUp1SFI1eDVHREVPMlFJNFJVSWR2eWdOLVJGTEdOeTk1RmktejEybjFwWVBYV0RVREgwVHl6bXA3cGROUDlINjIwWEp4Tk5HX0RQOXNlV0RXSmQwT0hqbURicVVnYWZIWFhrMHg3Y3lmWHN4VXAwZUwwSjlONTNHX2ZkS0hYbi1qZklVNVplODZRMUVoN21uOHE1cjNPcXhUUDB1R3B5S20wYmFqNkxJUGZUVFZYaUFBb1dUU3JfMjlyYmMzRUpvVkRXLUpaaS0zZFVaR1NtdFZibkl0d1dTSGc5ZkJORWFiUQ?oc=5",
+      "title": "Boston Scientific Stock Sinks to 2-Year Low. Why Wall Street Is Souring on Trial Data. - Barron's",
+      "body": "Boston Scientific Stock Sinks to 2-Year Low. Why Wall Street Is Souring on Trial Data. Barron's",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "barrons.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Barron's",
+        "source_domain": "barrons.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ac5a0522-9a96-57d6-9959-d2518fed43f9",
+      "timestamp_utc": "2026-03-31T05:40:47+00:00",
+      "source": "investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNjlPZ2hUbUNfcWxWX0w1RGs2TUhWaFlnc1dHM0h6ZjB0S3F0NUNwbXRWUGFtQVpNUzBSdUJiUEdfSkhIV2FUT0kzNkR0TDE0dE1Jb3N0VThwRFF0NndSenNvM3dIenZMVURtOTNzd1R0Q3d0bW9RZnUxSzNiWUR2T3RYNE5teVhaSU1tLUNiR1E0YVJ2RE1uNDdWd2h1OTVjZUVjQXhsdlZaeU0?oc=5",
+      "title": "Hercules Capital stock hits 52-week low at 24.36 USD - investing.com",
+      "body": "Hercules Capital stock hits 52-week low at 24.36 USD investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "45c5a17b-3f4c-54c3-95d2-635bc59277c4",
+      "timestamp_utc": "2026-03-31T04:54:29+00:00",
+      "source": "investing.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORGVrYkJlaUhnSGJZNDdzLVcwc18zTE9jeFhDWkNhQ1VBRUxrUzdoTnprN1ZHMDBWSWFzeEhscGxaNGpZazdMN05VVFFxQTRsVktfcW54ZWFtMEhNUHdkQlZSMlo4dEpsbDVrVlpRbF9kOVdtMzEwVUNUMmNNb0Y4T3dSaE9XZ3pKRlNLRjRENWUzMnRfbWUwUEd3?oc=5",
+      "title": "Coty stock hits 52-week low at 1.98 USD - investing.com",
+      "body": "Coty stock hits 52-week low at 1.98 USD investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7d15d65c-15da-57b4-876a-0dfd86e07f69",
+      "timestamp_utc": "2026-03-31T04:43:50+00:00",
+      "source": "investing.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNalBYdWRIS2NrcV9aQjVNOWtfUENkeVJaaXdRME9scDEzXzVPbzN0NkhTT3IwcEl4d1JBaE04THpNd1FVZ0NmSVBSM0IwckVXUG5pbm9yTGxic0dobDNnNDhNU3FiYnFjVlZpX3lybVhsODRyR3lJY3BRRkNvQk9fUk12TlBIMFhEQ2ZqQ3d6eWUxbk9xVGVyU1U2SXFaVlc3cWI2aDNkdw?oc=5",
+      "title": "Progressive Corp stock hits 52-week low at $197.83 - investing.com",
+      "body": "Progressive Corp stock hits 52-week low at $197.83 investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "410cfe54-bede-569a-a002-82e1e19f8bdd",
+      "timestamp_utc": "2026-03-31T04:21:12+00:00",
+      "source": "247_wall_st",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTzJFX1JXZ1JSUDZhcnBFSl9mS3A2WnZNSTlrR1NSeWEyVW40NDRmYUZRNGUyWWZwQ3Q3SlduY2VOcUZCdHpCWmtfYXI0bTdYb3VHS0doeFotVWI3UjBnejFSdkh6X1FRV3lWY2Q0OHVud2NSOGZ5c21CczVUcFZXXzRvR3NxdFRBQ2RDS1kxSVZxT0dhOFNEemdjcGdTeG1LWXZ3YVAxOWY3OE1TQzIw?oc=5",
+      "title": "Wingstop Stock Near 52-Week Low as Wells Fargo Trims Target to $225 - 24/7 Wall St.",
+      "body": "Wingstop Stock Near 52-Week Low as Wells Fargo Trims Target to $225 24/7 Wall St.",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "247wallst.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "24/7 Wall St.",
+        "source_domain": "247wallst.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1872f6d2-864c-5a6b-b1bb-702335ac6050",
+      "timestamp_utc": "2026-04-01T10:25:38+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaFF6c2JaYVJNdGkxZHJVbnA3VHZfMUEzN2k5Zk5UQjAtQVZhQjBRZy1vb2JGY1Zjd3g4aGRXMXdLOHp4blRPRFhoVXpOSU4xTGVaTEpxX3F0MndDZDVmZlB6YnVDX1V2UTVuaUxSYjMwQXlwdm5lbVExMGdyc0xGNVI5ei1mMjNTdUduUkVJOVdWcy1mUTMyRDNZUVRudk1yUUZCYnpWMWx0eDU2aUtJVW5n?oc=5",
+      "title": "Lowe's (NYSE: LOW) director adds deferred phantom stock award - Stock Titan",
+      "body": "Lowe's (NYSE: LOW) director adds deferred phantom stock award Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6b38e718-61f2-57f7-a202-e44b20b7058b",
+      "timestamp_utc": "2026-04-01T10:24:11+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYWtmMG9RbVBVR0V6VFY4aWFWWVJVYlVHNWFOTFNzdkRsZVhRd3JyX0s2SGhobUtrdUNMcGk2Mzd3d3lUYUdfaVZmR1ZhZXRtYTExZFpaUFI5dmhLRUlodENZUnk4bVhvSzJTVFFaTURyV20tdkdaRXZzd0JQN1pKUmp0MjZLVDhJWFppY25HQk1NTnEzUHZfcDhXREdVb2ZrbjdYNDNrUWd1aWlhcVZjNXZn?oc=5",
+      "title": "Lowe’s (LOW) director Brian Rogers adds 105 phantom stock units in deferred pay - Stock Titan",
+      "body": "Lowe’s (LOW) director Brian Rogers adds 105 phantom stock units in deferred pay Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e0c3c01c-b925-5341-8e7c-400243ea1b9b",
+      "timestamp_utc": "2026-04-01T10:22:30+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHFxTHpyTllhdU1CWW5tXzZrblFTT0xPSnVhbm5nS1U4U19SeW9Pb1JlVGYwWkdUWTctejczMGVQY3dJdVliZmozbXQ0OWFVbTI1NzRGNmxjZk9MbEdKQmV6Y2Z3MFlzWGZ5ejY4eUJ6ZVktZy1GSnN3OWxWY0tkakNTUTFDMWVPMmNoTERnOEZQSXdvV2RBM0VhS2s2S245TlFqNFVoR180Zndzbmp6QzJ3?oc=5",
+      "title": "Lowe’s (LOW) director receives phantom stock under deferred compensation plan - Stock Titan",
+      "body": "Lowe’s (LOW) director receives phantom stock under deferred compensation plan Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "68023900-96cc-5f8b-96d1-1f63ae88cb25",
+      "timestamp_utc": "2026-04-01T10:21:42+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0NJN1dWWjE5c0NXTzg2WnhwQnp6b3gtcGFFYmJ6QlJQZ0U2NnRQdW0zQjdXcnZTV0xpRnFzTkNTb21leDZjMnh5VFN5WDNualNTcy1DbWM4ZHVya1doZTNyNExScnBjbkJTbzJqLUR4TTdXYUR3cWJYWXN2bHRLQ0lSbkYxMmQzd1Njd0ZMci1hSGdlcm1IVFVSdlhuUklWc1U4U0VhWkVnaHc4cF9lZjNB?oc=5",
+      "title": "Lowe’s (NYSE: LOW) director receives phantom stock grant as deferred pay - Stock Titan",
+      "body": "Lowe’s (NYSE: LOW) director receives phantom stock grant as deferred pay Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c576e410-0fad-5a49-9e5a-614f744f7998",
+      "timestamp_utc": "2026-04-01T05:54:00+00:00",
+      "source": "stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/rh-stock-at-six-year-low-analysts-warn-of-short-term-pressure-weak-housing-trends/cZ7HpTZRIFP",
+      "title": "RH Stock At Six-Year Low: Analysts Warn Of Short-Term Pressure, Weak Housing Trends - Stocktwits",
+      "body": "RH Stock At Six-Year Low: Analysts Warn Of Short-Term Pressure, Weak Housing Trends Stocktwits",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktwits",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stocktwits",
+        "source_domain": "stocktwits.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b5eacf4d-435a-576e-ae95-85cf3199d587",
+      "timestamp_utc": "2026-04-01T10:25:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc0FIazJmNUtyVVlTbk1uaHY5QUVtNWFpcXJsT1NqakE4dGgxODd4WGZ3cW9aWTZQQWdHLTlZUWJ6TUFqUUZCMnNTT2dUMTM5QndhSV8wSlMtSDVDaWFTWFNVMjJoTTI2eVdncmU4TjZBQzEwUW5xTXNoeUpSUWFZTEM5dExVYmhfN1hvb2t4VXdqYl9EcXlOWS1SNHlOZnNjeHp6OFNxQi0xMDRiUlduQnln?oc=5",
+      "title": "Colleen Taylor (NYSE: LOW) adds phantom stock via deferred pay - Stock Titan",
+      "body": "Colleen Taylor (NYSE: LOW) adds phantom stock via deferred pay Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2c01b605-a76e-531a-bd00-2fb93f6ffcfb",
+      "timestamp_utc": "2026-04-01T04:43:26+00:00",
+      "source": "the_block",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa2tuMGhBX2NlQjJOY01vVHJrbWRTSkVWanFybUNWeXJTRGhPdFNhYlZta0dUNEYySm9xQW9HZHV6SjRHUzg4Z0VOV0JFRnFMOEFEaFlNT3RaaUlOeDVmSXUyei1IZjdUekJ1MWNiNmN1Zlo2ZG9NOUNhdkhwVklTRUJQWTJsS1JJby1wTTZNc3RMTnNUTE5XbV83UTZlNTJOYzBmQng4Rm5VZWIyczA0?oc=5",
+      "title": "Bitcoin miner Cango secures financing as NYSE delisting looms amid low stock price - The Block",
+      "body": "Bitcoin miner Cango secures financing as NYSE delisting looms amid low stock price The Block",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "the block",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Block",
+        "source_domain": "theblock.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "66b4e7d5-75a9-51bf-bcc9-769549c3a9b9",
+      "timestamp_utc": "2026-03-31T14:00:28+00:00",
+      "source": "stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNS1pYejc0a2M2Nmg3Z3pnUnAyX05MVWtjSHV2dTEwMm1GaUQzamJmZHFVcEhsaF9leTNYbU5Ta2p0UllDYTZVR1dfWDlCZ2g2YlZsb1p5ZXY2dkx6b055NWNnQmpNMHVDVEdWVk0tT0FSSHNFVy1SUWRneUhZTEVtQWZ2dVBRREk2RURVU0Ffb2hhalRaVzdfNTJFSU9pZm04RmpFUmhKOEEyUk5UTk14Q0tYeFdfWnp1ZE5kY1RseWpYXzRnenZNZDgzSldHTHgwQXZYYQ?oc=5",
+      "title": "Nike Stock Tumbles Toward 9-Year Low: Retail Traders Shrug Off Soft Outlook To Scoop Up ‘Crazy Good Pricing’ - Stocktwits",
+      "body": "Nike Stock Tumbles Toward 9-Year Low: Retail Traders Shrug Off Soft Outlook To Scoop Up ‘Crazy Good Pricing’ Stocktwits",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktwits",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stocktwits",
+        "source_domain": "stocktwits.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

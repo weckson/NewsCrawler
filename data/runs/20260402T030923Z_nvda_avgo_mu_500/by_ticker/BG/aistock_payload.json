@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "ec1cca9e-c4b2-5a5b-b269-808d6902b4d2",
+      "timestamp_utc": "2026-04-01T05:18:52+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/bmo-capital-markets-issues-positive-forecast-for-bunge-global-nysebg-stock-price-2026-04-01/",
+      "title": "BMO Capital Markets Issues Positive Forecast for Bunge Global (NYSE:BG) Stock Price - MarketBeat",
+      "body": "BMO Capital Markets Issues Positive Forecast for Bunge Global (NYSE:BG) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "BG",
+      "tickers_hint": [
+        "BG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "BG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e0d7b6d7-a30f-574b-97dd-8d748c09baba",
+      "timestamp_utc": "2026-04-01T10:03:40+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmlOT2ZMczZCSDE0MllfclJVZlJVZVk2Vll2WjlJUHlTbGtjcVZxNjdYZVpjNmtzQkhza1Z5bHJYZWZrX3VpbG9BZ2p2VzdhOTFKandDQUdCcXJDZnVVYWV2UEFHYWJEX2MzSzNrYklIbjFWV0ZvaWpPZW5FUlMwamk4NmZBR0pGcDR2TXlTMXgyNUNrZ3pYa21RX1gycTZHUjlWWg?oc=5",
+      "title": "Bunge Global (NYSE: BG) grants performance stock units for Viterra integration - Stock Titan",
+      "body": "Bunge Global (NYSE: BG) grants performance stock units for Viterra integration Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "BG",
+      "tickers_hint": [
+        "BG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d8aa267d-60a2-5acb-8dfc-49b253b15400",
+      "timestamp_utc": "2026-04-01T03:00:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaGlkaEpSNmI1VG5pZEdKY0Fld1pETnhPekphMnJRNFVjZGkxd09BWkpnQW9kbzdzaVN3TlZVRnRIaEdkSjlRU0hEel9KU2hhS1RrdmcyZC1yQU9HYUtXR192RFZBT01ObHpGRnhSVTR1WW9KZjZubHFETWdFcXhKWU9PblZId2NjRW43TXgzWmpEczhaeXQ1U2hkNXdlSHl0NEJaa3hOWmVuRDlhekRvaTBnMVI?oc=5",
+      "title": "After divestiture, BGSF rebrands around property staffing - Stock Titan",
+      "body": "After divestiture, BGSF rebrands around property staffing Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "BG",
+      "tickers_hint": [
+        "BG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "ec1cca9e-c4b2-5a5b-b269-808d6902b4d2",
+      "timestamp_utc": "2026-04-01T05:18:52+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/bmo-capital-markets-issues-positive-forecast-for-bunge-global-nysebg-stock-price-2026-04-01/",
+      "title": "BMO Capital Markets Issues Positive Forecast for Bunge Global (NYSE:BG) Stock Price - MarketBeat",
+      "body": "BMO Capital Markets Issues Positive Forecast for Bunge Global (NYSE:BG) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "BG",
+      "tickers_hint": [
+        "BG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "BG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e0d7b6d7-a30f-574b-97dd-8d748c09baba",
+      "timestamp_utc": "2026-04-01T10:03:40+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmlOT2ZMczZCSDE0MllfclJVZlJVZVk2Vll2WjlJUHlTbGtjcVZxNjdYZVpjNmtzQkhza1Z5bHJYZWZrX3VpbG9BZ2p2VzdhOTFKandDQUdCcXJDZnVVYWV2UEFHYWJEX2MzSzNrYklIbjFWV0ZvaWpPZW5FUlMwamk4NmZBR0pGcDR2TXlTMXgyNUNrZ3pYa21RX1gycTZHUjlWWg?oc=5",
+      "title": "Bunge Global (NYSE: BG) grants performance stock units for Viterra integration - Stock Titan",
+      "body": "Bunge Global (NYSE: BG) grants performance stock units for Viterra integration Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "BG",
+      "tickers_hint": [
+        "BG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d8aa267d-60a2-5acb-8dfc-49b253b15400",
+      "timestamp_utc": "2026-04-01T03:00:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaGlkaEpSNmI1VG5pZEdKY0Fld1pETnhPekphMnJRNFVjZGkxd09BWkpnQW9kbzdzaVN3TlZVRnRIaEdkSjlRU0hEel9KU2hhS1RrdmcyZC1yQU9HYUtXR192RFZBT01ObHpGRnhSVTR1WW9KZjZubHFETWdFcXhKWU9PblZId2NjRW43TXgzWmpEczhaeXQ1U2hkNXdlSHl0NEJaa3hOWmVuRDlhekRvaTBnMVI?oc=5",
+      "title": "After divestiture, BGSF rebrands around property staffing - Stock Titan",
+      "body": "After divestiture, BGSF rebrands around property staffing Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "BG",
+      "tickers_hint": [
+        "BG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

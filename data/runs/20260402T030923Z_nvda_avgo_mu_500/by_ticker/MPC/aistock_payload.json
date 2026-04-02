@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "8730e7ac-c993-5b1c-b46d-bd10afb0d9e1",
+      "timestamp_utc": "2026-04-01T09:08:31+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/td-cowen-forecasts-strong-price-appreciation-for-marathon-petroleum-nysempc-stock-2026-04-01/",
+      "title": "TD Cowen Forecasts Strong Price Appreciation for Marathon Petroleum (NYSE:MPC) Stock - MarketBeat",
+      "body": "TD Cowen Forecasts Strong Price Appreciation for Marathon Petroleum (NYSE:MPC) Stock MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MPC",
+      "tickers_hint": [
+        "MPC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MPC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "8730e7ac-c993-5b1c-b46d-bd10afb0d9e1",
+      "timestamp_utc": "2026-04-01T09:08:31+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/td-cowen-forecasts-strong-price-appreciation-for-marathon-petroleum-nysempc-stock-2026-04-01/",
+      "title": "TD Cowen Forecasts Strong Price Appreciation for Marathon Petroleum (NYSE:MPC) Stock - MarketBeat",
+      "body": "TD Cowen Forecasts Strong Price Appreciation for Marathon Petroleum (NYSE:MPC) Stock MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MPC",
+      "tickers_hint": [
+        "MPC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MPC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

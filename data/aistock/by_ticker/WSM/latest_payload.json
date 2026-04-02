@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "fd19864a-dfc3-5740-b283-76123742a9aa",
+      "timestamp_utc": "2026-03-31T06:47:01+00:00",
+      "source": "bitget",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85R0JjVVVFMWVhc29YYVFoMjctazhKMnVEN0hSQmdOOUZranFqT3kyWEZVa29xTXl4dUR4LTBVUXhLdGZRaHNyc3pyODAxWlJ6NkhzSmRmbXE0Rm5iT3REX3phSdIBY0FVX3lxTE85R0JjVVVFMWVhc29YYVFoMjctazhKMnVEN0hSQmdOOUZranFqT3kyWEZVa29xTXl4dUR4LTBVUXhLdGZRaHNyc3pyODAxWlJ6NkhzSmRmbXE0Rm5iT3REX3phSQ?oc=5",
+      "title": "LOVE vs. WSM: Which Stock Offers Greater Value at This Moment? - Bitget",
+      "body": "LOVE vs. WSM: Which Stock Offers Greater Value at This Moment? Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "WSM",
+      "tickers_hint": [
+        "WSM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WSM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "855847a5-743b-5e7d-b053-8e49d560c69b",
+      "timestamp_utc": "2026-03-31T05:40:02+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb0t2TXlLRHQ4QnhpWksxalhBbU5wSmI4WW9XQ3Jzc0VVdGJJbEFTV3JhN2M2ZURndC1EU0Q3M0lxNXV2UTdsekZPaHV6emNNbXh2dWdWUzV0UHhHemJhRElBb1VOb0RCMnBnNDBNZkVvUUFkNm5yLUZBSEpUSkcySzZn?oc=5",
+      "title": "LOVE or WSM: Which Is the Better Value Stock Right Now? - Yahoo! Finance Canada",
+      "body": "LOVE or WSM: Which Is the Better Value Stock Right Now? Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "WSM",
+      "tickers_hint": [
+        "WSM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WSM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "fd19864a-dfc3-5740-b283-76123742a9aa",
+      "timestamp_utc": "2026-03-31T06:47:01+00:00",
+      "source": "bitget",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85R0JjVVVFMWVhc29YYVFoMjctazhKMnVEN0hSQmdOOUZranFqT3kyWEZVa29xTXl4dUR4LTBVUXhLdGZRaHNyc3pyODAxWlJ6NkhzSmRmbXE0Rm5iT3REX3phSdIBY0FVX3lxTE85R0JjVVVFMWVhc29YYVFoMjctazhKMnVEN0hSQmdOOUZranFqT3kyWEZVa29xTXl4dUR4LTBVUXhLdGZRaHNyc3pyODAxWlJ6NkhzSmRmbXE0Rm5iT3REX3phSQ?oc=5",
+      "title": "LOVE vs. WSM: Which Stock Offers Greater Value at This Moment? - Bitget",
+      "body": "LOVE vs. WSM: Which Stock Offers Greater Value at This Moment? Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "WSM",
+      "tickers_hint": [
+        "WSM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WSM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "855847a5-743b-5e7d-b053-8e49d560c69b",
+      "timestamp_utc": "2026-03-31T05:40:02+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb0t2TXlLRHQ4QnhpWksxalhBbU5wSmI4WW9XQ3Jzc0VVdGJJbEFTV3JhN2M2ZURndC1EU0Q3M0lxNXV2UTdsekZPaHV6emNNbXh2dWdWUzV0UHhHemJhRElBb1VOb0RCMnBnNDBNZkVvUUFkNm5yLUZBSEpUSkcySzZn?oc=5",
+      "title": "LOVE or WSM: Which Is the Better Value Stock Right Now? - Yahoo! Finance Canada",
+      "body": "LOVE or WSM: Which Is the Better Value Stock Right Now? Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "WSM",
+      "tickers_hint": [
+        "WSM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WSM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

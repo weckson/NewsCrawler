@@ -1,0 +1,594 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "6dbdfd53-dc8c-51f6-8a1b-3791c6b462f2",
+      "timestamp_utc": "2026-04-01T05:19:33+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/m-a/26/04/51602974/halliburton-buys-sekal-to-turbocharge-drilling-automation",
+      "title": "What's Going On With Halliburton Stock Wednesday? - Halliburton (NYSE:HAL) - Benzinga",
+      "body": "What's Going On With Halliburton Stock Wednesday? - Halliburton (NYSE:HAL) Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "HAL"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "def57ea7-5387-5aa9-bd7d-cd91215905fc",
+      "timestamp_utc": "2026-04-01T12:15:05+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRDdnLXdDWHVqWkZocWhQZmg0cXlONmd2RWtqcTRzWWZnbUsxWjdfeEF2cmZISDV4c2I5LXpCMmNkXzlocmxUY2lKZEM1cUNrVFBUVE1DMkFDSDZWWDhhWjdqa2FlRE1SMHBVX1ZtOGxQS1ZyVElMNTl0SnN1SFdLdUx5SVJjWGNQMW9XMA?oc=5",
+      "title": "Halliburton (HAL) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance UK",
+      "body": "Halliburton (HAL) Stock Slides as Market Rises: Facts to Know Before You Trade Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "HAL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "4f810410-b93f-57e6-b037-f31b5d0b4370",
+      "timestamp_utc": "2026-03-31T09:58:04+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX205NFpaY3hZS0lqVWNzalU1SHZSclU1TUZCSTJqd3dUR2tOUVZmMDNrZko2RFMxWnkyWHFxdHdhbUlFVE55ZnJvU3JqVERselpTeGJhdi1ydE9pWDZ1cXJ4TnM1NEhkc1lCd3BCczA3eUtHODlFazhTQzZKbEZJMXRVREdjMnJtMEFUeFB1LUZ1dnVrbVVWNHZOZXBnUWhTZE5jZk5WNHJIYXc?oc=5",
+      "title": "Halliburton (NYSE: HAL) director adds stock equivalent and RSU awards - Stock Titan",
+      "body": "Halliburton (NYSE: HAL) director adds stock equivalent and RSU awards Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "HAL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f1bd3ae7-e47c-54b7-b64e-0ea596f0d2f7",
+      "timestamp_utc": "2026-04-01T16:36:25+00:00",
+      "source": "cnbctv18.com",
+      "url": "https://www.cnbctv18.com/market/hal-share-price-hindustan-aeronautics-target-cut-by-clsa-but-brokerage-still-sees-40-pc-upside-order-pipeline-ws-l-19879356.htm",
+      "title": "CLSA cuts HAL share price target but still sees 40% upside - cnbctv18.com",
+      "body": "Disclaimer: The views and investment tips expressed by investment experts on CNBCTV18.com are their own and not that of the website or its management. CNBCTV18.com advises users to check with certified experts before taking any investment decisions.",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "cnbctv18.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "cnbctv18.com",
+        "source_domain": "cnbctv18com.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HAL"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f7001f94-3c7a-59e8-bfab-90807ff16cac",
+      "timestamp_utc": "2026-03-31T18:33:33+00:00",
+      "source": "ndtv_profit",
+      "url": "https://www.ndtvprofit.com/markets/hindustan-aeronautics-hal-bel-grse-other-defence-stocks-in-rally-in-trade-check-reason-target-price-11294749",
+      "title": "HAL Rallies Over 4% As Citi Eyes 59% Upside On Order Inflows: Check Target Price - NDTV Profit",
+      "body": "HAL Rallies Over 4% As Citi Eyes 59% Upside On Order Inflows: Check Target Price NDTV Profit",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "ndtv profit",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "NDTV Profit",
+        "source_domain": "ndtvprofit.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HAL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "00048ed0-dcd9-5b74-a024-d9b0d4438376",
+      "timestamp_utc": "2026-04-01T02:00:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZE5WdENFZ1Bib2tNa0loTUp6Q1JJVXVlb0VKZGxyWFVWVEZaLTBEa0tzS1J6VVRZQUZzLTFnb3JlRFVfOEpMd0l3XzdIZlVwUVFlYTdZYXJQUUpaNW5kMzZFMUdCdW1hY2hXZEJ4M3RoeHEyN1UyeXBmQWJ6elotVkJWWGtXWkNfZDVTR2lHb0lPVU9nLWRKUHdzX1hLUGdxc2ZGUFFpQWJacGlfTWViYjdB?oc=5",
+      "title": "Halliburton buys Sekal as drilling software cuts well times up to 25% - Stock Titan",
+      "body": "Halliburton buys Sekal as drilling software cuts well times up to 25% Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HAL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "27bf445c-266d-575b-990e-6f1b45835e34",
+      "timestamp_utc": "2026-04-01T00:45:21+00:00",
+      "source": "business_today",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYjRDUm8tdG9Bb1VHMHhKNzh0dlNyM2FKTUtpOGNVZS10X3psem9SRGdnNzVuV1VJWGYtZ1ZRSGFoWEp5LU03WlhyUTJveUxIaGd1b2poVk1BN1F4SDg4emtINUR2ZjJ4Y1F6aERFRDUyUXlYbXlISXFVclRVOUlNWW1fc0FyaUFLZHZpdlF6SUJ1LTRoYzYwTmlWZVp1b2t1TnpURENnV2RJcVZ1Vk0wRkpCX29kTU9kc3IxRkI4WkNwWW5fclF4bFVmNmU5QjBBVlhVU0Yxc3NweHFsVncxR3FaTV9IbU5UTnNZZ3ZPOFVBQdIB9wFBVV95cUxQT3RKell6VkVpRXROZWNYanNUcHJpZ25JMlVpNnYyZTdaQ2l2ZC1haXNuWGdfMGw0VWl0RmJ4ckhaZHFUSUlCSy04NjhSQTFqdmlRUXFmcUNlWTZxXy01WWcyLTAzaVNMSm5FbmM4bkhTMWZjNGVQWjhWTjh5UVpGS3FEdEJDMl80NDl2S2FXcmU2Vk4xSUl2MnA3d01ZdGJqRVBYeWFsVGZPTU8yN0g4M0M3RVROc1dQOU9SQXJlYVlJWkcyZVc1dzJzMTJDczl1UkxfMmhVTldwYU5fbmZtSDF2bDI3VEhSYmFqQWYtSDdRQmxLQ2x3?oc=5",
+      "title": "GRSE, Mazagon Dock, Cochin Shipyard, HAL, BEL, BDL: Why defence stocks rallied today; target prices - Business Today",
+      "body": "GRSE, Mazagon Dock, Cochin Shipyard, HAL, BEL, BDL: Why defence stocks rallied today; target prices Business Today",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "business today",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Business Today",
+        "source_domain": "businesstoday.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HAL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c9ab8d4e-d35a-5d86-b254-e5a211249287",
+      "timestamp_utc": "2026-03-31T22:14:09+00:00",
+      "source": "mint",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQSWQ3dzFORVBTZ1ZuTmVLMHlUZXB1a3VMTDhzSkJ6MmpVNUdHWVNrR3hqYXZBbEV5QWhNeThDeDhUT1g3UDZxcDRuV2o2MjRJRUQ2VHZReXFUMGpRZ3FoX3I3S1o3WmZTLU1BbzkwaVl4SXNWYnhzVm0tT2N6NFh1XzFzVE5HTktaTm4wT1l1amVkd2lxUTVUeHplYU8xTkUtczZTN0t6VzJPRUdRYVRBMXFYZTB4akdjV1BLaVJMMTR6czhJZW82Z29ZTTVDUWo3elhYZXFLWVZPMl9Ha3N3UVpiM3pnR0tKcUo1ajdHM3U3WmNLX0Rvb1F5bnp1Ti1ZX3lWSXRB0gGLAkFVX3lxTE5hLWNKeklWR0pxUU5MSm1sV2FSY09GSjJXZEhTd3M3ZE1qZGwzU0E1MkR1VVY1ZVNmUmJZVnp4YUlPT1VYUzdxVjNDSmFRdWhyalNMVHJsVWducGZoOHRxcUlYV1g0ZGZPOWtCSUp1Y19OZExCMlBmc3A1bTNmYk9jaHowNDhUejlzZUVmMWtWaVZlUUcwQkgxMURwSi1PRWJ2eXZHRnZjSnI5SlJHWVRUX0J1TnR0ZkEyTGtRekFDLWRaZ2pZU2JhcHRsSUo2WDg2R3RPREItbXAtbzZkekVCc3BRTWptc2htYmZ5NG1Qc0NyYzNSek5LYUJXdDYzMlZGdFhjbnU5Z1lpTQ?oc=5",
+      "title": "Defence stocks start FY27 with a bang. Time to buy HAL, BEL, BDL? - Mint",
+      "body": "Defence stocks start FY27 with a bang. Time to buy HAL, BEL, BDL? Mint",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "mint",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Mint",
+        "source_domain": "mint.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HAL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "946152ab-f752-57b2-b0ad-975ea9112eff",
+      "timestamp_utc": "2026-03-31T20:35:11+00:00",
+      "source": "equitymaster",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdmk0ZlRHSGxtTll6U2gtR3NpSmotY2FPd0FwMXJFaDZPNVFqUndBZWlDMFRBMHVncF8yYWFMb0hyNmpuZW45UlJ0UUZ2dklsbFBUNzRYa2NGUzJodHEyM1ZmWnhzOHp1Y01QS3ptTlJWOVd4MlE2ckY3d3R3SUNzRmZKZGtreEdKUnBScFBfVHJ6bnh0WHhtYV80QWk1SHVZSFE?oc=5",
+      "title": "Why HAL Share Price is Falling - Equitymaster",
+      "body": "Why HAL Share Price is Falling Equitymaster",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "equitymaster",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Equitymaster",
+        "source_domain": "equitymaster.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HAL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6e2112e3-e03d-591d-aed4-4d7fefba03bc",
+      "timestamp_utc": "2026-03-31T17:31:29+00:00",
+      "source": "et_now",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUGJoRDc3a2QwOHVFSnhTVFZMU2U2UHBFREZSOW5BNmtVdkFQeXA4RzVaUXNSdDFJUWt1SHBFVkRHbGJreUNsQ2JFYnBmODBXU3hqM0hQTS1IY2o3RWpHZHRCQUVyMDdqbVNYclRyd1ZrSUt6YWZUa2Q4UGxONERMR0lWTjhuZmFpYkVDem1EQ2tYbjItc2ZKRXU3cC1kenBqN0oxN0YwX1JtTklTRDdqUm56WkFmWlh5ODRNUFJtcDhsWVFFc2t1WFU5VG9WYVZCVFU3akVqRGRya2p2ZklHWXNvRldNNzjSAewBQVVfeXFMT2IyS1lVelJnX3pHSlVlNU5fSDRIYURTZHE0NmloRmphWHVwYUZOUXhFTUlaUzhXTmZYWFZ4c1pWU0Y1VWZaZjFORnNtU3hURERjTFh2YzE3UzJpLUdhLTkwSEZibGlQa3ctR1pheGRjejdEcU40MF8tbWZZbFNSZ25PcVVZMU53OTRPVHZHU25sSUZ1RVJxajREcm9oN2xVckVzcmJ2bWJCcTF0YlUwQk9GZmpyajFwbmV6Nlljanp4aVZueG0xb003bFNDeHJZV042TW1oZmRDTk9VVUEwYmtzcC1lX3JOaFgyWVQ?oc=5",
+      "title": "Stocks to BUY, SELL or HOLD Today, April 1: IndiGo, Swiggy, Adani Ports, HAL, ​Jubilant FoodWorks and others - ET Now",
+      "body": "Stocks to BUY, SELL or HOLD Today, April 1: IndiGo, Swiggy, Adani Ports, HAL, ​Jubilant FoodWorks and others ET Now",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "et now",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "ET Now",
+        "source_domain": "etnow.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HAL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "6dbdfd53-dc8c-51f6-8a1b-3791c6b462f2",
+      "timestamp_utc": "2026-04-01T05:19:33+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/m-a/26/04/51602974/halliburton-buys-sekal-to-turbocharge-drilling-automation",
+      "title": "What's Going On With Halliburton Stock Wednesday? - Halliburton (NYSE:HAL) - Benzinga",
+      "body": "What's Going On With Halliburton Stock Wednesday? - Halliburton (NYSE:HAL) Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "HAL"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "def57ea7-5387-5aa9-bd7d-cd91215905fc",
+      "timestamp_utc": "2026-04-01T12:15:05+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRDdnLXdDWHVqWkZocWhQZmg0cXlONmd2RWtqcTRzWWZnbUsxWjdfeEF2cmZISDV4c2I5LXpCMmNkXzlocmxUY2lKZEM1cUNrVFBUVE1DMkFDSDZWWDhhWjdqa2FlRE1SMHBVX1ZtOGxQS1ZyVElMNTl0SnN1SFdLdUx5SVJjWGNQMW9XMA?oc=5",
+      "title": "Halliburton (HAL) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance UK",
+      "body": "Halliburton (HAL) Stock Slides as Market Rises: Facts to Know Before You Trade Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "HAL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "4f810410-b93f-57e6-b037-f31b5d0b4370",
+      "timestamp_utc": "2026-03-31T09:58:04+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX205NFpaY3hZS0lqVWNzalU1SHZSclU1TUZCSTJqd3dUR2tOUVZmMDNrZko2RFMxWnkyWHFxdHdhbUlFVE55ZnJvU3JqVERselpTeGJhdi1ydE9pWDZ1cXJ4TnM1NEhkc1lCd3BCczA3eUtHODlFazhTQzZKbEZJMXRVREdjMnJtMEFUeFB1LUZ1dnVrbVVWNHZOZXBnUWhTZE5jZk5WNHJIYXc?oc=5",
+      "title": "Halliburton (NYSE: HAL) director adds stock equivalent and RSU awards - Stock Titan",
+      "body": "Halliburton (NYSE: HAL) director adds stock equivalent and RSU awards Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "HAL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f1bd3ae7-e47c-54b7-b64e-0ea596f0d2f7",
+      "timestamp_utc": "2026-04-01T16:36:25+00:00",
+      "source": "cnbctv18.com",
+      "url": "https://www.cnbctv18.com/market/hal-share-price-hindustan-aeronautics-target-cut-by-clsa-but-brokerage-still-sees-40-pc-upside-order-pipeline-ws-l-19879356.htm",
+      "title": "CLSA cuts HAL share price target but still sees 40% upside - cnbctv18.com",
+      "body": "Disclaimer: The views and investment tips expressed by investment experts on CNBCTV18.com are their own and not that of the website or its management. CNBCTV18.com advises users to check with certified experts before taking any investment decisions.",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "cnbctv18.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "cnbctv18.com",
+        "source_domain": "cnbctv18com.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HAL"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f7001f94-3c7a-59e8-bfab-90807ff16cac",
+      "timestamp_utc": "2026-03-31T18:33:33+00:00",
+      "source": "ndtv_profit",
+      "url": "https://www.ndtvprofit.com/markets/hindustan-aeronautics-hal-bel-grse-other-defence-stocks-in-rally-in-trade-check-reason-target-price-11294749",
+      "title": "HAL Rallies Over 4% As Citi Eyes 59% Upside On Order Inflows: Check Target Price - NDTV Profit",
+      "body": "HAL Rallies Over 4% As Citi Eyes 59% Upside On Order Inflows: Check Target Price NDTV Profit",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "ndtv profit",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "NDTV Profit",
+        "source_domain": "ndtvprofit.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HAL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "00048ed0-dcd9-5b74-a024-d9b0d4438376",
+      "timestamp_utc": "2026-04-01T02:00:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZE5WdENFZ1Bib2tNa0loTUp6Q1JJVXVlb0VKZGxyWFVWVEZaLTBEa0tzS1J6VVRZQUZzLTFnb3JlRFVfOEpMd0l3XzdIZlVwUVFlYTdZYXJQUUpaNW5kMzZFMUdCdW1hY2hXZEJ4M3RoeHEyN1UyeXBmQWJ6elotVkJWWGtXWkNfZDVTR2lHb0lPVU9nLWRKUHdzX1hLUGdxc2ZGUFFpQWJacGlfTWViYjdB?oc=5",
+      "title": "Halliburton buys Sekal as drilling software cuts well times up to 25% - Stock Titan",
+      "body": "Halliburton buys Sekal as drilling software cuts well times up to 25% Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HAL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "27bf445c-266d-575b-990e-6f1b45835e34",
+      "timestamp_utc": "2026-04-01T00:45:21+00:00",
+      "source": "business_today",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYjRDUm8tdG9Bb1VHMHhKNzh0dlNyM2FKTUtpOGNVZS10X3psem9SRGdnNzVuV1VJWGYtZ1ZRSGFoWEp5LU03WlhyUTJveUxIaGd1b2poVk1BN1F4SDg4emtINUR2ZjJ4Y1F6aERFRDUyUXlYbXlISXFVclRVOUlNWW1fc0FyaUFLZHZpdlF6SUJ1LTRoYzYwTmlWZVp1b2t1TnpURENnV2RJcVZ1Vk0wRkpCX29kTU9kc3IxRkI4WkNwWW5fclF4bFVmNmU5QjBBVlhVU0Yxc3NweHFsVncxR3FaTV9IbU5UTnNZZ3ZPOFVBQdIB9wFBVV95cUxQT3RKell6VkVpRXROZWNYanNUcHJpZ25JMlVpNnYyZTdaQ2l2ZC1haXNuWGdfMGw0VWl0RmJ4ckhaZHFUSUlCSy04NjhSQTFqdmlRUXFmcUNlWTZxXy01WWcyLTAzaVNMSm5FbmM4bkhTMWZjNGVQWjhWTjh5UVpGS3FEdEJDMl80NDl2S2FXcmU2Vk4xSUl2MnA3d01ZdGJqRVBYeWFsVGZPTU8yN0g4M0M3RVROc1dQOU9SQXJlYVlJWkcyZVc1dzJzMTJDczl1UkxfMmhVTldwYU5fbmZtSDF2bDI3VEhSYmFqQWYtSDdRQmxLQ2x3?oc=5",
+      "title": "GRSE, Mazagon Dock, Cochin Shipyard, HAL, BEL, BDL: Why defence stocks rallied today; target prices - Business Today",
+      "body": "GRSE, Mazagon Dock, Cochin Shipyard, HAL, BEL, BDL: Why defence stocks rallied today; target prices Business Today",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "business today",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Business Today",
+        "source_domain": "businesstoday.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HAL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c9ab8d4e-d35a-5d86-b254-e5a211249287",
+      "timestamp_utc": "2026-03-31T22:14:09+00:00",
+      "source": "mint",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQSWQ3dzFORVBTZ1ZuTmVLMHlUZXB1a3VMTDhzSkJ6MmpVNUdHWVNrR3hqYXZBbEV5QWhNeThDeDhUT1g3UDZxcDRuV2o2MjRJRUQ2VHZReXFUMGpRZ3FoX3I3S1o3WmZTLU1BbzkwaVl4SXNWYnhzVm0tT2N6NFh1XzFzVE5HTktaTm4wT1l1amVkd2lxUTVUeHplYU8xTkUtczZTN0t6VzJPRUdRYVRBMXFYZTB4akdjV1BLaVJMMTR6czhJZW82Z29ZTTVDUWo3elhYZXFLWVZPMl9Ha3N3UVpiM3pnR0tKcUo1ajdHM3U3WmNLX0Rvb1F5bnp1Ti1ZX3lWSXRB0gGLAkFVX3lxTE5hLWNKeklWR0pxUU5MSm1sV2FSY09GSjJXZEhTd3M3ZE1qZGwzU0E1MkR1VVY1ZVNmUmJZVnp4YUlPT1VYUzdxVjNDSmFRdWhyalNMVHJsVWducGZoOHRxcUlYV1g0ZGZPOWtCSUp1Y19OZExCMlBmc3A1bTNmYk9jaHowNDhUejlzZUVmMWtWaVZlUUcwQkgxMURwSi1PRWJ2eXZHRnZjSnI5SlJHWVRUX0J1TnR0ZkEyTGtRekFDLWRaZ2pZU2JhcHRsSUo2WDg2R3RPREItbXAtbzZkekVCc3BRTWptc2htYmZ5NG1Qc0NyYzNSek5LYUJXdDYzMlZGdFhjbnU5Z1lpTQ?oc=5",
+      "title": "Defence stocks start FY27 with a bang. Time to buy HAL, BEL, BDL? - Mint",
+      "body": "Defence stocks start FY27 with a bang. Time to buy HAL, BEL, BDL? Mint",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "mint",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Mint",
+        "source_domain": "mint.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HAL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "946152ab-f752-57b2-b0ad-975ea9112eff",
+      "timestamp_utc": "2026-03-31T20:35:11+00:00",
+      "source": "equitymaster",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdmk0ZlRHSGxtTll6U2gtR3NpSmotY2FPd0FwMXJFaDZPNVFqUndBZWlDMFRBMHVncF8yYWFMb0hyNmpuZW45UlJ0UUZ2dklsbFBUNzRYa2NGUzJodHEyM1ZmWnhzOHp1Y01QS3ptTlJWOVd4MlE2ckY3d3R3SUNzRmZKZGtreEdKUnBScFBfVHJ6bnh0WHhtYV80QWk1SHVZSFE?oc=5",
+      "title": "Why HAL Share Price is Falling - Equitymaster",
+      "body": "Why HAL Share Price is Falling Equitymaster",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "equitymaster",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Equitymaster",
+        "source_domain": "equitymaster.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HAL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6e2112e3-e03d-591d-aed4-4d7fefba03bc",
+      "timestamp_utc": "2026-03-31T17:31:29+00:00",
+      "source": "et_now",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUGJoRDc3a2QwOHVFSnhTVFZMU2U2UHBFREZSOW5BNmtVdkFQeXA4RzVaUXNSdDFJUWt1SHBFVkRHbGJreUNsQ2JFYnBmODBXU3hqM0hQTS1IY2o3RWpHZHRCQUVyMDdqbVNYclRyd1ZrSUt6YWZUa2Q4UGxONERMR0lWTjhuZmFpYkVDem1EQ2tYbjItc2ZKRXU3cC1kenBqN0oxN0YwX1JtTklTRDdqUm56WkFmWlh5ODRNUFJtcDhsWVFFc2t1WFU5VG9WYVZCVFU3akVqRGRya2p2ZklHWXNvRldNNzjSAewBQVVfeXFMT2IyS1lVelJnX3pHSlVlNU5fSDRIYURTZHE0NmloRmphWHVwYUZOUXhFTUlaUzhXTmZYWFZ4c1pWU0Y1VWZaZjFORnNtU3hURERjTFh2YzE3UzJpLUdhLTkwSEZibGlQa3ctR1pheGRjejdEcU40MF8tbWZZbFNSZ25PcVVZMU53OTRPVHZHU25sSUZ1RVJxajREcm9oN2xVckVzcmJ2bWJCcTF0YlUwQk9GZmpyajFwbmV6Nlljanp4aVZueG0xb003bFNDeHJZV042TW1oZmRDTk9VVUEwYmtzcC1lX3JOaFgyWVQ?oc=5",
+      "title": "Stocks to BUY, SELL or HOLD Today, April 1: IndiGo, Swiggy, Adani Ports, HAL, ​Jubilant FoodWorks and others - ET Now",
+      "body": "Stocks to BUY, SELL or HOLD Today, April 1: IndiGo, Swiggy, Adani Ports, HAL, ​Jubilant FoodWorks and others ET Now",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "et now",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "ET Now",
+        "source_domain": "etnow.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HAL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

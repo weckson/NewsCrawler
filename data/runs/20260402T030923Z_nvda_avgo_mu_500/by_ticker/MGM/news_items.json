@@ -1,0 +1,34 @@
+[
+  {
+    "id": "e9fb1e79-366a-58cf-9c19-d86f99e9bbc4",
+    "timestamp_utc": "2026-03-31T11:02:04+00:00",
+    "source": "benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSDhFTC1fN3dIR254MlNXdFJWU01KdWZJOGZDNlVJd1RybzlwS0FfSC11R2p0TFQ1bFpoaUhabDA1dGtETDFuM0hHV0RfUTd5eXJWTnFuM205dTc1NTNiWWdIWU1sX3Z3cm9CYW80SDNVd0RsNjFPUVRMUkZJLUtCSHNmRTNlcW9VU3JTcXR1cGtxQjNUa3R4UUtYcEIwaGV2NElxUTE4WVNGaVMyVkRzWlBqUk9CdnZxQ1d1XzQxa0E5aUNoSWpKMHFEdlVxT1RNdkxfczRSSGtfNzNSX1I1VFJka2pydw?oc=5",
+    "title": "Amazon MGM Smash Hit 'Project Hail Mary' Could Trump Box Office Failure Of 'Melania' Documentary - Benzinga",
+    "body": "Amazon MGM Smash Hit 'Project Hail Mary' Could Trump Box Office Failure Of 'Melania' Documentary Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "MGM",
+    "tickers_hint": [
+      "MGM"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "meta": {
+      "channel": "google_benzinga",
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "MGM"
+      ],
+      "alt_sources": [
+        "Benzinga"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

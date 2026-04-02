@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "a6794432-1f39-5c2d-be25-1d0d95604b9e",
+      "timestamp_utc": "2026-03-31T06:07:30+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8761650/truist-securities-updates-regeneron-pharmaceuticals-regn-price-target-regn-stock-news?mobile=true",
+      "title": "Truist Securities Updates Regeneron Pharmaceuticals (REGN) Price Target | REGN Stock News - GuruFocus",
+      "body": "Truist Securities Updates Regeneron Pharmaceuticals (REGN) Price Target | REGN Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "REGN",
+      "tickers_hint": [
+        "REGN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "REGN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "43c61db8-b637-5a70-bfb3-bcc270402009",
+      "timestamp_utc": "2026-03-31T06:15:14+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmQtWmdUeDBpWFRvbDNiNzJBVlBQVVg0N25vejF2N1RPaVRlQ3pSTTNuTGc4Uk5yaFp5UlFEa280Q290VEhvc2xZVDRUbC1kS1c3TXVHd0JDVDkwaXVIdGFGRXlCWEZUU1FaVWNDVHVGdjNsX1QwMzJKQ2NUV3drUlR1bVVVcGVua0ZTTW51OWFkcEVMOE9oOHNPSTQtb1U2QUFpeGwzRXJOX1U5N0YtakhlVkwySmVCMTFN?oc=5",
+      "title": "Piper Sandler Rates Regeneron Pharmaceuticals (REGN) as Overweight | REGN Stock News - GuruFocus",
+      "body": "Piper Sandler Rates Regeneron Pharmaceuticals (REGN) as Overweight | REGN Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "REGN",
+      "tickers_hint": [
+        "REGN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "REGN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1b6965b6-5590-5e6a-b35d-bc413ac96d94",
+      "timestamp_utc": "2026-03-31T05:33:35+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-issues-pessimistic-forecast-for-regeneron-pharmaceuticals-nasdaqregn-stock-price-2026-03-31/",
+      "title": "Truist Financial Issues Pessimistic Forecast for Regeneron Pharmaceuticals (NASDAQ:REGN) Stock Price - MarketBeat",
+      "body": "Truist Financial Issues Pessimistic Forecast for Regeneron Pharmaceuticals (NASDAQ:REGN) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "REGN",
+      "tickers_hint": [
+        "REGN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "REGN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "a6794432-1f39-5c2d-be25-1d0d95604b9e",
+      "timestamp_utc": "2026-03-31T06:07:30+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8761650/truist-securities-updates-regeneron-pharmaceuticals-regn-price-target-regn-stock-news?mobile=true",
+      "title": "Truist Securities Updates Regeneron Pharmaceuticals (REGN) Price Target | REGN Stock News - GuruFocus",
+      "body": "Truist Securities Updates Regeneron Pharmaceuticals (REGN) Price Target | REGN Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "REGN",
+      "tickers_hint": [
+        "REGN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "REGN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "43c61db8-b637-5a70-bfb3-bcc270402009",
+      "timestamp_utc": "2026-03-31T06:15:14+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmQtWmdUeDBpWFRvbDNiNzJBVlBQVVg0N25vejF2N1RPaVRlQ3pSTTNuTGc4Uk5yaFp5UlFEa280Q290VEhvc2xZVDRUbC1kS1c3TXVHd0JDVDkwaXVIdGFGRXlCWEZUU1FaVWNDVHVGdjNsX1QwMzJKQ2NUV3drUlR1bVVVcGVua0ZTTW51OWFkcEVMOE9oOHNPSTQtb1U2QUFpeGwzRXJOX1U5N0YtakhlVkwySmVCMTFN?oc=5",
+      "title": "Piper Sandler Rates Regeneron Pharmaceuticals (REGN) as Overweight | REGN Stock News - GuruFocus",
+      "body": "Piper Sandler Rates Regeneron Pharmaceuticals (REGN) as Overweight | REGN Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "REGN",
+      "tickers_hint": [
+        "REGN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "REGN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1b6965b6-5590-5e6a-b35d-bc413ac96d94",
+      "timestamp_utc": "2026-03-31T05:33:35+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-issues-pessimistic-forecast-for-regeneron-pharmaceuticals-nasdaqregn-stock-price-2026-03-31/",
+      "title": "Truist Financial Issues Pessimistic Forecast for Regeneron Pharmaceuticals (NASDAQ:REGN) Stock Price - MarketBeat",
+      "body": "Truist Financial Issues Pessimistic Forecast for Regeneron Pharmaceuticals (NASDAQ:REGN) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "REGN",
+      "tickers_hint": [
+        "REGN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "REGN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

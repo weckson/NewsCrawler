@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "17a98338-d5c4-545e-88d9-7b71bc57d99c",
+      "timestamp_utc": "2026-04-01T06:38:57+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/why-is-workday-wday-down-46-since-last-earnings-report/ar-AA1Zt9dT",
+      "title": "Why is Workday (WDAY) down 4.6% since last earnings report? - MSN",
+      "body": "Why is Workday (WDAY) down 4.6% since last earnings report? MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "WDAY",
+      "tickers_hint": [
+        "WDAY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDAY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "17a98338-d5c4-545e-88d9-7b71bc57d99c",
+      "timestamp_utc": "2026-04-01T06:38:57+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/why-is-workday-wday-down-46-since-last-earnings-report/ar-AA1Zt9dT",
+      "title": "Why is Workday (WDAY) down 4.6% since last earnings report? - MSN",
+      "body": "Why is Workday (WDAY) down 4.6% since last earnings report? MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "WDAY",
+      "tickers_hint": [
+        "WDAY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDAY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

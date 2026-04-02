@@ -1,0 +1,31 @@
+[
+  {
+    "id": "c1350d15-4318-52d7-bd90-77da97888a25",
+    "timestamp_utc": "2026-03-31T19:25:55+00:00",
+    "source": "intellectia_ai",
+    "url": "https://intellectia.ai/en/stock/EQIX/technical",
+    "title": "EQIX Technical Analysis & Stock Price Forecast - Intellectia AI",
+    "body": "EQIX Technical Analysis & Stock Price Forecast Intellectia AI",
+    "author": null,
+    "language": "en",
+    "ticker": "EQIX",
+    "tickers_hint": [
+      "EQIX"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "intellectia ai",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Intellectia AI",
+      "source_domain": "intellectiaai.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "EQIX"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

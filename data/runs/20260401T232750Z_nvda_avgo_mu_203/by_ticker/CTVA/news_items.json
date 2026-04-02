@@ -1,0 +1,31 @@
+[
+  {
+    "id": "566a6c7f-0067-5a14-8e78-b89293e9f5fd",
+    "timestamp_utc": "2026-03-31T06:07:30+00:00",
+    "source": "gurufocus.com",
+    "url": "https://www.gurufocus.com/news/8761645/ctva-argus-research-raises-price-target-to-91-maintains-buy-rating-ctva-stock-news?mobile=true",
+    "title": "CTVA: Argus Research Raises Price Target to $91, Maintains Buy R - gurufocus.com",
+    "body": "CTVA: Argus Research Raises Price Target to $91, Maintains Buy R gurufocus.com",
+    "author": null,
+    "language": "en",
+    "ticker": "CTVA",
+    "tickers_hint": [
+      "CTVA"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "gurufocus.com",
+      "source_domain": "gurufocuscom.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "CTVA"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

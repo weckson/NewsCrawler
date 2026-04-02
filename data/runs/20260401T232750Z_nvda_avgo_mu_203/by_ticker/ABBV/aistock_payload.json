@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "dff541d6-b16d-5ca7-89bd-6851e6f416d4",
+      "timestamp_utc": "2026-03-31T06:16:04+00:00",
+      "source": "tradingkey.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNVdlWTVNX2ZPRnJSUUpQaUhjMWZqdktmME1iZW9xMGFzeWxMb3FSRXo3SjdXVVpheFpPR1N0dWFrazNpWU5nMDViTy1USG5mOWVCcEZCUllzN0YwbGc4ZDNDUThway1FaDhjMkhiMU5yLWozOGxBTlhYMW9UWmJ1RzYyV3hXeUgtUXM4?oc=5",
+      "title": "AbbVie Inc Stock (ABBV) Moved Up by 3.26% on Mar 31: Drivers Behind the Movement - tradingkey.com",
+      "body": "AbbVie Inc Stock (ABBV) Moved Up by 3.26% on Mar 31: Drivers Behind the Movement tradingkey.com",
+      "author": null,
+      "language": "en",
+      "ticker": "ABBV",
+      "tickers_hint": [
+        "ABBV"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "tradingkey.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "tradingkey.com",
+        "source_domain": "tradingkeycom.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ABBV"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "578f6943-55e7-5801-8aeb-3d3d1120165d",
+      "timestamp_utc": "2026-03-31T02:05:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTVdNYnNTNFZtemItWmtIeFRMcHZrNnQxVXo4UUdDaTVzaXBZTzBhbXl3OTA1M1ZlRVRyM3lfRFltYnNvOGY0bV9PaEVjOFdzYXIzQ3FIbWxRa0tmSlhBSVdwb0MzX0N3OWJUX3ppd3Mtby1CYU9saENkMzFfeUVTS0lTNlY?oc=5",
+      "title": "$400 off CoolSculpting returns as AbbVie opens April CoolMonth - Stock Titan",
+      "body": "$400 off CoolSculpting returns as AbbVie opens April CoolMonth Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ABBV",
+      "tickers_hint": [
+        "ABBV"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ABBV"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "dff541d6-b16d-5ca7-89bd-6851e6f416d4",
+      "timestamp_utc": "2026-03-31T06:16:04+00:00",
+      "source": "tradingkey.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNVdlWTVNX2ZPRnJSUUpQaUhjMWZqdktmME1iZW9xMGFzeWxMb3FSRXo3SjdXVVpheFpPR1N0dWFrazNpWU5nMDViTy1USG5mOWVCcEZCUllzN0YwbGc4ZDNDUThway1FaDhjMkhiMU5yLWozOGxBTlhYMW9UWmJ1RzYyV3hXeUgtUXM4?oc=5",
+      "title": "AbbVie Inc Stock (ABBV) Moved Up by 3.26% on Mar 31: Drivers Behind the Movement - tradingkey.com",
+      "body": "AbbVie Inc Stock (ABBV) Moved Up by 3.26% on Mar 31: Drivers Behind the Movement tradingkey.com",
+      "author": null,
+      "language": "en",
+      "ticker": "ABBV",
+      "tickers_hint": [
+        "ABBV"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "tradingkey.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "tradingkey.com",
+        "source_domain": "tradingkeycom.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ABBV"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "578f6943-55e7-5801-8aeb-3d3d1120165d",
+      "timestamp_utc": "2026-03-31T02:05:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTVdNYnNTNFZtemItWmtIeFRMcHZrNnQxVXo4UUdDaTVzaXBZTzBhbXl3OTA1M1ZlRVRyM3lfRFltYnNvOGY0bV9PaEVjOFdzYXIzQ3FIbWxRa0tmSlhBSVdwb0MzX0N3OWJUX3ppd3Mtby1CYU9saENkMzFfeUVTS0lTNlY?oc=5",
+      "title": "$400 off CoolSculpting returns as AbbVie opens April CoolMonth - Stock Titan",
+      "body": "$400 off CoolSculpting returns as AbbVie opens April CoolMonth Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ABBV",
+      "tickers_hint": [
+        "ABBV"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ABBV"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

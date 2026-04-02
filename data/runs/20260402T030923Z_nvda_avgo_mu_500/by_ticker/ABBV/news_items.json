@@ -1,0 +1,31 @@
+[
+  {
+    "id": "9ea19bd1-06a1-5b17-86bb-1e39c88047fa",
+    "timestamp_utc": "2026-04-01T12:42:15+00:00",
+    "source": "bitget",
+    "url": "https://www.bitget.com/amp/news/detail/12560605328556",
+    "title": "AbbVie Stock Slides Amid Earnings Uncertainty and Competitive Pressures Despite Leading Trading Volume - Bitget",
+    "body": "AbbVie Stock Slides Amid Earnings Uncertainty and Competitive Pressures Despite Leading Trading Volume Bitget",
+    "author": null,
+    "language": "en",
+    "ticker": "ABBV",
+    "tickers_hint": [
+      "ABBV"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "bitget",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Bitget",
+      "source_domain": "bitget.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "ABBV"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

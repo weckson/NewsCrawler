@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "09027b80-fcb9-59c4-bcd4-6ac49e3a5b39",
+      "timestamp_utc": "2026-03-31T09:45:37+00:00",
+      "source": "msn",
+      "url": "http://www.msn.com/en-us/money/taxes/lennox-international-lii-q2-earnings-and-revenues-beat-estimates/ar-AA1J8MUI?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "title": "Lennox International (LII) Q2 Earnings and Revenues Beat Estimates - MSN",
+      "body": "Lennox International (LII) Q2 Earnings and Revenues Beat Estimates MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "LII",
+      "tickers_hint": [
+        "LII"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.7,
+        "event_origin": "news",
+        "query_tickers": [
+          "LII"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fe6e7a1f-f492-5b18-a628-fe73c79601d4",
+      "timestamp_utc": "2026-04-01T09:16:44+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765775/lennox-international-lii-analyst-rating-update-by-barclays-lii-stock-news",
+      "title": "Lennox International (LII) Analyst Rating Update by Barclays | L - GuruFocus",
+      "body": "Lennox International (LII) Analyst Rating Update by Barclays | L GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "LII",
+      "tickers_hint": [
+        "LII"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "LII"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f57f3423-166f-5648-a16d-93f312c9a729",
+      "timestamp_utc": "2026-04-01T06:54:14+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/wells-fargo-company-issues-pessimistic-forecast-for-lennox-international-nyselii-stock-price-2026-04-01/",
+      "title": "Wells Fargo & Company Issues Pessimistic Forecast for Lennox International (NYSE:LII) Stock Price - MarketBeat",
+      "body": "Wells Fargo & Company Issues Pessimistic Forecast for Lennox International (NYSE:LII) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "LII",
+      "tickers_hint": [
+        "LII"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "LII"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "09027b80-fcb9-59c4-bcd4-6ac49e3a5b39",
+      "timestamp_utc": "2026-03-31T09:45:37+00:00",
+      "source": "msn",
+      "url": "http://www.msn.com/en-us/money/taxes/lennox-international-lii-q2-earnings-and-revenues-beat-estimates/ar-AA1J8MUI?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "title": "Lennox International (LII) Q2 Earnings and Revenues Beat Estimates - MSN",
+      "body": "Lennox International (LII) Q2 Earnings and Revenues Beat Estimates MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "LII",
+      "tickers_hint": [
+        "LII"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.7,
+        "event_origin": "news",
+        "query_tickers": [
+          "LII"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fe6e7a1f-f492-5b18-a628-fe73c79601d4",
+      "timestamp_utc": "2026-04-01T09:16:44+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765775/lennox-international-lii-analyst-rating-update-by-barclays-lii-stock-news",
+      "title": "Lennox International (LII) Analyst Rating Update by Barclays | L - GuruFocus",
+      "body": "Lennox International (LII) Analyst Rating Update by Barclays | L GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "LII",
+      "tickers_hint": [
+        "LII"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "LII"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f57f3423-166f-5648-a16d-93f312c9a729",
+      "timestamp_utc": "2026-04-01T06:54:14+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/wells-fargo-company-issues-pessimistic-forecast-for-lennox-international-nyselii-stock-price-2026-04-01/",
+      "title": "Wells Fargo & Company Issues Pessimistic Forecast for Lennox International (NYSE:LII) Stock Price - MarketBeat",
+      "body": "Wells Fargo & Company Issues Pessimistic Forecast for Lennox International (NYSE:LII) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "LII",
+      "tickers_hint": [
+        "LII"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "LII"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

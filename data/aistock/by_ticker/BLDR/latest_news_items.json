@@ -1,0 +1,60 @@
+[
+  {
+    "id": "a94b5123-0025-5c94-8002-b178ebc5a573",
+    "timestamp_utc": "2026-04-01T11:50:04+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOGtKNTVLRUxBVTZFd0Q0Q2pxNWpaUzdNNjQ1eWJUSGQ3SXVfVUpaeXB0dkxYWTZvM2J2Zl9iUmdDLUVJXzhoNzA1TkFBWTBORjNXWlY2NVVzNENGSmI4ckhoUE8tRDRvM2pkQ0J1M3JSbEtieVAyTzJTM1Zoa1BwNVZucFJlcW9DNWI2QS1SdmVjVUpzZDREajB6dGVFdy1lOFVXSQ?oc=5",
+    "title": "Builders FirstSource (BLDR) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
+    "body": "Builders FirstSource (BLDR) Stock Falls Amid Market Uptick: What Investors Need to Know Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "BLDR",
+    "tickers_hint": [
+      "BLDR"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "BLDR"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "be89fe5c-6be0-554f-8a58-ae4070d61389",
+    "timestamp_utc": "2026-04-01T13:02:14+00:00",
+    "source": "bitget",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiaEZBRFpqZGxOOXo3ekNaeTJnTGp0ckJBTkszZFdsNVBmcExlMVhxczM3clFNdHdMR3R3UGdyY3RDVkNNbDZmaEhwZjgxOEE5akw1YzZMYlBPSWFqR1B3RWFURdIBY0FVX3lxTFBiaEZBRFpqZGxOOXo3ekNaeTJnTGp0ckJBTkszZFdsNVBmcExlMVhxczM3clFNdHdMR3R3UGdyY3RDVkNNbDZmaEhwZjgxOEE5akw1YzZMYlBPSWFqR1B3RWFURQ?oc=5",
+    "title": "Builders FirstSource (BLDR) Shares Decline Despite Market Gains: Essential Information for Investors - Bitget",
+    "body": "Builders FirstSource (BLDR) Shares Decline Despite Market Gains: Essential Information for Investors Bitget",
+    "author": null,
+    "language": "en",
+    "ticker": "BLDR",
+    "tickers_hint": [
+      "BLDR"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "bitget",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Bitget",
+      "source_domain": "bitget.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "BLDR"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

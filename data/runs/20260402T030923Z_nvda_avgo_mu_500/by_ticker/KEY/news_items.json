@@ -1,0 +1,618 @@
+[
+  {
+    "id": "f9d5c80c-491b-5b01-b586-7b19624f3c59",
+    "timestamp_utc": "2026-04-01T10:59:08+00:00",
+    "source": "benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbnl5eWR2Y2xtZ2l6RHJnOUpraDRNek5Db25rUy1KVnFhdjNVangzOUZCUzdndTFmdThIYVRlb09aWUs3Y0k4NjJ5blU0aTNoS3ZJZXVoYWEwaWV6b0J0VzY3enFYZGExNndMWjZVWGpVV3FKM3U1dlcwSlNMWlFSanVSaW1sUnB1cVNjbUd1eWcxcWlZME44STM1NXg4emZRNm9yUkVnUTdPUQ?oc=5",
+    "title": "Meta Shares Rise Nearly 3% After Key Trading Signal - Benzinga",
+    "body": "Meta Shares Rise Nearly 3% After Key Trading Signal Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "A",
+    "tickers_hint": [
+      "A",
+      "KEY",
+      "META"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "meta": {
+      "channel": "google_benzinga",
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
+      "trust_tier": 3,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "A",
+        "KEY",
+        "META"
+      ],
+      "alt_sources": [
+        "Benzinga"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "0c94f4b7-0223-5e82-9c9e-edb9d1131156",
+    "timestamp_utc": "2026-03-31T08:34:56+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8762216/keycorp-key-analyst-rating-update-morgan-stanley-lowers-price-target-key-stock-news?mobile=true",
+    "title": "KeyCorp (KEY) Analyst Rating Update: Morgan Stanley Lowers Price Target | KEY Stock News - GuruFocus",
+    "body": "KeyCorp (KEY) Analyst Rating Update: Morgan Stanley Lowers Price Target | KEY Stock News GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "KEY",
+    "tickers_hint": [
+      "KEY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.7500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "KEY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "afe70d78-dc17-5221-bb8a-4afe9416f3d2",
+    "timestamp_utc": "2026-03-31T08:15:11+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-has-lowered-expectations-for-keycorp-nysekey-stock-price-2026-03-31/",
+    "title": "Morgan Stanley Has Lowered Expectations for KeyCorp (NYSE:KEY) Stock Price - MarketBeat",
+    "body": "Morgan Stanley Has Lowered Expectations for KeyCorp (NYSE:KEY) Stock Price MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "KEY",
+    "tickers_hint": [
+      "KEY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "KEY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "23a2ba55-8c75-53a6-bd64-1e076b374569",
+    "timestamp_utc": "2026-03-31T07:26:15+00:00",
+    "source": "gurufocus",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNm84aXdRZnFtTExkbUJFaVQ1MDNaUWs2bEVWcS1wbEdZT1V5QU05MktQWjNDZHpqd01PNV9IY2tGZGVDVWFWUm91YnlKeG5uYzVQbjMzN0pNTWlVZlhlNnlqdVVoUXR0MnJaRVgySHhaeGtWUVhWTnlSRktmZ2ppNG9keWhhWE1aOXJibkhfb2I1S0dYanc?oc=5",
+    "title": "KeyCorp (KEY) Stock Price Up 2.68% on Mar 31 - GuruFocus",
+    "body": "KeyCorp (KEY) Stock Price Up 2.68% on Mar 31 GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "KEY",
+    "tickers_hint": [
+      "KEY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "KEY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "75ab14a1-9ac5-5c45-9531-d6fc60b932a2",
+    "timestamp_utc": "2026-04-01T05:16:43+00:00",
+    "source": "ad_hoc_news",
+    "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/stora-enso-oyj-stock-a-key-player-in-renewable-materials-with-recent/69049126",
+    "title": "Stora Enso Oyj Stock: A Key Player in Renewable Materials with Recent Dividend Confirmation and Stra - AD HOC NEWS",
+    "body": "NEWSAKTIENKURSEBÖRSE WIRTSCHAFT POLITIK SPORT UNTERHALTUNG WISSENSCHAFT AUSLAND POLIZEI INTERNATIONAL SONSTIGE ARCHIV BLOGS KALENDERBLATT NEWSLETTER BÖRSENLEXIKON RSS WATCHLISTNews SucheMenü ein-/ausblendenBlogsBilderNews",
+    "author": null,
+    "language": "en",
+    "ticker": "KEY",
+    "tickers_hint": [
+      "KEY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "ad hoc news",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "AD HOC NEWS",
+      "source_domain": "adhocnews.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "KEY"
+      ],
+      "body_kind": "article_text"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "6f0bb33b-4007-5626-86cd-cb2a00456f23",
+    "timestamp_utc": "2026-04-01T15:40:16+00:00",
+    "source": "mint",
+    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPenNQMjA2enQzMG9famt1MkxNMGtQd1dVZVg3MERTV3lpd1huQnUzRkFVWndNXzJsMG01XzVKVjh2MnhTNjhPZ1RPYWZxb3hJMFpJQ3A5WW1DbjQ1NExkZUJIRWl1cEp3cmI5NjVaVGs3bXR0XzNiSXRUaElHak9yeXBnaFE4LTdhWDhQc0FxSXprUWlYSE5xemhWZWwwTmZCZnBlR3Vrakk2MUxEV2o5QUJwUkhDbHBPX3dmcTkwcWZiaF9rWi1oeklEcUNWeVR0ZHBLbjZHVlVqM0c4ZGVORHJrOTZGbE5iQjBJakYxcUViUVQwVDdxM09CbmlHQmd6bEZybTBBTUdiekRBbDdQUktR0gGXAkFVX3lxTE0wR2F2YzJrX3Rsb0lCcTZ0ZTByR1JTSnppSnJXUFN5eGNVYndWVTAyY1QyVnNqVUVtSTRtMHRndUxnWkN0bnFTNTFJdGRIcG5RWHZ0c0NPOVZrTVlkTUNHVlJpYlRmVFJRQWl1Z21uRFhSM1lDRUlWNHB5ZEtWaUNia0JnUnllT2lMQVgxOXRjVE5uUm9fcTlPTzJHaDRHTGVnaDRJWWpsaVlhQ280NHJJbGdtQ1VjQnp5d1hUTGZFdGJld0hqSUo3OUNTVVY0VU9ueW80REI1M0ZtMlo1dWEtdmFhQUlqamNUTWVRMlhXVTZXNUM5RktvM2d2ZzhjV0tWYmxEcjBQSWxIRlQzWlQ4OTVDbTduRQ?oc=5",
+    "title": "From Gift Nifty, Trump speech on Iran war to oil prices: 8 key things that changed for Indian stock market overnight - Mint",
+    "body": "From Gift Nifty, Trump speech on Iran war to oil prices: 8 key things that changed for Indian stock market overnight Mint",
+    "author": null,
+    "language": "en",
+    "ticker": "KEY",
+    "tickers_hint": [
+      "KEY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "mint",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Mint",
+      "source_domain": "mint.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "KEY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "3a86cbd4-0a9c-5e3c-a38e-561b6fbfcaa0",
+    "timestamp_utc": "2026-04-01T15:18:12+00:00",
+    "source": "whalesbook",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2JJbWlFbjRfNllPajc5WnRwU2RBV1FVVWJfSWUtS0gxNjJwcUgtRHF4ZWZmQUZTVlhVNEJ4Q2ljclhRZHlJRy0xTEQ2Tm9PMmZUQzZpVkczc3N1d1JaLXhMUjdaREpUYS0xZ1dKSzYtUzJZSG5KR1FJNGlKR2lCOEJRTUhFMnZQc1kwTC1qOTNYQ3JBeHRzSXkxVjNEb2RNNHlQQkkwQW5uQmlFalU3RmFLUnNtbzBjRXk2Y2N1RUZpQXJlUU43RWRpcVM2c0F3T3llYk5lV2hVa2txenh6amJXRWt4UQ?oc=5",
+    "title": "Indian Markets Rebound, Sector Divergence Raises Key Stock Risks - Whalesbook",
+    "body": "Indian Markets Rebound, Sector Divergence Raises Key Stock Risks Whalesbook",
+    "author": null,
+    "language": "en",
+    "ticker": "KEY",
+    "tickers_hint": [
+      "KEY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "whalesbook",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Whalesbook",
+      "source_domain": "whalesbook.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "KEY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "7bdd4052-dacd-5cf2-a09e-753f351e2a1d",
+    "timestamp_utc": "2026-04-01T10:45:15+00:00",
+    "source": "ad_hoc_news",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSG5LNGVfZ1EyUVZYRzhuR2k1RGc2cFdJelFWX25rSU1rSXFTOTZSRGNmUUJleGJKelFHRXFBVjNQaXpITTFuNXh1b3ZvWUo0Vkk0YjM1VjlkaGpiT2lNN1RELUhLUmU0eS13TFU5cUhwUjg2SkNFZVVQU3hobUllQS1FWnppUjVmOW0yNU95QTJzWjdTQzBqVng0R204SElUMGlQcjdwbkVtSWtOblAtajc4blVzalF1OFBYejdzSFIxN00?oc=5",
+    "title": "Genting Singapore Ltd Stock: Key Insights into Resort World Sentosa Operator for North American Inve - AD HOC NEWS",
+    "body": "Genting Singapore Ltd Stock: Key Insights into Resort World Sentosa Operator for North American Inve AD HOC NEWS",
+    "author": null,
+    "language": "en",
+    "ticker": "KEY",
+    "tickers_hint": [
+      "KEY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "ad hoc news",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "AD HOC NEWS",
+      "source_domain": "adhocnews.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "KEY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "6635529f-e5bf-5304-8699-0f713371a808",
+    "timestamp_utc": "2026-04-01T09:45:50+00:00",
+    "source": "ad_hoc_news",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMlFJcVlEdDVNWWJjRnBPaURLVkNrLWkwbDRlWkMzUElaZlQwVTBwV0hiSmk2OUxnakVwMzEtVEZydTdGSWo3WHZvNEgweWY0Y2JWeEwtSVZZUVBScmgwV0NjNGF1TDFZOGJ3cHBwcVdEOW1HY1o1cUlJWWZRd2k0WlktMTRjTm1YWERRS1pGWVZYTFdNT3F5R2ZXYW4zcm93bTVuX0Z6V0s0VW9RNV9TTjBOM09KTFAzNm5qMDRKWFYwM19icFhERndn?oc=5",
+    "title": "Spotify Technology SA Stock: Business Model, Growth Drivers, and Key Risks for North American Invest - AD HOC NEWS",
+    "body": "Spotify Technology SA Stock: Business Model, Growth Drivers, and Key Risks for North American Invest AD HOC NEWS",
+    "author": null,
+    "language": "en",
+    "ticker": "KEY",
+    "tickers_hint": [
+      "KEY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "ad hoc news",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "AD HOC NEWS",
+      "source_domain": "adhocnews.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "KEY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "6810a477-f716-503b-8e66-2daf911da8b1",
+    "timestamp_utc": "2026-04-01T08:43:32+00:00",
+    "source": "ad_hoc_news",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS1RRcWNSRTFfbDhnNkZ3bjA0LXVpR0xwTWZSbEJ2dDhvS1RxbVN5dVlIUEhtRTV1cTVxVGVPZnBnUG1sdGRKWnhtVjdTSElkRThaRmJlSmptZS1jSWFnWHF1cVVMcXhNYldFLWRyVTVqSGt1Sy1nSXVCRWtsd1hqSGg4MHRlOENJT2xReFVrRGFqX0RHaS1EcHlSSVgxNW9XQ25hQmkzZVhPTDJWQnNyYlozckN4ZlJDSG51MEpId0s?oc=5",
+    "title": "Empresa Distribuidora y Comercializadora Norte stock: Key insights for North American investors - AD HOC NEWS",
+    "body": "Empresa Distribuidora y Comercializadora Norte stock: Key insights for North American investors AD HOC NEWS",
+    "author": null,
+    "language": "en",
+    "ticker": "KEY",
+    "tickers_hint": [
+      "KEY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "ad hoc news",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "AD HOC NEWS",
+      "source_domain": "adhocnews.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "KEY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "6cd80437-59a9-5627-b727-1f68287e8d81",
+    "timestamp_utc": "2026-04-01T08:19:52+00:00",
+    "source": "ad_hoc_news",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZjVOUGZXUWFmcGN0Z204UlBpZVFfZ09oUF9NZ0dXYURuY2UtUkJkZy1DNWwyLUhRV2VxZ1lSWDhNc0x1b3o0TVdoZUphdUJIdHgtTEIxWk95REJrcWV2Zy1MQjR6Tjh6blBNbEpnMHpXMnN1NHljQXVNcTFfZUJkaUxxdU9OX3F2ekx5U203UEpDdUxYdWFQNjNnZWp2d2NOaWFsX204X2xBbUtSRFROQnZJWnh6TmdLa2tEN0R5VmI0MnhS?oc=5",
+    "title": "Diamondback Energy Stock: Key Insights for Investors in the Permian Basin Leader - AD HOC NEWS",
+    "body": "Diamondback Energy Stock: Key Insights for Investors in the Permian Basin Leader AD HOC NEWS",
+    "author": null,
+    "language": "en",
+    "ticker": "KEY",
+    "tickers_hint": [
+      "KEY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "ad hoc news",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "AD HOC NEWS",
+      "source_domain": "adhocnews.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "KEY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "74ff5916-70d5-5279-8517-05cc00f59f33",
+    "timestamp_utc": "2026-04-01T05:59:55+00:00",
+    "source": "ad_hoc_news",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORml6X1dHcEhEbGNYal9paVBmY04xX3RVcDktQjZOM3VPUGJjcnR5VkdUeEpxamhpbHUxU0dzRnlEUUE4OE9QWnFPZEEtMlU1Rzg0bFloRVh2RVFDc25TYXpTaXFSVy1kNlRCVmI4YkcyUGE5TXdFOHFpZUwtU2lxSjlyQmZLSEM0NnlZY2xFZmd2WE1CYTN6NjVWWE83R3NrX181Ylp0cmwtc3BlR2dkS05XbHQ5NExVajRRVWVnMA?oc=5",
+    "title": "BRD - Groupe Société Générale S.A. stock: A key player in Romania's banking sector with strong t - AD HOC NEWS",
+    "body": "BRD - Groupe Société Générale S.A. stock: A key player in Romania's banking sector with strong t AD HOC NEWS",
+    "author": null,
+    "language": "en",
+    "ticker": "KEY",
+    "tickers_hint": [
+      "KEY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "ad hoc news",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "AD HOC NEWS",
+      "source_domain": "adhocnews.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "KEY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "12c5d992-8c86-525a-9e9c-bdb7b3d26116",
+    "timestamp_utc": "2026-04-01T05:39:39+00:00",
+    "source": "ad_hoc_news",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcWEyNllXRW9xQ1ZXWW9PM002RDk4YVZoS2phUnphN0Y3UzZxTU5TTHEwTFczWHR2UFhpd0tCUUtNUlRROTBnNzV4U1N5OUkyMzNkNDlfSDdhWnMxTEluWkZERmtrTUtHVng1c1p4N1pFQWdLUVlncTZyZ29XUHJxMHMxY2VIN0djZ0xNZUhiX0pST0phSmMxTWNjQVVrbHh6ek5xb1ctUzNpZHhzUFNYdm1weHY4WUhwMWI5dDhZLS1nVzVwX1JiZWtn?oc=5",
+    "title": "Saham Assurance (Sanlam) Stock: A Key Player in Morocco's Insurance Market for North American Invest - AD HOC NEWS",
+    "body": "Saham Assurance (Sanlam) Stock: A Key Player in Morocco's Insurance Market for North American Invest AD HOC NEWS",
+    "author": null,
+    "language": "en",
+    "ticker": "KEY",
+    "tickers_hint": [
+      "KEY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "ad hoc news",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "AD HOC NEWS",
+      "source_domain": "adhocnews.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "KEY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "02a7219f-5c63-593d-af47-6b2d31d3222f",
+    "timestamp_utc": "2026-04-01T04:13:55+00:00",
+    "source": "traders_union",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN3FXVTMtYmNmNHRKdGNUcVJRcHdZTl9ENGFqYk0zMldqeGtxeUpuWm9xWHlSWWlzWUxyOXhnUDdDYndrZ2JtRlVfZDlHN0JmbXQtcExFNE1UcEZ5alV0bE1Ec3dNZGgtSXo4MDBJd1E1S1FZRWpWaGxiRzZhOS1mX09VUW40U3l2ZThvMFpoZ1BheDJlSUcw?oc=5",
+    "title": "Nvidia stock trades up as seller pressure persists below key moving averages - Traders Union",
+    "body": "Nvidia stock trades up as seller pressure persists below key moving averages Traders Union",
+    "author": null,
+    "language": "en",
+    "ticker": "KEY",
+    "tickers_hint": [
+      "KEY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "traders union",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Traders Union",
+      "source_domain": "tradersunion.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "KEY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "2cd520a0-e6a7-54b4-b7dc-e8c14f58ed3f",
+    "timestamp_utc": "2026-04-01T03:57:14+00:00",
+    "source": "ad_hoc_news",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMGVmLUswdmF2N0FzcmwtTGkxNTlibnFrUlNzSGQ4ZmhfNU04QnhNd0FYclZMTzhKb3F3X1pINmZkdTl4WEJUclJFNkp1bjduVUtabVNGcnJBZ0J0NG9ZQ1BNWmVYRHVISFlvQnFtWDdXaTJWNkJwaGstTi1zTU5QNWtnajM5NHB0NjdSaFptTWJBZUE0ZlRFUWEtMGxoVUN1amYwVFRfSWJtT2lfem5WMlZUNUF0dE9JVndQTFNiSHE2THQ5OEF5SDVYcw?oc=5",
+    "title": "QuantumScape Corp Stock: Solid-State Battery Pioneer Faces Key Milestones in EV Transition - AD HOC NEWS",
+    "body": "QuantumScape Corp Stock: Solid-State Battery Pioneer Faces Key Milestones in EV Transition AD HOC NEWS",
+    "author": null,
+    "language": "en",
+    "ticker": "KEY",
+    "tickers_hint": [
+      "KEY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "ad hoc news",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "AD HOC NEWS",
+      "source_domain": "adhocnews.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "KEY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "35c6dc67-d986-5d2d-8b8b-dd2239921716",
+    "timestamp_utc": "2026-04-01T03:24:43+00:00",
+    "source": "ad_hoc_news",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOG9yQ2pWZHhMYVhYTkNsTHdZdFN1aUpBd1FucjRMdjZSaU9RWVlYdk9BVWlyTmN5dTBzQ3Q4YkdtS2pDX3hleXVtWG1PY3lqazdZbkFQTUZuaTh3NDVBNzY0ZUdlWHdWZFZCLWtha21CXzAya28wQk1MR2h6UDA4U1hjRHpVR2V6UmU3TGxGc1RCbUlBdUJmbU1BRjhhb0FOT3dJNUtGOEhlLW5oejlvQk5zWFpmbHBXcTdiSkhRM3p6N0NYNmc?oc=5",
+    "title": "Fresenius Medical Care Stock: A Key Player in Global Dialysis Services for North American Investors - AD HOC NEWS",
+    "body": "Fresenius Medical Care Stock: A Key Player in Global Dialysis Services for North American Investors AD HOC NEWS",
+    "author": null,
+    "language": "en",
+    "ticker": "KEY",
+    "tickers_hint": [
+      "KEY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "ad hoc news",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "AD HOC NEWS",
+      "source_domain": "adhocnews.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "KEY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "490cce9f-aebb-5a44-88ed-2af8b4c2f69a",
+    "timestamp_utc": "2026-04-01T02:12:00+00:00",
+    "source": "idéal_investisseur",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVk1OVTB1QmJBcVRGNkt0TEZWOEppOVFLRDlrUmNUeTdBZDNFaENhSGRVR1NoQm41cWxEQ3dTbVFnSEViY3pWUlR1dGNUUkJReUhoLUJ2WHJhci1feUZ5YkllX1BjbXFneVlCTjYxQlUxUjVuLVA5bEdHVW5WeW10Zy1LV1pTQVF6YTJvVVBDYmNERnVfS3hoTDd0WWlCM3ItUFlSWnJlUVhUQVA4YVBtdWxjS2hPbVdkZVlvMTJ5R2RWS1VyTDVkdA?oc=5",
+    "title": "Schneider Electric's Stock Jumps 4.36%, Crossing a Key Technical Threshold - Idéal Investisseur",
+    "body": "Schneider Electric's Stock Jumps 4.36%, Crossing a Key Technical Threshold Idéal Investisseur",
+    "author": null,
+    "language": "en",
+    "ticker": "KEY",
+    "tickers_hint": [
+      "KEY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "idéal investisseur",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Idéal Investisseur",
+      "source_domain": "idalinvestisseur.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "KEY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "98be0290-3460-567b-b540-c0d0f0116a35",
+    "timestamp_utc": "2026-04-01T02:06:20+00:00",
+    "source": "ad_hoc_news",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM1dhQU15RzBmNGlKREg1dlFqdDI0cmVYeHJPZWF6eFQyOGVEWlRFN3RUUlNxXzBGSEFFZFVUbnN5QlAxZ2NubHBwWFZxc01zUHN0aWhFU3dfOEV5dFVVd3VsT2lOc3dCdEhGd285Vk0zUWVlWjlNTVhDMWdZdzdUV2xvaXdHZGdTT3RUTXhiOEo2RUc0R29GWXdldnY0dV9ZUWdiZ3dvelNVcDc2eTBnYmJzUE5WNVNobGo1aTlZaGUtdU9GOUNN?oc=5",
+    "title": "MTU Aero Engines Stock: Key Player in Aviation Engine Maintenance Amid Sector Recovery Signals - AD HOC NEWS",
+    "body": "MTU Aero Engines Stock: Key Player in Aviation Engine Maintenance Amid Sector Recovery Signals AD HOC NEWS",
+    "author": null,
+    "language": "en",
+    "ticker": "KEY",
+    "tickers_hint": [
+      "KEY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "ad hoc news",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "AD HOC NEWS",
+      "source_domain": "adhocnews.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "KEY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "f5bcad6b-dcac-5444-8423-c58bae83cd4d",
+    "timestamp_utc": "2026-03-31T22:18:19+00:00",
+    "source": "ad_hoc_news",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPejZySml4WmtteXFUeWhGVm1fSzRmWkptM2ZCdFdjcXVHb242aGc0VXlPWDlfNGVQSXBXcEMwaGVtV2V4M3hRdEFOQng0dXVYTEtNR2JWVGkyUnlBajhHam5CQTY5cnUtdzZkeGM4emljdDNwSzViWXA3dkM2V1VaNktqQ2ktWWYtbzlDejN1NkpRVWRaaWRYYXV0QW55QVZjMTFvcUc5Sk1DZ0FyeEpGR3hxUlk2S1BKSWQxTTBYM0hpNjNU?oc=5",
+    "title": "Shin-Etsu Polymer Co Ltd Stock: Key Insights for North American Investors in Precision Components Ma - AD HOC NEWS",
+    "body": "Shin-Etsu Polymer Co Ltd Stock: Key Insights for North American Investors in Precision Components Ma AD HOC NEWS",
+    "author": null,
+    "language": "en",
+    "ticker": "KEY",
+    "tickers_hint": [
+      "KEY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "ad hoc news",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "AD HOC NEWS",
+      "source_domain": "adhocnews.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "KEY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "5e6ab241-a4a9-5d53-a284-6fcffc372d31",
+    "timestamp_utc": "2026-03-31T19:57:00+00:00",
+    "source": "zee_business",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb0RFMjROMVNsU2tranFCMFZsMTlfc3dwZzB1UjFENWx4c2V6dERJUHpnU1dhVDdDYlRFZGRiUkFsZlJHSENmNl9vd0VDMTFhS0pFWTZXNS1veEhNOFk0WVpDNEtIdHBLbWNKblVxUUdQcFFQVWhRbG8zckE0ZFM5VW1RVjJLWERxcjc5ZVVsUUQ2RVdjdUlkRnJOTGpsYTl0V25Bb2F2dlhBR3pW?oc=5",
+    "title": "BEL, ONGC, IndiGo Among Top Stocks to Watch Amid Key Market Triggers - Zee Business",
+    "body": "BEL, ONGC, IndiGo Among Top Stocks to Watch Amid Key Market Triggers Zee Business",
+    "author": null,
+    "language": "en",
+    "ticker": "KEY",
+    "tickers_hint": [
+      "KEY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "zee business",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Zee Business",
+      "source_domain": "zeebusiness.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "KEY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "156717e4-238e-5105-9b0e-8cb8e9ad77b8",
+    "timestamp_utc": "2026-03-31T19:37:21+00:00",
+    "source": "the_economic_times",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVWVkR0FXQXJlYzYwRkJ6MUVXaUFnUlV4ZFhhMnotU3RlRVVuSFRtcVNtLXhvdnlHLTVIMFd0Qm5DaF9HVHZoTkxqR1hVd0FESjQ5RTF0N0NEY2pZRjY5OHYwTngzcEpjd0lHNGt5ekJoUjBhek9SMTZZU1hKWFlNRlRfT0wtdk96ZXBRa21TNklDSXFhMXljLWgyc25raW1xSDE1LUs5SF80SFZ1dXBQLU9QeFNoQ1NmNlV4cXdXOFJCekpaWXE5Wms4ZVhyNnd3OVZqQ01HN010NTJjeFlEODluRUpFSWRFREE4VFIzQV9qd1BvRFBZ0gH8AUFVX3lxTE1aaDU1eHNGc2l4akhUZm5GSWVVeXlpMm91c0ZLSXFBMkFKSy1Tbmg1LVgxd2doRFM5eFI4aE1Fd3BzcGpYM2hiS0E5d1ZSMnhHOFAxUlZ3MHJDWmFNZ1g2NzNVQ2FpTkctbU94c0RoRkZLTm9IMm1jOEhwUXo2b2ZVVE03LVNZWGVCRmhENkZjTnI0S0NfZTlDRU5NcEU4TGw0cGZZZnNGRENoVDZEVUZOR1Y2dVRxQXdWNnRXdTU0X1hrZEVaMTZ1OXFESzk4NVFWMWNrR2ZVeGRjX0diVzN2cU54RUZNUWJhWkcza2NEZnpjRGdYQUVYWEtrbw?oc=5",
+    "title": "Stock market investors, take note of these 6 key changes that come into effect from April 1 - The Economic Times",
+    "body": "Stock market investors, take note of these 6 key changes that come into effect from April 1 The Economic Times",
+    "author": null,
+    "language": "en",
+    "ticker": "KEY",
+    "tickers_hint": [
+      "KEY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "the economic times",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "The Economic Times",
+      "source_domain": "theeconomictimes.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "KEY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

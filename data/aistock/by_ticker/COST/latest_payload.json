@@ -1,0 +1,356 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "99f246d5-d0bd-5058-a43f-d96e09ed2cc2",
+      "timestamp_utc": "2026-04-01T02:23:04+00:00",
+      "source": "cnbc",
+      "url": "https://www.cnbc.com/2026/04/01/oracle-orcl-stock-layoffs-job-cuts-ai.html",
+      "title": "Oracle layoffs will help cost savings, analysts say - CNBC",
+      "body": "Oracle layoffs will help cost savings, analysts say CNBC",
+      "author": null,
+      "language": "en",
+      "ticker": "COST",
+      "tickers_hint": [
+        "COST"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "cnbc.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "CNBC",
+        "source_domain": "cnbc.com",
+        "trust_tier": 3,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "COST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "70aa5882-7b4c-527c-9c41-7025a902ef5a",
+      "timestamp_utc": "2026-04-01T06:20:06+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNczRrN1RhdTZnUG8xM1NTRzdhZnFES2I2MDlYN0dtbU5xMndlSzVCamhtS3BiV2tWQzNOcDVMQ1ZRQXNRRlI3Sl9uWlF4V3lkMFR1LTBrd2lwNWNhVHBLZFQ3aGh2RGg3VFhzYlBYemtwa1hESGU1M1RFN0dGTFR1ZlE5ZlVTSl9zWU8zemRFS1JrUHlX?oc=5",
+      "title": "High Liner Foods Stock Slides on Cost-Cutting Drive - TipRanks",
+      "body": "High Liner Foods Stock Slides on Cost-Cutting Drive TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "COST",
+      "tickers_hint": [
+        "COST"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "COST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "548b7a46-3e62-527b-8b29-d88e9facf7d2",
+      "timestamp_utc": "2026-03-31T12:21:17+00:00",
+      "source": "investing.com",
+      "url": "https://www.investing.com/news/analyst-ratings/jefferies-lowers-cocacola-stock-price-target-on-cost-pressures-93CH-4591793",
+      "title": "Jefferies lowers Coca-Cola stock price target on cost pressures - Investing.com",
+      "body": "Jefferies lowers Coca-Cola stock price target on cost pressures Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "COST",
+      "tickers_hint": [
+        "COST"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "COST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2f55a955-99eb-5bf2-ad1d-4d8de06e0d40",
+      "timestamp_utc": "2026-04-01T23:09:39+00:00",
+      "source": "investing.com_india",
+      "url": "https://in.investing.com/news/analyst-ratings/rothmkm-upgrades-tilray-stock-on-international-growth-cost-savings-93CH-5320661",
+      "title": "Roth/MKM upgrades Tilray stock on international growth, cost savings By Investing.com - Investing.com India",
+      "body": "Roth/MKM upgrades Tilray stock on international growth, cost savings By Investing.com Investing.com India",
+      "author": null,
+      "language": "en",
+      "ticker": "COST",
+      "tickers_hint": [
+        "COST"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "investing.com india",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com India",
+        "source_domain": "investingcomindia.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "COST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c0ac5a59-89ab-5d4f-b461-a8089f034334",
+      "timestamp_utc": "2026-04-01T12:33:06+00:00",
+      "source": "investing.com_india",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdzBYQzBFSVNzZklSSkx1TC02U1pjb2VtWGNvSW1xbndNckx4Vmt1U3pRRzlKbndJWkw2WEVOamxHWjRUYUsteTJvUGdzMHFGTGhlUndJaGV3dTAtaWRtT0FYWjhwOWppeVBIUkJuRldVZE03U3VzaDVEWFJvMW9BeldWZXRQXzlGLTlwa19fcmZzSGJ6MFdIeVIzcy1fY2xqOEpTdGpsYXowOGlkdVhTLThn?oc=5",
+      "title": "Frates Caton, Costco evp, sells $695k in COST stock By Investing.com - Investing.com India",
+      "body": "Frates Caton, Costco evp, sells $695k in COST stock By Investing.com Investing.com India",
+      "author": null,
+      "language": "en",
+      "ticker": "COST",
+      "tickers_hint": [
+        "COST"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "investing.com india",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com India",
+        "source_domain": "investingcomindia.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "COST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e8db370a-9209-5a68-9ba1-93313e744131",
+      "timestamp_utc": "2026-03-31T16:51:00+00:00",
+      "source": "indexbox",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHBmMmNUTFktOUpxeFZEOEFSYy1qbkZXUDhDX2xZTHBUMlVSQWQzWGhHZ1VNMTMzdHBqRkttWHlJalhkLVNxSVFVSWdNdHZZcmVhYVZBZzBmM3RtWXVCaE5zbGZVOGtJVERkbUkxWUU5aHVVZkswTFg1VXgyTS0tMzBqVGFTYmZZcUF1VFlPU1ZXblhpOHJ3?oc=5",
+      "title": "Nvidia Stock Correction: Valuation Analysis & 2026 Energy Cost Risks - News and Statistics - IndexBox",
+      "body": "Nvidia Stock Correction: Valuation Analysis & 2026 Energy Cost Risks - News and Statistics IndexBox",
+      "author": null,
+      "language": "en",
+      "ticker": "COST",
+      "tickers_hint": [
+        "COST"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "indexbox",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "IndexBox",
+        "source_domain": "indexbox.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "COST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "99f246d5-d0bd-5058-a43f-d96e09ed2cc2",
+      "timestamp_utc": "2026-04-01T02:23:04+00:00",
+      "source": "cnbc",
+      "url": "https://www.cnbc.com/2026/04/01/oracle-orcl-stock-layoffs-job-cuts-ai.html",
+      "title": "Oracle layoffs will help cost savings, analysts say - CNBC",
+      "body": "Oracle layoffs will help cost savings, analysts say CNBC",
+      "author": null,
+      "language": "en",
+      "ticker": "COST",
+      "tickers_hint": [
+        "COST"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "cnbc.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "CNBC",
+        "source_domain": "cnbc.com",
+        "trust_tier": 3,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "COST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "70aa5882-7b4c-527c-9c41-7025a902ef5a",
+      "timestamp_utc": "2026-04-01T06:20:06+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNczRrN1RhdTZnUG8xM1NTRzdhZnFES2I2MDlYN0dtbU5xMndlSzVCamhtS3BiV2tWQzNOcDVMQ1ZRQXNRRlI3Sl9uWlF4V3lkMFR1LTBrd2lwNWNhVHBLZFQ3aGh2RGg3VFhzYlBYemtwa1hESGU1M1RFN0dGTFR1ZlE5ZlVTSl9zWU8zemRFS1JrUHlX?oc=5",
+      "title": "High Liner Foods Stock Slides on Cost-Cutting Drive - TipRanks",
+      "body": "High Liner Foods Stock Slides on Cost-Cutting Drive TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "COST",
+      "tickers_hint": [
+        "COST"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "COST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "548b7a46-3e62-527b-8b29-d88e9facf7d2",
+      "timestamp_utc": "2026-03-31T12:21:17+00:00",
+      "source": "investing.com",
+      "url": "https://www.investing.com/news/analyst-ratings/jefferies-lowers-cocacola-stock-price-target-on-cost-pressures-93CH-4591793",
+      "title": "Jefferies lowers Coca-Cola stock price target on cost pressures - Investing.com",
+      "body": "Jefferies lowers Coca-Cola stock price target on cost pressures Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "COST",
+      "tickers_hint": [
+        "COST"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "COST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2f55a955-99eb-5bf2-ad1d-4d8de06e0d40",
+      "timestamp_utc": "2026-04-01T23:09:39+00:00",
+      "source": "investing.com_india",
+      "url": "https://in.investing.com/news/analyst-ratings/rothmkm-upgrades-tilray-stock-on-international-growth-cost-savings-93CH-5320661",
+      "title": "Roth/MKM upgrades Tilray stock on international growth, cost savings By Investing.com - Investing.com India",
+      "body": "Roth/MKM upgrades Tilray stock on international growth, cost savings By Investing.com Investing.com India",
+      "author": null,
+      "language": "en",
+      "ticker": "COST",
+      "tickers_hint": [
+        "COST"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "investing.com india",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com India",
+        "source_domain": "investingcomindia.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "COST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c0ac5a59-89ab-5d4f-b461-a8089f034334",
+      "timestamp_utc": "2026-04-01T12:33:06+00:00",
+      "source": "investing.com_india",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdzBYQzBFSVNzZklSSkx1TC02U1pjb2VtWGNvSW1xbndNckx4Vmt1U3pRRzlKbndJWkw2WEVOamxHWjRUYUsteTJvUGdzMHFGTGhlUndJaGV3dTAtaWRtT0FYWjhwOWppeVBIUkJuRldVZE03U3VzaDVEWFJvMW9BeldWZXRQXzlGLTlwa19fcmZzSGJ6MFdIeVIzcy1fY2xqOEpTdGpsYXowOGlkdVhTLThn?oc=5",
+      "title": "Frates Caton, Costco evp, sells $695k in COST stock By Investing.com - Investing.com India",
+      "body": "Frates Caton, Costco evp, sells $695k in COST stock By Investing.com Investing.com India",
+      "author": null,
+      "language": "en",
+      "ticker": "COST",
+      "tickers_hint": [
+        "COST"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "investing.com india",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com India",
+        "source_domain": "investingcomindia.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "COST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e8db370a-9209-5a68-9ba1-93313e744131",
+      "timestamp_utc": "2026-03-31T16:51:00+00:00",
+      "source": "indexbox",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHBmMmNUTFktOUpxeFZEOEFSYy1qbkZXUDhDX2xZTHBUMlVSQWQzWGhHZ1VNMTMzdHBqRkttWHlJalhkLVNxSVFVSWdNdHZZcmVhYVZBZzBmM3RtWXVCaE5zbGZVOGtJVERkbUkxWUU5aHVVZkswTFg1VXgyTS0tMzBqVGFTYmZZcUF1VFlPU1ZXblhpOHJ3?oc=5",
+      "title": "Nvidia Stock Correction: Valuation Analysis & 2026 Energy Cost Risks - News and Statistics - IndexBox",
+      "body": "Nvidia Stock Correction: Valuation Analysis & 2026 Energy Cost Risks - News and Statistics IndexBox",
+      "author": null,
+      "language": "en",
+      "ticker": "COST",
+      "tickers_hint": [
+        "COST"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "indexbox",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "IndexBox",
+        "source_domain": "indexbox.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "COST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

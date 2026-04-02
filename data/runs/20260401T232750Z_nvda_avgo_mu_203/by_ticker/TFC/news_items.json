@@ -1,0 +1,31 @@
+[
+  {
+    "id": "cacdf152-96fc-51e3-9678-bba70868072f",
+    "timestamp_utc": "2026-03-31T08:34:57+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8762232/morgan-stanley-lowers-price-target-for-tfc-maintains-overweight-rating-tfc-stock-news?mobile=true",
+    "title": "Morgan Stanley Lowers Price Target for TFC, Maintains Overweight Rating | TFC Stock News - GuruFocus",
+    "body": "Morgan Stanley Lowers Price Target for TFC, Maintains Overweight Rating | TFC Stock News GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "TFC",
+    "tickers_hint": [
+      "TFC"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.7000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "TFC"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

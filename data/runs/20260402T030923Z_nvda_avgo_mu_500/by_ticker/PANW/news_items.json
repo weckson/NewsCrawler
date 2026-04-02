@@ -1,0 +1,31 @@
+[
+  {
+    "id": "a1b1d5b4-cca2-5120-a8d0-04a20d6549e4",
+    "timestamp_utc": "2026-04-01T10:41:17+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOckVOREFBSTFHTWJLMHVhMEhGemFlQkNyMk9aNlY4eGh5NVFxTnZaYklMMUFwYmw5Xzlkc0JsR2NhYVZ4eXM5ZTMtUGQ2YmpyYXBYWXJnaWtBNWFjdnZKMlFKZC00WVZGT29UVW5uYS1pRGFlRlFDS3NhN3F3UGVac1RWMXlUdlBaU0VBbXk5aFI5bEVQMjB5Y1M2b1M4akty?oc=5",
+    "title": "Palo Alto Networks (NASDAQ: PANW) lists 9,733 PSUs/RSUs and 267 ESPP shares in Form 144 - Stock Titan",
+    "body": "Palo Alto Networks (NASDAQ: PANW) lists 9,733 PSUs/RSUs and 267 ESPP shares in Form 144 Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "PANW",
+    "tickers_hint": [
+      "PANW"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "PANW"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

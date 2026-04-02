@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "8aa0cb05-194e-54fd-a003-d62f57d75ee5",
+      "timestamp_utc": "2026-04-01T21:38:30+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-banque-pictet-cie-sa-has-8887-million-stock-position-in-abbvie-inc-abbv-2026-04-02/",
+      "title": "Banque Pictet & Cie SA Has $88.87 Million Stock Position in AbbVie Inc. $ABBV - MarketBeat",
+      "body": "Banque Pictet & Cie SA Has $88.87 Million Stock Position in AbbVie Inc. $ABBV MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ABBV",
+      "tickers_hint": [
+        "ABBV"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ABBV"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9b9e71d2-8ae2-5161-bab1-5f55ed6ea892",
+      "timestamp_utc": "2026-04-01T02:11:40+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-abbvie-inc-abbv-stock-holdings-trimmed-by-vaughan-nelson-investment-management-lp-2026-04-01/",
+      "title": "AbbVie Inc. $ABBV Stock Holdings Trimmed by Vaughan Nelson Investment Management L.P. - MarketBeat",
+      "body": "AbbVie Inc. $ABBV Stock Holdings Trimmed by Vaughan Nelson Investment Management L.P. MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ABBV",
+      "tickers_hint": [
+        "ABBV"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ABBV"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a0ff6088-2a64-5d87-9c20-3c0cec99c21a",
+      "timestamp_utc": "2026-03-31T21:18:01+00:00",
+      "source": "msn.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1pOTFlCb255dkdzcTBOdDFjS3lxUXRlWTdvQVBaSHZuenMzcURwbWg5MXRJT3MteHcwLS1sTXIycVYxcFotaF9BajB2VzFrRERnN2dUejFZQUtjdzJXZ2lxMzhiRER1Y012blZtOXRGdWFmNk9MZ0ZrdElmTTNjWHV0SmRJMzBwRmwxVU9fOHhRWE5LRmZHQTgxbXVYVXBMcktMMi1Va25BUklKdlhzbG5fZUc0Zw?oc=5",
+      "title": "Is AbbVie (ABBV) one of the best psychedelic stocks to buy in 2026? - msn.com",
+      "body": "Is AbbVie (ABBV) one of the best psychedelic stocks to buy in 2026? msn.com",
+      "author": null,
+      "language": "en",
+      "ticker": "ABBV",
+      "tickers_hint": [
+        "ABBV"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "msn.com",
+        "source_domain": "msncom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ABBV"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "8aa0cb05-194e-54fd-a003-d62f57d75ee5",
+      "timestamp_utc": "2026-04-01T21:38:30+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-banque-pictet-cie-sa-has-8887-million-stock-position-in-abbvie-inc-abbv-2026-04-02/",
+      "title": "Banque Pictet & Cie SA Has $88.87 Million Stock Position in AbbVie Inc. $ABBV - MarketBeat",
+      "body": "Banque Pictet & Cie SA Has $88.87 Million Stock Position in AbbVie Inc. $ABBV MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ABBV",
+      "tickers_hint": [
+        "ABBV"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ABBV"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9b9e71d2-8ae2-5161-bab1-5f55ed6ea892",
+      "timestamp_utc": "2026-04-01T02:11:40+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-abbvie-inc-abbv-stock-holdings-trimmed-by-vaughan-nelson-investment-management-lp-2026-04-01/",
+      "title": "AbbVie Inc. $ABBV Stock Holdings Trimmed by Vaughan Nelson Investment Management L.P. - MarketBeat",
+      "body": "AbbVie Inc. $ABBV Stock Holdings Trimmed by Vaughan Nelson Investment Management L.P. MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ABBV",
+      "tickers_hint": [
+        "ABBV"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ABBV"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a0ff6088-2a64-5d87-9c20-3c0cec99c21a",
+      "timestamp_utc": "2026-03-31T21:18:01+00:00",
+      "source": "msn.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1pOTFlCb255dkdzcTBOdDFjS3lxUXRlWTdvQVBaSHZuenMzcURwbWg5MXRJT3MteHcwLS1sTXIycVYxcFotaF9BajB2VzFrRERnN2dUejFZQUtjdzJXZ2lxMzhiRER1Y012blZtOXRGdWFmNk9MZ0ZrdElmTTNjWHV0SmRJMzBwRmwxVU9fOHhRWE5LRmZHQTgxbXVYVXBMcktMMi1Va25BUklKdlhzbG5fZUc0Zw?oc=5",
+      "title": "Is AbbVie (ABBV) one of the best psychedelic stocks to buy in 2026? - msn.com",
+      "body": "Is AbbVie (ABBV) one of the best psychedelic stocks to buy in 2026? msn.com",
+      "author": null,
+      "language": "en",
+      "ticker": "ABBV",
+      "tickers_hint": [
+        "ABBV"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "msn.com",
+        "source_domain": "msncom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ABBV"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

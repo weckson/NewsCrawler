@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "e8b49bd9-96d1-5e9b-a9ad-edb2c1f82028",
+      "timestamp_utc": "2026-04-01T10:01:21+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmxyR0d6NDlraEUxcVdaLUV6dFFmQnpSbFhVZHNGNGs2RXlHbmpVZFd4SktySFZXNVB0MlhzN2s1S1ZRMTZ4X0t1THk2c2U1akJQRDZSdUtRLXctTjBybXBCeXNkREVCdGVkX1NUdkZOSFItWHo1MmlDMTVwV01KcW1Pclhfc3ZuRFNyRFZPRmhJVXdfb2pybHlvRzlORFZBdHZncXpYdUI2bnhTRFdpOE43NkQ5aWlnUlJtdg?oc=5",
+      "title": "American Water (NYSE: AWK) raises $700M with 5.200% notes due 2036 - Stock Titan",
+      "body": "American Water (NYSE: AWK) raises $700M with 5.200% notes due 2036 Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "AWK",
+      "tickers_hint": [
+        "AWK"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AWK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "e8b49bd9-96d1-5e9b-a9ad-edb2c1f82028",
+      "timestamp_utc": "2026-04-01T10:01:21+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmxyR0d6NDlraEUxcVdaLUV6dFFmQnpSbFhVZHNGNGs2RXlHbmpVZFd4SktySFZXNVB0MlhzN2s1S1ZRMTZ4X0t1THk2c2U1akJQRDZSdUtRLXctTjBybXBCeXNkREVCdGVkX1NUdkZOSFItWHo1MmlDMTVwV01KcW1Pclhfc3ZuRFNyRFZPRmhJVXdfb2pybHlvRzlORFZBdHZncXpYdUI2bnhTRFdpOE43NkQ5aWlnUlJtdg?oc=5",
+      "title": "American Water (NYSE: AWK) raises $700M with 5.200% notes due 2036 - Stock Titan",
+      "body": "American Water (NYSE: AWK) raises $700M with 5.200% notes due 2036 Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "AWK",
+      "tickers_hint": [
+        "AWK"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AWK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,1080 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "af9765bb-36cc-53eb-b374-fe9aceba0326",
+      "timestamp_utc": "2026-03-31T10:22:30+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVDMyMEVvQ0VUcjN6OUlpZ1FFUG5SaDJnaFVTek1ha1BEU1pXelB3LVdTaVFNbVpNZ2xIUDBSaTdrVEc3SlVwS3BoZnlXRjdYLUNZa0tNRzhpNXRIYkQxVERUQ1lSbTd3eWVGWEU4Qzc3bkM3SEZ3bjE3SU9ZQUtQWkotdmZ2a1pjelpRNk1yS1djUGhPQ2NMZ0ZfaEhZOFVKelpzc1FuQjNyMlhncnR3akN1VTFtUFlJYjhXQmpLZ2N2andzRFpVeHlyMjJWU0k?oc=5",
+      "title": "Palantir, Tesla, Apple Top Iran Retaliation List: 'A US Company Will Be Destroyed' - Benzinga",
+      "body": "Palantir, Tesla, Apple Top Iran Retaliation List: 'A US Company Will Be Destroyed' Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "A",
+      "tickers_hint": [
+        "A",
+        "AAPL",
+        "DE",
+        "ON",
+        "TSLA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "A",
+          "AAPL",
+          "DE",
+          "ON",
+          "TSLA"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5dc9898f-cf90-5685-b4e9-a1771693d06a",
+      "timestamp_utc": "2026-03-31T07:05:15+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/euro-ncap-full-self-driving-irresponsible-tesla-stock-nasdaqtsla-surges",
+      "title": "Euro NCAP: Full Self-Driving “Irresponsible,” Tesla Stock (NASDAQ:TSLA) Surges - TipRanks",
+      "body": "Euro NCAP: Full Self-Driving “Irresponsible,” Tesla Stock (NASDAQ:TSLA) Surges TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6a28f790-02b2-5bf4-bcb7-6030f87fb6c3",
+      "timestamp_utc": "2026-04-01T07:05:51+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/tesla-stock-nasdaqtsla-jumps-as-the-model-s-and-model-x-are-finished",
+      "title": "Tesla Stock (NASDAQ:TSLA) Jumps as the Model S and Model X are Finished - TipRanks",
+      "body": "Tesla Stock (NASDAQ:TSLA) Jumps as the Model S and Model X are Finished TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "61af15a2-31b6-522b-8d21-6976416c464e",
+      "timestamp_utc": "2026-03-31T21:09:06+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/tesla-stock-tsla-pops-as-france-sales-soar-200-in-march-europe-recovery-ahead",
+      "title": "Tesla Stock (TSLA) Pops as French Registrations Soar 200% — Is Europe’s Recovery Ahead? - TipRanks",
+      "body": "Tesla Stock (TSLA) Pops as French Registrations Soar 200% — Is Europe’s Recovery Ahead? TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "268cefe2-9a19-5f15-8c31-8d067ebef47d",
+      "timestamp_utc": "2026-03-31T15:32:13+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/03/51589143/nike-beyondmeat-coinbase-rh-tesla-stocks-on-radar-today",
+      "title": "NKE, BYND, COIN, RH, TSLA: 5 Trending Stocks Today - Tesla (NASDAQ:TSLA) - Benzinga",
+      "body": "NKE, BYND, COIN, RH, TSLA: 5 Trending Stocks Today - Tesla (NASDAQ:TSLA) Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "18c991ba-92b1-57f1-9978-67f19712575f",
+      "timestamp_utc": "2026-04-01T04:27:01+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/04/51600876/watch-out-tesla-nio-march-deliveries-grew-136-percent",
+      "title": "Watch Out Tesla ― NIO March Deliveries Surged 136% - Benzinga",
+      "body": "Watch Out Tesla ― NIO March Deliveries Surged 136% Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b6f3fe80-a206-5831-a6d8-3ce7bc8fa6b2",
+      "timestamp_utc": "2026-03-31T11:47:29+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNLXROanc3R0lJSjZsMnhRSnZadnBfdWduZkVlWTd3bXVfREE3QVdGb2VQMk5OaUp0M2NiLVpkUU9nT0EyelQ4R21EQnJYTnpYUmQxeWpFNFMwaXpxaEkwRVZIcjhSUFFJcExhRFBXcl81dFM2cnU4WlBqX2dyOEdSQXo5cGVWMVhTMC1wYzhyclJWRFZUYV9xLUw5XzdCUU9ZRExKejBUV05qR1ljLTVCUGRaUU1zMXgzSFBwNml6OEJWZmtNckJFNUFwdXUyS2VyVHVLNjZRZHZGTXp5UGc?oc=5",
+      "title": "Gary Black Says TSLA Has Underperformed Nasdaq For 5 Years Because It Has Never Lived Up To Unsupervised - Benzinga",
+      "body": "Gary Black Says TSLA Has Underperformed Nasdaq For 5 Years Because It Has Never Lived Up To Unsupervised Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "754d4952-f2be-557f-ac83-09c695067426",
+      "timestamp_utc": "2026-03-31T07:22:43+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRzVReWlock1xZ0o2NzNJSnB6UFlQUEhnaWRfMnRiWHhpN0k5REs0ZFRjTkZwc09FTnRlQlBfYmdtSVNfZGNldTFVb2diWmdWVDlqQWlKU2Z3RUdLRnQtR3BwM2dQSWE5dlN3YW95UmROS2xBRXZpVGhLX3RuZEVZdmQ0SzJIVmpsTXBtc19Vc2VOa01SSDBhYTBHbzAxbjdydmFOZ3NQTU9mQXF6eDZSVnlzVGVuS3Bfbmc?oc=5",
+      "title": "Tesla Stock Is Surging Tuesday: What's Driving The Momentum? - Benzinga",
+      "body": "Tesla Stock Is Surging Tuesday: What's Driving The Momentum? Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3c8ce288-23b1-56e1-a8d2-a7d14ffba273",
+      "timestamp_utc": "2026-03-31T09:19:39+00:00",
+      "source": "247_wall_st",
+      "url": "https://247wallst.com/investing/2026/03/31/tesla-surges-5-delivery-hopes-terafab-and-spacex-buzz-are-all-converging-at-once/",
+      "title": "Tesla Surges 5%: Delivery Hopes, Terafab, and SpaceX Buzz Are All Converging at Once - 24/7 Wall St.",
+      "body": "Tesla (NASDAQ:TSLA | TSLA Price Prediction) shares are up 5% in Tuesday’s session, trading around $373 after opening at $355.28. Three distinct catalysts landed within the same 24-hour window, and the market is treating their convergence as meaningful. That kind of stacked narrative is rare, and it explains why the move has legs even against a difficult recent backdrop.\n\nTSLA stock entered today down 21% year to date and off 6.71% over the past week. Today’s rally doesn’t erase the recent pain, but it suggests that when enough positive news arrives at once, buyers are willing to step back in.\n\nSo, let’s walk through exactly what is driving the move and what investors should be watching as the quarter officially closes.\n\nThe quarter ends today, and the market is front-running what analysts expect to be a meaningful year-over-year improvement for Tesla. Consensus estimates point to 365,645 vehicles delivered globally in Q1 2026, representing a 9% year-over-year increase. Prediction market traders on Polymarket assign a 76.5% implied probability to Q1 deliveries landing in the 350,000 to 375,000 range, with the formal report expected in early April.\n\nBeyond vehicles, Tesla is projecting a record 14.4 gigawatt-hours in energy storage deployments for the quarter. That figure underscores how meaningfully the energy segment has grown as a share of the overall business. For context, the energy segment generated $3.84 billion in revenue in Q4 2025, up 25% year over year, and the trajectory appears to be continuing.\n\nGranted, the delivery number still represents a sequential decline from Tesla’s Q4 2025’s 418,227 units. Investors appear willing to look past that, focusing instead on the year-over-year recovery narrative after a difficult stretch of declining volumes.\n\nThe bigger strategic headline today is the Terafab announcement. Tesla and SpaceX are planning to build two advanced chip factories in Austin, Texas as part of a “Terafab” project, a collaboration involving Tesla, SpaceX, and xAI to address future chip demand for Tesla’s vehicles, Optimus robots, and AI data centers in space. No completion date has been announced, but the intent is clear.\n\nThe strategic logic is evident. Current global chip supply meets only a small fraction of the projected needs across these three entities, and vertical integration in silicon is increasingly viewed as a competitive necessity. Tesla’s AI training compute in Texas is already planned to more than double in H1 2026, which means chip supply constraints are an immediate operational concern, not a distant one.\n\nThis announcement carries a sentiment score of 0.432553 (bullish) in news sentiment analysis, the highest of the three catalysts driving today’s move. The market is treating Terafab as a credible long-term differentiator for Tesla, even without a specific timeline.\n\nTesla CEO Elon Musk denied reports that Robinhood Markets (NASDAQ:HOOD) and SoFi Technologies (NASDAQ:SOFI) would be excluded from the SpaceX IPO, with both stocks rising following Musk’s clarification on X. The SpaceX IPO is expected to target a valuation of $1.75 trillion, and prediction markets currently assign 57.5% probability to an IPO occurring by June 30, rising to 90% by year-end.\n\nTesla doesn’t own SpaceX, but the two companies share leadership, supplier relationships, and investor mindshare. When SpaceX generates institutional attention, some of that energy flows toward Tesla as the other major Musk-led enterprise. That halo effect is real, even if it is difficult to quantify precisely.\n\nSeparately, Tesla’s Robotaxi service expanded to a new hub in downtown Oakland at the 1900 Broadway apartment tower, marking its second East Bay location. Incremental autonomous vehicle deployment keeps the long-term AI narrative visible for investors tracking execution against Tesla’s stated roadmap. You can access our deeper breakdown of the bull and bear cases for TSLA stock.\n\nThe official Q1 delivery report, expected in early April, will be the next major data point. Wedbush maintains a $600 price target on TSLA, among the highest on Wall Street, while analyst targets range from $438 to $600.\n\nOne risk worth monitoring is that Iran’s IRGC placed Tesla on a list of 18 US companies with threatened Middle East operations, citing Tesla’s physical presence in the Gulf region including showrooms and Supercharger stations, with an explicit deadline of April 1. That headline hasn’t weighed on shares today, but it bears watching into tomorrow’s open.",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "247wallst.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "24/7 Wall St.",
+        "source_domain": "247wallst.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fafe5604-340d-52ea-9412-c5b255534bdd",
+      "timestamp_utc": "2026-04-01T00:06:25+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/tesla-nasdaqtsla-stock-rating-lowered-by-zacks-research-2026-04-01/",
+      "title": "Tesla (NASDAQ:TSLA) Stock Rating Lowered by Zacks Research - MarketBeat",
+      "body": "Tesla (NASDAQ:TSLA) Stock Rating Lowered by Zacks Research MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "701461fe-4ded-575f-aba7-3186a0f84a7e",
+      "timestamp_utc": "2026-04-01T11:48:54+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/tesla-nasdaqtsla-stock-price-up-26-heres-why-2026-04-01/",
+      "title": "Tesla (NASDAQ:TSLA) Stock Price Up 2.6% - Here's Why - MarketBeat",
+      "body": "Tesla (NASDAQ:TSLA) Stock Price Up 2.6% - Here's Why MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "eba81776-98de-5285-85d5-55ab1403b782",
+      "timestamp_utc": "2026-04-01T01:13:02+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV3FLZWlmTElQU0hVNnh0aW1jNXZNSDhtcTU2cHJfV1JDRmZNclh2bUdkc3p6VDNwbnF4aGdqZDVuTEpLQWJwTGhTNHMybmtybWRudFpuZGg3TWNReUxnUXAxdnlaZFY1cjEyTU5uQ0FyaGdZN3R1Ni1oLTEyLTlCV1B1SUhUNUNzT2JkQjBtTkZYN1hwNVc0ZmRBX3o1bG5Cb3pwdmNBdktIby1BcnNQTG9rTjh3ZGxFWk1GeWwwS1lqdXRmZ2FVbzdBTG1Ndnc?oc=5",
+      "title": "Gunderson Capital Management Inc. Purchases Shares of 13,240 Tesla, Inc. $TSLA - MarketBeat",
+      "body": "Gunderson Capital Management Inc. Purchases Shares of 13,240 Tesla, Inc. $TSLA MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fa9b2ebe-66ea-51b4-9cdf-43273eee4e08",
+      "timestamp_utc": "2026-03-31T11:30:40+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdXkwc2VXTmVXSTBSUTRPRjI3NmpmaHhjTUVUV0RHcEFzMzhoTl82ZmhUX1pvSEtUS2k3Rk1RMGEwMGx2SEtKekVFYkFVM3ZXNjBoNENEdnd5SzZSOFpnQXlaQTJVblBudEQ3LTMtdXhsajAzOEYyX1NuZDg2N2RXZWFsaHBjcWNkX3FuNm9nNm5qYld2bUVUaFdheENCWkRBdTB5TDRB?oc=5",
+      "title": "Tesla (NASDAQ:TSLA) Shares Up 4.6% - Here's What Happened - MarketBeat",
+      "body": "Tesla (NASDAQ:TSLA) Shares Up 4.6% - Here's What Happened MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8e50908a-365e-5dc1-9940-cc1db4adb8dd",
+      "timestamp_utc": "2026-04-01T05:11:01+00:00",
+      "source": "indmoney",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qYnRYb1o3OWxVa1N0ZUp1Zi11LVBHaUNTNGhON1ZxSUM2bzh3VW9jeGpoVWdkd2tQRklodWtpYnQ2aHBNLXR6THNqMm83RlcxY1QtTU02eUd3MDd0RHlTUVpzQmVEYml0X1IzenlB?oc=5",
+      "title": "Tesla (TSLA) Live Share price, Invest From India - INDmoney",
+      "body": "Tesla (TSLA) Live Share price, Invest From India INDmoney",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "indmoney",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "INDmoney",
+        "source_domain": "indmoney.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5eaba2b6-3858-51ad-a7b9-29e289b90bab",
+      "timestamp_utc": "2026-04-01T02:57:40+00:00",
+      "source": "seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLTdwNC1ia1dWTFlzNEFJbU1YV0RHZ2hKQmlPZXdMVTF5X3VvME9rN2RnM2lsMnlBMVB3eE1DRDJzSkpnNHpVa0liNVo4bmtlNmFYeDFPTC1nRTRUM3RMTVRNdEljQkZvNG85VmczaTk3akpSRlBvSTBsY0NvNk5uSW9hcw?oc=5",
+      "title": "Tesla: Finally Catching Up To Reality (NASDAQ:TSLA) - seekingalpha.com",
+      "body": "Tesla: Finally Catching Up To Reality (NASDAQ:TSLA) seekingalpha.com",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "seekingalpha.com",
+        "source_domain": "seekingalphacom.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8e4e495d-5f8a-5c43-9f45-9e5092ca5a12",
+      "timestamp_utc": "2026-03-31T13:50:34+00:00",
+      "source": "fxleaders",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWXhiOUVqOUZHdzFRNVdEQUk3cW1IM1FJRmRqdnZJN3lYNHdYWnNhajBlcVdKMHVCaENKcE5QOXY1Mm55NTZGNVZXWHRsMzlkN2lpaFMwVEJia0RlZ0NyYXZvWGI0SE1XaE85cEZQWTBRWURFRU5CX01Wc3p4eHlHWkN4Mk1xZk5HZnE1dnlKRjM1MEppRTg3aXZCc2VWVUc1WEFOUnhqWWxTRXJhZnZWeXBWSXF1Q0RJMFlnbWRWVzVod2RFeldubFNXMA?oc=5",
+      "title": "Tesla Buyers Face Obstacles as Stock TSLA Climbs on Margins Improvement and China Demand - FXLeaders",
+      "body": "Tesla Buyers Face Obstacles as Stock TSLA Climbs on Margins Improvement and China Demand FXLeaders",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "fxleaders",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "FXLeaders",
+        "source_domain": "fxleaders.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "619125a6-8229-5acd-83e0-c12a3a590616",
+      "timestamp_utc": "2026-03-31T09:01:00+00:00",
+      "source": "financialcontent",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2xGcUc5eHBrZkRDeF9fM0FwRjFYbWFTT0ZnTzBWb196d19hb3BQZDNUMi1IRHlPUmx2bDJNUl81dFhyWXdBb053UlYtRk9QcnVJYTR4RjBrdDFUV3YyRV9wMVJGZHd3ek00NGZ6cnU2MklRTDFxSEZKU3lqUjVfWEZLeElBc2NCY1MzSjBSVXE4UHN6MUlRcHdvcXJzaEVWWEpVYjdFU08?oc=5",
+      "title": "Why Tesla (TSLA) Stock Is Up Today - FinancialContent",
+      "body": "Why Tesla (TSLA) Stock Is Up Today FinancialContent",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "financialcontent",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "FinancialContent",
+        "source_domain": "financialcontent.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "704e3493-ddcf-58f7-9c0d-16a9befeb008",
+      "timestamp_utc": "2026-03-31T10:01:00+00:00",
+      "source": "investor's_business_daily",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMlJSbnV1MHF1eXdGd3NzdW5kZGVOTlBrOWtwbUJOQmlqc3NoZnVGZUJMdGpWOUdrQ1hNbnZiQ1ZPdnVDcnBZRnpCYzFuYTFmRDVIUjZKbVBGN1pyUkltd2d3U3Q5NmViSFNHT2h1YU43OXJpQnQxVko1b0E5RmlZNTItSE5wTk5PSWJLd3M2LXFjcXVubmJ0Vg?oc=5",
+      "title": "Elon Musk Says This About Tesla's Optimus Release And SpaceX IPO - Investor's Business Daily",
+      "body": "Elon Musk Says This About Tesla's Optimus Release And SpaceX IPO Investor's Business Daily",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "investor's business daily",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investor's Business Daily",
+        "source_domain": "investorsbusinessdaily.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "af9765bb-36cc-53eb-b374-fe9aceba0326",
+      "timestamp_utc": "2026-03-31T10:22:30+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVDMyMEVvQ0VUcjN6OUlpZ1FFUG5SaDJnaFVTek1ha1BEU1pXelB3LVdTaVFNbVpNZ2xIUDBSaTdrVEc3SlVwS3BoZnlXRjdYLUNZa0tNRzhpNXRIYkQxVERUQ1lSbTd3eWVGWEU4Qzc3bkM3SEZ3bjE3SU9ZQUtQWkotdmZ2a1pjelpRNk1yS1djUGhPQ2NMZ0ZfaEhZOFVKelpzc1FuQjNyMlhncnR3akN1VTFtUFlJYjhXQmpLZ2N2andzRFpVeHlyMjJWU0k?oc=5",
+      "title": "Palantir, Tesla, Apple Top Iran Retaliation List: 'A US Company Will Be Destroyed' - Benzinga",
+      "body": "Palantir, Tesla, Apple Top Iran Retaliation List: 'A US Company Will Be Destroyed' Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "A",
+      "tickers_hint": [
+        "A",
+        "AAPL",
+        "DE",
+        "ON",
+        "TSLA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "A",
+          "AAPL",
+          "DE",
+          "ON",
+          "TSLA"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5dc9898f-cf90-5685-b4e9-a1771693d06a",
+      "timestamp_utc": "2026-03-31T07:05:15+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/euro-ncap-full-self-driving-irresponsible-tesla-stock-nasdaqtsla-surges",
+      "title": "Euro NCAP: Full Self-Driving “Irresponsible,” Tesla Stock (NASDAQ:TSLA) Surges - TipRanks",
+      "body": "Euro NCAP: Full Self-Driving “Irresponsible,” Tesla Stock (NASDAQ:TSLA) Surges TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6a28f790-02b2-5bf4-bcb7-6030f87fb6c3",
+      "timestamp_utc": "2026-04-01T07:05:51+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/tesla-stock-nasdaqtsla-jumps-as-the-model-s-and-model-x-are-finished",
+      "title": "Tesla Stock (NASDAQ:TSLA) Jumps as the Model S and Model X are Finished - TipRanks",
+      "body": "Tesla Stock (NASDAQ:TSLA) Jumps as the Model S and Model X are Finished TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "61af15a2-31b6-522b-8d21-6976416c464e",
+      "timestamp_utc": "2026-03-31T21:09:06+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/tesla-stock-tsla-pops-as-france-sales-soar-200-in-march-europe-recovery-ahead",
+      "title": "Tesla Stock (TSLA) Pops as French Registrations Soar 200% — Is Europe’s Recovery Ahead? - TipRanks",
+      "body": "Tesla Stock (TSLA) Pops as French Registrations Soar 200% — Is Europe’s Recovery Ahead? TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "268cefe2-9a19-5f15-8c31-8d067ebef47d",
+      "timestamp_utc": "2026-03-31T15:32:13+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/03/51589143/nike-beyondmeat-coinbase-rh-tesla-stocks-on-radar-today",
+      "title": "NKE, BYND, COIN, RH, TSLA: 5 Trending Stocks Today - Tesla (NASDAQ:TSLA) - Benzinga",
+      "body": "NKE, BYND, COIN, RH, TSLA: 5 Trending Stocks Today - Tesla (NASDAQ:TSLA) Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "18c991ba-92b1-57f1-9978-67f19712575f",
+      "timestamp_utc": "2026-04-01T04:27:01+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/04/51600876/watch-out-tesla-nio-march-deliveries-grew-136-percent",
+      "title": "Watch Out Tesla ― NIO March Deliveries Surged 136% - Benzinga",
+      "body": "Watch Out Tesla ― NIO March Deliveries Surged 136% Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b6f3fe80-a206-5831-a6d8-3ce7bc8fa6b2",
+      "timestamp_utc": "2026-03-31T11:47:29+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNLXROanc3R0lJSjZsMnhRSnZadnBfdWduZkVlWTd3bXVfREE3QVdGb2VQMk5OaUp0M2NiLVpkUU9nT0EyelQ4R21EQnJYTnpYUmQxeWpFNFMwaXpxaEkwRVZIcjhSUFFJcExhRFBXcl81dFM2cnU4WlBqX2dyOEdSQXo5cGVWMVhTMC1wYzhyclJWRFZUYV9xLUw5XzdCUU9ZRExKejBUV05qR1ljLTVCUGRaUU1zMXgzSFBwNml6OEJWZmtNckJFNUFwdXUyS2VyVHVLNjZRZHZGTXp5UGc?oc=5",
+      "title": "Gary Black Says TSLA Has Underperformed Nasdaq For 5 Years Because It Has Never Lived Up To Unsupervised - Benzinga",
+      "body": "Gary Black Says TSLA Has Underperformed Nasdaq For 5 Years Because It Has Never Lived Up To Unsupervised Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "754d4952-f2be-557f-ac83-09c695067426",
+      "timestamp_utc": "2026-03-31T07:22:43+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRzVReWlock1xZ0o2NzNJSnB6UFlQUEhnaWRfMnRiWHhpN0k5REs0ZFRjTkZwc09FTnRlQlBfYmdtSVNfZGNldTFVb2diWmdWVDlqQWlKU2Z3RUdLRnQtR3BwM2dQSWE5dlN3YW95UmROS2xBRXZpVGhLX3RuZEVZdmQ0SzJIVmpsTXBtc19Vc2VOa01SSDBhYTBHbzAxbjdydmFOZ3NQTU9mQXF6eDZSVnlzVGVuS3Bfbmc?oc=5",
+      "title": "Tesla Stock Is Surging Tuesday: What's Driving The Momentum? - Benzinga",
+      "body": "Tesla Stock Is Surging Tuesday: What's Driving The Momentum? Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3c8ce288-23b1-56e1-a8d2-a7d14ffba273",
+      "timestamp_utc": "2026-03-31T09:19:39+00:00",
+      "source": "247_wall_st",
+      "url": "https://247wallst.com/investing/2026/03/31/tesla-surges-5-delivery-hopes-terafab-and-spacex-buzz-are-all-converging-at-once/",
+      "title": "Tesla Surges 5%: Delivery Hopes, Terafab, and SpaceX Buzz Are All Converging at Once - 24/7 Wall St.",
+      "body": "Tesla (NASDAQ:TSLA | TSLA Price Prediction) shares are up 5% in Tuesday’s session, trading around $373 after opening at $355.28. Three distinct catalysts landed within the same 24-hour window, and the market is treating their convergence as meaningful. That kind of stacked narrative is rare, and it explains why the move has legs even against a difficult recent backdrop.\n\nTSLA stock entered today down 21% year to date and off 6.71% over the past week. Today’s rally doesn’t erase the recent pain, but it suggests that when enough positive news arrives at once, buyers are willing to step back in.\n\nSo, let’s walk through exactly what is driving the move and what investors should be watching as the quarter officially closes.\n\nThe quarter ends today, and the market is front-running what analysts expect to be a meaningful year-over-year improvement for Tesla. Consensus estimates point to 365,645 vehicles delivered globally in Q1 2026, representing a 9% year-over-year increase. Prediction market traders on Polymarket assign a 76.5% implied probability to Q1 deliveries landing in the 350,000 to 375,000 range, with the formal report expected in early April.\n\nBeyond vehicles, Tesla is projecting a record 14.4 gigawatt-hours in energy storage deployments for the quarter. That figure underscores how meaningfully the energy segment has grown as a share of the overall business. For context, the energy segment generated $3.84 billion in revenue in Q4 2025, up 25% year over year, and the trajectory appears to be continuing.\n\nGranted, the delivery number still represents a sequential decline from Tesla’s Q4 2025’s 418,227 units. Investors appear willing to look past that, focusing instead on the year-over-year recovery narrative after a difficult stretch of declining volumes.\n\nThe bigger strategic headline today is the Terafab announcement. Tesla and SpaceX are planning to build two advanced chip factories in Austin, Texas as part of a “Terafab” project, a collaboration involving Tesla, SpaceX, and xAI to address future chip demand for Tesla’s vehicles, Optimus robots, and AI data centers in space. No completion date has been announced, but the intent is clear.\n\nThe strategic logic is evident. Current global chip supply meets only a small fraction of the projected needs across these three entities, and vertical integration in silicon is increasingly viewed as a competitive necessity. Tesla’s AI training compute in Texas is already planned to more than double in H1 2026, which means chip supply constraints are an immediate operational concern, not a distant one.\n\nThis announcement carries a sentiment score of 0.432553 (bullish) in news sentiment analysis, the highest of the three catalysts driving today’s move. The market is treating Terafab as a credible long-term differentiator for Tesla, even without a specific timeline.\n\nTesla CEO Elon Musk denied reports that Robinhood Markets (NASDAQ:HOOD) and SoFi Technologies (NASDAQ:SOFI) would be excluded from the SpaceX IPO, with both stocks rising following Musk’s clarification on X. The SpaceX IPO is expected to target a valuation of $1.75 trillion, and prediction markets currently assign 57.5% probability to an IPO occurring by June 30, rising to 90% by year-end.\n\nTesla doesn’t own SpaceX, but the two companies share leadership, supplier relationships, and investor mindshare. When SpaceX generates institutional attention, some of that energy flows toward Tesla as the other major Musk-led enterprise. That halo effect is real, even if it is difficult to quantify precisely.\n\nSeparately, Tesla’s Robotaxi service expanded to a new hub in downtown Oakland at the 1900 Broadway apartment tower, marking its second East Bay location. Incremental autonomous vehicle deployment keeps the long-term AI narrative visible for investors tracking execution against Tesla’s stated roadmap. You can access our deeper breakdown of the bull and bear cases for TSLA stock.\n\nThe official Q1 delivery report, expected in early April, will be the next major data point. Wedbush maintains a $600 price target on TSLA, among the highest on Wall Street, while analyst targets range from $438 to $600.\n\nOne risk worth monitoring is that Iran’s IRGC placed Tesla on a list of 18 US companies with threatened Middle East operations, citing Tesla’s physical presence in the Gulf region including showrooms and Supercharger stations, with an explicit deadline of April 1. That headline hasn’t weighed on shares today, but it bears watching into tomorrow’s open.",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "247wallst.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "24/7 Wall St.",
+        "source_domain": "247wallst.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fafe5604-340d-52ea-9412-c5b255534bdd",
+      "timestamp_utc": "2026-04-01T00:06:25+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/tesla-nasdaqtsla-stock-rating-lowered-by-zacks-research-2026-04-01/",
+      "title": "Tesla (NASDAQ:TSLA) Stock Rating Lowered by Zacks Research - MarketBeat",
+      "body": "Tesla (NASDAQ:TSLA) Stock Rating Lowered by Zacks Research MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "701461fe-4ded-575f-aba7-3186a0f84a7e",
+      "timestamp_utc": "2026-04-01T11:48:54+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/tesla-nasdaqtsla-stock-price-up-26-heres-why-2026-04-01/",
+      "title": "Tesla (NASDAQ:TSLA) Stock Price Up 2.6% - Here's Why - MarketBeat",
+      "body": "Tesla (NASDAQ:TSLA) Stock Price Up 2.6% - Here's Why MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "eba81776-98de-5285-85d5-55ab1403b782",
+      "timestamp_utc": "2026-04-01T01:13:02+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV3FLZWlmTElQU0hVNnh0aW1jNXZNSDhtcTU2cHJfV1JDRmZNclh2bUdkc3p6VDNwbnF4aGdqZDVuTEpLQWJwTGhTNHMybmtybWRudFpuZGg3TWNReUxnUXAxdnlaZFY1cjEyTU5uQ0FyaGdZN3R1Ni1oLTEyLTlCV1B1SUhUNUNzT2JkQjBtTkZYN1hwNVc0ZmRBX3o1bG5Cb3pwdmNBdktIby1BcnNQTG9rTjh3ZGxFWk1GeWwwS1lqdXRmZ2FVbzdBTG1Ndnc?oc=5",
+      "title": "Gunderson Capital Management Inc. Purchases Shares of 13,240 Tesla, Inc. $TSLA - MarketBeat",
+      "body": "Gunderson Capital Management Inc. Purchases Shares of 13,240 Tesla, Inc. $TSLA MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fa9b2ebe-66ea-51b4-9cdf-43273eee4e08",
+      "timestamp_utc": "2026-03-31T11:30:40+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdXkwc2VXTmVXSTBSUTRPRjI3NmpmaHhjTUVUV0RHcEFzMzhoTl82ZmhUX1pvSEtUS2k3Rk1RMGEwMGx2SEtKekVFYkFVM3ZXNjBoNENEdnd5SzZSOFpnQXlaQTJVblBudEQ3LTMtdXhsajAzOEYyX1NuZDg2N2RXZWFsaHBjcWNkX3FuNm9nNm5qYld2bUVUaFdheENCWkRBdTB5TDRB?oc=5",
+      "title": "Tesla (NASDAQ:TSLA) Shares Up 4.6% - Here's What Happened - MarketBeat",
+      "body": "Tesla (NASDAQ:TSLA) Shares Up 4.6% - Here's What Happened MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8e50908a-365e-5dc1-9940-cc1db4adb8dd",
+      "timestamp_utc": "2026-04-01T05:11:01+00:00",
+      "source": "indmoney",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qYnRYb1o3OWxVa1N0ZUp1Zi11LVBHaUNTNGhON1ZxSUM2bzh3VW9jeGpoVWdkd2tQRklodWtpYnQ2aHBNLXR6THNqMm83RlcxY1QtTU02eUd3MDd0RHlTUVpzQmVEYml0X1IzenlB?oc=5",
+      "title": "Tesla (TSLA) Live Share price, Invest From India - INDmoney",
+      "body": "Tesla (TSLA) Live Share price, Invest From India INDmoney",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "indmoney",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "INDmoney",
+        "source_domain": "indmoney.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5eaba2b6-3858-51ad-a7b9-29e289b90bab",
+      "timestamp_utc": "2026-04-01T02:57:40+00:00",
+      "source": "seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLTdwNC1ia1dWTFlzNEFJbU1YV0RHZ2hKQmlPZXdMVTF5X3VvME9rN2RnM2lsMnlBMVB3eE1DRDJzSkpnNHpVa0liNVo4bmtlNmFYeDFPTC1nRTRUM3RMTVRNdEljQkZvNG85VmczaTk3akpSRlBvSTBsY0NvNk5uSW9hcw?oc=5",
+      "title": "Tesla: Finally Catching Up To Reality (NASDAQ:TSLA) - seekingalpha.com",
+      "body": "Tesla: Finally Catching Up To Reality (NASDAQ:TSLA) seekingalpha.com",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "seekingalpha.com",
+        "source_domain": "seekingalphacom.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8e4e495d-5f8a-5c43-9f45-9e5092ca5a12",
+      "timestamp_utc": "2026-03-31T13:50:34+00:00",
+      "source": "fxleaders",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWXhiOUVqOUZHdzFRNVdEQUk3cW1IM1FJRmRqdnZJN3lYNHdYWnNhajBlcVdKMHVCaENKcE5QOXY1Mm55NTZGNVZXWHRsMzlkN2lpaFMwVEJia0RlZ0NyYXZvWGI0SE1XaE85cEZQWTBRWURFRU5CX01Wc3p4eHlHWkN4Mk1xZk5HZnE1dnlKRjM1MEppRTg3aXZCc2VWVUc1WEFOUnhqWWxTRXJhZnZWeXBWSXF1Q0RJMFlnbWRWVzVod2RFeldubFNXMA?oc=5",
+      "title": "Tesla Buyers Face Obstacles as Stock TSLA Climbs on Margins Improvement and China Demand - FXLeaders",
+      "body": "Tesla Buyers Face Obstacles as Stock TSLA Climbs on Margins Improvement and China Demand FXLeaders",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "fxleaders",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "FXLeaders",
+        "source_domain": "fxleaders.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "619125a6-8229-5acd-83e0-c12a3a590616",
+      "timestamp_utc": "2026-03-31T09:01:00+00:00",
+      "source": "financialcontent",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2xGcUc5eHBrZkRDeF9fM0FwRjFYbWFTT0ZnTzBWb196d19hb3BQZDNUMi1IRHlPUmx2bDJNUl81dFhyWXdBb053UlYtRk9QcnVJYTR4RjBrdDFUV3YyRV9wMVJGZHd3ek00NGZ6cnU2MklRTDFxSEZKU3lqUjVfWEZLeElBc2NCY1MzSjBSVXE4UHN6MUlRcHdvcXJzaEVWWEpVYjdFU08?oc=5",
+      "title": "Why Tesla (TSLA) Stock Is Up Today - FinancialContent",
+      "body": "Why Tesla (TSLA) Stock Is Up Today FinancialContent",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "financialcontent",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "FinancialContent",
+        "source_domain": "financialcontent.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "704e3493-ddcf-58f7-9c0d-16a9befeb008",
+      "timestamp_utc": "2026-03-31T10:01:00+00:00",
+      "source": "investor's_business_daily",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMlJSbnV1MHF1eXdGd3NzdW5kZGVOTlBrOWtwbUJOQmlqc3NoZnVGZUJMdGpWOUdrQ1hNbnZiQ1ZPdnVDcnBZRnpCYzFuYTFmRDVIUjZKbVBGN1pyUkltd2d3U3Q5NmViSFNHT2h1YU43OXJpQnQxVko1b0E5RmlZNTItSE5wTk5PSWJLd3M2LXFjcXVubmJ0Vg?oc=5",
+      "title": "Elon Musk Says This About Tesla's Optimus Release And SpaceX IPO - Investor's Business Daily",
+      "body": "Elon Musk Says This About Tesla's Optimus Release And SpaceX IPO Investor's Business Daily",
+      "author": null,
+      "language": "en",
+      "ticker": "TSLA",
+      "tickers_hint": [
+        "TSLA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "investor's business daily",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investor's Business Daily",
+        "source_domain": "investorsbusinessdaily.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSLA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "c4b4c267-cac8-519e-93d3-b7e579a7c6a3",
+      "timestamp_utc": "2026-04-01T08:46:04+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/nordson-ndsn-to-report-earnings-tomorrow-here-is-what-to-expect/ar-AA1Fy4h0?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "title": "Nordson (NDSN) To Report Earnings Tomorrow: Here Is What To Expect - MSN",
+      "body": "Nordson (NDSN) To Report Earnings Tomorrow: Here Is What To Expect MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "NDSN",
+      "tickers_hint": [
+        "NDSN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "NDSN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "c4b4c267-cac8-519e-93d3-b7e579a7c6a3",
+      "timestamp_utc": "2026-04-01T08:46:04+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/nordson-ndsn-to-report-earnings-tomorrow-here-is-what-to-expect/ar-AA1Fy4h0?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "title": "Nordson (NDSN) To Report Earnings Tomorrow: Here Is What To Expect - MSN",
+      "body": "Nordson (NDSN) To Report Earnings Tomorrow: Here Is What To Expect MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "NDSN",
+      "tickers_hint": [
+        "NDSN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "NDSN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "0fceef2a-b206-50b3-b28f-0a86461999ab",
+      "timestamp_utc": "2026-04-01T10:01:00+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/news/4571659-heinz-edges-lower-after-a-six-session-rally",
+      "title": "Heinz edges lower after a six session rally (KHC:NASDAQ) - Seeking Alpha",
+      "body": "Shares of The Kraft Heinz Company (KHC) slipped 0.84% to close at $22.30 on Wednesday, snapping a six session rally.\n\nThe stock has gained around 5.5% between March 24 and March 31 compared to a 0.43% decline in the S&P 500",
+      "author": null,
+      "language": "en",
+      "ticker": "KHC",
+      "tickers_hint": [
+        "KHC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "KHC"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "384e3fdb-6bbf-52c5-b0c1-56e472e8015c",
+      "timestamp_utc": "2026-04-01T08:56:15+00:00",
+      "source": "bitget",
+      "url": "https://www.bitget.com/amp/news/detail/12560605327835",
+      "title": "KHC's Downtrend Intensifies as Sellers Dominate Major Resistance Ahead of Earnings - Bitget",
+      "body": "KHC's Downtrend Intensifies as Sellers Dominate Major Resistance Ahead of Earnings Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "KHC",
+      "tickers_hint": [
+        "KHC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "KHC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "51ee1bb0-b69d-58ec-8246-681accf48ba6",
+      "timestamp_utc": "2026-03-31T07:20:46+00:00",
+      "source": "msn",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IdnB5cEgzM25oSXcwVHNZRnNlUlRMSWJXN1RyLTljNnpfNjJUVk5DNkpzUkZveTZvbnZJal9tNjM2dlZKcHR0WWwxVlY1WDV5SzJxMndKcEp2VUxyaEZUQzNPLTVmUGFCNEZTM0pTMGxUNk16VWc?oc=5",
+      "title": "THE KRAFT HEINZ COMPANY (KHC) - MSN",
+      "body": "THE KRAFT HEINZ COMPANY (KHC) MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "KHC",
+      "tickers_hint": [
+        "KHC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KHC"
+        ],
+        "alt_sources": [
+          "MSN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "0fceef2a-b206-50b3-b28f-0a86461999ab",
+      "timestamp_utc": "2026-04-01T10:01:00+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/news/4571659-heinz-edges-lower-after-a-six-session-rally",
+      "title": "Heinz edges lower after a six session rally (KHC:NASDAQ) - Seeking Alpha",
+      "body": "Shares of The Kraft Heinz Company (KHC) slipped 0.84% to close at $22.30 on Wednesday, snapping a six session rally.\n\nThe stock has gained around 5.5% between March 24 and March 31 compared to a 0.43% decline in the S&P 500",
+      "author": null,
+      "language": "en",
+      "ticker": "KHC",
+      "tickers_hint": [
+        "KHC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "KHC"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "384e3fdb-6bbf-52c5-b0c1-56e472e8015c",
+      "timestamp_utc": "2026-04-01T08:56:15+00:00",
+      "source": "bitget",
+      "url": "https://www.bitget.com/amp/news/detail/12560605327835",
+      "title": "KHC's Downtrend Intensifies as Sellers Dominate Major Resistance Ahead of Earnings - Bitget",
+      "body": "KHC's Downtrend Intensifies as Sellers Dominate Major Resistance Ahead of Earnings Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "KHC",
+      "tickers_hint": [
+        "KHC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "KHC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "51ee1bb0-b69d-58ec-8246-681accf48ba6",
+      "timestamp_utc": "2026-03-31T07:20:46+00:00",
+      "source": "msn",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IdnB5cEgzM25oSXcwVHNZRnNlUlRMSWJXN1RyLTljNnpfNjJUVk5DNkpzUkZveTZvbnZJal9tNjM2dlZKcHR0WWwxVlY1WDV5SzJxMndKcEp2VUxyaEZUQzNPLTVmUGFCNEZTM0pTMGxUNk16VWc?oc=5",
+      "title": "THE KRAFT HEINZ COMPANY (KHC) - MSN",
+      "body": "THE KRAFT HEINZ COMPANY (KHC) MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "KHC",
+      "tickers_hint": [
+        "KHC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KHC"
+        ],
+        "alt_sources": [
+          "MSN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

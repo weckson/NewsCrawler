@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "23a70311-7aa5-502f-a6f3-98429200c834",
+      "timestamp_utc": "2026-04-01T10:43:51+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTlFQa1FyRlBlNnJPcEp5NWZzWm15akszRnRXOTRnY0d3MUZGT3hWNU9pX2tERG5nY1JUN25ndDRpY3RfbFhSb3ktcVBTZmp2bUpVZWZNQkRoVC14d1NZcDZpNVVCbzVYXzNPajBDajFLaEZhbXgyU3dNTUlFdEt4TldfQTVaYmVGb3c5ejRrQWhkZw?oc=5",
+      "title": "Trusts sell large DDOG (NASDAQ: DDOG) Class A blocks under 10b5-1 plans - Stock Titan",
+      "body": "Trusts sell large DDOG (NASDAQ: DDOG) Class A blocks under 10b5-1 plans Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "DDOG",
+      "tickers_hint": [
+        "DDOG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DDOG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "23a70311-7aa5-502f-a6f3-98429200c834",
+      "timestamp_utc": "2026-04-01T10:43:51+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTlFQa1FyRlBlNnJPcEp5NWZzWm15akszRnRXOTRnY0d3MUZGT3hWNU9pX2tERG5nY1JUN25ndDRpY3RfbFhSb3ktcVBTZmp2bUpVZWZNQkRoVC14d1NZcDZpNVVCbzVYXzNPajBDajFLaEZhbXgyU3dNTUlFdEt4TldfQTVaYmVGb3c5ejRrQWhkZw?oc=5",
+      "title": "Trusts sell large DDOG (NASDAQ: DDOG) Class A blocks under 10b5-1 plans - Stock Titan",
+      "body": "Trusts sell large DDOG (NASDAQ: DDOG) Class A blocks under 10b5-1 plans Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "DDOG",
+      "tickers_hint": [
+        "DDOG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DDOG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

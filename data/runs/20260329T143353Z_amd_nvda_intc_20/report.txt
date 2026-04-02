@@ -1,0 +1,215 @@
+
+============================================================================================
+  20-ticker watchlist NEWS REPORT — Quality Filtered, 2026-03-30 01:37
+============================================================================================
+
+  CRAWL STATS:
+  Channel                      Raw Description
+  ------------------------- ------ ----------------------------------------
+  AMD-IR                        10 Official AMD Investor Relations press releases RSS
+  BZ-via-Google               3334 Google News filtered to site:benzinga.com
+  Google-broad                3273 Google News all financial sources
+  TOTAL                       6617
+
+  QUALITY PIPELINE:
+    Raw articles:       6617
+    After quality filter:   27  (removed 6590 junk/irrelevant/dupes)
+    New saved to DB:      27
+    Benzinga articles:     4  (direct Benzinga coverage)
+    Watchlist tickers:    20
+
+  TICKER COVERAGE:
+    NVDA      8
+    ARM       4
+    ON        4
+    MU        3
+    AMD       2
+    MRVL      2
+    QCOM      2
+    AMAT      1
+    ASML      1
+    TER       1
+    ADI       0
+    AVGO      0
+    INTC      0
+    KLAC      0
+    LRCX      0
+    MCHP      0
+    MPWR      0
+    NXPI      0
+    TSM       0
+    TXN       0
+
+  ANTI-SCRAPE STRATEGY:
+    - Benzinga HTML: SKIPPED (Cloudflare JS challenge blocks simple HTTP)
+    - Benzinga RSS:  /feed + /news/feed (no CF, structured XML)
+    - Google->BZ:    site:benzinga.com (Google already crawled, no CF)
+    - Polite crawl:  2s delay, standard UA, no JS execution needed
+
+  ── BENZINGA ARTICLES (4) ──
+
+    1. [TOP] [03-29 03:50] [rel:0.65] [BZ-via-Google]
+       Cathie Wood Going Cold On Big Tech? Ark Sells Nvidia, AMD, Meta And Google Stock — AI Darlings Get The Dump - Advanced Micro Devices (NASDAQ:AMD), ARK Blockchain & Fintech Innovation ETF (BATS:ARKF)
+       Source: Benzinga  (also: Benzinga)
+       > Cathie Wood Going Cold On Big Tech? Ark Sells Nvidia, AMD, Meta And Google Stock — AI Darlings Get The Dump - Advanced Micro Devices (NASDAQ:AMD), ARK Blockchai...
+       https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMHgza2luR3lFOVE0TG95NnpISllfVUp4bnVWaE0yeXUtSzlaRVBtSWxYMFo0bEpjWUF
+
+    2. [TOP] [03-28 06:01] [rel:0.60] [BZ-via-Google]
+       Jensen Huang Says The Ability To 'Forget The Last Moment' Gives Great Achievers A Superpower: 'Let The Past Be The Past' - NVIDIA (NASDAQ:NVDA)
+       Source: Benzinga
+       > Jensen Huang Says The Ability To 'Forget The Last Moment' Gives Great Achievers A Superpower: 'Let The Past Be The Past' - NVIDIA (NASDAQ:NVDA) Benzinga
+       https://news.google.com/rss/articles/CBMirAFBVV95cUxNYkF0N1NrQjVINEEzWU9xcDdUTDlzQWI2UllRVXpieDlyM1NqalZmUmN1eXpxZlpiSXJ
+
+    3. [TOP] [03-28 17:25] [rel:0.60] [BZ-via-Google]
+       Mark Cuban Fires Back At Musk's 'Work Optional' Vision With Mock IPO Risk Filing As SpaceX IPO Looms
+       Source: Benzinga  (also: Benzinga)
+       > Mark Cuban Fires Back At Musk's 'Work Optional' Vision With Mock IPO Risk Filing As SpaceX IPO Looms Benzinga
+       https://news.google.com/rss/articles/CBMi3wFBVV95cUxQXzN0cnZ6SjZ3ZTVydXNBUFBhcVY3WEdyOFZrbmUwSC1HdGtmU3lKMTlUb2JSUV96MER
+
+    4. [TOP] [03-28 17:42] [rel:0.55] [BZ-via-Google]
+       Elon Musk's xAI Loses Last Original Co-Founder Ahead Of SpaceX IPO: Report
+       Source: Benzinga  (also: Benzinga)
+       > Elon Musk's xAI Loses Last Original Co-Founder Ahead Of SpaceX IPO: Report Benzinga
+       https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVk52Ml9vbHVwMDA2R0huaWJ1TkU3S29UYXJYX1Jvc3NHenQxSWNNbzctTU9mUEZFMld
+
+  ── OTHER SOURCES (23) ──
+
+    1. [OK ] [03-28 05:27] [rel:0.65] [Google-broad]
+       Analyst Signals Caution Amid Demand Concerns For Advanced Micro Devices (AMD)
+       Source: Insider Monkey
+       > Analyst Signals Caution Amid Demand Concerns For Advanced Micro Devices (AMD) Insider Monkey
+       https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY1pwU1Y4TG5UMkptMXlydUUwRURrd0ZZZ2xfclZ5ZG1Hd05yT0IwMllEQ0hjSllsVXV
+
+    2. [TOP] [03-28 05:18] [rel:0.70] [Google-broad]
+       Analysts Nudge Their Nvidia (NVDA) Price Targets Higher After GTC
+       Source: Yahoo Finance
+       > Analysts Nudge Their Nvidia (NVDA) Price Targets Higher After GTC Yahoo Finance
+       https://news.google.com/rss/articles/CBMingFBVV95cUxOM2xSeUZWZV9WcXVGSmQ4aVFUUG5sMlpPb01tTjVaVEl5WGJIMnN2a2p1YkdyZWJGUUF
+
+    3. [TOP] [03-29 03:35] [rel:0.60] [Google-broad]
+       Nvidia Stock (NVDA) Is Stalling – and Cathie Wood Is Losing Patience
+       Source: TipRanks
+       > Nvidia Stock (NVDA) Is Stalling – and Cathie Wood Is Losing Patience TipRanks
+       https://news.google.com/rss/articles/CBMimgFBVV95cUxORUhTajRGWU16VjBIM1A0a081eWNmb0RDaVptcUhfZDhVRm53VW0xSGJ5NWwweElBQlp
+
+    4. [TOP] [03-28 03:49] [rel:0.60] [Google-broad]
+       NVIDIA (NVDA) Shares Higher After Jim Cramer Criticized Sellers
+       Source: Yahoo Finance
+       > NVIDIA (NVDA) Shares Higher After Jim Cramer Criticized Sellers Yahoo Finance
+       https://news.google.com/rss/articles/CBMimgFBVV95cUxONVhMZi1NWHpacGswaGo0TGJ0NTA2bU85MGROSkxSbFVVOFBFSnBnYWRoNm4tVzRFUGY
+
+    5. [TOP] [03-28 21:44] [rel:0.50] [Google-broad]
+       Prediction: This Will Be Nvidia's Stock Price 3 Years From Now
+       Source: The Motley Fool
+       > Prediction: This Will Be Nvidia's Stock Price 3 Years From Now The Motley Fool
+       https://news.google.com/rss/articles/CBMimAFBVV95cUxPYUgtMng3MHdmT3doLXRRSENoZDY4M1NzcDVLZ29aOEFjWVdEQ0tIZWw0VFJHbVRJbHY
+
+    6. [TOP] [03-28 09:43] [rel:0.50] [Google-broad]
+       Investors Are Completely Wrong About Nvidia Stock
+       Source: The Motley Fool  (also: The Globe and Mail)
+       > Investors Are Completely Wrong About Nvidia Stock The Motley Fool
+       https://news.google.com/rss/articles/CBMilwFBVV95cUxQbzBwREMzRXMxLTRscV9VNjhXZkVMY2hibkVKdGI5SzZQOWRfTXRtd0tOLVlYa3VaRHQ
+
+    7. [OK ] [03-28 02:23] [rel:0.50] [Google-broad]
+       $10,000 in XRP and Bitcoin vs $10,000 in Nvidia: What Each Could Be Worth by the End of 2026
+       Source: 24/7 Wall St.
+       > $10,000 in XRP and Bitcoin vs $10,000 in Nvidia: What Each Could Be Worth by the End of 2026 24/7 Wall St.
+       https://news.google.com/rss/articles/CBMiywFBVV95cUxONkhfZGpXQ0QtaC1BcmRmdHFVYlU1T1pfd3hGeVU2MVZwdHFzdTVZcnAwd3d5SnpxOHl
+
+    8. [low] [03-28 15:00] [rel:0.50] [Google-broad]
+       Cramer says he’d wait on Nvidia stock right now
+       Source: thestreet.com
+       > Cramer says he’d wait on Nvidia stock right now thestreet.com
+       https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDZ2QzF3ZTk5Sk1NbU9hVlpMRGg0bGtBYWZ5YUJod3dQdzJxN2k5SVNqd25SU0oybW5
+
+    9. [TOP] [03-27 22:48] [rel:0.60] [Google-broad]
+       Qualcomm: From A Dying Phone Company To The Next $8B Automotive Franchise (NASDAQ:QCOM)
+       Source: Seeking Alpha
+       > Qualcomm: From A Dying Phone Company To The Next $8B Automotive Franchise (NASDAQ:QCOM) Seeking Alpha
+       https://news.google.com/rss/articles/CBMisgFBVV95cUxQSHA5ckk2M01UYklwVVplQzdaVHFKTDJIektyQ3BiLWVIeHVvR0pZSlVmVmppM2hZMlp
+
+   10. [low] [03-28 13:21] [rel:0.50] [Google-broad]
+       Could Qualcomm Stock Turn $1,000 Into $10,000 This Decade?
+       Source: AOL.com
+       > Could Qualcomm Stock Turn $1,000 Into $10,000 This Decade? AOL.com
+       https://news.google.com/rss/articles/CBMie0FVX3lxTE1keUpNZWphMjlHSXlOVHdZRG5RUG9SWTd5Z0kzcjNNd2tHUUNKRzB3a3VZQ1RyLW4zM0J
+
+   11. [TOP] [03-29 01:57] [rel:0.70] [Google-broad]
+       Micron (MU) or Microsoft (MSFT): Which Beaten-Down AI Stock Is the Better Buy Right Now?
+       Source: TipRanks
+       > Micron (MU) or Microsoft (MSFT): Which Beaten-Down AI Stock Is the Better Buy Right Now? TipRanks
+       https://news.google.com/rss/articles/CBMisgFBVV95cUxQeThYMTZCcXVVX2xiaVhoZ2RPcXp0NlNvU09LLXEzcHVfcm9yQ0N0bnQwRThYQmNrb0x
+
+   12. [TOP] [03-29 03:31] [rel:0.50] [Google-broad]
+       ‘Don’t Be Late to the Party,’ Says Top Investor About Micron Stock
+       Source: TipRanks
+       > ‘Don’t Be Late to the Party,’ Says Top Investor About Micron Stock TipRanks
+       https://news.google.com/rss/articles/CBMilwFBVV95cUxOczljWWc3aUdPWW5adFUybnpxeU4yeHRTbGkydlFqemZvU0Z5TDFmVUFOYlczSzFjRXM
+
+   13. [low] [03-27 20:10] [rel:0.60] [Google-broad]
+       Micron (MU) Stock; Dips Nearly 7% After Massive Taiwan Capacity Buildout Plan
+       Source: CoinCentral
+       > Micron (MU) Stock; Dips Nearly 7% After Massive Taiwan Capacity Buildout Plan CoinCentral
+       https://news.google.com/rss/articles/CBMiggFBVV95cUxNdFlhVVVheWlFQ3NWVXExQXBYNG5JeFFzcTB3MnhCRmpRY19sbzhxNjJPTjJiV2VDTVZ
+
+   14. [low] [03-27 22:15] [rel:0.70] [Google-broad]
+       Marvell Technology (NASDAQ:MRVL) CEO Matthew Murphy Sells 30,000 Shares
+       Source: MarketBeat
+       > Marvell Technology (NASDAQ:MRVL) CEO Matthew Murphy Sells 30,000 Shares MarketBeat
+       https://news.google.com/rss/articles/CBMivgFBVV95cUxQa0dOUDBfV01ST1U3XzBuejdlei1UQlJ6U1A1WlIzSTZWTnJNZ3FyU2FRN3lrUmJaRzM
+
+   15. [low] [03-29 04:28] [rel:0.55] [Google-broad]
+       Marvell Stock Is Up 5% This Week. Here’s Why Analysts See 140% Upside to $228
+       Source: TIKR.com
+       > Marvell Stock Is Up 5% This Week. Here’s Why Analysts See 140% Upside to $228 TIKR.com
+       https://news.google.com/rss/articles/CBMinwFBVV95cUxORnBhMmczV2ZrbnU1RGUwT1BLSWh1bXBORm5lU0ROTjhxYzZMQjZfOG5EWmE0MUtHWVp
+
+   16. [OK ] [03-28 23:01] [rel:0.65] [Google-broad]
+       5 big analyst AI moves: Downgrades for SAP and Qualcomm; Arm lifted to Buy
+       Source: Investing.com
+       > 5 big analyst AI moves: Downgrades for SAP and Qualcomm; Arm lifted to Buy Investing.com
+       https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnZtbTNjcGVUMVRzaTFFelJ1OENGVXpOQjlseFdZRktEdTBHRjQ4d0RnWXhEb0lkVU9
+
+   17. [low] [03-27 22:15] [rel:0.70] [Google-broad]
+       ARM (NASDAQ:ARM) CEO Rene Haas Sells 23,867 Shares
+       Source: MarketBeat
+       > ARM (NASDAQ:ARM) CEO Rene Haas Sells 23,867 Shares MarketBeat
+       https://news.google.com/rss/articles/CBMiogFBVV95cUxOTzdVQThDNXVrcV9EcXhIOGpZanM0dVB2Y1l4OWtoWmtienZpazBnVmdEU1RwaXNmR3p
+
+   18. [low] [03-27 22:10] [rel:0.70] [Google-broad]
+       ARM (NASDAQ:ARM) CEO Sells $1,284,627.96 in Stock
+       Source: MarketBeat
+       > ARM (NASDAQ:ARM) CEO Sells $1,284,627.96 in Stock MarketBeat
+       https://news.google.com/rss/articles/CBMinAFBVV95cUxPNnpHSVcyMDZPNkgzTm1VSDluZ09tYmotRTZqb3NPWHBkQzZRZDlGV0cxU1dFdGJOTTA
+
+   19. [low] [03-27 17:43] [rel:0.55] [Google-broad]
+       ARM stock is 'risky, but a highly compelling opportunity,' analyst says
+       Source: MSN
+       > ARM stock is 'risky, but a highly compelling opportunity,' analyst says MSN
+       https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQTI5Mk4zOENrRlRPMUM2RmRCS1BicjlHSENicTNlN0xnTHJ3b2s3SEZTZjdjYnd4UFF
+
+   20. [TOP] [03-29 01:24] [rel:0.50] [Google-broad]
+       Almost everything is going wrong for markets right now
+       Source: Yahoo Finance
+       > Almost everything is going wrong for markets right now Yahoo Finance
+       https://news.google.com/rss/articles/CBMiogFBVV95cUxOTWZjRjhYYVZKeHN2SVZDSlFidVBrak5EeTRYa1luekVvSjk1MkNSVHUwWWtnaVhoM01
+
+   21. [low] [03-28 17:14] [rel:0.50] [Google-broad]
+       ASML Holding N.V. Stock: Critical Role in Semiconductor Supply Chain and Investor Opportunities Ahea
+       Source: AD HOC NEWS
+       > ASML Holding N.V. Stock: Critical Role in Semiconductor Supply Chain and Investor Opportunities Ahea AD HOC NEWS
+       https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS2xwRV9peVBXNE5jLXEycWJ5c21jbXl1NE5pYVBHZHRObk92emJSMzJmTXljekhYOHE
+
+   22. [low] [03-28 00:46] [rel:0.65] [Google-broad]
+       KMG Fiduciary Partners LLC Has $8.85 Million Stock Position in Applied Materials, Inc. $AMAT
+       Source: MarketBeat
+       > KMG Fiduciary Partners LLC Has $8.85 Million Stock Position in Applied Materials, Inc. $AMAT MarketBeat
+       https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMnlERWxxeXpHMHFqbE5FU24tcVhuRlh5Z1JpeGMyS2RDS3Q5bjl5MFNIZEhnTUVQaV9
+
+   23. [TOP] [03-28 03:52] [rel:0.60] [Google-broad]
+       Teradyne (TER) Stock Up Significantly After Jim Cramer Was Hesistant
+       Source: Yahoo Finance  (also: Insider Monkey)
+       > Teradyne (TER) Stock Up Significantly After Jim Cramer Was Hesistant Yahoo Finance
+       https://news.google.com/rss/articles/CBMiowFBVV95cUxPa3ZBMEtJelZLVjloWXdncWstYXFkdlF1M1N4anV6V0I1b0lKemZ4UU55X1ZIaTgyaDV
+
+============================================================================================

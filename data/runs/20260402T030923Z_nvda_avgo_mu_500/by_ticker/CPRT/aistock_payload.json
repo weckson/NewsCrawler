@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "94feb843-b97b-5489-86da-0543cdb93233",
+      "timestamp_utc": "2026-03-31T17:09:31+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/companies/copart-cprt-q2-earnings-report-preview-what-to-look-for/ar-AA1LKTnu?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "title": "Copart (CPRT) Q2 Earnings Report Preview: What To Look For - MSN",
+      "body": "Copart (CPRT) Q2 Earnings Report Preview: What To Look For MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "CPRT",
+      "tickers_hint": [
+        "CPRT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "CPRT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "94feb843-b97b-5489-86da-0543cdb93233",
+      "timestamp_utc": "2026-03-31T17:09:31+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/companies/copart-cprt-q2-earnings-report-preview-what-to-look-for/ar-AA1LKTnu?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "title": "Copart (CPRT) Q2 Earnings Report Preview: What To Look For - MSN",
+      "body": "Copart (CPRT) Q2 Earnings Report Preview: What To Look For MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "CPRT",
+      "tickers_hint": [
+        "CPRT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "CPRT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+[
+  {
+    "id": "6afe37cb-ba6c-56e9-aeb8-83481b94bc60",
+    "timestamp_utc": "2026-03-31T07:46:42+00:00",
+    "source": "benzinga",
+    "url": "https://www.benzinga.com/markets/large-cap/26/03/51578414/blackstone-dumps-spanish-rental-portfolio-in-1-4-billion-brookfield-deal",
+    "title": "Blackstone Dumps Spanish Rental Portfolio In $1.4 Billion Brookfield Deal - Blackstone (NYSE:BX) - Benzinga",
+    "body": "Blackstone Dumps Spanish Rental Portfolio In $1.4 Billion Brookfield Deal - Blackstone (NYSE:BX) Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "BX",
+    "tickers_hint": [
+      "BX"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "meta": {
+      "channel": "google_benzinga",
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
+      "trust_tier": 3,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "BX"
+      ],
+      "alt_sources": [
+        "Benzinga"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "2534b763-5bf5-5cc9-a991-187af6e51063",
+    "timestamp_utc": "2026-04-01T05:40:03+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeEdQVlU4Smx3ajNTTERjMWptejk2cWVnc243dWZfd1pKT3lLemcxVzdSRXFjcjFvek1JZ3I0TjZ1THRxT2VaMGYwU0gxM192THRudXhDa2dVN19pNlozVWlXUFlzaWlwQ0ZVamtIM0FwRk5qSTRmajBROTV0U0hhUzlxemxqSHJ1T3hkeS1jZw?oc=5",
+    "title": "IX vs. BX: Which Stock Is the Better Value Option? - Yahoo Finance",
+    "body": "IX vs. BX: Which Stock Is the Better Value Option? Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "BX",
+    "tickers_hint": [
+      "BX"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "BX"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

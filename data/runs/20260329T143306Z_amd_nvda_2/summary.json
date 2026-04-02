@@ -1,0 +1,29 @@
+{
+  "ticker_label": "2-ticker watchlist",
+  "tickers": [
+    "AMD",
+    "NVDA"
+  ],
+  "hours": 48,
+  "raw_count": 710,
+  "filtered_count": 10,
+  "newsitem_count": 10,
+  "new_saved_count": 10,
+  "benzinga_count": 2,
+  "channel_stats": {
+    "amd_ir": 10,
+    "google_benzinga": 300,
+    "google_broad": 400
+  },
+  "per_ticker_stats": {
+    "AMD": 2,
+    "NVDA": 8
+  },
+  "artifacts": {
+    "raw_articles": "raw_articles.json",
+    "filtered_articles": "filtered_articles.json",
+    "news_items": "newsitems.json",
+    "report": "report.txt",
+    "log": "run.log"
+  }
+}

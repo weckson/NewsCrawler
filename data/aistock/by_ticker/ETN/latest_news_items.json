@@ -1,0 +1,118 @@
+[
+  {
+    "id": "2d663a49-e6cc-5008-8cee-6b38f881c69d",
+    "timestamp_utc": "2026-04-01T11:50:02+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbUpTdGlhYkVEQVNoVjJIOGxickFPQ0FtMGs1ZVUxOFdVVmwwelBjUXpXQW5FenpNeVlTRzNvYUNVN2NiMWRSMHA3U3RRbUpnbHFHOExGNUJLQTJTc1BOYlZXN1hXTFc0TVZ0Nm1pQ3VPbUtrOGlsSzBxTXFFR0ltZU4wQVQxZ2R1YTRBaFN5Y1hsTHhUaEhN?oc=5",
+    "title": "Eaton (ETN) Laps the Stock Market: Here's Why - Yahoo Finance",
+    "body": "Eaton (ETN) Laps the Stock Market: Here's Why Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "ETN",
+    "tickers_hint": [
+      "ETN"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "ETN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "9d77ac4d-1b97-58ac-bc1b-34355e8ab8c8",
+    "timestamp_utc": "2026-04-01T09:40:47+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8765736/barclays-lowers-price-target-for-eaton-corp-etn-to-340-etn-stock-news",
+    "title": "Barclays Lowers Price Target for Eaton Corp (ETN) to $340 | ETN Stock News - GuruFocus",
+    "body": "Barclays Lowers Price Target for Eaton Corp (ETN) to $340 | ETN Stock News GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "ETN",
+    "tickers_hint": [
+      "ETN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "ETN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "6f49e15c-afea-5f5f-8f80-8ef1806a28e7",
+    "timestamp_utc": "2026-04-01T08:24:07+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/barclays-issues-pessimistic-forecast-for-eaton-nyseetn-stock-price-2026-04-01/",
+    "title": "Barclays Issues Pessimistic Forecast for Eaton (NYSE:ETN) Stock Price - MarketBeat",
+    "body": "Barclays Issues Pessimistic Forecast for Eaton (NYSE:ETN) Stock Price MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "ETN",
+    "tickers_hint": [
+      "ETN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "ETN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "00d97c67-3916-5358-bb30-c8199a0288a6",
+    "timestamp_utc": "2026-04-01T07:36:00+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8765565/etn-stock-wells-fargo-lowers-price-target-maintains-equalweight-rating-etn-stock-news",
+    "title": "ETN Stock: Wells Fargo Lowers Price Target, Maintains Equal-Weig - GuruFocus",
+    "body": "ETN Stock: Wells Fargo Lowers Price Target, Maintains Equal-Weig GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "ETN",
+    "tickers_hint": [
+      "ETN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "ETN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

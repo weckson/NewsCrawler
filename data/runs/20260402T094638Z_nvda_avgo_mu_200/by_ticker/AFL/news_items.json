@@ -1,0 +1,60 @@
+[
+  {
+    "id": "4e1aa204-bc9f-514b-b2f1-6c2a5e927f73",
+    "timestamp_utc": "2026-04-01T03:54:53+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPOG16R3FIZFRaMFkyODVLWEd4MHhDdGZGSWZMWUlyWnVzdnRoeVMzMWpkZUJTNWthQ2FMTmExVE4wVkVid0FmclpjS2lDdURwM1ZIazdUT0N3aGlTWVhvNDVBWHc?oc=5",
+    "title": "AFL SEC Filings - Aflac Inc 10-K, 10-Q, 8-K Forms - Stock Titan",
+    "body": "AFL SEC Filings - Aflac Inc 10-K, 10-Q, 8-K Forms Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "AFL",
+    "tickers_hint": [
+      "AFL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "AFL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "65505b92-d39e-53ed-88d1-44e4b012c30f",
+    "timestamp_utc": "2026-04-01T03:36:12+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNamg1MWFDYmtxdGdlckxkd0xZTDBrM1ROeC1BX3Q0M2lEazcySWllb3ZINUFDUG4yYmV3aHJoamdqb3JOTVVEZjViRS0yU043bDVXNlN3TElLUzkyeks4T3BQRzBXX2ZpczZjTVFvNHJZZXlwQjU5V1puWmV0M0dSX0VZWVYtLXhfWW5ObjdVM2NFTVFGX2JGSGN5UzJFNG9qM0pCaQ?oc=5",
+    "title": "Japan Post (NYSE: AFL) trims AFLAC stake with 14,700-share sale - Stock Titan",
+    "body": "Japan Post (NYSE: AFL) trims AFLAC stake with 14,700-share sale Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "AFL",
+    "tickers_hint": [
+      "AFL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "AFL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

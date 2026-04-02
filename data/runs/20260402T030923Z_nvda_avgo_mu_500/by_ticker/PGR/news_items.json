@@ -1,0 +1,89 @@
+[
+  {
+    "id": "c6661f15-03f7-5381-b8d4-beac1a26cd94",
+    "timestamp_utc": "2026-03-31T11:45:04+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMkY5eWg4S2p5Q0lvS0FlVy1OQVRLSzVtaENQOUwwdDl2cnJ5VzNhM1IwVkV0WkFmZXhsZmFSQjZfQllWZ0ZDdGNJNC1XV0hCYTlwZFdtS2tJNUpTUWxQQ2p1cDBhTnJweER4QUdncHRlR1plVG5CbWN6OS1jSkxKVmVaNzFEQjBXWHVETUFMbDBNejNYTUlLdWVjTXM3TnQ2cFE?oc=5",
+    "title": "Progressive (PGR) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance",
+    "body": "Progressive (PGR) Stock Slides as Market Rises: Facts to Know Before You Trade Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "PGR",
+    "tickers_hint": [
+      "PGR"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "PGR"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "d14b63cf-9d53-533d-84bd-b1d449047934",
+    "timestamp_utc": "2026-03-31T08:24:51+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8762194/progressive-pgr-morgan-stanley-lowers-price-target-to-190-pgr-stock-news?mobile=true",
+    "title": "Progressive (PGR): Morgan Stanley Lowers Price Target to $190 | - GuruFocus",
+    "body": "Progressive (PGR): Morgan Stanley Lowers Price Target to $190 | GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "PGR",
+    "tickers_hint": [
+      "PGR"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "PGR"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "0f1423cf-9590-5c3c-81f7-f5dd58150869",
+    "timestamp_utc": "2026-03-31T21:23:04+00:00",
+    "source": "bitget",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zMkJLRzFRMmZ4aVowMy1SRDU3dmNuOTU2ZVNLMHQtV2hCUXV1enFaTktpQVpyMXY4UjJtSXJId1hiU0VFRG9KWlhIbVVhRGhzLTZUQWk3TjczbXlrbXJ4VzY2Z9IBY0FVX3lxTE0zMkJLRzFRMmZ4aVowMy1SRDU3dmNuOTU2ZVNLMHQtV2hCUXV1enFaTktpQVpyMXY4UjJtSXJId1hiU0VFRG9KWlhIbVVhRGhzLTZUQWk3TjczbXlrbXJ4VzY2Zw?oc=5",
+    "title": "Progressive (PGR) Shares Drop While Market Climbs: Key Information to Consider Before Trading - Bitget",
+    "body": "Progressive (PGR) Shares Drop While Market Climbs: Key Information to Consider Before Trading Bitget",
+    "author": null,
+    "language": "en",
+    "ticker": "PGR",
+    "tickers_hint": [
+      "PGR"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "bitget",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Bitget",
+      "source_domain": "bitget.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "PGR"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "ea4e6a0a-e140-5cf0-8c73-b896b4180e79",
+      "timestamp_utc": "2026-04-01T08:48:18+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/jefferies-financial-group-issues-positive-forecast-for-southwest-airlines-nyseluv-stock-price-2026-04-01/",
+      "title": "Jefferies Financial Group Issues Positive Forecast for Southwest Airlines (NYSE:LUV) Stock Price - MarketBeat",
+      "body": "Jefferies Financial Group Issues Positive Forecast for Southwest Airlines (NYSE:LUV) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "LUV",
+      "tickers_hint": [
+        "LUV"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "LUV"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f4a991db-7b2c-5aa1-a957-d6975794a249",
+      "timestamp_utc": "2026-04-01T08:48:17+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-has-lowered-expectations-for-southwest-airlines-nyseluv-stock-price-2026-04-01/",
+      "title": "Bank of America Has Lowered Expectations for Southwest Airlines (NYSE:LUV) Stock Price - MarketBeat",
+      "body": "Bank of America Has Lowered Expectations for Southwest Airlines (NYSE:LUV) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "LUV",
+      "tickers_hint": [
+        "LUV"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "LUV"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "ea4e6a0a-e140-5cf0-8c73-b896b4180e79",
+      "timestamp_utc": "2026-04-01T08:48:18+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/jefferies-financial-group-issues-positive-forecast-for-southwest-airlines-nyseluv-stock-price-2026-04-01/",
+      "title": "Jefferies Financial Group Issues Positive Forecast for Southwest Airlines (NYSE:LUV) Stock Price - MarketBeat",
+      "body": "Jefferies Financial Group Issues Positive Forecast for Southwest Airlines (NYSE:LUV) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "LUV",
+      "tickers_hint": [
+        "LUV"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "LUV"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f4a991db-7b2c-5aa1-a957-d6975794a249",
+      "timestamp_utc": "2026-04-01T08:48:17+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-has-lowered-expectations-for-southwest-airlines-nyseluv-stock-price-2026-04-01/",
+      "title": "Bank of America Has Lowered Expectations for Southwest Airlines (NYSE:LUV) Stock Price - MarketBeat",
+      "body": "Bank of America Has Lowered Expectations for Southwest Airlines (NYSE:LUV) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "LUV",
+      "tickers_hint": [
+        "LUV"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "LUV"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

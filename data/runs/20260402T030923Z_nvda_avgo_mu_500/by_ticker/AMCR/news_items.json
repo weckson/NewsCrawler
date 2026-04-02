@@ -1,0 +1,31 @@
+[
+  {
+    "id": "d55c2e25-9e2c-50a7-990d-71f31382b171",
+    "timestamp_utc": "2026-04-01T07:05:45+00:00",
+    "source": "gurufocus",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVUxIVlRsN1l5TTI2RUZlWU9YYlhrcU14YkJ6NE9RT0VHRk1XWlhQZ2gwZVMzMjk5U3JXUTRnZDh1S2toYW9QaDctYnBiUkplMlAxMkpnNnVhbkpabjl1RTJ3YUdFbmlsNWkxREc1QXFXZWlJQ1JaenZVeFhDQjliWGVBZkllWE41dUlTWTkwV0VEWWFWUDd2M1FQR1Fhc3NnVVl2VWlLWnUyTGRqT21ub05ENzZtUWNCMXFJ?oc=5",
+    "title": "Deutsche Bank Initiates Coverage on Amcor (AMCR) with a Buy Rati - GuruFocus",
+    "body": "Deutsche Bank Initiates Coverage on Amcor (AMCR) with a Buy Rati GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "AMCR",
+    "tickers_hint": [
+      "AMCR"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "AMCR"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

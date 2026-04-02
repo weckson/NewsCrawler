@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "1e8f2ece-0dce-58f8-9955-e6b8315c42bc",
+      "timestamp_utc": "2026-04-01T09:33:40+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdVM5TjhOaHZjNEZkSlkxTG0wLVNMcThtSFR2ajluQXFsdjJKc3E3eEJEREgwNjB0a0NFZHlZcmVjUU5ia3NhU0F5cEhoMVU3V1NDdVY1SFhTOE5rT3RyOU9icUQzREdLVTY1NGl6ZDdjLXRGWldqLTNmU0xMdTRUREd3R2NtTGZZNVZVNkJoU0lzUEswakotTHducm5oanlabVY5Zmg1Q2w?oc=5",
+      "title": "Sysco and Boston Scientific is the most oversold U.S. large-cap stock (DG:NYSE) - Seeking Alpha",
+      "body": "Sysco and Boston Scientific is the most oversold U.S. large-cap stock (DG:NYSE) Seeking Alpha",
+      "author": null,
+      "language": "en",
+      "ticker": "DG",
+      "tickers_hint": [
+        "DG"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "DG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "1e8f2ece-0dce-58f8-9955-e6b8315c42bc",
+      "timestamp_utc": "2026-04-01T09:33:40+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdVM5TjhOaHZjNEZkSlkxTG0wLVNMcThtSFR2ajluQXFsdjJKc3E3eEJEREgwNjB0a0NFZHlZcmVjUU5ia3NhU0F5cEhoMVU3V1NDdVY1SFhTOE5rT3RyOU9icUQzREdLVTY1NGl6ZDdjLXRGWldqLTNmU0xMdTRUREd3R2NtTGZZNVZVNkJoU0lzUEswakotTHducm5oanlabVY5Zmg1Q2w?oc=5",
+      "title": "Sysco and Boston Scientific is the most oversold U.S. large-cap stock (DG:NYSE) - Seeking Alpha",
+      "body": "Sysco and Boston Scientific is the most oversold U.S. large-cap stock (DG:NYSE) Seeking Alpha",
+      "author": null,
+      "language": "en",
+      "ticker": "DG",
+      "tickers_hint": [
+        "DG"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "DG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

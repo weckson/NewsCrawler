@@ -1,0 +1,89 @@
+[
+  {
+    "id": "a0a849ad-ed11-5b02-b4aa-eaeb10b5367b",
+    "timestamp_utc": "2026-04-01T00:36:37+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-nasdaq-adbe-posting-promising-103637340.html",
+    "title": "Adobe (NASDAQ:ADBE) Is Posting Promising Earnings But The Good News Doesn’t Stop There - Yahoo Finance",
+    "body": "Adobe (NASDAQ:ADBE) Is Posting Promising Earnings But The Good News Doesn’t Stop There Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "ADBE",
+    "tickers_hint": [
+      "ADBE"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "ADBE"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "577b7da4-e327-5fb6-893c-96bb4e60aa69",
+    "timestamp_utc": "2026-04-01T08:57:14+00:00",
+    "source": "insider_monkey",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVlV6S01SYk02WUNWRm9pVzVYQTBDS1pJdXVwMDBaZUpWTjMwTm5SNnkxbm40M1ZaRV9xX212cURVcm5mT3lBZmtZT2c4Ml84Y2s2M01CSXIyUUxXTllYbWg4WmtydWdXc0o2QkRDWTBKZUM2WVh5cWtsTjJqNTktRS00N3QyZjZ4REplVkdoSG05RUFTWWctcUtNXzVTVzYtSGg4azVwdEhMZHFfc3d30gG3AUFVX3lxTE1aaGVJUjRMUWh3Xzg1STd5c1BEZkRKMDFOZW55Tzl3ZjZDb3VaOXFNS21BWEdCbzZiX0dUSVB6Nl95ZzdVdzg4blhGUlVIbEt0TzN6dGVJeWxWX1dJNjY0QkFLRnYzYzZXSDlKVUtWaFk5WWVxV1NlZDJsSzVMeGZ0ZnhzUDZwQ3BSMmxkWXM5eUtEMm1EbFh5SVJpUy10Y01JWDNhU19tYzBOSkRleGFEcFRMYmNvNA?oc=5",
+    "title": "Adobe Inc. (ADBE): Billionaire Ray Dalio Is Buying This Software Stock - Insider Monkey",
+    "body": "Adobe Inc. (ADBE): Billionaire Ray Dalio Is Buying This Software Stock Insider Monkey",
+    "author": null,
+    "language": "en",
+    "ticker": "ADBE",
+    "tickers_hint": [
+      "ADBE"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "insidermonkey.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Insider Monkey",
+      "source_domain": "insidermonkey.com",
+      "trust_tier": 2,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "ADBE"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "e346f0d3-f639-5ad1-8f81-31aa96e830d2",
+    "timestamp_utc": "2026-03-31T14:26:29+00:00",
+    "source": "seekingalpha.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUVlLUkNsenJHQU5rYWtVRVpFZG5uUlhDS0ppWThhX2JOdHdsRjR6aWNkdUZYWHliZERCV3A3V3NUMDd6ZmRJUE8yWEdzSFhob2YwS0w0NXROVVNJSzg5STE4TnhITzhzakt2TEs5emtTZHNTb3Vqd1J1VWFlN0g3U29sMGdnWGhjZVVCRmVxX1l5S2NwaEMyNEVTRV9ZSFU?oc=5",
+    "title": "Adobe: Pricing Tomorrow's Risk, Paying Today's Price (NASDAQ:ADBE) - seekingalpha.com",
+    "body": "Adobe: Pricing Tomorrow's Risk, Paying Today's Price (NASDAQ:ADBE) seekingalpha.com",
+    "author": null,
+    "language": "en",
+    "ticker": "ADBE",
+    "tickers_hint": [
+      "ADBE"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "seekingalpha.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "seekingalpha.com",
+      "source_domain": "seekingalphacom.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "ADBE"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

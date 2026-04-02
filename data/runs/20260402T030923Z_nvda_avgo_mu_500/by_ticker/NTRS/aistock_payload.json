@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "895303c0-6839-5107-8e8d-aacfaa975604",
+      "timestamp_utc": "2026-04-01T06:07:30+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765445/ntrs-truist-securities-lowers-price-target-to-155-maintains-hold-rating-ntrs-stock-news?mobile=true",
+      "title": "NTRS: Truist Securities Lowers Price Target to $155, Maintains H - GuruFocus",
+      "body": "NTRS: Truist Securities Lowers Price Target to $155, Maintains H GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "NTRS",
+      "tickers_hint": [
+        "NTRS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "NTRS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "895303c0-6839-5107-8e8d-aacfaa975604",
+      "timestamp_utc": "2026-04-01T06:07:30+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765445/ntrs-truist-securities-lowers-price-target-to-155-maintains-hold-rating-ntrs-stock-news?mobile=true",
+      "title": "NTRS: Truist Securities Lowers Price Target to $155, Maintains H - GuruFocus",
+      "body": "NTRS: Truist Securities Lowers Price Target to $155, Maintains H GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "NTRS",
+      "tickers_hint": [
+        "NTRS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "NTRS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

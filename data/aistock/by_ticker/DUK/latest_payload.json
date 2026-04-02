@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "4fd349d9-6222-54fe-8295-a2a94d62ab6a",
+      "timestamp_utc": "2026-04-01T03:00:05+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYnVYZ1VBZzBlTWRKZXEwVU5vSzFLLUJwVVJ0V01uaDJrRVdXZnNDMVdRMzR6djBFcGpXMk83a0lHeTBZWEpKbGlxR1Nha3NkZk5zbzhLRjlLMl9WbzlGdGdTbVZjWFA0WHF6SmZ2OTZ4cGh1UmtfbGpFcjVkcXNQaF9hRFpiR0JzZDVDUER3?oc=5",
+      "title": "Duke Energy Corporation (DUK) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance Singapore",
+      "body": "Duke Energy Corporation (DUK) Is a Trending Stock: Facts to Know Before Betting on It Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "DUK",
+      "tickers_hint": [
+        "DUK"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DUK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "4fd349d9-6222-54fe-8295-a2a94d62ab6a",
+      "timestamp_utc": "2026-04-01T03:00:05+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYnVYZ1VBZzBlTWRKZXEwVU5vSzFLLUJwVVJ0V01uaDJrRVdXZnNDMVdRMzR6djBFcGpXMk83a0lHeTBZWEpKbGlxR1Nha3NkZk5zbzhLRjlLMl9WbzlGdGdTbVZjWFA0WHF6SmZ2OTZ4cGh1UmtfbGpFcjVkcXNQaF9hRFpiR0JzZDVDUER3?oc=5",
+      "title": "Duke Energy Corporation (DUK) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance Singapore",
+      "body": "Duke Energy Corporation (DUK) Is a Trending Stock: Facts to Know Before Betting on It Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "DUK",
+      "tickers_hint": [
+        "DUK"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DUK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

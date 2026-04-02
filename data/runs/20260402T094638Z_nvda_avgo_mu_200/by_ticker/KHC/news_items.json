@@ -1,0 +1,60 @@
+[
+  {
+    "id": "0fceef2a-b206-50b3-b28f-0a86461999ab",
+    "timestamp_utc": "2026-04-01T10:01:00+00:00",
+    "source": "seeking_alpha",
+    "url": "https://seekingalpha.com/news/4571659-heinz-edges-lower-after-a-six-session-rally",
+    "title": "Heinz edges lower after a six session rally (KHC:NASDAQ) - Seeking Alpha",
+    "body": "Shares of The Kraft Heinz Company (KHC) slipped 0.84% to close at $22.30 on Wednesday, snapping a six session rally.\n\nThe stock has gained around 5.5% between March 24 and March 31 compared to a 0.43% decline in the S&P 500",
+    "author": null,
+    "language": "en",
+    "ticker": "KHC",
+    "tickers_hint": [
+      "KHC"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "seekingalpha.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Seeking Alpha",
+      "source_domain": "seekingalpha.com",
+      "trust_tier": 3,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "KHC"
+      ],
+      "body_kind": "article_text"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "1ba7f518-2231-5afd-ac53-66aacae81ff5",
+    "timestamp_utc": "2026-04-01T00:21:58+00:00",
+    "source": "bitget",
+    "url": "https://www.bitget.com/asia/news/detail/12560605327835",
+    "title": "KHC's Downtrend Intensifies as Sellers Dominate Major Resistance Ahead of Earnings - Bitget",
+    "body": "KHC's Downtrend Intensifies as Sellers Dominate Major Resistance Ahead of Earnings Bitget",
+    "author": null,
+    "language": "en",
+    "ticker": "KHC",
+    "tickers_hint": [
+      "KHC"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "bitget",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Bitget",
+      "source_domain": "bitget.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "KHC"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

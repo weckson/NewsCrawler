@@ -1,0 +1,92 @@
+[
+  {
+    "id": "e07ddd5d-0409-5718-b004-33e8b4f79826",
+    "timestamp_utc": "2026-03-31T05:58:00+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdkhtQTQzUFk1WWJQYW94SkhUdWJ4clRkTkUteU1DSGgwa1J3SG9jWW1IS3g0VkNvTkNXYjhNakQzNXZuRzh2R0RSRk1TQTVRQV9QQkZ0bUltY1MxeWxoeHM5NmdocjZVTW83VFR3cWdnaDVzc0luaUpfVXhscmgwYmRnRGNaWkZFU3p6OTFMRUI2RUswQXc?oc=5",
+    "title": "Here's Why You Should Retain RSG Stock in Your Portfolio Now - Yahoo Finance",
+    "body": "Here's Why You Should Retain RSG Stock in Your Portfolio Now Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "RSG",
+    "tickers_hint": [
+      "RSG"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "RSG"
+      ],
+      "alt_sources": [
+        "TradingView"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "fbd374e2-8585-5488-9e00-0b717d714633",
+    "timestamp_utc": "2026-03-31T23:17:22+00:00",
+    "source": "defense_world",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVy1wako1OGtSbkNBRmt1bFBSOWlfcTJ2X0ZkTUpaYXpLbklwbE1ua2M3WlFRMHlFcTIyODFtYlV1VEVEd0xjM0pCQjFSc3U4ZEJ3TnZzZ09qZ0VNaHY5U0xnZmVvbWpDVlRTVGlaUE5rT1VSU3hJdEFJaTl6YlZJS3JXMUNhbThFdHhXdGZDcjd2Y1Z3aHpkWkJXa0pfcHEzZlZWdmhhVEpWaDhrOEI5ckh3a3NiRHBBQ2lVeWY0cG0?oc=5",
+    "title": "Frank Rimerman Advisors LLC Boosts Stock Position in Republic Services, Inc. $RSG - Defense World",
+    "body": "Frank Rimerman Advisors LLC Boosts Stock Position in Republic Services, Inc. $RSG Defense World",
+    "author": null,
+    "language": "en",
+    "ticker": "RSG",
+    "tickers_hint": [
+      "RSG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "defense world",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Defense World",
+      "source_domain": "defenseworld.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "RSG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "221ab357-c750-5f22-9961-3791fb8bb413",
+    "timestamp_utc": "2026-03-31T07:10:22+00:00",
+    "source": "bitget",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HVXFMRGtaenZVZVZJdmJHb2ExTUdzQ1hrQ0xZU2pSWE94bnJub2U0ZmtKT29OSVBPYUEzWm9vV190eGZUSUVabG80UGMtUkdGRWR1MUZ3RnZ3SHdtNFl0VDVjNNIBY0FVX3lxTE9HVXFMRGtaenZVZVZJdmJHb2ExTUdzQ1hrQ0xZU2pSWE94bnJub2U0ZmtKT29OSVBPYUEzWm9vV190eGZUSUVabG80UGMtUkdGRWR1MUZ3RnZ3SHdtNFl0VDVjNA?oc=5",
+    "title": "Here’s Why Keeping RSG Stock in Your Portfolio Makes Sense Right Now - Bitget",
+    "body": "Here’s Why Keeping RSG Stock in Your Portfolio Makes Sense Right Now Bitget",
+    "author": null,
+    "language": "en",
+    "ticker": "RSG",
+    "tickers_hint": [
+      "RSG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "bitget",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Bitget",
+      "source_domain": "bitget.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "RSG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

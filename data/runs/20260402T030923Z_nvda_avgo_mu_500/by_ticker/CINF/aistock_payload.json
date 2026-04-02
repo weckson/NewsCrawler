@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "2b2e0197-c06a-5554-8457-9e2e48c45ea4",
+      "timestamp_utc": "2026-04-01T04:25:42+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/CINF/technical",
+      "title": "CINF Technical Analysis & Stock Price Forecast - Intellectia AI",
+      "body": "CINF Technical Analysis & Stock Price Forecast Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "CINF",
+      "tickers_hint": [
+        "CINF"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CINF"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "247131e9-a348-5951-8c5c-fd4c421035ec",
+      "timestamp_utc": "2026-03-31T18:05:00+00:00",
+      "source": "financialcontent",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRmp3UVZmTlZaMXE5LUlRTE00Ny1Ncm90S3BFMWtQYWc0YVVkMTV5bE5TaW9UNmo5bVRIbTlEbmdYMnBQUUdYcFNEYVNBVk5mZ0xqUU5tQzRoZU04UkRJVTZVSy1YbDRNT0NBQ1gxVm5nTkxzTTFiUGtTbFlzQnFjUUU3X25ieDF5SmhieFdxVEUwalNMeURRNFlUeTBRTDZVNVpRQVBFNUVxREV2cXBMMjZEZDV4R1V0dm1yeEN4MA?oc=5",
+      "title": "2 Reasons to Avoid CINF and 1 Stock to Buy Instead - FinancialContent",
+      "body": "2 Reasons to Avoid CINF and 1 Stock to Buy Instead FinancialContent",
+      "author": null,
+      "language": "en",
+      "ticker": "CINF",
+      "tickers_hint": [
+        "CINF"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "financialcontent",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "FinancialContent",
+        "source_domain": "financialcontent.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CINF"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "2b2e0197-c06a-5554-8457-9e2e48c45ea4",
+      "timestamp_utc": "2026-04-01T04:25:42+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/CINF/technical",
+      "title": "CINF Technical Analysis & Stock Price Forecast - Intellectia AI",
+      "body": "CINF Technical Analysis & Stock Price Forecast Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "CINF",
+      "tickers_hint": [
+        "CINF"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CINF"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "247131e9-a348-5951-8c5c-fd4c421035ec",
+      "timestamp_utc": "2026-03-31T18:05:00+00:00",
+      "source": "financialcontent",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRmp3UVZmTlZaMXE5LUlRTE00Ny1Ncm90S3BFMWtQYWc0YVVkMTV5bE5TaW9UNmo5bVRIbTlEbmdYMnBQUUdYcFNEYVNBVk5mZ0xqUU5tQzRoZU04UkRJVTZVSy1YbDRNT0NBQ1gxVm5nTkxzTTFiUGtTbFlzQnFjUUU3X25ieDF5SmhieFdxVEUwalNMeURRNFlUeTBRTDZVNVpRQVBFNUVxREV2cXBMMjZEZDV4R1V0dm1yeEN4MA?oc=5",
+      "title": "2 Reasons to Avoid CINF and 1 Stock to Buy Instead - FinancialContent",
+      "body": "2 Reasons to Avoid CINF and 1 Stock to Buy Instead FinancialContent",
+      "author": null,
+      "language": "en",
+      "ticker": "CINF",
+      "tickers_hint": [
+        "CINF"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "financialcontent",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "FinancialContent",
+        "source_domain": "financialcontent.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CINF"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

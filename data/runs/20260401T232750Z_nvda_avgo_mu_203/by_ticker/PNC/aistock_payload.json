@@ -1,0 +1,362 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "5eb8a21f-d213-5a53-9f96-f7ccabc3ecb5",
+      "timestamp_utc": "2026-04-01T05:16:22+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pnc-financial-services-group-pnc-151622170.html",
+      "title": "Is PNC Financial Services Group (PNC) Pricing Reflect Its Strong Multi‑Year Share Price Run - Yahoo Finance",
+      "body": "Is PNC Financial Services Group (PNC) Pricing Reflect Its Strong Multi‑Year Share Price Run Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "PNC",
+      "tickers_hint": [
+        "PNC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "PNC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d11c0af0-648f-5d38-bb18-7610c9645217",
+      "timestamp_utc": "2026-03-31T10:42:00+00:00",
+      "source": "marketwatch",
+      "url": "https://www.marketwatch.com/data-news/pnc-financial-services-group-inc-stock-underperforms-tuesday-when-compared-to-competitors-despite-daily-gains-b772b5db-8b5be273048c?gaa_at=eafs&gaa_n=AWEtsqccQvvKStazFD1ciTfIUX4avKQz4O8fUh8lDgKDcYbesRhBJdULaVfG&gaa_ts=69cdb1bc&gaa_sig=VvrMRsSh6DN4mef3DHq482DcWe_KcLsmcsRZGHQB2xitVX1ZguG8Z8mC-kOUaZQsuF1EarKB5xwga5fkxmzE0A%3D%3D",
+      "title": "PNC Financial Services Group Inc. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
+      "body": "PNC Financial Services Group Inc. stock underperforms Tuesday when compared to competitors despite daily gains MarketWatch",
+      "author": null,
+      "language": "en",
+      "ticker": "PNC",
+      "tickers_hint": [
+        "PNC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "marketwatch.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketWatch",
+        "source_domain": "marketwatch.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PNC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b6f8d16e-97b9-5b8e-8ecb-41a402cba219",
+      "timestamp_utc": "2026-03-31T02:36:00+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT3o0SkF4eU5GMzNzZmpQemRLUHZnYU9nUi1tRk82a0RaWU42VUxQbFVUaVFadWF1c1NjbU1RZHZnNjV2bDdmYjlqSEJNbjU3SUFmejFLdkdGdUxjQlFpa0lNYndjUG9RT25EcVVFZWFZR2FDREViRGY4ZERsZFl4aVVxU3pycXlnTWlIbVd0UndLVm9DdUdXWHRCNk8xR2dnT0taRzBlNFh5cS1DYU1CRFM5Y3JMaS1i?oc=5",
+      "title": "Is PNC Well-Positioned to Sustain Its Capital Return Strategy? - TradingView",
+      "body": "Is PNC Well-Positioned to Sustain Its Capital Return Strategy? TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "PNC",
+      "tickers_hint": [
+        "PNC"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PNC"
+        ],
+        "alt_sources": [
+          "TradingView"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "41a789cb-7379-5a6a-88dd-fa9d6fb3add5",
+      "timestamp_utc": "2026-03-31T02:58:28+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/short-interest-in-the-pnc-financial-services-group-inc-nysepnc-drops-by-154-2026-03-31/",
+      "title": "Short Interest in The PNC Financial Services Group, Inc (NYSE:PNC) Drops By 15.4% - MarketBeat",
+      "body": "Short Interest in The PNC Financial Services Group, Inc (NYSE:PNC) Drops By 15.4% MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "PNC",
+      "tickers_hint": [
+        "PNC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "PNC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6ac1d01c-2fa4-5795-a382-1a3c67c8f30b",
+      "timestamp_utc": "2026-03-31T08:38:59+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8762208/morgan-stanley-lowers-price-target-for-pnc-financial-services-pnc-to-263-pnc-stock-news?mobile=true",
+      "title": "Morgan Stanley Lowers Price Target for PNC Financial Services (P - GuruFocus",
+      "body": "Morgan Stanley Lowers Price Target for PNC Financial Services (P GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "PNC",
+      "tickers_hint": [
+        "PNC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "PNC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e11c93f4-8f8b-5400-9bc8-9af456e61b25",
+      "timestamp_utc": "2026-03-31T04:00:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbjh2QUxXWnJsQ3pHMGliRTZTdGJWc0xnbGtBbjZMMlJJNDFGb0NmTkpLQ0hKWUZQTTkzWS11d0dIazIwdFd1SmloQnIySHBiVExXcUQyV0hyelNvb2ZnWmI2LXNvSTVoLTdSNWlfb1JRS1AzVFRWU3Q2YW9GTzZTSTNKR2VFRWlMaGRYajlfZllNQ3hPYnFwUW1FSjJyam84Ql9sNkFFWEVtSlhka1VJeGh3ZjdPdmYySlc3MlNn?oc=5",
+      "title": "PNC puts $6.2M into outdoor learning, funds 1,000 classrooms - Stock Titan",
+      "body": "PNC puts $6.2M into outdoor learning, funds 1,000 classrooms Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "PNC",
+      "tickers_hint": [
+        "PNC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PNC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "5eb8a21f-d213-5a53-9f96-f7ccabc3ecb5",
+      "timestamp_utc": "2026-04-01T05:16:22+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pnc-financial-services-group-pnc-151622170.html",
+      "title": "Is PNC Financial Services Group (PNC) Pricing Reflect Its Strong Multi‑Year Share Price Run - Yahoo Finance",
+      "body": "Is PNC Financial Services Group (PNC) Pricing Reflect Its Strong Multi‑Year Share Price Run Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "PNC",
+      "tickers_hint": [
+        "PNC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "PNC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d11c0af0-648f-5d38-bb18-7610c9645217",
+      "timestamp_utc": "2026-03-31T10:42:00+00:00",
+      "source": "marketwatch",
+      "url": "https://www.marketwatch.com/data-news/pnc-financial-services-group-inc-stock-underperforms-tuesday-when-compared-to-competitors-despite-daily-gains-b772b5db-8b5be273048c?gaa_at=eafs&gaa_n=AWEtsqccQvvKStazFD1ciTfIUX4avKQz4O8fUh8lDgKDcYbesRhBJdULaVfG&gaa_ts=69cdb1bc&gaa_sig=VvrMRsSh6DN4mef3DHq482DcWe_KcLsmcsRZGHQB2xitVX1ZguG8Z8mC-kOUaZQsuF1EarKB5xwga5fkxmzE0A%3D%3D",
+      "title": "PNC Financial Services Group Inc. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
+      "body": "PNC Financial Services Group Inc. stock underperforms Tuesday when compared to competitors despite daily gains MarketWatch",
+      "author": null,
+      "language": "en",
+      "ticker": "PNC",
+      "tickers_hint": [
+        "PNC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "marketwatch.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketWatch",
+        "source_domain": "marketwatch.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PNC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b6f8d16e-97b9-5b8e-8ecb-41a402cba219",
+      "timestamp_utc": "2026-03-31T02:36:00+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT3o0SkF4eU5GMzNzZmpQemRLUHZnYU9nUi1tRk82a0RaWU42VUxQbFVUaVFadWF1c1NjbU1RZHZnNjV2bDdmYjlqSEJNbjU3SUFmejFLdkdGdUxjQlFpa0lNYndjUG9RT25EcVVFZWFZR2FDREViRGY4ZERsZFl4aVVxU3pycXlnTWlIbVd0UndLVm9DdUdXWHRCNk8xR2dnT0taRzBlNFh5cS1DYU1CRFM5Y3JMaS1i?oc=5",
+      "title": "Is PNC Well-Positioned to Sustain Its Capital Return Strategy? - TradingView",
+      "body": "Is PNC Well-Positioned to Sustain Its Capital Return Strategy? TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "PNC",
+      "tickers_hint": [
+        "PNC"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PNC"
+        ],
+        "alt_sources": [
+          "TradingView"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "41a789cb-7379-5a6a-88dd-fa9d6fb3add5",
+      "timestamp_utc": "2026-03-31T02:58:28+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/short-interest-in-the-pnc-financial-services-group-inc-nysepnc-drops-by-154-2026-03-31/",
+      "title": "Short Interest in The PNC Financial Services Group, Inc (NYSE:PNC) Drops By 15.4% - MarketBeat",
+      "body": "Short Interest in The PNC Financial Services Group, Inc (NYSE:PNC) Drops By 15.4% MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "PNC",
+      "tickers_hint": [
+        "PNC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "PNC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6ac1d01c-2fa4-5795-a382-1a3c67c8f30b",
+      "timestamp_utc": "2026-03-31T08:38:59+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8762208/morgan-stanley-lowers-price-target-for-pnc-financial-services-pnc-to-263-pnc-stock-news?mobile=true",
+      "title": "Morgan Stanley Lowers Price Target for PNC Financial Services (P - GuruFocus",
+      "body": "Morgan Stanley Lowers Price Target for PNC Financial Services (P GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "PNC",
+      "tickers_hint": [
+        "PNC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "PNC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e11c93f4-8f8b-5400-9bc8-9af456e61b25",
+      "timestamp_utc": "2026-03-31T04:00:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbjh2QUxXWnJsQ3pHMGliRTZTdGJWc0xnbGtBbjZMMlJJNDFGb0NmTkpLQ0hKWUZQTTkzWS11d0dIazIwdFd1SmloQnIySHBiVExXcUQyV0hyelNvb2ZnWmI2LXNvSTVoLTdSNWlfb1JRS1AzVFRWU3Q2YW9GTzZTSTNKR2VFRWlMaGRYajlfZllNQ3hPYnFwUW1FSjJyam84Ql9sNkFFWEVtSlhka1VJeGh3ZjdPdmYySlc3MlNn?oc=5",
+      "title": "PNC puts $6.2M into outdoor learning, funds 1,000 classrooms - Stock Titan",
+      "body": "PNC puts $6.2M into outdoor learning, funds 1,000 classrooms Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "PNC",
+      "tickers_hint": [
+        "PNC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PNC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "fd93caae-95ca-5b2d-be79-27eaec3513ff",
+      "timestamp_utc": "2026-03-31T06:52:30+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8761530/motorola-solutions-msi-receives-new-coverage-with-buy-rating-by-truist-securities-msi-stock-news?mobile=true",
+      "title": "Motorola Solutions (MSI) Receives New Coverage with \"Buy\" Rating by Truist Securities | MSI Stock News - GuruFocus",
+      "body": "Motorola Solutions (MSI) Receives New Coverage with \"Buy\" Rating by Truist Securities | MSI Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "MSI",
+      "tickers_hint": [
+        "MSI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MSI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b68ca0a5-ee7e-506d-bc68-8fb6a5bec187",
+      "timestamp_utc": "2026-04-01T09:18:45+00:00",
+      "source": "bitget",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QSjJoU01TMktZM0FCYXFJZTJuemltYjFLNWxxR0VFUmlZVkJZN2FjRVd1ZW5pTFZfYXVwQV9sMzJIMVdxbmRHekRYVlF1cWx0OXd2aW5qNXdCdTh0V01oWEZiSdIBY0FVX3lxTE5QSjJoU01TMktZM0FCYXFJZTJuemltYjFLNWxxR0VFUmlZVkJZN2FjRVd1ZW5pTFZfYXVwQV9sMzJIMVdxbmRHekRYVlF1cWx0OXd2aW5qNXdCdTh0V01oWEZiSQ?oc=5",
+      "title": "ERIC or MSI: Which Stock Offers Better Value at the Moment? - Bitget",
+      "body": "ERIC or MSI: Which Stock Offers Better Value at the Moment? Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "MSI",
+      "tickers_hint": [
+        "MSI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MSI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "fd93caae-95ca-5b2d-be79-27eaec3513ff",
+      "timestamp_utc": "2026-03-31T06:52:30+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8761530/motorola-solutions-msi-receives-new-coverage-with-buy-rating-by-truist-securities-msi-stock-news?mobile=true",
+      "title": "Motorola Solutions (MSI) Receives New Coverage with \"Buy\" Rating by Truist Securities | MSI Stock News - GuruFocus",
+      "body": "Motorola Solutions (MSI) Receives New Coverage with \"Buy\" Rating by Truist Securities | MSI Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "MSI",
+      "tickers_hint": [
+        "MSI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MSI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b68ca0a5-ee7e-506d-bc68-8fb6a5bec187",
+      "timestamp_utc": "2026-04-01T09:18:45+00:00",
+      "source": "bitget",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QSjJoU01TMktZM0FCYXFJZTJuemltYjFLNWxxR0VFUmlZVkJZN2FjRVd1ZW5pTFZfYXVwQV9sMzJIMVdxbmRHekRYVlF1cWx0OXd2aW5qNXdCdTh0V01oWEZiSdIBY0FVX3lxTE5QSjJoU01TMktZM0FCYXFJZTJuemltYjFLNWxxR0VFUmlZVkJZN2FjRVd1ZW5pTFZfYXVwQV9sMzJIMVdxbmRHekRYVlF1cWx0OXd2aW5qNXdCdTh0V01oWEZiSQ?oc=5",
+      "title": "ERIC or MSI: Which Stock Offers Better Value at the Moment? - Bitget",
+      "body": "ERIC or MSI: Which Stock Offers Better Value at the Moment? Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "MSI",
+      "tickers_hint": [
+        "MSI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MSI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

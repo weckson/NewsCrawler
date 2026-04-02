@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "62537453-1b90-58bd-959c-4e05eb422a15",
+      "timestamp_utc": "2026-04-01T03:11:41+00:00",
+      "source": "insider_monkey",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdHdydy13M19YMURHcmxiWVctRzVURl80ZHE1b1Q0WEhqMEpQVUdpZmtxUHJlOGNNT29yRndMMHd4anE5QjB2QnhFOHV3TExtQjhfYVVuVXdwZlczeDgxdUNQVUQ2TGJhNS1YVUEyXzAyWGVWZG9oYUc3V0Iwdnp6MUt3MzFjSHloQlJyZWJhT1EtWl9rWDNuVjRyemhNcXhFcjUyY0dLSThLUUxwTGk3ZDJmMETSAbwBQVVfeXFMT3cwVElmV3R3SHNBZ0hWRzFyaUZLSlBCbVh1RmktdDdLeFFlTlVHR2tsOXVxTHZxOVIxX0ctSEFvRmpqeXhSMjR4OERWMVg2amVmM3lveU9MTjg4X3M5MngwNW1jT0JJUHFWTE94V01YSDNpS1hoMVl2QnFHb1JVT2FuSEt3Uy1XNXV5akdSOTV3UDkzSlZ5a05GNHVkbGZRQzJCb1NTQldzNzFLb3ZSMmUyUzF0VlJvemx2OUQ?oc=5",
+      "title": "Expedia Group (EXPE): Artisan Mid Cap Value Fund’s Top Overall Contributor - Insider Monkey",
+      "body": "Expedia Group (EXPE): Artisan Mid Cap Value Fund’s Top Overall Contributor Insider Monkey",
+      "author": null,
+      "language": "en",
+      "ticker": "EXPE",
+      "tickers_hint": [
+        "EXPE"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "insidermonkey.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Insider Monkey",
+        "source_domain": "insidermonkey.com",
+        "trust_tier": 2,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "EXPE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b026dd56-53f8-57b5-bc78-f2b87896fdb2",
+      "timestamp_utc": "2026-04-01T07:19:55+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765634/expe-wells-fargo-maintains-expedia-group-rating-lowers-price-target-expe-stock-news",
+      "title": "EXPE: Wells Fargo Maintains Expedia Group Rating, Lowers Price T - GuruFocus",
+      "body": "EXPE: Wells Fargo Maintains Expedia Group Rating, Lowers Price T GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "EXPE",
+      "tickers_hint": [
+        "EXPE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "EXPE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d1c3e4e3-db17-5ff8-ae92-0582cf684e72",
+      "timestamp_utc": "2026-03-31T11:13:01+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/EXPE/technical",
+      "title": "EXPE Technical Analysis & Stock Price Forecast - Intellectia AI",
+      "body": "EXPE Technical Analysis & Stock Price Forecast Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "EXPE",
+      "tickers_hint": [
+        "EXPE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "EXPE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "62537453-1b90-58bd-959c-4e05eb422a15",
+      "timestamp_utc": "2026-04-01T03:11:41+00:00",
+      "source": "insider_monkey",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdHdydy13M19YMURHcmxiWVctRzVURl80ZHE1b1Q0WEhqMEpQVUdpZmtxUHJlOGNNT29yRndMMHd4anE5QjB2QnhFOHV3TExtQjhfYVVuVXdwZlczeDgxdUNQVUQ2TGJhNS1YVUEyXzAyWGVWZG9oYUc3V0Iwdnp6MUt3MzFjSHloQlJyZWJhT1EtWl9rWDNuVjRyemhNcXhFcjUyY0dLSThLUUxwTGk3ZDJmMETSAbwBQVVfeXFMT3cwVElmV3R3SHNBZ0hWRzFyaUZLSlBCbVh1RmktdDdLeFFlTlVHR2tsOXVxTHZxOVIxX0ctSEFvRmpqeXhSMjR4OERWMVg2amVmM3lveU9MTjg4X3M5MngwNW1jT0JJUHFWTE94V01YSDNpS1hoMVl2QnFHb1JVT2FuSEt3Uy1XNXV5akdSOTV3UDkzSlZ5a05GNHVkbGZRQzJCb1NTQldzNzFLb3ZSMmUyUzF0VlJvemx2OUQ?oc=5",
+      "title": "Expedia Group (EXPE): Artisan Mid Cap Value Fund’s Top Overall Contributor - Insider Monkey",
+      "body": "Expedia Group (EXPE): Artisan Mid Cap Value Fund’s Top Overall Contributor Insider Monkey",
+      "author": null,
+      "language": "en",
+      "ticker": "EXPE",
+      "tickers_hint": [
+        "EXPE"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "insidermonkey.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Insider Monkey",
+        "source_domain": "insidermonkey.com",
+        "trust_tier": 2,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "EXPE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b026dd56-53f8-57b5-bc78-f2b87896fdb2",
+      "timestamp_utc": "2026-04-01T07:19:55+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765634/expe-wells-fargo-maintains-expedia-group-rating-lowers-price-target-expe-stock-news",
+      "title": "EXPE: Wells Fargo Maintains Expedia Group Rating, Lowers Price T - GuruFocus",
+      "body": "EXPE: Wells Fargo Maintains Expedia Group Rating, Lowers Price T GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "EXPE",
+      "tickers_hint": [
+        "EXPE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "EXPE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d1c3e4e3-db17-5ff8-ae92-0582cf684e72",
+      "timestamp_utc": "2026-03-31T11:13:01+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/EXPE/technical",
+      "title": "EXPE Technical Analysis & Stock Price Forecast - Intellectia AI",
+      "body": "EXPE Technical Analysis & Stock Price Forecast Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "EXPE",
+      "tickers_hint": [
+        "EXPE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "EXPE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

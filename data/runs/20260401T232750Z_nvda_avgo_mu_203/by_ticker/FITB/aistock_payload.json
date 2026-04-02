@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "21b82cb2-186d-5ff3-89fe-010dd7618d01",
+      "timestamp_utc": "2026-03-31T01:56:00+00:00",
+      "source": "the_globe_and_mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/HOOD/pressreleases/1060818/analysts-top-financial-picks-robinhood-hood-fifth-third-bancorp-fitb/",
+      "title": "Analysts’ Top Financial Picks: Robinhood (HOOD), Fifth Third Bancorp (FITB) - The Globe and Mail",
+      "body": "There’s a lot to be optimistic about in the Financial sector as 2 analysts just weighed in on Robinhood (HOOD) and Fifth Third Bancorp (FITB) with bullish sentiments.\n\nBernstein analyst Gautam Chhugani maintained a Buy rating on Robinhood today and set a price target of $130.00. The company’s shares closed last Friday at $66.02, close to its 52-week high of $66.91.\n\nAccording to TipRanks.com, Chhugani is a 5-star analyst with an average return of 30.6% and a 45.0% success rate. Chhugani covers the Financial sector, focusing on stocks such as Figure Technology Solutions, Inc. Class A, SharpLink Gaming, and Coinbase Global. ;'>\n\nCurrently, the analyst consensus on Robinhood is a Strong Buy with an average price target of $118.07, representing a 72.3% upside. In a report issued on March 26, Jefferies also initiated coverage with a Buy rating on the stock with a $88.00 price target.\n\nSee the top stocks recommended by analysts >>\n\nPiper Sandler analyst Scott Siefers reiterated a Buy rating on Fifth Third Bancorp today and set a price target of $54.00. The company’s shares closed last Friday at $44.54.\n\nAccording to TipRanks.com, Siefers is a 5-star analyst with an average return of 11.8% and a 60.7% success rate. Siefers covers the Financial sector, focusing on stocks such as Old National Bancorp Capital, Huntington Bancshares, and Associated Banc-Corp. ;'>\n\nCurrently, the analyst consensus on Fifth Third Bancorp is a Strong Buy with an average price target of $56.97, representing a 25.8% upside. In a report issued on March 16, J.P. Morgan also initiated coverage with a Buy rating on the stock with a $50.50 price target.",
+      "author": null,
+      "language": "en",
+      "ticker": "FITB",
+      "tickers_hint": [
+        "FITB"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "theglobeandmail.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Globe and Mail",
+        "source_domain": "theglobeandmail.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "FITB"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "21b82cb2-186d-5ff3-89fe-010dd7618d01",
+      "timestamp_utc": "2026-03-31T01:56:00+00:00",
+      "source": "the_globe_and_mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/HOOD/pressreleases/1060818/analysts-top-financial-picks-robinhood-hood-fifth-third-bancorp-fitb/",
+      "title": "Analysts’ Top Financial Picks: Robinhood (HOOD), Fifth Third Bancorp (FITB) - The Globe and Mail",
+      "body": "There’s a lot to be optimistic about in the Financial sector as 2 analysts just weighed in on Robinhood (HOOD) and Fifth Third Bancorp (FITB) with bullish sentiments.\n\nBernstein analyst Gautam Chhugani maintained a Buy rating on Robinhood today and set a price target of $130.00. The company’s shares closed last Friday at $66.02, close to its 52-week high of $66.91.\n\nAccording to TipRanks.com, Chhugani is a 5-star analyst with an average return of 30.6% and a 45.0% success rate. Chhugani covers the Financial sector, focusing on stocks such as Figure Technology Solutions, Inc. Class A, SharpLink Gaming, and Coinbase Global. ;'>\n\nCurrently, the analyst consensus on Robinhood is a Strong Buy with an average price target of $118.07, representing a 72.3% upside. In a report issued on March 26, Jefferies also initiated coverage with a Buy rating on the stock with a $88.00 price target.\n\nSee the top stocks recommended by analysts >>\n\nPiper Sandler analyst Scott Siefers reiterated a Buy rating on Fifth Third Bancorp today and set a price target of $54.00. The company’s shares closed last Friday at $44.54.\n\nAccording to TipRanks.com, Siefers is a 5-star analyst with an average return of 11.8% and a 60.7% success rate. Siefers covers the Financial sector, focusing on stocks such as Old National Bancorp Capital, Huntington Bancshares, and Associated Banc-Corp. ;'>\n\nCurrently, the analyst consensus on Fifth Third Bancorp is a Strong Buy with an average price target of $56.97, representing a 25.8% upside. In a report issued on March 16, J.P. Morgan also initiated coverage with a Buy rating on the stock with a $50.50 price target.",
+      "author": null,
+      "language": "en",
+      "ticker": "FITB",
+      "tickers_hint": [
+        "FITB"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "theglobeandmail.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Globe and Mail",
+        "source_domain": "theglobeandmail.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "FITB"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

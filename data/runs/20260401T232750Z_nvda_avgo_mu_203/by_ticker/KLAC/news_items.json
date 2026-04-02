@@ -1,0 +1,60 @@
+[
+  {
+    "id": "19c95890-ce66-5fa9-a519-cee7c38f8af2",
+    "timestamp_utc": "2026-04-01T06:45:58+00:00",
+    "source": "tradingview",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRms3NGN3bkEwV1pLeDZ3ZEpZeThqc2hoRnduWVdJX01RSTEwVzdLcVFIYXNQcDZteVZuSGFMeHBaZnQ5U01qOHIxSkNqYTZaaDFBV1FMaE1RY0JkUjlkV1ZoMU0xYXJpMVA2eXUwMzFrcVA4clJUUlg5WmsxY2pDSjVrWnFPLVQ4N3o3QWlnMjFhVEN5Y2MxTkhZWmZxUnRld2hpYjkzQ2xHQW1YODZabg?oc=5",
+    "title": "Why KLA Corporation (KLAC) Stock Is Trading Up Today - TradingView",
+    "body": "Why KLA Corporation (KLAC) Stock Is Trading Up Today TradingView",
+    "author": null,
+    "language": "en",
+    "ticker": "KLAC",
+    "tickers_hint": [
+      "KLAC"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "tradingview.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "TradingView",
+      "source_domain": "tradingview.com",
+      "trust_tier": 2,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "KLAC"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "c4e95a01-1847-57d1-8326-ebd282dcc7dd",
+    "timestamp_utc": "2026-04-01T04:28:30+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/cantor-fitzgerald-forecasts-strong-price-appreciation-for-kla-nasdaqklac-stock-2026-04-01/",
+    "title": "Cantor Fitzgerald Forecasts Strong Price Appreciation for KLA (NASDAQ:KLAC) Stock - MarketBeat",
+    "body": "Cantor Fitzgerald Forecasts Strong Price Appreciation for KLA (NASDAQ:KLAC) Stock MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "KLAC",
+    "tickers_hint": [
+      "KLAC"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "KLAC"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

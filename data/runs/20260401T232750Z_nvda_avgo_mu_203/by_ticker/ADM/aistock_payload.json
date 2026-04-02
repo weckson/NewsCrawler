@@ -1,0 +1,240 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "d200ccf9-8b72-5d7e-a138-5ff3c919e501",
+      "timestamp_utc": "2026-04-01T08:35:27+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/news/4571080-consumer-staples-win-on-defensive-bets-in-q1-bunge-adm-lead-gains",
+      "title": "Consumer staples win on defensive bets in Q1; Bunge, ADM lead gains (XLP:NYSEARCA) - Seeking Alpha",
+      "body": "U.S. equities closed Q1 on a weak footing, with the benchmark S&P 500 posting a quarterly decline of ~4.6%, while consumer staples emerged as a rare pocket of strength as investors rotated into defensive sectors.",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "660c6e31-d617-5813-b474-8a44e978983a",
+      "timestamp_utc": "2026-04-01T08:48:26+00:00",
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/8765724/barclays-raises-price-target-for-archerdanielsmidland-adm-to-77-adm-stock-news",
+      "title": "Barclays Raises Price Target for Archer-Daniels-Midland (ADM) to $77 | ADM Stock News - gurufocus.com",
+      "body": "Barclays Raises Price Target for Archer-Daniels-Midland (ADM) to $77 | ADM Stock News gurufocus.com",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "gurufocus.com",
+        "source_domain": "gurufocuscom.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0a188a9b-3556-57f9-bf6d-f7ae44208b5e",
+      "timestamp_utc": "2026-04-01T08:24:07+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/archer-daniels-midland-nyseadm-given-new-7700-price-target-at-barclays-2026-04-01/",
+      "title": "Archer Daniels Midland (NYSE:ADM) Given New $77.00 Price Target at Barclays - MarketBeat",
+      "body": "Archer Daniels Midland (NYSE:ADM) Given New $77.00 Price Target at Barclays MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "23fa9463-fe0b-5800-8d26-486acfd9a7aa",
+      "timestamp_utc": "2026-03-31T23:54:41+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/why-is-archer-daniels-midland-company-adm-one-of-the-best-undervalued-defensive-stocks-for-2026/ar-AA1ZnTDq",
+      "title": "Why is Archer-Daniels-Midland Company (ADM) one of the best undervalued defensive stocks for 2026? - MSN",
+      "body": "Why is Archer-Daniels-Midland Company (ADM) one of the best undervalued defensive stocks for 2026? MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "d200ccf9-8b72-5d7e-a138-5ff3c919e501",
+      "timestamp_utc": "2026-04-01T08:35:27+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/news/4571080-consumer-staples-win-on-defensive-bets-in-q1-bunge-adm-lead-gains",
+      "title": "Consumer staples win on defensive bets in Q1; Bunge, ADM lead gains (XLP:NYSEARCA) - Seeking Alpha",
+      "body": "U.S. equities closed Q1 on a weak footing, with the benchmark S&P 500 posting a quarterly decline of ~4.6%, while consumer staples emerged as a rare pocket of strength as investors rotated into defensive sectors.",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "660c6e31-d617-5813-b474-8a44e978983a",
+      "timestamp_utc": "2026-04-01T08:48:26+00:00",
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/8765724/barclays-raises-price-target-for-archerdanielsmidland-adm-to-77-adm-stock-news",
+      "title": "Barclays Raises Price Target for Archer-Daniels-Midland (ADM) to $77 | ADM Stock News - gurufocus.com",
+      "body": "Barclays Raises Price Target for Archer-Daniels-Midland (ADM) to $77 | ADM Stock News gurufocus.com",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "gurufocus.com",
+        "source_domain": "gurufocuscom.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0a188a9b-3556-57f9-bf6d-f7ae44208b5e",
+      "timestamp_utc": "2026-04-01T08:24:07+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/archer-daniels-midland-nyseadm-given-new-7700-price-target-at-barclays-2026-04-01/",
+      "title": "Archer Daniels Midland (NYSE:ADM) Given New $77.00 Price Target at Barclays - MarketBeat",
+      "body": "Archer Daniels Midland (NYSE:ADM) Given New $77.00 Price Target at Barclays MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "23fa9463-fe0b-5800-8d26-486acfd9a7aa",
+      "timestamp_utc": "2026-03-31T23:54:41+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/why-is-archer-daniels-midland-company-adm-one-of-the-best-undervalued-defensive-stocks-for-2026/ar-AA1ZnTDq",
+      "title": "Why is Archer-Daniels-Midland Company (ADM) one of the best undervalued defensive stocks for 2026? - MSN",
+      "body": "Why is Archer-Daniels-Midland Company (ADM) one of the best undervalued defensive stocks for 2026? MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

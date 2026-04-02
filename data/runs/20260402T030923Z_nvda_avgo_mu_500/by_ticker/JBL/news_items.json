@@ -1,0 +1,31 @@
+[
+  {
+    "id": "7de9713b-e6a2-5b3c-97ea-8671c7b1d635",
+    "timestamp_utc": "2026-04-01T10:22:12+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT2pwTXBMb3pUeDB5VktuaHRhQTJjblRlejhDU0tGZXNvMDdpZ2tudXA1TDRpVThrNlhfLUx3WmV0cTZHcE5PTFdoekNYZjZjZkItajVGaWRLNndORWRSV2Y3ZWNDVWE1Q3F5UmhPZGIyNHl3VUhGdWdKeXNhUXZtX1NHemhoRVpzeFVqSGpn?oc=5",
+    "title": "Brokered resale notice for Jabil (NYSE: JBL) via UBS Financial Services - Stock Titan",
+    "body": "Brokered resale notice for Jabil (NYSE: JBL) via UBS Financial Services Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "JBL",
+    "tickers_hint": [
+      "JBL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "JBL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

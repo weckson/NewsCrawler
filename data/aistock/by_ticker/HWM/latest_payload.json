@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "e79be20a-4644-57b4-a33b-253073b2113f",
+      "timestamp_utc": "2026-04-01T06:37:39+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbU92MFdnTHVjWEtjYkJpaW1ONURJLUlwX09qeENmQkhnYnUweXc1TGJiYXAwU2U2UW84aEY0TXpqMlRXbmRybmp2TXFvVGczVG1IVkJuTjBLck82TnU3aHBLTDVMWTVNM0EzMkNzcGtCRFVKMnpYWG9GVEVOVEpfU0NBdjNpTjRpMHNQSlgtek44V3pGOFVJclF6N1BCWENxM0ZhaHBKRFlTQkExWmVjQ2tDSmZicnBTQW9rV2ZWVlBhYURDeWpGQVB1cEU?oc=5",
+      "title": "Wells Fargo Initiates Coverage on Howmet Aerospace (HWM) with Eq - GuruFocus",
+      "body": "Wells Fargo Initiates Coverage on Howmet Aerospace (HWM) with Eq GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "HWM",
+      "tickers_hint": [
+        "HWM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HWM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "e79be20a-4644-57b4-a33b-253073b2113f",
+      "timestamp_utc": "2026-04-01T06:37:39+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbU92MFdnTHVjWEtjYkJpaW1ONURJLUlwX09qeENmQkhnYnUweXc1TGJiYXAwU2U2UW84aEY0TXpqMlRXbmRybmp2TXFvVGczVG1IVkJuTjBLck82TnU3aHBLTDVMWTVNM0EzMkNzcGtCRFVKMnpYWG9GVEVOVEpfU0NBdjNpTjRpMHNQSlgtek44V3pGOFVJclF6N1BCWENxM0ZhaHBKRFlTQkExWmVjQ2tDSmZicnBTQW9rV2ZWVlBhYURDeWpGQVB1cEU?oc=5",
+      "title": "Wells Fargo Initiates Coverage on Howmet Aerospace (HWM) with Eq - GuruFocus",
+      "body": "Wells Fargo Initiates Coverage on Howmet Aerospace (HWM) with Eq GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "HWM",
+      "tickers_hint": [
+        "HWM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HWM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

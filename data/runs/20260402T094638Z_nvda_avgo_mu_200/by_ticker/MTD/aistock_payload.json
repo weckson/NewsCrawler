@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "adce60b4-460f-5c6d-8a5f-338218b34fe4",
+      "timestamp_utc": "2026-04-01T03:58:28+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/MTD/earnings",
+      "title": "MTD Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "MTD Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "MTD",
+      "tickers_hint": [
+        "MTD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MTD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "adce60b4-460f-5c6d-8a5f-338218b34fe4",
+      "timestamp_utc": "2026-04-01T03:58:28+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/MTD/earnings",
+      "title": "MTD Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "MTD Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "MTD",
+      "tickers_hint": [
+        "MTD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MTD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "62e5d51d-8629-5c1f-96d9-8d8aa151533f",
+      "timestamp_utc": "2026-04-01T08:24:07+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/piper-sandler-has-lowered-expectations-for-medtronic-nysemdt-stock-price-2026-04-01/",
+      "title": "Piper Sandler Has Lowered Expectations for Medtronic (NYSE:MDT) Stock Price - MarketBeat",
+      "body": "Piper Sandler Has Lowered Expectations for Medtronic (NYSE:MDT) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MDT",
+      "tickers_hint": [
+        "MDT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MDT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d8a78b92-7c3d-56ea-be48-c8d7bd66c624",
+      "timestamp_utc": "2026-03-31T23:02:08+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-capital-advisors-inc-ok-grows-stock-position-in-medtronic-plc-mdt-2026-04-01/",
+      "title": "Capital Advisors Inc. OK Grows Stock Position in Medtronic PLC $MDT - MarketBeat",
+      "body": "Capital Advisors Inc. OK Grows Stock Position in Medtronic PLC $MDT MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MDT",
+      "tickers_hint": [
+        "MDT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MDT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7f754d21-f973-5b1b-963b-0aa8a10870f9",
+      "timestamp_utc": "2026-03-31T21:10:57+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-medtronic-plc-mdt-stake-lessened-by-allspring-global-investments-holdings-llc-2026-04-01/",
+      "title": "Medtronic PLC $MDT Stake Lessened by Allspring Global Investments Holdings LLC - MarketBeat",
+      "body": "Medtronic PLC $MDT Stake Lessened by Allspring Global Investments Holdings LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MDT",
+      "tickers_hint": [
+        "MDT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MDT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1b26e547-61a6-53c1-b90e-c131668c093b",
+      "timestamp_utc": "2026-04-01T02:28:00+00:00",
+      "source": "finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS21kbi1JYW50MENockxlRC1BNFFCYll6VkpKdWltcFYtOGRqOXo1VDJvRl9nelB4N1l4WTNXOFYtSnBURXBUWHc0Snhobjc0bGdEb1Z1Z3BhV0htekZtUnpRbXVpYnZmaEhzTWljMmM4bGdRSVRvWm1xTlBCRmIxaDl6RElldjVyakhUay1zdEZzdmtwa3Nr?oc=5",
+      "title": "MDT Stock May Gain From FDA's Nod for Stealth AXiS Surgical System - finance.yahoo.com",
+      "body": "MDT Stock May Gain From FDA's Nod for Stealth AXiS Surgical System finance.yahoo.com",
+      "author": null,
+      "language": "en",
+      "ticker": "MDT",
+      "tickers_hint": [
+        "MDT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "finance.yahoo.com",
+        "source_domain": "financeyahoocom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MDT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "62e5d51d-8629-5c1f-96d9-8d8aa151533f",
+      "timestamp_utc": "2026-04-01T08:24:07+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/piper-sandler-has-lowered-expectations-for-medtronic-nysemdt-stock-price-2026-04-01/",
+      "title": "Piper Sandler Has Lowered Expectations for Medtronic (NYSE:MDT) Stock Price - MarketBeat",
+      "body": "Piper Sandler Has Lowered Expectations for Medtronic (NYSE:MDT) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MDT",
+      "tickers_hint": [
+        "MDT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MDT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d8a78b92-7c3d-56ea-be48-c8d7bd66c624",
+      "timestamp_utc": "2026-03-31T23:02:08+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-capital-advisors-inc-ok-grows-stock-position-in-medtronic-plc-mdt-2026-04-01/",
+      "title": "Capital Advisors Inc. OK Grows Stock Position in Medtronic PLC $MDT - MarketBeat",
+      "body": "Capital Advisors Inc. OK Grows Stock Position in Medtronic PLC $MDT MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MDT",
+      "tickers_hint": [
+        "MDT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MDT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7f754d21-f973-5b1b-963b-0aa8a10870f9",
+      "timestamp_utc": "2026-03-31T21:10:57+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-medtronic-plc-mdt-stake-lessened-by-allspring-global-investments-holdings-llc-2026-04-01/",
+      "title": "Medtronic PLC $MDT Stake Lessened by Allspring Global Investments Holdings LLC - MarketBeat",
+      "body": "Medtronic PLC $MDT Stake Lessened by Allspring Global Investments Holdings LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MDT",
+      "tickers_hint": [
+        "MDT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MDT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1b26e547-61a6-53c1-b90e-c131668c093b",
+      "timestamp_utc": "2026-04-01T02:28:00+00:00",
+      "source": "finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS21kbi1JYW50MENockxlRC1BNFFCYll6VkpKdWltcFYtOGRqOXo1VDJvRl9nelB4N1l4WTNXOFYtSnBURXBUWHc0Snhobjc0bGdEb1Z1Z3BhV0htekZtUnpRbXVpYnZmaEhzTWljMmM4bGdRSVRvWm1xTlBCRmIxaDl6RElldjVyakhUay1zdEZzdmtwa3Nr?oc=5",
+      "title": "MDT Stock May Gain From FDA's Nod for Stealth AXiS Surgical System - finance.yahoo.com",
+      "body": "MDT Stock May Gain From FDA's Nod for Stealth AXiS Surgical System finance.yahoo.com",
+      "author": null,
+      "language": "en",
+      "ticker": "MDT",
+      "tickers_hint": [
+        "MDT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "finance.yahoo.com",
+        "source_domain": "financeyahoocom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MDT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

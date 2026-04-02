@@ -1,0 +1,60 @@
+[
+  {
+    "id": "fd6326b1-5b86-55ad-aec3-5bbafac37b7f",
+    "timestamp_utc": "2026-03-31T08:33:45+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8762030/barclays-lowers-price-target-for-vulcan-materials-vmc-to-296-vmc-stock-news?mobile=true",
+    "title": "Barclays Lowers Price Target for Vulcan Materials (VMC) to $296 - GuruFocus",
+    "body": "Barclays Lowers Price Target for Vulcan Materials (VMC) to $296 GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "VMC",
+    "tickers_hint": [
+      "VMC"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "VMC"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "7799707e-d5de-51a4-bc10-016ef160d3bc",
+    "timestamp_utc": "2026-04-01T08:52:58+00:00",
+    "source": "gurufocus",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMGN1OXA1czhDQjF3d25hMDhJZ05pR29xODduZnB2NUY5bnNLUTBvZl94TEdJRWFQcmpIU3Q4SE1oNnRUTzExS1pmeVczUDBwdWw4N25OWHpTT0t0a2tVbWl3cVR5SUtNVlFoaEZ6UVRpY0ZocG9rTHhRRjJLM3lDZUNvcVhGcmNxN3Bobm92Z0h4U09ScWlwQ0s1UHdRV05WTnFIZA?oc=5",
+    "title": "Vulcan Materials Co (VMC) Stock Price Up 3.24% on Apr 1 - GuruFocus",
+    "body": "Vulcan Materials Co (VMC) Stock Price Up 3.24% on Apr 1 GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "VMC",
+    "tickers_hint": [
+      "VMC"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "VMC"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

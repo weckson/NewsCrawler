@@ -1,0 +1,89 @@
+[
+  {
+    "id": "d0a3300c-11d6-5a5f-98ce-6b89f2fd3561",
+    "timestamp_utc": "2026-04-01T08:34:24+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8765687/oppenheimer-raises-biogen-biib-price-target-to-275-maintains-outperform-rating-biib-stock-news",
+    "title": "Oppenheimer Raises Biogen (BIIB) Price Target to $275, Maintains Outperform Rating | BIIB Stock News - GuruFocus",
+    "body": "Oppenheimer Raises Biogen (BIIB) Price Target to $275, Maintains Outperform Rating | BIIB Stock News GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "BIIB",
+    "tickers_hint": [
+      "BIIB"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.7000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "BIIB"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "eafc955d-043d-5e74-9709-c66ca612f095",
+    "timestamp_utc": "2026-04-01T11:11:34+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8766064/canaccord-genuity-raises-price-target-for-biogen-biib-to-245-biib-stock-news",
+    "title": "Canaccord Genuity Raises Price Target for Biogen (BIIB) to $245 - GuruFocus",
+    "body": "Canaccord Genuity Raises Price Target for Biogen (BIIB) to $245 GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "BIIB",
+    "tickers_hint": [
+      "BIIB"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "BIIB"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "4a59de7a-c851-5f92-9bb2-681ac3b0dfc2",
+    "timestamp_utc": "2026-04-01T00:19:48+00:00",
+    "source": "intellectia_ai",
+    "url": "https://intellectia.ai/en/stock/BIIB/technical",
+    "title": "BIIB Technical Analysis & Stock Price Forecast - Intellectia AI",
+    "body": "BIIB Technical Analysis & Stock Price Forecast Intellectia AI",
+    "author": null,
+    "language": "en",
+    "ticker": "BIIB",
+    "tickers_hint": [
+      "BIIB"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "intellectia ai",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Intellectia AI",
+      "source_domain": "intellectiaai.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "BIIB"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

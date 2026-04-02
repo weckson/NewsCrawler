@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "fde2cfa7-3560-5177-afdc-5fd62130e7ee",
+      "timestamp_utc": "2026-04-01T08:03:52+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/why-is-nrg-nrg-down-177-since-last-earnings-report/ar-AA1Ztebk?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "title": "Why is NRG (NRG) down 17.7% since last earnings report? - MSN",
+      "body": "Why is NRG (NRG) down 17.7% since last earnings report? MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "NRG",
+      "tickers_hint": [
+        "NRG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "NRG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d3937b0c-d534-5171-9477-6c6e06d5059f",
+      "timestamp_utc": "2026-03-31T07:42:08+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8761620/nrg-energy-nrg-analyst-ratings-update-barclays-lowers-price-target-nrg-stock-news?mobile=true",
+      "title": "NRG Energy (NRG) Analyst Ratings Update: Barclays Lowers Price T - GuruFocus",
+      "body": "NRG Energy (NRG) Analyst Ratings Update: Barclays Lowers Price T GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "NRG",
+      "tickers_hint": [
+        "NRG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "NRG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6ab4e805-5e98-5f5a-970d-4947b153ca2f",
+      "timestamp_utc": "2026-03-31T19:32:30+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/NRG/technical",
+      "title": "NRG Technical Analysis & Stock Price Forecast - Intellectia AI",
+      "body": "NRG Technical Analysis & Stock Price Forecast Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "NRG",
+      "tickers_hint": [
+        "NRG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "NRG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "fde2cfa7-3560-5177-afdc-5fd62130e7ee",
+      "timestamp_utc": "2026-04-01T08:03:52+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/why-is-nrg-nrg-down-177-since-last-earnings-report/ar-AA1Ztebk?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "title": "Why is NRG (NRG) down 17.7% since last earnings report? - MSN",
+      "body": "Why is NRG (NRG) down 17.7% since last earnings report? MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "NRG",
+      "tickers_hint": [
+        "NRG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "NRG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d3937b0c-d534-5171-9477-6c6e06d5059f",
+      "timestamp_utc": "2026-03-31T07:42:08+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8761620/nrg-energy-nrg-analyst-ratings-update-barclays-lowers-price-target-nrg-stock-news?mobile=true",
+      "title": "NRG Energy (NRG) Analyst Ratings Update: Barclays Lowers Price T - GuruFocus",
+      "body": "NRG Energy (NRG) Analyst Ratings Update: Barclays Lowers Price T GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "NRG",
+      "tickers_hint": [
+        "NRG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "NRG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6ab4e805-5e98-5f5a-970d-4947b153ca2f",
+      "timestamp_utc": "2026-03-31T19:32:30+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/NRG/technical",
+      "title": "NRG Technical Analysis & Stock Price Forecast - Intellectia AI",
+      "body": "NRG Technical Analysis & Stock Price Forecast Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "NRG",
+      "tickers_hint": [
+        "NRG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "NRG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

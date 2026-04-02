@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "0beb02c6-3244-5874-ae12-9b93eef09f9c",
+      "timestamp_utc": "2026-03-31T04:40:57+00:00",
+      "source": "insider_monkey",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRnNyTklacFljNEFuVlp0YTdUSWhJdjEzczZlVlZnZ3lqaVRseHdGdEFIeGdVZG9JTUlGYlBveWZBN0hTcHRKRnY4U2dUMkxILVRFU1o4M3FVZ2hUUWZDWlBjbjU4ekxnaC1mU0xPSExfWDIyaHJHcjRxQWtzdU1pQ0VUSkZqTG1qUDJ5SHdoQU11Tm1BLVRrV09yRWg5UDVjMUEyREtnMGLSAagBQVVfeXFMTUZzck5JWnBZYzRBblZadGE3VEloSXYxM3M2ZVZWZ2d5amlUbHh3RnRBSHhnVWRvSU1JRmJQb3lmQTdIU3B0SkZ2OFNnVDJMSC1URVNaODNxVWdoVFFmQ1pQY241OHpMZ2gtZlNMT0hMX1gyMmhyR3I0cUFrc3VNaUNFVEpGakxtalAyeUh3aEFNdU5tQS1Ua1dPckVoOVA1YzFBMkRLZzBi?oc=5",
+      "title": "Here’s Why Parnassus Mid Cap Fund Sold CoStar Group (CSGP) - Insider Monkey",
+      "body": "Here’s Why Parnassus Mid Cap Fund Sold CoStar Group (CSGP) Insider Monkey",
+      "author": null,
+      "language": "en",
+      "ticker": "CSGP",
+      "tickers_hint": [
+        "CSGP"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "insidermonkey.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Insider Monkey",
+        "source_domain": "insidermonkey.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CSGP"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "80f3ebac-0a4c-5991-a512-9de6d5e616fe",
+      "timestamp_utc": "2026-04-01T00:22:58+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/CSGP/technical",
+      "title": "CSGP Technical Analysis & Stock Price Forecast - Intellectia AI",
+      "body": "CSGP Technical Analysis & Stock Price Forecast Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "CSGP",
+      "tickers_hint": [
+        "CSGP"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CSGP"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "0beb02c6-3244-5874-ae12-9b93eef09f9c",
+      "timestamp_utc": "2026-03-31T04:40:57+00:00",
+      "source": "insider_monkey",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRnNyTklacFljNEFuVlp0YTdUSWhJdjEzczZlVlZnZ3lqaVRseHdGdEFIeGdVZG9JTUlGYlBveWZBN0hTcHRKRnY4U2dUMkxILVRFU1o4M3FVZ2hUUWZDWlBjbjU4ekxnaC1mU0xPSExfWDIyaHJHcjRxQWtzdU1pQ0VUSkZqTG1qUDJ5SHdoQU11Tm1BLVRrV09yRWg5UDVjMUEyREtnMGLSAagBQVVfeXFMTUZzck5JWnBZYzRBblZadGE3VEloSXYxM3M2ZVZWZ2d5amlUbHh3RnRBSHhnVWRvSU1JRmJQb3lmQTdIU3B0SkZ2OFNnVDJMSC1URVNaODNxVWdoVFFmQ1pQY241OHpMZ2gtZlNMT0hMX1gyMmhyR3I0cUFrc3VNaUNFVEpGakxtalAyeUh3aEFNdU5tQS1Ua1dPckVoOVA1YzFBMkRLZzBi?oc=5",
+      "title": "Here’s Why Parnassus Mid Cap Fund Sold CoStar Group (CSGP) - Insider Monkey",
+      "body": "Here’s Why Parnassus Mid Cap Fund Sold CoStar Group (CSGP) Insider Monkey",
+      "author": null,
+      "language": "en",
+      "ticker": "CSGP",
+      "tickers_hint": [
+        "CSGP"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "insidermonkey.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Insider Monkey",
+        "source_domain": "insidermonkey.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CSGP"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "80f3ebac-0a4c-5991-a512-9de6d5e616fe",
+      "timestamp_utc": "2026-04-01T00:22:58+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/CSGP/technical",
+      "title": "CSGP Technical Analysis & Stock Price Forecast - Intellectia AI",
+      "body": "CSGP Technical Analysis & Stock Price Forecast Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "CSGP",
+      "tickers_hint": [
+        "CSGP"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CSGP"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

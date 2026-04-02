@@ -1,0 +1,31 @@
+[
+  {
+    "id": "06534362-c0de-57b0-849f-070e4c91ed50",
+    "timestamp_utc": "2026-04-01T05:36:57+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/td-cowen-issues-positive-forecast-for-clorox-nyseclx-stock-price-2026-04-01/",
+    "title": "TD Cowen Issues Positive Forecast for Clorox (NYSE:CLX) Stock Price - MarketBeat",
+    "body": "TD Cowen Issues Positive Forecast for Clorox (NYSE:CLX) Stock Price MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "CLX",
+    "tickers_hint": [
+      "CLX"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "CLX"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

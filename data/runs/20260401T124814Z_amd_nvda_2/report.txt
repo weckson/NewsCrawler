@@ -1,0 +1,129 @@
+
+============================================================================================
+  2-ticker watchlist NEWS REPORT — Quality Filtered, 2026-04-01 23:48
+============================================================================================
+
+  CRAWL STATS:
+  Channel                      Raw Description
+  ------------------------- ------ ----------------------------------------
+  AMD-IR                        10 Official AMD Investor Relations press releases RSS
+  BZ-via-Google                400 Google News filtered to site:benzinga.com
+  Google-broad                 400 Google News all financial sources
+  TOTAL                        810
+
+  QUALITY PIPELINE:
+    Raw articles:        810
+    After quality filter:   16  (removed 794 junk/irrelevant/dupes)
+    New saved to DB:      16
+    Benzinga articles:     0  (direct Benzinga coverage)
+    Watchlist tickers:     2
+
+  TICKER COVERAGE:
+    NVDA     11
+    AMD       5
+
+  ANTI-SCRAPE STRATEGY:
+    - Benzinga HTML: SKIPPED (Cloudflare JS challenge blocks simple HTTP)
+    - Benzinga RSS:  /feed + /news/feed (no CF, structured XML)
+    - Google->BZ:    site:benzinga.com (Google already crawled, no CF)
+    - Polite crawl:  2s delay, standard UA, no JS execution needed
+
+  ── OTHER SOURCES (16) ──
+
+    1. [low] [04-01 01:13] [rel:0.65] [Google-broad]
+       Advanced Micro Devices, Inc. $AMD Shares Acquired by Highline Wealth Partners LLC
+       Source: MarketBeat
+       > Advanced Micro Devices, Inc. $AMD Shares Acquired by Highline Wealth Partners LLC MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-advanced-micro-devices-inc-amd-shares-acquired-by-highline-wealth-partn
+
+    2. [low] [04-01 01:13] [rel:0.65] [Google-broad]
+       Advanced Micro Devices, Inc. $AMD is Gunderson Capital Management Inc.'s 8th Largest Position
+       Source: MarketBeat
+       > Advanced Micro Devices, Inc. $AMD is Gunderson Capital Management Inc.'s 8th Largest Position MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-advanced-micro-devices-inc-amd-is-gunderson-capital-management-incs-8th
+
+    3. [low] [04-01 01:05] [rel:0.65] [Google-broad]
+       Nisa Investment Advisors LLC Boosts Stock Position in Advanced Micro Devices, Inc. $AMD
+       Source: MarketBeat
+       > Nisa Investment Advisors LLC Boosts Stock Position in Advanced Micro Devices, Inc. $AMD MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-nisa-investment-advisors-llc-boosts-stock-position-in-advanced-micro-de
+
+    4. [low] [04-01 00:06] [rel:0.65] [Google-broad]
+       Advanced Micro Devices, Inc. $AMD Stake Reduced by J. Safra Sarasin Holding AG
+       Source: MarketBeat
+       > Advanced Micro Devices, Inc. $AMD Stake Reduced by J. Safra Sarasin Holding AG MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-advanced-micro-devices-inc-amd-stake-reduced-by-j-safra-sarasin-holding
+
+    5. [low] [03-31 16:05] [rel:0.60] [Google-broad]
+       Advanced Micro Devices Stock Maintains Bullish Outlook Amid Global Tensions
+       Source: AD HOC NEWS
+       > Advanced Micro Devices Stock Maintains Bullish Outlook Amid Global Tensions AD HOC NEWS
+       https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmJMTGpnaE8zclRua05XeGU4OE5HNUoteTN6R1dlSngwZ19NSWktOUhBa3pMZ3NqLVQ
+
+    6. [TOP] [04-01 01:34] [rel:0.65] [Google-broad]
+       Nvidia Stock (NVDA) Braces for a Quick Snapback after a Rare Two-Quarter Losing Streak
+       Source: TipRanks
+       > Nvidia Stock (NVDA) Braces for a Quick Snapback after a Rare Two-Quarter Losing Streak TipRanks
+       https://www.tipranks.com/news/nvidia-stock-braces-for-a-quick-snapback-after-a-rare-two-quarter-losing-streak
+
+    7. [TOP] [04-01 01:29] [rel:0.65] [Google-broad]
+       NVDA Stock Forecast: Why Nvidia Is Building Stakes in Chip Makers
+       Source: TipRanks
+       > NVDA Stock Forecast: Why Nvidia Is Building Stakes in Chip Makers TipRanks
+       https://www.tipranks.com/news/nvda-stock-forecast-why-nvidia-is-building-stakes-in-chip-makers
+
+    8. [TOP] [03-31 14:37] [rel:0.60] [Google-broad]
+       Nvidia (NVDA) Stock Trades Up, Here Is Why
+       Source: Yahoo Finance
+       > Nvidia (NVDA) Stock Trades Up, Here Is Why Yahoo Finance
+       https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-trades-why-003719723.html
+
+    9. [TOP] [03-31 22:55] [rel:0.50] [Google-broad]
+       Is It Too Late to Buy Nvidia Stock?
+       Source: The Motley Fool
+       > Is It Too Late to Buy Nvidia Stock? The Motley Fool
+       https://news.google.com/rss/articles/CBMigwFBVV95cUxNa05fRlBVdXkyLWVfRnNyZXdXU2g0LVRzcHhmMjlXQXZsMDRwN2FTd21rRkJ4RFJyaWx
+
+   10. [low] [03-31 21:51] [rel:0.75] [Google-broad]
+       Nvidia (NVDA) Stock: Climbs Almost 6% as $2B Marvell AI Deal Expands Custom Chip Ecosystem
+       Source: CoinCentral
+       > Nvidia (NVDA) Stock: Climbs Almost 6% as $2B Marvell AI Deal Expands Custom Chip Ecosystem CoinCentral
+       https://coincentral.com/nvidia-stock-climbs-6-percent-2b-marvell-ai-deal-custom-chip-ecosystem/
+
+   11. [low] [04-01 01:49] [rel:0.65] [Google-broad]
+       Willner & Heller LLC Increases Stock Position in NVIDIA Corporation $NVDA
+       Source: MarketBeat
+       > Willner & Heller LLC Increases Stock Position in NVIDIA Corporation $NVDA MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-willner-heller-llc-increases-stock-position-in-nvidia-corporation-nvda-
+
+   12. [low] [03-31 23:41] [rel:0.65] [Google-broad]
+       GenWealth Group Inc. Takes $624,000 Position in NVIDIA Corporation $NVDA
+       Source: MarketBeat
+       > GenWealth Group Inc. Takes $624,000 Position in NVIDIA Corporation $NVDA MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-genwealth-group-inc-takes-624000-position-in-nvidia-corporation-nvda-20
+
+   13. [low] [03-31 21:53] [rel:0.65] [Google-broad]
+       NVIDIA Corporation $NVDA Stock Position Lowered by Evolution Wealth Advisors LLC
+       Source: MarketBeat
+       > NVIDIA Corporation $NVDA Stock Position Lowered by Evolution Wealth Advisors LLC MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-stock-position-lowered-by-evolution-wealth-advi
+
+   14. [low] [03-31 21:53] [rel:0.65] [Google-broad]
+       NVIDIA Corporation $NVDA is Czech National Bank's Largest Position
+       Source: MarketBeat
+       > NVIDIA Corporation $NVDA is Czech National Bank's Largest Position MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-is-czech-national-banks-largest-position-2026-0
+
+   15. [low] [03-31 21:53] [rel:0.65] [Google-broad]
+       Defender Capital LLC. Invests $1.03 Million in NVIDIA Corporation $NVDA
+       Source: MarketBeat
+       > Defender Capital LLC. Invests $1.03 Million in NVIDIA Corporation $NVDA MarketBeat
+       https://news.google.com/rss/articles/CBMixwFBVV95cUxOTjhMcVZKTzZCeGZkRGFqSmVoNWFEdU5rclA4NV9sSWlVeVBlbElQaDZxRXJUYjVBX3J
+
+   16. [low] [03-31 21:42] [rel:0.65] [Google-broad]
+       NVIDIA Corporation $NVDA Stake Lifted by Connective Portfolio Management LLC
+       Source: MarketBeat
+       > NVIDIA Corporation $NVDA Stake Lifted by Connective Portfolio Management LLC MarketBeat
+       https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ3cxb2V3Mm1NWVpjdnoyTDB1aVdwTlB6SGdNMUQ3UFk0bWpvR2UxQXhNVDdqMlNhakV
+
+============================================================================================

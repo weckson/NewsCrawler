@@ -1,0 +1,245 @@
+[2m2026-03-30T02:57:21.708127Z[0m [[32m[1minfo     [0m] [1mrun_start                     [0m [36mhours[0m=[35m48[0m [36mrun_dir[0m=[35mdata\runs\20260330T025721Z_amd_nvda_intc_20[0m [36mtickers[0m=[35m['AMD', 'NVDA', 'INTC', 'AVGO', 'TSM', 'QCOM', 'MU', 'MRVL', 'ARM', 'ADI', 'NXPI', 'ON', 'MPWR', 'MCHP', 'ASML', 'AMAT', 'LRCX', 'KLAC', 'TER', 'TXN'][0m
+[2m2026-03-30T02:57:21.710874Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35m'AMD IR'[0m [36mtag[0m=[35mamd_ir[0m
+[2m2026-03-30T02:57:23.896518Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35mhttps://ir.amd.com/news-events/press-releases/rss[0m
+[2m2026-03-30T02:57:23.902076Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mamd_ir[0m [36mraw[0m=[35m10[0m
+[2m2026-03-30T02:57:23.902155Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35mGoogle->Benzinga[0m [36mtag[0m=[35mgoogle_benzinga[0m
+[2m2026-03-30T02:57:26.558520Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=AMD+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:57:26.664913Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:57:29.203545Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=AMD%2BAdvanced%2BMicro%2BDevices+site:benzinga.com&hl'[0m
+[2m2026-03-30T02:57:29.313734Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:57:29.313831Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35m'Google News (all)'[0m [36mtag[0m=[35mgoogle_broad[0m
+[2m2026-03-30T02:57:31.919784Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=AMD%2BAdvanced%2BMicro%2BDevices+stock+news&hl=en-US&'[0m
+[2m2026-03-30T02:57:32.027315Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:57:34.706885Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=AMD%2BAdvanced%2BMicro%2BDevices+earnings+analysis&hl'[0m
+[2m2026-03-30T02:57:34.821511Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:57:34.823563Z[0m [[32m[1minfo     [0m] [1mquality_filter                [0m [36minput[0m=[35m410[0m [36mpassed[0m=[35m6[0m
+[2m2026-03-30T02:57:34.824247Z[0m [[32m[1minfo     [0m] [1mdedup                         [0m [36mafter[0m=[35m5[0m [36mbefore[0m=[35m6[0m
+[2m2026-03-30T02:57:34.824973Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35mGoogle->Benzinga[0m [36mtag[0m=[35mgoogle_benzinga[0m
+[2m2026-03-30T02:57:37.451181Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=NVDA+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:57:37.559692Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:57:40.093187Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=NVDA%2BNVIDIA+site:benzinga.com&hl=en-US&gl=US&ceid=U'[0m
+[2m2026-03-30T02:57:40.202771Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:57:40.202904Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35m'Google News (all)'[0m [36mtag[0m=[35mgoogle_broad[0m
+[2m2026-03-30T02:57:42.767521Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=NVDA%2BNVIDIA+stock+news&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:57:42.876482Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:57:45.458237Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=NVDA%2BNVIDIA+earnings+analysis&hl=en-US&gl=US&ceid=U'[0m
+[2m2026-03-30T02:57:45.561146Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:57:45.562420Z[0m [[32m[1minfo     [0m] [1mquality_filter                [0m [36minput[0m=[35m400[0m [36mpassed[0m=[35m8[0m
+[2m2026-03-30T02:57:45.562990Z[0m [[32m[1minfo     [0m] [1mdedup                         [0m [36mafter[0m=[35m8[0m [36mbefore[0m=[35m8[0m
+[2m2026-03-30T02:57:45.563637Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35mGoogle->Benzinga[0m [36mtag[0m=[35mgoogle_benzinga[0m
+[2m2026-03-30T02:57:48.890600Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=INTC+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:57:48.999864Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:57:51.490035Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=INTC%2BIntel+site:benzinga.com&hl=en-US&gl=US&ceid=US'[0m
+[2m2026-03-30T02:57:51.600665Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:57:51.600757Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35m'Google News (all)'[0m [36mtag[0m=[35mgoogle_broad[0m
+[2m2026-03-30T02:57:54.146414Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=INTC%2BIntel+stock+news&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:57:54.249138Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:57:56.962306Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=INTC%2BIntel+earnings+analysis&hl=en-US&gl=US&ceid=US'[0m
+[2m2026-03-30T02:57:57.066161Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:57:57.066813Z[0m [[32m[1minfo     [0m] [1mquality_filter                [0m [36minput[0m=[35m400[0m [36mpassed[0m=[35m0[0m
+[2m2026-03-30T02:57:57.066870Z[0m [[32m[1minfo     [0m] [1mdedup                         [0m [36mafter[0m=[35m0[0m [36mbefore[0m=[35m0[0m
+[2m2026-03-30T02:57:57.067407Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35mGoogle->Benzinga[0m [36mtag[0m=[35mgoogle_benzinga[0m
+[2m2026-03-30T02:57:59.677990Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=AVGO+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:57:59.787592Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:58:01.806108Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=AVGO+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:58:01.836150Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:58:01.836238Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35m'Google News (all)'[0m [36mtag[0m=[35mgoogle_broad[0m
+[2m2026-03-30T02:58:04.307435Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=AVGO+stock+news&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:58:04.400743Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:58:07.004782Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=AVGO+earnings+analysis&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:58:07.105551Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:58:07.106240Z[0m [[32m[1minfo     [0m] [1mquality_filter                [0m [36minput[0m=[35m400[0m [36mpassed[0m=[35m0[0m
+[2m2026-03-30T02:58:07.106305Z[0m [[32m[1minfo     [0m] [1mdedup                         [0m [36mafter[0m=[35m0[0m [36mbefore[0m=[35m0[0m
+[2m2026-03-30T02:58:07.106878Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35mGoogle->Benzinga[0m [36mtag[0m=[35mgoogle_benzinga[0m
+[2m2026-03-30T02:58:09.835332Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=TSM+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:58:09.928447Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:58:11.943888Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=TSM+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:58:11.968805Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:58:11.968900Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35m'Google News (all)'[0m [36mtag[0m=[35mgoogle_broad[0m
+[2m2026-03-30T02:58:14.806113Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=TSM+stock+news&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:58:14.856646Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:58:17.326894Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=TSM+earnings+analysis&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:58:17.365484Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m75[0m
+[2m2026-03-30T02:58:17.366183Z[0m [[32m[1minfo     [0m] [1mquality_filter                [0m [36minput[0m=[35m375[0m [36mpassed[0m=[35m1[0m
+[2m2026-03-30T02:58:17.366323Z[0m [[32m[1minfo     [0m] [1mdedup                         [0m [36mafter[0m=[35m1[0m [36mbefore[0m=[35m1[0m
+[2m2026-03-30T02:58:17.366900Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35mGoogle->Benzinga[0m [36mtag[0m=[35mgoogle_benzinga[0m
+[2m2026-03-30T02:58:20.043684Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=QCOM+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:58:20.142345Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:58:22.161734Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=QCOM+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:58:22.182176Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:58:22.182280Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35m'Google News (all)'[0m [36mtag[0m=[35mgoogle_broad[0m
+[2m2026-03-30T02:58:24.753576Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=QCOM+stock+news&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:58:24.852030Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:58:27.401284Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=QCOM+earnings+analysis&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:58:27.494327Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m88[0m
+[2m2026-03-30T02:58:27.494991Z[0m [[32m[1minfo     [0m] [1mquality_filter                [0m [36minput[0m=[35m388[0m [36mpassed[0m=[35m1[0m
+[2m2026-03-30T02:58:27.495097Z[0m [[32m[1minfo     [0m] [1mdedup                         [0m [36mafter[0m=[35m1[0m [36mbefore[0m=[35m1[0m
+[2m2026-03-30T02:58:27.495640Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35mGoogle->Benzinga[0m [36mtag[0m=[35mgoogle_benzinga[0m
+[2m2026-03-30T02:58:30.188857Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=MU+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:58:30.297963Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:58:32.306094Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=MU+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:58:32.332299Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:58:32.332387Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35m'Google News (all)'[0m [36mtag[0m=[35mgoogle_broad[0m
+[2m2026-03-30T02:58:35.087454Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=MU+stock+news&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:58:35.178733Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:58:37.831015Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=MU+earnings+analysis&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:58:37.936700Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:58:37.937592Z[0m [[32m[1minfo     [0m] [1mquality_filter                [0m [36minput[0m=[35m400[0m [36mpassed[0m=[35m7[0m
+[2m2026-03-30T02:58:37.938037Z[0m [[32m[1minfo     [0m] [1mdedup                         [0m [36mafter[0m=[35m7[0m [36mbefore[0m=[35m7[0m
+[2m2026-03-30T02:58:37.938576Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35mGoogle->Benzinga[0m [36mtag[0m=[35mgoogle_benzinga[0m
+[2m2026-03-30T02:58:40.530794Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=MRVL+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:58:40.639509Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:58:42.668815Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=MRVL+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:58:42.696462Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:58:42.696543Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35m'Google News (all)'[0m [36mtag[0m=[35mgoogle_broad[0m
+[2m2026-03-30T02:58:45.277043Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=MRVL+stock+news&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:58:45.380900Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:58:47.952218Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=MRVL+earnings+analysis&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:58:48.059146Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:58:48.059878Z[0m [[32m[1minfo     [0m] [1mquality_filter                [0m [36minput[0m=[35m400[0m [36mpassed[0m=[35m2[0m
+[2m2026-03-30T02:58:48.060042Z[0m [[32m[1minfo     [0m] [1mdedup                         [0m [36mafter[0m=[35m2[0m [36mbefore[0m=[35m2[0m
+[2m2026-03-30T02:58:48.060584Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35mGoogle->Benzinga[0m [36mtag[0m=[35mgoogle_benzinga[0m
+[2m2026-03-30T02:58:50.733567Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=ARM+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:58:50.828926Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:58:52.846884Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=ARM+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:58:52.869559Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:58:52.869654Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35m'Google News (all)'[0m [36mtag[0m=[35mgoogle_broad[0m
+[2m2026-03-30T02:58:55.556573Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=ARM+stock+news&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:58:55.667655Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:58:58.155241Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=ARM+earnings+analysis&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:58:58.247033Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m74[0m
+[2m2026-03-30T02:58:58.247772Z[0m [[32m[1minfo     [0m] [1mquality_filter                [0m [36minput[0m=[35m374[0m [36mpassed[0m=[35m2[0m
+[2m2026-03-30T02:58:58.247927Z[0m [[32m[1minfo     [0m] [1mdedup                         [0m [36mafter[0m=[35m2[0m [36mbefore[0m=[35m2[0m
+[2m2026-03-30T02:58:58.248466Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35mGoogle->Benzinga[0m [36mtag[0m=[35mgoogle_benzinga[0m
+[2m2026-03-30T02:59:00.891240Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=ADI+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:59:00.998419Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:59:03.014054Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=ADI+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:59:03.038685Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:59:03.038772Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35m'Google News (all)'[0m [36mtag[0m=[35mgoogle_broad[0m
+[2m2026-03-30T02:59:05.584281Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=ADI+stock+news&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:59:05.691189Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:59:08.119270Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=ADI+earnings+analysis&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:59:08.143191Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m52[0m
+[2m2026-03-30T02:59:08.143845Z[0m [[32m[1minfo     [0m] [1mquality_filter                [0m [36minput[0m=[35m352[0m [36mpassed[0m=[35m0[0m
+[2m2026-03-30T02:59:08.143903Z[0m [[32m[1minfo     [0m] [1mdedup                         [0m [36mafter[0m=[35m0[0m [36mbefore[0m=[35m0[0m
+[2m2026-03-30T02:59:08.144439Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35mGoogle->Benzinga[0m [36mtag[0m=[35mgoogle_benzinga[0m
+[2m2026-03-30T02:59:10.626901Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=NXPI+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:59:10.643920Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m40[0m
+[2m2026-03-30T02:59:12.656465Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=NXPI+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:59:12.667449Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m40[0m
+[2m2026-03-30T02:59:12.667529Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35m'Google News (all)'[0m [36mtag[0m=[35mgoogle_broad[0m
+[2m2026-03-30T02:59:15.253459Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=NXPI+stock+news&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:59:15.357699Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:59:17.746676Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=NXPI+earnings+analysis&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:59:17.755796Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m33[0m
+[2m2026-03-30T02:59:17.756333Z[0m [[32m[1minfo     [0m] [1mquality_filter                [0m [36minput[0m=[35m213[0m [36mpassed[0m=[35m0[0m
+[2m2026-03-30T02:59:17.756388Z[0m [[32m[1minfo     [0m] [1mdedup                         [0m [36mafter[0m=[35m0[0m [36mbefore[0m=[35m0[0m
+[2m2026-03-30T02:59:17.756885Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35mGoogle->Benzinga[0m [36mtag[0m=[35mgoogle_benzinga[0m
+[2m2026-03-30T02:59:20.398328Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=ON+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:59:20.508897Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:59:22.529322Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=ON+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:59:22.554333Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:59:22.554422Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35m'Google News (all)'[0m [36mtag[0m=[35mgoogle_broad[0m
+[2m2026-03-30T02:59:25.068039Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=ON+stock+news&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:59:25.158922Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m97[0m
+[2m2026-03-30T02:59:27.745103Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=ON+earnings+analysis&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:59:27.856315Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:59:27.857540Z[0m [[32m[1minfo     [0m] [1mquality_filter                [0m [36minput[0m=[35m397[0m [36mpassed[0m=[35m9[0m
+[2m2026-03-30T02:59:27.858240Z[0m [[32m[1minfo     [0m] [1mdedup                         [0m [36mafter[0m=[35m5[0m [36mbefore[0m=[35m9[0m
+[2m2026-03-30T02:59:27.858794Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35mGoogle->Benzinga[0m [36mtag[0m=[35mgoogle_benzinga[0m
+[2m2026-03-30T02:59:30.311190Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=MPWR+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:59:30.318881Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m23[0m
+[2m2026-03-30T02:59:32.341640Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=MPWR+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:59:32.349268Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m23[0m
+[2m2026-03-30T02:59:32.349349Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35m'Google News (all)'[0m [36mtag[0m=[35mgoogle_broad[0m
+[2m2026-03-30T02:59:34.855331Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=MPWR+stock+news&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:59:34.960407Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m96[0m
+[2m2026-03-30T02:59:37.363618Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=MPWR+earnings+analysis&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:59:37.390041Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m51[0m
+[2m2026-03-30T02:59:37.390565Z[0m [[32m[1minfo     [0m] [1mquality_filter                [0m [36minput[0m=[35m193[0m [36mpassed[0m=[35m0[0m
+[2m2026-03-30T02:59:37.390622Z[0m [[32m[1minfo     [0m] [1mdedup                         [0m [36mafter[0m=[35m0[0m [36mbefore[0m=[35m0[0m
+[2m2026-03-30T02:59:37.391142Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35mGoogle->Benzinga[0m [36mtag[0m=[35mgoogle_benzinga[0m
+[2m2026-03-30T02:59:39.845159Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=MCHP+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:59:39.859549Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m33[0m
+[2m2026-03-30T02:59:41.874309Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=MCHP+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:59:41.884181Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m33[0m
+[2m2026-03-30T02:59:41.884261Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35m'Google News (all)'[0m [36mtag[0m=[35mgoogle_broad[0m
+[2m2026-03-30T02:59:44.385359Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=MCHP+stock+news&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:59:44.487261Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:59:46.875051Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=MCHP+earnings+analysis&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:59:46.883077Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m24[0m
+[2m2026-03-30T02:59:46.883586Z[0m [[32m[1minfo     [0m] [1mquality_filter                [0m [36minput[0m=[35m190[0m [36mpassed[0m=[35m0[0m
+[2m2026-03-30T02:59:46.883676Z[0m [[32m[1minfo     [0m] [1mdedup                         [0m [36mafter[0m=[35m0[0m [36mbefore[0m=[35m0[0m
+[2m2026-03-30T02:59:46.884178Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35mGoogle->Benzinga[0m [36mtag[0m=[35mgoogle_benzinga[0m
+[2m2026-03-30T02:59:49.490710Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=ASML+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:59:49.599390Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:59:51.625252Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=ASML+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:59:51.651280Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:59:51.651364Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35m'Google News (all)'[0m [36mtag[0m=[35mgoogle_broad[0m
+[2m2026-03-30T02:59:54.210964Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=ASML+stock+news&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:59:54.316534Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:59:56.906172Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=ASML+earnings+analysis&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:59:57.022598Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T02:59:57.023643Z[0m [[32m[1minfo     [0m] [1mquality_filter                [0m [36minput[0m=[35m400[0m [36mpassed[0m=[35m2[0m
+[2m2026-03-30T02:59:57.023894Z[0m [[32m[1minfo     [0m] [1mdedup                         [0m [36mafter[0m=[35m2[0m [36mbefore[0m=[35m2[0m
+[2m2026-03-30T02:59:57.024833Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35mGoogle->Benzinga[0m [36mtag[0m=[35mgoogle_benzinga[0m
+[2m2026-03-30T02:59:59.572812Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=AMAT+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T02:59:59.679946Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T03:00:01.713056Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=AMAT+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T03:00:01.733435Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T03:00:01.733515Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35m'Google News (all)'[0m [36mtag[0m=[35mgoogle_broad[0m
+[2m2026-03-30T03:00:04.354096Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=AMAT+stock+news&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T03:00:04.456054Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T03:00:06.898315Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=AMAT+earnings+analysis&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T03:00:06.992637Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m73[0m
+[2m2026-03-30T03:00:06.993224Z[0m [[32m[1minfo     [0m] [1mquality_filter                [0m [36minput[0m=[35m373[0m [36mpassed[0m=[35m0[0m
+[2m2026-03-30T03:00:06.993282Z[0m [[32m[1minfo     [0m] [1mdedup                         [0m [36mafter[0m=[35m0[0m [36mbefore[0m=[35m0[0m
+[2m2026-03-30T03:00:06.993799Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35mGoogle->Benzinga[0m [36mtag[0m=[35mgoogle_benzinga[0m
+[2m2026-03-30T03:00:09.589428Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=LRCX+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T03:00:09.613215Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m58[0m
+[2m2026-03-30T03:00:11.638729Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=LRCX+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T03:00:11.654107Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m58[0m
+[2m2026-03-30T03:00:11.654202Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35m'Google News (all)'[0m [36mtag[0m=[35mgoogle_broad[0m
+[2m2026-03-30T03:00:14.313936Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=LRCX+stock+news&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T03:00:14.370882Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T03:00:16.804863Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=LRCX+earnings+analysis&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T03:00:16.826718Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m50[0m
+[2m2026-03-30T03:00:16.827304Z[0m [[32m[1minfo     [0m] [1mquality_filter                [0m [36minput[0m=[35m266[0m [36mpassed[0m=[35m0[0m
+[2m2026-03-30T03:00:16.827364Z[0m [[32m[1minfo     [0m] [1mdedup                         [0m [36mafter[0m=[35m0[0m [36mbefore[0m=[35m0[0m
+[2m2026-03-30T03:00:16.827929Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35mGoogle->Benzinga[0m [36mtag[0m=[35mgoogle_benzinga[0m
+[2m2026-03-30T03:00:19.349177Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=KLAC+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T03:00:19.385610Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m62[0m
+[2m2026-03-30T03:00:21.399280Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=KLAC+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T03:00:21.417224Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m62[0m
+[2m2026-03-30T03:00:21.417315Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35m'Google News (all)'[0m [36mtag[0m=[35mgoogle_broad[0m
+[2m2026-03-30T03:00:23.932499Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=KLAC+stock+news&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T03:00:24.038821Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T03:00:26.483228Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=KLAC+earnings+analysis&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T03:00:26.513945Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m57[0m
+[2m2026-03-30T03:00:26.514534Z[0m [[32m[1minfo     [0m] [1mquality_filter                [0m [36minput[0m=[35m281[0m [36mpassed[0m=[35m0[0m
+[2m2026-03-30T03:00:26.514589Z[0m [[32m[1minfo     [0m] [1mdedup                         [0m [36mafter[0m=[35m0[0m [36mbefore[0m=[35m0[0m
+[2m2026-03-30T03:00:26.515108Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35mGoogle->Benzinga[0m [36mtag[0m=[35mgoogle_benzinga[0m
+[2m2026-03-30T03:00:29.084326Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=TER+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T03:00:29.174045Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T03:00:31.193993Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=TER+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T03:00:31.216270Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T03:00:31.216352Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35m'Google News (all)'[0m [36mtag[0m=[35mgoogle_broad[0m
+[2m2026-03-30T03:00:33.745066Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=TER+stock+news&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T03:00:33.844621Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m91[0m
+[2m2026-03-30T03:00:36.317528Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=TER+earnings+analysis&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T03:00:36.366882Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m56[0m
+[2m2026-03-30T03:00:36.367953Z[0m [[32m[1minfo     [0m] [1mquality_filter                [0m [36minput[0m=[35m347[0m [36mpassed[0m=[35m3[0m
+[2m2026-03-30T03:00:36.368309Z[0m [[32m[1minfo     [0m] [1mdedup                         [0m [36mafter[0m=[35m1[0m [36mbefore[0m=[35m3[0m
+[2m2026-03-30T03:00:36.368985Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35mGoogle->Benzinga[0m [36mtag[0m=[35mgoogle_benzinga[0m
+[2m2026-03-30T03:00:38.938047Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=TXN+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T03:00:38.990954Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T03:00:41.011270Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=TXN+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T03:00:41.037637Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T03:00:41.037765Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35m'Google News (all)'[0m [36mtag[0m=[35mgoogle_broad[0m
+[2m2026-03-30T03:00:43.514400Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=TXN+stock+news&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T03:00:43.611341Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-30T03:00:46.039048Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=TXN+earnings+analysis&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-30T03:00:46.069049Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m53[0m
+[2m2026-03-30T03:00:46.069575Z[0m [[32m[1minfo     [0m] [1mquality_filter                [0m [36minput[0m=[35m353[0m [36mpassed[0m=[35m0[0m
+[2m2026-03-30T03:00:46.069628Z[0m [[32m[1minfo     [0m] [1mdedup                         [0m [36mafter[0m=[35m0[0m [36mbefore[0m=[35m0[0m
+[2m2026-03-30T03:00:46.202482Z[0m [[32m[1minfo     [0m] [1mrun_complete                  [0m [36mfiltered[0m=[35m33[0m [36mlog_path[0m=[35mdata\runs\20260330T025721Z_amd_nvda_intc_20\run.log[0m [36mnews_items[0m=[35m33[0m [36mraw[0m=[35m6912[0m [36mrun_dir[0m=[35mdata\runs\20260330T025721Z_amd_nvda_intc_20[0m

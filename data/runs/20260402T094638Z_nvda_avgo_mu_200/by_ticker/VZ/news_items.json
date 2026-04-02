@@ -1,0 +1,60 @@
+[
+  {
+    "id": "8047a475-135f-5bed-9aa3-0386b683bdea",
+    "timestamp_utc": "2026-04-01T11:45:51+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/verizon-communications-nysevz-stock-price-down-16-time-to-sell-2026-04-01/",
+    "title": "Verizon Communications (NYSE:VZ) Stock Price Down 1.6% - Time to Sell? - MarketBeat",
+    "body": "Verizon Communications (NYSE:VZ) Stock Price Down 1.6% - Time to Sell? MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "VZ",
+    "tickers_hint": [
+      "VZ"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "VZ"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "07ff3d84-8f5f-50f3-96f4-72fd913648b3",
+    "timestamp_utc": "2026-04-01T11:45:05+00:00",
+    "source": "finance.yahoo.com",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcWdONl9PYVJoUEQ0dGFmMUozMU9RZkRBOVc1RGpFeld2cl8xUmQ1c2RxaHpLM0tFUzlBM25ZckVBSnlSbElSMjZJZ3hweFI2eUFMT1FkaXJENjN5Rm5zNzdqajBzaERwdHkwa3JDWmlyelI4MndXa2VlWUVRQVhCU1VuazhjOHo0eHRSX0x2d1NYZHZlVWNjcVl1UG8xbmtWQVJhcXZxUWQ?oc=5",
+    "title": "Verizon Communications (VZ) Stock Declines While Market Improves: Some Information for Investors - finance.yahoo.com",
+    "body": "Verizon Communications (VZ) Stock Declines While Market Improves: Some Information for Investors finance.yahoo.com",
+    "author": null,
+    "language": "en",
+    "ticker": "VZ",
+    "tickers_hint": [
+      "VZ"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "finance.yahoo.com",
+      "source_domain": "financeyahoocom.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "VZ"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

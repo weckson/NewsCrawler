@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "78bf9e0d-bf4d-5598-8b35-b10d3cb144bf",
+      "timestamp_utc": "2026-03-31T22:17:18+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObzRjNFVKMy1CdTNCWTBwX2hvRi0td0dlWlo2TUEyS3h2RjRvT1BHRVBLSFFYZ1RPc1VpVTdVY3FlU2xLZGo3VXR6UWFsZ0xrX2JXWWpRcnZMWjhaa0J6Y0w4TlY4OGp4dHIwaE5haWg4Y2EtMmhBV1hISWQ5ak1GY1NncEtIWGJhYlVDQThNR0Y4NTEwelhGd2R5Z05Jd2p0MkpRWThScWNtWlRfSGNuRUF3?oc=5",
+      "title": "Cummins Inc. $CMI Shares Purchased by Fifth Third Wealth Advisors LLC - Defense World",
+      "body": "Cummins Inc. $CMI Shares Purchased by Fifth Third Wealth Advisors LLC Defense World",
+      "author": null,
+      "language": "en",
+      "ticker": "CMI",
+      "tickers_hint": [
+        "CMI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CMI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "78bf9e0d-bf4d-5598-8b35-b10d3cb144bf",
+      "timestamp_utc": "2026-03-31T22:17:18+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObzRjNFVKMy1CdTNCWTBwX2hvRi0td0dlWlo2TUEyS3h2RjRvT1BHRVBLSFFYZ1RPc1VpVTdVY3FlU2xLZGo3VXR6UWFsZ0xrX2JXWWpRcnZMWjhaa0J6Y0w4TlY4OGp4dHIwaE5haWg4Y2EtMmhBV1hISWQ5ak1GY1NncEtIWGJhYlVDQThNR0Y4NTEwelhGd2R5Z05Jd2p0MkpRWThScWNtWlRfSGNuRUF3?oc=5",
+      "title": "Cummins Inc. $CMI Shares Purchased by Fifth Third Wealth Advisors LLC - Defense World",
+      "body": "Cummins Inc. $CMI Shares Purchased by Fifth Third Wealth Advisors LLC Defense World",
+      "author": null,
+      "language": "en",
+      "ticker": "CMI",
+      "tickers_hint": [
+        "CMI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CMI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

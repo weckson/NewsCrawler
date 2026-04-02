@@ -1,0 +1,118 @@
+[
+  {
+    "id": "1ce76cf5-ef24-5b39-b94e-de0e6b2e10da",
+    "timestamp_utc": "2026-04-01T11:29:59+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8765875/stz-jp-morgan-raises-price-target-amid-neutral-rating-stz-stock-news",
+    "title": "STZ: JP Morgan Raises Price Target Amid Neutral Rating | STZ Sto - GuruFocus",
+    "body": "STZ: JP Morgan Raises Price Target Amid Neutral Rating | STZ Sto GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "STZ",
+    "tickers_hint": [
+      "STZ"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.7000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "STZ"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "ea5220b1-6096-5a73-90c9-28cf078b9e68",
+    "timestamp_utc": "2026-04-01T06:53:33+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8765462/stz-ubs-maintains-buy-rating-and-raises-price-target-to-176-stz-stock-news",
+    "title": "STZ: UBS Maintains 'Buy' Rating and Raises Price Target to $176 - GuruFocus",
+    "body": "STZ: UBS Maintains 'Buy' Rating and Raises Price Target to $176 GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "STZ",
+    "tickers_hint": [
+      "STZ"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "STZ"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "7475898c-831b-5f9f-b281-b7274f12fef8",
+    "timestamp_utc": "2026-03-31T19:13:59+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/constellation-brands-stz-to-release-earnings-on-wednesday-2026-04-01/",
+    "title": "Constellation Brands (STZ) to Release Earnings on Wednesday - MarketBeat",
+    "body": "Constellation Brands (STZ) to Release Earnings on Wednesday MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "STZ",
+    "tickers_hint": [
+      "STZ"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "STZ"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "7556eb1c-fe8b-56f6-a4de-312f652e4397",
+    "timestamp_utc": "2026-04-01T10:29:34+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-constellation-brands-nysestz-stock-price-2026-04-01/",
+    "title": "JPMorgan Chase & Co. Issues Positive Forecast for Constellation Brands (NYSE:STZ) Stock Price - MarketBeat",
+    "body": "JPMorgan Chase & Co. Issues Positive Forecast for Constellation Brands (NYSE:STZ) Stock Price MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "STZ",
+    "tickers_hint": [
+      "STZ"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "STZ"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

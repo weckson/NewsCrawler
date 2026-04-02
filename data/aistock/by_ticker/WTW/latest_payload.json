@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "a0305e29-1075-5d03-9d48-6ccc568f0126",
+      "timestamp_utc": "2026-04-01T08:55:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdnFmd0pnb1RWOEpJa1ZDLWh2TUVmQndERTRwLVpOb3h4Q2o2d3RtNldKanFiRGhjWk5YTzFnaFdwNEx3a1N2cm9UUVBnclJqSHNtVnp3ZGtUNkJGdUo5bEN5ZkZBNm10SmE5N0NKc003d3AydHVURDZWczNZREoxZjQyQ00tWXdNdExSakFxNE9yUUZFYTZmYQ?oc=5",
+      "title": "WTW buys FlowStone to widen private equity access for investors - Stock Titan",
+      "body": "WTW buys FlowStone to widen private equity access for investors Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "WTW",
+      "tickers_hint": [
+        "WTW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WTW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "a0305e29-1075-5d03-9d48-6ccc568f0126",
+      "timestamp_utc": "2026-04-01T08:55:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdnFmd0pnb1RWOEpJa1ZDLWh2TUVmQndERTRwLVpOb3h4Q2o2d3RtNldKanFiRGhjWk5YTzFnaFdwNEx3a1N2cm9UUVBnclJqSHNtVnp3ZGtUNkJGdUo5bEN5ZkZBNm10SmE5N0NKc003d3AydHVURDZWczNZREoxZjQyQ00tWXdNdExSakFxNE9yUUZFYTZmYQ?oc=5",
+      "title": "WTW buys FlowStone to widen private equity access for investors - Stock Titan",
+      "body": "WTW buys FlowStone to widen private equity access for investors Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "WTW",
+      "tickers_hint": [
+        "WTW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WTW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

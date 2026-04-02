@@ -1,0 +1,544 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "2e1b9229-52e4-5a65-b177-bedab8d1b3a9",
+      "timestamp_utc": "2026-03-31T05:56:26+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLWttRUFObWRYcUhkX2NlQzJBZ2JmalNWbTNSSC1kelFQREJsRjBzeDZjSU9GRXFTaWZmbGxFU0VzMzA0OWwxZ29aVkJvYjRSZnJ2OTJCZ1R4RlQ2RkZHcEVpTjVwamMyUzZUNU9mTHctbFVUUnZTb0pnaHk5QnRCNE5VZDNadmJWZFh4eDM5WXZZNjg?oc=5",
+      "title": "3 Small-Cap Drone Stocks to Buy Right Now - Benzinga",
+      "body": "3 Small-Cap Drone Stocks to Buy Right Now Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "A",
+      "tickers_hint": [
+        "A",
+        "NOW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "A",
+          "NOW"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c3c1a7b7-5a62-57c3-851e-9e9517b5adb1",
+      "timestamp_utc": "2026-03-31T23:10:00+00:00",
+      "source": "motley_fool",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSG5WR2tpRUhfSTNWZy1EcENXT0ZoLTBGV05FYS1ieWlzVS1fd2JZOXJpR1hwdjhwZElPV1pSUEs1azY5T3I3UWdwTlZla0xfTmp4d0FVX3VpNS16SDBLTnRTN1pKMkxHd01Ba2pieHlhZmpmYndaNHhqQTV6LUs5TlBrOERQSzBNQ2ww?oc=5",
+      "title": "Better Stock to Buy Right Now: Costco vs. Amazon - The Motley Fool",
+      "body": "Better Stock to Buy Right Now: Costco vs. Amazon The Motley Fool",
+      "author": null,
+      "language": "en",
+      "ticker": "AMZN",
+      "tickers_hint": [
+        "AMZN",
+        "NOW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "fool.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Motley Fool",
+        "source_domain": "fool.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMZN",
+          "NOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d48d47b7-5c11-5ba3-a185-4023f7d1d614",
+      "timestamp_utc": "2026-03-31T13:04:00+00:00",
+      "source": "motley_fool",
+      "url": "https://www.fool.com/investing/2026/03/31/stock-market-today-live-coverage/",
+      "title": "Stock Market Today (LIVE): What $70 Billion in Deals Signals Now; Wegovy Gets Subscription Pricing - The Motley Fool",
+      "body": "Stock Market Today (LIVE): What $70 Billion in Deals Signals Now; Wegovy Gets Subscription Pricing The Motley Fool",
+      "author": null,
+      "language": "en",
+      "ticker": "NOW",
+      "tickers_hint": [
+        "NOW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "fool.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Motley Fool",
+        "source_domain": "fool.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "NOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "48caf982-990d-542e-a871-85b7ff61bd10",
+      "timestamp_utc": "2026-03-31T10:01:00+00:00",
+      "source": "motley_fool",
+      "url": "https://www.fool.com/investing/2026/03/31/got-10000-this-is-exactly-how-id-split-it-across-t/",
+      "title": "Got $10,000? This Is Exactly How I'd Split It Across These 5 AI Stocks Right Now - The Motley Fool",
+      "body": "Got $10,000? This Is Exactly How I'd Split It Across These 5 AI Stocks Right Now The Motley Fool",
+      "author": null,
+      "language": "en",
+      "ticker": "NOW",
+      "tickers_hint": [
+        "NOW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "fool.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Motley Fool",
+        "source_domain": "fool.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "NOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "186a51b6-bc04-5985-bb5f-c2fed1c03721",
+      "timestamp_utc": "2026-04-01T06:31:00+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaFhBMlpTSk1pNzQzOGdOQU1ZRkNiV1dDeHpPa1dhcXpPSy05d0lhd29ZaUJCTXJQVW9KR2hfNlJrYkZ4WEk0cVNBY2lUcDNmbGhaVnJSSDRfTHN4Vk5kbW5yMTZaM0dqV29fOHNOTk55SzBoYnNXZjR6aWU2OWxmOGlJYzhjS3FFbndJWmFnaUJiZXdCMmJRSW1TaVotamJhcmFiU1Q0ZGVHaXZxcmhWUm1zX2JNR0MwTzBB?oc=5",
+      "title": "ServiceNow Drops 32% Year to Date: Should You Still Buy the Stock? - TradingView",
+      "body": "ServiceNow Drops 32% Year to Date: Should You Still Buy the Stock? TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "NOW",
+      "tickers_hint": [
+        "NOW"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "NOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "10ed19f8-51fb-51e6-9a41-665d587f2532",
+      "timestamp_utc": "2026-04-01T05:02:00+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWld3N2tXQXp6VGFSWG1UZnFmVzVHYnN1aTFjczR6Z3lZTDkxV1poa3NDV1FHX0tvbzRKa0dOMDE3WFJtaGkwZXg4UFYtZ2lPODdQOFNwd0wyXzhNeUZ0ZHJYNFJnanhlQUktaDJ0NW9VWTVDT3FadXpqYTU3WThHR1hfamdlSVZYdHo3bTBDU2h6dTZmZGJpOVZlc3gteVh6N05Ub0lsODlJTmFQSWdidjZhdlI0WDQw?oc=5",
+      "title": "Reasons Why Investors Can Consider Buying H&R Block Stock Now - TradingView",
+      "body": "Reasons Why Investors Can Consider Buying H&R Block Stock Now TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "NOW",
+      "tickers_hint": [
+        "NOW"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "NOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "18da82d1-c4be-50fc-91d8-8c069229480e",
+      "timestamp_utc": "2026-04-01T02:53:00+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWHo3MjVjdi1wd1p5QUZLOU9qYXE4U3htQ3JxUHJoT2ZDYnBOMVZhejZhYUQ4NDRuajVsQ1VVUmhRNWhKOTZtak5NS2hvbkZPY2J4RmZydnhaMHFVc1ljeUE1NzF3WFFodkhzRkhPZzYtQ24wLWlLMm1TMURuYTBIWVhGRHZncnZrZkdxU2xRRzlBNGRlcFZIS1p5RnVycEstT1RQVjNmQWh3X3ZXMFRZ?oc=5",
+      "title": "Here's Why You Should Hold Onto Reliance Stock for Now - TradingView",
+      "body": "Here's Why You Should Hold Onto Reliance Stock for Now TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "NOW",
+      "tickers_hint": [
+        "NOW"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "NOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ae1bac26-4f34-5a59-b91c-80650ed1bb66",
+      "timestamp_utc": "2026-03-31T05:53:03+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8761615/wells-fargo-lowers-price-target-for-servicenow-now-despite-overweight-rating-now-stock-news",
+      "title": "Wells Fargo Lowers Price Target for ServiceNow (NOW) Despite Ove - GuruFocus",
+      "body": "Wells Fargo Lowers Price Target for ServiceNow (NOW) Despite Ove GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "NOW",
+      "tickers_hint": [
+        "NOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "NOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "13d6ecb9-f497-5850-ad2c-4b881573025d",
+      "timestamp_utc": "2026-04-01T05:00:00+00:00",
+      "source": "stock_titan",
+      "url": "https://www.stocktitan.net/news/NOW/service-now-to-announce-first-quarter-2026-financial-results-on-ydy2p6lkzzcm.html",
+      "title": "ServiceNow will report quarterly results after the market closes April 22 - Stock Titan",
+      "body": "Servicenow Inc NYSE:NOW View NOW Stock Overview → NOW Rankings #136 Ranked by Market Cap N/A Ranked by Dividends #1851 52-Week Gainer #1928 YTD Gainer #964 Monthly Gainer #1453 Ranked by Short %Change NOW Latest News Mar 16, 2026 Carahsoft and ServiceNow Expand Partnership to Reach New Industries in the U.S.\n\nand Canada Mar 13, 2026 NYSE Content Update: Two-time Olympic Champions Have a Bell Moment on the Trading Floor Mar 10, 2026 Cohesity and ServiceNow Deliver Real-Time Recovery for Enterprise AI Agents Mar 5, 2026 ServiceNow powers government reinvention with trusted AI that drives mission-critical outcomes at scale Mar 2, 2026 NTT DOCOMO, StarHub, and ServiceNow keep travelers connected with autonomous roaming resolution using ServiceNow CRM NOW Latest SEC Filings Apr 1, 2026 [8-K] ServiceNow, Inc.\n\nReports Material Event Mar 27, 2026 [SCHEDULE 13G/A] ServiceNow, Inc.\n\nAmended Passive Investment Disclosure Mar 2, 2026 [Form 4] ServiceNow, Inc.\n\nInsider Trading Activity Feb 25, 2026 [Form 4] ServiceNow, Inc.\n\nInsider Trading Activity Feb 23, 2026 [144] ServiceNow, Inc.\n\nSEC Filing NOW Stock Data Market Cap 109.80B Float 1.04B Industry Software - Application Sector Services-prepackaged Software Website Link Country United States City SANTA CLARA",
+      "author": null,
+      "language": "en",
+      "ticker": "NOW",
+      "tickers_hint": [
+        "NOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "NOW"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "2e1b9229-52e4-5a65-b177-bedab8d1b3a9",
+      "timestamp_utc": "2026-03-31T05:56:26+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLWttRUFObWRYcUhkX2NlQzJBZ2JmalNWbTNSSC1kelFQREJsRjBzeDZjSU9GRXFTaWZmbGxFU0VzMzA0OWwxZ29aVkJvYjRSZnJ2OTJCZ1R4RlQ2RkZHcEVpTjVwamMyUzZUNU9mTHctbFVUUnZTb0pnaHk5QnRCNE5VZDNadmJWZFh4eDM5WXZZNjg?oc=5",
+      "title": "3 Small-Cap Drone Stocks to Buy Right Now - Benzinga",
+      "body": "3 Small-Cap Drone Stocks to Buy Right Now Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "A",
+      "tickers_hint": [
+        "A",
+        "NOW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "A",
+          "NOW"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c3c1a7b7-5a62-57c3-851e-9e9517b5adb1",
+      "timestamp_utc": "2026-03-31T23:10:00+00:00",
+      "source": "motley_fool",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSG5WR2tpRUhfSTNWZy1EcENXT0ZoLTBGV05FYS1ieWlzVS1fd2JZOXJpR1hwdjhwZElPV1pSUEs1azY5T3I3UWdwTlZla0xfTmp4d0FVX3VpNS16SDBLTnRTN1pKMkxHd01Ba2pieHlhZmpmYndaNHhqQTV6LUs5TlBrOERQSzBNQ2ww?oc=5",
+      "title": "Better Stock to Buy Right Now: Costco vs. Amazon - The Motley Fool",
+      "body": "Better Stock to Buy Right Now: Costco vs. Amazon The Motley Fool",
+      "author": null,
+      "language": "en",
+      "ticker": "AMZN",
+      "tickers_hint": [
+        "AMZN",
+        "NOW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "fool.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Motley Fool",
+        "source_domain": "fool.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMZN",
+          "NOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d48d47b7-5c11-5ba3-a185-4023f7d1d614",
+      "timestamp_utc": "2026-03-31T13:04:00+00:00",
+      "source": "motley_fool",
+      "url": "https://www.fool.com/investing/2026/03/31/stock-market-today-live-coverage/",
+      "title": "Stock Market Today (LIVE): What $70 Billion in Deals Signals Now; Wegovy Gets Subscription Pricing - The Motley Fool",
+      "body": "Stock Market Today (LIVE): What $70 Billion in Deals Signals Now; Wegovy Gets Subscription Pricing The Motley Fool",
+      "author": null,
+      "language": "en",
+      "ticker": "NOW",
+      "tickers_hint": [
+        "NOW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "fool.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Motley Fool",
+        "source_domain": "fool.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "NOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "48caf982-990d-542e-a871-85b7ff61bd10",
+      "timestamp_utc": "2026-03-31T10:01:00+00:00",
+      "source": "motley_fool",
+      "url": "https://www.fool.com/investing/2026/03/31/got-10000-this-is-exactly-how-id-split-it-across-t/",
+      "title": "Got $10,000? This Is Exactly How I'd Split It Across These 5 AI Stocks Right Now - The Motley Fool",
+      "body": "Got $10,000? This Is Exactly How I'd Split It Across These 5 AI Stocks Right Now The Motley Fool",
+      "author": null,
+      "language": "en",
+      "ticker": "NOW",
+      "tickers_hint": [
+        "NOW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "fool.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Motley Fool",
+        "source_domain": "fool.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "NOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "186a51b6-bc04-5985-bb5f-c2fed1c03721",
+      "timestamp_utc": "2026-04-01T06:31:00+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaFhBMlpTSk1pNzQzOGdOQU1ZRkNiV1dDeHpPa1dhcXpPSy05d0lhd29ZaUJCTXJQVW9KR2hfNlJrYkZ4WEk0cVNBY2lUcDNmbGhaVnJSSDRfTHN4Vk5kbW5yMTZaM0dqV29fOHNOTk55SzBoYnNXZjR6aWU2OWxmOGlJYzhjS3FFbndJWmFnaUJiZXdCMmJRSW1TaVotamJhcmFiU1Q0ZGVHaXZxcmhWUm1zX2JNR0MwTzBB?oc=5",
+      "title": "ServiceNow Drops 32% Year to Date: Should You Still Buy the Stock? - TradingView",
+      "body": "ServiceNow Drops 32% Year to Date: Should You Still Buy the Stock? TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "NOW",
+      "tickers_hint": [
+        "NOW"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "NOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "10ed19f8-51fb-51e6-9a41-665d587f2532",
+      "timestamp_utc": "2026-04-01T05:02:00+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWld3N2tXQXp6VGFSWG1UZnFmVzVHYnN1aTFjczR6Z3lZTDkxV1poa3NDV1FHX0tvbzRKa0dOMDE3WFJtaGkwZXg4UFYtZ2lPODdQOFNwd0wyXzhNeUZ0ZHJYNFJnanhlQUktaDJ0NW9VWTVDT3FadXpqYTU3WThHR1hfamdlSVZYdHo3bTBDU2h6dTZmZGJpOVZlc3gteVh6N05Ub0lsODlJTmFQSWdidjZhdlI0WDQw?oc=5",
+      "title": "Reasons Why Investors Can Consider Buying H&R Block Stock Now - TradingView",
+      "body": "Reasons Why Investors Can Consider Buying H&R Block Stock Now TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "NOW",
+      "tickers_hint": [
+        "NOW"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "NOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "18da82d1-c4be-50fc-91d8-8c069229480e",
+      "timestamp_utc": "2026-04-01T02:53:00+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWHo3MjVjdi1wd1p5QUZLOU9qYXE4U3htQ3JxUHJoT2ZDYnBOMVZhejZhYUQ4NDRuajVsQ1VVUmhRNWhKOTZtak5NS2hvbkZPY2J4RmZydnhaMHFVc1ljeUE1NzF3WFFodkhzRkhPZzYtQ24wLWlLMm1TMURuYTBIWVhGRHZncnZrZkdxU2xRRzlBNGRlcFZIS1p5RnVycEstT1RQVjNmQWh3X3ZXMFRZ?oc=5",
+      "title": "Here's Why You Should Hold Onto Reliance Stock for Now - TradingView",
+      "body": "Here's Why You Should Hold Onto Reliance Stock for Now TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "NOW",
+      "tickers_hint": [
+        "NOW"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "NOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ae1bac26-4f34-5a59-b91c-80650ed1bb66",
+      "timestamp_utc": "2026-03-31T05:53:03+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8761615/wells-fargo-lowers-price-target-for-servicenow-now-despite-overweight-rating-now-stock-news",
+      "title": "Wells Fargo Lowers Price Target for ServiceNow (NOW) Despite Ove - GuruFocus",
+      "body": "Wells Fargo Lowers Price Target for ServiceNow (NOW) Despite Ove GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "NOW",
+      "tickers_hint": [
+        "NOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "NOW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "13d6ecb9-f497-5850-ad2c-4b881573025d",
+      "timestamp_utc": "2026-04-01T05:00:00+00:00",
+      "source": "stock_titan",
+      "url": "https://www.stocktitan.net/news/NOW/service-now-to-announce-first-quarter-2026-financial-results-on-ydy2p6lkzzcm.html",
+      "title": "ServiceNow will report quarterly results after the market closes April 22 - Stock Titan",
+      "body": "Servicenow Inc NYSE:NOW View NOW Stock Overview → NOW Rankings #136 Ranked by Market Cap N/A Ranked by Dividends #1851 52-Week Gainer #1928 YTD Gainer #964 Monthly Gainer #1453 Ranked by Short %Change NOW Latest News Mar 16, 2026 Carahsoft and ServiceNow Expand Partnership to Reach New Industries in the U.S.\n\nand Canada Mar 13, 2026 NYSE Content Update: Two-time Olympic Champions Have a Bell Moment on the Trading Floor Mar 10, 2026 Cohesity and ServiceNow Deliver Real-Time Recovery for Enterprise AI Agents Mar 5, 2026 ServiceNow powers government reinvention with trusted AI that drives mission-critical outcomes at scale Mar 2, 2026 NTT DOCOMO, StarHub, and ServiceNow keep travelers connected with autonomous roaming resolution using ServiceNow CRM NOW Latest SEC Filings Apr 1, 2026 [8-K] ServiceNow, Inc.\n\nReports Material Event Mar 27, 2026 [SCHEDULE 13G/A] ServiceNow, Inc.\n\nAmended Passive Investment Disclosure Mar 2, 2026 [Form 4] ServiceNow, Inc.\n\nInsider Trading Activity Feb 25, 2026 [Form 4] ServiceNow, Inc.\n\nInsider Trading Activity Feb 23, 2026 [144] ServiceNow, Inc.\n\nSEC Filing NOW Stock Data Market Cap 109.80B Float 1.04B Industry Software - Application Sector Services-prepackaged Software Website Link Country United States City SANTA CLARA",
+      "author": null,
+      "language": "en",
+      "ticker": "NOW",
+      "tickers_hint": [
+        "NOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "NOW"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

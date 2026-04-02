@@ -1,0 +1,31 @@
+[
+  {
+    "id": "badf6486-e03e-574a-a9ca-a1aa81caae42",
+    "timestamp_utc": "2026-04-01T03:11:33+00:00",
+    "source": "tikr.com",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSUtSdnZrejFfWGFsQlRZOFdqX19WbUU4SXN6MWt6Y19iZUc3LVRjQzJ6b1V1bkVPTXNWNC1sVnU2Tk01X2pQLUY4QW1xLWhuYWQ2bWNVTnZrOWhnUjFKVk0tSjlUbnFRa2R5cnB2ckFUZ2pxUUFTenB2ZDZSaE1GSUlTMF81Q201LVliR0gxRzJ0b0ZOcDYwMUFmTWx5aXBY?oc=5",
+    "title": "UPS Stock Is Up 20% Over the Past 6 Months. Here’s Why the Valuation Matters - TIKR.com",
+    "body": "UPS Stock Is Up 20% Over the Past 6 Months. Here’s Why the Valuation Matters TIKR.com",
+    "author": null,
+    "language": "en",
+    "ticker": "UPS",
+    "tickers_hint": [
+      "UPS"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "tikr.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "TIKR.com",
+      "source_domain": "tikrcom.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "UPS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

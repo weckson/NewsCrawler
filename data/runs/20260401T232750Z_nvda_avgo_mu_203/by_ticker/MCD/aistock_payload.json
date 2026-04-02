@@ -1,0 +1,246 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "dc753ba1-bad6-5d7d-81f4-7d76b0b8189d",
+      "timestamp_utc": "2026-04-01T05:12:00+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTRKT0hsTlc4UVVHSEdxYkYxWGFqalVoZkw5STVjU1pvOWFINWM5dHB0Q0ZfbEVOOENGM3VHaklhS01td2lBMXRleU5aeFY4Z2ZZNVJqWmpiZ3pqdVR4dW1Ea0padlYtb0kzcUo1Y0o1N2dOa08tX0VxVVdjU1RrSkZfMXZySzRiYm91c0dtTFI0Q2ZoSm5GX0laT09vWHhFTklURWxaQjVLaUVGNVJN?oc=5",
+      "title": "Can McDonald's Tap a $100B Beverage Opportunity in 2026? - TradingView",
+      "body": "Can McDonald's Tap a $100B Beverage Opportunity in 2026? TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "MCD",
+      "tickers_hint": [
+        "MCD"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "47d07a3a-aead-5a36-8fff-f065c645064c",
+      "timestamp_utc": "2026-03-30T23:43:17+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mn-services-vermogensbeheer-bv-buys-5599-shares-of-mcdonalds-corporation-mcd-2026-03-31/",
+      "title": "Mn Services Vermogensbeheer B.V. Buys 5,599 Shares of McDonald's Corporation $MCD - MarketBeat",
+      "body": "Mn Services Vermogensbeheer B.V. Buys 5,599 Shares of McDonald's Corporation $MCD MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MCD",
+      "tickers_hint": [
+        "MCD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "cf13295a-4b73-5f41-9f2c-07c96d1464a1",
+      "timestamp_utc": "2026-04-01T11:50:02+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcVctQ0ZlOWJmbG1vNlJYZG16ZUh0TTFJYmpqWXN3RFFXMHpFcnVyQnlkR1EycEVLc3dFQTBfeExXZzJ6Q3I1WDNydGpKN0poNm5NTlEzbk15ajBfSlRfUUplNlVtOWJOM2JlY280OFNPTWNwYTJnY2p2ZHRFcFBlOE0zeVlhUQ?oc=5",
+      "title": "McDonald's (MCD) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance Singapore",
+      "body": "McDonald's (MCD) Stock Falls Amid Market Uptick: What Investors Need to Know Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "MCD",
+      "tickers_hint": [
+        "MCD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "311acb1d-d18f-5c34-8f8a-37da4ec2631b",
+      "timestamp_utc": "2026-04-01T06:48:27+00:00",
+      "source": "benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEVadFBlLWoyOTdKOGN1YzVpSThQRU9KanYxenFlWU1LSnh6bjgzS2dJODFLREVzMS00SVVZUHJYOW9SRkVUOVdqTGFHQm8zaXdhX1ZsdklkcTVqZnZOclo3S1AxdmZZSXhTQ2x6ZmFMX2RKVFhtZDA3U01GT1NSTHFxRV9FTVhnd3JESXNHc0hlSmhWSWJWd291ZjdnZjdrYnVINy1scWwtYU1TRUV5NXVwN1k?oc=5",
+      "title": "Involution In China Consumer Market Sparks New 'Races To The Bottom' - Walt Disney (NYSE:DIS), McDonald's - benzinga.com",
+      "body": "Involution In China Consumer Market Sparks New 'Races To The Bottom' - Walt Disney (NYSE:DIS), McDonald's benzinga.com",
+      "author": null,
+      "language": "en",
+      "ticker": "MCD",
+      "tickers_hint": [
+        "MCD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "benzinga.com",
+        "source_domain": "benzingacom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCD"
+        ],
+        "alt_sources": [
+          "benzinga.com"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "dc753ba1-bad6-5d7d-81f4-7d76b0b8189d",
+      "timestamp_utc": "2026-04-01T05:12:00+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTRKT0hsTlc4UVVHSEdxYkYxWGFqalVoZkw5STVjU1pvOWFINWM5dHB0Q0ZfbEVOOENGM3VHaklhS01td2lBMXRleU5aeFY4Z2ZZNVJqWmpiZ3pqdVR4dW1Ea0padlYtb0kzcUo1Y0o1N2dOa08tX0VxVVdjU1RrSkZfMXZySzRiYm91c0dtTFI0Q2ZoSm5GX0laT09vWHhFTklURWxaQjVLaUVGNVJN?oc=5",
+      "title": "Can McDonald's Tap a $100B Beverage Opportunity in 2026? - TradingView",
+      "body": "Can McDonald's Tap a $100B Beverage Opportunity in 2026? TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "MCD",
+      "tickers_hint": [
+        "MCD"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "47d07a3a-aead-5a36-8fff-f065c645064c",
+      "timestamp_utc": "2026-03-30T23:43:17+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mn-services-vermogensbeheer-bv-buys-5599-shares-of-mcdonalds-corporation-mcd-2026-03-31/",
+      "title": "Mn Services Vermogensbeheer B.V. Buys 5,599 Shares of McDonald's Corporation $MCD - MarketBeat",
+      "body": "Mn Services Vermogensbeheer B.V. Buys 5,599 Shares of McDonald's Corporation $MCD MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MCD",
+      "tickers_hint": [
+        "MCD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "cf13295a-4b73-5f41-9f2c-07c96d1464a1",
+      "timestamp_utc": "2026-04-01T11:50:02+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcVctQ0ZlOWJmbG1vNlJYZG16ZUh0TTFJYmpqWXN3RFFXMHpFcnVyQnlkR1EycEVLc3dFQTBfeExXZzJ6Q3I1WDNydGpKN0poNm5NTlEzbk15ajBfSlRfUUplNlVtOWJOM2JlY280OFNPTWNwYTJnY2p2ZHRFcFBlOE0zeVlhUQ?oc=5",
+      "title": "McDonald's (MCD) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance Singapore",
+      "body": "McDonald's (MCD) Stock Falls Amid Market Uptick: What Investors Need to Know Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "MCD",
+      "tickers_hint": [
+        "MCD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "311acb1d-d18f-5c34-8f8a-37da4ec2631b",
+      "timestamp_utc": "2026-04-01T06:48:27+00:00",
+      "source": "benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEVadFBlLWoyOTdKOGN1YzVpSThQRU9KanYxenFlWU1LSnh6bjgzS2dJODFLREVzMS00SVVZUHJYOW9SRkVUOVdqTGFHQm8zaXdhX1ZsdklkcTVqZnZOclo3S1AxdmZZSXhTQ2x6ZmFMX2RKVFhtZDA3U01GT1NSTHFxRV9FTVhnd3JESXNHc0hlSmhWSWJWd291ZjdnZjdrYnVINy1scWwtYU1TRUV5NXVwN1k?oc=5",
+      "title": "Involution In China Consumer Market Sparks New 'Races To The Bottom' - Walt Disney (NYSE:DIS), McDonald's - benzinga.com",
+      "body": "Involution In China Consumer Market Sparks New 'Races To The Bottom' - Walt Disney (NYSE:DIS), McDonald's benzinga.com",
+      "author": null,
+      "language": "en",
+      "ticker": "MCD",
+      "tickers_hint": [
+        "MCD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "benzinga.com",
+        "source_domain": "benzingacom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCD"
+        ],
+        "alt_sources": [
+          "benzinga.com"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

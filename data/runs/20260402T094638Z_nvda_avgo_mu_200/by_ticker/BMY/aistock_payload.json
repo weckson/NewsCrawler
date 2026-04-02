@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "b4013b10-3bbd-50f5-9193-4e030ff5dd9e",
+      "timestamp_utc": "2026-04-01T06:10:03+00:00",
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bristol-myers-bmy-beat-estimates-161003771.html",
+      "title": "Will Bristol Myers (BMY) Beat Estimates Again in Its Next Earnings Report? - finance.yahoo.com",
+      "body": "Will Bristol Myers (BMY) Beat Estimates Again in Its Next Earnings Report? finance.yahoo.com",
+      "author": null,
+      "language": "en",
+      "ticker": "BMY",
+      "tickers_hint": [
+        "BMY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "finance.yahoo.com",
+        "source_domain": "financeyahoocom.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "BMY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "23b7f51d-0dc8-5a9e-9b56-5fb5acd455d4",
+      "timestamp_utc": "2026-04-01T10:01:07+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/bristol-myers-squibb-target-of-unusually-high-options-trading-nysebmy-2026-04-01/",
+      "title": "Bristol Myers Squibb Target of Unusually High Options Trading (NYSE:BMY) - MarketBeat",
+      "body": "Bristol Myers Squibb Target of Unusually High Options Trading (NYSE:BMY) MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "BMY",
+      "tickers_hint": [
+        "BMY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "BMY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b94d6a57-caf8-50b3-8934-3b76250cda9a",
+      "timestamp_utc": "2026-04-01T00:44:46+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bristol-myers-squibb-company-bmy-shares-bought-by-nisa-investment-advisors-llc-2026-04-01/",
+      "title": "Bristol Myers Squibb Company $BMY Shares Bought by Nisa Investment Advisors LLC - MarketBeat",
+      "body": "Bristol Myers Squibb Company $BMY Shares Bought by Nisa Investment Advisors LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "BMY",
+      "tickers_hint": [
+        "BMY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "BMY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "b4013b10-3bbd-50f5-9193-4e030ff5dd9e",
+      "timestamp_utc": "2026-04-01T06:10:03+00:00",
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bristol-myers-bmy-beat-estimates-161003771.html",
+      "title": "Will Bristol Myers (BMY) Beat Estimates Again in Its Next Earnings Report? - finance.yahoo.com",
+      "body": "Will Bristol Myers (BMY) Beat Estimates Again in Its Next Earnings Report? finance.yahoo.com",
+      "author": null,
+      "language": "en",
+      "ticker": "BMY",
+      "tickers_hint": [
+        "BMY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "finance.yahoo.com",
+        "source_domain": "financeyahoocom.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "BMY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "23b7f51d-0dc8-5a9e-9b56-5fb5acd455d4",
+      "timestamp_utc": "2026-04-01T10:01:07+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/bristol-myers-squibb-target-of-unusually-high-options-trading-nysebmy-2026-04-01/",
+      "title": "Bristol Myers Squibb Target of Unusually High Options Trading (NYSE:BMY) - MarketBeat",
+      "body": "Bristol Myers Squibb Target of Unusually High Options Trading (NYSE:BMY) MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "BMY",
+      "tickers_hint": [
+        "BMY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "BMY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b94d6a57-caf8-50b3-8934-3b76250cda9a",
+      "timestamp_utc": "2026-04-01T00:44:46+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bristol-myers-squibb-company-bmy-shares-bought-by-nisa-investment-advisors-llc-2026-04-01/",
+      "title": "Bristol Myers Squibb Company $BMY Shares Bought by Nisa Investment Advisors LLC - MarketBeat",
+      "body": "Bristol Myers Squibb Company $BMY Shares Bought by Nisa Investment Advisors LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "BMY",
+      "tickers_hint": [
+        "BMY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "BMY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "0d786958-f4ca-5f9b-b171-ea00e7a34056",
+      "timestamp_utc": "2026-03-31T11:14:18+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8762636/jkhy-initiated-with-a-buy-rating-by-loop-capital-jkhy-stock-news",
+      "title": "JKHY Initiated with a 'Buy' Rating by Loop Capital | JKHY Stock News - GuruFocus",
+      "body": "JKHY Initiated with a 'Buy' Rating by Loop Capital | JKHY Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "JKHY",
+      "tickers_hint": [
+        "JKHY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "JKHY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "0d786958-f4ca-5f9b-b171-ea00e7a34056",
+      "timestamp_utc": "2026-03-31T11:14:18+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8762636/jkhy-initiated-with-a-buy-rating-by-loop-capital-jkhy-stock-news",
+      "title": "JKHY Initiated with a 'Buy' Rating by Loop Capital | JKHY Stock News - GuruFocus",
+      "body": "JKHY Initiated with a 'Buy' Rating by Loop Capital | JKHY Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "JKHY",
+      "tickers_hint": [
+        "JKHY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "JKHY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

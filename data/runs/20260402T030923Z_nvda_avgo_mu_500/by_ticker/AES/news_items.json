@@ -1,0 +1,60 @@
+[
+  {
+    "id": "489144eb-0875-5600-93d0-0806c04b5459",
+    "timestamp_utc": "2026-04-01T05:30:02+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-aes-aes-down-0-153002281.html",
+    "title": "Why Is AES (AES) Down 0.6% Since Last Earnings Report? - Yahoo Finance",
+    "body": "Why Is AES (AES) Down 0.6% Since Last Earnings Report? Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "AES",
+    "tickers_hint": [
+      "AES"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.7000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "AES"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "dac36de9-1854-565b-a397-976bcdcd83f9",
+    "timestamp_utc": "2026-04-01T02:30:00+00:00",
+    "source": "stock_titan",
+    "url": "https://www.stocktitan.net/news/AES/aes-announces-successful-completion-of-consent-solicitation-for-its-ijpdcua2r5xg.html",
+    "title": "AES clears 2028 note changes, trimming merger backstop commitments - Stock Titan",
+    "body": "Aes Corp NYSE:AES View AES Stock Overview → AES Rankings #918 Ranked by Market Cap #534 Ranked by Dividends #808 52-Week Gainer #1225 YTD Gainer #592 Monthly Gainer #640 Ranked by Short %Change AES Latest News Apr 1, 2026 IPALCO Enterprises, Inc.\n\nAnnounces Extension of Expiration Time for Previously Announced Consent Solicitations Apr 1, 2026 DPL LLC Announces Extension of Expiration Time for Previously Announced Consent Solicitation Mar 30, 2026 IPALCO Enterprises, Inc.\n\nAnnounces Extension of Expiration Time for Previously Announced Consent Solicitations Mar 30, 2026 DPL LLC Announces Extension of Expiration Time for Previously Announced Consent Solicitation Mar 30, 2026 AES Announces Extension of Consent Solicitation for its 2028 Notes AES Latest SEC Filings Mar 26, 2026 [SCHEDULE 13G/A] AES CORP Amended Passive Investment Disclosure Mar 20, 2026 [ARS] AES CORP SEC Filing Mar 20, 2026 [DEF 14A] AES CORP Definitive Proxy Statement Mar 19, 2026 [8-K] AES CORP Reports Material Event Mar 2, 2026 [10-K] AES CORP Files Annual Report AES Stock Data Market Cap 10.05B Float 708.98M Industry Utilities - Diversified Sector Cogeneration Services & Small Power Producers Website Link Country United States City ARLINGTON",
+    "author": null,
+    "language": "en",
+    "ticker": "AES",
+    "tickers_hint": [
+      "AES"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "AES"
+      ],
+      "body_kind": "article_text"
+    },
+    "stream_type": "soft"
+  }
+]

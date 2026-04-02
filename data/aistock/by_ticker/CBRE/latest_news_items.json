@@ -1,0 +1,35 @@
+[
+  {
+    "id": "cac3aa83-243e-5496-9ce4-a6fc0031ca10",
+    "timestamp_utc": "2026-03-31T21:45:00+00:00",
+    "source": "financialcontent",
+    "url": "https://www.financialcontent.com/article/barchart-2026-4-1-heres-what-to-expect-from-cbre-groups-next-earnings-report",
+    "title": "Here's What to Expect From CBRE Group's Next Earnings Report - FinancialContent",
+    "body": "Here's What to Expect From CBRE Group's Next Earnings Report FinancialContent",
+    "author": null,
+    "language": "en",
+    "ticker": "CBRE",
+    "tickers_hint": [
+      "CBRE"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "financialcontent",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "FinancialContent",
+      "source_domain": "financialcontent.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "CBRE"
+      ],
+      "alt_sources": [
+        "MSN",
+        "FinancialContent"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

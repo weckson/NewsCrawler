@@ -1,0 +1,29 @@
+[2m2026-03-29T14:33:06.573665Z[0m [[32m[1minfo     [0m] [1mrun_start                     [0m [36mhours[0m=[35m48[0m [36mrun_dir[0m=[35mdata\runs\20260329T143306Z_amd_nvda_2[0m [36mtickers[0m=[35m['AMD', 'NVDA'][0m
+[2m2026-03-29T14:33:06.575654Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35m'AMD IR'[0m [36mtag[0m=[35mamd_ir[0m
+[2m2026-03-29T14:33:08.757575Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35mhttps://ir.amd.com/news-events/press-releases/rss[0m
+[2m2026-03-29T14:33:08.763807Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mamd_ir[0m [36mraw[0m=[35m10[0m
+[2m2026-03-29T14:33:08.764332Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35mGoogle->Benzinga[0m [36mtag[0m=[35mgoogle_benzinga[0m
+[2m2026-03-29T14:33:11.426936Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=AMD+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-29T14:33:11.543413Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-29T14:33:14.075672Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=AMD%2BAdvanced%2BMicro%2BDevices+site:benzinga.com&hl'[0m
+[2m2026-03-29T14:33:14.199067Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-29T14:33:14.199219Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35m'Google News (all)'[0m [36mtag[0m=[35mgoogle_broad[0m
+[2m2026-03-29T14:33:16.898901Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=AMD%2BAdvanced%2BMicro%2BDevices+stock+news&hl=en-US&'[0m
+[2m2026-03-29T14:33:17.006078Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-29T14:33:19.541112Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=AMD%2BAdvanced%2BMicro%2BDevices+earnings+analysis&hl'[0m
+[2m2026-03-29T14:33:19.661802Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-29T14:33:19.664399Z[0m [[32m[1minfo     [0m] [1mquality_filter                [0m [36minput[0m=[35m410[0m [36mpassed[0m=[35m3[0m
+[2m2026-03-29T14:33:19.665156Z[0m [[32m[1minfo     [0m] [1mdedup                         [0m [36mafter[0m=[35m2[0m [36mbefore[0m=[35m3[0m
+[2m2026-03-29T14:33:19.665974Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35mGoogle->Benzinga[0m [36mtag[0m=[35mgoogle_benzinga[0m
+[2m2026-03-29T14:33:23.417535Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=NVDA+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-29T14:33:23.419016Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m0[0m
+[2m2026-03-29T14:33:25.986489Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=NVDA%2BNVIDIA+site:benzinga.com&hl=en-US&gl=US&ceid=U'[0m
+[2m2026-03-29T14:33:26.107312Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-03-29T14:33:26.107459Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35m'Google News (all)'[0m [36mtag[0m=[35mgoogle_broad[0m
+[2m2026-03-29T14:33:28.680726Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=NVDA%2BNVIDIA+stock+news&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-03-29T14:33:28.796698Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-29T14:33:31.342105Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=NVDA%2BNVIDIA+earnings+analysis&hl=en-US&gl=US&ceid=U'[0m
+[2m2026-03-29T14:33:31.466719Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-03-29T14:33:31.468713Z[0m [[32m[1minfo     [0m] [1mquality_filter                [0m [36minput[0m=[35m300[0m [36mpassed[0m=[35m9[0m
+[2m2026-03-29T14:33:31.469558Z[0m [[32m[1minfo     [0m] [1mdedup                         [0m [36mafter[0m=[35m8[0m [36mbefore[0m=[35m9[0m
+[2m2026-03-29T14:33:31.511417Z[0m [[32m[1minfo     [0m] [1mrun_complete                  [0m [36mfiltered[0m=[35m10[0m [36mlog_path[0m=[35mdata\runs\20260329T143306Z_amd_nvda_2\run.log[0m [36mnews_items[0m=[35m10[0m [36mraw[0m=[35m710[0m [36mrun_dir[0m=[35mdata\runs\20260329T143306Z_amd_nvda_2[0m

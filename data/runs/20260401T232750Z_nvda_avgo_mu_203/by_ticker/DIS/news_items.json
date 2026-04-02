@@ -1,0 +1,297 @@
+[
+  {
+    "id": "c9b30548-b9f9-5867-8dc2-b76cf292ae9a",
+    "timestamp_utc": "2026-04-01T04:36:00+00:00",
+    "source": "barrons",
+    "url": "https://www.barrons.com/articles/disney-stock-upgrade-cheap-valuation-analysts-d1bcc091?gaa_at=eafs&gaa_n=AWEtsqdr6A1qz5dRSfH08lbSv_RugtNwBlWJM-Yd3TkrCu75h1h8ewJXQ3oF&gaa_ts=69cdaff1&gaa_sig=OTs3t_oFwsPr2UNCpAc9M8lkzAoN8_N517mvSy-Q3aMNLE-o6yR4U_fbre7ZY6Qg7OAimXZfmha3ROKKe6BR7w%3D%3D",
+    "title": "Disney Stock Gets an Upgrade. Why Analysts Say It Looks Cheap. - Barron's",
+    "body": "Disney Stock Gets an Upgrade. Why Analysts Say It Looks Cheap. Barron's",
+    "author": null,
+    "language": "en",
+    "ticker": "DIS",
+    "tickers_hint": [
+      "DIS"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "barrons.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Barron's",
+      "source_domain": "barrons.com",
+      "trust_tier": 3,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "DIS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "107bcc03-3619-5c5c-b5a5-0bfc593609e8",
+    "timestamp_utc": "2026-04-01T09:42:00+00:00",
+    "source": "marketwatch",
+    "url": "https://www.marketwatch.com/story/is-there-a-bargain-to-be-had-with-disney-stock-this-analyst-thinks-so-f135b00d?gaa_at=eafs&gaa_n=AWEtsqdmL5MglJ0O6vwZu_2bvJA6Mmy3b-YC_PaXZe6QRV45S5HOkjUvShhG&gaa_ts=69cdaff1&gaa_sig=vhOGbBoIR94tt43KaPh6SN8c_XqBrv_950G_PLLyIr1JFNL5mB-ofCQ4oqymc68q1eJNsQhEmubU2-h1y869vw%3D%3D",
+    "title": "Is there a bargain to be had with Disney stock? This analyst thinks so. - MarketWatch",
+    "body": "Is there a bargain to be had with Disney stock? This analyst thinks so. MarketWatch",
+    "author": null,
+    "language": "en",
+    "ticker": "DIS",
+    "tickers_hint": [
+      "DIS"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "marketwatch.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketWatch",
+      "source_domain": "marketwatch.com",
+      "trust_tier": 3,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "DIS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "384b227c-89e5-5c91-a4aa-cb88610975e9",
+    "timestamp_utc": "2026-04-01T04:07:40+00:00",
+    "source": "tipranks",
+    "url": "https://www.tipranks.com/news/analysts/walt-disney-stock-forecast-trending-strong-buy-among-analysts",
+    "title": "Walt Disney Stock Forecast: Trending Strong Buy Among Analysts - TipRanks",
+    "body": "Walt Disney Stock Forecast: Trending Strong Buy Among Analysts TipRanks",
+    "author": null,
+    "language": "en",
+    "ticker": "DIS",
+    "tickers_hint": [
+      "DIS"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "tipranks.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
+      "trust_tier": 3,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "DIS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "397fb123-3991-5824-81fb-d25639c6d602",
+    "timestamp_utc": "2026-04-01T08:31:29+00:00",
+    "source": "benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQlRUS3lTVkpJTTRFYk5NZmMtWF9naE9VR2lsNXFDX1RHNS1kbGNzSHhZU1o2bHo3MWhXb3YwOFFrUVpSa2g5ZHh6VmYwWmk5Q25uemt5ejhtVEdJcXU1NHh2LWY4YnhNSXAyVUtwc3NxX0VkTjRwX19IRmFCLWdUdHdzX3NNcnVEQlY5dTNpMGJsTVEzSm1oYzk2eG5hLVJ1UEh3XzJBQlo?oc=5",
+    "title": "What's Behind The Uptick In Walt Disney Stock? - Benzinga",
+    "body": "What's Behind The Uptick In Walt Disney Stock? Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "A",
+    "tickers_hint": [
+      "A",
+      "DIS"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "meta": {
+      "channel": "google_benzinga",
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
+      "trust_tier": 3,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "A",
+        "DIS"
+      ],
+      "alt_sources": [
+        "Benzinga"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "083abf39-2792-59fc-9cd6-01fc7bc9af04",
+    "timestamp_utc": "2026-04-01T03:50:41+00:00",
+    "source": "benzinga",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ1NBdEJ2dHV2RFpkUlBTSHJ3V0VOZ29rM3hVOE5tV2lJS3JHOElfUW51cjNXTXdYUHZmUlhsa1VBWlktZm8yTE1xV2RyVHcwbWFoX0h5d3pUMnlVd0t2cVBHY1dHZEoxSjFSLVc2cDVlelctWW1ablZxMXk0MWxvdDJWLXRiRU5CUmJFTVZLTWN5VUtVYVhjMVpsMFB5SkpHSVhaUjZzelpzZ1hNay1XME5yVDR4Zw?oc=5",
+    "title": "Disney Stock Tests $97.50 Support — Will It Hold Or Break? - Benzinga",
+    "body": "Disney Stock Tests $97.50 Support — Will It Hold Or Break? Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "DIS",
+    "tickers_hint": [
+      "DIS"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "DIS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "b2cacfee-14ba-5dfc-a9cc-bc627ea8d4bf",
+    "timestamp_utc": "2026-03-31T06:08:00+00:00",
+    "source": "barrons",
+    "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPRkVLRE5xbEdYVEZpQ2NPSjZxSWJ3NEEyUVZGd1A1UkNGWHNIQUxxZkpadFVVTkdhTDhmcUlBZlZJWFFhTVdsRWdMS3dBcjhZbUptN3FJeHZCUUZHMVQta1RoaXFtZUpNeTZyTlJJWWtlelVvOFpfOHo0ZWNrLU5GeVA3eFdQa0ZueUpZVGpSckprZm5hZWtaU2FwandaOEZFM0dNYi1PYUFndGRHQjh5UTFUdGNzY2FlM1liXzB3VkdoeGVSd0ZqT2x4TDJMZElJZjNSZ2IwWVlqRjBZRGowOFpEQlN0OUJOYWl1Z0t1bW1EbXJ1UHgwVnBjMVhKd3VqMC1FNURTY1BRblB4YTdkaU9vVVJMdGt6TUVKcWZvZHczNjg1NGE4RGE3ZDFhM001NTQtTlE0QTJzSDBLNzF0Q0hoYWtyQVM1YU1xSmVpS3FPcVhYZGt2aDJDVlJVRmFpSHg0bkxXVXVFZlIyNjBEUkplMnFCWTE1Ty02cndUWWVaNFB6VEVpRk4tajM4bC1mbmc?oc=5",
+    "title": "Disney Stock Is Trading Like a Cruise Line. Now Could Be the Time to Buy. - Barron's",
+    "body": "Disney Stock Is Trading Like a Cruise Line. Now Could Be the Time to Buy. Barron's",
+    "author": null,
+    "language": "en",
+    "ticker": "DIS",
+    "tickers_hint": [
+      "DIS"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "barrons.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Barron's",
+      "source_domain": "barrons.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "DIS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "ecd93690-3dce-5eac-a833-2159dcd22424",
+    "timestamp_utc": "2026-03-31T22:39:42+00:00",
+    "source": "investing.com",
+    "url": "https://www.investing.com/news/analyst-ratings/raymond-james-upgrades-disney-stock-rating-on-valuation-opportunity-93CH-4592198",
+    "title": "Raymond James upgrades Disney stock rating on valuation opportunity - Investing.com",
+    "body": "Raymond James upgrades Disney stock rating on valuation opportunity Investing.com",
+    "author": null,
+    "language": "en",
+    "ticker": "DIS",
+    "tickers_hint": [
+      "DIS"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "investing.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Investing.com",
+      "source_domain": "investing.com",
+      "trust_tier": 2,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "DIS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "9e8f49f2-b969-5f8f-9d55-c75093573459",
+    "timestamp_utc": "2026-04-01T02:57:38+00:00",
+    "source": "tradingview",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcHVSZEVNa3JJeHpWWUxHdG5JSGdGbnBnYTNUc01PYl9JaWE0aVhZWFRsYlRpS1NuMW95eU5zNUd6Zll5VF9vYk5FM2xYcXdwal9MRUttZHk1Q3c3RDFEVl9BclVmR0NfeVRfcUFnMkV1OFUwUWFKU01Sc1EyX1FWd1c3eXhEeDZuS0lsakxjVS1TRjFEOC1EamNCTnVCZlFUR0I0MTdEUnpyT1U?oc=5",
+    "title": "Why Raymond James sees Disney stock as undervalued - TradingView",
+    "body": "Why Raymond James sees Disney stock as undervalued TradingView",
+    "author": null,
+    "language": "en",
+    "ticker": "DIS",
+    "tickers_hint": [
+      "DIS"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "tradingview.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "TradingView",
+      "source_domain": "tradingview.com",
+      "trust_tier": 2,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "DIS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "bb851a26-3127-5208-9953-01a3a3b06cbb",
+    "timestamp_utc": "2026-04-01T05:33:45+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8765306/raymond-james-upgrades-dis-to-outperform-with-115-price-target-dis-stock-news",
+    "title": "Raymond James Upgrades DIS to Outperform with $115 Price Target - GuruFocus",
+    "body": "Raymond James Upgrades DIS to Outperform with $115 Price Target GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "DIS",
+    "tickers_hint": [
+      "DIS"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "DIS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "8458b965-6fe7-5d36-8f1c-91054074aa80",
+    "timestamp_utc": "2026-04-01T01:26:42+00:00",
+    "source": "finbold",
+    "url": "https://finbold.com/analyst-updates-disney-stock-price-target-for-next-12-months/",
+    "title": "Analyst updates Disney stock price target for next 12 months - Finbold",
+    "body": "The Walt Disney Company (NYSE: DIS) company stock failed to impress during CEO Bob Iger’s second term at the helm of the company, and, through the period that ended in March 2026, investors would have seen only marginal gains.\n\nFollowing such middling performance and despite the continued year-to-date (YTD) downturn, A Wall Street expert from Raymon James revealed on March 31 that he expects DIS shares to significantly improve their performance in the coming 12 months.\n\nSpecifically, analyst Ric Prentiss upgraded Disney stock from ‘Market Perform’ – ‘Neutral’ – to ‘Outperform’ – ‘Buy’ – on Tuesday, while setting the equity’s price target at $115: 17.85% above the press time price of $97.58.\n\nAccording to the Raymond James expert, the House of Mouse benefits from strong tailwinds in terms of streaming growth and is, at its late March and early April valuation, ‘historically cheap.’\n\nStill, Prentiss highlighted that, in spite of the enticing risk/reward outlook, sufficient headwinds and macro risks remain that Disney stock does not merit a ‘Strong Buy’ rating for the time being.\n\nZooming out, however, reveals that the Wall Street consensus contradicts Raymond James’ analysis. Specifically, the overall institutional rating for Disney shares, at press time on April 1, displays as ‘Strong Buy’ on the stock analysis platform TipRanks.\n\nAdditionally, the average 12-month price target that Finbold retrieved from the same source shows that, on average, Wall Street anticipates DIS stock will rally 37.65% to $132.67.\n\nAmong the recent outlook updates, Steven Cahall of Wells Fargo (NYSE: WFC) proved the most bullish despite lowering his price forecast from the previous $150. Indeed, according to the analyst, Disney’s equity is a ‘Buy,’ and is likely to rally to $148.\n\nElsewhere, the most bearish recent rating – assigned on February 3 – came from KeyBanc’s Brandon Nispel, who took a ‘Neutral’ position and refrained from assigning a price target.\n\nLastly, the other most recent revision – unveiled on March 31, much like Raymond James’ – was bullish as it contained a ‘Buy’ recommendation and a $125 12-month Disney stock price forecast. This note was issued by Needham’s Laura Martin.\n\nBest Crypto Exchange for Intermediate Traders and Investors\n\nInvest in cryptocurrencies and 3,000+ other assets including stocks and precious metals.\n\n0% commission on stocks - buy in bulk or just a fraction from as little as $10. Other fees apply. For more information, visit etoro.com/trading/fees.\n\nCopy top-performing traders in real time, automatically.\n\neToro USA is registered with FINRA for securities trading.\n\nApply now to join Finbold as a crypto/finance news writer!\n\nBy subscribing you agree with Finbold T&C’s & Privacy Policy\n\nWe use cutting-edge AI models to forecast future prices for stocks and crypto.",
+    "author": null,
+    "language": "en",
+    "ticker": "DIS",
+    "tickers_hint": [
+      "DIS"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "finbold",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Finbold",
+      "source_domain": "finbold.com",
+      "trust_tier": 1,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "DIS"
+      ],
+      "body_kind": "article_text"
+    },
+    "stream_type": "soft"
+  }
+]

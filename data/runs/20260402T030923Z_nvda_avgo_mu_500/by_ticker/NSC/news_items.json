@@ -1,0 +1,31 @@
+[
+  {
+    "id": "748c069c-6e43-59f5-b05a-f68854a61957",
+    "timestamp_utc": "2026-03-31T06:41:15+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8761792/nsc-bernstein-lowers-price-target-but-maintains-outperform-rating-nsc-stock-news?mobile=true",
+    "title": "NSC: Bernstein Lowers Price Target but Maintains Outperform Rati - GuruFocus",
+    "body": "NSC: Bernstein Lowers Price Target but Maintains Outperform Rati GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "NSC",
+    "tickers_hint": [
+      "NSC"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "NSC"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

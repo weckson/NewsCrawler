@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "ce10a751-4e5e-5682-bf3f-1fde09df8687",
+      "timestamp_utc": "2026-04-01T04:00:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcXQ3TjFlbktVUTN4aDRxUGVCX21GX2txUm8yOTU1cGdweWlPN2VEMS1tMUVhR1NmRVRlSDFFTjJMM3JjVDg3UmJpV1d3SEkweUU1d1ZtdGZCZGptSC1OWnI5dENpMlZkd3k4eEVTOE9WZ1AzTUtmYnJOYkt2SldadnR5aUJ2bUdIZnBUS1BZMXV6d2FrMFZMUVR5YVRTV3hobVNEeEtVZ056d1JxazNhNFRzY0VVaVE?oc=5",
+      "title": "Hitting a buried power or gas line? Dominion says call 811 first - Stock Titan",
+      "body": "Hitting a buried power or gas line? Dominion says call 811 first Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "D",
+      "tickers_hint": [
+        "D"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "D"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "ce10a751-4e5e-5682-bf3f-1fde09df8687",
+      "timestamp_utc": "2026-04-01T04:00:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcXQ3TjFlbktVUTN4aDRxUGVCX21GX2txUm8yOTU1cGdweWlPN2VEMS1tMUVhR1NmRVRlSDFFTjJMM3JjVDg3UmJpV1d3SEkweUU1d1ZtdGZCZGptSC1OWnI5dENpMlZkd3k4eEVTOE9WZ1AzTUtmYnJOYkt2SldadnR5aUJ2bUdIZnBUS1BZMXV6d2FrMFZMUVR5YVRTV3hobVNEeEtVZ056d1JxazNhNFRzY0VVaVE?oc=5",
+      "title": "Hitting a buried power or gas line? Dominion says call 811 first - Stock Titan",
+      "body": "Hitting a buried power or gas line? Dominion says call 811 first Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "D",
+      "tickers_hint": [
+        "D"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "D"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

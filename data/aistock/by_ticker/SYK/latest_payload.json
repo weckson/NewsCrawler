@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "06b94f17-508e-51f3-968d-06af05cf97e6",
+      "timestamp_utc": "2026-04-01T16:54:52+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NeWtvYTFqeWNSaERnUkJzQTI0M29sMDNEUUdvV0Q4T0tETFZmU0pxMm5NUEFfM3JkeHhlTG9FazVTeDJ3Y1hlQ1dudzMtVi04RWEwZXBocHp5NEp1ZFM3ekEybFQ?oc=5",
+      "title": "SYK SEC Filings - Stryker Corp 10-K, 10-Q, 8-K Forms - Stock Titan",
+      "body": "SYK SEC Filings - Stryker Corp 10-K, 10-Q, 8-K Forms Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "SYK",
+      "tickers_hint": [
+        "SYK"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "SYK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "06b94f17-508e-51f3-968d-06af05cf97e6",
+      "timestamp_utc": "2026-04-01T16:54:52+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NeWtvYTFqeWNSaERnUkJzQTI0M29sMDNEUUdvV0Q4T0tETFZmU0pxMm5NUEFfM3JkeHhlTG9FazVTeDJ3Y1hlQ1dudzMtVi04RWEwZXBocHp5NEp1ZFM3ekEybFQ?oc=5",
+      "title": "SYK SEC Filings - Stryker Corp 10-K, 10-Q, 8-K Forms - Stock Titan",
+      "body": "SYK SEC Filings - Stryker Corp 10-K, 10-Q, 8-K Forms Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "SYK",
+      "tickers_hint": [
+        "SYK"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "SYK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

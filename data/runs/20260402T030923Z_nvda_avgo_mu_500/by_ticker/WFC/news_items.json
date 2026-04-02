@@ -1,0 +1,31 @@
+[
+  {
+    "id": "5d51d726-012c-58f8-8a64-8e53593f54b7",
+    "timestamp_utc": "2026-03-31T08:56:15+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8762211/wfc-morgan-stanley-lowers-price-target-for-wells-fargo-wfc-stock-news?mobile=true",
+    "title": "WFC: Morgan Stanley Lowers Price Target for Wells Fargo | WFC St - GuruFocus",
+    "body": "WFC: Morgan Stanley Lowers Price Target for Wells Fargo | WFC St GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "WFC",
+    "tickers_hint": [
+      "WFC"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "WFC"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

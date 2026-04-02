@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "1ceeed8b-6870-5569-9c81-9661a9c396d6",
+      "timestamp_utc": "2026-04-01T05:40:04+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUHJrYXhCcXRhbnpoU1hmM2FXdTVfdnM4SDVwZW5QV041RGQ5cERETUQ3aXZuNWpLSUZXcVlObkhPMlRJQUJFM0dsdGlOTGgzNl83WlcwUk5FVnhNRHQyNl8tOFdaSUlraHpYTWpDMXFGdTA0dUg0R0pBOGhxZ3VIXzVnQkJhZkdZWWlzR0Fudy1BaXc?oc=5",
+      "title": "APPS vs. FFIV: Which Stock Should Value Investors Buy Now? - Yahoo Finance",
+      "body": "APPS vs. FFIV: Which Stock Should Value Investors Buy Now? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "FFIV",
+      "tickers_hint": [
+        "FFIV"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "FFIV"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "1ceeed8b-6870-5569-9c81-9661a9c396d6",
+      "timestamp_utc": "2026-04-01T05:40:04+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUHJrYXhCcXRhbnpoU1hmM2FXdTVfdnM4SDVwZW5QV041RGQ5cERETUQ3aXZuNWpLSUZXcVlObkhPMlRJQUJFM0dsdGlOTGgzNl83WlcwUk5FVnhNRHQyNl8tOFdaSUlraHpYTWpDMXFGdTA0dUg0R0pBOGhxZ3VIXzVnQkJhZkdZWWlzR0Fudy1BaXc?oc=5",
+      "title": "APPS vs. FFIV: Which Stock Should Value Investors Buy Now? - Yahoo Finance",
+      "body": "APPS vs. FFIV: Which Stock Should Value Investors Buy Now? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "FFIV",
+      "tickers_hint": [
+        "FFIV"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "FFIV"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

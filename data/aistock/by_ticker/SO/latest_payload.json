@@ -1,0 +1,144 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "b80f26cc-bdce-51c6-ba86-ab851e23110f",
+      "timestamp_utc": "2026-04-01T02:00:47+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQS1RqT1BHS2FuZnVqTmVXR3lNYWl1aHVLakhwbXVGZmQwemZZNWU3cU93ZGlLX3haM3ljbF9hQ2hTemZDZFM1dzhOblVfTjFMbDF0bkRyQmRkZ1JRbWh5dERUS2FIZnpZM3dabEFKRmVKVWVXN3B4RTFHaUVGcHI4cktLMmo4ZHVLUC1kUEk3endlVWxveFNFdG1wM1lwMXVmQ0h5ZDRLLV9TNGc5cFdvcm5paFpjb0J4MVBfTDlSX0E5RGJCbnVvM08tWHhoT3hZUlBINDlyZTI1aWlLNUwzOTF2dzNkRkxqVTNkdXdZX0pnenJld2NtMjZIdUJ5NjE1QUFnOXZHRnhLbWIxcHNnSGExbWdtMEpadlpEMEF1UUY5TkhsSXBzNGRNLXBoYjg?oc=5",
+      "title": "Passive Income Ideas Come In Many Shapes And Sizes, But This One Might Be The One To Fawn Over. 'It Someh - Benzinga",
+      "body": "Passive Income Ideas Come In Many Shapes And Sizes, But This One Might Be The One To Fawn Over. 'It Someh Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "A",
+      "tickers_hint": [
+        "A",
+        "IT",
+        "SO"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "A",
+          "IT",
+          "SO"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e9922199-58ab-5e75-8c23-5ff69e027550",
+      "timestamp_utc": "2026-04-01T09:21:46+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/04/51611332/magnificent-seven-stocks-not-so-magnificent-in-2026-apple-surprises-microsoft-craters",
+      "title": "Magnificent Seven Stocks Not So Magnificent In 2026 — Apple Surprises, Microsoft Craters - Amazon.com (NA - Benzinga",
+      "body": "Magnificent Seven Stocks Not So Magnificent In 2026 — Apple Surprises, Microsoft Craters - Amazon.com (NA Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "SO",
+      "tickers_hint": [
+        "SO"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "SO"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "b80f26cc-bdce-51c6-ba86-ab851e23110f",
+      "timestamp_utc": "2026-04-01T02:00:47+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQS1RqT1BHS2FuZnVqTmVXR3lNYWl1aHVLakhwbXVGZmQwemZZNWU3cU93ZGlLX3haM3ljbF9hQ2hTemZDZFM1dzhOblVfTjFMbDF0bkRyQmRkZ1JRbWh5dERUS2FIZnpZM3dabEFKRmVKVWVXN3B4RTFHaUVGcHI4cktLMmo4ZHVLUC1kUEk3endlVWxveFNFdG1wM1lwMXVmQ0h5ZDRLLV9TNGc5cFdvcm5paFpjb0J4MVBfTDlSX0E5RGJCbnVvM08tWHhoT3hZUlBINDlyZTI1aWlLNUwzOTF2dzNkRkxqVTNkdXdZX0pnenJld2NtMjZIdUJ5NjE1QUFnOXZHRnhLbWIxcHNnSGExbWdtMEpadlpEMEF1UUY5TkhsSXBzNGRNLXBoYjg?oc=5",
+      "title": "Passive Income Ideas Come In Many Shapes And Sizes, But This One Might Be The One To Fawn Over. 'It Someh - Benzinga",
+      "body": "Passive Income Ideas Come In Many Shapes And Sizes, But This One Might Be The One To Fawn Over. 'It Someh Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "A",
+      "tickers_hint": [
+        "A",
+        "IT",
+        "SO"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "A",
+          "IT",
+          "SO"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e9922199-58ab-5e75-8c23-5ff69e027550",
+      "timestamp_utc": "2026-04-01T09:21:46+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/04/51611332/magnificent-seven-stocks-not-so-magnificent-in-2026-apple-surprises-microsoft-craters",
+      "title": "Magnificent Seven Stocks Not So Magnificent In 2026 — Apple Surprises, Microsoft Craters - Amazon.com (NA - Benzinga",
+      "body": "Magnificent Seven Stocks Not So Magnificent In 2026 — Apple Surprises, Microsoft Craters - Amazon.com (NA Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "SO",
+      "tickers_hint": [
+        "SO"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "SO"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

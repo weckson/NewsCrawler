@@ -1,0 +1,60 @@
+[
+  {
+    "id": "85db7a4b-cc41-5ef3-97cf-8e101817b288",
+    "timestamp_utc": "2026-04-01T06:18:45+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8765083/ivz-morgan-stanley-lowers-price-target-to-2600-maintains-equalweight-rating-ivz-stock-news?mobile=true",
+    "title": "IVZ: Morgan Stanley Lowers Price Target to $26.00, Maintains Equ - GuruFocus",
+    "body": "IVZ: Morgan Stanley Lowers Price Target to $26.00, Maintains Equ GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "IVZ",
+    "tickers_hint": [
+      "IVZ"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "IVZ"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "22155f42-cbcf-54e8-8cce-2bf4f5244911",
+    "timestamp_utc": "2026-04-01T03:57:30+00:00",
+    "source": "intellectia_ai",
+    "url": "https://intellectia.ai/en/stock/IVZ/earnings",
+    "title": "IVZ Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+    "body": "IVZ Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+    "author": null,
+    "language": "en",
+    "ticker": "IVZ",
+    "tickers_hint": [
+      "IVZ"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "intellectia ai",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Intellectia AI",
+      "source_domain": "intellectiaai.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "IVZ"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

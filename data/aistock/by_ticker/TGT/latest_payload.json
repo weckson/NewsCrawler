@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "d4b3fa4a-5758-5787-84d9-1f6beb1c0080",
+      "timestamp_utc": "2026-03-31T04:00:03+00:00",
+      "source": "inkl",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa0c0Z1YyMlA3UVRjalFIbzNfYV9mNW1RVjRRc3N3YjhOTkg3XzNDREhrUmV6emk4c3AtR3lfR3F3ZFJwM05wSDd6d2M2QWlRbURCSnUxemhzWnBNcEdxcUxNbWJuQmFadFloRGE2YmU3Ym42bnBwR2UwbzlfY0ZRTXJFek9ZemZyQVpJRk5XemY4SnpC?oc=5",
+      "title": "A New Boycott Is Brewing Against Target. Will That Hurt TGT Stock? - inkl",
+      "body": "A New Boycott Is Brewing Against Target. Will That Hurt TGT Stock? inkl",
+      "author": null,
+      "language": "en",
+      "ticker": "TGT",
+      "tickers_hint": [
+        "TGT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "inkl",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "inkl",
+        "source_domain": "inkl.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TGT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "d4b3fa4a-5758-5787-84d9-1f6beb1c0080",
+      "timestamp_utc": "2026-03-31T04:00:03+00:00",
+      "source": "inkl",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa0c0Z1YyMlA3UVRjalFIbzNfYV9mNW1RVjRRc3N3YjhOTkg3XzNDREhrUmV6emk4c3AtR3lfR3F3ZFJwM05wSDd6d2M2QWlRbURCSnUxemhzWnBNcEdxcUxNbWJuQmFadFloRGE2YmU3Ym42bnBwR2UwbzlfY0ZRTXJFek9ZemZyQVpJRk5XemY4SnpC?oc=5",
+      "title": "A New Boycott Is Brewing Against Target. Will That Hurt TGT Stock? - inkl",
+      "body": "A New Boycott Is Brewing Against Target. Will That Hurt TGT Stock? inkl",
+      "author": null,
+      "language": "en",
+      "ticker": "TGT",
+      "tickers_hint": [
+        "TGT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "inkl",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "inkl",
+        "source_domain": "inkl.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TGT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

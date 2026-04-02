@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "75fc316b-93e1-5c85-8f74-0c09afecdca3",
+      "timestamp_utc": "2026-03-31T23:42:11+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-digital-realty-trust-inc-dlr-stock-position-cut-by-j-safra-sarasin-holding-ag-2026-04-01/",
+      "title": "Digital Realty Trust, Inc. $DLR Stock Position Cut by J. Safra Sarasin Holding AG - MarketBeat",
+      "body": "Digital Realty Trust, Inc. $DLR Stock Position Cut by J. Safra Sarasin Holding AG MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "DLR",
+      "tickers_hint": [
+        "DLR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "DLR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "17f83ed6-a7a5-577e-a013-ef752ed67bf1",
+      "timestamp_utc": "2026-03-31T21:42:16+00:00",
+      "source": "defense_world",
+      "url": "https://www.defenseworld.net/2026/04/01/digital-realty-trust-nysedlr-coverage-initiated-by-analysts-at-truist-financial.html",
+      "title": "Digital Realty Trust (NYSE:DLR) Coverage Initiated by Analysts at Truist Financial - Defense World",
+      "body": "Air Armament Engines Fighter Aircraft Helicopters Land Armored Vehicles and Tanks Ordinance and Artillery Personnel Equipment Small Arms Missiles and Space Air Defense Military Satellites Missile Technology Naval Civil Aviation Accidents Airlines Engines Manufacturers MRO Economy Management Appointments Market Trends and Finance Mergers and Acquisitions Companies",
+      "author": null,
+      "language": "en",
+      "ticker": "DLR",
+      "tickers_hint": [
+        "DLR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "DLR"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "960a3c06-95f1-5ca1-889d-1c3375d5fc1a",
+      "timestamp_utc": "2026-03-31T05:56:15+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8761516/dlr-sees-price-target-boost-by-truist-securities-retains-buy-rating-dlr-stock-news?mobile=true",
+      "title": "DLR Sees Price Target Boost by Truist Securities, Retains Buy Ra - GuruFocus",
+      "body": "DLR Sees Price Target Boost by Truist Securities, Retains Buy Ra GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "DLR",
+      "tickers_hint": [
+        "DLR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "DLR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "75fc316b-93e1-5c85-8f74-0c09afecdca3",
+      "timestamp_utc": "2026-03-31T23:42:11+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-digital-realty-trust-inc-dlr-stock-position-cut-by-j-safra-sarasin-holding-ag-2026-04-01/",
+      "title": "Digital Realty Trust, Inc. $DLR Stock Position Cut by J. Safra Sarasin Holding AG - MarketBeat",
+      "body": "Digital Realty Trust, Inc. $DLR Stock Position Cut by J. Safra Sarasin Holding AG MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "DLR",
+      "tickers_hint": [
+        "DLR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "DLR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "17f83ed6-a7a5-577e-a013-ef752ed67bf1",
+      "timestamp_utc": "2026-03-31T21:42:16+00:00",
+      "source": "defense_world",
+      "url": "https://www.defenseworld.net/2026/04/01/digital-realty-trust-nysedlr-coverage-initiated-by-analysts-at-truist-financial.html",
+      "title": "Digital Realty Trust (NYSE:DLR) Coverage Initiated by Analysts at Truist Financial - Defense World",
+      "body": "Air Armament Engines Fighter Aircraft Helicopters Land Armored Vehicles and Tanks Ordinance and Artillery Personnel Equipment Small Arms Missiles and Space Air Defense Military Satellites Missile Technology Naval Civil Aviation Accidents Airlines Engines Manufacturers MRO Economy Management Appointments Market Trends and Finance Mergers and Acquisitions Companies",
+      "author": null,
+      "language": "en",
+      "ticker": "DLR",
+      "tickers_hint": [
+        "DLR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "DLR"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "960a3c06-95f1-5ca1-889d-1c3375d5fc1a",
+      "timestamp_utc": "2026-03-31T05:56:15+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8761516/dlr-sees-price-target-boost-by-truist-securities-retains-buy-rating-dlr-stock-news?mobile=true",
+      "title": "DLR Sees Price Target Boost by Truist Securities, Retains Buy Ra - GuruFocus",
+      "body": "DLR Sees Price Target Boost by Truist Securities, Retains Buy Ra GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "DLR",
+      "tickers_hint": [
+        "DLR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "DLR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

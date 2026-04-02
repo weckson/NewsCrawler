@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "cbad7839-b6f4-5b1f-989c-dd60a6fe39dc",
+      "timestamp_utc": "2026-04-01T09:16:37+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765783/pnu-barclays-lowers-price-target-but-maintains-rating-pnr-stock-news",
+      "title": "PNU: Barclays Lowers Price Target but Maintains Rating | PNR Sto - GuruFocus",
+      "body": "PNU: Barclays Lowers Price Target but Maintains Rating | PNR Sto GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "PNR",
+      "tickers_hint": [
+        "PNR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "PNR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "cbad7839-b6f4-5b1f-989c-dd60a6fe39dc",
+      "timestamp_utc": "2026-04-01T09:16:37+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765783/pnu-barclays-lowers-price-target-but-maintains-rating-pnr-stock-news",
+      "title": "PNU: Barclays Lowers Price Target but Maintains Rating | PNR Sto - GuruFocus",
+      "body": "PNU: Barclays Lowers Price Target but Maintains Rating | PNR Sto GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "PNR",
+      "tickers_hint": [
+        "PNR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "PNR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

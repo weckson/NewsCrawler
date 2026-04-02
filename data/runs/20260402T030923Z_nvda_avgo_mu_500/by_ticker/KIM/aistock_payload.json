@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "847bedf1-528d-5e55-8fa6-aed87d3bc227",
+      "timestamp_utc": "2026-03-31T06:00:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbjJZY1NFRGJ1NGlHYTM2aHI5ZEFnZ3F4a2t6WFUxdVVySWxla0FxRE5IVTRvWklldFp1UTR2UlNHaVFfT216QzUtYVI3VDRJN05QcFFMZmtlUEFVeUZjdmkyVFU5Q0tVMk5zUTlCNEY0MWpqY1dSXzV1cjlXazhjSFhRVWhsdFhlLWMzVnI5bGlGVk55Y0FNdnM4cFpKdVRDR0xOcmgxaHNieGowTGM4NU0tRFpIVTJNWlhNclB3?oc=5",
+      "title": "Bernstein elevates Kim Mustin as founders drive faster growth - Stock Titan",
+      "body": "Bernstein elevates Kim Mustin as founders drive faster growth Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "KIM",
+      "tickers_hint": [
+        "KIM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KIM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "847bedf1-528d-5e55-8fa6-aed87d3bc227",
+      "timestamp_utc": "2026-03-31T06:00:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbjJZY1NFRGJ1NGlHYTM2aHI5ZEFnZ3F4a2t6WFUxdVVySWxla0FxRE5IVTRvWklldFp1UTR2UlNHaVFfT216QzUtYVI3VDRJN05QcFFMZmtlUEFVeUZjdmkyVFU5Q0tVMk5zUTlCNEY0MWpqY1dSXzV1cjlXazhjSFhRVWhsdFhlLWMzVnI5bGlGVk55Y0FNdnM4cFpKdVRDR0xOcmgxaHNieGowTGM4NU0tRFpIVTJNWlhNclB3?oc=5",
+      "title": "Bernstein elevates Kim Mustin as founders drive faster growth - Stock Titan",
+      "body": "Bernstein elevates Kim Mustin as founders drive faster growth Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "KIM",
+      "tickers_hint": [
+        "KIM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KIM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "25cad495-1004-52e9-a002-351989921ee4",
+    "timestamp_utc": "2026-03-31T06:41:18+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8761814/microchip-technology-inc-mchp-stock-price-up-403-on-mar-31?mobile=true",
+    "title": "Microchip Technology Inc (MCHP) Stock Price Up 4.03% on Mar 31 - GuruFocus",
+    "body": "Microchip Technology Inc (MCHP) Stock Price Up 4.03% on Mar 31 GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "MCHP",
+    "tickers_hint": [
+      "MCHP"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "MCHP"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

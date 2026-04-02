@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "6bed7202-4c18-5c51-af4e-bef3db1c2fe6",
+      "timestamp_utc": "2026-04-01T09:12:06+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMU84cWRHSGR3eC1oWUpNZXVIb0hJTHJwMG9vdE1EWmRWenRuQjkzQlpoc1djNXpYLW8tenhZeWhDUUQ4eG1kVGFxOWtaQkRUUmtHa1hfcUlraFZ3UnBLS3dPTV84TGl4YlFfQnVMMWJXMzJXTkEzRHdCYXdoejN1VWU5Y2MzZXpRbmY5b0FXMGphZDZBUHc?oc=5",
+      "title": "General Motors Stock (GM) Runs Out of Gas as Deliveries Fall 10% - TipRanks",
+      "body": "General Motors Stock (GM) Runs Out of Gas as Deliveries Fall 10% TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "GM",
+      "tickers_hint": [
+        "GM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "GM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1a5d576a-f3e1-550a-aee4-bf22e7cd4c65",
+      "timestamp_utc": "2026-03-31T00:11:59+00:00",
+      "source": "blockonomi",
+      "url": "https://blockonomi.com/general-motors-gm-stock-factory-zero-extends-layoffs-through-april-as-ev-strategy-stumbles/",
+      "title": "General Motors (GM) Stock: Factory ZERO Extends Layoffs Through April as EV Strategy Stumbles - Blockonomi",
+      "body": "Related Posts Western Digital (WDC) Stock Rallies 11% on Bernstein’s Bullish Upgrade to OutperformApril 1, 2026 Alphabet (GOOGL) Stock Sees Bullish Analyst Upgrades Amid $2.4M Executive SaleApril 1, 2026 Stanley Druckenmiller Doubles Down on Alphabet (GOOGL) and Amazon (AMZN) Stock Amid AI Cloud BoomApril 1, 2026",
+      "author": null,
+      "language": "en",
+      "ticker": "GM",
+      "tickers_hint": [
+        "GM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "blockonomi",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Blockonomi",
+        "source_domain": "blockonomi.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "GM"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9b319326-968a-5597-80e0-be771c5ba4ab",
+      "timestamp_utc": "2026-03-30T23:54:29+00:00",
+      "source": "coincentral.com",
+      "url": "https://coincentral.com/general-motors-gm-stock-1300-more-layoffs-at-factory-zero-is-the-ev-dream-fading/",
+      "title": "General Motors (GM) Stock: 1,300 More Layoffs at Factory ZERO — Is the EV Dream Fading? - coincentral.com",
+      "body": "The Best AI Stock Picking Tools in 2026: Your Complete Guide to Smarter InvestingFebruary 3, 2026 Finding The Best Crypto to Invest In: Expert Strategies for Identifying Tomorrow’s WinnersFebruary 27, 2025 Sui Blockchain Explained: How It Works and What You Need to KnowFebruary 6, 2025 Is Trump’s Memecoin Legit?\n\nHere’s What We Know About $TRUMPFebruary 1, 2025 What is Decentralized AI and Why We Need It ASAP?December 29, 2024",
+      "author": null,
+      "language": "en",
+      "ticker": "GM",
+      "tickers_hint": [
+        "GM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "coincentral.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "coincentral.com",
+        "source_domain": "coincentralcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "GM"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "6bed7202-4c18-5c51-af4e-bef3db1c2fe6",
+      "timestamp_utc": "2026-04-01T09:12:06+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMU84cWRHSGR3eC1oWUpNZXVIb0hJTHJwMG9vdE1EWmRWenRuQjkzQlpoc1djNXpYLW8tenhZeWhDUUQ4eG1kVGFxOWtaQkRUUmtHa1hfcUlraFZ3UnBLS3dPTV84TGl4YlFfQnVMMWJXMzJXTkEzRHdCYXdoejN1VWU5Y2MzZXpRbmY5b0FXMGphZDZBUHc?oc=5",
+      "title": "General Motors Stock (GM) Runs Out of Gas as Deliveries Fall 10% - TipRanks",
+      "body": "General Motors Stock (GM) Runs Out of Gas as Deliveries Fall 10% TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "GM",
+      "tickers_hint": [
+        "GM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "GM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1a5d576a-f3e1-550a-aee4-bf22e7cd4c65",
+      "timestamp_utc": "2026-03-31T00:11:59+00:00",
+      "source": "blockonomi",
+      "url": "https://blockonomi.com/general-motors-gm-stock-factory-zero-extends-layoffs-through-april-as-ev-strategy-stumbles/",
+      "title": "General Motors (GM) Stock: Factory ZERO Extends Layoffs Through April as EV Strategy Stumbles - Blockonomi",
+      "body": "Related Posts Western Digital (WDC) Stock Rallies 11% on Bernstein’s Bullish Upgrade to OutperformApril 1, 2026 Alphabet (GOOGL) Stock Sees Bullish Analyst Upgrades Amid $2.4M Executive SaleApril 1, 2026 Stanley Druckenmiller Doubles Down on Alphabet (GOOGL) and Amazon (AMZN) Stock Amid AI Cloud BoomApril 1, 2026",
+      "author": null,
+      "language": "en",
+      "ticker": "GM",
+      "tickers_hint": [
+        "GM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "blockonomi",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Blockonomi",
+        "source_domain": "blockonomi.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "GM"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9b319326-968a-5597-80e0-be771c5ba4ab",
+      "timestamp_utc": "2026-03-30T23:54:29+00:00",
+      "source": "coincentral.com",
+      "url": "https://coincentral.com/general-motors-gm-stock-1300-more-layoffs-at-factory-zero-is-the-ev-dream-fading/",
+      "title": "General Motors (GM) Stock: 1,300 More Layoffs at Factory ZERO — Is the EV Dream Fading? - coincentral.com",
+      "body": "The Best AI Stock Picking Tools in 2026: Your Complete Guide to Smarter InvestingFebruary 3, 2026 Finding The Best Crypto to Invest In: Expert Strategies for Identifying Tomorrow’s WinnersFebruary 27, 2025 Sui Blockchain Explained: How It Works and What You Need to KnowFebruary 6, 2025 Is Trump’s Memecoin Legit?\n\nHere’s What We Know About $TRUMPFebruary 1, 2025 What is Decentralized AI and Why We Need It ASAP?December 29, 2024",
+      "author": null,
+      "language": "en",
+      "ticker": "GM",
+      "tickers_hint": [
+        "GM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "coincentral.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "coincentral.com",
+        "source_domain": "coincentralcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "GM"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

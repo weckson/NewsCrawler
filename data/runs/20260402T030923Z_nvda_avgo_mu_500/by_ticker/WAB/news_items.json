@@ -1,0 +1,31 @@
+[
+  {
+    "id": "927f40d7-1d05-5632-92bd-92d7f427def4",
+    "timestamp_utc": "2026-03-31T06:41:15+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8761802/jefferies-lowers-price-target-for-wab-maintains-buy-rating-wab-stock-news?mobile=true",
+    "title": "Jefferies Lowers Price Target for WAB, Maintains Buy Rating | WA - GuruFocus",
+    "body": "Jefferies Lowers Price Target for WAB, Maintains Buy Rating | WA GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "WAB",
+    "tickers_hint": [
+      "WAB"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "WAB"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

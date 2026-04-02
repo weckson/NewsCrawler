@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "01d30145-cac2-53a4-ad7a-12c67323c891",
+      "timestamp_utc": "2026-03-31T08:34:57+00:00",
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/8762240/mtb-morgan-stanley-lowers-price-target-for-mt-bank-mtb-stock-news",
+      "title": "MTB: Morgan Stanley Lowers Price Target for M&T Bank | MTB Stock News - gurufocus.com",
+      "body": "MTB: Morgan Stanley Lowers Price Target for M&T Bank | MTB Stock News gurufocus.com",
+      "author": null,
+      "language": "en",
+      "ticker": "MTB",
+      "tickers_hint": [
+        "MTB"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "gurufocus.com",
+        "source_domain": "gurufocuscom.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MTB"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "01d30145-cac2-53a4-ad7a-12c67323c891",
+      "timestamp_utc": "2026-03-31T08:34:57+00:00",
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/8762240/mtb-morgan-stanley-lowers-price-target-for-mt-bank-mtb-stock-news",
+      "title": "MTB: Morgan Stanley Lowers Price Target for M&T Bank | MTB Stock News - gurufocus.com",
+      "body": "MTB: Morgan Stanley Lowers Price Target for M&T Bank | MTB Stock News gurufocus.com",
+      "author": null,
+      "language": "en",
+      "ticker": "MTB",
+      "tickers_hint": [
+        "MTB"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "gurufocus.com",
+        "source_domain": "gurufocuscom.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MTB"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

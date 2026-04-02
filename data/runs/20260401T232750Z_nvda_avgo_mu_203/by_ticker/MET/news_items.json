@@ -1,0 +1,63 @@
+[
+  {
+    "id": "3e13df45-a45a-57b7-a233-ec51f14d7f0d",
+    "timestamp_utc": "2026-03-30T23:58:52+00:00",
+    "source": "benzinga",
+    "url": "https://www.benzinga.com/insights/news/26/03/51560156/performance-comparison-meta-platforms-and-competitors-in-interactive-media-amp-services-industry",
+    "title": "Performance Comparison: Meta Platforms And Competitors In Interactive Media & Services Industry - Met - Benzinga",
+    "body": "Performance Comparison: Meta Platforms And Competitors In Interactive Media & Services Industry - Met Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "MET",
+    "tickers_hint": [
+      "MET"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "meta": {
+      "channel": "google_benzinga",
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
+      "trust_tier": 3,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "MET"
+      ],
+      "alt_sources": [
+        "Benzinga"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "a1020447-581f-5206-85dc-52ac16fc40e3",
+    "timestamp_utc": "2026-04-01T03:15:00+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTTlxYWlwbHVWX1QzdWFDWWNlRFBVM28yWUhnclB4My14dEc3WW5VT0U1X0FVUmdHV180TkVwMFljRnQ2Wm4yQzgzTVh5eE94LTJuUnFuN1VDVTRtM1g4OG1wNS1fU3ByRGZ5bThOM1paVktlTExqNEtDZm1NM2dxcm5GZGFWRExzRTlSa21JSDhONmk1QzdRSG1TdmFxOFdGMlFtdGxIbUZTRkt2cXBWZWJoNlNmNW5DbEpyZU9jNA?oc=5",
+    "title": "90% of MetLife employees express pride as Fortune honors workplace - Stock Titan",
+    "body": "90% of MetLife employees express pride as Fortune honors workplace Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "MET",
+    "tickers_hint": [
+      "MET"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "MET"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

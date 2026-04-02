@@ -1,0 +1,34 @@
+[
+  {
+    "id": "22320f19-4256-5b12-ae95-632ad82eb6fc",
+    "timestamp_utc": "2026-03-31T10:21:36+00:00",
+    "source": "benzinga",
+    "url": "https://www.benzinga.com/quote/PPLC/short-interest",
+    "title": "PPL Stock Short Interest Report | NYSE:PPLC - Benzinga",
+    "body": "PPL Stock Short Interest Report | NYSE:PPLC Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "PPL",
+    "tickers_hint": [
+      "PPL"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "meta": {
+      "channel": "google_benzinga",
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
+      "trust_tier": 3,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "PPL"
+      ],
+      "alt_sources": [
+        "Benzinga"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

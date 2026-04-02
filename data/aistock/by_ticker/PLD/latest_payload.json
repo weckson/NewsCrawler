@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "c002114d-53a5-5e44-a6ef-452f7fc70678",
+      "timestamp_utc": "2026-03-31T12:00:02+00:00",
+      "source": "yahoo_finance_australia",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObVBfR2lnWTIzMjRKWDY0dFlxNmFwQXotUmtrazlHTTQ1NE1FcDdIUDZJY2xjSkkwZlM1NkNVNUtYQ2V0WFpIUjJILUUtREF1WlVvNDlhOG1samVWcHdSRmlrTHhCeEQ0VkJZNEs4OTZ4LUsxWDVyUkNNZm80RExjVGtLcTNBcFJheXFERQ?oc=5",
+      "title": "Prologis (PLD) Ascends But Remains Behind Market: Some Facts to Note - Yahoo Finance Australia",
+      "body": "Prologis (PLD) Ascends But Remains Behind Market: Some Facts to Note Yahoo Finance Australia",
+      "author": null,
+      "language": "en",
+      "ticker": "PLD",
+      "tickers_hint": [
+        "PLD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance australia",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Australia",
+        "source_domain": "yahoofinanceaustralia.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PLD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "c002114d-53a5-5e44-a6ef-452f7fc70678",
+      "timestamp_utc": "2026-03-31T12:00:02+00:00",
+      "source": "yahoo_finance_australia",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObVBfR2lnWTIzMjRKWDY0dFlxNmFwQXotUmtrazlHTTQ1NE1FcDdIUDZJY2xjSkkwZlM1NkNVNUtYQ2V0WFpIUjJILUUtREF1WlVvNDlhOG1samVWcHdSRmlrTHhCeEQ0VkJZNEs4OTZ4LUsxWDVyUkNNZm80RExjVGtLcTNBcFJheXFERQ?oc=5",
+      "title": "Prologis (PLD) Ascends But Remains Behind Market: Some Facts to Note - Yahoo Finance Australia",
+      "body": "Prologis (PLD) Ascends But Remains Behind Market: Some Facts to Note Yahoo Finance Australia",
+      "author": null,
+      "language": "en",
+      "ticker": "PLD",
+      "tickers_hint": [
+        "PLD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance australia",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Australia",
+        "source_domain": "yahoofinanceaustralia.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PLD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

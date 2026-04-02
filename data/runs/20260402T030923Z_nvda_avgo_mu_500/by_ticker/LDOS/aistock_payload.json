@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "661ff3e4-1134-5282-bad4-b5798777e5cf",
+      "timestamp_utc": "2026-04-01T10:26:15+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765456/wells-fargo-initiates-coverage-on-ldos-with-equalweight-rating-ldos-stock-news?mobile=true",
+      "title": "Wells Fargo Initiates Coverage on LDOS with Equal-Weight Rating - GuruFocus",
+      "body": "Wells Fargo Initiates Coverage on LDOS with Equal-Weight Rating GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "LDOS",
+      "tickers_hint": [
+        "LDOS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "LDOS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "661ff3e4-1134-5282-bad4-b5798777e5cf",
+      "timestamp_utc": "2026-04-01T10:26:15+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765456/wells-fargo-initiates-coverage-on-ldos-with-equalweight-rating-ldos-stock-news?mobile=true",
+      "title": "Wells Fargo Initiates Coverage on LDOS with Equal-Weight Rating - GuruFocus",
+      "body": "Wells Fargo Initiates Coverage on LDOS with Equal-Weight Rating GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "LDOS",
+      "tickers_hint": [
+        "LDOS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "LDOS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

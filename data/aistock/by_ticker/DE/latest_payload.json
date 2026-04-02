@@ -1,0 +1,464 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "af9765bb-36cc-53eb-b374-fe9aceba0326",
+      "timestamp_utc": "2026-03-31T10:22:30+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVDMyMEVvQ0VUcjN6OUlpZ1FFUG5SaDJnaFVTek1ha1BEU1pXelB3LVdTaVFNbVpNZ2xIUDBSaTdrVEc3SlVwS3BoZnlXRjdYLUNZa0tNRzhpNXRIYkQxVERUQ1lSbTd3eWVGWEU4Qzc3bkM3SEZ3bjE3SU9ZQUtQWkotdmZ2a1pjelpRNk1yS1djUGhPQ2NMZ0ZfaEhZOFVKelpzc1FuQjNyMlhncnR3akN1VTFtUFlJYjhXQmpLZ2N2andzRFpVeHlyMjJWU0k?oc=5",
+      "title": "Palantir, Tesla, Apple Top Iran Retaliation List: 'A US Company Will Be Destroyed' - Benzinga",
+      "body": "Palantir, Tesla, Apple Top Iran Retaliation List: 'A US Company Will Be Destroyed' Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "A",
+      "tickers_hint": [
+        "A",
+        "AAPL",
+        "DE",
+        "ON",
+        "TSLA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "A",
+          "AAPL",
+          "DE",
+          "ON",
+          "TSLA"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "80e90c95-9862-5e77-8543-6ef2b3b5f1ce",
+      "timestamp_utc": "2026-04-01T10:31:15+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/topics/26/04/51613779/robert-de-niro-82-has-no-plans-to-retire-despite-500m-net-worth-and-a-toddler-i-have-too-much-going-on-i-have-young-children",
+      "title": "Robert De Niro, 82, Has No Plans to Retire Despite $500M Net Worth And A Toddler — 'I Have Too Much Going - Benzinga",
+      "body": "Robert De Niro, 82, Has No Plans to Retire Despite $500M Net Worth And A Toddler — 'I Have Too Much Going Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "DE",
+      "tickers_hint": [
+        "DE",
+        "T"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DE",
+          "T"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c75fa8b6-456a-5074-9143-103e87450f37",
+      "timestamp_utc": "2026-04-01T12:17:18+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/sec/insider-trades/0001933136/ASOF-II-A-(DE)-Holdings-I,-L.P",
+      "title": "ASOF II A DE Holdings I L P Net Worth - Insider Trades and Bio as of Apr 1, 2026 - Benzinga",
+      "body": "ASOF II A DE Holdings I L P Net Worth - Insider Trades and Bio as of Apr 1, 2026 Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "DE",
+      "tickers_hint": [
+        "DE"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DE"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "bf43d1eb-a70a-5975-acf0-774ed044cdc8",
+      "timestamp_utc": "2026-04-01T09:10:07+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765735/deere-de-surges-with-new-analyst-rating-from-barclays-de-stock-news",
+      "title": "Deere (DE) Surges with New Analyst Rating from Barclays | DE Sto - GuruFocus",
+      "body": "Deere (DE) Surges with New Analyst Rating from Barclays | DE Sto GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "DE",
+      "tickers_hint": [
+        "DE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.7500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ecf87b44-9b87-5b51-a466-1e2aefd89bf1",
+      "timestamp_utc": "2026-04-01T00:08:46+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/HLAG.DE/earnings",
+      "title": "HLAG.DE Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "HLAG.DE Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "DE",
+      "tickers_hint": [
+        "DE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "DE"
+        ],
+        "alt_sources": [
+          "Intellectia AI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8ec37f47-192b-5375-848e-fde048591a21",
+      "timestamp_utc": "2026-03-31T15:29:40+00:00",
+      "source": "cdn6.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNTJpY1REMGwzb3N4NEtDT2tkVDlVX1czYmF5ZjRsWmN4NUJkVGdlbmtKVWhDNDF3WUhTUHVJaFlIRmxPQXZ5ekY1Njd1YTZTX3djSzBSX0VhYXNjOS1tV3NDYWFydmdmWlY0amI1NU05WXc0QXUyRHhPRXNaYzZ6Yl9zeGpVMS1MZldSNVh6c3FCbkNjMWhJYlNVbE9XYVU?oc=5",
+      "title": "Tech Stocks Rise On Iran De-Escalation Hopes - cdn6.benzinga.com",
+      "body": "Tech Stocks Rise On Iran De-Escalation Hopes cdn6.benzinga.com",
+      "author": null,
+      "language": "en",
+      "ticker": "DE",
+      "tickers_hint": [
+        "DE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "cdn6.benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "cdn6.benzinga.com",
+        "source_domain": "cdn6benzingacom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "DE"
+        ],
+        "alt_sources": [
+          "cdn6.benzinga.com"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d1c0a68d-9788-555f-a9a6-5825d703e520",
+      "timestamp_utc": "2026-03-31T11:36:50+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/MVV1.DE/earnings",
+      "title": "MVV1.DE Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "MVV1.DE Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "DE",
+      "tickers_hint": [
+        "DE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "DE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "af9765bb-36cc-53eb-b374-fe9aceba0326",
+      "timestamp_utc": "2026-03-31T10:22:30+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVDMyMEVvQ0VUcjN6OUlpZ1FFUG5SaDJnaFVTek1ha1BEU1pXelB3LVdTaVFNbVpNZ2xIUDBSaTdrVEc3SlVwS3BoZnlXRjdYLUNZa0tNRzhpNXRIYkQxVERUQ1lSbTd3eWVGWEU4Qzc3bkM3SEZ3bjE3SU9ZQUtQWkotdmZ2a1pjelpRNk1yS1djUGhPQ2NMZ0ZfaEhZOFVKelpzc1FuQjNyMlhncnR3akN1VTFtUFlJYjhXQmpLZ2N2andzRFpVeHlyMjJWU0k?oc=5",
+      "title": "Palantir, Tesla, Apple Top Iran Retaliation List: 'A US Company Will Be Destroyed' - Benzinga",
+      "body": "Palantir, Tesla, Apple Top Iran Retaliation List: 'A US Company Will Be Destroyed' Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "A",
+      "tickers_hint": [
+        "A",
+        "AAPL",
+        "DE",
+        "ON",
+        "TSLA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "A",
+          "AAPL",
+          "DE",
+          "ON",
+          "TSLA"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "80e90c95-9862-5e77-8543-6ef2b3b5f1ce",
+      "timestamp_utc": "2026-04-01T10:31:15+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/topics/26/04/51613779/robert-de-niro-82-has-no-plans-to-retire-despite-500m-net-worth-and-a-toddler-i-have-too-much-going-on-i-have-young-children",
+      "title": "Robert De Niro, 82, Has No Plans to Retire Despite $500M Net Worth And A Toddler — 'I Have Too Much Going - Benzinga",
+      "body": "Robert De Niro, 82, Has No Plans to Retire Despite $500M Net Worth And A Toddler — 'I Have Too Much Going Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "DE",
+      "tickers_hint": [
+        "DE",
+        "T"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DE",
+          "T"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c75fa8b6-456a-5074-9143-103e87450f37",
+      "timestamp_utc": "2026-04-01T12:17:18+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/sec/insider-trades/0001933136/ASOF-II-A-(DE)-Holdings-I,-L.P",
+      "title": "ASOF II A DE Holdings I L P Net Worth - Insider Trades and Bio as of Apr 1, 2026 - Benzinga",
+      "body": "ASOF II A DE Holdings I L P Net Worth - Insider Trades and Bio as of Apr 1, 2026 Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "DE",
+      "tickers_hint": [
+        "DE"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DE"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "bf43d1eb-a70a-5975-acf0-774ed044cdc8",
+      "timestamp_utc": "2026-04-01T09:10:07+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765735/deere-de-surges-with-new-analyst-rating-from-barclays-de-stock-news",
+      "title": "Deere (DE) Surges with New Analyst Rating from Barclays | DE Sto - GuruFocus",
+      "body": "Deere (DE) Surges with New Analyst Rating from Barclays | DE Sto GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "DE",
+      "tickers_hint": [
+        "DE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.7500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ecf87b44-9b87-5b51-a466-1e2aefd89bf1",
+      "timestamp_utc": "2026-04-01T00:08:46+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/HLAG.DE/earnings",
+      "title": "HLAG.DE Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "HLAG.DE Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "DE",
+      "tickers_hint": [
+        "DE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "DE"
+        ],
+        "alt_sources": [
+          "Intellectia AI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8ec37f47-192b-5375-848e-fde048591a21",
+      "timestamp_utc": "2026-03-31T15:29:40+00:00",
+      "source": "cdn6.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNTJpY1REMGwzb3N4NEtDT2tkVDlVX1czYmF5ZjRsWmN4NUJkVGdlbmtKVWhDNDF3WUhTUHVJaFlIRmxPQXZ5ekY1Njd1YTZTX3djSzBSX0VhYXNjOS1tV3NDYWFydmdmWlY0amI1NU05WXc0QXUyRHhPRXNaYzZ6Yl9zeGpVMS1MZldSNVh6c3FCbkNjMWhJYlNVbE9XYVU?oc=5",
+      "title": "Tech Stocks Rise On Iran De-Escalation Hopes - cdn6.benzinga.com",
+      "body": "Tech Stocks Rise On Iran De-Escalation Hopes cdn6.benzinga.com",
+      "author": null,
+      "language": "en",
+      "ticker": "DE",
+      "tickers_hint": [
+        "DE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "cdn6.benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "cdn6.benzinga.com",
+        "source_domain": "cdn6benzingacom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "DE"
+        ],
+        "alt_sources": [
+          "cdn6.benzinga.com"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d1c0a68d-9788-555f-a9a6-5825d703e520",
+      "timestamp_utc": "2026-03-31T11:36:50+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/MVV1.DE/earnings",
+      "title": "MVV1.DE Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "MVV1.DE Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "DE",
+      "tickers_hint": [
+        "DE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "DE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

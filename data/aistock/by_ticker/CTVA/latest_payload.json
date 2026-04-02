@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "e0e680a4-0f2d-5930-926c-544f551702bc",
+      "timestamp_utc": "2026-04-01T22:15:52+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vaTZrR2ZGdnh2N1pWWm9FajE1Sm1xY1A1LTFlSTZSbVplRXBocW0zcnFkd2hjYUpFQkw1cHV4NWF2OWZxSmVmckR2czBjRUtJdDROa0pVSnlkaGxmSVNWZGxsVFVCQQ?oc=5",
+      "title": "CTVA SEC Filings - Corteva Inc 10-K, 10-Q, 8-K Forms - Stock Titan",
+      "body": "CTVA SEC Filings - Corteva Inc 10-K, 10-Q, 8-K Forms Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "CTVA",
+      "tickers_hint": [
+        "CTVA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CTVA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "e0e680a4-0f2d-5930-926c-544f551702bc",
+      "timestamp_utc": "2026-04-01T22:15:52+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vaTZrR2ZGdnh2N1pWWm9FajE1Sm1xY1A1LTFlSTZSbVplRXBocW0zcnFkd2hjYUpFQkw1cHV4NWF2OWZxSmVmckR2czBjRUtJdDROa0pVSnlkaGxmSVNWZGxsVFVCQQ?oc=5",
+      "title": "CTVA SEC Filings - Corteva Inc 10-K, 10-Q, 8-K Forms - Stock Titan",
+      "body": "CTVA SEC Filings - Corteva Inc 10-K, 10-Q, 8-K Forms Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "CTVA",
+      "tickers_hint": [
+        "CTVA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CTVA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

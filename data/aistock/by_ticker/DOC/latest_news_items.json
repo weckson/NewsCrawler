@@ -1,0 +1,31 @@
+[
+  {
+    "id": "9c63a721-975f-57e0-bf9d-ff0b4da33343",
+    "timestamp_utc": "2026-04-01T11:38:09+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8766074/citigroup-maintains-neutral-rating-on-healthpeak-properties-doc-doc-stock-news",
+    "title": "Citigroup Maintains Neutral Rating on Healthpeak Properties (DOC - GuruFocus",
+    "body": "Citigroup Maintains Neutral Rating on Healthpeak Properties (DOC GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "DOC",
+    "tickers_hint": [
+      "DOC"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "DOC"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

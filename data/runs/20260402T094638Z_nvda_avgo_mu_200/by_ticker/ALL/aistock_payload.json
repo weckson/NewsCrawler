@@ -1,0 +1,246 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "bbfc5a79-cc89-5b3b-9588-d4a9208815e7",
+      "timestamp_utc": "2026-04-01T06:10:05+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/allstate-beat-estimates-again-next-161005801.html",
+      "title": "Will Allstate (ALL) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
+      "body": "Will Allstate (ALL) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "ALL",
+      "tickers_hint": [
+        "ALL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ALL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3f9e00fd-b113-50b4-9e4b-2d96db2e5dfe",
+      "timestamp_utc": "2026-04-01T19:54:00+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/allstate-reports-140m-february-catastrophe-055442921.html",
+      "title": "Allstate (ALL) Reports $140M February Catastrophe Losses - Yahoo Finance",
+      "body": "Allstate (ALL) Reports $140M February Catastrophe Losses Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "ALL",
+      "tickers_hint": [
+        "ALL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ALL"
+        ],
+        "alt_sources": [
+          "Insider Monkey"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "de380ba5-7e2f-5bc4-9e1d-cdeb5ea7771f",
+      "timestamp_utc": "2026-04-01T00:28:37+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-allstate-corporation-all-shares-purchased-by-meyer-handelman-co-2026-04-01/",
+      "title": "The Allstate Corporation $ALL Shares Purchased by Meyer Handelman Co. - MarketBeat",
+      "body": "The Allstate Corporation $ALL Shares Purchased by Meyer Handelman Co. MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ALL",
+      "tickers_hint": [
+        "ALL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ALL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c978e7ce-5d29-5794-9584-8f1ddd8c55e2",
+      "timestamp_utc": "2026-04-01T09:15:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR21xaEZJdUtPcTdUYWgwNmJnX2Z0ZEJ1WXZWUlVUMU5zNFlIY3g2NlJvX0pMZl84eHpRUjNTUkJTTzJoRENHVUdCTmpvMmxOdm1lOGc0a0paMm00U2w3Rnk2c0QyWGtDSnQxckhLWGp4SlEtVjVqdHZvWnAzZDVCRHR3TmtSc1Q4M0tBZ2otaG0zMjlkTjFBMkJYaWhKSVNmUDVTc09nckZRcDZuRjJac0F3R0pLSnFFbjNzNGthbw?oc=5",
+      "title": "Gas hits $4, and Allstate says its app is getting 50,000 weekly price checks - Stock Titan",
+      "body": "Gas hits $4, and Allstate says its app is getting 50,000 weekly price checks Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ALL",
+      "tickers_hint": [
+        "ALL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ALL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "bbfc5a79-cc89-5b3b-9588-d4a9208815e7",
+      "timestamp_utc": "2026-04-01T06:10:05+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/allstate-beat-estimates-again-next-161005801.html",
+      "title": "Will Allstate (ALL) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
+      "body": "Will Allstate (ALL) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "ALL",
+      "tickers_hint": [
+        "ALL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ALL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3f9e00fd-b113-50b4-9e4b-2d96db2e5dfe",
+      "timestamp_utc": "2026-04-01T19:54:00+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/allstate-reports-140m-february-catastrophe-055442921.html",
+      "title": "Allstate (ALL) Reports $140M February Catastrophe Losses - Yahoo Finance",
+      "body": "Allstate (ALL) Reports $140M February Catastrophe Losses Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "ALL",
+      "tickers_hint": [
+        "ALL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ALL"
+        ],
+        "alt_sources": [
+          "Insider Monkey"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "de380ba5-7e2f-5bc4-9e1d-cdeb5ea7771f",
+      "timestamp_utc": "2026-04-01T00:28:37+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-allstate-corporation-all-shares-purchased-by-meyer-handelman-co-2026-04-01/",
+      "title": "The Allstate Corporation $ALL Shares Purchased by Meyer Handelman Co. - MarketBeat",
+      "body": "The Allstate Corporation $ALL Shares Purchased by Meyer Handelman Co. MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ALL",
+      "tickers_hint": [
+        "ALL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ALL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c978e7ce-5d29-5794-9584-8f1ddd8c55e2",
+      "timestamp_utc": "2026-04-01T09:15:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR21xaEZJdUtPcTdUYWgwNmJnX2Z0ZEJ1WXZWUlVUMU5zNFlIY3g2NlJvX0pMZl84eHpRUjNTUkJTTzJoRENHVUdCTmpvMmxOdm1lOGc0a0paMm00U2w3Rnk2c0QyWGtDSnQxckhLWGp4SlEtVjVqdHZvWnAzZDVCRHR3TmtSc1Q4M0tBZ2otaG0zMjlkTjFBMkJYaWhKSVNmUDVTc09nckZRcDZuRjJac0F3R0pLSnFFbjNzNGthbw?oc=5",
+      "title": "Gas hits $4, and Allstate says its app is getting 50,000 weekly price checks - Stock Titan",
+      "body": "Gas hits $4, and Allstate says its app is getting 50,000 weekly price checks Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ALL",
+      "tickers_hint": [
+        "ALL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ALL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

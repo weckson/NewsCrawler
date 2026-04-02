@@ -1,0 +1,118 @@
+[
+  {
+    "id": "ed293b76-0a37-5726-927e-23aeeda858ad",
+    "timestamp_utc": "2026-04-01T11:18:00+00:00",
+    "source": "marketwatch",
+    "url": "https://www.marketwatch.com/data-news/pool-corp-stock-underperforms-wednesday-when-compared-to-competitors-2a507f27-bae9e110a563?mod=mw_quote_news&gaa_at=eafs&gaa_n=AWEtsqdIk7vRfwrId7QAXYn_8yGV1L3emwucOmkBNCdgH2dbFiX1QAfw-YXr&gaa_ts=69cdf17c&gaa_sig=v57KcEZMazxfRK7PuC9kaFABZCVFzJFgKlkg0pOmXjCkF9oD_PHJ3CkW4NK_-THORWnDNIICdtSUNVWzvTO08g%3D%3D",
+    "title": "Pool Corp. stock underperforms Wednesday when compared to competitors - MarketWatch",
+    "body": "Pool Corp. stock underperforms Wednesday when compared to competitors MarketWatch",
+    "author": null,
+    "language": "en",
+    "ticker": "POOL",
+    "tickers_hint": [
+      "POOL"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "marketwatch.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketWatch",
+      "source_domain": "marketwatch.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "POOL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "4749b1a5-a42f-5bba-80a8-5ccdc2ea0bc4",
+    "timestamp_utc": "2026-03-31T09:04:34+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdnY0N3NWdnVVeG1TeFNranhUR1pBV2lJdjJwUzZHblc0WDVPR0Z0dmUzUmdoQjdjNVNBLXd2ZDdUblZJOVV3VTBYOXh6d01FaG9JSGczalV0U0F5V3lUWXNzek1zU1ZrUi1ldW1temV0UDd6aGpxSUFkdTFkU21EUGllREVZblptbWJVYkRfRQ?oc=5",
+    "title": "Affiliate Jennifer Neil plans resale of POOL shares (NASDAQ: POOL) - Stock Titan",
+    "body": "Affiliate Jennifer Neil plans resale of POOL shares (NASDAQ: POOL) Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "POOL",
+    "tickers_hint": [
+      "POOL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "POOL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "8bebc409-c769-5180-bc3b-70debe4f49e7",
+    "timestamp_utc": "2026-03-31T19:27:10+00:00",
+    "source": "defense_world",
+    "url": "https://www.defenseworld.net/2026/04/01/what-is-zacks-researchs-forecast-for-pool-fy2027-earnings.html",
+    "title": "What is Zacks Research’s Forecast for Pool FY2027 Earnings? - Defense World",
+    "body": "Air Armament Engines Fighter Aircraft Helicopters Land Armored Vehicles and Tanks Ordinance and Artillery Personnel Equipment Small Arms Missiles and Space Air Defense Military Satellites Missile Technology Naval Civil Aviation Accidents Airlines Engines Manufacturers MRO Economy Management Appointments Market Trends and Finance Mergers and Acquisitions Companies",
+    "author": null,
+    "language": "en",
+    "ticker": "POOL",
+    "tickers_hint": [
+      "POOL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "defense world",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Defense World",
+      "source_domain": "defenseworld.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "POOL"
+      ],
+      "body_kind": "article_text"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "14db5986-4c86-59c7-9dbb-1a0e0062fa09",
+    "timestamp_utc": "2026-03-31T06:23:00+00:00",
+    "source": "bitget",
+    "url": "https://www.bitget.com/amp/news/detail/12560605322398",
+    "title": "POOL: The Growing Divide in Expectations Conceals a Decisive Catalyst in the First Quarter - Bitget",
+    "body": "POOL: The Growing Divide in Expectations Conceals a Decisive Catalyst in the First Quarter Bitget",
+    "author": null,
+    "language": "en",
+    "ticker": "POOL",
+    "tickers_hint": [
+      "POOL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "bitget",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Bitget",
+      "source_domain": "bitget.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "POOL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

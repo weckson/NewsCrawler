@@ -1,0 +1,60 @@
+[
+  {
+    "id": "ba98ceb4-756b-5227-9959-ec304bbdbe39",
+    "timestamp_utc": "2026-04-01T00:40:48+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-nisa-investment-advisors-llc-cuts-stock-position-in-amphenol-corporation-aph-2026-04-01/",
+    "title": "Nisa Investment Advisors LLC Cuts Stock Position in Amphenol Corporation $APH - MarketBeat",
+    "body": "Nisa Investment Advisors LLC Cuts Stock Position in Amphenol Corporation $APH MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "APH",
+    "tickers_hint": [
+      "APH"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "APH"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "91299060-9169-50b4-ba63-184b8c942b71",
+    "timestamp_utc": "2026-03-31T06:18:45+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8761652/amphenol-aph-upgraded-to-buy-by-jefferies-with-lowered-price-target-aph-stock-news?mobile=true",
+    "title": "Amphenol (APH) Upgraded to Buy by Jefferies with Lowered Price T - GuruFocus",
+    "body": "Amphenol (APH) Upgraded to Buy by Jefferies with Lowered Price T GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "APH",
+    "tickers_hint": [
+      "APH"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "APH"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

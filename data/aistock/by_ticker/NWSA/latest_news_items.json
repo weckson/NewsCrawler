@@ -1,0 +1,31 @@
+[
+  {
+    "id": "72fb3a27-b51e-59c0-ac84-507a23b89502",
+    "timestamp_utc": "2026-04-01T03:41:15+00:00",
+    "source": "gurufocus",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZDFaUUs3UGJxTEtRQ1BPcjVGaUw0SFktLTJ2RFd3LUg0ZUVyaENjbm5SVHVrV1FlVXVaWmJHWEY4WDg4ZnZnM2laVEl4Z0J0a2dJblEtU3RzZWxPN2FRQnJQLVBtOXFNTEFfWmE3Q1JqLXp3TVV0b0N5TnhkY0VvWHpyZTRSdzd1RDZ3Y3QyZ042M2xqVHV5Q0hyRUdJcmVOVUdqelZCQXdaNXVFTkI3em5tZC1paWxDTHc?oc=5",
+    "title": "News Corporation (NWSA) Announces Updates on Stock Repurchase Pr - GuruFocus",
+    "body": "News Corporation (NWSA) Announces Updates on Stock Repurchase Pr GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "NWSA",
+    "tickers_hint": [
+      "NWSA"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "NWSA"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

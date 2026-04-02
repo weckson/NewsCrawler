@@ -1,0 +1,60 @@
+[
+  {
+    "id": "40d1f159-8af9-5268-9e62-46eb7e7ad497",
+    "timestamp_utc": "2026-04-01T12:04:58+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcERoZU94bnhHMUtZOHdfaDE3aFhlSnplUjFyYTV0TnZEVTdlRjVFS0NHUFJrQ0x0Y2psQjFna2J4eGttd3Flb3hJeEhIQWV3TFJvM0pLcEdfMXVTVFNtLVJZSTRPTzlDeXdSdC1CanNsVEdWTzRoclBLTllmVURWc2tuclJRREQydWN1SlZEVW1nZ2JmWkZyUE5VQTJ0c21n?oc=5",
+    "title": "Sempra (NYSE: SRE) EVP Justin Bird sells 1,128 shares under 10b5-1 plan - Stock Titan",
+    "body": "Sempra (NYSE: SRE) EVP Justin Bird sells 1,128 shares under 10b5-1 plan Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "SRE",
+    "tickers_hint": [
+      "SRE"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "SRE"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "f38e0158-d229-5636-92dd-9cce9dd0f1cf",
+    "timestamp_utc": "2026-04-01T12:03:00+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRF96aDlfZFRKUGhLSjZtNTRtOEtlczdKenVPMURoY2dsdlEyb0hEaW5May1Wdy1Va0ZOYkllam5peEZHaDZCcGUteUJMaXp1a1RkZXlCSlRpM1ByeGtrTHV1dXZZVXFGVXhrZk41OFN3bHZydTc5bVl2QVcyUWlZUjUya1VZSlhFX1E?oc=5",
+    "title": "Sempra (NYSE: SRE) RSU vesting reported — 1,128 shares - Stock Titan",
+    "body": "Sempra (NYSE: SRE) RSU vesting reported — 1,128 shares Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "SRE",
+    "tickers_hint": [
+      "SRE"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "SRE"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

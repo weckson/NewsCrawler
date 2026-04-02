@@ -1,0 +1,60 @@
+[
+  {
+    "id": "644b6c86-26be-52af-81e8-a8ece78ee173",
+    "timestamp_utc": "2026-03-31T06:18:45+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8761646/jefferies-upgrades-veralto-vlto-to-buy-with-increased-price-target-vlto-stock-news?mobile=true",
+    "title": "Jefferies Upgrades Veralto (VLTO) to 'Buy' with Increased Price Target | VLTO Stock News - GuruFocus",
+    "body": "Jefferies Upgrades Veralto (VLTO) to 'Buy' with Increased Price Target | VLTO Stock News GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "VLTO",
+    "tickers_hint": [
+      "VLTO"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.7000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "VLTO"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "922ad2b5-c17c-586f-ad05-83c8ed100abc",
+    "timestamp_utc": "2026-03-31T20:47:13+00:00",
+    "source": "defense_world",
+    "url": "https://www.defenseworld.net/2026/04/01/veralto-nysevlto-now-covered-by-analysts-at-jefferies-financial-group.html",
+    "title": "Veralto (NYSE:VLTO) Now Covered by Analysts at Jefferies Financial Group - Defense World",
+    "body": "Air Armament Engines Fighter Aircraft Helicopters Land Armored Vehicles and Tanks Ordinance and Artillery Personnel Equipment Small Arms Missiles and Space Air Defense Military Satellites Missile Technology Naval Civil Aviation Accidents Airlines Engines Manufacturers MRO Economy Management Appointments Market Trends and Finance Mergers and Acquisitions Companies",
+    "author": null,
+    "language": "en",
+    "ticker": "VLTO",
+    "tickers_hint": [
+      "VLTO"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "defense world",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Defense World",
+      "source_domain": "defenseworld.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "VLTO"
+      ],
+      "body_kind": "article_text"
+    },
+    "stream_type": "soft"
+  }
+]

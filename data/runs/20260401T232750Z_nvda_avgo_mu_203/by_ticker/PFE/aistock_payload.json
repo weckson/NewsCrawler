@@ -1,0 +1,310 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "4dd7a584-5899-5484-869b-6bee66f3bf4f",
+      "timestamp_utc": "2026-04-01T07:57:05+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRkstWlBPTHFHYmN3b1pJSUwtazBQYllaY0FKcG5wVm5pQlpGOHM1MFY2V3RGdldwaW4yQzFSdVhNWHRqSWowNFZyaDlQcldmZjY3ZnFLZFRWV1dsdklBdlk0MXh0Y2RaZHEyNUJrblllSGd3cXNmM19PdXFuQ1l5RWxIRU9WME1jeXdIalRJTWc2REJVcUk2eUt6aVBhUzJsS2lTY2NkaTNyX19QUE1kd3ZKSjBVSEhoZVZsWkdZbDE0eWxYQ3c?oc=5",
+      "title": "What's Going On With Pfizer Stock Wednesday? - BioNTech (NASDAQ:BNTX), Pfizer (NYSE:PFE) - Benzinga",
+      "body": "What's Going On With Pfizer Stock Wednesday? - BioNTech (NASDAQ:BNTX), Pfizer (NYSE:PFE) Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "PFE",
+      "tickers_hint": [
+        "PFE"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PFE"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3b2a4878-27e9-5d83-a74e-0d8075109311",
+      "timestamp_utc": "2026-04-01T05:22:00+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTS1HcVVCVWtEeGFBbXN0Z2JOWThyNXdlNWJEd1FNN3RvdkZEX0JqN0Y0WUhsdG80SEZXX0RQM1EyS0dSTlExNmJwUmYyVlBBbmFnMGFQZ0tsMjM0bUpWaXE3TUtfcHd4RGZIRHkxbmpNNUJJcERXUEhWeDQ4cTdYWjY5dURPWVE3V2RwZ1ZPcTg3Rm9qU0E?oc=5",
+      "title": "PFE Stock Trades Above 200 & 50-Day SMA for 3 Months: How to Play - Yahoo Finance",
+      "body": "PFE Stock Trades Above 200 & 50-Day SMA for 3 Months: How to Play Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "PFE",
+      "tickers_hint": [
+        "PFE"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PFE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "48b3fa7d-0538-54f5-ac45-dd20a7ce4b3a",
+      "timestamp_utc": "2026-03-31T08:37:52+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOGlrb1IwM3FsT2lXN1ZNcEJHRTE3a2VQQ01ldHhLZENJQlhfTUVRVGo0NWlkeHU0VkE2UWszUDFFeXVqdGI0NVVfaUpuZXFyT2N6QkIzdXB4RHpwcjhROVBrTXR4QzhwWnhNcDR0YU9oZlZueWxDTWFfVDI4MklrMjNETEphZ3R0UmFBOQ?oc=5",
+      "title": "Pfizer to close South San Francisco research site (PFE:NYSE) - Seeking Alpha",
+      "body": "Pfizer to close South San Francisco research site (PFE:NYSE) Seeking Alpha",
+      "author": null,
+      "language": "en",
+      "ticker": "PFE",
+      "tickers_hint": [
+        "PFE"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PFE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "508e8ab0-3bd9-5486-b21e-a8be30e4616b",
+      "timestamp_utc": "2026-03-31T04:27:52+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjVWc2ZXZiVWdUaGRYVlhZZ2JJWkVLbThOLTg0dWZLSmRxcXdBb1VsTTJiRFlqQW1CTTg3d3FkN0R3OHRsQkRfQkhYamV2ZnJQNmc4WElNSGw?oc=5",
+      "title": "Pfizer Stock Price and Chart — NYSE:PFE - TradingView",
+      "body": "Pfizer Stock Price and Chart — NYSE:PFE TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "PFE",
+      "tickers_hint": [
+        "PFE"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PFE"
+        ],
+        "alt_sources": [
+          "TradingView"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3dc4a6e0-ad58-5ace-aa27-3e5ca79b76b8",
+      "timestamp_utc": "2026-04-01T11:45:04+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGpPbEY3aGxoZFZYOENoajBaSkV4d3VOTmpteEY4Ni1wVVdITE9YQjNZSkV3aEJhNzhLVUFaVkpwOU9ZTjlxY3gtYU1DUjhCT1Fqa3BnRGVleHNFODc5MHRvX1lXNWpTc3ExdElWMlZfNUVlal9sQnJwZkJKR0ZyWDNMYkc?oc=5",
+      "title": "Why Pfizer (PFE) Outpaced the Stock Market Today - Yahoo Finance Singapore",
+      "body": "Why Pfizer (PFE) Outpaced the Stock Market Today Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "PFE",
+      "tickers_hint": [
+        "PFE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PFE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "4dd7a584-5899-5484-869b-6bee66f3bf4f",
+      "timestamp_utc": "2026-04-01T07:57:05+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRkstWlBPTHFHYmN3b1pJSUwtazBQYllaY0FKcG5wVm5pQlpGOHM1MFY2V3RGdldwaW4yQzFSdVhNWHRqSWowNFZyaDlQcldmZjY3ZnFLZFRWV1dsdklBdlk0MXh0Y2RaZHEyNUJrblllSGd3cXNmM19PdXFuQ1l5RWxIRU9WME1jeXdIalRJTWc2REJVcUk2eUt6aVBhUzJsS2lTY2NkaTNyX19QUE1kd3ZKSjBVSEhoZVZsWkdZbDE0eWxYQ3c?oc=5",
+      "title": "What's Going On With Pfizer Stock Wednesday? - BioNTech (NASDAQ:BNTX), Pfizer (NYSE:PFE) - Benzinga",
+      "body": "What's Going On With Pfizer Stock Wednesday? - BioNTech (NASDAQ:BNTX), Pfizer (NYSE:PFE) Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "PFE",
+      "tickers_hint": [
+        "PFE"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PFE"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3b2a4878-27e9-5d83-a74e-0d8075109311",
+      "timestamp_utc": "2026-04-01T05:22:00+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTS1HcVVCVWtEeGFBbXN0Z2JOWThyNXdlNWJEd1FNN3RvdkZEX0JqN0Y0WUhsdG80SEZXX0RQM1EyS0dSTlExNmJwUmYyVlBBbmFnMGFQZ0tsMjM0bUpWaXE3TUtfcHd4RGZIRHkxbmpNNUJJcERXUEhWeDQ4cTdYWjY5dURPWVE3V2RwZ1ZPcTg3Rm9qU0E?oc=5",
+      "title": "PFE Stock Trades Above 200 & 50-Day SMA for 3 Months: How to Play - Yahoo Finance",
+      "body": "PFE Stock Trades Above 200 & 50-Day SMA for 3 Months: How to Play Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "PFE",
+      "tickers_hint": [
+        "PFE"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PFE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "48b3fa7d-0538-54f5-ac45-dd20a7ce4b3a",
+      "timestamp_utc": "2026-03-31T08:37:52+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOGlrb1IwM3FsT2lXN1ZNcEJHRTE3a2VQQ01ldHhLZENJQlhfTUVRVGo0NWlkeHU0VkE2UWszUDFFeXVqdGI0NVVfaUpuZXFyT2N6QkIzdXB4RHpwcjhROVBrTXR4QzhwWnhNcDR0YU9oZlZueWxDTWFfVDI4MklrMjNETEphZ3R0UmFBOQ?oc=5",
+      "title": "Pfizer to close South San Francisco research site (PFE:NYSE) - Seeking Alpha",
+      "body": "Pfizer to close South San Francisco research site (PFE:NYSE) Seeking Alpha",
+      "author": null,
+      "language": "en",
+      "ticker": "PFE",
+      "tickers_hint": [
+        "PFE"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PFE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "508e8ab0-3bd9-5486-b21e-a8be30e4616b",
+      "timestamp_utc": "2026-03-31T04:27:52+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjVWc2ZXZiVWdUaGRYVlhZZ2JJWkVLbThOLTg0dWZLSmRxcXdBb1VsTTJiRFlqQW1CTTg3d3FkN0R3OHRsQkRfQkhYamV2ZnJQNmc4WElNSGw?oc=5",
+      "title": "Pfizer Stock Price and Chart — NYSE:PFE - TradingView",
+      "body": "Pfizer Stock Price and Chart — NYSE:PFE TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "PFE",
+      "tickers_hint": [
+        "PFE"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PFE"
+        ],
+        "alt_sources": [
+          "TradingView"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3dc4a6e0-ad58-5ace-aa27-3e5ca79b76b8",
+      "timestamp_utc": "2026-04-01T11:45:04+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGpPbEY3aGxoZFZYOENoajBaSkV4d3VOTmpteEY4Ni1wVVdITE9YQjNZSkV3aEJhNzhLVUFaVkpwOU9ZTjlxY3gtYU1DUjhCT1Fqa3BnRGVleHNFODc5MHRvX1lXNWpTc3ExdElWMlZfNUVlal9sQnJwZkJKR0ZyWDNMYkc?oc=5",
+      "title": "Why Pfizer (PFE) Outpaced the Stock Market Today - Yahoo Finance Singapore",
+      "body": "Why Pfizer (PFE) Outpaced the Stock Market Today Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "PFE",
+      "tickers_hint": [
+        "PFE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PFE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

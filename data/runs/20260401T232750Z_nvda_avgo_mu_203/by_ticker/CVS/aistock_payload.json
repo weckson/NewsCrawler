@@ -1,0 +1,240 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "9c5900c5-3a9b-53cb-944d-c3e42b9ae318",
+      "timestamp_utc": "2026-04-01T06:44:29+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://sg.finance.yahoo.com/news/cvs-health-cvs-under-analyst-164429879.html",
+      "title": "CVS Health (CVS) Under Analyst Spotlight Following Proposed FTC Settlement Related to Insuling Pricing - Yahoo Finance Singapore",
+      "body": "CVS Health (CVS) Under Analyst Spotlight Following Proposed FTC Settlement Related to Insuling Pricing Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "CVS",
+      "tickers_hint": [
+        "CVS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "CVS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8e91e6a8-e090-5b75-a5d4-94bc5151b2ad",
+      "timestamp_utc": "2026-03-31T06:39:58+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/piper-sandler-issues-pessimistic-forecast-for-cvs-health-nysecvs-stock-price-2026-03-31/",
+      "title": "Piper Sandler Issues Pessimistic Forecast for CVS Health (NYSE:CVS) Stock Price - MarketBeat",
+      "body": "Piper Sandler Issues Pessimistic Forecast for CVS Health (NYSE:CVS) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "CVS",
+      "tickers_hint": [
+        "CVS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "CVS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b79936c2-1ae2-5c42-8cb1-64212b8d284c",
+      "timestamp_utc": "2026-03-31T06:33:38+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8761845/piper-sandler-adjusts-price-target-for-cvs-health-cvs-to-99-cvs-stock-news",
+      "title": "Piper Sandler Adjusts Price Target for CVS Health (CVS) to $99 | - GuruFocus",
+      "body": "Piper Sandler Adjusts Price Target for CVS Health (CVS) to $99 | GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "CVS",
+      "tickers_hint": [
+        "CVS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "CVS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e529a574-e192-55c5-8b1a-3e94fc6fdef8",
+      "timestamp_utc": "2026-03-31T11:45:04+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWmtmTmZCeGlVWDJXaTl6RFI5RUJ4QjVSTTlWYUxDdW96SF95TmNRNHJCR2E0ajNHWGhMTmJHZ3RsTEw0d0ZVbGthWU1Zajh2WW8wUUJGcVRWdFNfSFA4WmNzbE4zZTN4R09zU3piLTNyNGEyQ2dEWWV0eFFqREVGT3NGbw?oc=5",
+      "title": "CVS Health (CVS) Increases Yet Falls Behind Market: What Investors Need to Know - Yahoo Finance Singapore",
+      "body": "CVS Health (CVS) Increases Yet Falls Behind Market: What Investors Need to Know Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "CVS",
+      "tickers_hint": [
+        "CVS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "CVS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "9c5900c5-3a9b-53cb-944d-c3e42b9ae318",
+      "timestamp_utc": "2026-04-01T06:44:29+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://sg.finance.yahoo.com/news/cvs-health-cvs-under-analyst-164429879.html",
+      "title": "CVS Health (CVS) Under Analyst Spotlight Following Proposed FTC Settlement Related to Insuling Pricing - Yahoo Finance Singapore",
+      "body": "CVS Health (CVS) Under Analyst Spotlight Following Proposed FTC Settlement Related to Insuling Pricing Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "CVS",
+      "tickers_hint": [
+        "CVS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "CVS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8e91e6a8-e090-5b75-a5d4-94bc5151b2ad",
+      "timestamp_utc": "2026-03-31T06:39:58+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/piper-sandler-issues-pessimistic-forecast-for-cvs-health-nysecvs-stock-price-2026-03-31/",
+      "title": "Piper Sandler Issues Pessimistic Forecast for CVS Health (NYSE:CVS) Stock Price - MarketBeat",
+      "body": "Piper Sandler Issues Pessimistic Forecast for CVS Health (NYSE:CVS) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "CVS",
+      "tickers_hint": [
+        "CVS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "CVS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b79936c2-1ae2-5c42-8cb1-64212b8d284c",
+      "timestamp_utc": "2026-03-31T06:33:38+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8761845/piper-sandler-adjusts-price-target-for-cvs-health-cvs-to-99-cvs-stock-news",
+      "title": "Piper Sandler Adjusts Price Target for CVS Health (CVS) to $99 | - GuruFocus",
+      "body": "Piper Sandler Adjusts Price Target for CVS Health (CVS) to $99 | GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "CVS",
+      "tickers_hint": [
+        "CVS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "CVS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e529a574-e192-55c5-8b1a-3e94fc6fdef8",
+      "timestamp_utc": "2026-03-31T11:45:04+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWmtmTmZCeGlVWDJXaTl6RFI5RUJ4QjVSTTlWYUxDdW96SF95TmNRNHJCR2E0ajNHWGhMTmJHZ3RsTEw0d0ZVbGthWU1Zajh2WW8wUUJGcVRWdFNfSFA4WmNzbE4zZTN4R09zU3piLTNyNGEyQ2dEWWV0eFFqREVGT3NGbw?oc=5",
+      "title": "CVS Health (CVS) Increases Yet Falls Behind Market: What Investors Need to Know - Yahoo Finance Singapore",
+      "body": "CVS Health (CVS) Increases Yet Falls Behind Market: What Investors Need to Know Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "CVS",
+      "tickers_hint": [
+        "CVS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "CVS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

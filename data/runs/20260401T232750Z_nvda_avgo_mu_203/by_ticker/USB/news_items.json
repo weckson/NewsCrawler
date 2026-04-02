@@ -1,0 +1,89 @@
+[
+  {
+    "id": "635bdc7e-f077-505f-a3bc-e6b0d718d028",
+    "timestamp_utc": "2026-03-31T08:34:56+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8762252/morgan-stanley-lowers-price-target-for-us-bancorp-usb-usb-stock-news?mobile=true",
+    "title": "Morgan Stanley Lowers Price Target for U.S. Bancorp (USB) | USB Stock News - GuruFocus",
+    "body": "Morgan Stanley Lowers Price Target for U.S. Bancorp (USB) | USB Stock News GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "USB",
+    "tickers_hint": [
+      "USB"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "USB"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "f9bb4ce7-9690-5ee4-883e-0fec6c6b2cb1",
+    "timestamp_utc": "2026-03-31T08:37:14+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-issues-pessimistic-forecast-for-us-bancorp-nyseusb-stock-price-2026-03-31/",
+    "title": "Morgan Stanley Issues Pessimistic Forecast for U.S. Bancorp (NYSE:USB) Stock Price - MarketBeat",
+    "body": "Morgan Stanley Issues Pessimistic Forecast for U.S. Bancorp (NYSE:USB) Stock Price MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "USB",
+    "tickers_hint": [
+      "USB"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "USB"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "71745e41-8fc5-5428-bd4f-881f03c7b652",
+    "timestamp_utc": "2026-03-31T01:01:38+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-royal-fund-management-llc-boosts-stock-position-in-us-bancorp-usb-2026-03-31/",
+    "title": "Royal Fund Management LLC Boosts Stock Position in U.S. Bancorp $USB - MarketBeat",
+    "body": "Royal Fund Management LLC Boosts Stock Position in U.S. Bancorp $USB MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "USB",
+    "tickers_hint": [
+      "USB"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "USB"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

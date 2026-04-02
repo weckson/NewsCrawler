@@ -1,0 +1,147 @@
+# Financial News Crawler — source configuration
+# Copy to config/sources.yaml and fill in your values.
+#
+# Excluded (already in weckson/AIStock):
+#   Polygon, SEC/EDGAR, FINRA, Finnhub, Reddit, FRED, yfinance/Yahoo
+
+sources:
+
+  # ── 1. Benzinga News API ────────────────────────────────────────────────────
+  - source_key: benzinga_news_api
+    type: api
+    enabled: true
+    base_url: https://api.benzinga.com/api/v2
+    endpoints:
+      news: /news
+      press_releases: /press-releases
+    rate_limit:
+      max_concurrency: 2
+      min_delay_ms: 250
+      max_delay_ms: 750
+      max_retries: 5
+    licensing:
+      store_full_text: true          # if your plan permits
+      redistribution_allowed: false
+    alert_on_403: true
+
+  # ── 2. PR Newswire RSS ──────────────────────────────────────────────────────
+  - source_key: prnewswire_rss_financial
+    type: rss
+    enabled: true
+    feed_urls:
+      - https://www.prnewswire.com/rss/news-releases-list.rss
+    rate_limit:
+      max_concurrency: 1
+      min_delay_ms: 300000          # 5 min
+      max_delay_ms: 900000          # 15 min
+      max_retries: 3
+    licensing:
+      store_full_text: false        # headline + link only unless licensed
+      redistribution_allowed: false
+
+  # ── 3. Business Wire RSS ────────────────────────────────────────────────────
+  - source_key: businesswire_rss
+    type: rss
+    enabled: true
+    feed_urls:
+      - https://feed.businesswire.com/rss/home/?rss=G1&rssid=20
+    rate_limit:
+      max_concurrency: 1
+      min_delay_ms: 300000
+      max_delay_ms: 900000
+      max_retries: 3
+    licensing:
+      store_full_text: false
+      redistribution_allowed: false
+
+  # ── 4. Company IR RSS (examples — add your watchlist) ───────────────────────
+  - source_key: ir_rss_example_asx_bhp
+    type: rss
+    enabled: false                  # enable and update URL for your watchlist
+    feed_urls:
+      - https://www.bhp.com/en/investors/news-and-media/news/rss
+    rate_limit:
+      max_concurrency: 1
+      min_delay_ms: 600000          # 10 min
+      max_delay_ms: 3600000         # 60 min
+      max_retries: 3
+    licensing:
+      store_full_text: false
+      redistribution_allowed: false
+
+  # ── 5. ASX Company Announcements (ComNews / web) ───────────────────────────
+  - source_key: asx_announcements_web
+    type: web
+    enabled: false                  # prefer ComNews subscription for production
+    base_url: https://www.asx.com.au
+    endpoints:
+      announcements: /asx/statistics/announcements.do
+    rate_limit:
+      max_concurrency: 1
+      min_delay_ms: 60000
+      max_delay_ms: 180000
+      max_retries: 2
+    licensing:
+      store_full_text: false
+      redistribution_allowed: false
+
+  # ── 6. ASIC Newsroom ────────────────────────────────────────────────────────
+  - source_key: asic_newsroom
+    type: rss
+    enabled: true
+    feed_urls:
+      - https://asic.gov.au/about-asic/news-centre/find-a-media-release/media-releases-rss-feed/
+    rate_limit:
+      max_concurrency: 1
+      min_delay_ms: 1800000         # 30 min
+      max_delay_ms: 10800000        # 3 hr
+      max_retries: 2
+    licensing:
+      store_full_text: false
+      redistribution_allowed: false
+
+  # ── 7. Reuters/RDP stub (vendor feed — requires entitlement) ────────────────
+  - source_key: lseg_rdp_news
+    type: vendor_feed
+    enabled: false                  # set true once credentials are configured
+    base_url: https://api.refinitiv.com
+    endpoints:
+      news: /data/news/v1
+    rate_limit:
+      max_concurrency: 2
+      min_delay_ms: 250
+      max_delay_ms: 750
+      max_retries: 5
+    licensing:
+      store_full_text: true
+      redistribution_allowed: false  # explicit RDP restriction
+
+# ── Alert rules ──────────────────────────────────────────────────────────────
+alert_rules:
+  - name: market_keywords
+    keywords:
+      - earnings
+      - guidance
+      - acquisition
+      - merger
+      - bankruptcy
+      - "profit warning"
+      - "dividend cut"
+      - "capital raising"
+    notify:
+      - slack
+
+  - name: asx_watchlist
+    tickers:
+      - BHP
+      - CBA
+      - CSL
+    notify:
+      - slack
+
+  - name: regulatory_actions
+    sources:
+      - asic_newsroom
+    notify:
+      - slack
+      - email

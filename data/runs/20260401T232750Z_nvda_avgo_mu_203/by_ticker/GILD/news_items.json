@@ -1,0 +1,89 @@
+[
+  {
+    "id": "c5125ebb-4f00-5762-9985-cb956e1a27e7",
+    "timestamp_utc": "2026-04-01T00:44:43+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-gilead-sciences-inc-gild-stock-holdings-raised-by-nisa-investment-advisors-llc-2026-04-01/",
+    "title": "Gilead Sciences, Inc. $GILD Stock Holdings Raised by Nisa Investment Advisors LLC - MarketBeat",
+    "body": "Gilead Sciences, Inc. $GILD Stock Holdings Raised by Nisa Investment Advisors LLC MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "GILD",
+    "tickers_hint": [
+      "GILD"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "GILD"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "ddfcbbe7-d682-5010-8f2a-d8739c1259b1",
+    "timestamp_utc": "2026-04-01T04:17:06+00:00",
+    "source": "tradingkey.com",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ3YwQmphZkktTUJnNHVOYTJ6U3VTOTRtZ0hQTk1nUTFDOTBGbE1pTVRlYTZsaTcwQjRsbmJyTWdYV1V5RWVBU1RjSGc5bjNBVmt1UVJCekVGSmUtV25GNE5ha3VLYjd6VFV4N19wT09KTEUzbk5pZGVSTWFuenRMNncyWE4wcEV2UnRr?oc=5",
+    "title": "Gilead Sciences Inc Stock (GILD) Moved Up by 3.03% on Apr 1: Facts Behind the Movement - tradingkey.com",
+    "body": "Gilead Sciences Inc Stock (GILD) Moved Up by 3.03% on Apr 1: Facts Behind the Movement tradingkey.com",
+    "author": null,
+    "language": "en",
+    "ticker": "GILD",
+    "tickers_hint": [
+      "GILD"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "tradingkey.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "tradingkey.com",
+      "source_domain": "tradingkeycom.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "GILD"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "e5a04d63-da30-5fdd-bfbe-d685f301f745",
+    "timestamp_utc": "2026-03-31T04:17:03+00:00",
+    "source": "tradingkey.com",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbHppV3lnblNDOHk3YVU3LUVxa1FERW03amt2Uk5JOFN6TWIxdE9uYTdYVndOeEtpT2FqbGkwU09Ea0VSZG10dC1yRy1RTzY5ak96M1NSRTFVTTJvRXdhMjVzOUo3YlJaamU3TTVkNENJVUNLMm1oLWpnV1lmNUg1enN2WVVmN2lvWUF3?oc=5",
+    "title": "Gilead Sciences Inc Stock (GILD) Moved Up by 3.62% on Mar 31: A Full Analysis - tradingkey.com",
+    "body": "Gilead Sciences Inc Stock (GILD) Moved Up by 3.62% on Mar 31: A Full Analysis tradingkey.com",
+    "author": null,
+    "language": "en",
+    "ticker": "GILD",
+    "tickers_hint": [
+      "GILD"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "tradingkey.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "tradingkey.com",
+      "source_domain": "tradingkeycom.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "GILD"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

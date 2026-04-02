@@ -1,0 +1,128 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "57ded587-e99f-5e01-ad89-291e09a892bf",
+      "timestamp_utc": "2026-04-01T05:40:03+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZWF3QXhRX1NMZ0NCMGNMcDU4ZXFsdUtrU1hBaE5HZy1xcDVUTUxiUWp2V2s3aGNtT21Ody1icjZucHc5cndwcUlwbnlCcmc2X2MtclJHVHk1aXlCMWdJbm1LUmpKY2R4MF9YV0xvRWFzRUNpM05yTWRBbmY4Z2F6OXZzWTZRcTUzeHlRa0hhaU5Kc3RkWmc4?oc=5",
+      "title": "GEHC or ABT: Which Is the Better Value Stock Right Now? - Yahoo Finance",
+      "body": "GEHC or ABT: Which Is the Better Value Stock Right Now? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "ABT",
+      "tickers_hint": [
+        "ABT",
+        "GEHC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ABT",
+          "GEHC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "577f07ab-d14d-5911-94da-dc571ad54791",
+      "timestamp_utc": "2026-03-31T03:40:02+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY3JlQUVoeUItZmdIN1VpcFhoZVJWNzRBaUw1eUs1SmtseG5iVVFyb1V4UmNtTFMzR2NMNkpZTHcxcUtqLXFmTUNVMEhEVGdkMmUzemVMckIyZVFQVjJ2S3llaW9NVmtsZ1BlNlhBYVhLMFF6UElFb2ZPaThIcklVU1RFeWtleWlHcXM0cnE1NnZMTmFxQVZ2SF8xS0tieWIyd0xVOTQ0OA?oc=5",
+      "title": "Why GE HealthCare Technologies (GEHC) is a Top Value Stock for the Long-Term - Yahoo Finance",
+      "body": "Why GE HealthCare Technologies (GEHC) is a Top Value Stock for the Long-Term Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "GEHC",
+      "tickers_hint": [
+        "GEHC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "GEHC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "57ded587-e99f-5e01-ad89-291e09a892bf",
+      "timestamp_utc": "2026-04-01T05:40:03+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZWF3QXhRX1NMZ0NCMGNMcDU4ZXFsdUtrU1hBaE5HZy1xcDVUTUxiUWp2V2s3aGNtT21Ody1icjZucHc5cndwcUlwbnlCcmc2X2MtclJHVHk1aXlCMWdJbm1LUmpKY2R4MF9YV0xvRWFzRUNpM05yTWRBbmY4Z2F6OXZzWTZRcTUzeHlRa0hhaU5Kc3RkWmc4?oc=5",
+      "title": "GEHC or ABT: Which Is the Better Value Stock Right Now? - Yahoo Finance",
+      "body": "GEHC or ABT: Which Is the Better Value Stock Right Now? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "ABT",
+      "tickers_hint": [
+        "ABT",
+        "GEHC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ABT",
+          "GEHC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "577f07ab-d14d-5911-94da-dc571ad54791",
+      "timestamp_utc": "2026-03-31T03:40:02+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY3JlQUVoeUItZmdIN1VpcFhoZVJWNzRBaUw1eUs1SmtseG5iVVFyb1V4UmNtTFMzR2NMNkpZTHcxcUtqLXFmTUNVMEhEVGdkMmUzemVMckIyZVFQVjJ2S3llaW9NVmtsZ1BlNlhBYVhLMFF6UElFb2ZPaThIcklVU1RFeWtleWlHcXM0cnE1NnZMTmFxQVZ2SF8xS0tieWIyd0xVOTQ0OA?oc=5",
+      "title": "Why GE HealthCare Technologies (GEHC) is a Top Value Stock for the Long-Term - Yahoo Finance",
+      "body": "Why GE HealthCare Technologies (GEHC) is a Top Value Stock for the Long-Term Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "GEHC",
+      "tickers_hint": [
+        "GEHC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "GEHC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

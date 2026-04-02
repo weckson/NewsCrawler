@@ -1,0 +1,251 @@
+
+============================================================================================
+  20-ticker watchlist NEWS REPORT — Quality Filtered, 2026-03-30 14:00
+============================================================================================
+
+  CRAWL STATS:
+  Channel                      Raw Description
+  ------------------------- ------ ----------------------------------------
+  AMD-IR                        10 Official AMD Investor Relations press releases RSS
+  BZ-via-Google               3432 Google News filtered to site:benzinga.com
+  Google-broad                3470 Google News all financial sources
+  TOTAL                       6912
+
+  QUALITY PIPELINE:
+    Raw articles:       6912
+    After quality filter:   33  (removed 6879 junk/irrelevant/dupes)
+    New saved to DB:      33
+    Benzinga articles:     6  (direct Benzinga coverage)
+    Watchlist tickers:    20
+
+  TICKER COVERAGE:
+    NVDA      8
+    MU        7
+    AMD       5
+    ON        5
+    ARM       2
+    ASML      2
+    MRVL      2
+    QCOM      1
+    TER       1
+    TSM       1
+    ADI       0
+    AMAT      0
+    AVGO      0
+    INTC      0
+    KLAC      0
+    LRCX      0
+    MCHP      0
+    MPWR      0
+    NXPI      0
+    TXN       0
+
+  ANTI-SCRAPE STRATEGY:
+    - Benzinga HTML: SKIPPED (Cloudflare JS challenge blocks simple HTTP)
+    - Benzinga RSS:  /feed + /news/feed (no CF, structured XML)
+    - Google->BZ:    site:benzinga.com (Google already crawled, no CF)
+    - Polite crawl:  2s delay, standard UA, no JS execution needed
+
+  ── BENZINGA ARTICLES (6) ──
+
+    1. [TOP] [03-29 03:50] [rel:0.65] [BZ-via-Google]
+       Cathie Wood Going Cold On Big Tech? Ark Sells Nvidia, AMD, Meta And Google Stock — AI Darlings Get The Dump - Advanced Micro Devices (NASDAQ:AMD), ARK Blockchain & Fintech Innovation ETF (BATS:ARKF)
+       Source: Benzinga  (also: Benzinga)
+       > Cathie Wood Going Cold On Big Tech? Ark Sells Nvidia, AMD, Meta And Google Stock — AI Darlings Get The Dump - Advanced Micro Devices (NASDAQ:AMD), ARK Blockchai...
+       https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMHgza2luR3lFOVE0TG95NnpISllfVUp4bnVWaE0yeXUtSzlaRVBtSWxYMFo0bEpjWUF
+
+    2. [TOP] [03-28 06:01] [rel:0.60] [BZ-via-Google]
+       Jensen Huang Says The Ability To 'Forget The Last Moment' Gives Great Achievers A Superpower: 'Let The Past Be The Past' - NVIDIA (NASDAQ:NVDA)
+       Source: Benzinga
+       > Jensen Huang Says The Ability To 'Forget The Last Moment' Gives Great Achievers A Superpower: 'Let The Past Be The Past' - NVIDIA (NASDAQ:NVDA) Benzinga
+       https://news.google.com/rss/articles/CBMirAFBVV95cUxNYkF0N1NrQjVINEEzWU9xcDdUTDlzQWI2UllRVXpieDlyM1NqalZmUmN1eXpxZlpiSXJ
+
+    3. [TOP] [03-28 17:25] [rel:0.60] [BZ-via-Google]
+       Mark Cuban Fires Back At Musk's 'Work Optional' Vision With Mock IPO Risk Filing As SpaceX IPO Looms
+       Source: Benzinga  (also: Benzinga)
+       > Mark Cuban Fires Back At Musk's 'Work Optional' Vision With Mock IPO Risk Filing As SpaceX IPO Looms Benzinga
+       https://news.google.com/rss/articles/CBMi3wFBVV95cUxQXzN0cnZ6SjZ3ZTVydXNBUFBhcVY3WEdyOFZrbmUwSC1HdGtmU3lKMTlUb2JSUV96MER
+
+    4. [TOP] [03-28 17:42] [rel:0.55] [BZ-via-Google]
+       Elon Musk's xAI Loses Last Original Co-Founder Ahead Of SpaceX IPO: Report
+       Source: Benzinga  (also: Benzinga)
+       > Elon Musk's xAI Loses Last Original Co-Founder Ahead Of SpaceX IPO: Report Benzinga
+       https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVk52Ml9vbHVwMDA2R0huaWJ1TkU3S29UYXJYX1Jvc3NHenQxSWNNbzctTU9mUEZFMld
+
+    5. [TOP] [03-28 08:35] [rel:0.50] [BZ-via-Google]
+       Schumer Says 'Status Quo' 60-Day Funding Bill 'Dead On Arrival'
+       Source: Benzinga  (also: Benzinga)
+       > Schumer Says 'Status Quo' 60-Day Funding Bill 'Dead On Arrival' Benzinga
+       https://news.google.com/rss/articles/CBMiswFBVV95cUxPT3hPT3VIY0lXZVlHMXVLWmUtOE93MVNkSVc0X1lZbzRmR1ZqREpvT3pqbko1ZEg3cWl
+
+    6. [TOP] [03-28 07:02] [rel:0.50] [BZ-via-Google]
+       Tim Draper On Bitcoin And The Future Of The Financial System: 'After The Automobile, People Still Ride Horses For A While' - Bank of America (NYSE:BAC)
+       Source: Benzinga  (also: Benzinga)
+       > Tim Draper On Bitcoin And The Future Of The Financial System: 'After The Automobile, People Still Ride Horses For A While' - Bank of America (NYSE:BAC) Benzinga
+       https://news.google.com/rss/articles/CBMisgFBVV95cUxOT05HV3BNWlZaaS10cER5RnRHb3lyUlRhY2EwckVaSDVLZk5ZUVZVX1hGMjA5cWduUll
+
+  ── OTHER SOURCES (27) ──
+
+    1. [TOP] [03-29 10:22] [rel:0.70] [Google-broad]
+       Advanced Micro Devices (AMD) and Samsung Expand Their Partnership for Memory Chip Supplies
+       Source: Yahoo Finance
+       > Advanced Micro Devices (AMD) and Samsung Expand Their Partnership for Memory Chip Supplies Yahoo Finance
+       https://news.google.com/rss/articles/CBMipgFBVV95cUxONHJGVHN0ZmpXODRWMjdwbXhMLUlKRXF3ekNydWd6X00tQm1KLWh0Xzl5MVpkNjNZeDk
+
+    2. [OK ] [03-28 05:27] [rel:0.65] [Google-broad]
+       Analyst Signals Caution Amid Demand Concerns For Advanced Micro Devices (AMD)
+       Source: Insider Monkey
+       > Analyst Signals Caution Amid Demand Concerns For Advanced Micro Devices (AMD) Insider Monkey
+       https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY1pwU1Y4TG5UMkptMXlydUUwRURrd0ZZZ2xfclZ5ZG1Hd05yT0IwMllEQ0hjSllsVXV
+
+    3. [low] [03-29 05:43] [rel:0.55] [Google-broad]
+       Cathie Wood Going Cold On Big Tech? Ark Sells Nvidia, AMD, Meta And Google Stock — AI Darlings Get The Dump
+       Source: AOL.com
+       > Cathie Wood Going Cold On Big Tech? Ark Sells Nvidia, AMD, Meta And Google Stock — AI Darlings Get The Dump AOL.com
+       https://news.google.com/rss/articles/CBMiekFVX3lxTE45VU9MSUI3SnBhTllWandGc043WjdlRXBJcVdBaVFONG1Mb2Q4NzBic01lVTRBV0xOOTA
+
+    4. [low] [03-29 04:00] [rel:0.55] [Google-broad]
+       As Meta Doubles Down on Data Center Investment, AMD and American Tower Could Be the Top Stocks to Buy
+       Source: FinancialContent
+       > As Meta Doubles Down on Data Center Investment, AMD and American Tower Could Be the Top Stocks to Buy FinancialContent
+       https://news.google.com/rss/articles/CBMigAJBVV95cUxPaVpNeFNuYVkwTlZveW00QUhZblBzWGJJalNvYjB4NngzU0pjaFMzN2pTVm44MnpRQS1
+
+    5. [TOP] [03-29 03:35] [rel:0.60] [Google-broad]
+       Nvidia Stock (NVDA) Is Stalling – and Cathie Wood Is Losing Patience
+       Source: TipRanks
+       > Nvidia Stock (NVDA) Is Stalling – and Cathie Wood Is Losing Patience TipRanks
+       https://news.google.com/rss/articles/CBMimgFBVV95cUxORUhTajRGWU16VjBIM1A0a081eWNmb0RDaVptcUhfZDhVRm53VW0xSGJ5NWwweElBQlp
+
+    6. [TOP] [03-28 03:49] [rel:0.60] [Google-broad]
+       NVIDIA (NVDA) Shares Higher After Jim Cramer Criticized Sellers
+       Source: Yahoo Finance
+       > NVIDIA (NVDA) Shares Higher After Jim Cramer Criticized Sellers Yahoo Finance
+       https://news.google.com/rss/articles/CBMimgFBVV95cUxONVhMZi1NWHpacGswaGo0TGJ0NTA2bU85MGROSkxSbFVVOFBFSnBnYWRoNm4tVzRFUGY
+
+    7. [TOP] [03-29 12:59] [rel:0.55] [Google-broad]
+       MU vs. NVDA vs. AMD: Which Chip Stock Has the Best Upside Potential, According to Wall Street?
+       Source: TipRanks
+       > MU vs. NVDA vs. AMD: Which Chip Stock Has the Best Upside Potential, According to Wall Street? TipRanks
+       https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSGNHSTVCUmJwSUtWbFJlSzUwYXJoZ2VrYnFNb2ctMHViblNlYVY2Q01xaXNzOXVYU2J
+
+    8. [TOP] [03-28 21:44] [rel:0.50] [Google-broad]
+       Prediction: This Will Be Nvidia's Stock Price 3 Years From Now
+       Source: The Motley Fool
+       > Prediction: This Will Be Nvidia's Stock Price 3 Years From Now The Motley Fool
+       https://news.google.com/rss/articles/CBMimAFBVV95cUxPYUgtMng3MHdmT3doLXRRSENoZDY4M1NzcDVLZ29aOEFjWVdEQ0tIZWw0VFJHbVRJbHY
+
+    9. [low] [03-29 06:11] [rel:0.50] [Google-broad]
+       Finance experts predict Nvidia’s stock price for end of 2026
+       Source: Finbold
+       > Finance experts predict Nvidia’s stock price for end of 2026 Finbold
+       https://news.google.com/rss/articles/CBMihwFBVV95cUxPWGpaaDhGRWxadWk0NXV3NURDajFxUU9ObUdRdXJwRklyZmMzanBzTV9tUzdMNFdoUER
+
+   10. [low] [03-29 04:17] [rel:0.50] [Google-broad]
+       Nvidia stock sends valuation signal for first time in 13 years
+       Source: thestreet.com
+       > Nvidia stock sends valuation signal for first time in 13 years thestreet.com
+       https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUNhZWJzY0hJVTJjUlVHWndRN1N2eUpfU2RZdDNfVnUzcVJNeVNUS0o4ZGxNVWtsUkF
+
+   11. [low] [03-28 15:00] [rel:0.50] [Google-broad]
+       Cramer says he’d wait on Nvidia stock right now
+       Source: thestreet.com
+       > Cramer says he’d wait on Nvidia stock right now thestreet.com
+       https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDZ2QzF3ZTk5Sk1NbU9hVlpMRGg0bGtBYWZ5YUJod3dQdzJxN2k5SVNqd25SU0oybW5
+
+   12. [OK ] [03-29 13:26] [rel:0.60] [Google-broad]
+       Is Taiwan Semiconductor Manufacturing Company Limited (TSM) A Good Stock To Buy Now?
+       Source: Insider Monkey
+       > Is Taiwan Semiconductor Manufacturing Company Limited (TSM) A Good Stock To Buy Now? Insider Monkey
+       https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjl4OWxqbTh4eXFyeDlXRC1JaFE5MEM1N04zR1MwNURHT2liTjNNbFM0MHJWTFlnM0l
+
+   13. [low] [03-28 13:21] [rel:0.50] [Google-broad]
+       Could Qualcomm Stock Turn $1,000 Into $10,000 This Decade?
+       Source: AOL.com
+       > Could Qualcomm Stock Turn $1,000 Into $10,000 This Decade? AOL.com
+       https://news.google.com/rss/articles/CBMie0FVX3lxTE1keUpNZWphMjlHSXlOVHdZRG5RUG9SWTd5Z0kzcjNNd2tHUUNKRzB3a3VZQ1RyLW4zM0J
+
+   14. [TOP] [03-29 01:57] [rel:0.70] [Google-broad]
+       Micron (MU) or Microsoft (MSFT): Which Beaten-Down AI Stock Is the Better Buy Right Now?
+       Source: TipRanks
+       > Micron (MU) or Microsoft (MSFT): Which Beaten-Down AI Stock Is the Better Buy Right Now? TipRanks
+       https://news.google.com/rss/articles/CBMisgFBVV95cUxQeThYMTZCcXVVX2xiaVhoZ2RPcXp0NlNvU09LLXEzcHVfcm9yQ0N0bnQwRThYQmNrb0x
+
+   15. [TOP] [03-28 05:55] [rel:0.65] [Google-broad]
+       Micron: AI Memory Paradox Could Send Demand Exploding Despite Margin Risks (NASDAQ:MU)
+       Source: Seeking Alpha
+       > Micron: AI Memory Paradox Could Send Demand Exploding Despite Margin Risks (NASDAQ:MU) Seeking Alpha
+       https://news.google.com/rss/articles/CBMitAFBVV95cUxNR25aYXhCUzR5YUdkSEVOWnRKZ3NESHhJLXFYRlp0U0UtQWx3b1NkWVNiWC1SNVgtVmR
+
+   16. [TOP] [03-29 10:44] [rel:0.60] [Google-broad]
+       ‘Time to Change the Tune’: Top Investor Steps Back on Micron Stock (MU)
+       Source: TipRanks
+       > ‘Time to Change the Tune’: Top Investor Steps Back on Micron Stock (MU) TipRanks
+       https://news.google.com/rss/articles/CBMinAFBVV95cUxNblN5eTVJa05RM3U3WnVkVFlwODNLTnZjVEJDS0RSOTlhSTdjTkU0SGRZcUk2YzNRTk9
+
+   17. [TOP] [03-29 05:50] [rel:0.50] [Google-broad]
+       Micron's HBM4 Is Now in Mass Production for Nvidia's Next-Gen Platform. This Could Be a Defining Moment for the Stock.
+       Source: Yahoo Finance
+       > Micron's HBM4 Is Now in Mass Production for Nvidia's Next-Gen Platform. This Could Be a Defining Moment for the Stock. Yahoo Finance
+       https://news.google.com/rss/articles/CBMingFBVV95cUxNZldKdXhvX3hnaWhIcm5NNG5rT2pjbVh3U3NUSURLam01bWNxUWdwWUpLaGktbWgtM0g
+
+   18. [TOP] [03-29 03:31] [rel:0.50] [Google-broad]
+       ‘Don’t Be Late to the Party,’ Says Top Investor About Micron Stock
+       Source: TipRanks
+       > ‘Don’t Be Late to the Party,’ Says Top Investor About Micron Stock TipRanks
+       https://news.google.com/rss/articles/CBMilwFBVV95cUxOczljWWc3aUdPWW5adFUybnpxeU4yeHRTbGkydlFqemZvU0Z5TDFmVUFOYlczSzFjRXM
+
+   19. [TOP] [03-28 03:00] [rel:0.50] [Google-broad]
+       What Does the New Google TurboQuant Compressor Really Mean for Micron Stock?
+       Source: Barchart
+       > What Does the New Google TurboQuant Compressor Really Mean for Micron Stock? Barchart
+       https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU1dQZ1BXcFk1b0ZvSGh1NGNLLU5nTVM0LXNnT21rVkFBbGpScEdVemlSVHRhSEJBS3Z
+
+   20. [TOP] [03-29 10:27] [rel:0.60] [Google-broad]
+       Is Marvell Technology (MRVL) One of the High Growth Semiconductor Stocks to Buy?
+       Source: Yahoo Finance
+       > Is Marvell Technology (MRVL) One of the High Growth Semiconductor Stocks to Buy? Yahoo Finance
+       https://news.google.com/rss/articles/CBMiowFBVV95cUxPZXN6eHdsSWw0TVBMVE1IVEN4T21zQktUdW42UERWTmpxNGM0NUg1WG1rdnp6TUdqOXV
+
+   21. [low] [03-29 04:28] [rel:0.55] [Google-broad]
+       Marvell Stock Is Up 5% This Week. Here’s Why Analysts See 140% Upside to $228
+       Source: TIKR.com
+       > Marvell Stock Is Up 5% This Week. Here’s Why Analysts See 140% Upside to $228 TIKR.com
+       https://news.google.com/rss/articles/CBMinwFBVV95cUxORnBhMmczV2ZrbnU1RGUwT1BLSWh1bXBORm5lU0ROTjhxYzZMQjZfOG5EWmE0MUtHWVp
+
+   22. [OK ] [03-28 23:01] [rel:0.65] [Google-broad]
+       5 big analyst AI moves: Downgrades for SAP and Qualcomm; Arm lifted to Buy
+       Source: Investing.com
+       > 5 big analyst AI moves: Downgrades for SAP and Qualcomm; Arm lifted to Buy Investing.com
+       https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnZtbTNjcGVUMVRzaTFFelJ1OENGVXpOQjlseFdZRktEdTBHRjQ4d0RnWXhEb0lkVU9
+
+   23. [low] [03-28 05:18] [rel:0.70] [Google-broad]
+       Arm Holdings Assesses New AI Chip Impact
+       Source: Let's Data Science
+       > Arm Holdings Assesses New AI Chip Impact Let's Data Science
+       https://news.google.com/rss/articles/CBMiigFBVV95cUxQdXlKTlBTa1ZvX2hYeVJLY0haYWhCVTFVQ0F0cmU1MlhhU21Edm9VLWI5azNIUUtEX2J
+
+   24. [TOP] [03-29 09:56] [rel:0.50] [Google-broad]
+       Trump 'pays attention to the stock market': Wall Street eyes signs of TACO amid Iran war
+       Source: Yahoo Finance
+       > Trump 'pays attention to the stock market': Wall Street eyes signs of TACO amid Iran war Yahoo Finance
+       https://news.google.com/rss/articles/CBMiywFBVV95cUxPWThqMWtFM2dWdU5IbXFkMDVVU3VVUVUybVpYQTB5YUN4eGgzRW03Z0k5S25JSlk5VW9
+
+   25. [low] [03-28 17:14] [rel:0.50] [Google-broad]
+       ASML Holding N.V. Stock: Critical Role in Semiconductor Supply Chain and Investor Opportunities Ahea
+       Source: AD HOC NEWS
+       > ASML Holding N.V. Stock: Critical Role in Semiconductor Supply Chain and Investor Opportunities Ahea AD HOC NEWS
+       https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS2xwRV9peVBXNE5jLXEycWJ5c21jbXl1NE5pYVBHZHRObk92emJSMzJmTXljekhYOHE
+
+   26. [low] [03-28 04:14] [rel:0.50] [Google-broad]
+       ASML Holding N.V. Stock: Critical Role in Semiconductor Supply Chain Amid Market Volatility
+       Source: AD HOC NEWS
+       > ASML Holding N.V. Stock: Critical Role in Semiconductor Supply Chain Amid Market Volatility AD HOC NEWS
+       https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ3JQZTJxRVIteEtiZWg4eDd3MjdTd3RwRk8zcGhBWGktZFNwc29FOXUzaHk0SERoSDE
+
+   27. [TOP] [03-28 03:52] [rel:0.60] [Google-broad]
+       Teradyne (TER) Stock Up Significantly After Jim Cramer Was Hesistant
+       Source: Yahoo Finance  (also: Insider Monkey, MSN)
+       > Teradyne (TER) Stock Up Significantly After Jim Cramer Was Hesistant Yahoo Finance
+       https://news.google.com/rss/articles/CBMiowFBVV95cUxPa3ZBMEtJelZLVjloWXdncWstYXFkdlF1M1N4anV6V0I1b0lKemZ4UU55X1ZIaTgyaDV
+
+============================================================================================

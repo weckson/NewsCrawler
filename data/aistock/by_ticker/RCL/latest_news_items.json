@@ -1,0 +1,60 @@
+[
+  {
+    "id": "f8ebc275-466b-5ea0-ace1-34c901f05241",
+    "timestamp_utc": "2026-04-01T04:34:00+00:00",
+    "source": "tradingview",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXMxMW9rUWR3cFl2TXZYRjc4RnFqSHZSVThjVHZBMEUtblRzZ29oSFF5YUFMemRWZkNqNG9qeEk0c0R4NWt5elNPNkEyc1pxYzRjbWx3anNEei14UGFpWjlRak5rekNCc241YVlFQm1EQUNJUDFJSGVvLS1xcHdyN1VDRVRoT1p1c3VqeVJJZFhQek5ENHp0QmJiYzk1ZElQaXN6MjlSZ2pnaHE3UTJPdTlaYy0?oc=5",
+    "title": "RCL's Margin Expansion Story Strengthens: How Durable Is It? - TradingView",
+    "body": "RCL's Margin Expansion Story Strengthens: How Durable Is It? TradingView",
+    "author": null,
+    "language": "en",
+    "ticker": "RCL",
+    "tickers_hint": [
+      "RCL"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "tradingview.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "TradingView",
+      "source_domain": "tradingview.com",
+      "trust_tier": 2,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "RCL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "d26559ba-057c-5287-a164-145e65676727",
+    "timestamp_utc": "2026-04-01T02:11:40+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-vaughan-nelson-investment-management-lp-has-1153-million-stock-position-in-royal-caribbean-cruises-ltd-rcl-2026-04-01/",
+    "title": "Vaughan Nelson Investment Management L.P. Has $11.53 Million Stock Position in Royal Caribbean Cruises Ltd. $RCL - MarketBeat",
+    "body": "Vaughan Nelson Investment Management L.P. Has $11.53 Million Stock Position in Royal Caribbean Cruises Ltd. $RCL MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "RCL",
+    "tickers_hint": [
+      "RCL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "RCL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

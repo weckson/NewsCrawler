@@ -1,0 +1,89 @@
+[
+  {
+    "id": "9067f578-dd9f-5916-9f72-a1ae687951da",
+    "timestamp_utc": "2026-04-01T13:34:37+00:00",
+    "source": "stock_titan",
+    "url": "https://www.stocktitan.net/sec-filings/AJG/form-4-arthur-j-gallagher-co-insider-trading-activity-cd22b214acf2.html",
+    "title": "AJ Gallagher (NYSE: AJG) CEO exercises phantom stock and withholds shares for taxes - Stock Titan",
+    "body": "AJ Gallagher (NYSE: AJG) CEO exercises phantom stock and withholds shares for taxes Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "AJG",
+    "tickers_hint": [
+      "AJG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "AJG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "583ce20a-b68c-5f8c-8878-eb70f24d3af1",
+    "timestamp_utc": "2026-04-01T02:11:40+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-vaughan-nelson-investment-management-lp-reduces-stock-position-in-arthur-j-gallagher-co-ajg-2026-04-01/",
+    "title": "Vaughan Nelson Investment Management L.P. Reduces Stock Position in Arthur J. Gallagher & Co. $AJG - MarketBeat",
+    "body": "Vaughan Nelson Investment Management L.P. Reduces Stock Position in Arthur J. Gallagher & Co. $AJG MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "AJG",
+    "tickers_hint": [
+      "AJG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "AJG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "31a7120a-3bc2-5e23-8c31-f1e1fad20af7",
+    "timestamp_utc": "2026-04-01T13:42:47+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYUp4WHVYOExDZXJRaGhrbEwtZ3hiWkdramdJZTB6dEdKYkhWc0Y2N0kwbWJTMGp4TWNzNmd2WktkU3VDV0JabWR0b3FyVWVLUGRKS0t3UklqTGxwVVdPOWh0eEh4a3k2dm9HaFlrakU3c01VYTlSS05pU0JITjcyajhMNEJjM3pNRktWQTJNUkpFd29wY0xCTlZ1aTl0eXgybkU2enl2T1I0SzNIcVl5cFprRVI?oc=5",
+    "title": "Gallagher (NYSE: AJG) CAO exercises phantom stock, holds 50,819 shares - Stock Titan",
+    "body": "Gallagher (NYSE: AJG) CAO exercises phantom stock, holds 50,819 shares Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "AJG",
+    "tickers_hint": [
+      "AJG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "AJG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "747e7528-5b50-5699-ae92-ce4498cca53a",
+    "timestamp_utc": "2026-04-01T05:31:05+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/the-goldman-sachs-group-issues-positive-forecast-for-chubb-nysecb-stock-price-2026-04-01/",
+    "title": "The Goldman Sachs Group Issues Positive Forecast for Chubb (NYSE:CB) Stock Price - MarketBeat",
+    "body": "The Goldman Sachs Group Issues Positive Forecast for Chubb (NYSE:CB) Stock Price MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "CB",
+    "tickers_hint": [
+      "CB"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "CB"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

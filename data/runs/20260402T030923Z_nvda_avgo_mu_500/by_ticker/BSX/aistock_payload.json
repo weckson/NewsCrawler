@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "9842aa2b-846d-5e76-90db-682eae8ac23e",
+      "timestamp_utc": "2026-03-31T06:37:11+00:00",
+      "source": "mexc",
+      "url": "https://www.mexc.com/news/995021",
+      "title": "Boston Scientific (BSX) Stock Plunges 9% on Watchman Trial Concerns and Rating Cut - MEXC",
+      "body": "Boston Scientific (BSX) Stock Plunges 9% on Watchman Trial Concerns and Rating Cut MEXC",
+      "author": null,
+      "language": "en",
+      "ticker": "BSX",
+      "tickers_hint": [
+        "BSX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "mexc",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MEXC",
+        "source_domain": "mexc.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "BSX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "9842aa2b-846d-5e76-90db-682eae8ac23e",
+      "timestamp_utc": "2026-03-31T06:37:11+00:00",
+      "source": "mexc",
+      "url": "https://www.mexc.com/news/995021",
+      "title": "Boston Scientific (BSX) Stock Plunges 9% on Watchman Trial Concerns and Rating Cut - MEXC",
+      "body": "Boston Scientific (BSX) Stock Plunges 9% on Watchman Trial Concerns and Rating Cut MEXC",
+      "author": null,
+      "language": "en",
+      "ticker": "BSX",
+      "tickers_hint": [
+        "BSX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "mexc",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MEXC",
+        "source_domain": "mexc.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "BSX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

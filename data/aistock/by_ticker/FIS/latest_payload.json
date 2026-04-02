@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "83cd91d6-13dc-543e-8923-4ec4013189a6",
+      "timestamp_utc": "2026-04-01T01:30:55+00:00",
+      "source": "bitget",
+      "url": "https://www.bitget.com/news/detail/12560605329317",
+      "title": "Parnassus Offloads FIS as Growth Outlook Diverges—Investors Could Be Anticipating a Slowdown Ahead of Earnings - Bitget",
+      "body": "Parnassus Offloads FIS as Growth Outlook Diverges—Investors Could Be Anticipating a Slowdown Ahead of Earnings Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "FIS",
+      "tickers_hint": [
+        "FIS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "FIS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "83cd91d6-13dc-543e-8923-4ec4013189a6",
+      "timestamp_utc": "2026-04-01T01:30:55+00:00",
+      "source": "bitget",
+      "url": "https://www.bitget.com/news/detail/12560605329317",
+      "title": "Parnassus Offloads FIS as Growth Outlook Diverges—Investors Could Be Anticipating a Slowdown Ahead of Earnings - Bitget",
+      "body": "Parnassus Offloads FIS as Growth Outlook Diverges—Investors Could Be Anticipating a Slowdown Ahead of Earnings Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "FIS",
+      "tickers_hint": [
+        "FIS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "FIS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

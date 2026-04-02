@@ -1,0 +1,150 @@
+[
+  {
+    "id": "011af73e-a591-5dfa-be73-59f2ae2ca988",
+    "timestamp_utc": "2026-03-31T11:01:38+00:00",
+    "source": "tipranks",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWXRwcUo4QXRrdGd1dngxUmVTSFNXVnE0dk9CTThGRXFGazBoMkVUeTl5NVg1MGRRWi05U0ZteHlGRTRXOW14Sm5MX2NTc05qWU0ya2dDMkstWlFtQVQ0b2ducW1peTVSOWdqcE9mbGhWNmNmSmtadFJ1MmRoTnBSS2xZSXViOWNjRzNqamV6Y3RQSFFJT2NEa214Ymcwcm5iblFHRS01V3Z3YmdzMkRCRmcxZw?oc=5",
+    "title": "Cisco Stock (CSCO) Wobbles after Reports of Cyberattack Linked to Recent Trivy Breach - TipRanks",
+    "body": "Cisco Stock (CSCO) Wobbles after Reports of Cyberattack Linked to Recent Trivy Breach TipRanks",
+    "author": null,
+    "language": "en",
+    "ticker": "CSCO",
+    "tickers_hint": [
+      "CSCO"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "tipranks.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "CSCO"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "f96c8fc6-096c-56dc-b48f-6ffc675a8eec",
+    "timestamp_utc": "2026-04-01T10:42:03+00:00",
+    "source": "247_wall_st",
+    "url": "https://247wallst.com/investing/2026/04/01/csco-stock-slipped-4-this-week-even-as-ai-infrastructure-orders-surged/",
+    "title": "CSCO Stock Slipped ~4% This Week Even as AI Infrastructure Orders Surged - 24/7 Wall St.",
+    "body": "Cisco Systems (NASDAQ:CSCO | CSCO Price Prediction) shares are trading around $77, down 4.7% over the past week, even as the business story looks stronger than it has in years. Cisco posted $15.35 billion in Q2 FY2026 revenue, up 10% year over year, and management guided for full-year revenue of $61.2 billion to $61.7 billion, which would be the firm’s strongest revenue year on record. The headline catalyst: $2.1 billion in AI infrastructure orders from hyperscalers in a single quarter, up from $1.3 billion the prior quarter, with AI orders from hyperscalers expected to exceed $5 billion for the fiscal year.\n\nThe Reddit sentiment score for Cisco sits at 25 out of 100, categorized as bearish. Peak community activity was on March 31 at noon ET, with an activity score of 66, 1,494 upvotes, and 418 comments across r/wallstreetbets, r/stocks, and r/investing. The dominant thread across subreddits centers on IRGC threats against US tech companies operating in the Middle East, with Cisco named directly alongside larger consumer-facing names.\n\nThe post generated 1,955 upvotes and 323 comments on r/wallstreetbets, 658 upvotes and 165 comments on r/stocks, and 389 upvotes and 176 comments on r/investing. Three concrete concerns drive the bearish tone:\n\nThe company’s critical networking segment revenue grew 21% year over year to $8.29 billion in Q2, and product orders rose 18% overall. CEO Chuck Robbins stated: “With over 40 years of customer trust, global scale, and a relentless focus on innovation, we believe Cisco is uniquely positioned to deliver the trusted infrastructure needed to securely and confidently power the AI-era.” Cisco has also expanded its strategic footprint, including a collaboration with NVIDIA through its Secure AI Factory framework and a Memorandum of Understanding with Atom Computing to explore quantum networking. One risk the fundamentals cannot easily dismiss: heavy reliance on a small group of hyperscale AI customers, where spending patterns can shift quickly.\n\nPeer Arista Networks (NYSE:ANET) is down 6% year to date, underperforming Cisco’s 1% gain over the same period. Analyst consensus sits at a target of $88.8 with 17 buy ratings and no sell ratings, suggesting Wall Street views the geopolitical noise as temporary. Q3 FY2026 earnings will show whether the AI order trajectory continues toward the $5 billion annual target or reflects hyperscaler pullback.",
+    "author": null,
+    "language": "en",
+    "ticker": "CSCO",
+    "tickers_hint": [
+      "CSCO"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "247wallst.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "24/7 Wall St.",
+      "source_domain": "247wallst.com",
+      "trust_tier": 2,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "CSCO"
+      ],
+      "alt_sources": [
+        "AOL.com"
+      ],
+      "body_kind": "article_text"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "3c746013-6e6a-5f24-9ca1-3f3f5542409d",
+    "timestamp_utc": "2026-04-01T00:06:39+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/cisco-systems-nasdaqcsco-rating-increased-to-strong-buy-at-truist-financial-2026-04-01/",
+    "title": "Cisco Systems (NASDAQ:CSCO) Rating Increased to Strong-Buy at Truist Financial - MarketBeat",
+    "body": "Cisco Systems (NASDAQ:CSCO) Rating Increased to Strong-Buy at Truist Financial MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "CSCO",
+    "tickers_hint": [
+      "CSCO"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "CSCO"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "77bf7cd2-a0cd-536d-8d80-120f9a202e2c",
+    "timestamp_utc": "2026-03-31T23:08:10+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-capital-advisors-inc-ok-boosts-position-in-cisco-systems-inc-csco-2026-04-01/",
+    "title": "Capital Advisors Inc. OK Boosts Position in Cisco Systems, Inc. $CSCO - MarketBeat",
+    "body": "Capital Advisors Inc. OK Boosts Position in Cisco Systems, Inc. $CSCO MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "CSCO",
+    "tickers_hint": [
+      "CSCO"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "CSCO"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "82d26dfc-a39a-5fbd-a0b9-8d5587ffaf12",
+    "timestamp_utc": "2026-03-31T22:03:04+00:00",
+    "source": "dailyforex",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV09pZmt1czhZNGVVTWFDbVBKUFBOcjY5aUFqckN4VzlxYXU1TXJ1WVlZa2pzTlVzYkR1MUlsWHZ3dUVvb0xOR0FhbnQ2M01laTMtaHFPWWNXZ0xCVDN6Um9JVTd1MktfdEgwZ2RHazh0OHZEbkFkanBab0JPZ0lXN2Q3TGcwRHFTMWtGdlEtU1VNM1BzcmlnOFR4eF9qTWs?oc=5",
+    "title": "Cisco Systems (NASDAQ:CSCO) Stock Signal 01/04 - DailyForex",
+    "body": "Cisco Systems (NASDAQ:CSCO) Stock Signal 01/04 DailyForex",
+    "author": null,
+    "language": "en",
+    "ticker": "CSCO",
+    "tickers_hint": [
+      "CSCO"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "dailyforex",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "DailyForex",
+      "source_domain": "dailyforex.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "CSCO"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "id": "16635d7f-3e2b-55e9-ad42-99081a7b51e4",
+    "timestamp_utc": "2026-03-31T04:54:00+00:00",
+    "source": "tradingview",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZFhXNWdTdGY1UG5kMHRfZ2FtcHVGSHctY3BrWnl1Vnh5WXYwZXB5RnpfZVFUNUw3MlprWmIyLUg1RnFQZHdNT3RRM3pWNjRwakJraWFMekFLU0l2bV8yc2RENnhScnhOQ3U5ODRTTDZsVGU4ZXZsRmtJSVZQdW5BUU9DbGRwMG1sMXdFb1VKQkhkWEY4MzZDcEsxUzNTYUQ5SVJBWWhYeEViNl9RaVJVdU5ibw?oc=5",
+    "title": "ANET's Margin Expansion Moderates: Can Growth Be Sustained? - TradingView",
+    "body": "ANET's Margin Expansion Moderates: Can Growth Be Sustained? TradingView",
+    "author": null,
+    "language": "en",
+    "ticker": "ANET",
+    "tickers_hint": [
+      "ANET"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "tradingview.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "TradingView",
+      "source_domain": "tradingview.com",
+      "trust_tier": 2,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "ANET"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "7b39341d-00ec-5f61-8e2a-5966bb5309fa",
+    "timestamp_utc": "2026-03-31T11:48:45+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/arista-networks-nyseanet-shares-up-58-whats-next-2026-03-31/",
+    "title": "Arista Networks (NYSE:ANET) Shares Up 5.8% - What's Next? - MarketBeat",
+    "body": "Arista Networks (NYSE:ANET) Shares Up 5.8% - What's Next? MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "ANET",
+    "tickers_hint": [
+      "ANET"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "ANET"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "7555b56a-fb63-520f-85ee-d334f03f37b0",
+    "timestamp_utc": "2026-03-31T05:09:47+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8761611/truist-securities-initiates-coverage-on-anet-with-buy-rating-anet-stock-news",
+    "title": "Truist Securities Initiates Coverage on ANET with 'Buy' Rating | - GuruFocus",
+    "body": "Truist Securities Initiates Coverage on ANET with 'Buy' Rating | GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "ANET",
+    "tickers_hint": [
+      "ANET"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "ANET"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

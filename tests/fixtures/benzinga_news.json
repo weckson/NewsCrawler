@@ -1,0 +1,37 @@
+[
+  {
+    "id": 12345678,
+    "author": "Jane Smith",
+    "created": 1711411200,
+    "updated": 1711411800,
+    "title": "Apple Reports Record Q1 Earnings Beating Analyst Estimates",
+    "teaser": "Apple reported record first-quarter earnings, beating Wall Street estimates by a wide margin.",
+    "body": "<p>Apple Inc. reported record first-quarter earnings on Thursday, beating analyst estimates by a wide margin. Revenue came in at $119.6 billion, up 2% year-over-year.</p>",
+    "url": "https://www.benzinga.com/news/earnings/24/03/apple-q1-earnings",
+    "stocks": [
+      {"name": "AAPL"},
+      {"name": "NASDAQ"}
+    ],
+    "channels": [
+      {"name": "earnings"},
+      {"name": "technology"}
+    ]
+  },
+  {
+    "id": 12345679,
+    "author": "John Doe",
+    "created": 1711415000,
+    "updated": null,
+    "title": "Tesla Announces New Gigafactory Location in Mexico",
+    "teaser": "Tesla has announced it will build its next Gigafactory in Monterrey, Mexico.",
+    "body": null,
+    "url": "https://www.benzinga.com/news/24/03/tesla-gigafactory-mexico",
+    "stocks": [
+      {"name": "TSLA"}
+    ],
+    "channels": [
+      {"name": "manufacturing"},
+      {"name": "electric-vehicles"}
+    ]
+  }
+]

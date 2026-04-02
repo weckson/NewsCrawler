@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "505163df-0ac5-5947-98b3-036ea698848c",
+      "timestamp_utc": "2026-03-31T11:08:00+00:00",
+      "source": "marketwatch",
+      "url": "https://www.marketwatch.com/data-news/nvr-inc-stock-rises-tuesday-still-underperforms-market-0181f33c-c05651612a95?mod=mw_quote_news&gaa_at=eafs&gaa_n=AWEtsqekOWMmm414fBzTIa9Nkh5haygrcX2GEpxapdkja60UHup-QyEBoLiV&gaa_ts=69cded26&gaa_sig=5OlTPjVfPNB0_4N2XOZi9suwnf-nidkU8NGk4aQgEK2Bni5exKm48IJ3p-4sBLt3p00a2idqdxiUBvni3KMyiA%3D%3D",
+      "title": "NVR Inc. stock rises Tuesday, still underperforms market - MarketWatch",
+      "body": "NVR Inc. stock rises Tuesday, still underperforms market MarketWatch",
+      "author": null,
+      "language": "en",
+      "ticker": "NVR",
+      "tickers_hint": [
+        "NVR"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "marketwatch.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketWatch",
+        "source_domain": "marketwatch.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "NVR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "505163df-0ac5-5947-98b3-036ea698848c",
+      "timestamp_utc": "2026-03-31T11:08:00+00:00",
+      "source": "marketwatch",
+      "url": "https://www.marketwatch.com/data-news/nvr-inc-stock-rises-tuesday-still-underperforms-market-0181f33c-c05651612a95?mod=mw_quote_news&gaa_at=eafs&gaa_n=AWEtsqekOWMmm414fBzTIa9Nkh5haygrcX2GEpxapdkja60UHup-QyEBoLiV&gaa_ts=69cded26&gaa_sig=5OlTPjVfPNB0_4N2XOZi9suwnf-nidkU8NGk4aQgEK2Bni5exKm48IJ3p-4sBLt3p00a2idqdxiUBvni3KMyiA%3D%3D",
+      "title": "NVR Inc. stock rises Tuesday, still underperforms market - MarketWatch",
+      "body": "NVR Inc. stock rises Tuesday, still underperforms market MarketWatch",
+      "author": null,
+      "language": "en",
+      "ticker": "NVR",
+      "tickers_hint": [
+        "NVR"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "marketwatch.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketWatch",
+        "source_domain": "marketwatch.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "NVR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

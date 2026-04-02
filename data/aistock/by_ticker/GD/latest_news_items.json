@@ -1,0 +1,60 @@
+[
+  {
+    "id": "c4046f02-3de7-52e5-a3b5-7ee5e8bdd634",
+    "timestamp_utc": "2026-04-01T06:01:15+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/citigroup-has-lowered-expectations-for-general-dynamics-nysegd-stock-price-2026-04-01/",
+    "title": "Citigroup Has Lowered Expectations for General Dynamics (NYSE:GD) Stock Price - MarketBeat",
+    "body": "Citigroup Has Lowered Expectations for General Dynamics (NYSE:GD) Stock Price MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "GD",
+    "tickers_hint": [
+      "GD"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "GD"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "834922ba-2177-53e8-bb8c-34e80591ccf0",
+    "timestamp_utc": "2026-04-01T06:30:00+00:00",
+    "source": "gurufocus",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV2RaeGlnRlcxMlRmX25RWUQzekxYWE9uWlAyQ3dJRnZqTDJBbHRGZE5JQjBzclh3X05RUlNsS1RfVThrQV9wRzdmaDhDYjBSSDd6ZnRLWndDVFhnMzFlVk9RM2xlcGVOV1lPUFQyRlpfdFNkcnFvczJKLXA0YkR3THVaNUtUaTU1aW9pNFpBaTFvZUpKaHBpbTNEUFZaa3lfR2k5NmRfQVhvaVQ4WnN4OWtWQ1lkcXV6X2kzNmtET1d1R2d3?oc=5",
+    "title": "General Dynamics (GD): Wells Fargo Initiates Coverage with Overw - GuruFocus",
+    "body": "General Dynamics (GD): Wells Fargo Initiates Coverage with Overw GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "GD",
+    "tickers_hint": [
+      "GD"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "GD"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

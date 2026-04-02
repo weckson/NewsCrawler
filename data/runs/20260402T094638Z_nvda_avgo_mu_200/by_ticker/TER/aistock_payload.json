@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "f2c07fc8-dfa8-587d-ad4c-9410f160136d",
+      "timestamp_utc": "2026-04-01T01:13:06+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-three-seasons-wealth-llc-purchases-shares-of-4632-teradyne-inc-ter-2026-04-01/",
+      "title": "Three Seasons Wealth LLC Purchases Shares of 4,632 Teradyne, Inc. $TER - MarketBeat",
+      "body": "Three Seasons Wealth LLC Purchases Shares of 4,632 Teradyne, Inc. $TER MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "TER",
+      "tickers_hint": [
+        "TER"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TER"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "f2c07fc8-dfa8-587d-ad4c-9410f160136d",
+      "timestamp_utc": "2026-04-01T01:13:06+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-three-seasons-wealth-llc-purchases-shares-of-4632-teradyne-inc-ter-2026-04-01/",
+      "title": "Three Seasons Wealth LLC Purchases Shares of 4,632 Teradyne, Inc. $TER - MarketBeat",
+      "body": "Three Seasons Wealth LLC Purchases Shares of 4,632 Teradyne, Inc. $TER MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "TER",
+      "tickers_hint": [
+        "TER"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TER"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

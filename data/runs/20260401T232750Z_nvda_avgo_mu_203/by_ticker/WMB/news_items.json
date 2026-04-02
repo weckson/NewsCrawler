@@ -1,0 +1,89 @@
+[
+  {
+    "id": "e4f881ab-7442-5459-aa4d-e3b9f5e38af0",
+    "timestamp_utc": "2026-04-01T12:28:43+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8765865/wmb-scotiabank-maintains-rating-raises-price-target-to-85-wmb-stock-news",
+    "title": "WMB: Scotiabank Maintains Rating, Raises Price Target to $85 | W - GuruFocus",
+    "body": "WMB: Scotiabank Maintains Rating, Raises Price Target to $85 | W GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "WMB",
+    "tickers_hint": [
+      "WMB"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "WMB"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "2415a7e5-2656-57b9-b9cd-aaee1f2d79c9",
+    "timestamp_utc": "2026-04-01T10:15:11+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/williams-companies-nysewmb-stock-price-expected-to-rise-scotiabank-analyst-says-2026-04-01/",
+    "title": "Williams Companies (NYSE:WMB) Stock Price Expected to Rise, Scotiabank Analyst Says - MarketBeat",
+    "body": "Williams Companies (NYSE:WMB) Stock Price Expected to Rise, Scotiabank Analyst Says MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "WMB",
+    "tickers_hint": [
+      "WMB"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "WMB"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "90f14167-3f94-5247-95ca-d799812a6e76",
+    "timestamp_utc": "2026-03-31T08:48:55+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8612065/citigroup-raises-price-target-for-williams-companies-wmb-to-81-wmb-stock-news?mobile=true",
+    "title": "Citigroup Raises Price Target for Williams Companies (WMB) to $8 - GuruFocus",
+    "body": "Citigroup Raises Price Target for Williams Companies (WMB) to $8 GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "WMB",
+    "tickers_hint": [
+      "WMB"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "WMB"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

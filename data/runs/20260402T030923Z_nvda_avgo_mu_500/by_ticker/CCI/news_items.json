@@ -1,0 +1,31 @@
+[
+  {
+    "id": "6f91a178-135c-5979-a7de-b3c50c6b244a",
+    "timestamp_utc": "2026-03-31T06:18:45+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8761604/truist-securities-initiates-coverage-on-cci-with-hold-rating-cci-stock-news?mobile=true",
+    "title": "Truist Securities Initiates Coverage on CCI with \"Hold\" Rating | - GuruFocus",
+    "body": "Truist Securities Initiates Coverage on CCI with \"Hold\" Rating | GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "CCI",
+    "tickers_hint": [
+      "CCI"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "CCI"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

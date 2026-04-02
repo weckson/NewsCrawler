@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "6237c5ed-8ae1-5d14-b91a-f3a88606b1a0",
+      "timestamp_utc": "2026-04-01T00:55:54+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/CTRA/earnings",
+      "title": "CTRA Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "CTRA Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "CTRA",
+      "tickers_hint": [
+        "CTRA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CTRA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "6237c5ed-8ae1-5d14-b91a-f3a88606b1a0",
+      "timestamp_utc": "2026-04-01T00:55:54+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/CTRA/earnings",
+      "title": "CTRA Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "CTRA Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "CTRA",
+      "tickers_hint": [
+        "CTRA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CTRA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "e5c3ec54-da75-500a-a1c2-1d39294749a3",
+    "timestamp_utc": "2026-03-31T04:42:44+00:00",
+    "source": "benzinga",
+    "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51571199/beyond-meat-shares-surge-ahead-of-earnings-what-investors-need-to-know",
+    "title": "Beyond Meat Shares Surge Ahead Of Earnings: What Investors Need To Know - Benzinga",
+    "body": "Beyond Meat Shares Surge Ahead Of Earnings: What Investors Need To Know Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "A",
+    "tickers_hint": [
+      "A",
+      "ARE"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "meta": {
+      "channel": "google_benzinga",
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
+      "trust_tier": 3,
+      "relevance": 0.7000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "A",
+        "ARE"
+      ],
+      "alt_sources": [
+        "Benzinga"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "a384d03d-be8c-5d92-8684-345a489658e9",
+    "timestamp_utc": "2026-03-31T07:42:03+00:00",
+    "source": "benzinga",
+    "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51578206/why-are-strategy-shares-seesawing-on-tuesday",
+    "title": "Why Are Strategy Shares Seesawing On Tuesday? - Benzinga",
+    "body": "Why Are Strategy Shares Seesawing On Tuesday? Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "ARE",
+    "tickers_hint": [
+      "ARE"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "meta": {
+      "channel": "google_benzinga",
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
+      "trust_tier": 3,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "ARE"
+      ],
+      "alt_sources": [
+        "Benzinga"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

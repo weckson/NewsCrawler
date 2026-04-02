@@ -1,0 +1,60 @@
+[
+  {
+    "id": "1624156b-4ca2-53f5-b8d4-a448a50a3804",
+    "timestamp_utc": "2026-04-01T01:08:00+00:00",
+    "source": "the_globe_and_mail",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYnNIZkFhaHdTUjU2U0QzRmFMMEZtNzVRNktWREYwSlM5cXAwa0lwQWs1dUdrWE10MzNJZVJNT3ltTmE4VnRBNng5ZmNqd3I0S2NfVExTYkZSLVNXLWVVb3RKS09weGxIcjMyajRRR0JxcUdGVXVpOFhTZElpX1pjeFF1SlF4Q1gzWmR1cUhQNzNhTm1FSkw3SnA2OHRoaDZNb2RuNEpCSFlRZE0tdmxsQWpudGdjUkRTRFAyRlNzX2JHTVcwRG5ibA?oc=5",
+    "title": "Valero Energy (VLO) Gets a Buy from Wells Fargo - The Globe and Mail",
+    "body": "Valero Energy (VLO) Gets a Buy from Wells Fargo The Globe and Mail",
+    "author": null,
+    "language": "en",
+    "ticker": "VLO",
+    "tickers_hint": [
+      "VLO"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "theglobeandmail.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "The Globe and Mail",
+      "source_domain": "theglobeandmail.com",
+      "trust_tier": 2,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "VLO"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "e399ec81-5768-51a1-9245-47daa98fd63a",
+    "timestamp_utc": "2026-03-31T20:47:10+00:00",
+    "source": "intellectia_ai",
+    "url": "https://intellectia.ai/en/stock/VLO/technical",
+    "title": "VLO Technical Analysis & Stock Price Forecast - Intellectia AI",
+    "body": "VLO Technical Analysis & Stock Price Forecast Intellectia AI",
+    "author": null,
+    "language": "en",
+    "ticker": "VLO",
+    "tickers_hint": [
+      "VLO"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "intellectia ai",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Intellectia AI",
+      "source_domain": "intellectiaai.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "VLO"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

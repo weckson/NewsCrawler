@@ -1,0 +1,854 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "047d7734-6190-5b86-bcc3-da9607964d5f",
+      "timestamp_utc": "2026-04-01T06:51:00+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRzZKY0xiMklPZVlPakNLa2V0V19OaUJzVjJKaFctbVJGM3VNM2Jfd0RGZE1XLUJrNWY2dFNweElrcTZkZEhWX2hyRFVIQmRfVy1SZTZHNEJnV1JMRkFNTkVNZ3F3Z2pPSHhOdUptN0hxVWpHZUkxUVVBTy1mRUlod1RhR0FQYTROcDdkWkFzblZscG1WakNZNVhNYjZXdjBGejU3U3N0MTMzUkpuZVVMdDhPSndnOUxuaDVMd0QtZGF4YTQtU2FBTW5IWQ?oc=5",
+      "title": "Oracle Needs Cash For AI; Solution? One Email, 30K Let Go - Oracle (NYSE:ORCL) - Benzinga",
+      "body": "Oracle Needs Cash For AI; Solution? One Email, 30K Let Go - Oracle (NYSE:ORCL) Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "A",
+      "tickers_hint": [
+        "A",
+        "ORCL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "A",
+          "ORCL"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9b4014bb-435f-519a-88e0-05d24a301eaa",
+      "timestamp_utc": "2026-04-01T09:26:14+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-just-started-layoffs-ai-192614664.html",
+      "title": "Oracle Just Started Layoffs. What Do the AI-Driven Job Cuts Mean for ORCL Stock? - Yahoo Finance",
+      "body": "Oracle Just Started Layoffs. What Do the AI-Driven Job Cuts Mean for ORCL Stock? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "ORCL",
+      "tickers_hint": [
+        "ORCL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORCL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7cd9d421-e78b-5eea-8e6e-ae6868cd5626",
+      "timestamp_utc": "2026-04-01T01:14:34+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/oracle-orcl-stock-is-down-50-the-selloff-looks-overdone-as-ai-momentum-builds",
+      "title": "Oracle (ORCL) Stock Is Down 50%. The Selloff Looks Overdone as AI Momentum Builds - TipRanks",
+      "body": "Oracle (ORCL) Stock Is Down 50%. The Selloff Looks Overdone as AI Momentum Builds TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "ORCL",
+      "tickers_hint": [
+        "ORCL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORCL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "15f9b779-a431-5cca-a781-02f02abcc833",
+      "timestamp_utc": "2026-03-31T04:22:17+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/oracle-stock-orcl-jumps-today-on-layoffs-news",
+      "title": "Oracle Stock (ORCL) Jumps Today on Layoff News - TipRanks",
+      "body": "Oracle Stock (ORCL) Jumps Today on Layoff News TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "ORCL",
+      "tickers_hint": [
+        "ORCL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORCL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5ba93224-7dd7-5405-bc5d-7419474c8e6e",
+      "timestamp_utc": "2026-04-01T09:59:04+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rVDE4eVV5Zks1bGlsbC1YeC1Vc2NtWGdFbThhRnN3aXFHNmhTeXFUSzNyTjhEanVhYkNJT2Vjd0Q5MUlqNFpieGduZGpyYXJqVnc?oc=5",
+      "title": "Latest Oracle Stock News | NYSE:ORCL - Benzinga",
+      "body": "Latest Oracle Stock News | NYSE:ORCL Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "ORCL",
+      "tickers_hint": [
+        "ORCL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORCL"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ab86f0e0-afb7-573c-b8f5-c33eeef87f54",
+      "timestamp_utc": "2026-03-31T16:29:00+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjZ6X1p4dmM2OXFyTHFZZjRaRkJNYnh3djZtMWVNRGZVZHpyaGZJUW0xbWU1ZmZaR1luY2RwOVBXbENxOEwzU3NvTmxDYmZMOXR4SEFoNkp4VlZxQy1Yb2JPZVp2RkZwamlRMVJJT2Y3dGtvanNIWTdhTUxTb2RsNTR5QXpPR1pZMkdpRkRNZGhUS1lMNklN?oc=5",
+      "title": "Why Oracle (ORCL) Stock Is Up Today - Yahoo Finance",
+      "body": "Why Oracle (ORCL) Stock Is Up Today Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "ORCL",
+      "tickers_hint": [
+        "ORCL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORCL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9daea917-dc9a-5b2a-b304-8c8792b9d1d7",
+      "timestamp_utc": "2026-03-31T09:56:28+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWS3lwT2ZSVEdEUTJ2ZzIzdFlQSWhsb1B6amZ4TlF2V01hOV9jZ21XWGxyX3hNMUdZVUt0VUlEUW1JYWl5bHNXbHUybw?oc=5",
+      "title": "Oracle Corp (ORCL) Stock Price, Quote, News & History - Benzinga",
+      "body": "Oracle Corp (ORCL) Stock Price, Quote, News & History Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "ORCL",
+      "tickers_hint": [
+        "ORCL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORCL"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "07d2f47b-94be-5f3c-90c2-8f54a7bd2d66",
+      "timestamp_utc": "2026-04-01T03:25:52+00:00",
+      "source": "blockonomi",
+      "url": "https://blockonomi.com/oracle-orcl-stock-surges-6-following-major-workforce-reduction-for-ai-investment/",
+      "title": "Oracle (ORCL) Stock Surges 6% Following Major Workforce Reduction for AI Investment - Blockonomi",
+      "body": "Related Posts Western Digital (WDC) Stock Rallies 11% on Bernstein’s Bullish Upgrade to OutperformApril 1, 2026 Alphabet (GOOGL) Stock Sees Bullish Analyst Upgrades Amid $2.4M Executive SaleApril 1, 2026 Stanley Druckenmiller Doubles Down on Alphabet (GOOGL) and Amazon (AMZN) Stock Amid AI Cloud BoomApril 1, 2026",
+      "author": null,
+      "language": "en",
+      "ticker": "ORCL",
+      "tickers_hint": [
+        "ORCL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "blockonomi",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Blockonomi",
+        "source_domain": "blockonomi.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORCL"
+        ],
+        "alt_sources": [
+          "Blockonomi"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "61724f81-1611-5d27-ab51-842a5bd70921",
+      "timestamp_utc": "2026-04-01T02:53:07+00:00",
+      "source": "coincentral",
+      "url": "https://coincentral.com/oracle-orcl-stock-jumps-6-as-mass-layoffs-signal-ai-cost-reset/",
+      "title": "Oracle (ORCL) Stock Jumps 6% as Mass Layoffs Signal AI Cost Reset - CoinCentral",
+      "body": "The Best AI Stock Picking Tools in 2026: Your Complete Guide to Smarter InvestingFebruary 3, 2026 Finding The Best Crypto to Invest In: Expert Strategies for Identifying Tomorrow’s WinnersFebruary 27, 2025 Sui Blockchain Explained: How It Works and What You Need to KnowFebruary 6, 2025 Is Trump’s Memecoin Legit?\n\nHere’s What We Know About $TRUMPFebruary 1, 2025 What is Decentralized AI and Why We Need It ASAP?December 29, 2024",
+      "author": null,
+      "language": "en",
+      "ticker": "ORCL",
+      "tickers_hint": [
+        "ORCL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "coincentral",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "CoinCentral",
+        "source_domain": "coincentral.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORCL"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8199948a-087b-53fc-b1c1-fc9117ddd078",
+      "timestamp_utc": "2026-04-01T11:49:48+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/oracle-nyseorcl-shares-down-12-whats-next-2026-04-01/",
+      "title": "Oracle (NYSE:ORCL) Shares Down 1.2% - What's Next? - MarketBeat",
+      "body": "Oracle (NYSE:ORCL) Shares Down 1.2% - What's Next? MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ORCL",
+      "tickers_hint": [
+        "ORCL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORCL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "69442d19-9dd4-51f1-8c81-d43914811f41",
+      "timestamp_utc": "2026-03-31T14:21:32+00:00",
+      "source": "mexc_exchange",
+      "url": "https://www.mexc.co/en-IN/news/996090",
+      "title": "What Oracle Layoffs Mean for ORCL Stock Now - MEXC Exchange",
+      "body": "Oracle is back in focus as layoffs and AI spending collide. The company is reportedly cutting thousands of jobs while trying to control rising data-center costs tied to its aggressive cloud and AI buildout, and the move has turned ORCL into a stock investors are watching closely. That has raised a simple question: are the layoffs a warning sign, or a cost reset that could help Oracle protect margins and regain confidence?\n\nOracle is back in focus as layoffs and AI spending collide. The company is reportedly cutting thousands of jobs while trying to control rising data-center costs tied to its aggressive cloud and AI buildout, and the move has turned ORCL into a stock investors are watching closely. That has raised a simple question: are the layoffs a warning sign, or a cost reset that could help Oracle protect margins and regain confidence?\n\nThe stock itself has been under pressure. ORCL closed at $138.80 on March 30, after a recent stretch that saw shares fall from $155.52 on March 19 to $138.80 by the end of the month, according to historical price data. That drop came even after Oracle reported stronger-than-expected fiscal third-quarter results earlier in March, including 22% year-over-year revenue growth and adjusted EPS of $1.79.\n\nThe layoff story matters because it sits at the center of Oracle’s bigger AI strategy. Reuters reported that the cuts could hit multiple divisions as the company absorbs the cost of its data-center expansion, while other reports said Oracle has also been slowing hiring in cloud-related areas. In other words, the company is still pushing into AI infrastructure, but it appears to be tightening spending at the same time.\n\nThe chart pattern is still weak in the short term. ORCL has slipped below the mid-March support area near $150 and is trying to stabilize closer to $140, which makes that zone the first level bulls need to defend. A move back above $145 would be an early sign that sellers are losing momentum. If the stock cannot hold the low-$140s, traders may continue to treat rallies as short-term bounces rather than the start of a clean reversal.\n\nFor momentum traders, layoffs are not just a headline; they can also be read as a cost-cutting catalyst. If Oracle uses workforce reductions to improve cash flow while keeping cloud growth intact, the market may eventually reward the move.\n\nBut if investors see the cuts as proof that AI spending is getting too expensive, the stock could stay under pressure. Right now, ORCL is caught between a growth story and a margin story, and the chart suggests the market wants clearer evidence before paying up again.",
+      "author": null,
+      "language": "en",
+      "ticker": "ORCL",
+      "tickers_hint": [
+        "ORCL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "mexc exchange",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MEXC Exchange",
+        "source_domain": "mexcexchange.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORCL"
+        ],
+        "alt_sources": [
+          "MEXC Exchange"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "255144b1-4382-53e5-ba4d-8a6fa95350c7",
+      "timestamp_utc": "2026-03-31T11:24:41+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/oracle-nyseorcl-stock-price-up-59-heres-what-happened-2026-03-31/",
+      "title": "Oracle (NYSE:ORCL) Stock Price Up 5.9% - Here's What Happened - MarketBeat",
+      "body": "Oracle (NYSE:ORCL) Stock Price Up 5.9% - Here's What Happened MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ORCL",
+      "tickers_hint": [
+        "ORCL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORCL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e443a693-980d-53ee-850c-60d480a330ff",
+      "timestamp_utc": "2026-03-31T05:21:17+00:00",
+      "source": "the_economic_times",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQNzl4TU84NmZTQ3pYZGs3RVN4TlJnbVVXWWFzNWt1WlB0dzJLeDctanI5akk0aW9pV3JHZTlfSmVibWlBNnZmeDM3US1QcmN0ZWlzY1JySktvelBDOEdOVGN6XzU0NklTcmRzSVVWUGJiOUwwcUFLeHZVMHBfV01iQnR5NGNJZ0NCWDNxVU5oSklxYTQ4VmIyRHpaSDluN09ITC1uSmlCdGRPaUg4YW1LWE5NUFpDTV9wYnZ1MV90d2UwX1M3X25qZ2ZxMks4VGpxLWdJQjFGRzNrbUFab193UXhLOUx5YnFMNTQwZ3ZlNkthVjYtaGtnd0RWTVJfeTVHQm0xczVpaW9NVUI3eVJ5Y1Q1RUozVkhjaDFjWTU1bmQtVHlGLTBvZ2dQdXpXaWZKeWtiR3g3M1JXQWY3Nk1NR1plZzYya2vSAcwCQVVfeXFMTWh6ZnJqYUdpczRDZUJEelRoaDhETjRsYlU0MnZ4Qld4aktpR0Zlc2JMZnBERktISTFabG1Cb2VweGtITVVEUDZOLVozWTRuSjgtVDZCaFg1dDdaUlkwa1BTbEcxcGdfYlZXZFBZa3NIVk1nZF8xcWxNdEE1ejhLQTBZRVhCOEM1LWNTMjNRQWw0cm5ILVVZTkZhdnBTRWd4NnFhb0RCTEJrczNOVlBHZmVUeHlGNjg0cXRuM1k5TVJWbE5zT1dTMFdUMlNDZ2dnRkJMT1I3RXAtLVpTanNNV3FRampWUUpIOGdyTm0yWDZ6UmxweHBfQUhEZEpHNE5hZzhQZ3JGSTZuZTBtNGlqdk05cW0yUVRmektwM3VuazhBOTZOeDU1THZjS2RzanZkQWVQT1NncWNGUERjNFZTLUxrdnpOLU83SUNvY04?oc=5",
+      "title": "What is driving Oracle stock (ORCL) higher today despite layoffs? Oracle stock making big moves today as A - The Economic Times",
+      "body": "What is driving Oracle stock (ORCL) higher today despite layoffs? Oracle stock making big moves today as A The Economic Times",
+      "author": null,
+      "language": "en",
+      "ticker": "ORCL",
+      "tickers_hint": [
+        "ORCL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "the economic times",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Economic Times",
+        "source_domain": "theeconomictimes.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORCL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "96beb7ef-0287-5976-98f5-51f9644d49ec",
+      "timestamp_utc": "2026-03-31T08:09:55+00:00",
+      "source": "coincentral",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRG8wY1dEQTFrWXR1bE45Q245dEtueGhxWnZOWktSOWlRQU9xVjhTTzRJRUJ0WHUzdW9LaVJrcnlMOXlYb0FEWFktQWg2Ym9QeTliSnR1Tkt6MDl4Z04xV3JjbElUVmwzR3R4MDU5M0Npa2NRWGNTblVteERUd1ZZN1FXVUFUdEFNU0E?oc=5",
+      "title": "Oracle (ORCL) Stock Jumps 5% After Cutting Thousands of Jobs - CoinCentral",
+      "body": "Oracle (ORCL) Stock Jumps 5% After Cutting Thousands of Jobs CoinCentral",
+      "author": null,
+      "language": "en",
+      "ticker": "ORCL",
+      "tickers_hint": [
+        "ORCL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "coincentral",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "CoinCentral",
+        "source_domain": "coincentral.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORCL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "047d7734-6190-5b86-bcc3-da9607964d5f",
+      "timestamp_utc": "2026-04-01T06:51:00+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRzZKY0xiMklPZVlPakNLa2V0V19OaUJzVjJKaFctbVJGM3VNM2Jfd0RGZE1XLUJrNWY2dFNweElrcTZkZEhWX2hyRFVIQmRfVy1SZTZHNEJnV1JMRkFNTkVNZ3F3Z2pPSHhOdUptN0hxVWpHZUkxUVVBTy1mRUlod1RhR0FQYTROcDdkWkFzblZscG1WakNZNVhNYjZXdjBGejU3U3N0MTMzUkpuZVVMdDhPSndnOUxuaDVMd0QtZGF4YTQtU2FBTW5IWQ?oc=5",
+      "title": "Oracle Needs Cash For AI; Solution? One Email, 30K Let Go - Oracle (NYSE:ORCL) - Benzinga",
+      "body": "Oracle Needs Cash For AI; Solution? One Email, 30K Let Go - Oracle (NYSE:ORCL) Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "A",
+      "tickers_hint": [
+        "A",
+        "ORCL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "A",
+          "ORCL"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9b4014bb-435f-519a-88e0-05d24a301eaa",
+      "timestamp_utc": "2026-04-01T09:26:14+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-just-started-layoffs-ai-192614664.html",
+      "title": "Oracle Just Started Layoffs. What Do the AI-Driven Job Cuts Mean for ORCL Stock? - Yahoo Finance",
+      "body": "Oracle Just Started Layoffs. What Do the AI-Driven Job Cuts Mean for ORCL Stock? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "ORCL",
+      "tickers_hint": [
+        "ORCL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORCL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7cd9d421-e78b-5eea-8e6e-ae6868cd5626",
+      "timestamp_utc": "2026-04-01T01:14:34+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/oracle-orcl-stock-is-down-50-the-selloff-looks-overdone-as-ai-momentum-builds",
+      "title": "Oracle (ORCL) Stock Is Down 50%. The Selloff Looks Overdone as AI Momentum Builds - TipRanks",
+      "body": "Oracle (ORCL) Stock Is Down 50%. The Selloff Looks Overdone as AI Momentum Builds TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "ORCL",
+      "tickers_hint": [
+        "ORCL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORCL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "15f9b779-a431-5cca-a781-02f02abcc833",
+      "timestamp_utc": "2026-03-31T04:22:17+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/oracle-stock-orcl-jumps-today-on-layoffs-news",
+      "title": "Oracle Stock (ORCL) Jumps Today on Layoff News - TipRanks",
+      "body": "Oracle Stock (ORCL) Jumps Today on Layoff News TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "ORCL",
+      "tickers_hint": [
+        "ORCL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORCL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5ba93224-7dd7-5405-bc5d-7419474c8e6e",
+      "timestamp_utc": "2026-04-01T09:59:04+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rVDE4eVV5Zks1bGlsbC1YeC1Vc2NtWGdFbThhRnN3aXFHNmhTeXFUSzNyTjhEanVhYkNJT2Vjd0Q5MUlqNFpieGduZGpyYXJqVnc?oc=5",
+      "title": "Latest Oracle Stock News | NYSE:ORCL - Benzinga",
+      "body": "Latest Oracle Stock News | NYSE:ORCL Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "ORCL",
+      "tickers_hint": [
+        "ORCL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORCL"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ab86f0e0-afb7-573c-b8f5-c33eeef87f54",
+      "timestamp_utc": "2026-03-31T16:29:00+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjZ6X1p4dmM2OXFyTHFZZjRaRkJNYnh3djZtMWVNRGZVZHpyaGZJUW0xbWU1ZmZaR1luY2RwOVBXbENxOEwzU3NvTmxDYmZMOXR4SEFoNkp4VlZxQy1Yb2JPZVp2RkZwamlRMVJJT2Y3dGtvanNIWTdhTUxTb2RsNTR5QXpPR1pZMkdpRkRNZGhUS1lMNklN?oc=5",
+      "title": "Why Oracle (ORCL) Stock Is Up Today - Yahoo Finance",
+      "body": "Why Oracle (ORCL) Stock Is Up Today Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "ORCL",
+      "tickers_hint": [
+        "ORCL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORCL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9daea917-dc9a-5b2a-b304-8c8792b9d1d7",
+      "timestamp_utc": "2026-03-31T09:56:28+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWS3lwT2ZSVEdEUTJ2ZzIzdFlQSWhsb1B6amZ4TlF2V01hOV9jZ21XWGxyX3hNMUdZVUt0VUlEUW1JYWl5bHNXbHUybw?oc=5",
+      "title": "Oracle Corp (ORCL) Stock Price, Quote, News & History - Benzinga",
+      "body": "Oracle Corp (ORCL) Stock Price, Quote, News & History Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "ORCL",
+      "tickers_hint": [
+        "ORCL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORCL"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "07d2f47b-94be-5f3c-90c2-8f54a7bd2d66",
+      "timestamp_utc": "2026-04-01T03:25:52+00:00",
+      "source": "blockonomi",
+      "url": "https://blockonomi.com/oracle-orcl-stock-surges-6-following-major-workforce-reduction-for-ai-investment/",
+      "title": "Oracle (ORCL) Stock Surges 6% Following Major Workforce Reduction for AI Investment - Blockonomi",
+      "body": "Related Posts Western Digital (WDC) Stock Rallies 11% on Bernstein’s Bullish Upgrade to OutperformApril 1, 2026 Alphabet (GOOGL) Stock Sees Bullish Analyst Upgrades Amid $2.4M Executive SaleApril 1, 2026 Stanley Druckenmiller Doubles Down on Alphabet (GOOGL) and Amazon (AMZN) Stock Amid AI Cloud BoomApril 1, 2026",
+      "author": null,
+      "language": "en",
+      "ticker": "ORCL",
+      "tickers_hint": [
+        "ORCL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "blockonomi",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Blockonomi",
+        "source_domain": "blockonomi.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORCL"
+        ],
+        "alt_sources": [
+          "Blockonomi"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "61724f81-1611-5d27-ab51-842a5bd70921",
+      "timestamp_utc": "2026-04-01T02:53:07+00:00",
+      "source": "coincentral",
+      "url": "https://coincentral.com/oracle-orcl-stock-jumps-6-as-mass-layoffs-signal-ai-cost-reset/",
+      "title": "Oracle (ORCL) Stock Jumps 6% as Mass Layoffs Signal AI Cost Reset - CoinCentral",
+      "body": "The Best AI Stock Picking Tools in 2026: Your Complete Guide to Smarter InvestingFebruary 3, 2026 Finding The Best Crypto to Invest In: Expert Strategies for Identifying Tomorrow’s WinnersFebruary 27, 2025 Sui Blockchain Explained: How It Works and What You Need to KnowFebruary 6, 2025 Is Trump’s Memecoin Legit?\n\nHere’s What We Know About $TRUMPFebruary 1, 2025 What is Decentralized AI and Why We Need It ASAP?December 29, 2024",
+      "author": null,
+      "language": "en",
+      "ticker": "ORCL",
+      "tickers_hint": [
+        "ORCL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "coincentral",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "CoinCentral",
+        "source_domain": "coincentral.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORCL"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8199948a-087b-53fc-b1c1-fc9117ddd078",
+      "timestamp_utc": "2026-04-01T11:49:48+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/oracle-nyseorcl-shares-down-12-whats-next-2026-04-01/",
+      "title": "Oracle (NYSE:ORCL) Shares Down 1.2% - What's Next? - MarketBeat",
+      "body": "Oracle (NYSE:ORCL) Shares Down 1.2% - What's Next? MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ORCL",
+      "tickers_hint": [
+        "ORCL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORCL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "69442d19-9dd4-51f1-8c81-d43914811f41",
+      "timestamp_utc": "2026-03-31T14:21:32+00:00",
+      "source": "mexc_exchange",
+      "url": "https://www.mexc.co/en-IN/news/996090",
+      "title": "What Oracle Layoffs Mean for ORCL Stock Now - MEXC Exchange",
+      "body": "Oracle is back in focus as layoffs and AI spending collide. The company is reportedly cutting thousands of jobs while trying to control rising data-center costs tied to its aggressive cloud and AI buildout, and the move has turned ORCL into a stock investors are watching closely. That has raised a simple question: are the layoffs a warning sign, or a cost reset that could help Oracle protect margins and regain confidence?\n\nOracle is back in focus as layoffs and AI spending collide. The company is reportedly cutting thousands of jobs while trying to control rising data-center costs tied to its aggressive cloud and AI buildout, and the move has turned ORCL into a stock investors are watching closely. That has raised a simple question: are the layoffs a warning sign, or a cost reset that could help Oracle protect margins and regain confidence?\n\nThe stock itself has been under pressure. ORCL closed at $138.80 on March 30, after a recent stretch that saw shares fall from $155.52 on March 19 to $138.80 by the end of the month, according to historical price data. That drop came even after Oracle reported stronger-than-expected fiscal third-quarter results earlier in March, including 22% year-over-year revenue growth and adjusted EPS of $1.79.\n\nThe layoff story matters because it sits at the center of Oracle’s bigger AI strategy. Reuters reported that the cuts could hit multiple divisions as the company absorbs the cost of its data-center expansion, while other reports said Oracle has also been slowing hiring in cloud-related areas. In other words, the company is still pushing into AI infrastructure, but it appears to be tightening spending at the same time.\n\nThe chart pattern is still weak in the short term. ORCL has slipped below the mid-March support area near $150 and is trying to stabilize closer to $140, which makes that zone the first level bulls need to defend. A move back above $145 would be an early sign that sellers are losing momentum. If the stock cannot hold the low-$140s, traders may continue to treat rallies as short-term bounces rather than the start of a clean reversal.\n\nFor momentum traders, layoffs are not just a headline; they can also be read as a cost-cutting catalyst. If Oracle uses workforce reductions to improve cash flow while keeping cloud growth intact, the market may eventually reward the move.\n\nBut if investors see the cuts as proof that AI spending is getting too expensive, the stock could stay under pressure. Right now, ORCL is caught between a growth story and a margin story, and the chart suggests the market wants clearer evidence before paying up again.",
+      "author": null,
+      "language": "en",
+      "ticker": "ORCL",
+      "tickers_hint": [
+        "ORCL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "mexc exchange",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MEXC Exchange",
+        "source_domain": "mexcexchange.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORCL"
+        ],
+        "alt_sources": [
+          "MEXC Exchange"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "255144b1-4382-53e5-ba4d-8a6fa95350c7",
+      "timestamp_utc": "2026-03-31T11:24:41+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/oracle-nyseorcl-stock-price-up-59-heres-what-happened-2026-03-31/",
+      "title": "Oracle (NYSE:ORCL) Stock Price Up 5.9% - Here's What Happened - MarketBeat",
+      "body": "Oracle (NYSE:ORCL) Stock Price Up 5.9% - Here's What Happened MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ORCL",
+      "tickers_hint": [
+        "ORCL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORCL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e443a693-980d-53ee-850c-60d480a330ff",
+      "timestamp_utc": "2026-03-31T05:21:17+00:00",
+      "source": "the_economic_times",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQNzl4TU84NmZTQ3pYZGs3RVN4TlJnbVVXWWFzNWt1WlB0dzJLeDctanI5akk0aW9pV3JHZTlfSmVibWlBNnZmeDM3US1QcmN0ZWlzY1JySktvelBDOEdOVGN6XzU0NklTcmRzSVVWUGJiOUwwcUFLeHZVMHBfV01iQnR5NGNJZ0NCWDNxVU5oSklxYTQ4VmIyRHpaSDluN09ITC1uSmlCdGRPaUg4YW1LWE5NUFpDTV9wYnZ1MV90d2UwX1M3X25qZ2ZxMks4VGpxLWdJQjFGRzNrbUFab193UXhLOUx5YnFMNTQwZ3ZlNkthVjYtaGtnd0RWTVJfeTVHQm0xczVpaW9NVUI3eVJ5Y1Q1RUozVkhjaDFjWTU1bmQtVHlGLTBvZ2dQdXpXaWZKeWtiR3g3M1JXQWY3Nk1NR1plZzYya2vSAcwCQVVfeXFMTWh6ZnJqYUdpczRDZUJEelRoaDhETjRsYlU0MnZ4Qld4aktpR0Zlc2JMZnBERktISTFabG1Cb2VweGtITVVEUDZOLVozWTRuSjgtVDZCaFg1dDdaUlkwa1BTbEcxcGdfYlZXZFBZa3NIVk1nZF8xcWxNdEE1ejhLQTBZRVhCOEM1LWNTMjNRQWw0cm5ILVVZTkZhdnBTRWd4NnFhb0RCTEJrczNOVlBHZmVUeHlGNjg0cXRuM1k5TVJWbE5zT1dTMFdUMlNDZ2dnRkJMT1I3RXAtLVpTanNNV3FRampWUUpIOGdyTm0yWDZ6UmxweHBfQUhEZEpHNE5hZzhQZ3JGSTZuZTBtNGlqdk05cW0yUVRmektwM3VuazhBOTZOeDU1THZjS2RzanZkQWVQT1NncWNGUERjNFZTLUxrdnpOLU83SUNvY04?oc=5",
+      "title": "What is driving Oracle stock (ORCL) higher today despite layoffs? Oracle stock making big moves today as A - The Economic Times",
+      "body": "What is driving Oracle stock (ORCL) higher today despite layoffs? Oracle stock making big moves today as A The Economic Times",
+      "author": null,
+      "language": "en",
+      "ticker": "ORCL",
+      "tickers_hint": [
+        "ORCL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "the economic times",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Economic Times",
+        "source_domain": "theeconomictimes.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORCL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "96beb7ef-0287-5976-98f5-51f9644d49ec",
+      "timestamp_utc": "2026-03-31T08:09:55+00:00",
+      "source": "coincentral",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRG8wY1dEQTFrWXR1bE45Q245dEtueGhxWnZOWktSOWlRQU9xVjhTTzRJRUJ0WHUzdW9LaVJrcnlMOXlYb0FEWFktQWg2Ym9QeTliSnR1Tkt6MDl4Z04xV3JjbElUVmwzR3R4MDU5M0Npa2NRWGNTblVteERUd1ZZN1FXVUFUdEFNU0E?oc=5",
+      "title": "Oracle (ORCL) Stock Jumps 5% After Cutting Thousands of Jobs - CoinCentral",
+      "body": "Oracle (ORCL) Stock Jumps 5% After Cutting Thousands of Jobs CoinCentral",
+      "author": null,
+      "language": "en",
+      "ticker": "ORCL",
+      "tickers_hint": [
+        "ORCL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "coincentral",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "CoinCentral",
+        "source_domain": "coincentral.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORCL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "9bfc9b2a-57ca-5ae2-bbb3-45bf1a0ee917",
+      "timestamp_utc": "2026-04-01T09:07:30+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1ZCT05OempoRkxzclIzdkFyOGdBSmdqOFVUTG5paXlPd1V2V1I4M0p3VV9RWVlXX3V1SndQdE9jVGR1dWFkYnF6ZkZPVnBFM3JTR2ZIMGpaUmlpZGVCTjI5WVRfUUhteU05VkFrN1dYR2NpemFpM3VhV011bGxBc3pMR2RaRzJzOFpvVmZKY2N4b2ZTNFhPdTlZQmtTNkJyckpXaFE3cFRJV2c4ZmdtWXo3dw?oc=5",
+      "title": "LyondellBasell Industries NV (LYB) Stock Price Down 4.82% on Apr 1 - GuruFocus",
+      "body": "LyondellBasell Industries NV (LYB) Stock Price Down 4.82% on Apr 1 GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "LYB",
+      "tickers_hint": [
+        "LYB"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "LYB"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "9bfc9b2a-57ca-5ae2-bbb3-45bf1a0ee917",
+      "timestamp_utc": "2026-04-01T09:07:30+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1ZCT05OempoRkxzclIzdkFyOGdBSmdqOFVUTG5paXlPd1V2V1I4M0p3VV9RWVlXX3V1SndQdE9jVGR1dWFkYnF6ZkZPVnBFM3JTR2ZIMGpaUmlpZGVCTjI5WVRfUUhteU05VkFrN1dYR2NpemFpM3VhV011bGxBc3pMR2RaRzJzOFpvVmZKY2N4b2ZTNFhPdTlZQmtTNkJyckpXaFE3cFRJV2c4ZmdtWXo3dw?oc=5",
+      "title": "LyondellBasell Industries NV (LYB) Stock Price Down 4.82% on Apr 1 - GuruFocus",
+      "body": "LyondellBasell Industries NV (LYB) Stock Price Down 4.82% on Apr 1 GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "LYB",
+      "tickers_hint": [
+        "LYB"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "LYB"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

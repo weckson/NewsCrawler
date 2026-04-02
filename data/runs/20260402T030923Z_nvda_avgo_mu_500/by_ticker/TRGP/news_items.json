@@ -1,0 +1,31 @@
+[
+  {
+    "id": "f0860763-20cc-5d44-b1ec-de59316b4f20",
+    "timestamp_utc": "2026-04-01T02:00:17+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWEJlbmZyLXNzU1FJSk1zdE5VdW8wOE1uZE1BZk9NNl9HaXpvaTRIeU5QeDdRSnAwazB3Nk9RektRREc0U0JYVk0zbVpCaHBkR2k5NnhuS2I1ak1zTU5qeGRCVF9wMXRMV0dJc3BKTVF0S2FDRW8ybC01Wk04Tk80cm1XTmM4Zk5qdGJ4aU92N05kamV1N1A1czE1OG1Ddw?oc=5",
+    "title": "Should You Be Adding Targa Resources (NYSE:TRGP) To Your Watchlist Today? - Yahoo Finance",
+    "body": "Should You Be Adding Targa Resources (NYSE:TRGP) To Your Watchlist Today? Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "TRGP",
+    "tickers_hint": [
+      "TRGP"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "TRGP"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

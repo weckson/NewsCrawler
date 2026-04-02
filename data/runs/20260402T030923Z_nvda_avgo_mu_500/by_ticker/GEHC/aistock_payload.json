@@ -1,0 +1,186 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "589b90dc-84f5-5c42-abdd-5c8f255cd1eb",
+      "timestamp_utc": "2026-04-01T14:05:01+00:00",
+      "source": "qz.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oVmtkQjlXYVZLQllEVGVpXzctd2tiUXUtbzBxQWlOdTRIUmo1VF9aVTBZZmRTaTVIUnUycnRtRnFHZ2FQUjB5ekpQejFDTGdkT2tzbmNnLWNkZDN1Mmo2VHgzdjluZHEyNlRxcDZFMVExYUlFajBF?oc=5",
+      "title": "GEHC or ABT: Which Is the Better Value Stock Right Now? - qz.com",
+      "body": "GEHC or ABT: Which Is the Better Value Stock Right Now? qz.com",
+      "author": null,
+      "language": "en",
+      "ticker": "ABT",
+      "tickers_hint": [
+        "ABT",
+        "GEHC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "qz.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "qz.com",
+        "source_domain": "qzcom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ABT",
+          "GEHC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "cff56095-8539-5979-8453-8c8b40004633",
+      "timestamp_utc": "2026-04-01T09:08:02+00:00",
+      "source": "bitget",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05Y3VudVo2bS11aktQbE4yX244R1RkM2xhZjNMYktWSXQ5RHdJd3VlVzQ2YTNaT0xnaW4tZnpkWjJUR1pBSXYxcHFmc250SmJuNi16R2xhWDdweHVnS0RONW5Md9IBY0FVX3lxTE05Y3VudVo2bS11aktQbE4yX244R1RkM2xhZjNMYktWSXQ5RHdJd3VlVzQ2YTNaT0xnaW4tZnpkWjJUR1pBSXYxcHFmc250SmJuNi16R2xhWDdweHVnS0RONW5Mdw?oc=5",
+      "title": "GEHC vs. ABT: Which Stock Offers Greater Value at This Moment? - Bitget",
+      "body": "GEHC vs. ABT: Which Stock Offers Greater Value at This Moment? Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "GEHC",
+      "tickers_hint": [
+        "GEHC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "GEHC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1164bb80-a5f7-5ec1-9eef-fe64553b0afb",
+      "timestamp_utc": "2026-03-31T05:46:30+00:00",
+      "source": "msn",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc3hmV3ZrMWFkUW1KakNBWVd0bUVXeWtGUUhCMVdjaEdFYUN5eXByN2ZUd3h2ZUliSDBWYld6c1BFcndsSW9VY3VMbTAwakVEaGVONmVxS0JsOGM5c1lwX28zZlgtcmNFcGlzdGRhLTFIQVdEMVQtaVNhcjdCZlJHY3Iyem1TbXZwNk93MENzY2N0cEVLQ2tQZnJJWWZZa1JfMlJxTTVuZ3hhLTUtaV92YlU1MVhKVFB2ckQtTnA3aWQxRkdObDNr?oc=5",
+      "title": "Why GE HealthCare Technologies (GEHC) is a top value stock for the long term - MSN",
+      "body": "Why GE HealthCare Technologies (GEHC) is a top value stock for the long term MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "GEHC",
+      "tickers_hint": [
+        "GEHC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "GEHC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "589b90dc-84f5-5c42-abdd-5c8f255cd1eb",
+      "timestamp_utc": "2026-04-01T14:05:01+00:00",
+      "source": "qz.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oVmtkQjlXYVZLQllEVGVpXzctd2tiUXUtbzBxQWlOdTRIUmo1VF9aVTBZZmRTaTVIUnUycnRtRnFHZ2FQUjB5ekpQejFDTGdkT2tzbmNnLWNkZDN1Mmo2VHgzdjluZHEyNlRxcDZFMVExYUlFajBF?oc=5",
+      "title": "GEHC or ABT: Which Is the Better Value Stock Right Now? - qz.com",
+      "body": "GEHC or ABT: Which Is the Better Value Stock Right Now? qz.com",
+      "author": null,
+      "language": "en",
+      "ticker": "ABT",
+      "tickers_hint": [
+        "ABT",
+        "GEHC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "qz.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "qz.com",
+        "source_domain": "qzcom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ABT",
+          "GEHC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "cff56095-8539-5979-8453-8c8b40004633",
+      "timestamp_utc": "2026-04-01T09:08:02+00:00",
+      "source": "bitget",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05Y3VudVo2bS11aktQbE4yX244R1RkM2xhZjNMYktWSXQ5RHdJd3VlVzQ2YTNaT0xnaW4tZnpkWjJUR1pBSXYxcHFmc250SmJuNi16R2xhWDdweHVnS0RONW5Md9IBY0FVX3lxTE05Y3VudVo2bS11aktQbE4yX244R1RkM2xhZjNMYktWSXQ5RHdJd3VlVzQ2YTNaT0xnaW4tZnpkWjJUR1pBSXYxcHFmc250SmJuNi16R2xhWDdweHVnS0RONW5Mdw?oc=5",
+      "title": "GEHC vs. ABT: Which Stock Offers Greater Value at This Moment? - Bitget",
+      "body": "GEHC vs. ABT: Which Stock Offers Greater Value at This Moment? Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "GEHC",
+      "tickers_hint": [
+        "GEHC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "GEHC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1164bb80-a5f7-5ec1-9eef-fe64553b0afb",
+      "timestamp_utc": "2026-03-31T05:46:30+00:00",
+      "source": "msn",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc3hmV3ZrMWFkUW1KakNBWVd0bUVXeWtGUUhCMVdjaEdFYUN5eXByN2ZUd3h2ZUliSDBWYld6c1BFcndsSW9VY3VMbTAwakVEaGVONmVxS0JsOGM5c1lwX28zZlgtcmNFcGlzdGRhLTFIQVdEMVQtaVNhcjdCZlJHY3Iyem1TbXZwNk93MENzY2N0cEVLQ2tQZnJJWWZZa1JfMlJxTTVuZ3hhLTUtaV92YlU1MVhKVFB2ckQtTnA3aWQxRkdObDNr?oc=5",
+      "title": "Why GE HealthCare Technologies (GEHC) is a top value stock for the long term - MSN",
+      "body": "Why GE HealthCare Technologies (GEHC) is a top value stock for the long term MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "GEHC",
+      "tickers_hint": [
+        "GEHC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "GEHC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

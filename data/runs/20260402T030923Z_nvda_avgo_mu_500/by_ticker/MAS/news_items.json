@@ -1,0 +1,63 @@
+[
+  {
+    "id": "4ba988d4-eb94-5d82-be73-e0bdc7c9e4f7",
+    "timestamp_utc": "2026-04-01T00:05:42+00:00",
+    "source": "msn",
+    "url": "https://www.msn.com/en-us/money/topstocks/what-to-expect-from-mascos-next-quarterly-earnings-report/ar-AA1ZJ6dZ",
+    "title": "What to expect from Masco's next quarterly earnings report - MSN",
+    "body": "What to expect from Masco's next quarterly earnings report MSN",
+    "author": null,
+    "language": "en",
+    "ticker": "MAS",
+    "tickers_hint": [
+      "MAS"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "msn",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MSN",
+      "source_domain": "msn.com",
+      "trust_tier": 1,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "MAS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "661db080-5ab0-55b4-8cde-00c8bcd9af18",
+    "timestamp_utc": "2026-03-31T20:55:00+00:00",
+    "source": "minichart",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMVlEbkpTN2VfeGU4bF9sSlRqckhRRFl1SzcwSFBWUTRSNWNlUy12UDFmclZPcjdpNWNKeURkZWhKX0FBQy04U2haeW9sY1pyLWsxTFZQNElFOVE2ekpCbUlVdkNJT21nRFFnZkxQWWEwbnFycmtFUUtlNWNHNGtsZkkzanBvMW1TWkJpSVhOeHhISjV4bS1fZHc3alZGT0otZU5fZ0Q5LTBQZlRrNHdsVlFMSHd3ZGw0U2ctVlZVZnMwa1pvb1E?oc=5",
+    "title": "UOB and Singtel Stock Analysis: MAS Policy, Provisioning, Capital Returns & FY26 Outlook 12 - Minichart",
+    "body": "UOB and Singtel Stock Analysis: MAS Policy, Provisioning, Capital Returns & FY26 Outlook 12 Minichart",
+    "author": null,
+    "language": "en",
+    "ticker": "MAS",
+    "tickers_hint": [
+      "MAS"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "minichart",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Minichart",
+      "source_domain": "minichart.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "MAS"
+      ],
+      "alt_sources": [
+        "Minichart"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

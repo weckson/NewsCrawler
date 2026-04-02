@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "a988609c-07a2-5f90-9ce7-e292e152db15",
+      "timestamp_utc": "2026-04-01T03:56:30+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/ROL/earnings",
+      "title": "ROL Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "ROL Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "ROL",
+      "tickers_hint": [
+        "ROL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ROL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "a988609c-07a2-5f90-9ce7-e292e152db15",
+      "timestamp_utc": "2026-04-01T03:56:30+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/ROL/earnings",
+      "title": "ROL Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "ROL Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "ROL",
+      "tickers_hint": [
+        "ROL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ROL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

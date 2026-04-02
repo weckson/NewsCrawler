@@ -1,0 +1,63 @@
+[
+  {
+    "id": "3e538330-8f77-5714-b12a-8744ef95bc77",
+    "timestamp_utc": "2026-04-01T08:18:11+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8765696/oppenheimer-lowers-price-target-for-xylem-xyl-to-160-xyl-stock-news",
+    "title": "Oppenheimer Lowers Price Target for Xylem (XYL) to $160 | XYL St - GuruFocus",
+    "body": "Oppenheimer Lowers Price Target for Xylem (XYL) to $160 | XYL St GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "XYL",
+    "tickers_hint": [
+      "XYL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "XYL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "75718b3f-0502-556c-a9b0-1382f48956d3",
+    "timestamp_utc": "2026-04-01T06:05:41+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JZ092ZHRRdFNMZ2hKWE42WG9GMHRkQTdtUXBBbWRZT1VfLWcxZzFwMEVYQWx5TlpQTmZwQ2NFd0o0RlhLOEpPQlBqYzJndDFmUFRtYXphR3FTTVlDQU1Sd2wzZDQ?oc=5",
+    "title": "XYL SEC Filings - Xylem Inc 10-K, 10-Q, 8-K Forms - Stock Titan",
+    "body": "XYL SEC Filings - Xylem Inc 10-K, 10-Q, 8-K Forms Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "XYL",
+    "tickers_hint": [
+      "XYL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "XYL"
+      ],
+      "alt_sources": [
+        "Stock Titan"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

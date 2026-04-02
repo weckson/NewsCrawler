@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "f13ae635-e9c9-5ac7-84d8-eebe1d482840",
+      "timestamp_utc": "2026-03-31T07:03:26+00:00",
+      "source": "ad_hoc_news",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/udr-inc-stock-multifamily-reit-leader-with-premium-valuation-and-steady/69041089",
+      "title": "UDR Inc Stock: Multifamily REIT Leader with Premium Valuation and Steady Dividend Appeal for North A - AD HOC NEWS",
+      "body": "NEWSAKTIENKURSEBÖRSE WIRTSCHAFT POLITIK SPORT UNTERHALTUNG WISSENSCHAFT AUSLAND POLIZEI INTERNATIONAL SONSTIGE ARCHIV BLOGS KALENDERBLATT NEWSLETTER BÖRSENLEXIKON RSS WATCHLISTNews SucheMenü ein-/ausblendenBlogsBilderNews",
+      "author": null,
+      "language": "en",
+      "ticker": "UDR",
+      "tickers_hint": [
+        "UDR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "ad hoc news",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "AD HOC NEWS",
+        "source_domain": "adhocnews.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "UDR"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "f13ae635-e9c9-5ac7-84d8-eebe1d482840",
+      "timestamp_utc": "2026-03-31T07:03:26+00:00",
+      "source": "ad_hoc_news",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/udr-inc-stock-multifamily-reit-leader-with-premium-valuation-and-steady/69041089",
+      "title": "UDR Inc Stock: Multifamily REIT Leader with Premium Valuation and Steady Dividend Appeal for North A - AD HOC NEWS",
+      "body": "NEWSAKTIENKURSEBÖRSE WIRTSCHAFT POLITIK SPORT UNTERHALTUNG WISSENSCHAFT AUSLAND POLIZEI INTERNATIONAL SONSTIGE ARCHIV BLOGS KALENDERBLATT NEWSLETTER BÖRSENLEXIKON RSS WATCHLISTNews SucheMenü ein-/ausblendenBlogsBilderNews",
+      "author": null,
+      "language": "en",
+      "ticker": "UDR",
+      "tickers_hint": [
+        "UDR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "ad hoc news",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "AD HOC NEWS",
+        "source_domain": "adhocnews.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "UDR"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

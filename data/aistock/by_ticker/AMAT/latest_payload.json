@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "8fd556d7-7bb7-57ea-a667-211be131a08e",
+      "timestamp_utc": "2026-04-01T04:27:00+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNczZTNnZFbnNsZnJRSGhhQUx3VnlRYUtNNk5vWnhpWHFCRGhOcUg0Mmg4TGVoS25NTzV5UnY0eEJuQ3VaUVBmWEx0WTZEVGV3MFRabWJLR3lqN1czUXVkX1FsdVRuUHJpRDdtSXRURXFDMU9kX1NhcnZDdDBnemwyMjJadTJ5T0JaeURKOXg4andVSzlxSi1iaTJfZDI0bF91ZFRzbml2LVNFSkhRek9raEo1U2RWaU1JNEE?oc=5",
+      "title": "Applied Materials Stock Climbs 33% YTD: Time to Buy, Sell or Hold? - TradingView",
+      "body": "Applied Materials Stock Climbs 33% YTD: Time to Buy, Sell or Hold? TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5466b208-0cf1-5902-9096-551a34a9f346",
+      "timestamp_utc": "2026-03-31T11:48:44+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/applied-materials-nasdaqamat-trading-58-higher-heres-why-2026-03-31/",
+      "title": "Applied Materials (NASDAQ:AMAT) Trading 5.8% Higher - Here's Why - MarketBeat",
+      "body": "Applied Materials (NASDAQ:AMAT) Trading 5.8% Higher - Here's Why MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "8fd556d7-7bb7-57ea-a667-211be131a08e",
+      "timestamp_utc": "2026-04-01T04:27:00+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNczZTNnZFbnNsZnJRSGhhQUx3VnlRYUtNNk5vWnhpWHFCRGhOcUg0Mmg4TGVoS25NTzV5UnY0eEJuQ3VaUVBmWEx0WTZEVGV3MFRabWJLR3lqN1czUXVkX1FsdVRuUHJpRDdtSXRURXFDMU9kX1NhcnZDdDBnemwyMjJadTJ5T0JaeURKOXg4andVSzlxSi1iaTJfZDI0bF91ZFRzbml2LVNFSkhRek9raEo1U2RWaU1JNEE?oc=5",
+      "title": "Applied Materials Stock Climbs 33% YTD: Time to Buy, Sell or Hold? - TradingView",
+      "body": "Applied Materials Stock Climbs 33% YTD: Time to Buy, Sell or Hold? TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5466b208-0cf1-5902-9096-551a34a9f346",
+      "timestamp_utc": "2026-03-31T11:48:44+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/applied-materials-nasdaqamat-trading-58-higher-heres-why-2026-03-31/",
+      "title": "Applied Materials (NASDAQ:AMAT) Trading 5.8% Higher - Here's Why - MarketBeat",
+      "body": "Applied Materials (NASDAQ:AMAT) Trading 5.8% Higher - Here's Why MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

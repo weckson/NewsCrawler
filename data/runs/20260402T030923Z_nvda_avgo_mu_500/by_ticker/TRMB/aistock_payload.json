@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "6204c1e4-68f6-5078-8170-c8f65fad9dfa",
+      "timestamp_utc": "2026-03-31T18:15:07+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/trimble-trmb-up-38-since-last-earnings-report-can-it-continue/ar-AA1YuDLc",
+      "title": "Trimble (TRMB) up 3.8% since last earnings report: Can it continue? - MSN",
+      "body": "Trimble (TRMB) up 3.8% since last earnings report: Can it continue? MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "TRMB",
+      "tickers_hint": [
+        "TRMB"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "TRMB"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "6204c1e4-68f6-5078-8170-c8f65fad9dfa",
+      "timestamp_utc": "2026-03-31T18:15:07+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/trimble-trmb-up-38-since-last-earnings-report-can-it-continue/ar-AA1YuDLc",
+      "title": "Trimble (TRMB) up 3.8% since last earnings report: Can it continue? - MSN",
+      "body": "Trimble (TRMB) up 3.8% since last earnings report: Can it continue? MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "TRMB",
+      "tickers_hint": [
+        "TRMB"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "TRMB"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

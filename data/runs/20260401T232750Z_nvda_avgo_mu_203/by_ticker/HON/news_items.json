@@ -1,0 +1,89 @@
+[
+  {
+    "id": "6893e2d3-86ec-5143-950d-4ce343c8647c",
+    "timestamp_utc": "2026-03-31T00:49:40+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bmo-capital-just-initiated-coverage-104940627.html",
+    "title": "BMO Capital Just Initiated Coverage of Honeywell (HON) Stock, Here’s What They Say - Yahoo Finance",
+    "body": "BMO Capital Just Initiated Coverage of Honeywell (HON) Stock, Here’s What They Say Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "HON",
+    "tickers_hint": [
+      "HON"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "HON"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "049eeb1e-a302-5c0a-a505-42330522a5e5",
+    "timestamp_utc": "2026-04-01T04:20:29+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/barclays-issues-pessimistic-forecast-for-honeywell-international-nasdaqhon-stock-price-2026-04-01/",
+    "title": "Barclays Issues Pessimistic Forecast for Honeywell International (NASDAQ:HON) Stock Price - MarketBeat",
+    "body": "Barclays Issues Pessimistic Forecast for Honeywell International (NASDAQ:HON) Stock Price MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "HON",
+    "tickers_hint": [
+      "HON"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "HON"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "01521717-e209-503d-a2cf-eac85c2cb714",
+    "timestamp_utc": "2026-04-01T00:58:53+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-honeywell-international-inc-hon-stock-position-trimmed-by-meyer-handelman-co-2026-04-01/",
+    "title": "Honeywell International Inc. $HON Stock Position Trimmed by Meyer Handelman Co. - MarketBeat",
+    "body": "Honeywell International Inc. $HON Stock Position Trimmed by Meyer Handelman Co. MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "HON",
+    "tickers_hint": [
+      "HON"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "HON"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

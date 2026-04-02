@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "8b5631f1-538d-5ee2-9246-544350eb8ec7",
+      "timestamp_utc": "2026-04-01T07:19:34+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8763560/goldman-sachs-reinstates-buy-rating-on-waters-wat-stock?mobile=true",
+      "title": "Goldman Sachs Reinstates Buy Rating on Waters (WAT) Stock - GuruFocus",
+      "body": "Goldman Sachs Reinstates Buy Rating on Waters (WAT) Stock GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "WAT",
+      "tickers_hint": [
+        "WAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "WAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "8b5631f1-538d-5ee2-9246-544350eb8ec7",
+      "timestamp_utc": "2026-04-01T07:19:34+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8763560/goldman-sachs-reinstates-buy-rating-on-waters-wat-stock?mobile=true",
+      "title": "Goldman Sachs Reinstates Buy Rating on Waters (WAT) Stock - GuruFocus",
+      "body": "Goldman Sachs Reinstates Buy Rating on Waters (WAT) Stock GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "WAT",
+      "tickers_hint": [
+        "WAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "WAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

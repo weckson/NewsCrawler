@@ -1,0 +1,118 @@
+[
+  {
+    "id": "404afea5-f5e6-5645-828b-0163b679344a",
+    "timestamp_utc": "2026-03-31T06:40:45+00:00",
+    "source": "tipranks",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWnJrZlRmdXBYTHptYy1zVEV2VTh2alpScFVpTnBUYlpYZHRHcDM2cm16alZEY2l5dU56NGZoa2ZhZ0ZiYnloa2NJMmM3b3NnV293dTVEdmVHSXg5RkppU0xMQ3NyMTgyMHYxRmN0WFJXLUtiSlJka1BKODBNNnEyd0x6dFZzRkxXUlpDdVVRYmhXQ0JGWk92X1FQWjNfMjgwaVJHelhhTHk2UmNTa0hGWXZBa1ZkTllCc0FV?oc=5",
+    "title": "Starbucks Stock (NASDAQ:SBUX) Gains after Firm Closes Five Seattle Stores, Lays Off 69 Workers - TipRanks",
+    "body": "Starbucks Stock (NASDAQ:SBUX) Gains after Firm Closes Five Seattle Stores, Lays Off 69 Workers TipRanks",
+    "author": null,
+    "language": "en",
+    "ticker": "SBUX",
+    "tickers_hint": [
+      "SBUX"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "tipranks.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "SBUX"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "d85ac794-692b-5c3d-948d-0804279feb76",
+    "timestamp_utc": "2026-04-01T00:06:20+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/starbucks-nasdaqsbux-stock-rating-upgraded-by-bnp-paribas-exane-2026-04-01/",
+    "title": "Starbucks (NASDAQ:SBUX) Stock Rating Upgraded by BNP Paribas Exane - MarketBeat",
+    "body": "Starbucks (NASDAQ:SBUX) Stock Rating Upgraded by BNP Paribas Exane MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "SBUX",
+    "tickers_hint": [
+      "SBUX"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.65,
+      "event_origin": "news",
+      "query_tickers": [
+        "SBUX"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "3edf3d9c-d74f-541d-b8c7-830c4564b3ce",
+    "timestamp_utc": "2026-04-01T00:02:28+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-starbucks-corporation-sbux-shares-purchased-by-rockland-trust-co-2026-04-01/",
+    "title": "Starbucks Corporation $SBUX Shares Purchased by Rockland Trust Co. - MarketBeat",
+    "body": "Starbucks Corporation $SBUX Shares Purchased by Rockland Trust Co. MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "SBUX",
+    "tickers_hint": [
+      "SBUX"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "SBUX"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "03b25b32-9f5a-53a6-8579-c1991f575551",
+    "timestamp_utc": "2026-04-01T03:00:03+00:00",
+    "source": "yahoo_finance_australia",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMjBuczFpcEMydzlFc3RjQWRQM1huZnMtQ0NGdXMzZ1pJY3RvcnUwMGk0akpia3BJX1A2WG5VT0M0Q29qVmFfVGFleTNLdS1nS1ZsU1RDVFVraUpFTzNKTlVNUFF5UWFGQ0pibnlTV1JReTR2QnBVMDFNTVY1aXA3Y1NOZlZQcjllQml6ODVKT1dLR3pv?oc=5",
+    "title": "Is Trending Stock Starbucks Corporation (SBUX) a Buy Now? - Yahoo Finance Australia",
+    "body": "Is Trending Stock Starbucks Corporation (SBUX) a Buy Now? Yahoo Finance Australia",
+    "author": null,
+    "language": "en",
+    "ticker": "SBUX",
+    "tickers_hint": [
+      "SBUX"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo finance australia",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance Australia",
+      "source_domain": "yahoofinanceaustralia.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "SBUX"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

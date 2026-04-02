@@ -1,0 +1,60 @@
+[
+  {
+    "id": "0a33671a-cec3-5709-a9c1-bf3ee4fa67cd",
+    "timestamp_utc": "2026-03-31T07:56:17+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8761628/aptv-sees-analyst-rating-maintained-with-lowered-price-target-by-rbc-capital-aptv-stock-news?mobile=true",
+    "title": "APTV Sees Analyst Rating Maintained with Lowered Price Target by RBC Capital | APTV Stock News - GuruFocus",
+    "body": "APTV Sees Analyst Rating Maintained with Lowered Price Target by RBC Capital | APTV Stock News GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "APTV",
+    "tickers_hint": [
+      "APTV"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.7500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "APTV"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "96b9f37c-be83-54f7-911d-0dff9bfce8a6",
+    "timestamp_utc": "2026-03-31T05:39:59+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8761485/aptv-analyst-maintains-rating-but-lowers-price-target-to-93-aptv-stock-news?mobile=true",
+    "title": "APTV: Analyst Maintains Rating but Lowers Price Target to $93 | - GuruFocus",
+    "body": "APTV: Analyst Maintains Rating but Lowers Price Target to $93 | GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "APTV",
+    "tickers_hint": [
+      "APTV"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.65,
+      "event_origin": "news",
+      "query_tickers": [
+        "APTV"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "53737b1f-7320-53b8-8e99-96afaa7ae392",
+      "timestamp_utc": "2026-03-31T07:03:45+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8761957/idxx-analyst-rating-stifel-lowers-price-target-amidst-maintained-buy-rating-idxx-stock-news?mobile=true",
+      "title": "IDXX Analyst Rating: Stifel Lowers Price Target Amidst Maintained Buy Rating | IDXX Stock News - GuruFocus",
+      "body": "IDXX Analyst Rating: Stifel Lowers Price Target Amidst Maintained Buy Rating | IDXX Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "IDXX",
+      "tickers_hint": [
+        "IDXX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.7500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "IDXX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "53737b1f-7320-53b8-8e99-96afaa7ae392",
+      "timestamp_utc": "2026-03-31T07:03:45+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8761957/idxx-analyst-rating-stifel-lowers-price-target-amidst-maintained-buy-rating-idxx-stock-news?mobile=true",
+      "title": "IDXX Analyst Rating: Stifel Lowers Price Target Amidst Maintained Buy Rating | IDXX Stock News - GuruFocus",
+      "body": "IDXX Analyst Rating: Stifel Lowers Price Target Amidst Maintained Buy Rating | IDXX Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "IDXX",
+      "tickers_hint": [
+        "IDXX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.7500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "IDXX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

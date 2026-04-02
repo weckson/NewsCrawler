@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "89194ab4-2f3d-5d73-bd29-2abe184b2869",
+      "timestamp_utc": "2026-03-31T07:01:17+00:00",
+      "source": "digital_commerce_360",
+      "url": "https://www.digitalcommerce360.com/article/ebay-sales/",
+      "title": "eBay focus on AI, recommerce guides Q4 revenue growth - Digital Commerce 360",
+      "body": "eBay focus on AI, recommerce guides Q4 revenue growth Digital Commerce 360",
+      "author": null,
+      "language": "en",
+      "ticker": "EBAY",
+      "tickers_hint": [
+        "EBAY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "digital commerce 360",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Digital Commerce 360",
+        "source_domain": "digitalcommerce360.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "EBAY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "89194ab4-2f3d-5d73-bd29-2abe184b2869",
+      "timestamp_utc": "2026-03-31T07:01:17+00:00",
+      "source": "digital_commerce_360",
+      "url": "https://www.digitalcommerce360.com/article/ebay-sales/",
+      "title": "eBay focus on AI, recommerce guides Q4 revenue growth - Digital Commerce 360",
+      "body": "eBay focus on AI, recommerce guides Q4 revenue growth Digital Commerce 360",
+      "author": null,
+      "language": "en",
+      "ticker": "EBAY",
+      "tickers_hint": [
+        "EBAY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "digital commerce 360",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Digital Commerce 360",
+        "source_domain": "digitalcommerce360.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "EBAY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

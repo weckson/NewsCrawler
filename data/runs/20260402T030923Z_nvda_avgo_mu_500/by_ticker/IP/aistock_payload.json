@@ -1,0 +1,204 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "c6e5df2a-782c-52bb-8233-cd20d9d1f7a1",
+      "timestamp_utc": "2026-04-01T00:24:52+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNVExDNzViamhkRjdsd3lFaWVZN2g5QmRkYzA4cU1iZVk4RmJzeVZjdnVTeXFaM0Zmd2RacGxHS3JXMmhMdVBmdERueVVLaWw2TE5jdmZiVFF5cFRhWGpId3NHVEhaUDVVZHlSMFc4ekI2RlR0b3UxN0xPMmxhTm1LekRfV1dlNnVDemQ5Q18wQUlLSjByeENnMDdJVTlIcUFmMTRmZFRkU2FLd0NXcmFESzBwRGQ0Z3RpX1pEVnhLcEFuLXlReFdLTFdsM1hWSE1KYWxsRGdibmtSNExHZlB5VzdaS09jVFloOW45T3JQNktKUDNlelNIQ0tGWW56MHUwTXpHTkNB?oc=5",
+      "title": "Apple Turns 50: From Garage Startup To $3.73 Trillion Giant—Here's How Much A $1,000 Investment At Its IP - Benzinga",
+      "body": "Apple Turns 50: From Garage Startup To $3.73 Trillion Giant—Here's How Much A $1,000 Investment At Its IP Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "A",
+      "tickers_hint": [
+        "A",
+        "AAPL",
+        "IP",
+        "IT",
+        "ON"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "A",
+          "AAPL",
+          "IP",
+          "IT",
+          "ON"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5a31b180-09cb-5a17-92f6-92d6ecd4fc26",
+      "timestamp_utc": "2026-04-01T08:34:19+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOVdVRXVzUG5xSEhoZ0NRamhHNDdpN0VReXJFMHktd3JUclRoM1JDSHNIRnU4aWxJV2pPamJwTHh1eVdRMHJNNU9DV2ZUMmVzQTExN0dhSVVTaWFNb0YwanE5OTBuMjRBWGVYRjJ1NERuUWtlM0dWRFc0a3FPLUo0VDR2M3J4amU1eGpTS2RpcHh2ZkFsaU1jOFZwbmtTdnhNXzJKd2llZTJTS2h6MzRsT1Q1SWFWb1F6TEJ1d19mRndYelhfeFNj?oc=5",
+      "title": "Deutsche Bank Initiates Coverage on International Paper (IP) wit - GuruFocus",
+      "body": "Deutsche Bank Initiates Coverage on International Paper (IP) wit GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "IP",
+      "tickers_hint": [
+        "IP"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "IP"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c4011dd4-687f-5803-9561-2c5b29fb6a58",
+      "timestamp_utc": "2026-04-01T03:24:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObFdCZXQyRExnd1FVdm9NZ0xWa2MtSU1tQU80bU13cGNOalJGdktzanMzdFJkVkIxeDhQLWhCMnQ1XzhaRENJdjlTTUVJY2V4VV8tSUdZdzlYU3dtUy1jQmhqZV82OEVQTVFwZGdmOTMySkhBMzdwNzY1M2tJYmRpSTAxLTU0MXM2Tk5Wd3hRSldEaEM0ZnNCdjZhaEJjdlM2Y1A1M1FuOWs1OUt4bWVKVGkwdnhPOHFIbjExRzQ5aw?oc=5",
+      "title": "Type a prompt, get a multiplayer game: Verse8 lands $5M seed round - Stock Titan",
+      "body": "Type a prompt, get a multiplayer game: Verse8 lands $5M seed round Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "IP",
+      "tickers_hint": [
+        "IP"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "IP"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "c6e5df2a-782c-52bb-8233-cd20d9d1f7a1",
+      "timestamp_utc": "2026-04-01T00:24:52+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNVExDNzViamhkRjdsd3lFaWVZN2g5QmRkYzA4cU1iZVk4RmJzeVZjdnVTeXFaM0Zmd2RacGxHS3JXMmhMdVBmdERueVVLaWw2TE5jdmZiVFF5cFRhWGpId3NHVEhaUDVVZHlSMFc4ekI2RlR0b3UxN0xPMmxhTm1LekRfV1dlNnVDemQ5Q18wQUlLSjByeENnMDdJVTlIcUFmMTRmZFRkU2FLd0NXcmFESzBwRGQ0Z3RpX1pEVnhLcEFuLXlReFdLTFdsM1hWSE1KYWxsRGdibmtSNExHZlB5VzdaS09jVFloOW45T3JQNktKUDNlelNIQ0tGWW56MHUwTXpHTkNB?oc=5",
+      "title": "Apple Turns 50: From Garage Startup To $3.73 Trillion Giant—Here's How Much A $1,000 Investment At Its IP - Benzinga",
+      "body": "Apple Turns 50: From Garage Startup To $3.73 Trillion Giant—Here's How Much A $1,000 Investment At Its IP Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "A",
+      "tickers_hint": [
+        "A",
+        "AAPL",
+        "IP",
+        "IT",
+        "ON"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "A",
+          "AAPL",
+          "IP",
+          "IT",
+          "ON"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5a31b180-09cb-5a17-92f6-92d6ecd4fc26",
+      "timestamp_utc": "2026-04-01T08:34:19+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOVdVRXVzUG5xSEhoZ0NRamhHNDdpN0VReXJFMHktd3JUclRoM1JDSHNIRnU4aWxJV2pPamJwTHh1eVdRMHJNNU9DV2ZUMmVzQTExN0dhSVVTaWFNb0YwanE5OTBuMjRBWGVYRjJ1NERuUWtlM0dWRFc0a3FPLUo0VDR2M3J4amU1eGpTS2RpcHh2ZkFsaU1jOFZwbmtTdnhNXzJKd2llZTJTS2h6MzRsT1Q1SWFWb1F6TEJ1d19mRndYelhfeFNj?oc=5",
+      "title": "Deutsche Bank Initiates Coverage on International Paper (IP) wit - GuruFocus",
+      "body": "Deutsche Bank Initiates Coverage on International Paper (IP) wit GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "IP",
+      "tickers_hint": [
+        "IP"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "IP"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c4011dd4-687f-5803-9561-2c5b29fb6a58",
+      "timestamp_utc": "2026-04-01T03:24:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObFdCZXQyRExnd1FVdm9NZ0xWa2MtSU1tQU80bU13cGNOalJGdktzanMzdFJkVkIxeDhQLWhCMnQ1XzhaRENJdjlTTUVJY2V4VV8tSUdZdzlYU3dtUy1jQmhqZV82OEVQTVFwZGdmOTMySkhBMzdwNzY1M2tJYmRpSTAxLTU0MXM2Tk5Wd3hRSldEaEM0ZnNCdjZhaEJjdlM2Y1A1M1FuOWs1OUt4bWVKVGkwdnhPOHFIbjExRzQ5aw?oc=5",
+      "title": "Type a prompt, get a multiplayer game: Verse8 lands $5M seed round - Stock Titan",
+      "body": "Type a prompt, get a multiplayer game: Verse8 lands $5M seed round Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "IP",
+      "tickers_hint": [
+        "IP"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "IP"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

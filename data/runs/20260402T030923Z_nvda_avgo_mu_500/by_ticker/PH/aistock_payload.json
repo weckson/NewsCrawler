@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "507a7fb6-19e1-5779-8470-3d20af6d2b35",
+      "timestamp_utc": "2026-04-01T08:47:12+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765626/wells-fargo-lowers-price-target-for-parker-hannifin-ph-to-980-ph-stock-news?mobile=true",
+      "title": "Wells Fargo Lowers Price Target for Parker Hannifin (PH) to $980 - GuruFocus",
+      "body": "Wells Fargo Lowers Price Target for Parker Hannifin (PH) to $980 GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "PH",
+      "tickers_hint": [
+        "PH"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "PH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "507a7fb6-19e1-5779-8470-3d20af6d2b35",
+      "timestamp_utc": "2026-04-01T08:47:12+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765626/wells-fargo-lowers-price-target-for-parker-hannifin-ph-to-980-ph-stock-news?mobile=true",
+      "title": "Wells Fargo Lowers Price Target for Parker Hannifin (PH) to $980 - GuruFocus",
+      "body": "Wells Fargo Lowers Price Target for Parker Hannifin (PH) to $980 GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "PH",
+      "tickers_hint": [
+        "PH"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "PH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}
