@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "4773c49a-dab6-5b9c-bbdf-fec592083f3e",
+      "timestamp_utc": "2026-04-02T22:07:57+00:00",
+      "source": "tipranks.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdkpscjhIOXN2S010eVpDWU1NQTFXMHQtMzY0NDBaX1NqYTR2YWZmUGc3cmxaM1RUVHcxZW5RaTRTdjZ0UkpvMGdvR0pKQ09nZktyY0E2RkZkLTJKMzRTSGNieWp2U1UzUXk1alBhdlVMcDlpX2U0eXZSV2paRTVQQklVTjNIdlliTm0wc1h3b2VHbnF3Wlh3azVlV2FaS2huY1RVTHM4QjA2VHc?oc=5",
+      "title": "Booking Holdings enacts 25-for-1 stock split, ups shares - tipranks.com",
+      "body": "Booking Holdings enacts 25-for-1 stock split, ups shares tipranks.com",
+      "author": null,
+      "language": "en",
+      "ticker": "UPS",
+      "tickers_hint": [
+        "UPS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "tipranks.com",
+        "source_domain": "tiprankscom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "UPS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "4773c49a-dab6-5b9c-bbdf-fec592083f3e",
+      "timestamp_utc": "2026-04-02T22:07:57+00:00",
+      "source": "tipranks.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdkpscjhIOXN2S010eVpDWU1NQTFXMHQtMzY0NDBaX1NqYTR2YWZmUGc3cmxaM1RUVHcxZW5RaTRTdjZ0UkpvMGdvR0pKQ09nZktyY0E2RkZkLTJKMzRTSGNieWp2U1UzUXk1alBhdlVMcDlpX2U0eXZSV2paRTVQQklVTjNIdlliTm0wc1h3b2VHbnF3Wlh3azVlV2FaS2huY1RVTHM4QjA2VHc?oc=5",
+      "title": "Booking Holdings enacts 25-for-1 stock split, ups shares - tipranks.com",
+      "body": "Booking Holdings enacts 25-for-1 stock split, ups shares tipranks.com",
+      "author": null,
+      "language": "en",
+      "ticker": "UPS",
+      "tickers_hint": [
+        "UPS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "tipranks.com",
+        "source_domain": "tiprankscom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "UPS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

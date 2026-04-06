@@ -1,0 +1,60 @@
+[
+  {
+    "id": "44fcc989-9a61-58f5-a45f-02e2282d6877",
+    "timestamp_utc": "2026-04-01T09:43:15+00:00",
+    "source": "investorsobserver",
+    "url": "https://investorsobserver.com/news/stock-update/gild-hit-a-rough-patch-but-analysts-arent-convinced-its-a-bargain/",
+    "title": "GILD hit a rough patch, but analysts aren’t convinced it’s a bargain - Investorsobserver",
+    "body": "GILD hit a rough patch, but analysts aren’t convinced it’s a bargain Investorsobserver",
+    "author": null,
+    "language": "en",
+    "ticker": "GILD",
+    "tickers_hint": [
+      "GILD"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "investorsobserver",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Investorsobserver",
+      "source_domain": "investorsobserver.com",
+      "trust_tier": 1,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "GILD"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "c5125ebb-4f00-5762-9985-cb956e1a27e7",
+    "timestamp_utc": "2026-04-01T10:44:43+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-gilead-sciences-inc-gild-stock-holdings-raised-by-nisa-investment-advisors-llc-2026-04-01/",
+    "title": "Gilead Sciences, Inc. $GILD Stock Holdings Raised by Nisa Investment Advisors LLC - MarketBeat",
+    "body": "Gilead Sciences, Inc. $GILD Stock Holdings Raised by Nisa Investment Advisors LLC MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "GILD",
+    "tickers_hint": [
+      "GILD"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "GILD"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

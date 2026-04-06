@@ -1,0 +1,92 @@
+[
+  {
+    "id": "8ea6aaf8-6a9b-5ad1-92ed-428773d4bd21",
+    "timestamp_utc": "2026-04-02T20:52:20+00:00",
+    "source": "benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Icm96RU16U2JWZ0RQb0E1ZG8zY1BNaUJzRGVRblFtcEQtam9ONGJjVW5WaWplbU9CRG81TExMWnJaR0FVRkVDZ0ZB?oc=5",
+    "title": "Pfizer Inc (PFE) Stock Price, Quote, News & History - Benzinga",
+    "body": "Pfizer Inc (PFE) Stock Price, Quote, News & History Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "PFE",
+    "tickers_hint": [
+      "PFE"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "meta": {
+      "channel": "google_benzinga",
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "PFE"
+      ],
+      "alt_sources": [
+        "Benzinga"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "ccace25a-30e1-59e1-8f8b-b9871bdc8d31",
+    "timestamp_utc": "2026-04-03T08:35:52+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-pfizer-inc-pfe-stock-position-reduced-by-first-pacific-financial-2026-04-03/",
+    "title": "Pfizer Inc. $PFE Stock Position Reduced by First Pacific Financial - MarketBeat",
+    "body": "Pfizer Inc. $PFE Stock Position Reduced by First Pacific Financial MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "PFE",
+    "tickers_hint": [
+      "PFE"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "PFE"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "aee48fbf-5448-50ab-b052-a101aa1a8a49",
+    "timestamp_utc": "2026-04-01T21:37:46+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/pfizer-nysepfe-stock-price-up-17-still-a-buy-2026-04-01/",
+    "title": "Pfizer (NYSE:PFE) Stock Price Up 1.7% - Still a Buy? - MarketBeat",
+    "body": "Pfizer (NYSE:PFE) Stock Price Up 1.7% - Still a Buy? MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "PFE",
+    "tickers_hint": [
+      "PFE"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "PFE"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

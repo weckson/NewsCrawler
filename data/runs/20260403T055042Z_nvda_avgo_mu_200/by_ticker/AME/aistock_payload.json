@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "a723fec4-5271-54c8-90a1-98189251bcc1",
+      "timestamp_utc": "2026-04-02T08:44:13+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYkpyQXpiZHJSMWE2ekt2WkNYQXk0T1VfNHkwMVRIZDBKNmktUmlJS3U0bnhRWmtkX0JmbFQ3NXQyNXVMMnZWMmRPVEtvanBJZE1xSWZ2alZ3eHlVOTR4NzRVNlJweHJzLVJQclVZRjd5c1VVd1dGdzd3cjZNejVVYk16QXE0OTVGZWhfYTdpdi1sbEJaV2FTUUhRX1BmdlhYeEotWTZxNWdTSmFuZXhiSlc5VFU3NUJLZGNEaEJSMUd5cGs?oc=5",
+      "title": "Compagnie Lombard Odier SCmA Has $143.46 Million Stock Position in AMETEK, Inc. $AME - Defense World",
+      "body": "Compagnie Lombard Odier SCmA Has $143.46 Million Stock Position in AMETEK, Inc. $AME Defense World",
+      "author": null,
+      "language": "en",
+      "ticker": "AME",
+      "tickers_hint": [
+        "AME"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AME"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "a723fec4-5271-54c8-90a1-98189251bcc1",
+      "timestamp_utc": "2026-04-02T08:44:13+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYkpyQXpiZHJSMWE2ekt2WkNYQXk0T1VfNHkwMVRIZDBKNmktUmlJS3U0bnhRWmtkX0JmbFQ3NXQyNXVMMnZWMmRPVEtvanBJZE1xSWZ2alZ3eHlVOTR4NzRVNlJweHJzLVJQclVZRjd5c1VVd1dGdzd3cjZNejVVYk16QXE0OTVGZWhfYTdpdi1sbEJaV2FTUUhRX1BmdlhYeEotWTZxNWdTSmFuZXhiSlc5VFU3NUJLZGNEaEJSMUd5cGs?oc=5",
+      "title": "Compagnie Lombard Odier SCmA Has $143.46 Million Stock Position in AMETEK, Inc. $AME - Defense World",
+      "body": "Compagnie Lombard Odier SCmA Has $143.46 Million Stock Position in AMETEK, Inc. $AME Defense World",
+      "author": null,
+      "language": "en",
+      "ticker": "AME",
+      "tickers_hint": [
+        "AME"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AME"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

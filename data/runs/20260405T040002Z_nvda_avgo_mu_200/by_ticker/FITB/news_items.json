@@ -1,0 +1,66 @@
+[
+  {
+    "id": "76ebef11-0ff6-5185-81a1-b10e05c2ba46",
+    "timestamp_utc": "2026-04-03T10:04:50+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/regional-banks-stocks-q4-recap-100450372.html",
+    "title": "Regional Banks Stocks Q4 Recap: Benchmarking Fifth Third Bancorp (NASDAQ:FITB) - Yahoo Finance",
+    "body": "Regional Banks Stocks Q4 Recap: Benchmarking Fifth Third Bancorp (NASDAQ:FITB) Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "FITB",
+    "tickers_hint": [
+      "FITB"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "FITB"
+      ],
+      "alt_sources": [
+        "StockStory"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "91022776-0253-5ec0-8598-c52bb9dec964",
+    "timestamp_utc": "2026-04-04T02:17:59+00:00",
+    "source": "yahoo_finance_uk",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54WGx3WUNVTk1GRWJiUWs0eV9BdTEwTkE4V1hxZ0hSR0lvMzR3cURJdEJ4dFpIaWU3bkFuaWR5bWgwZFFKUkZQQ21nb3FvTUZwQkE?oc=5",
+    "title": "Fifth Third Bancorp (FITB) stock price, news, quote and history - Yahoo Finance UK",
+    "body": "Fifth Third Bancorp (FITB) stock price, news, quote and history Yahoo Finance UK",
+    "author": null,
+    "language": "en",
+    "ticker": "FITB",
+    "tickers_hint": [
+      "FITB"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo finance uk",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance UK",
+      "source_domain": "yahoofinanceuk.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "FITB"
+      ],
+      "alt_sources": [
+        "Yahoo Finance UK"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

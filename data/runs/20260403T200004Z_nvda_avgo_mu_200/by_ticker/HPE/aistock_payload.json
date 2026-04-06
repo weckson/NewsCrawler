@@ -1,0 +1,356 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "053993fe-59d1-5c19-9a9b-c3cb051f51d1",
+      "timestamp_utc": "2026-04-02T20:10:16+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWFBCOEk0T0F1QjU5QzY0UDVKeFktWk8xTUM0bnpyVE43MFhVWW1sUXNtbW0wRmhqVDhXUmllb2lSREptSlVvMGZSN2lXVnBLWVFHQnllSDZIajFBNjdhdG02SnFyMXA2aWZrd3dBd25iZEdINlM4OV9fNS1sX0VfaUxXOUpaLUpZYmtFSkJ4eEw5MlJwdXdfblVlUUZMRWtQdFJ0cFJNeEo3Yzl5bGwwSGFlcHNReGxTLXhWWFhTYw?oc=5",
+      "title": "HPE (NYSE: HPE) director defers stock awards and adds RSUs - Stock Titan",
+      "body": "HPE (NYSE: HPE) director defers stock awards and adds RSUs Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "HPE",
+      "tickers_hint": [
+        "HPE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "HPE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "136afa39-3aa6-5e0e-b3bc-9d389b288e0d",
+      "timestamp_utc": "2026-04-02T20:07:48+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOemFUOXlNSE1ud3hoS2Q2REdKSWtmWXNVV0tESmJEZld2WjRYdDBzOHU3Q0h0Ylp6eXFYdkI4YWpTTktlN1JHRWx4X19LelN2NTVJVS1VU3haMVRybjFseEtBcnBkQ2dtOHdZS1pCNERzeF9KV0pBZXc4RV9BQi1pQ2pSeUhXZjdTT29peG9TQm5BeVowejF0cDZob3V3SFdfSkJlWlF6Zl9KS0dFQUVLWFl2VEVsaG9iZEdkR3BFbw?oc=5",
+      "title": "HPE (NYSE: HPE) director paid in stock and RSUs for 2025 retainer - Stock Titan",
+      "body": "HPE (NYSE: HPE) director paid in stock and RSUs for 2025 retainer Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "HPE",
+      "tickers_hint": [
+        "HPE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "HPE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "56553363-b373-57c8-90b7-7524854b3a2f",
+      "timestamp_utc": "2026-04-02T20:02:09+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUzRoYmxWTDUtMk5pUjNtWk9ha012bXduT1BJUVRCM2VseEFJZzIxUmhYZDJ0eWNxTHpjS21XNHFySk5pWmtvV1VQemRYaTNnbDNtcWV3RG9fX0s1QmFiVU5ZYnpES3VrSVQxNmVtUHNpSl9CTGlaV3Y4Rk42akFmR0pySzhXOHlyNmJiSjZPTUxnQkVVdE43am52VnZSXy1CUDgxREZLRTFhTmc2NFc2NVJ4cFBNOFBpUDROcG5TQQ?oc=5",
+      "title": "HPE (NYSE: HPE) director takes share grant instead of cash fee - Stock Titan",
+      "body": "HPE (NYSE: HPE) director takes share grant instead of cash fee Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "HPE",
+      "tickers_hint": [
+        "HPE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "HPE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a15a2513-2d2d-599f-84de-22b2ba8fb18a",
+      "timestamp_utc": "2026-04-02T08:46:14+00:00",
+      "source": "bitget",
+      "url": "https://www.bitget.com/news/detail/12560605333196",
+      "title": "HPE Surpasses Earnings Estimates Soaring to Top of Trading Activity with $0.27 Billion Volume - Bitget",
+      "body": "HPE Surpasses Earnings Estimates Soaring to Top of Trading Activity with $0.27 Billion Volume Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "HPE",
+      "tickers_hint": [
+        "HPE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HPE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7bb01d9d-80c5-52c9-9a67-0f5a60057dc3",
+      "timestamp_utc": "2026-04-03T15:38:13+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNmw3LXl6WkVmUU9KeHhzSU5FY2JQaGZ5LWxBd3lpNldObkVRTHkwUXFVWWVFZWJuRl9hVXd2OV8ySGJVTU9DdVlwaW43TmwzcmhkYnl6RjJiR294NjZLUWZja2ZmbG53a3JXOU9Uek1mM0tmMmZJS3dQMnk2R1o1cmtBam5qdTJfLTRVVmNETUNoeG93Y04zZXBFY1VtY2RmUTNJekFrYkl4c0JxbkY3bkZkMHRJNlFleEZXVXh4dDV0dw?oc=5",
+      "title": "Hewlett Packard Enterprise (HPE) Expands Stock Incentive Plan wi - GuruFocus",
+      "body": "Hewlett Packard Enterprise (HPE) Expands Stock Incentive Plan wi GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "HPE",
+      "tickers_hint": [
+        "HPE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HPE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ba60a1b5-7e16-5c27-891e-0f82feca0fad",
+      "timestamp_utc": "2026-04-03T13:50:38+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVERDWTk5Z0VkVFNaM3RIMHFISC1rc25wam5pd1kzT1NfZ2hUQTM5UmJkR1hzN254THZjUGdyV0tYbUxqS3Y4cThoX2k4am52bnR3a2RrSGdXT2pvQmpTQ2RZTU1vLVNuRTdGbmhuaUVnUUdPSnNvOVl1NklWWlN1cTNFZElBZDlodlpGQ1FER0xRSWVFMzF6cUNQQlpSeG1lM25pVVdrcko3a19PREhkdFd1eHllTjRN?oc=5",
+      "title": "Shareholders at Hewlett Packard Enterprise (NYSE: HPE) back stock plan boost - Stock Titan",
+      "body": "Shareholders at Hewlett Packard Enterprise (NYSE: HPE) back stock plan boost Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "HPE",
+      "tickers_hint": [
+        "HPE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HPE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "053993fe-59d1-5c19-9a9b-c3cb051f51d1",
+      "timestamp_utc": "2026-04-02T20:10:16+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWFBCOEk0T0F1QjU5QzY0UDVKeFktWk8xTUM0bnpyVE43MFhVWW1sUXNtbW0wRmhqVDhXUmllb2lSREptSlVvMGZSN2lXVnBLWVFHQnllSDZIajFBNjdhdG02SnFyMXA2aWZrd3dBd25iZEdINlM4OV9fNS1sX0VfaUxXOUpaLUpZYmtFSkJ4eEw5MlJwdXdfblVlUUZMRWtQdFJ0cFJNeEo3Yzl5bGwwSGFlcHNReGxTLXhWWFhTYw?oc=5",
+      "title": "HPE (NYSE: HPE) director defers stock awards and adds RSUs - Stock Titan",
+      "body": "HPE (NYSE: HPE) director defers stock awards and adds RSUs Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "HPE",
+      "tickers_hint": [
+        "HPE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "HPE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "136afa39-3aa6-5e0e-b3bc-9d389b288e0d",
+      "timestamp_utc": "2026-04-02T20:07:48+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOemFUOXlNSE1ud3hoS2Q2REdKSWtmWXNVV0tESmJEZld2WjRYdDBzOHU3Q0h0Ylp6eXFYdkI4YWpTTktlN1JHRWx4X19LelN2NTVJVS1VU3haMVRybjFseEtBcnBkQ2dtOHdZS1pCNERzeF9KV0pBZXc4RV9BQi1pQ2pSeUhXZjdTT29peG9TQm5BeVowejF0cDZob3V3SFdfSkJlWlF6Zl9KS0dFQUVLWFl2VEVsaG9iZEdkR3BFbw?oc=5",
+      "title": "HPE (NYSE: HPE) director paid in stock and RSUs for 2025 retainer - Stock Titan",
+      "body": "HPE (NYSE: HPE) director paid in stock and RSUs for 2025 retainer Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "HPE",
+      "tickers_hint": [
+        "HPE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "HPE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "56553363-b373-57c8-90b7-7524854b3a2f",
+      "timestamp_utc": "2026-04-02T20:02:09+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUzRoYmxWTDUtMk5pUjNtWk9ha012bXduT1BJUVRCM2VseEFJZzIxUmhYZDJ0eWNxTHpjS21XNHFySk5pWmtvV1VQemRYaTNnbDNtcWV3RG9fX0s1QmFiVU5ZYnpES3VrSVQxNmVtUHNpSl9CTGlaV3Y4Rk42akFmR0pySzhXOHlyNmJiSjZPTUxnQkVVdE43am52VnZSXy1CUDgxREZLRTFhTmc2NFc2NVJ4cFBNOFBpUDROcG5TQQ?oc=5",
+      "title": "HPE (NYSE: HPE) director takes share grant instead of cash fee - Stock Titan",
+      "body": "HPE (NYSE: HPE) director takes share grant instead of cash fee Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "HPE",
+      "tickers_hint": [
+        "HPE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "HPE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a15a2513-2d2d-599f-84de-22b2ba8fb18a",
+      "timestamp_utc": "2026-04-02T08:46:14+00:00",
+      "source": "bitget",
+      "url": "https://www.bitget.com/news/detail/12560605333196",
+      "title": "HPE Surpasses Earnings Estimates Soaring to Top of Trading Activity with $0.27 Billion Volume - Bitget",
+      "body": "HPE Surpasses Earnings Estimates Soaring to Top of Trading Activity with $0.27 Billion Volume Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "HPE",
+      "tickers_hint": [
+        "HPE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HPE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7bb01d9d-80c5-52c9-9a67-0f5a60057dc3",
+      "timestamp_utc": "2026-04-03T15:38:13+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNmw3LXl6WkVmUU9KeHhzSU5FY2JQaGZ5LWxBd3lpNldObkVRTHkwUXFVWWVFZWJuRl9hVXd2OV8ySGJVTU9DdVlwaW43TmwzcmhkYnl6RjJiR294NjZLUWZja2ZmbG53a3JXOU9Uek1mM0tmMmZJS3dQMnk2R1o1cmtBam5qdTJfLTRVVmNETUNoeG93Y04zZXBFY1VtY2RmUTNJekFrYkl4c0JxbkY3bkZkMHRJNlFleEZXVXh4dDV0dw?oc=5",
+      "title": "Hewlett Packard Enterprise (HPE) Expands Stock Incentive Plan wi - GuruFocus",
+      "body": "Hewlett Packard Enterprise (HPE) Expands Stock Incentive Plan wi GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "HPE",
+      "tickers_hint": [
+        "HPE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HPE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ba60a1b5-7e16-5c27-891e-0f82feca0fad",
+      "timestamp_utc": "2026-04-03T13:50:38+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVERDWTk5Z0VkVFNaM3RIMHFISC1rc25wam5pd1kzT1NfZ2hUQTM5UmJkR1hzN254THZjUGdyV0tYbUxqS3Y4cThoX2k4am52bnR3a2RrSGdXT2pvQmpTQ2RZTU1vLVNuRTdGbmhuaUVnUUdPSnNvOVl1NklWWlN1cTNFZElBZDlodlpGQ1FER0xRSWVFMzF6cUNQQlpSeG1lM25pVVdrcko3a19PREhkdFd1eHllTjRN?oc=5",
+      "title": "Shareholders at Hewlett Packard Enterprise (NYSE: HPE) back stock plan boost - Stock Titan",
+      "body": "Shareholders at Hewlett Packard Enterprise (NYSE: HPE) back stock plan boost Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "HPE",
+      "tickers_hint": [
+        "HPE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HPE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

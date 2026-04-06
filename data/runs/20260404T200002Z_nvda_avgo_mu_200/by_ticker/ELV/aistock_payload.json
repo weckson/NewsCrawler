@@ -1,0 +1,130 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "509c2bc6-93a1-55b1-8cf0-42c25a47ab5e",
+      "timestamp_utc": "2026-04-04T05:14:41+00:00",
+      "source": "msn.com",
+      "url": "https://www.msn.com/en-us/health/other/will-elevance-health-elv-beat-estimates-again-in-its-next-earnings-report/ar-AA205tam?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "title": "Will Elevance Health (ELV) beat estimates again in its next earnings report? - msn.com",
+      "body": "Will Elevance Health (ELV) beat estimates again in its next earnings report? msn.com",
+      "author": null,
+      "language": "en",
+      "ticker": "ELV",
+      "tickers_hint": [
+        "ELV"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "msn.com",
+        "source_domain": "msncom.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "ELV"
+        ],
+        "alt_sources": [
+          "sharewise.com"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b76bac10-1aea-53e5-aa93-765cb4350007",
+      "timestamp_utc": "2026-04-03T20:10:30+00:00",
+      "source": "yahoo_finance_australia",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9idG5CM0s2ODd2NUJYckRPV293V1ZtamprNEhPUXVvX3JxRjdPTW1SWGhaUU4xNkdQU2JxMlBYY1ZsaDl6SGhKOC1zYTVSbVZEeGlKWlpuUi0yUDdRZ0hvUQ?oc=5",
+      "title": "Elevance Health, Inc. (ELV) stock price, news, quote and history - Yahoo Finance Australia",
+      "body": "Elevance Health, Inc. (ELV) stock price, news, quote and history Yahoo Finance Australia",
+      "author": null,
+      "language": "en",
+      "ticker": "ELV",
+      "tickers_hint": [
+        "ELV"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance australia",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Australia",
+        "source_domain": "yahoofinanceaustralia.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ELV"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "509c2bc6-93a1-55b1-8cf0-42c25a47ab5e",
+      "timestamp_utc": "2026-04-04T05:14:41+00:00",
+      "source": "msn.com",
+      "url": "https://www.msn.com/en-us/health/other/will-elevance-health-elv-beat-estimates-again-in-its-next-earnings-report/ar-AA205tam?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "title": "Will Elevance Health (ELV) beat estimates again in its next earnings report? - msn.com",
+      "body": "Will Elevance Health (ELV) beat estimates again in its next earnings report? msn.com",
+      "author": null,
+      "language": "en",
+      "ticker": "ELV",
+      "tickers_hint": [
+        "ELV"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "msn.com",
+        "source_domain": "msncom.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "ELV"
+        ],
+        "alt_sources": [
+          "sharewise.com"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b76bac10-1aea-53e5-aa93-765cb4350007",
+      "timestamp_utc": "2026-04-03T20:10:30+00:00",
+      "source": "yahoo_finance_australia",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9idG5CM0s2ODd2NUJYckRPV293V1ZtamprNEhPUXVvX3JxRjdPTW1SWGhaUU4xNkdQU2JxMlBYY1ZsaDl6SGhKOC1zYTVSbVZEeGlKWlpuUi0yUDdRZ0hvUQ?oc=5",
+      "title": "Elevance Health, Inc. (ELV) stock price, news, quote and history - Yahoo Finance Australia",
+      "body": "Elevance Health, Inc. (ELV) stock price, news, quote and history Yahoo Finance Australia",
+      "author": null,
+      "language": "en",
+      "ticker": "ELV",
+      "tickers_hint": [
+        "ELV"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance australia",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Australia",
+        "source_domain": "yahoofinanceaustralia.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ELV"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

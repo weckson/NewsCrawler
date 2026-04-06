@@ -1,0 +1,72 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "8ea6aaf8-6a9b-5ad1-92ed-428773d4bd21",
+      "timestamp_utc": "2026-04-02T20:52:20+00:00",
+      "source": "benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Icm96RU16U2JWZ0RQb0E1ZG8zY1BNaUJzRGVRblFtcEQtam9ONGJjVW5WaWplbU9CRG81TExMWnJaR0FVRkVDZ0ZB?oc=5",
+      "title": "Pfizer Inc (PFE) Stock Price, Quote, News & History - benzinga.com",
+      "body": "Pfizer Inc (PFE) Stock Price, Quote, News & History benzinga.com",
+      "author": null,
+      "language": "en",
+      "ticker": "PFE",
+      "tickers_hint": [
+        "PFE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "benzinga.com",
+        "source_domain": "benzingacom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PFE"
+        ],
+        "alt_sources": [
+          "benzinga.com"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "8ea6aaf8-6a9b-5ad1-92ed-428773d4bd21",
+      "timestamp_utc": "2026-04-02T20:52:20+00:00",
+      "source": "benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Icm96RU16U2JWZ0RQb0E1ZG8zY1BNaUJzRGVRblFtcEQtam9ONGJjVW5WaWplbU9CRG81TExMWnJaR0FVRkVDZ0ZB?oc=5",
+      "title": "Pfizer Inc (PFE) Stock Price, Quote, News & History - benzinga.com",
+      "body": "Pfizer Inc (PFE) Stock Price, Quote, News & History benzinga.com",
+      "author": null,
+      "language": "en",
+      "ticker": "PFE",
+      "tickers_hint": [
+        "PFE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "benzinga.com",
+        "source_domain": "benzingacom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PFE"
+        ],
+        "alt_sources": [
+          "benzinga.com"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

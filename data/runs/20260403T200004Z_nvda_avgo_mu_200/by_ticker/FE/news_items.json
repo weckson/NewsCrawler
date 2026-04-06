@@ -1,0 +1,31 @@
+[
+  {
+    "id": "a7572f6f-539d-5d3c-9efd-d54df6f2c070",
+    "timestamp_utc": "2026-04-01T20:50:03+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOakhmUzU4cWZSMmlYeG00TG1SRVkxSTA1c2EyRGlPd1hRcGNmTVpxLWU0NGVOTnc3ZGVwSWExUThKRy14SGMxY1dwWkNjQVNFbm1ZdkNYN04xU3hZcUVCa0V1T0x1WFdOSGJkVk1GNV9KNEJmaEFuS1M1LTZJdkdUSGk2TnlyRXRwN1NmbndjZTAxd25jblE?oc=5",
+    "title": "[ARS] FIRSTENERGY CORP SEC Filing - Stock Titan",
+    "body": "[ARS] FIRSTENERGY CORP SEC Filing Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "FE",
+    "tickers_hint": [
+      "FE"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "FE"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

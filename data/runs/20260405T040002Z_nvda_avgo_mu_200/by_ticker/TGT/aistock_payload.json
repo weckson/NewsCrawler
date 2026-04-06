@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "20b8522c-6f8d-5391-a084-70a2c2ce5f83",
+      "timestamp_utc": "2026-04-04T02:46:54+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44VW1tak5aNkVzSlU2VWN2QVdzX0FQeklLbVh4eERTd0x6SzdhdDRRams3aVB0ZW1XYURRT0hZZVpxTy1iZmZZeHFlek5XRTcx?oc=5",
+      "title": "Target Corporation (TGT) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Target Corporation (TGT) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "TGT",
+      "tickers_hint": [
+        "TGT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TGT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "07a83337-9523-5ec7-a73a-d213b147e3dd",
+      "timestamp_utc": "2026-04-03T20:05:52+00:00",
+      "source": "stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPekxwVnByZHB1aGg0ek8wdVRoWXYybDJJdVBjRm5ZLVJIdzNVY2g3VGhPcy1Ocm42WGFwQU9HQjNfQ05GaXB1QnRWaW5JYlVqY0JrWnpTRGRDNFc1THRrbHBFQWc1a2Q5VkFrVWdzZVVJQVAxNzh4cy1vWEVmTWRlRVRZSHRNb0tTSGRlRVNqNjBRNVViVi1RZ3N4TU4zVzZKQnF2c1MyN1F2Q0VKU1RlcEh6dXhJTDNPd1hsa1pn?oc=5",
+      "title": "Target Corp (TGT) director Stephen Bratspies files Form 3 insider report - stocktitan.net",
+      "body": "Target Corp (TGT) director Stephen Bratspies files Form 3 insider report stocktitan.net",
+      "author": null,
+      "language": "en",
+      "ticker": "TGT",
+      "tickers_hint": [
+        "TGT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktitan.net",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "stocktitan.net",
+        "source_domain": "stocktitannet.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TGT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "20b8522c-6f8d-5391-a084-70a2c2ce5f83",
+      "timestamp_utc": "2026-04-04T02:46:54+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44VW1tak5aNkVzSlU2VWN2QVdzX0FQeklLbVh4eERTd0x6SzdhdDRRams3aVB0ZW1XYURRT0hZZVpxTy1iZmZZeHFlek5XRTcx?oc=5",
+      "title": "Target Corporation (TGT) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Target Corporation (TGT) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "TGT",
+      "tickers_hint": [
+        "TGT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TGT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "07a83337-9523-5ec7-a73a-d213b147e3dd",
+      "timestamp_utc": "2026-04-03T20:05:52+00:00",
+      "source": "stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPekxwVnByZHB1aGg0ek8wdVRoWXYybDJJdVBjRm5ZLVJIdzNVY2g3VGhPcy1Ocm42WGFwQU9HQjNfQ05GaXB1QnRWaW5JYlVqY0JrWnpTRGRDNFc1THRrbHBFQWc1a2Q5VkFrVWdzZVVJQVAxNzh4cy1vWEVmTWRlRVRZSHRNb0tTSGRlRVNqNjBRNVViVi1RZ3N4TU4zVzZKQnF2c1MyN1F2Q0VKU1RlcEh6dXhJTDNPd1hsa1pn?oc=5",
+      "title": "Target Corp (TGT) director Stephen Bratspies files Form 3 insider report - stocktitan.net",
+      "body": "Target Corp (TGT) director Stephen Bratspies files Form 3 insider report stocktitan.net",
+      "author": null,
+      "language": "en",
+      "ticker": "TGT",
+      "tickers_hint": [
+        "TGT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktitan.net",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "stocktitan.net",
+        "source_domain": "stocktitannet.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TGT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "6118d2fb-201e-5712-8559-16dc42112b5d",
+    "timestamp_utc": "2026-04-03T15:40:03+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTS1YQmc1TGxEbEZiTUl2SU1sWUtUSHFZeUhsdUlxYTFtZW1rX1FBYm9XeG80MjFSN290c0wxX1lkQ1JZRm9Tai1MNjNCZFRGZUpDZnJwVjlZcklLcS0zcWpxYjNjXzhaMElmVHJYdl9rRExxMEt4RzhtaGhBdVRvZGRwejVVUEJVRkpBYTM0UVE1QzA?oc=5",
+    "title": "KDP vs. MNST: Which Stock Is the Better Value Option? - Yahoo Finance",
+    "body": "KDP vs. MNST: Which Stock Is the Better Value Option? Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "MNST",
+    "tickers_hint": [
+      "MNST"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "MNST"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "fc67d27a-f0ab-530e-939b-e14f2c321cd3",
+    "timestamp_utc": "2026-04-03T16:52:40+00:00",
+    "source": "bitget",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uODZPQTVvT0doX1JObG9WYVZkYTVVTlJwWmZCWFMwRl9kbWh5U3BiOWpTRURSQXBzaUllaV91N25FQ3VSV2VzenBOOGZOa2tha3k2WVZPTGlBWGtMTjQ0SjBIY9IBY0FVX3lxTE9uODZPQTVvT0doX1JObG9WYVZkYTVVTlJwWmZCWFMwRl9kbWh5U3BiOWpTRURSQXBzaUllaV91N25FQ3VSV2VzenBOOGZOa2tha3k2WVZPTGlBWGtMTjQ0SjBIYw?oc=5",
+    "title": "KDP or MNST: Which Stock Offers Superior Value? - Bitget",
+    "body": "KDP or MNST: Which Stock Offers Superior Value? Bitget",
+    "author": null,
+    "language": "en",
+    "ticker": "KDP",
+    "tickers_hint": [
+      "KDP",
+      "MNST"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "bitget",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Bitget",
+      "source_domain": "bitget.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "KDP",
+        "MNST"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

@@ -1,0 +1,304 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "fee9db29-7417-5105-8742-528543b0d07d",
+      "timestamp_utc": "2026-04-04T12:00:00+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LalVzUlFOVW8xNkczdm1MWFBHcHVFMmhwckVxZ3pmU2M2V203ZjJ5OTFPSDV5RmNWb21wci16MHBFWDRTRzVhMXB2QnNxeHRENjdMblhjamhGWk1KOWphMEFMaFBfTGpzZFp0N1l3TVM5T0hTWFE?oc=5",
+      "title": "Zoetis Stock: Deep Value Persists (NYSE:ZTS) - Seeking Alpha",
+      "body": "Zoetis Stock: Deep Value Persists (NYSE:ZTS) Seeking Alpha",
+      "author": null,
+      "language": "en",
+      "ticker": "ZTS",
+      "tickers_hint": [
+        "ZTS"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ZTS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "de9ec2f0-2e0b-5e17-9d05-479cd47ebf36",
+      "timestamp_utc": "2026-04-03T09:50:13+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nilsine-partners-llc-decreases-stock-position-in-zoetis-inc-zts-2026-04-03/",
+      "title": "Nilsine Partners LLC Decreases Stock Position in Zoetis Inc. $ZTS - MarketBeat",
+      "body": "Nilsine Partners LLC Decreases Stock Position in Zoetis Inc. $ZTS MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ZTS",
+      "tickers_hint": [
+        "ZTS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ZTS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3d29e0e9-8f22-5103-9464-684e2e5f167f",
+      "timestamp_utc": "2026-04-04T17:16:54+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/ZTS/technical",
+      "title": "ZTS Technical Analysis & Stock Price Forecast - Intellectia AI",
+      "body": "ZTS Technical Analysis & Stock Price Forecast Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "ZTS",
+      "tickers_hint": [
+        "ZTS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ZTS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5cf24133-4edf-54fd-8f2c-106e53bb5ad2",
+      "timestamp_utc": "2026-04-03T23:11:47+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90NUc1UHNlYnYtMWFJYnVWXzlKODFoZ0pXYms5SGVCX1pFYkVUbTQ1TVl4ZTNoMWFCdmprcEVRWlBoRHpvY2lXM3V1ckxxZHY1?oc=5",
+      "title": "Zoetis Inc. (ZTS) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Zoetis Inc. (ZTS) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "ZTS",
+      "tickers_hint": [
+        "ZTS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ZTS"
+        ],
+        "alt_sources": [
+          "Yahoo Finance UK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "4b9e36a5-309d-5388-8b82-620a12807141",
+      "timestamp_utc": "2026-04-03T20:07:02+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PUEd0YnV1eXplTVJiSzhpSmw2bHUtTkQxc1JicU1JNlhVSUFyS2tMYmhpaHdPaGNZUDVLMG0yeDNLSWhDaFFiNXFhVl9mYkpsTDV2WjVVTGgzSEc0Z3E0Njk0U1M?oc=5",
+      "title": "ZTS Mar 2027 150.000 call (ZTS270319C00150000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "ZTS Mar 2027 150.000 call (ZTS270319C00150000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "ZTS",
+      "tickers_hint": [
+        "ZTS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ZTS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "fee9db29-7417-5105-8742-528543b0d07d",
+      "timestamp_utc": "2026-04-04T12:00:00+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LalVzUlFOVW8xNkczdm1MWFBHcHVFMmhwckVxZ3pmU2M2V203ZjJ5OTFPSDV5RmNWb21wci16MHBFWDRTRzVhMXB2QnNxeHRENjdMblhjamhGWk1KOWphMEFMaFBfTGpzZFp0N1l3TVM5T0hTWFE?oc=5",
+      "title": "Zoetis Stock: Deep Value Persists (NYSE:ZTS) - Seeking Alpha",
+      "body": "Zoetis Stock: Deep Value Persists (NYSE:ZTS) Seeking Alpha",
+      "author": null,
+      "language": "en",
+      "ticker": "ZTS",
+      "tickers_hint": [
+        "ZTS"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ZTS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "de9ec2f0-2e0b-5e17-9d05-479cd47ebf36",
+      "timestamp_utc": "2026-04-03T09:50:13+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nilsine-partners-llc-decreases-stock-position-in-zoetis-inc-zts-2026-04-03/",
+      "title": "Nilsine Partners LLC Decreases Stock Position in Zoetis Inc. $ZTS - MarketBeat",
+      "body": "Nilsine Partners LLC Decreases Stock Position in Zoetis Inc. $ZTS MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ZTS",
+      "tickers_hint": [
+        "ZTS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ZTS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3d29e0e9-8f22-5103-9464-684e2e5f167f",
+      "timestamp_utc": "2026-04-04T17:16:54+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/ZTS/technical",
+      "title": "ZTS Technical Analysis & Stock Price Forecast - Intellectia AI",
+      "body": "ZTS Technical Analysis & Stock Price Forecast Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "ZTS",
+      "tickers_hint": [
+        "ZTS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ZTS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5cf24133-4edf-54fd-8f2c-106e53bb5ad2",
+      "timestamp_utc": "2026-04-03T23:11:47+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90NUc1UHNlYnYtMWFJYnVWXzlKODFoZ0pXYms5SGVCX1pFYkVUbTQ1TVl4ZTNoMWFCdmprcEVRWlBoRHpvY2lXM3V1ckxxZHY1?oc=5",
+      "title": "Zoetis Inc. (ZTS) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Zoetis Inc. (ZTS) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "ZTS",
+      "tickers_hint": [
+        "ZTS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ZTS"
+        ],
+        "alt_sources": [
+          "Yahoo Finance UK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "4b9e36a5-309d-5388-8b82-620a12807141",
+      "timestamp_utc": "2026-04-03T20:07:02+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PUEd0YnV1eXplTVJiSzhpSmw2bHUtTkQxc1JicU1JNlhVSUFyS2tMYmhpaHdPaGNZUDVLMG0yeDNLSWhDaFFiNXFhVl9mYkpsTDV2WjVVTGgzSEc0Z3E0Njk0U1M?oc=5",
+      "title": "ZTS Mar 2027 150.000 call (ZTS270319C00150000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "ZTS Mar 2027 150.000 call (ZTS270319C00150000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "ZTS",
+      "tickers_hint": [
+        "ZTS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ZTS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

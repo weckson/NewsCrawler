@@ -1,0 +1,246 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "3fec3953-e33c-5b56-b8dc-319bac8a44d4",
+      "timestamp_utc": "2026-04-02T21:45:05+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaGRtaGcyenFYTTNFdHMta2tRTXBVWHlRU2oxejlvdUlmRVJHUmhXVWZCa0c4Y2xlVFU2RkZ6MjQ5V29leUJ2TEY1a2VxT1laT0xtb2ZCTThURnBJTUlYNWhfQTZtRlV0VW41TF9WcXNIeU9hcWJaT3d4WHdIbjQwUzRFVXNpWHVnRUZqZ1FwU01sOHBZU2lRTjFn?oc=5",
+      "title": "General Motors (GM) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
+      "body": "General Motors (GM) Stock Sinks As Market Gains: What You Should Know Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "GM",
+      "tickers_hint": [
+        "GM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "GM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "46d6b7ff-a97f-54d6-8158-d81e461c81f0",
+      "timestamp_utc": "2026-04-02T10:00:00+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUFQ2OERRcTNIQVc2bjRKaDJ5VXRWNzlHc2RMYks4Ty10NmRXbWpkeEJaWGFudFBadGJyZVZ4ek1ZT0ozbE5Sb3RGWDRLREFUUXhOWWZVaXFDaWpxczl2TzQwSDU2dTlsamVtUmhRZWlkZDE2VXNETDZLbTVXcS05THpGVzdFMVBCVFF5U2tYZnI4QldLREhwSjMxN3JWRmoycWxMd2xIU1p3VGZPeW1PRl94Wjc2LW54aXZ2UEg2NFRCSmYzblhR?oc=5",
+      "title": "General Motors (GM) Stock Analysis: Why The Quant System Says \"Strong Buy\" | 2-Minute Analysis - Seeking Alpha",
+      "body": "General Motors (GM) Stock Analysis: Why The Quant System Says \"Strong Buy\" | 2-Minute Analysis Seeking Alpha",
+      "author": null,
+      "language": "en",
+      "ticker": "GM",
+      "tickers_hint": [
+        "GM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "GM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "67e9ec6c-1285-52cf-94fc-0207a36d7e63",
+      "timestamp_utc": "2026-04-02T14:34:18+00:00",
+      "source": "invezz",
+      "url": "https://invezz.com/news/2026/04/02/gm-stock-falls-as-q1-sales-slump-high-rates-and-gas-weigh-demand/",
+      "title": "GM stock falls as Q1 sales slump, high rates and gas weigh demand - Invezz",
+      "body": "GM stock falls as Q1 sales slump, high rates and gas weigh demand Invezz",
+      "author": null,
+      "language": "en",
+      "ticker": "GM",
+      "tickers_hint": [
+        "GM"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "invezz",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Invezz",
+        "source_domain": "invezz.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "GM"
+        ],
+        "alt_sources": [
+          "CryptoRank"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e708bc33-b29b-5b2c-9b14-144f3878e5c9",
+      "timestamp_utc": "2026-04-03T00:20:52+00:00",
+      "source": "ktsm.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTTJ6Y1VPMWNuMzNvV19VaGNNTU0yNEVxcVRqTkU5Uk5ocU9rOGJ3OXFvQm9xNFE3Ym04MmFfQThMcU10T3ZHT3MweTFnN1BTbGV2UGpWbFNSUHA3dHFobXliN2NVd0Y0VHN6UWczR2FPMG54WWJmLXFpZV96Z1plR0RqSGRPTXhSaElKVjJlMkpzV2NwOUp2TGhn0gGfAUFVX3lxTE5pYmpTNWlrTFg2Nmk5ZjliMEwydDBlM05BTkNSWlN4LVdpeGxmbThJMnJteUxWeW9CbXVwYnZWNnJVQ3VkalRnNHZpM0JOVEpvc3RORWhJSVJuN19xaXVXS2JON0E3UGU5WlRuQVJueEdaQklRdjVtRnRkaFh5UGNUZkZaYS1MSUJFVWR1SEU2aGs4OUlsbW1xbHk0Nzlycw?oc=5",
+      "title": "El Paso Chihuahuas’ president, GM shares excitement on season opener - ktsm.com",
+      "body": "El Paso Chihuahuas’ president, GM shares excitement on season opener ktsm.com",
+      "author": null,
+      "language": "en",
+      "ticker": "GM",
+      "tickers_hint": [
+        "GM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "ktsm.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "ktsm.com",
+        "source_domain": "ktsmcom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "GM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "3fec3953-e33c-5b56-b8dc-319bac8a44d4",
+      "timestamp_utc": "2026-04-02T21:45:05+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaGRtaGcyenFYTTNFdHMta2tRTXBVWHlRU2oxejlvdUlmRVJHUmhXVWZCa0c4Y2xlVFU2RkZ6MjQ5V29leUJ2TEY1a2VxT1laT0xtb2ZCTThURnBJTUlYNWhfQTZtRlV0VW41TF9WcXNIeU9hcWJaT3d4WHdIbjQwUzRFVXNpWHVnRUZqZ1FwU01sOHBZU2lRTjFn?oc=5",
+      "title": "General Motors (GM) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
+      "body": "General Motors (GM) Stock Sinks As Market Gains: What You Should Know Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "GM",
+      "tickers_hint": [
+        "GM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "GM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "46d6b7ff-a97f-54d6-8158-d81e461c81f0",
+      "timestamp_utc": "2026-04-02T10:00:00+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUFQ2OERRcTNIQVc2bjRKaDJ5VXRWNzlHc2RMYks4Ty10NmRXbWpkeEJaWGFudFBadGJyZVZ4ek1ZT0ozbE5Sb3RGWDRLREFUUXhOWWZVaXFDaWpxczl2TzQwSDU2dTlsamVtUmhRZWlkZDE2VXNETDZLbTVXcS05THpGVzdFMVBCVFF5U2tYZnI4QldLREhwSjMxN3JWRmoycWxMd2xIU1p3VGZPeW1PRl94Wjc2LW54aXZ2UEg2NFRCSmYzblhR?oc=5",
+      "title": "General Motors (GM) Stock Analysis: Why The Quant System Says \"Strong Buy\" | 2-Minute Analysis - Seeking Alpha",
+      "body": "General Motors (GM) Stock Analysis: Why The Quant System Says \"Strong Buy\" | 2-Minute Analysis Seeking Alpha",
+      "author": null,
+      "language": "en",
+      "ticker": "GM",
+      "tickers_hint": [
+        "GM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "GM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "67e9ec6c-1285-52cf-94fc-0207a36d7e63",
+      "timestamp_utc": "2026-04-02T14:34:18+00:00",
+      "source": "invezz",
+      "url": "https://invezz.com/news/2026/04/02/gm-stock-falls-as-q1-sales-slump-high-rates-and-gas-weigh-demand/",
+      "title": "GM stock falls as Q1 sales slump, high rates and gas weigh demand - Invezz",
+      "body": "GM stock falls as Q1 sales slump, high rates and gas weigh demand Invezz",
+      "author": null,
+      "language": "en",
+      "ticker": "GM",
+      "tickers_hint": [
+        "GM"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "invezz",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Invezz",
+        "source_domain": "invezz.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "GM"
+        ],
+        "alt_sources": [
+          "CryptoRank"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e708bc33-b29b-5b2c-9b14-144f3878e5c9",
+      "timestamp_utc": "2026-04-03T00:20:52+00:00",
+      "source": "ktsm.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTTJ6Y1VPMWNuMzNvV19VaGNNTU0yNEVxcVRqTkU5Uk5ocU9rOGJ3OXFvQm9xNFE3Ym04MmFfQThMcU10T3ZHT3MweTFnN1BTbGV2UGpWbFNSUHA3dHFobXliN2NVd0Y0VHN6UWczR2FPMG54WWJmLXFpZV96Z1plR0RqSGRPTXhSaElKVjJlMkpzV2NwOUp2TGhn0gGfAUFVX3lxTE5pYmpTNWlrTFg2Nmk5ZjliMEwydDBlM05BTkNSWlN4LVdpeGxmbThJMnJteUxWeW9CbXVwYnZWNnJVQ3VkalRnNHZpM0JOVEpvc3RORWhJSVJuN19xaXVXS2JON0E3UGU5WlRuQVJueEdaQklRdjVtRnRkaFh5UGNUZkZaYS1MSUJFVWR1SEU2aGs4OUlsbW1xbHk0Nzlycw?oc=5",
+      "title": "El Paso Chihuahuas’ president, GM shares excitement on season opener - ktsm.com",
+      "body": "El Paso Chihuahuas’ president, GM shares excitement on season opener ktsm.com",
+      "author": null,
+      "language": "en",
+      "ticker": "GM",
+      "tickers_hint": [
+        "GM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "ktsm.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "ktsm.com",
+        "source_domain": "ktsmcom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "GM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

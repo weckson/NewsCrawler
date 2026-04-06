@@ -1,0 +1,31 @@
+[
+  {
+    "id": "a812d31f-2d2c-5c05-8d92-afeb410d5106",
+    "timestamp_utc": "2026-04-04T08:58:21+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45NjlNT2tOS1BSdHNkY3A5NTl6MVBKMERCSGNVNmFIOFU5TThrS2E0eWMxSFNlZ1gtMUR0ZXhCcmtLY1VadkVBZGF3cjVDakVaNFJrMDNFeldGdDJVdDcyVVV3TDY?oc=5",
+    "title": "ABT SEC Filings - Abbott Labs 10-K, 10-Q, 8-K Forms - Stock Titan",
+    "body": "ABT SEC Filings - Abbott Labs 10-K, 10-Q, 8-K Forms Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "ABT",
+    "tickers_hint": [
+      "ABT"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "ABT"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

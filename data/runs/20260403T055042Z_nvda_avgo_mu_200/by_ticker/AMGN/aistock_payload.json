@@ -1,0 +1,298 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "8ffe7e1d-5d0f-5622-a577-20dfc1daa549",
+      "timestamp_utc": "2026-04-02T14:46:18+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcHFQNlIybFNDQXA1RTJwZXlCbUE0dEd5YTUyQ0FORlF2ZXdxemlXQ1hxeTVZTzREbGZlRWtXU2p4VEs0Q2UtdXo0SkRmN2FLeFk4M1JKYVUtSUc0TEFQSGxWVFdiS2JDLUNpeW9EbnhqOHVwTDEtSjdsSm5SZ0M3Z2lUVHFVdGlwOGloS3pyOTZWZzJNQUZF?oc=5",
+      "title": "Is Amgen Inc. (AMGN) One of the Best Pharma Stocks to Invest in Now? - Yahoo Finance",
+      "body": "Is Amgen Inc. (AMGN) One of the Best Pharma Stocks to Invest in Now? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "AMGN",
+      "tickers_hint": [
+        "AMGN"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMGN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "13e49020-d724-583c-8f8b-fd2ade26d8aa",
+      "timestamp_utc": "2026-04-01T06:40:59+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/amgen-inc-nasdaqamgn-given-average-rating-of-hold-by-analysts-2026-04-01/",
+      "title": "Amgen Inc. (NASDAQ:AMGN) Given Average Rating of \"Hold\" by Analysts - MarketBeat",
+      "body": "Amgen Inc. (NASDAQ:AMGN) Given Average Rating of \"Hold\" by Analysts MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMGN",
+      "tickers_hint": [
+        "AMGN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMGN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9a144106-a41d-59d5-9050-01a012b0e238",
+      "timestamp_utc": "2026-04-02T11:15:09+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-hf-advisory-group-llc-buys-7548-shares-of-amgen-inc-amgn-2026-04-02/",
+      "title": "HF Advisory Group LLC Buys 7,548 Shares of Amgen Inc. $AMGN - MarketBeat",
+      "body": "HF Advisory Group LLC Buys 7,548 Shares of Amgen Inc. $AMGN MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMGN",
+      "tickers_hint": [
+        "AMGN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMGN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a4a501bc-5772-595f-b4b8-1060c092738a",
+      "timestamp_utc": "2026-04-01T10:28:36+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-amgen-inc-amgn-shares-bought-by-moody-lynn-lieberson-llc-2026-04-01/",
+      "title": "Amgen Inc. $AMGN Shares Bought by Moody Lynn & Lieberson LLC - MarketBeat",
+      "body": "Amgen Inc. $AMGN Shares Bought by Moody Lynn & Lieberson LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMGN",
+      "tickers_hint": [
+        "AMGN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMGN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ddf40021-21d3-503e-9479-89810483e7d6",
+      "timestamp_utc": "2026-04-02T21:50:02+00:00",
+      "source": "yahoo_finance_australia",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcEs1TEZZSklSNkZtRjNKS0lNVWoyZjBsYmxjSU5uR2hLS3dtNjZmZHUzZml4UXlSYUIyUjQtTVYzMTdfdDZjRl85MWszUlI4R2FSYTN4dW1waTNSME1vX2dYOTlPejZSSHdOUzVnbVlpZWEwTkgycEh4eE96NEFPbEJGRmtCa0E?oc=5",
+      "title": "Amgen (AMGN) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance Australia",
+      "body": "Amgen (AMGN) Stock Declines While Market Improves: Some Information for Investors Yahoo Finance Australia",
+      "author": null,
+      "language": "en",
+      "ticker": "AMGN",
+      "tickers_hint": [
+        "AMGN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance australia",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Australia",
+        "source_domain": "yahoofinanceaustralia.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMGN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "8ffe7e1d-5d0f-5622-a577-20dfc1daa549",
+      "timestamp_utc": "2026-04-02T14:46:18+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcHFQNlIybFNDQXA1RTJwZXlCbUE0dEd5YTUyQ0FORlF2ZXdxemlXQ1hxeTVZTzREbGZlRWtXU2p4VEs0Q2UtdXo0SkRmN2FLeFk4M1JKYVUtSUc0TEFQSGxWVFdiS2JDLUNpeW9EbnhqOHVwTDEtSjdsSm5SZ0M3Z2lUVHFVdGlwOGloS3pyOTZWZzJNQUZF?oc=5",
+      "title": "Is Amgen Inc. (AMGN) One of the Best Pharma Stocks to Invest in Now? - Yahoo Finance",
+      "body": "Is Amgen Inc. (AMGN) One of the Best Pharma Stocks to Invest in Now? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "AMGN",
+      "tickers_hint": [
+        "AMGN"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMGN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "13e49020-d724-583c-8f8b-fd2ade26d8aa",
+      "timestamp_utc": "2026-04-01T06:40:59+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/amgen-inc-nasdaqamgn-given-average-rating-of-hold-by-analysts-2026-04-01/",
+      "title": "Amgen Inc. (NASDAQ:AMGN) Given Average Rating of \"Hold\" by Analysts - MarketBeat",
+      "body": "Amgen Inc. (NASDAQ:AMGN) Given Average Rating of \"Hold\" by Analysts MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMGN",
+      "tickers_hint": [
+        "AMGN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMGN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9a144106-a41d-59d5-9050-01a012b0e238",
+      "timestamp_utc": "2026-04-02T11:15:09+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-hf-advisory-group-llc-buys-7548-shares-of-amgen-inc-amgn-2026-04-02/",
+      "title": "HF Advisory Group LLC Buys 7,548 Shares of Amgen Inc. $AMGN - MarketBeat",
+      "body": "HF Advisory Group LLC Buys 7,548 Shares of Amgen Inc. $AMGN MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMGN",
+      "tickers_hint": [
+        "AMGN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMGN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a4a501bc-5772-595f-b4b8-1060c092738a",
+      "timestamp_utc": "2026-04-01T10:28:36+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-amgen-inc-amgn-shares-bought-by-moody-lynn-lieberson-llc-2026-04-01/",
+      "title": "Amgen Inc. $AMGN Shares Bought by Moody Lynn & Lieberson LLC - MarketBeat",
+      "body": "Amgen Inc. $AMGN Shares Bought by Moody Lynn & Lieberson LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMGN",
+      "tickers_hint": [
+        "AMGN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMGN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ddf40021-21d3-503e-9479-89810483e7d6",
+      "timestamp_utc": "2026-04-02T21:50:02+00:00",
+      "source": "yahoo_finance_australia",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcEs1TEZZSklSNkZtRjNKS0lNVWoyZjBsYmxjSU5uR2hLS3dtNjZmZHUzZml4UXlSYUIyUjQtTVYzMTdfdDZjRl85MWszUlI4R2FSYTN4dW1waTNSME1vX2dYOTlPejZSSHdOUzVnbVlpZWEwTkgycEh4eE96NEFPbEJGRmtCa0E?oc=5",
+      "title": "Amgen (AMGN) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance Australia",
+      "body": "Amgen (AMGN) Stock Declines While Market Improves: Some Information for Investors Yahoo Finance Australia",
+      "author": null,
+      "language": "en",
+      "ticker": "AMGN",
+      "tickers_hint": [
+        "AMGN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance australia",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Australia",
+        "source_domain": "yahoofinanceaustralia.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMGN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "d9fbc289-d1cf-5f8c-82f0-128feae647c7",
+    "timestamp_utc": "2026-04-03T14:39:46+00:00",
+    "source": "seeking_alpha",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTDYyMUFJZGxhT3dKZGJWd182bnlWNmlNczhmUlpXVTZ4UDNMemRVWWQtUVpsQnpEY1c3TjdWSi1rTEt5dW8xTWs5S0R0OHZlV3ZXYVBBemRBQ09ZYm9IOXE4bDhabFoyUElHdGxBcmdiYUdSZnlGVnVwand5dXRHLThYSkE2cnI4bGx2VjExbXc?oc=5",
+    "title": "Constellation Brands: Red Flags On Beer Metrics (NYSE:STZ) - Seeking Alpha",
+    "body": "Constellation Brands: Red Flags On Beer Metrics (NYSE:STZ) Seeking Alpha",
+    "author": null,
+    "language": "en",
+    "ticker": "STZ",
+    "tickers_hint": [
+      "STZ"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "seekingalpha.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Seeking Alpha",
+      "source_domain": "seekingalpha.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "STZ"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "0615b213-4ce7-5c59-a35c-48f3cd57192a",
+    "timestamp_utc": "2026-04-03T18:30:25+00:00",
+    "source": "msn",
+    "url": "https://www.msn.com/en-us/money/topstocks/will-constellation-brands-stz-beat-estimates-again-in-its-next-earnings-report/ar-AA206rdd",
+    "title": "Will Constellation Brands (STZ) beat estimates again in its next earnings report? - MSN",
+    "body": "Will Constellation Brands (STZ) beat estimates again in its next earnings report? MSN",
+    "author": null,
+    "language": "en",
+    "ticker": "STZ",
+    "tickers_hint": [
+      "STZ"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "msn",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MSN",
+      "source_domain": "msn.com",
+      "trust_tier": 1,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "STZ"
+      ],
+      "alt_sources": [
+        "sharewise.com"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "81592cb1-caa6-50de-bdf9-8e02e80c9788",
+    "timestamp_utc": "2026-04-04T22:38:58+00:00",
+    "source": "intellectia_ai",
+    "url": "https://intellectia.ai/en/stock/STZ/earnings",
+    "title": "STZ Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+    "body": "STZ Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+    "author": null,
+    "language": "en",
+    "ticker": "STZ",
+    "tickers_hint": [
+      "STZ"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "intellectia ai",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Intellectia AI",
+      "source_domain": "intellectiaai.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "STZ"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

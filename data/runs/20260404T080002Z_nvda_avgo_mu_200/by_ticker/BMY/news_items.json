@@ -1,0 +1,118 @@
+[
+  {
+    "id": "7901df44-2fe4-5981-afef-de596dbcee99",
+    "timestamp_utc": "2026-04-04T00:52:10+00:00",
+    "source": "investing.com_australia",
+    "url": "https://au.investing.com/news/insider-trading-news/elkins-bristol-myers-squibb-cfo-sells-185-million-in-bmy-stock-93CH-4345635",
+    "title": "Elkins, Bristol Myers Squibb CFO, sells $1.85 million in BMY stock - Investing.com Australia",
+    "body": "Elkins, Bristol Myers Squibb CFO, sells $1.85 million in BMY stock Investing.com Australia",
+    "author": null,
+    "language": "en",
+    "ticker": "BMY",
+    "tickers_hint": [
+      "BMY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "investing.com australia",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Investing.com Australia",
+      "source_domain": "investingcomaustralia.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "BMY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "92483e93-b210-5571-a4db-bee1471609e7",
+    "timestamp_utc": "2026-04-02T16:34:51+00:00",
+    "source": "bitget",
+    "url": "https://www.bitget.com/amp/news/detail/12560605332014",
+    "title": "BMY Plunges 2.59% as Pressure Mounts — What’s Fueling the Selling? - Bitget",
+    "body": "BMY Plunges 2.59% as Pressure Mounts — What’s Fueling the Selling? Bitget",
+    "author": null,
+    "language": "en",
+    "ticker": "BMY",
+    "tickers_hint": [
+      "BMY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "bitget",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Bitget",
+      "source_domain": "bitget.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "BMY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "8e02d133-7a58-58a7-bdde-2496cb28941e",
+    "timestamp_utc": "2026-04-02T09:26:54+00:00",
+    "source": "marketbeat.com",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-20914-shares-in-bristol-myers-squibb-company-bmy-acquired-by-j-safra-sarasin-holding-ag-2026-04-02/",
+    "title": "20,914 Shares in Bristol Myers Squibb Company $BMY Acquired by J. Safra Sarasin Holding AG - marketbeat.com",
+    "body": "20,914 Shares in Bristol Myers Squibb Company $BMY Acquired by J. Safra Sarasin Holding AG marketbeat.com",
+    "author": null,
+    "language": "en",
+    "ticker": "BMY",
+    "tickers_hint": [
+      "BMY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "marketbeat.com",
+      "source_domain": "marketbeatcom.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "BMY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "135fb07a-13a4-5414-9287-cf2c6f3d4498",
+    "timestamp_utc": "2026-04-02T20:26:15+00:00",
+    "source": "gurufocus",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN28xbEZGUjFRc3UwbjFvdVRaWGd0cXRHOGR3WWJ6Mms0TThjWTRhaERpLTdZMG9vaHFjMjc2R0hDUWFHV1h5TU44c3dyR0dSaXRuUUFRaGpSMzVHMThKS2VmV3E5clFybGxJY3hXYjNGTVI5M093aVdJUUd6LWVGZ2hFdFpFQXhtcmV2UEtjRXIyYWVRMnBhR0pseHgtMlJ6a0N5TQ?oc=5",
+    "title": "Bristol-Myers Squibb Co (BMY) Shares Down 3.58% on Apr 2 - GuruFocus",
+    "body": "Bristol-Myers Squibb Co (BMY) Shares Down 3.58% on Apr 2 GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "BMY",
+    "tickers_hint": [
+      "BMY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "BMY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

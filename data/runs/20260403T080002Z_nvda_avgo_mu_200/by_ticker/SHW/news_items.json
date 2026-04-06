@@ -1,0 +1,118 @@
+[
+  {
+    "id": "50768558-e646-5cf5-8314-94ab80d6f9b0",
+    "timestamp_utc": "2026-04-02T23:15:00+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8769098/sherwinwilliams-shw-analyst-rating-update-by-ubs-price-target-lowered-shw-stock-news?mobile=true",
+    "title": "Sherwin-Williams (SHW) Analyst Rating Update by UBS: Price Targe - GuruFocus",
+    "body": "Sherwin-Williams (SHW) Analyst Rating Update by UBS: Price Targe GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "SHW",
+    "tickers_hint": [
+      "SHW"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "SHW"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "7063b34c-82ce-5324-98cd-8ee8fa4bd1c3",
+    "timestamp_utc": "2026-04-02T19:39:01+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/ubs-group-issues-pessimistic-forecast-for-sherwin-williams-nyseshw-stock-price-2026-04-02/",
+    "title": "UBS Group Issues Pessimistic Forecast for Sherwin-Williams (NYSE:SHW) Stock Price - MarketBeat",
+    "body": "UBS Group Issues Pessimistic Forecast for Sherwin-Williams (NYSE:SHW) Stock Price MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "SHW",
+    "tickers_hint": [
+      "SHW"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "SHW"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "57d444ae-2fda-5747-8ac4-716d4354d962",
+    "timestamp_utc": "2026-04-01T21:11:39+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8766061/sherwinwilliams-shw-citigroup-lowers-price-target-to-385-shw-stock-news",
+    "title": "Sherwin-Williams (SHW): Citigroup Lowers Price Target to $385 | - GuruFocus",
+    "body": "Sherwin-Williams (SHW): Citigroup Lowers Price Target to $385 | GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "SHW",
+    "tickers_hint": [
+      "SHW"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "SHW"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "ac10e62c-1d09-5026-8d06-7a2cbca3b7a7",
+    "timestamp_utc": "2026-04-01T20:55:45+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/citigroup-has-lowered-expectations-for-sherwin-williams-nyseshw-stock-price-2026-04-01/",
+    "title": "Citigroup Has Lowered Expectations for Sherwin-Williams (NYSE:SHW) Stock Price - MarketBeat",
+    "body": "Citigroup Has Lowered Expectations for Sherwin-Williams (NYSE:SHW) Stock Price MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "SHW",
+    "tickers_hint": [
+      "SHW"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "SHW"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

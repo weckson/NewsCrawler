@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "54216767-105a-5f1c-a29b-a7eb108b3471",
+      "timestamp_utc": "2026-04-02T03:24:59+00:00",
+      "source": "bitget.com",
+      "url": "https://www.bitget.com/news/detail/12560605332314",
+      "title": "CBRE Encounters \"Sell the News\" Threat as Strong Earnings Could Be Reflected in Current Price - bitget.com",
+      "body": "CBRE Encounters \"Sell the News\" Threat as Strong Earnings Could Be Reflected in Current Price bitget.com",
+      "author": null,
+      "language": "en",
+      "ticker": "CBRE",
+      "tickers_hint": [
+        "CBRE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "bitget.com",
+        "source_domain": "bitgetcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "CBRE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "54216767-105a-5f1c-a29b-a7eb108b3471",
+      "timestamp_utc": "2026-04-02T03:24:59+00:00",
+      "source": "bitget.com",
+      "url": "https://www.bitget.com/news/detail/12560605332314",
+      "title": "CBRE Encounters \"Sell the News\" Threat as Strong Earnings Could Be Reflected in Current Price - bitget.com",
+      "body": "CBRE Encounters \"Sell the News\" Threat as Strong Earnings Could Be Reflected in Current Price bitget.com",
+      "author": null,
+      "language": "en",
+      "ticker": "CBRE",
+      "tickers_hint": [
+        "CBRE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "bitget.com",
+        "source_domain": "bitgetcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "CBRE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

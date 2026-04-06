@@ -1,0 +1,478 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "9f623fd5-ba77-5dd0-a05e-f7075b6beadd",
+      "timestamp_utc": "2026-04-01T20:35:32+00:00",
+      "source": "reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/estee-lauder-puig-advance-talks-stockbased-deal-bloomberg-news-reports-2026-04-01/",
+      "title": "Estee Lauder, Puig advance talks for a stock‑based deal, Bloomberg News reports - Reuters",
+      "body": "Estee Lauder, Puig advance talks for a stock‑based deal, Bloomberg News reports Reuters",
+      "author": null,
+      "language": "en",
+      "ticker": "EL",
+      "tickers_hint": [
+        "EL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "reuters.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Reuters",
+        "source_domain": "reuters.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "EL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3903b5bf-0e79-5eb4-9593-601771ef8c3f",
+      "timestamp_utc": "2026-04-01T20:17:34+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/news/4571833-estee-lauder-puig-advance-talks-for-a-mainly-stock-deal---report",
+      "title": "Estée Lauder, Puig advance talks for a mainly stock deal - report (EL:NYSE) - Seeking Alpha",
+      "body": "Estée Lauder Cos. (EL) and Puig Brands SA (PUIGF) are advancing in talks to combine. Shares of Estee Lauder fell 1.5%.\n\nThe companies are talking about a deal that would consist mostly of stock and could be announced within weeks, according",
+      "author": null,
+      "language": "en",
+      "ticker": "EL",
+      "tickers_hint": [
+        "EL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "EL"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "dbdec2ac-552b-51fe-88cb-5e5d2e4a3eb1",
+      "timestamp_utc": "2026-04-01T20:37:30+00:00",
+      "source": "investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/estee-lauder-stock-falls-amid-deal-talks-with-puig-brands-93CH-4593995",
+      "title": "Estee Lauder stock falls amid deal talks with Puig Brands - investing.com",
+      "body": "Estee Lauder stock falls amid deal talks with Puig Brands investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "EL",
+      "tickers_hint": [
+        "EL"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "EL"
+        ],
+        "alt_sources": [
+          "Investing.com UK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "af665f90-be43-5f71-86d0-c6e4d1df4432",
+      "timestamp_utc": "2026-04-02T15:31:46+00:00",
+      "source": "mexc_exchange",
+      "url": "https://www.mexc.co/news/999884",
+      "title": "Estee Lauder (EL) Stock Slips 2% as Puig Merger Negotiations Progress - MEXC Exchange",
+      "body": "The initial disclosure of merger negotiations between Estée Lauder and Puig came on March 23, when both corporations publicly acknowledged ongoing discussions without revealing specific deal parameters.\n\nAccording to a Bloomberg report published April 1, sources with knowledge of the situation indicate that negotiations have advanced significantly, with a potential announcement timeline measured in weeks rather than months.\n\nThe deal structure under consideration would predominantly involve stock rather than cash. Both Estee Lauder and Puig declined to provide immediate commentary when contacted.\n\nShould the transaction reach completion, it would unite iconic brands such as Tom Ford, Clinique, Carolina Herrera, and Rabanne within a single corporate umbrella.\n\nThe resulting company would command a valuation in the neighborhood of $40 billion, positioning it as a formidable player in the premium beauty industry.\n\nPuig currently holds a market capitalization of roughly 9.8 billion euros. Estee Lauder’s shares, traded on the New York Stock Exchange, reflect a valuation near $27 billion.\n\nMarc Puig, who transitioned out of the chief executive role just last month, is positioned to assume a board seat with the combined organization. Industry observers view him as instrumental to successful integration efforts.\n\nHis transition from CEO to Executive Chairman has been characterized as a deliberate preparation for increased merger and acquisition involvement.\n\nDespite substantial progress, no binding agreement has been finalized. Bloomberg’s sources cautioned that negotiations remain fluid and could potentially stall or collapse.\n\nEstee Lauder shares have experienced approximately 15% depreciation since the March 23 public confirmation of merger exploration. Puig’s Madrid-listed stock has demonstrated inverse momentum, appreciating roughly 11% during the identical timeframe.\n\nThe April 2 premarket session extended EL’s decline, with shares falling more than 2% immediately following Bloomberg’s updated reporting.\n\nEstee Lauder is simultaneously executing a comprehensive organizational restructuring under CEO Stéphane de La Faverie. Key initiatives include accelerating digital commerce capabilities, with expanded distribution through platforms like Amazon.\n\nPuig has similarly undergone internal reorganization, deliberately shifting Marc Puig away from operational responsibilities toward strategic transaction leadership.\n\nThe proposed merger would significantly bolster Estee Lauder’s fragrance capabilities, a category where Puig has cultivated substantial expertise and market presence. Estee Lauder currently ranks as the world’s second-largest cosmetics company, trailing only L’Oréal.\n\nThe post Estee Lauder (EL) Stock Slips 2% as Puig Merger Negotiations Progress appeared first on Blockonomi.",
+      "author": null,
+      "language": "en",
+      "ticker": "EL",
+      "tickers_hint": [
+        "EL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "mexc exchange",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MEXC Exchange",
+        "source_domain": "mexcexchange.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "EL"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6a817c62-abe0-50f2-a51d-ed98c1c5eb94",
+      "timestamp_utc": "2026-04-02T09:20:20+00:00",
+      "source": "coincentral",
+      "url": "https://coincentral.com/estee-lauder-el-stock-drops-2-as-merger-talks-with-puig-advance/",
+      "title": "Estee Lauder (EL) Stock Drops 2% as Merger Talks With Puig Advance - CoinCentral",
+      "body": "The Best AI Stock Picking Tools in 2026: Your Complete Guide to Smarter InvestingFebruary 3, 2026 Finding The Best Crypto to Invest In: Expert Strategies for Identifying Tomorrow’s WinnersFebruary 27, 2025 Sui Blockchain Explained: How It Works and What You Need to KnowFebruary 6, 2025 Is Trump’s Memecoin Legit?\n\nHere’s What We Know About $TRUMPFebruary 1, 2025 What is Decentralized AI and Why We Need It ASAP?December 29, 2024",
+      "author": null,
+      "language": "en",
+      "ticker": "EL",
+      "tickers_hint": [
+        "EL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "coincentral",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "CoinCentral",
+        "source_domain": "coincentral.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "EL"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "678013dc-250b-5b06-919c-55d034c57cf9",
+      "timestamp_utc": "2026-04-01T21:05:00+00:00",
+      "source": "stock_titan",
+      "url": "https://www.stocktitan.net/sec-filings/EL/8-k-a-estee-lauder-companies-inc-amends-material-event-report-883dcc350feb.html",
+      "title": "Estée Lauder (NYSE: EL) outlines $1.2–$1.6B restructuring cost range - Stock Titan",
+      "body": "Estee Lauder Companies NYSE:EL View EL Stock Overview → EL Rankings #506 Ranked by Market Cap #1039 Ranked by Dividends #732 52-Week Gainer #1984 YTD Gainer #1926 Monthly Gainer #1094 Ranked by Short %Change EL Latest News Apr 1, 2026 The Estée Lauder Companies Fully Establishes Its “One ELC” Operating Model and Reaches Milestone in Its Profit Recovery and Growth Plan Mar 23, 2026 The Estée Lauder Companies’ Statement on Potential Transaction with Puig Mar 5, 2026 The Estée Lauder Companies and Forest Essentials to Enter a New Chapter in Their Long-Term Partnership Feb 20, 2026 Balmain Beauty Introduces Destin de Balmain: A New Prestige Fragrance Feb 5, 2026 The Estée Lauder Companies Reports Fiscal 2026 Second Quarter Results EL Latest SEC Filings Mar 26, 2026 [SCHEDULE 13G/A] ESTEE LAUDER COMPANIES INC Amended Passive Investment Disclosure Mar 23, 2026 [8-K] ESTEE LAUDER COMPANIES INC Reports Material Event Mar 17, 2026 [Form 4] ESTEE LAUDER COMPANIES INC Insider Trading Activity Mar 17, 2026 [Form 4] ESTEE LAUDER COMPANIES INC Insider Trading Activity Mar 17, 2026 [Form 4] ESTEE LAUDER COMPANIES INC Insider Trading Activity EL Stock Data Market Cap 25.58B Float 246.12M Industry Household & Personal Products Sector Perfumes, Cosmetics & Other Toilet Preparations Website Link Country United States City NEW YORK",
+      "author": null,
+      "language": "en",
+      "ticker": "EL",
+      "tickers_hint": [
+        "EL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "EL"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a597b130-07a3-54cb-8408-3682684c97e6",
+      "timestamp_utc": "2026-04-02T06:32:24+00:00",
+      "source": "富途牛牛",
+      "url": "https://news.futunn.com/en/post/71017002/two-major-beauty-families-accelerate-merger-estee-lauder-elus-in",
+      "title": "Estee Lauder (EL.US) in talks with Puig (PUGBY.US) for a stock-swap merger to create a new global beauty giant. - 富途牛牛",
+      "body": "Estee Lauder (EL.US) in talks with Puig (PUGBY.US) for a stock-swap merger to create a new global beauty giant. 富途牛牛",
+      "author": null,
+      "language": "en",
+      "ticker": "EL",
+      "tickers_hint": [
+        "EL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "富途牛牛",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "富途牛牛",
+        "source_domain": ".com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "EL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8e6726e4-b6ad-5534-b4da-7f183a022b66",
+      "timestamp_utc": "2026-04-01T21:00:00+00:00",
+      "source": "stock_titan",
+      "url": "https://www.stocktitan.net/news/EL/the-estee-lauder-companies-fully-establishes-its-one-elc-operating-4wq4vmnx5y4h.html",
+      "title": "Estée Lauder centralizes global ad buying as profit plan hits key mark - Stock Titan",
+      "body": "Estee Lauder Companies NYSE:EL View EL Stock Overview → EL Rankings #506 Ranked by Market Cap #1039 Ranked by Dividends #732 52-Week Gainer #1984 YTD Gainer #1926 Monthly Gainer #1094 Ranked by Short %Change EL Latest News Mar 23, 2026 The Estée Lauder Companies’ Statement on Potential Transaction with Puig Mar 5, 2026 The Estée Lauder Companies and Forest Essentials to Enter a New Chapter in Their Long-Term Partnership Feb 20, 2026 Balmain Beauty Introduces Destin de Balmain: A New Prestige Fragrance Feb 5, 2026 The Estée Lauder Companies Reports Fiscal 2026 Second Quarter Results Jan 29, 2026 The Estée Lauder Companies to Webcast Discussion of Fiscal 2026 Second Quarter Results on February 5, 2026 EL Latest SEC Filings Apr 1, 2026 [8-K/A] ESTEE LAUDER COMPANIES INC Amends Material Event Report Mar 26, 2026 [SCHEDULE 13G/A] ESTEE LAUDER COMPANIES INC Amended Passive Investment Disclosure Mar 23, 2026 [8-K] ESTEE LAUDER COMPANIES INC Reports Material Event Mar 17, 2026 [Form 4] ESTEE LAUDER COMPANIES INC Insider Trading Activity Mar 17, 2026 [Form 4] ESTEE LAUDER COMPANIES INC Insider Trading Activity EL Stock Data Market Cap 25.58B Float 246.12M Industry Household & Personal Products Sector Perfumes, Cosmetics & Other Toilet Preparations Website Link Country United States City NEW YORK",
+      "author": null,
+      "language": "en",
+      "ticker": "EL",
+      "tickers_hint": [
+        "EL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "EL"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "9f623fd5-ba77-5dd0-a05e-f7075b6beadd",
+      "timestamp_utc": "2026-04-01T20:35:32+00:00",
+      "source": "reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/estee-lauder-puig-advance-talks-stockbased-deal-bloomberg-news-reports-2026-04-01/",
+      "title": "Estee Lauder, Puig advance talks for a stock‑based deal, Bloomberg News reports - Reuters",
+      "body": "Estee Lauder, Puig advance talks for a stock‑based deal, Bloomberg News reports Reuters",
+      "author": null,
+      "language": "en",
+      "ticker": "EL",
+      "tickers_hint": [
+        "EL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "reuters.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Reuters",
+        "source_domain": "reuters.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "EL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3903b5bf-0e79-5eb4-9593-601771ef8c3f",
+      "timestamp_utc": "2026-04-01T20:17:34+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/news/4571833-estee-lauder-puig-advance-talks-for-a-mainly-stock-deal---report",
+      "title": "Estée Lauder, Puig advance talks for a mainly stock deal - report (EL:NYSE) - Seeking Alpha",
+      "body": "Estée Lauder Cos. (EL) and Puig Brands SA (PUIGF) are advancing in talks to combine. Shares of Estee Lauder fell 1.5%.\n\nThe companies are talking about a deal that would consist mostly of stock and could be announced within weeks, according",
+      "author": null,
+      "language": "en",
+      "ticker": "EL",
+      "tickers_hint": [
+        "EL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "EL"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "dbdec2ac-552b-51fe-88cb-5e5d2e4a3eb1",
+      "timestamp_utc": "2026-04-01T20:37:30+00:00",
+      "source": "investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/estee-lauder-stock-falls-amid-deal-talks-with-puig-brands-93CH-4593995",
+      "title": "Estee Lauder stock falls amid deal talks with Puig Brands - investing.com",
+      "body": "Estee Lauder stock falls amid deal talks with Puig Brands investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "EL",
+      "tickers_hint": [
+        "EL"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "EL"
+        ],
+        "alt_sources": [
+          "Investing.com UK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "af665f90-be43-5f71-86d0-c6e4d1df4432",
+      "timestamp_utc": "2026-04-02T15:31:46+00:00",
+      "source": "mexc_exchange",
+      "url": "https://www.mexc.co/news/999884",
+      "title": "Estee Lauder (EL) Stock Slips 2% as Puig Merger Negotiations Progress - MEXC Exchange",
+      "body": "The initial disclosure of merger negotiations between Estée Lauder and Puig came on March 23, when both corporations publicly acknowledged ongoing discussions without revealing specific deal parameters.\n\nAccording to a Bloomberg report published April 1, sources with knowledge of the situation indicate that negotiations have advanced significantly, with a potential announcement timeline measured in weeks rather than months.\n\nThe deal structure under consideration would predominantly involve stock rather than cash. Both Estee Lauder and Puig declined to provide immediate commentary when contacted.\n\nShould the transaction reach completion, it would unite iconic brands such as Tom Ford, Clinique, Carolina Herrera, and Rabanne within a single corporate umbrella.\n\nThe resulting company would command a valuation in the neighborhood of $40 billion, positioning it as a formidable player in the premium beauty industry.\n\nPuig currently holds a market capitalization of roughly 9.8 billion euros. Estee Lauder’s shares, traded on the New York Stock Exchange, reflect a valuation near $27 billion.\n\nMarc Puig, who transitioned out of the chief executive role just last month, is positioned to assume a board seat with the combined organization. Industry observers view him as instrumental to successful integration efforts.\n\nHis transition from CEO to Executive Chairman has been characterized as a deliberate preparation for increased merger and acquisition involvement.\n\nDespite substantial progress, no binding agreement has been finalized. Bloomberg’s sources cautioned that negotiations remain fluid and could potentially stall or collapse.\n\nEstee Lauder shares have experienced approximately 15% depreciation since the March 23 public confirmation of merger exploration. Puig’s Madrid-listed stock has demonstrated inverse momentum, appreciating roughly 11% during the identical timeframe.\n\nThe April 2 premarket session extended EL’s decline, with shares falling more than 2% immediately following Bloomberg’s updated reporting.\n\nEstee Lauder is simultaneously executing a comprehensive organizational restructuring under CEO Stéphane de La Faverie. Key initiatives include accelerating digital commerce capabilities, with expanded distribution through platforms like Amazon.\n\nPuig has similarly undergone internal reorganization, deliberately shifting Marc Puig away from operational responsibilities toward strategic transaction leadership.\n\nThe proposed merger would significantly bolster Estee Lauder’s fragrance capabilities, a category where Puig has cultivated substantial expertise and market presence. Estee Lauder currently ranks as the world’s second-largest cosmetics company, trailing only L’Oréal.\n\nThe post Estee Lauder (EL) Stock Slips 2% as Puig Merger Negotiations Progress appeared first on Blockonomi.",
+      "author": null,
+      "language": "en",
+      "ticker": "EL",
+      "tickers_hint": [
+        "EL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "mexc exchange",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MEXC Exchange",
+        "source_domain": "mexcexchange.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "EL"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6a817c62-abe0-50f2-a51d-ed98c1c5eb94",
+      "timestamp_utc": "2026-04-02T09:20:20+00:00",
+      "source": "coincentral",
+      "url": "https://coincentral.com/estee-lauder-el-stock-drops-2-as-merger-talks-with-puig-advance/",
+      "title": "Estee Lauder (EL) Stock Drops 2% as Merger Talks With Puig Advance - CoinCentral",
+      "body": "The Best AI Stock Picking Tools in 2026: Your Complete Guide to Smarter InvestingFebruary 3, 2026 Finding The Best Crypto to Invest In: Expert Strategies for Identifying Tomorrow’s WinnersFebruary 27, 2025 Sui Blockchain Explained: How It Works and What You Need to KnowFebruary 6, 2025 Is Trump’s Memecoin Legit?\n\nHere’s What We Know About $TRUMPFebruary 1, 2025 What is Decentralized AI and Why We Need It ASAP?December 29, 2024",
+      "author": null,
+      "language": "en",
+      "ticker": "EL",
+      "tickers_hint": [
+        "EL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "coincentral",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "CoinCentral",
+        "source_domain": "coincentral.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "EL"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "678013dc-250b-5b06-919c-55d034c57cf9",
+      "timestamp_utc": "2026-04-01T21:05:00+00:00",
+      "source": "stock_titan",
+      "url": "https://www.stocktitan.net/sec-filings/EL/8-k-a-estee-lauder-companies-inc-amends-material-event-report-883dcc350feb.html",
+      "title": "Estée Lauder (NYSE: EL) outlines $1.2–$1.6B restructuring cost range - Stock Titan",
+      "body": "Estee Lauder Companies NYSE:EL View EL Stock Overview → EL Rankings #506 Ranked by Market Cap #1039 Ranked by Dividends #732 52-Week Gainer #1984 YTD Gainer #1926 Monthly Gainer #1094 Ranked by Short %Change EL Latest News Apr 1, 2026 The Estée Lauder Companies Fully Establishes Its “One ELC” Operating Model and Reaches Milestone in Its Profit Recovery and Growth Plan Mar 23, 2026 The Estée Lauder Companies’ Statement on Potential Transaction with Puig Mar 5, 2026 The Estée Lauder Companies and Forest Essentials to Enter a New Chapter in Their Long-Term Partnership Feb 20, 2026 Balmain Beauty Introduces Destin de Balmain: A New Prestige Fragrance Feb 5, 2026 The Estée Lauder Companies Reports Fiscal 2026 Second Quarter Results EL Latest SEC Filings Mar 26, 2026 [SCHEDULE 13G/A] ESTEE LAUDER COMPANIES INC Amended Passive Investment Disclosure Mar 23, 2026 [8-K] ESTEE LAUDER COMPANIES INC Reports Material Event Mar 17, 2026 [Form 4] ESTEE LAUDER COMPANIES INC Insider Trading Activity Mar 17, 2026 [Form 4] ESTEE LAUDER COMPANIES INC Insider Trading Activity Mar 17, 2026 [Form 4] ESTEE LAUDER COMPANIES INC Insider Trading Activity EL Stock Data Market Cap 25.58B Float 246.12M Industry Household & Personal Products Sector Perfumes, Cosmetics & Other Toilet Preparations Website Link Country United States City NEW YORK",
+      "author": null,
+      "language": "en",
+      "ticker": "EL",
+      "tickers_hint": [
+        "EL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "EL"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a597b130-07a3-54cb-8408-3682684c97e6",
+      "timestamp_utc": "2026-04-02T06:32:24+00:00",
+      "source": "富途牛牛",
+      "url": "https://news.futunn.com/en/post/71017002/two-major-beauty-families-accelerate-merger-estee-lauder-elus-in",
+      "title": "Estee Lauder (EL.US) in talks with Puig (PUGBY.US) for a stock-swap merger to create a new global beauty giant. - 富途牛牛",
+      "body": "Estee Lauder (EL.US) in talks with Puig (PUGBY.US) for a stock-swap merger to create a new global beauty giant. 富途牛牛",
+      "author": null,
+      "language": "en",
+      "ticker": "EL",
+      "tickers_hint": [
+        "EL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "富途牛牛",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "富途牛牛",
+        "source_domain": ".com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "EL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8e6726e4-b6ad-5534-b4da-7f183a022b66",
+      "timestamp_utc": "2026-04-01T21:00:00+00:00",
+      "source": "stock_titan",
+      "url": "https://www.stocktitan.net/news/EL/the-estee-lauder-companies-fully-establishes-its-one-elc-operating-4wq4vmnx5y4h.html",
+      "title": "Estée Lauder centralizes global ad buying as profit plan hits key mark - Stock Titan",
+      "body": "Estee Lauder Companies NYSE:EL View EL Stock Overview → EL Rankings #506 Ranked by Market Cap #1039 Ranked by Dividends #732 52-Week Gainer #1984 YTD Gainer #1926 Monthly Gainer #1094 Ranked by Short %Change EL Latest News Mar 23, 2026 The Estée Lauder Companies’ Statement on Potential Transaction with Puig Mar 5, 2026 The Estée Lauder Companies and Forest Essentials to Enter a New Chapter in Their Long-Term Partnership Feb 20, 2026 Balmain Beauty Introduces Destin de Balmain: A New Prestige Fragrance Feb 5, 2026 The Estée Lauder Companies Reports Fiscal 2026 Second Quarter Results Jan 29, 2026 The Estée Lauder Companies to Webcast Discussion of Fiscal 2026 Second Quarter Results on February 5, 2026 EL Latest SEC Filings Apr 1, 2026 [8-K/A] ESTEE LAUDER COMPANIES INC Amends Material Event Report Mar 26, 2026 [SCHEDULE 13G/A] ESTEE LAUDER COMPANIES INC Amended Passive Investment Disclosure Mar 23, 2026 [8-K] ESTEE LAUDER COMPANIES INC Reports Material Event Mar 17, 2026 [Form 4] ESTEE LAUDER COMPANIES INC Insider Trading Activity Mar 17, 2026 [Form 4] ESTEE LAUDER COMPANIES INC Insider Trading Activity EL Stock Data Market Cap 25.58B Float 246.12M Industry Household & Personal Products Sector Perfumes, Cosmetics & Other Toilet Preparations Website Link Country United States City NEW YORK",
+      "author": null,
+      "language": "en",
+      "ticker": "EL",
+      "tickers_hint": [
+        "EL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "EL"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "ef504c33-14c2-5f94-b813-e8ce4d7f3f3e",
+      "timestamp_utc": "2026-04-03T09:03:23+00:00",
+      "source": "investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSmVEYXVLLWVNNnBILTh2NVJGS3R0b0dGc2txc2gzUGs0ZnBVcHM4cEZ1NzB5OGxwUEd2TlJvc3U5QXZQTmJ0Zm0zTDBidGNMVWtPMkZKM0Z3eGFzTTA5SThvcHhhUmdlWlZLdmk5Zjc2MURLODFGc2NYOTVFYVk0MW5pRlhCY0s1QjdmaDU5NWM3OUdmc3kzYTg0bzBRMDcxbXZQZTJHSGQ4VVk5cXJ0dExUSzRELWRPdFd3?oc=5",
+      "title": "Gary K. Schick, Jabil SVP, CHRO, sells $102,871 in JBL stock - Investing.com",
+      "body": "Gary K. Schick, Jabil SVP, CHRO, sells $102,871 in JBL stock Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "JBL",
+      "tickers_hint": [
+        "JBL"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JBL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "95aa3351-5002-5c12-9f0d-51384b8e23ee",
+      "timestamp_utc": "2026-04-02T21:16:58+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZlFiWkwxLVlIT2FlQkp0ajk2SG4xbk1ndk1rUXR6OW1NX3dNQjg3XzJjanZDTWhlaE9xd21HU0ZyQmFRN0ktQVBwRTJMLUltQThmdG16YXVCU2VZVkRQcExndzdsTWttb25ob1BEeWh2anYyZHZZWDRLT0xod0lnNE1BQmh0NWhyeVZiVkhubl9INDBJa2lrX0FfZUFDZFQ5b0hBaA?oc=5",
+      "title": "Jabil (NYSE: JBL) SVP sells 1,000 shares, retains 17,920 - Stock Titan",
+      "body": "Jabil (NYSE: JBL) SVP sells 1,000 shares, retains 17,920 Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "JBL",
+      "tickers_hint": [
+        "JBL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JBL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ae79e1f6-9379-5d21-9b7f-08d9061e7164",
+      "timestamp_utc": "2026-04-02T18:27:06+00:00",
+      "source": "msn",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbVVGX0ZjZHJMRTNURjlpSndubmlWd1F3aGRiUVVZUXR2Q2s2X2NmNHBMUzhQN2NqMHJXWTlYSlBoZ1V0VWNIajRpSTlzTGktRUxPSEJ2VndhZ0oyMUs4ekNkLTRGNTUwcndnVUNuczkyLUV0VGxvaVRGZUJTUkxRNlB4aUt2aUhNTVcxeU5VZDA3X19MaC1kQWRFUHlMc3Y0WW40?oc=5",
+      "title": "Here's why Jabil (JBL) is a strong momentum stock - MSN",
+      "body": "Here's why Jabil (JBL) is a strong momentum stock MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "JBL",
+      "tickers_hint": [
+        "JBL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JBL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e83b8933-3d7e-5713-9e5e-0b6f994a7868",
+      "timestamp_utc": "2026-04-02T17:34:57+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zN0FkT08tazhHdkhXdVZVdllKN2t1UmZ0dnlvUGdQWWs4LXhpX0ZzeUpOXzlPN01PNFI4QklNeHVEejZEa3RoX04za3lJTVRY?oc=5",
+      "title": "Jabil Inc. (JBL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Jabil Inc. (JBL) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "JBL",
+      "tickers_hint": [
+        "JBL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JBL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "ef504c33-14c2-5f94-b813-e8ce4d7f3f3e",
+      "timestamp_utc": "2026-04-03T09:03:23+00:00",
+      "source": "investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSmVEYXVLLWVNNnBILTh2NVJGS3R0b0dGc2txc2gzUGs0ZnBVcHM4cEZ1NzB5OGxwUEd2TlJvc3U5QXZQTmJ0Zm0zTDBidGNMVWtPMkZKM0Z3eGFzTTA5SThvcHhhUmdlWlZLdmk5Zjc2MURLODFGc2NYOTVFYVk0MW5pRlhCY0s1QjdmaDU5NWM3OUdmc3kzYTg0bzBRMDcxbXZQZTJHSGQ4VVk5cXJ0dExUSzRELWRPdFd3?oc=5",
+      "title": "Gary K. Schick, Jabil SVP, CHRO, sells $102,871 in JBL stock - Investing.com",
+      "body": "Gary K. Schick, Jabil SVP, CHRO, sells $102,871 in JBL stock Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "JBL",
+      "tickers_hint": [
+        "JBL"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JBL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "95aa3351-5002-5c12-9f0d-51384b8e23ee",
+      "timestamp_utc": "2026-04-02T21:16:58+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZlFiWkwxLVlIT2FlQkp0ajk2SG4xbk1ndk1rUXR6OW1NX3dNQjg3XzJjanZDTWhlaE9xd21HU0ZyQmFRN0ktQVBwRTJMLUltQThmdG16YXVCU2VZVkRQcExndzdsTWttb25ob1BEeWh2anYyZHZZWDRLT0xod0lnNE1BQmh0NWhyeVZiVkhubl9INDBJa2lrX0FfZUFDZFQ5b0hBaA?oc=5",
+      "title": "Jabil (NYSE: JBL) SVP sells 1,000 shares, retains 17,920 - Stock Titan",
+      "body": "Jabil (NYSE: JBL) SVP sells 1,000 shares, retains 17,920 Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "JBL",
+      "tickers_hint": [
+        "JBL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JBL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ae79e1f6-9379-5d21-9b7f-08d9061e7164",
+      "timestamp_utc": "2026-04-02T18:27:06+00:00",
+      "source": "msn",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbVVGX0ZjZHJMRTNURjlpSndubmlWd1F3aGRiUVVZUXR2Q2s2X2NmNHBMUzhQN2NqMHJXWTlYSlBoZ1V0VWNIajRpSTlzTGktRUxPSEJ2VndhZ0oyMUs4ekNkLTRGNTUwcndnVUNuczkyLUV0VGxvaVRGZUJTUkxRNlB4aUt2aUhNTVcxeU5VZDA3X19MaC1kQWRFUHlMc3Y0WW40?oc=5",
+      "title": "Here's why Jabil (JBL) is a strong momentum stock - MSN",
+      "body": "Here's why Jabil (JBL) is a strong momentum stock MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "JBL",
+      "tickers_hint": [
+        "JBL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JBL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e83b8933-3d7e-5713-9e5e-0b6f994a7868",
+      "timestamp_utc": "2026-04-02T17:34:57+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zN0FkT08tazhHdkhXdVZVdllKN2t1UmZ0dnlvUGdQWWs4LXhpX0ZzeUpOXzlPN01PNFI4QklNeHVEejZEa3RoX04za3lJTVRY?oc=5",
+      "title": "Jabil Inc. (JBL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Jabil Inc. (JBL) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "JBL",
+      "tickers_hint": [
+        "JBL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JBL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

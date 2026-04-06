@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "34030ae1-bd86-59e6-9989-eb2f990006b8",
+      "timestamp_utc": "2026-04-04T08:03:06+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uTWRjazlJOWZRTlJJeGZ5dWFXeGdzcnVkN0hXSExKWmhndW1vVkotbGNrRnppTVNxZFpXZl9mMFpndnE4NEg5cHV1bm1WWU5hNkNmWjRCd0I0cG5OV3FNazZB?oc=5",
+      "title": "T-Mobile US, Inc. (TMUS) stock price, news, quote and history - Yahoo Finance Singapore",
+      "body": "T-Mobile US, Inc. (TMUS) stock price, news, quote and history Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "TMUS",
+      "tickers_hint": [
+        "TMUS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TMUS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "34030ae1-bd86-59e6-9989-eb2f990006b8",
+      "timestamp_utc": "2026-04-04T08:03:06+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uTWRjazlJOWZRTlJJeGZ5dWFXeGdzcnVkN0hXSExKWmhndW1vVkotbGNrRnppTVNxZFpXZl9mMFpndnE4NEg5cHV1bm1WWU5hNkNmWjRCd0I0cG5OV3FNazZB?oc=5",
+      "title": "T-Mobile US, Inc. (TMUS) stock price, news, quote and history - Yahoo Finance Singapore",
+      "body": "T-Mobile US, Inc. (TMUS) stock price, news, quote and history Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "TMUS",
+      "tickers_hint": [
+        "TMUS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TMUS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

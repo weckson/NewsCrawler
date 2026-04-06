@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "a9e7042b-692f-5802-a5ea-b92c31db94d8",
+      "timestamp_utc": "2026-04-03T18:14:36+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://ca.finance.yahoo.com/news/western-digital-wdc-valuation-check-181436630.html",
+      "title": "Western Digital (WDC) Valuation Check As AI Storage Optimism And Q3 2026 Earnings Expectations Build - Yahoo! Finance Canada",
+      "body": "Western Digital (WDC) Valuation Check As AI Storage Optimism And Q3 2026 Earnings Expectations Build Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "25528066-7ded-5ab3-ae54-b69dbc1c7bc8",
+      "timestamp_utc": "2026-04-04T06:01:31+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/western-digital-nasdaqwdc-raised-to-buy-at-wall-street-zen-2026-04-04/",
+      "title": "Western Digital (NASDAQ:WDC) Raised to \"Buy\" at Wall Street Zen - MarketBeat",
+      "body": "Western Digital (NASDAQ:WDC) Raised to \"Buy\" at Wall Street Zen MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "a9e7042b-692f-5802-a5ea-b92c31db94d8",
+      "timestamp_utc": "2026-04-03T18:14:36+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://ca.finance.yahoo.com/news/western-digital-wdc-valuation-check-181436630.html",
+      "title": "Western Digital (WDC) Valuation Check As AI Storage Optimism And Q3 2026 Earnings Expectations Build - Yahoo! Finance Canada",
+      "body": "Western Digital (WDC) Valuation Check As AI Storage Optimism And Q3 2026 Earnings Expectations Build Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "25528066-7ded-5ab3-ae54-b69dbc1c7bc8",
+      "timestamp_utc": "2026-04-04T06:01:31+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/western-digital-nasdaqwdc-raised-to-buy-at-wall-street-zen-2026-04-04/",
+      "title": "Western Digital (NASDAQ:WDC) Raised to \"Buy\" at Wall Street Zen - MarketBeat",
+      "body": "Western Digital (NASDAQ:WDC) Raised to \"Buy\" at Wall Street Zen MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

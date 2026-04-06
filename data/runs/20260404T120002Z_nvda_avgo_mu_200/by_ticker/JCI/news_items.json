@@ -1,0 +1,60 @@
+[
+  {
+    "id": "290f2f6f-de76-5da3-b28a-01f4aae55192",
+    "timestamp_utc": "2026-04-03T21:03:48+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50QVNLM3JuU1E0b2tJWERNdGktN1lNMllPNmRTUEQ5MXVJQ0tzQmhBQXNQVVpWd19Va01hand5YUlXU3MtNFh6M2JVNjFRYjBmM2xRVy1GU3MxQmJvaWNGY0wwY1Y?oc=5",
+    "title": "JCI Dec 2026 125.000 put (JCI261218P00125000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "body": "JCI Dec 2026 125.000 put (JCI261218P00125000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "author": null,
+    "language": "en",
+    "ticker": "JCI",
+    "tickers_hint": [
+      "JCI"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo! finance canada",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "JCI"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "c992682a-f52c-51d7-960a-c1a5b442aad2",
+    "timestamp_utc": "2026-04-02T13:08:27+00:00",
+    "source": "tempo.co_english",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR2UwZVMxYVVrSXF6d2lMWUtybmU0cFBVNWtPOThLRVRYdUk1dGVmRDNhT21ZcS1Fai1uUm9sRHZoM0lMTy1LWDM2UjlvQ0VzaWE0cmFxN3k3cnl6MV9zUTJOV3dZN3JFS2IxUkRvS1NoWTM5blJvS1Z3aTlianphWmNaU0FRZ3NTM21DRUFMdWVmWmlL?oc=5",
+    "title": "JCI Drops 2.19% as Trump Speech Sparks Middle East Jitters - Tempo.co English",
+    "body": "JCI Drops 2.19% as Trump Speech Sparks Middle East Jitters Tempo.co English",
+    "author": null,
+    "language": "en",
+    "ticker": "JCI",
+    "tickers_hint": [
+      "JCI"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "tempo.co english",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Tempo.co English",
+      "source_domain": "tempocoenglish.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "JCI"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

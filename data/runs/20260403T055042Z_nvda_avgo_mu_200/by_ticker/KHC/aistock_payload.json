@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "0fceef2a-b206-50b3-b28f-0a86461999ab",
+      "timestamp_utc": "2026-04-01T20:01:00+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/news/4571659-heinz-edges-lower-after-a-six-session-rally",
+      "title": "Heinz edges lower after a six session rally (KHC:NASDAQ) - Seeking Alpha",
+      "body": "Shares of The Kraft Heinz Company (KHC) slipped 0.84% to close at $22.30 on Wednesday, snapping a six session rally.\n\nThe stock has gained around 5.5% between March 24 and March 31 compared to a 0.43% decline in the S&P 500",
+      "author": null,
+      "language": "en",
+      "ticker": "KHC",
+      "tickers_hint": [
+        "KHC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "KHC"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "330a0da5-fcd0-5fb4-8425-588108d71fc8",
+      "timestamp_utc": "2026-04-02T22:00:04+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcFFtT0NSaHFhaThYblRYcnVhSTZiMVNaeDJBajRsYTVSZ2U3aTd2eDhzRnNUb0pCU0hNZTZCS2c5Qll6SjVOOWltYUJDMDZlTzZrOGwyQjlhQTRYMzIwWVR6dW5raFJpeUNNckNBaUhHZXJtY3V3TjhmbGEwQjA5Ulp0ZGZpejZjbGhiVVQ4bHpWM1lrRWc?oc=5",
+      "title": "Kraft Heinz (KHC) Laps the Stock Market: Here's Why - Yahoo Finance",
+      "body": "Kraft Heinz (KHC) Laps the Stock Market: Here's Why Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "KHC",
+      "tickers_hint": [
+        "KHC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KHC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "0fceef2a-b206-50b3-b28f-0a86461999ab",
+      "timestamp_utc": "2026-04-01T20:01:00+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/news/4571659-heinz-edges-lower-after-a-six-session-rally",
+      "title": "Heinz edges lower after a six session rally (KHC:NASDAQ) - Seeking Alpha",
+      "body": "Shares of The Kraft Heinz Company (KHC) slipped 0.84% to close at $22.30 on Wednesday, snapping a six session rally.\n\nThe stock has gained around 5.5% between March 24 and March 31 compared to a 0.43% decline in the S&P 500",
+      "author": null,
+      "language": "en",
+      "ticker": "KHC",
+      "tickers_hint": [
+        "KHC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "KHC"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "330a0da5-fcd0-5fb4-8425-588108d71fc8",
+      "timestamp_utc": "2026-04-02T22:00:04+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcFFtT0NSaHFhaThYblRYcnVhSTZiMVNaeDJBajRsYTVSZ2U3aTd2eDhzRnNUb0pCU0hNZTZCS2c5Qll6SjVOOWltYUJDMDZlTzZrOGwyQjlhQTRYMzIwWVR6dW5raFJpeUNNckNBaUhHZXJtY3V3TjhmbGEwQjA5Ulp0ZGZpejZjbGhiVVQ4bHpWM1lrRWc?oc=5",
+      "title": "Kraft Heinz (KHC) Laps the Stock Market: Here's Why - Yahoo Finance",
+      "body": "Kraft Heinz (KHC) Laps the Stock Market: Here's Why Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "KHC",
+      "tickers_hint": [
+        "KHC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KHC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

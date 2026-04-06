@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "19fd67ca-659a-5247-9857-8359daa8d0c4",
+      "timestamp_utc": "2026-04-04T15:05:59+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/ADSK/earnings",
+      "title": "ADSK Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "ADSK Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "ADSK",
+      "tickers_hint": [
+        "ADSK"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADSK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f99a5553-e632-5952-aae2-66f998a64383",
+      "timestamp_utc": "2026-04-04T14:27:31+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iWF95ZzVoVW1SclZ2Vl9wbDdLS29YYzVQUmZrSVBkR0lMNHBrRmJQQ0w1N2UxTVRTN1ZFZnBFYWxpTDVZYVRldkZOWVh2VVFJYUE?oc=5",
+      "title": "Autodesk, Inc. (ADSK) stock price, news, quote and history - Yahoo Finance Singapore",
+      "body": "Autodesk, Inc. (ADSK) stock price, news, quote and history Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "ADSK",
+      "tickers_hint": [
+        "ADSK"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADSK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "19fd67ca-659a-5247-9857-8359daa8d0c4",
+      "timestamp_utc": "2026-04-04T15:05:59+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/ADSK/earnings",
+      "title": "ADSK Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "ADSK Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "ADSK",
+      "tickers_hint": [
+        "ADSK"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADSK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f99a5553-e632-5952-aae2-66f998a64383",
+      "timestamp_utc": "2026-04-04T14:27:31+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iWF95ZzVoVW1SclZ2Vl9wbDdLS29YYzVQUmZrSVBkR0lMNHBrRmJQQ0w1N2UxTVRTN1ZFZnBFYWxpTDVZYVRldkZOWVh2VVFJYUE?oc=5",
+      "title": "Autodesk, Inc. (ADSK) stock price, news, quote and history - Yahoo Finance Singapore",
+      "body": "Autodesk, Inc. (ADSK) stock price, news, quote and history Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "ADSK",
+      "tickers_hint": [
+        "ADSK"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADSK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

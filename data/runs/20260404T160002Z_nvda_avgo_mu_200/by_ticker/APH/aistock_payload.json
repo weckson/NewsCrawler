@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "7efba58d-563a-56dd-b292-a71d3f3a9f24",
+      "timestamp_utc": "2026-04-03T07:07:29+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-amphenol-corporation-aph-shares-bought-by-aberdeen-group-plc-2026-04-03/",
+      "title": "Amphenol Corporation $APH Shares Bought by Aberdeen Group plc - MarketBeat",
+      "body": "Amphenol Corporation $APH Shares Bought by Aberdeen Group plc MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "APH",
+      "tickers_hint": [
+        "APH"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "APH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e7d6f54f-3f03-5a1e-8c22-2dba403c0b54",
+      "timestamp_utc": "2026-04-03T20:06:26+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qbDZrQUJlclEybFlQa3h0bzdJTFJCVjJSTXdDQ3RFYmI1Mm92QVAyVElEaHo5U0l4V3NiTWQzeGNnXy1XMVdWdGxKUlBVVGlqR3FncE1PS3QtdDB3a3dFX2pkX00?oc=5",
+      "title": "APH Jul 2026 145.000 put (APH260717P00145000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "APH Jul 2026 145.000 put (APH260717P00145000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "APH",
+      "tickers_hint": [
+        "APH"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "APH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "7efba58d-563a-56dd-b292-a71d3f3a9f24",
+      "timestamp_utc": "2026-04-03T07:07:29+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-amphenol-corporation-aph-shares-bought-by-aberdeen-group-plc-2026-04-03/",
+      "title": "Amphenol Corporation $APH Shares Bought by Aberdeen Group plc - MarketBeat",
+      "body": "Amphenol Corporation $APH Shares Bought by Aberdeen Group plc MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "APH",
+      "tickers_hint": [
+        "APH"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "APH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e7d6f54f-3f03-5a1e-8c22-2dba403c0b54",
+      "timestamp_utc": "2026-04-03T20:06:26+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qbDZrQUJlclEybFlQa3h0bzdJTFJCVjJSTXdDQ3RFYmI1Mm92QVAyVElEaHo5U0l4V3NiTWQzeGNnXy1XMVdWdGxKUlBVVGlqR3FncE1PS3QtdDB3a3dFX2pkX00?oc=5",
+      "title": "APH Jul 2026 145.000 put (APH260717P00145000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "APH Jul 2026 145.000 put (APH260717P00145000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "APH",
+      "tickers_hint": [
+        "APH"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "APH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "c0d75881-6a82-5e55-8194-4416de44d056",
+      "timestamp_utc": "2026-04-03T22:52:25+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRa3JINVhtRzIwdXp1UEtyYWdJX3pnUURSVTdIMXdIRDQ3dDFHU0ZaMDFkbk9KY1JDMmtMREw3dTVLVDlST2Vya3JZTVlVTWhpcjZWZ1pOVQ?oc=5",
+      "title": "Tapestry, Inc. (TPR) latest stock news and headlines - Yahoo Finance Singapore",
+      "body": "Tapestry, Inc. (TPR) latest stock news and headlines Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "TPR",
+      "tickers_hint": [
+        "TPR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TPR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f582607f-7395-51aa-9c6a-9660f5c05516",
+      "timestamp_utc": "2026-04-03T22:02:34+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zRE1uR2hiOXFOeF9pXzRUZ2ZJZ3dXVnJjOWJVcUIycFc2dEdoc0taOUkyampHZUJJbE1teVR0SDJYcDhtWFU2UDQ1MU1zWXlu?oc=5",
+      "title": "Tapestry, Inc. (TPR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Tapestry, Inc. (TPR) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "TPR",
+      "tickers_hint": [
+        "TPR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TPR"
+        ],
+        "alt_sources": [
+          "Yahoo Finance UK",
+          "Yahoo Finance Singapore"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "c0d75881-6a82-5e55-8194-4416de44d056",
+      "timestamp_utc": "2026-04-03T22:52:25+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRa3JINVhtRzIwdXp1UEtyYWdJX3pnUURSVTdIMXdIRDQ3dDFHU0ZaMDFkbk9KY1JDMmtMREw3dTVLVDlST2Vya3JZTVlVTWhpcjZWZ1pOVQ?oc=5",
+      "title": "Tapestry, Inc. (TPR) latest stock news and headlines - Yahoo Finance Singapore",
+      "body": "Tapestry, Inc. (TPR) latest stock news and headlines Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "TPR",
+      "tickers_hint": [
+        "TPR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TPR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f582607f-7395-51aa-9c6a-9660f5c05516",
+      "timestamp_utc": "2026-04-03T22:02:34+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zRE1uR2hiOXFOeF9pXzRUZ2ZJZ3dXVnJjOWJVcUIycFc2dEdoc0taOUkyampHZUJJbE1teVR0SDJYcDhtWFU2UDQ1MU1zWXlu?oc=5",
+      "title": "Tapestry, Inc. (TPR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Tapestry, Inc. (TPR) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "TPR",
+      "tickers_hint": [
+        "TPR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TPR"
+        ],
+        "alt_sources": [
+          "Yahoo Finance UK",
+          "Yahoo Finance Singapore"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

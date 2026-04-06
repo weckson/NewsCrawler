@@ -1,0 +1,89 @@
+[
+  {
+    "id": "e12496d0-abae-5d73-9c28-4910537d4c00",
+    "timestamp_utc": "2026-04-04T10:52:02+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yVzdvMDMzUnZDR1Nyd1gyVTY1UzlqNXoyZF9HRDJRRTZUUDJSc3ZVWlNnbmc5Z1RFOG5Mc0hvS0I2NXNTTVJ4YWFxekZnWlQ0eEE?oc=5",
+    "title": "Paychex, Inc. (PAYX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "body": "Paychex, Inc. (PAYX) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "author": null,
+    "language": "en",
+    "ticker": "PAYX",
+    "tickers_hint": [
+      "PAYX"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo! finance canada",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "PAYX"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "6716069e-17f4-5514-ab6f-c3d46bac4842",
+    "timestamp_utc": "2026-04-03T20:00:05+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPem93OTdwTzZ3cHY2Z0hTUXM1SWdIeVkwMWcxSWN5MU9uTGU2VU9NZV9pY3kxalY2Sm9aWkZuZng3T1JmdDlYbFRva3Q2bGxpN3JmYUFEZDdXeV9lQ3ZyVDZDMjJJb0FEZExPaUlXSm8zaEFuaVRTeHdtVGY3dy1naE1CbHJaU3JlVVlpeTcwaEdMcVZpTVJhbVNpZGtQSWZzRGozemg2ZjM?oc=5",
+    "title": "PAYCHEX (PAYX) senior VP has 2,249 shares withheld for taxes, holds options - Stock Titan",
+    "body": "PAYCHEX (PAYX) senior VP has 2,249 shares withheld for taxes, holds options Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "PAYX",
+    "tickers_hint": [
+      "PAYX"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "PAYX"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "2a4d32ac-4007-58fb-8748-cccf43be1a87",
+    "timestamp_utc": "2026-04-03T20:00:02+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ29GN1V4Tkt0dUhyZmhsbm9TNXliV0lyekJETDdad0tCajNGLW55Vm5vWmN4MUU5dWdYdVBrTmNhSkFsYy0tNG9vT080blJnVER5WXZra3dTWDluUXUyOUhvYzVtSEtiakkzZTQ2UUF4Q2dhSnZHQmY5ZExEUVl5RWgtckdXRFNnZzgwQlFQVTE4ZjU5UjZOUlY2d1B1Z1pYTlhQTkU3c2c?oc=5",
+    "title": "Paychex (PAYX) CPO covers RSU taxes with 1,374 withheld shares - Stock Titan",
+    "body": "Paychex (PAYX) CPO covers RSU taxes with 1,374 withheld shares Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "PAYX",
+    "tickers_hint": [
+      "PAYX"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "PAYX"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

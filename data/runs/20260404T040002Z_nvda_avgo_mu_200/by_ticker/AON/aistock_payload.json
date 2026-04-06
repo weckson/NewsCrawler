@@ -1,0 +1,130 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "d575ac08-c21c-5244-9fed-f6d272134801",
+      "timestamp_utc": "2026-04-02T10:12:47+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-aons-next-earnings-101247828.html",
+      "title": "Here's What to Expect From Aon's Next Earnings Report - Yahoo Finance",
+      "body": "Here's What to Expect From Aon's Next Earnings Report Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "AON",
+      "tickers_hint": [
+        "AON"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AON"
+        ],
+        "alt_sources": [
+          "financialcontent.com"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8eef7f87-392f-5024-bb9b-e45faca70df7",
+      "timestamp_utc": "2026-04-03T05:12:42+00:00",
+      "source": "bitget.com",
+      "url": "https://www.bitget.com/news/detail/12560605335581",
+      "title": "Aon’s Earnings Precision Play: Miss Revenue, Trigger Fresh Sell-Off — Or Beat, and Force a Re-Rating - bitget.com",
+      "body": "Aon’s Earnings Precision Play: Miss Revenue, Trigger Fresh Sell-Off — Or Beat, and Force a Re-Rating bitget.com",
+      "author": null,
+      "language": "en",
+      "ticker": "AON",
+      "tickers_hint": [
+        "AON"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "bitget.com",
+        "source_domain": "bitgetcom.com",
+        "trust_tier": 1,
+        "relevance": 0.75,
+        "event_origin": "news",
+        "query_tickers": [
+          "AON"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "d575ac08-c21c-5244-9fed-f6d272134801",
+      "timestamp_utc": "2026-04-02T10:12:47+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-aons-next-earnings-101247828.html",
+      "title": "Here's What to Expect From Aon's Next Earnings Report - Yahoo Finance",
+      "body": "Here's What to Expect From Aon's Next Earnings Report Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "AON",
+      "tickers_hint": [
+        "AON"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AON"
+        ],
+        "alt_sources": [
+          "financialcontent.com"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8eef7f87-392f-5024-bb9b-e45faca70df7",
+      "timestamp_utc": "2026-04-03T05:12:42+00:00",
+      "source": "bitget.com",
+      "url": "https://www.bitget.com/news/detail/12560605335581",
+      "title": "Aon’s Earnings Precision Play: Miss Revenue, Trigger Fresh Sell-Off — Or Beat, and Force a Re-Rating - bitget.com",
+      "body": "Aon’s Earnings Precision Play: Miss Revenue, Trigger Fresh Sell-Off — Or Beat, and Force a Re-Rating bitget.com",
+      "author": null,
+      "language": "en",
+      "ticker": "AON",
+      "tickers_hint": [
+        "AON"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "bitget.com",
+        "source_domain": "bitgetcom.com",
+        "trust_tier": 1,
+        "relevance": 0.75,
+        "event_origin": "news",
+        "query_tickers": [
+          "AON"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

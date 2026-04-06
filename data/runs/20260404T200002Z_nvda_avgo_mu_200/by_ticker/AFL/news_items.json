@@ -1,0 +1,89 @@
+[
+  {
+    "id": "53699357-ca5c-5e33-b506-483490284d52",
+    "timestamp_utc": "2026-04-04T02:02:00+00:00",
+    "source": "yahoo_finance_singapore",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8ydkJuZWw1YjhOWU0tWm1qbjc5YXd1M0NGa3BkMWdfM25ZWVZIbWhLSllHdVl3aUx3ZmlMbnZ4VTdudWE1RXliRnd6RV85VmZR?oc=5",
+    "title": "Aflac Incorporated (AFL) stock price, news, quote and history - Yahoo Finance Singapore",
+    "body": "Aflac Incorporated (AFL) stock price, news, quote and history Yahoo Finance Singapore",
+    "author": null,
+    "language": "en",
+    "ticker": "AFL",
+    "tickers_hint": [
+      "AFL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo finance singapore",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance Singapore",
+      "source_domain": "yahoofinancesingapore.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "AFL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "46ee5d37-d427-56d0-917b-a5c67848494d",
+    "timestamp_utc": "2026-04-03T20:19:59+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82TWMzME1mNEhMeVBUSFdVNEVra1B2clJhbmxzT0R1MDZfT1ByeE5VSW95TGpYUGFfekQ0UWxsQW1taEkxZk1ad0hEcVRud0JLdWJrdDU0a0VNaGlTazRQdTVnWTM?oc=5",
+    "title": "AFL Apr 2026 140.000 call (AFL260410C00140000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "body": "AFL Apr 2026 140.000 call (AFL260410C00140000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "author": null,
+    "language": "en",
+    "ticker": "AFL",
+    "tickers_hint": [
+      "AFL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo! finance canada",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "AFL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "47141864-cd54-53a3-91a0-91acbe90b272",
+    "timestamp_utc": "2026-04-03T13:34:52+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1VjUzE4dWVJTVlxSjFKSE1HQzhDaUNCRWVmY0NVc1ZxRjYzS2FhdHluWG96cS12eTNGMWFtSU03clU1b1puaU9KWUFYbGE2d1ZZUGMxV29wMk1vOG5obHZhYlJvc1JpVFRrbmJsbkVDTEtGWkdyWnc1M3J2ZW42YkM5alFteEpGQkhZdWZqb01Uem52dHRYdHptZ2ZBdDZvRUlSbA?oc=5",
+    "title": "Japan Post-related trust cuts AFLAC (NYSE: AFL) holding by 19,600 shares - Stock Titan",
+    "body": "Japan Post-related trust cuts AFLAC (NYSE: AFL) holding by 19,600 shares Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "AFL",
+    "tickers_hint": [
+      "AFL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "AFL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

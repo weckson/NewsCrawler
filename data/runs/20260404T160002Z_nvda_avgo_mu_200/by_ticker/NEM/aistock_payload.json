@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "16fba4a2-ac56-5cb4-9b84-65c66c1a4f97",
+      "timestamp_utc": "2026-04-03T20:31:23+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNXzAyTlNGbDJvTGtFVWdoTVU2cGZnY2Jjc2FCUXFIX1FJLTVXOHMyS3U3OUdjRWdRMm1fMkdDZ2RQMkczdTNpbXctTkVVVWZSN0VnaVVtX2hJNU5mVDZmYjhGcmFkQUIzUnBfdVRtVFZGMkFjWmY5czY4SUR1ejQzd2JoYnplak1maU55dVFkVS1US1A0dlFFWWVENG1DbFFTbW5IdXR1QWRJbGVX?oc=5",
+      "title": "Newmont (NEM) EVP Peter Toth sells 3,000 shares under Rule 10b5-1 plan - Stock Titan",
+      "body": "Newmont (NEM) EVP Peter Toth sells 3,000 shares under Rule 10b5-1 plan Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "NEM",
+      "tickers_hint": [
+        "NEM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "NEM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "16fba4a2-ac56-5cb4-9b84-65c66c1a4f97",
+      "timestamp_utc": "2026-04-03T20:31:23+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNXzAyTlNGbDJvTGtFVWdoTVU2cGZnY2Jjc2FCUXFIX1FJLTVXOHMyS3U3OUdjRWdRMm1fMkdDZ2RQMkczdTNpbXctTkVVVWZSN0VnaVVtX2hJNU5mVDZmYjhGcmFkQUIzUnBfdVRtVFZGMkFjWmY5czY4SUR1ejQzd2JoYnplak1maU55dVFkVS1US1A0dlFFWWVENG1DbFFTbW5IdXR1QWRJbGVX?oc=5",
+      "title": "Newmont (NEM) EVP Peter Toth sells 3,000 shares under Rule 10b5-1 plan - Stock Titan",
+      "body": "Newmont (NEM) EVP Peter Toth sells 3,000 shares under Rule 10b5-1 plan Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "NEM",
+      "tickers_hint": [
+        "NEM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "NEM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

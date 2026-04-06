@@ -1,0 +1,60 @@
+[
+  {
+    "id": "9bb994ef-4c1b-50e7-8a0a-3d34f978ecec",
+    "timestamp_utc": "2026-04-02T10:11:52+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/adp-adp-share-price-slide-101152474.html",
+    "title": "Has The ADP (ADP) Share Price Slide Created A Valuation Opportunity? - Yahoo Finance",
+    "body": "Has The ADP (ADP) Share Price Slide Created A Valuation Opportunity? Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "ADP",
+    "tickers_hint": [
+      "ADP"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "ADP"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "8b8371cf-0432-552d-a1b6-46509638e6dd",
+    "timestamp_utc": "2026-04-02T00:22:19+00:00",
+    "source": "equiti.com",
+    "url": "https://www.equiti.com/jo-en/news/market-news/us-retail-sales-manufacturing-pmi-and-adp-beat-forecasts-as-stocks-climb/",
+    "title": "US retail sales, manufacturing PMI, and ADP beat forecasts as stocks climb - equiti.com",
+    "body": "US equity indices advanced in tandem following a series of robust economic data releases. Retail sales growth accelerated, the ISM Manufacturing PMI reached its highest level since August 2022, and the ADP employment report surpassed analyst consensus. Despite these gains, market participants remain cautious regarding the potential inflationary impact of a sharp spike in energy prices.",
+    "author": null,
+    "language": "en",
+    "ticker": "ADP",
+    "tickers_hint": [
+      "ADP"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "equiti.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "equiti.com",
+      "source_domain": "equiticom.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "ADP"
+      ],
+      "body_kind": "article_text"
+    },
+    "stream_type": "soft"
+  }
+]

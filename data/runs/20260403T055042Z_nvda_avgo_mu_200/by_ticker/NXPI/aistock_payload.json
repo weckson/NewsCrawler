@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "907eb789-8d21-5664-9e68-0c4044634748",
+      "timestamp_utc": "2026-04-02T15:31:00+00:00",
+      "source": "financialcontent",
+      "url": "https://markets.financialcontent.com/stocks/article/barchart-2026-4-2-heres-what-to-expect-from-nxp-semiconductors-next-earnings-report",
+      "title": "Here's What to Expect From NXP Semiconductors' Next Earnings Report - FinancialContent",
+      "body": "With a market cap of $49.4 billion, NXP Semiconductors N.V. (NXPI) is a global semiconductor company that designs and supplies a wide range of products including microcontrollers, processors, wireless connectivity solutions, sensors, and security controllers. Its technologies serve diverse industries such as automotive, industrial IoT, mobile, and communication infrastructure across multiple international markets.\n\nThe Eindhoven, the Netherlands-based company is slated to announce its fiscal Q1 2026 results after the market closes on Tuesday, Apr. 28. Ahead of this event, analysts expect NXPI to report an EPS of $2.61, a 20.3% increase from $2.17 in the year-ago quarter. It has exceeded Wall Street's earnings expectations in three of the past four quarters while missing on another occasion.\n\nFor fiscal 2026, analysts expect the chipmaker to report EPS of $12.48, marking a growth of 22.4% from $10.20 in fiscal 2025.\n\nShares of NXP Semiconductors have dipped marginally over the past 52 weeks, lagging behind the broader S&P 500 Index's ($SPX) 16.1% increase and the State Street SPDR S&P Semiconductor ETF's (XSD) 63.5% surge over the same period.\n\nShares of NXPI fell 4.5% following its Q4 2025 results on Feb. 2. Investors reacted to a softer-than-expected Q1 2026 outlook, with revenue guided at a midpoint of $3.15 billion, implying a 6% sequential decline. The decline was compounded by deterioration in GAAP profitability, as Q4 operating margin fell to 22.3%, while EPS dropped 28% quarter-on-quarter to $1.79.\n\nSentiment was further pressured by sluggish full-year performance, with 2025 revenue down 3% year-on-year to $12.27 billion and continued weakness in Communications Infrastructure, which declined 18% year-on-year in Q4.\n\nHowever, analysts' consensus view on NXPI stock remains bullish, with a \"Strong Buy\" rating overall. Out of 29 analysts covering the stock, 22 recommend a \"Strong Buy,\" two \"Moderate Buys,\" and five \"Holds.\" The average analyst price target for NXP Semiconductors is $260.91, indicating a potential upside of 35.3% from the current levels.",
+      "author": null,
+      "language": "en",
+      "ticker": "NXPI",
+      "tickers_hint": [
+        "NXPI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "financialcontent",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "FinancialContent",
+        "source_domain": "financialcontent.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "NXPI"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "907eb789-8d21-5664-9e68-0c4044634748",
+      "timestamp_utc": "2026-04-02T15:31:00+00:00",
+      "source": "financialcontent",
+      "url": "https://markets.financialcontent.com/stocks/article/barchart-2026-4-2-heres-what-to-expect-from-nxp-semiconductors-next-earnings-report",
+      "title": "Here's What to Expect From NXP Semiconductors' Next Earnings Report - FinancialContent",
+      "body": "With a market cap of $49.4 billion, NXP Semiconductors N.V. (NXPI) is a global semiconductor company that designs and supplies a wide range of products including microcontrollers, processors, wireless connectivity solutions, sensors, and security controllers. Its technologies serve diverse industries such as automotive, industrial IoT, mobile, and communication infrastructure across multiple international markets.\n\nThe Eindhoven, the Netherlands-based company is slated to announce its fiscal Q1 2026 results after the market closes on Tuesday, Apr. 28. Ahead of this event, analysts expect NXPI to report an EPS of $2.61, a 20.3% increase from $2.17 in the year-ago quarter. It has exceeded Wall Street's earnings expectations in three of the past four quarters while missing on another occasion.\n\nFor fiscal 2026, analysts expect the chipmaker to report EPS of $12.48, marking a growth of 22.4% from $10.20 in fiscal 2025.\n\nShares of NXP Semiconductors have dipped marginally over the past 52 weeks, lagging behind the broader S&P 500 Index's ($SPX) 16.1% increase and the State Street SPDR S&P Semiconductor ETF's (XSD) 63.5% surge over the same period.\n\nShares of NXPI fell 4.5% following its Q4 2025 results on Feb. 2. Investors reacted to a softer-than-expected Q1 2026 outlook, with revenue guided at a midpoint of $3.15 billion, implying a 6% sequential decline. The decline was compounded by deterioration in GAAP profitability, as Q4 operating margin fell to 22.3%, while EPS dropped 28% quarter-on-quarter to $1.79.\n\nSentiment was further pressured by sluggish full-year performance, with 2025 revenue down 3% year-on-year to $12.27 billion and continued weakness in Communications Infrastructure, which declined 18% year-on-year in Q4.\n\nHowever, analysts' consensus view on NXPI stock remains bullish, with a \"Strong Buy\" rating overall. Out of 29 analysts covering the stock, 22 recommend a \"Strong Buy,\" two \"Moderate Buys,\" and five \"Holds.\" The average analyst price target for NXP Semiconductors is $260.91, indicating a potential upside of 35.3% from the current levels.",
+      "author": null,
+      "language": "en",
+      "ticker": "NXPI",
+      "tickers_hint": [
+        "NXPI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "financialcontent",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "FinancialContent",
+        "source_domain": "financialcontent.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "NXPI"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

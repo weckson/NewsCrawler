@@ -1,0 +1,246 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "e8a78ad9-0a61-565b-97a2-b09fbec515c1",
+      "timestamp_utc": "2026-04-04T00:43:59+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKX3dfTGlCUk1nb2xkdXdIaU0zb2J6akpyX1RuOW1sSnkxcmE4dHhZcE5WMFJOOFI4NDA3OVQ4R1poMGtDemx3VFoxTTg3TWhvOVNYZURVZUc5V2haZWdGWWxWUQ?oc=5",
+      "title": "MONDELEZ INTER-A (MDLZ.SW) stock price, news, quote and history - Yahoo Finance Singapore",
+      "body": "MONDELEZ INTER-A (MDLZ.SW) stock price, news, quote and history Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "MDLZ",
+      "tickers_hint": [
+        "MDLZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MDLZ"
+        ],
+        "alt_sources": [
+          "Yahoo! Finance Canada"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b0252b98-0dd2-5244-a2ae-e1bfb988b81d",
+      "timestamp_utc": "2026-04-03T22:21:52+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4aW5NdkxWR3c5aHNiMm82a1JjaVFCSndnSVRWYmI5VnV2MWtVUmlGbzBMTDJYQ1ViNzJnaWZiY194UWl2MTkyLTdfQXM4aGNuLXQ3THk2aGRNNGFlTWxrX3lnb3dlZw?oc=5",
+      "title": "MDLZ Apr 2026 80.000 call (MDLZ260402C00080000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "MDLZ Apr 2026 80.000 call (MDLZ260402C00080000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "MDLZ",
+      "tickers_hint": [
+        "MDLZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MDLZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7febd843-23c0-569a-af8d-dd58a0b9d4a1",
+      "timestamp_utc": "2026-04-03T20:11:40+00:00",
+      "source": "stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOFNFYVVHR1FBSkZTYThISk5nZHpBcnduU0ttWDBtMWN1SjJGRW4yUnFVeEpTdVZSTnY4VnNOVjBlUERiYWFnWkhMMFVPZDdjVmFjTmRZQWROdEh5T0liMEZwaFlKZWYycVBxd1BGRVBZaFhSX25XRjRsWGM5XzBuWF81VHJxeUpuR3p2RFVNd3RDR1o3V1dPSVJiVDZiU0ppQkpnYnVtU3JyYmRrbmwxTndpX1VjeHhKcnN5Tg?oc=5",
+      "title": "Mondelez (MDLZ) HR chief has 3,218 shares withheld for tax obligations - stocktitan.net",
+      "body": "Mondelez (MDLZ) HR chief has 3,218 shares withheld for tax obligations stocktitan.net",
+      "author": null,
+      "language": "en",
+      "ticker": "MDLZ",
+      "tickers_hint": [
+        "MDLZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktitan.net",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "stocktitan.net",
+        "source_domain": "stocktitannet.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MDLZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e03bdbb1-13c0-5e58-a409-c3c0e09863f0",
+      "timestamp_utc": "2026-04-03T20:11:00+00:00",
+      "source": "stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnM4Y0lhYVI5a3RXTGxoWmdDelhBQ21GejIwcXphWmpMbEZqOFdLeHI4ZVpPb1JzTGZtU0Vwa3ZUeGptZGRfdEJodzVmS3A1WEUxUm1yNGx1d05SUzFOMGlnYmVnQlI4cnhZVzFtWFlQU25Rc1NMdkNVS0VSM2JULWFidDQ1RGVMNGdudTl5Y3NtdUszcDZSbzVlRG8xX19IVGVva1RYTUlGMnBFZThHMmNqc0hVelRrYkJ6dQ?oc=5",
+      "title": "Mondelez (MDLZ) Europe EVP has 90 shares withheld for taxes after RSU vesting - stocktitan.net",
+      "body": "Mondelez (MDLZ) Europe EVP has 90 shares withheld for taxes after RSU vesting stocktitan.net",
+      "author": null,
+      "language": "en",
+      "ticker": "MDLZ",
+      "tickers_hint": [
+        "MDLZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktitan.net",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "stocktitan.net",
+        "source_domain": "stocktitannet.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MDLZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "e8a78ad9-0a61-565b-97a2-b09fbec515c1",
+      "timestamp_utc": "2026-04-04T00:43:59+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKX3dfTGlCUk1nb2xkdXdIaU0zb2J6akpyX1RuOW1sSnkxcmE4dHhZcE5WMFJOOFI4NDA3OVQ4R1poMGtDemx3VFoxTTg3TWhvOVNYZURVZUc5V2haZWdGWWxWUQ?oc=5",
+      "title": "MONDELEZ INTER-A (MDLZ.SW) stock price, news, quote and history - Yahoo Finance Singapore",
+      "body": "MONDELEZ INTER-A (MDLZ.SW) stock price, news, quote and history Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "MDLZ",
+      "tickers_hint": [
+        "MDLZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MDLZ"
+        ],
+        "alt_sources": [
+          "Yahoo! Finance Canada"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b0252b98-0dd2-5244-a2ae-e1bfb988b81d",
+      "timestamp_utc": "2026-04-03T22:21:52+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4aW5NdkxWR3c5aHNiMm82a1JjaVFCSndnSVRWYmI5VnV2MWtVUmlGbzBMTDJYQ1ViNzJnaWZiY194UWl2MTkyLTdfQXM4aGNuLXQ3THk2aGRNNGFlTWxrX3lnb3dlZw?oc=5",
+      "title": "MDLZ Apr 2026 80.000 call (MDLZ260402C00080000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "MDLZ Apr 2026 80.000 call (MDLZ260402C00080000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "MDLZ",
+      "tickers_hint": [
+        "MDLZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MDLZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7febd843-23c0-569a-af8d-dd58a0b9d4a1",
+      "timestamp_utc": "2026-04-03T20:11:40+00:00",
+      "source": "stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOFNFYVVHR1FBSkZTYThISk5nZHpBcnduU0ttWDBtMWN1SjJGRW4yUnFVeEpTdVZSTnY4VnNOVjBlUERiYWFnWkhMMFVPZDdjVmFjTmRZQWROdEh5T0liMEZwaFlKZWYycVBxd1BGRVBZaFhSX25XRjRsWGM5XzBuWF81VHJxeUpuR3p2RFVNd3RDR1o3V1dPSVJiVDZiU0ppQkpnYnVtU3JyYmRrbmwxTndpX1VjeHhKcnN5Tg?oc=5",
+      "title": "Mondelez (MDLZ) HR chief has 3,218 shares withheld for tax obligations - stocktitan.net",
+      "body": "Mondelez (MDLZ) HR chief has 3,218 shares withheld for tax obligations stocktitan.net",
+      "author": null,
+      "language": "en",
+      "ticker": "MDLZ",
+      "tickers_hint": [
+        "MDLZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktitan.net",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "stocktitan.net",
+        "source_domain": "stocktitannet.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MDLZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e03bdbb1-13c0-5e58-a409-c3c0e09863f0",
+      "timestamp_utc": "2026-04-03T20:11:00+00:00",
+      "source": "stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnM4Y0lhYVI5a3RXTGxoWmdDelhBQ21GejIwcXphWmpMbEZqOFdLeHI4ZVpPb1JzTGZtU0Vwa3ZUeGptZGRfdEJodzVmS3A1WEUxUm1yNGx1d05SUzFOMGlnYmVnQlI4cnhZVzFtWFlQU25Rc1NMdkNVS0VSM2JULWFidDQ1RGVMNGdudTl5Y3NtdUszcDZSbzVlRG8xX19IVGVva1RYTUlGMnBFZThHMmNqc0hVelRrYkJ6dQ?oc=5",
+      "title": "Mondelez (MDLZ) Europe EVP has 90 shares withheld for taxes after RSU vesting - stocktitan.net",
+      "body": "Mondelez (MDLZ) Europe EVP has 90 shares withheld for taxes after RSU vesting stocktitan.net",
+      "author": null,
+      "language": "en",
+      "ticker": "MDLZ",
+      "tickers_hint": [
+        "MDLZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktitan.net",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "stocktitan.net",
+        "source_domain": "stocktitannet.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MDLZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

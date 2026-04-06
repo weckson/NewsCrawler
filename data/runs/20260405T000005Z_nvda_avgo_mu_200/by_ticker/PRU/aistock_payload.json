@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "fc84a5c0-e2d3-57aa-800a-d6205f71183e",
+      "timestamp_utc": "2026-04-04T15:06:08+00:00",
+      "source": "intellectia.ai",
+      "url": "https://intellectia.ai/en/stock/PRU/earnings",
+      "title": "PRU Earning Date, Earning Analysis and Earning Prediction - intellectia.ai",
+      "body": "PRU Earning Date, Earning Analysis and Earning Prediction intellectia.ai",
+      "author": null,
+      "language": "en",
+      "ticker": "PRU",
+      "tickers_hint": [
+        "PRU"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia.ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "intellectia.ai",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PRU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "47ecf7a5-7cca-5fac-b6fb-7b7d8011937a",
+      "timestamp_utc": "2026-04-03T18:48:19+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4S1dtdVU4czhLdGp5cUkxdVBsbVV2ajhvcEtLU2Y3UklYOW5odWZRZzEwYWttdk1SVm9oVlh3RVZvVFNjcHJhN2ZWdi1MX1BZMG9tOFRRSEd6c3ZyMTR3?oc=5",
+      "title": "ICICI Pru Blended A Div (103028.BO) Latest Stock News & Headlines - Yahoo! Finance Canada",
+      "body": "ICICI Pru Blended A Div (103028.BO) Latest Stock News & Headlines Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "PRU",
+      "tickers_hint": [
+        "PRU"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PRU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "fc84a5c0-e2d3-57aa-800a-d6205f71183e",
+      "timestamp_utc": "2026-04-04T15:06:08+00:00",
+      "source": "intellectia.ai",
+      "url": "https://intellectia.ai/en/stock/PRU/earnings",
+      "title": "PRU Earning Date, Earning Analysis and Earning Prediction - intellectia.ai",
+      "body": "PRU Earning Date, Earning Analysis and Earning Prediction intellectia.ai",
+      "author": null,
+      "language": "en",
+      "ticker": "PRU",
+      "tickers_hint": [
+        "PRU"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia.ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "intellectia.ai",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PRU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "47ecf7a5-7cca-5fac-b6fb-7b7d8011937a",
+      "timestamp_utc": "2026-04-03T18:48:19+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4S1dtdVU4czhLdGp5cUkxdVBsbVV2ajhvcEtLU2Y3UklYOW5odWZRZzEwYWttdk1SVm9oVlh3RVZvVFNjcHJhN2ZWdi1MX1BZMG9tOFRRSEd6c3ZyMTR3?oc=5",
+      "title": "ICICI Pru Blended A Div (103028.BO) Latest Stock News & Headlines - Yahoo! Finance Canada",
+      "body": "ICICI Pru Blended A Div (103028.BO) Latest Stock News & Headlines Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "PRU",
+      "tickers_hint": [
+        "PRU"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PRU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

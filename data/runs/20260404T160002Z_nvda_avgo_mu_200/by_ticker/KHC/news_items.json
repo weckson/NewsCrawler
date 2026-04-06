@@ -1,0 +1,60 @@
+[
+  {
+    "id": "330a0da5-fcd0-5fb4-8425-588108d71fc8",
+    "timestamp_utc": "2026-04-02T22:00:04+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcFFtT0NSaHFhaThYblRYcnVhSTZiMVNaeDJBajRsYTVSZ2U3aTd2eDhzRnNUb0pCU0hNZTZCS2c5Qll6SjVOOWltYUJDMDZlTzZrOGwyQjlhQTRYMzIwWVR6dW5raFJpeUNNckNBaUhHZXJtY3V3TjhmbGEwQjA5Ulp0ZGZpejZjbGhiVVQ4bHpWM1lrRWc?oc=5",
+    "title": "Kraft Heinz (KHC) Laps the Stock Market: Here's Why - Yahoo Finance",
+    "body": "Kraft Heinz (KHC) Laps the Stock Market: Here's Why Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "KHC",
+    "tickers_hint": [
+      "KHC"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "KHC"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "a5b49490-8a13-5a5a-8f51-54c08f3eb53b",
+    "timestamp_utc": "2026-04-02T18:41:31+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uaTU2UUxjMUtoeXhkaG5RaE9oZDN3MHBOOW5ZbTh0S29HMjlqRkpNdDlLdWtVbVlGUVA3RmVQa1JyOS14WVVqVG9iMW5EVXlZSzAyUVJkQzl3QmxvYnZPVU5wZVk?oc=5",
+    "title": "KHC May 2026 25.000 call (KHC260508C00025000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "body": "KHC May 2026 25.000 call (KHC260508C00025000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "author": null,
+    "language": "en",
+    "ticker": "KHC",
+    "tickers_hint": [
+      "KHC"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo! finance canada",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "KHC"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

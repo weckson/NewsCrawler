@@ -1,0 +1,31 @@
+[
+  {
+    "id": "7f539252-3ca8-577c-9261-7143434daf2d",
+    "timestamp_utc": "2026-04-03T02:37:30+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8768419/live-nation-entertainment-lyv-wells-fargo-lowers-price-target-lyv-stock-news?mobile=true",
+    "title": "Live Nation Entertainment (LYV): Wells Fargo Lowers Price Target - GuruFocus",
+    "body": "Live Nation Entertainment (LYV): Wells Fargo Lowers Price Target GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "LYV",
+    "tickers_hint": [
+      "LYV"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "LYV"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

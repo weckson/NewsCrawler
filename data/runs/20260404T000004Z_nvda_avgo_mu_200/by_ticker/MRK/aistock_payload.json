@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "b00c9c7f-9b76-537f-82f8-e59c20f7ad7c",
+      "timestamp_utc": "2026-04-03T07:17:36+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-merck-co-inc-mrk-shares-bought-by-aberdeen-group-plc-2026-04-03/",
+      "title": "Merck & Co., Inc. $MRK Shares Bought by Aberdeen Group plc - MarketBeat",
+      "body": "Merck & Co., Inc. $MRK Shares Bought by Aberdeen Group plc MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MRK",
+      "tickers_hint": [
+        "MRK"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MRK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a4ca1d12-ae38-5f9a-8c7c-5a6bb512726e",
+      "timestamp_utc": "2026-04-02T08:36:44+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-merck-co-inc-mrk-shares-purchased-by-compagnie-lombard-odier-scma-2026-04-02/",
+      "title": "Merck & Co., Inc. $MRK Shares Purchased by Compagnie Lombard Odier SCmA - MarketBeat",
+      "body": "Merck & Co., Inc. $MRK Shares Purchased by Compagnie Lombard Odier SCmA MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MRK",
+      "tickers_hint": [
+        "MRK"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MRK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ef4b5493-78e5-5510-a703-cfd18b67d39d",
+      "timestamp_utc": "2026-04-02T14:09:45+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpYkxvSU5lZTFMZ041YnN1WTM4Yjg4R0dCNEE0aDBwQkUySkRHbk9GMjFMbk5JTVItX2Y1NlAwcFJfdE5IeDk2N1VWNjhKdHdadndpaXFUcjI5Nm5kcXYzS2dFRnE?oc=5",
+      "title": "Merck & Co Inc (MEX:MRK) Stock Price, Trades & News - GuruFocus",
+      "body": "Merck & Co Inc (MEX:MRK) Stock Price, Trades & News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "MRK",
+      "tickers_hint": [
+        "MRK"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MRK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "b00c9c7f-9b76-537f-82f8-e59c20f7ad7c",
+      "timestamp_utc": "2026-04-03T07:17:36+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-merck-co-inc-mrk-shares-bought-by-aberdeen-group-plc-2026-04-03/",
+      "title": "Merck & Co., Inc. $MRK Shares Bought by Aberdeen Group plc - MarketBeat",
+      "body": "Merck & Co., Inc. $MRK Shares Bought by Aberdeen Group plc MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MRK",
+      "tickers_hint": [
+        "MRK"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MRK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a4ca1d12-ae38-5f9a-8c7c-5a6bb512726e",
+      "timestamp_utc": "2026-04-02T08:36:44+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-merck-co-inc-mrk-shares-purchased-by-compagnie-lombard-odier-scma-2026-04-02/",
+      "title": "Merck & Co., Inc. $MRK Shares Purchased by Compagnie Lombard Odier SCmA - MarketBeat",
+      "body": "Merck & Co., Inc. $MRK Shares Purchased by Compagnie Lombard Odier SCmA MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MRK",
+      "tickers_hint": [
+        "MRK"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MRK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ef4b5493-78e5-5510-a703-cfd18b67d39d",
+      "timestamp_utc": "2026-04-02T14:09:45+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpYkxvSU5lZTFMZ041YnN1WTM4Yjg4R0dCNEE0aDBwQkUySkRHbk9GMjFMbk5JTVItX2Y1NlAwcFJfdE5IeDk2N1VWNjhKdHdadndpaXFUcjI5Nm5kcXYzS2dFRnE?oc=5",
+      "title": "Merck & Co Inc (MEX:MRK) Stock Price, Trades & News - GuruFocus",
+      "body": "Merck & Co Inc (MEX:MRK) Stock Price, Trades & News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "MRK",
+      "tickers_hint": [
+        "MRK"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MRK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

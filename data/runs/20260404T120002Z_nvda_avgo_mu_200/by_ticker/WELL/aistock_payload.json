@@ -1,0 +1,250 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "c0cbf19f-e097-5a21-b3e4-2ffcc630e407",
+      "timestamp_utc": "2026-04-03T14:36:00+00:00",
+      "source": "barrons",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPNnB2cXZQN0tJdkU3amxTcms1NmV0T25vaGx2bDRONF9STFNHcURnT2VRaTYwWi0zdGsxdllLaXg2bElPWkFiakZzcWpWeE1wWGpHRDNUMDdZVUFUSXJPVUphcW1LZGx4YTY2N1V5dEN3ZDdmQVZodFFmVXNTODAyeENvOWRxam1lUFpaNnJsUGtqOW5hNms3UUZzb3FSZzdvUkZUTUVPVmVhbnAyYlJtMzlndnp6NEZ6ZmxVUEpraHFkVkRVUnpaZ29VVDliS1FQUmh4LXBUelBndkZJcERDUzA5VXRLUlJEUjdIWF9OUldNeDU4TXNBNkEwUFdaZWNyTU96aEdzejFyLWh2NmxsOEFHSk9xU1JOOVo1OG9RN2xDWE1HMEdoRjI3SnVRQ0dVNGw3cWhtOWljXzdzb2M5czJjRm15amItMnVrdHp3RTlPYUplVVc3blp3NXBCN1BqYzBrX0lFd1l2ejNnUGI3RWJUN0N6U2hMRUdLaWt2Tm5DcWE0MGRR?oc=5",
+      "title": "Why the Stock Market Has Held Up So Well Despite the Spike in Oil Prices - Barron's",
+      "body": "Why the Stock Market Has Held Up So Well Despite the Spike in Oil Prices Barron's",
+      "author": null,
+      "language": "en",
+      "ticker": "WELL",
+      "tickers_hint": [
+        "WELL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "barrons.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Barron's",
+        "source_domain": "barrons.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WELL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fddb7ddb-7f52-5735-9cf4-46ea0a08e604",
+      "timestamp_utc": "2026-04-03T03:20:55+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NSXowaWdQQUptVk9zMTJyR0J3M053UGp6Y0I5cDk4clRJb3BtcnNtV0lxQm12bUs1U0VwamFlcHkyelpQWUJaWE9jSEVmSkhGUUIyVHhn?oc=5",
+      "title": "WELL Health Technologies Corp. (WELL.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "WELL Health Technologies Corp. (WELL.TO) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "WELL",
+      "tickers_hint": [
+        "WELL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "WELL"
+        ],
+        "alt_sources": [
+          "Yahoo Finance Australia",
+          "Yahoo Finance UK",
+          "Yahoo! Finance Canada"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f5388c66-0640-52e4-a631-24b32ca6c27d",
+      "timestamp_utc": "2026-04-04T07:40:18+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-welltower-inc-well-stock-position-increased-by-american-national-bank-trust-2026-04-04/",
+      "title": "Welltower Inc. $WELL Stock Position Increased by American National Bank & Trust - MarketBeat",
+      "body": "Welltower Inc. $WELL Stock Position Increased by American National Bank & Trust MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "WELL",
+      "tickers_hint": [
+        "WELL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "WELL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "daad0bb1-9a6d-5ba6-bf39-d4a4b48a43c1",
+      "timestamp_utc": "2026-04-03T14:54:39+00:00",
+      "source": "tekedia",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUUlGSEJaa0NBZTVOX2g2N3BZclcyV041THZGbTJKellKeHpXNGU5am1GYk54MjE5VjM1Q09QcXBRY21maE1rSWJ3cVVwVzhWbXpFLVB3cHBYVV8tRFRqQnR6OGxzLXhySmlmWENQaDlObHlESVNadXVRQ0pxbVFGWndhNV9aNW80LUZZSnh6OGl1cURMWS1TYVdZeVNWLThjQWV3X1JJaDZ1WEw0eDNCbUVmbHRxaUhkekJ3YTk1b0RaUUtEd0JrUHkwNlp4QQ?oc=5",
+      "title": "U.S. Senators Demand Insider Stock & Derivatives Trading Probe Over Well-Timed Bets Ahead of Trump Policy Moves - Tekedia",
+      "body": "U.S. Senators Demand Insider Stock & Derivatives Trading Probe Over Well-Timed Bets Ahead of Trump Policy Moves Tekedia",
+      "author": null,
+      "language": "en",
+      "ticker": "WELL",
+      "tickers_hint": [
+        "WELL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "tekedia",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Tekedia",
+        "source_domain": "tekedia.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WELL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "c0cbf19f-e097-5a21-b3e4-2ffcc630e407",
+      "timestamp_utc": "2026-04-03T14:36:00+00:00",
+      "source": "barrons",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPNnB2cXZQN0tJdkU3amxTcms1NmV0T25vaGx2bDRONF9STFNHcURnT2VRaTYwWi0zdGsxdllLaXg2bElPWkFiakZzcWpWeE1wWGpHRDNUMDdZVUFUSXJPVUphcW1LZGx4YTY2N1V5dEN3ZDdmQVZodFFmVXNTODAyeENvOWRxam1lUFpaNnJsUGtqOW5hNms3UUZzb3FSZzdvUkZUTUVPVmVhbnAyYlJtMzlndnp6NEZ6ZmxVUEpraHFkVkRVUnpaZ29VVDliS1FQUmh4LXBUelBndkZJcERDUzA5VXRLUlJEUjdIWF9OUldNeDU4TXNBNkEwUFdaZWNyTU96aEdzejFyLWh2NmxsOEFHSk9xU1JOOVo1OG9RN2xDWE1HMEdoRjI3SnVRQ0dVNGw3cWhtOWljXzdzb2M5czJjRm15amItMnVrdHp3RTlPYUplVVc3blp3NXBCN1BqYzBrX0lFd1l2ejNnUGI3RWJUN0N6U2hMRUdLaWt2Tm5DcWE0MGRR?oc=5",
+      "title": "Why the Stock Market Has Held Up So Well Despite the Spike in Oil Prices - Barron's",
+      "body": "Why the Stock Market Has Held Up So Well Despite the Spike in Oil Prices Barron's",
+      "author": null,
+      "language": "en",
+      "ticker": "WELL",
+      "tickers_hint": [
+        "WELL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "barrons.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Barron's",
+        "source_domain": "barrons.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WELL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fddb7ddb-7f52-5735-9cf4-46ea0a08e604",
+      "timestamp_utc": "2026-04-03T03:20:55+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NSXowaWdQQUptVk9zMTJyR0J3M053UGp6Y0I5cDk4clRJb3BtcnNtV0lxQm12bUs1U0VwamFlcHkyelpQWUJaWE9jSEVmSkhGUUIyVHhn?oc=5",
+      "title": "WELL Health Technologies Corp. (WELL.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "WELL Health Technologies Corp. (WELL.TO) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "WELL",
+      "tickers_hint": [
+        "WELL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "WELL"
+        ],
+        "alt_sources": [
+          "Yahoo Finance Australia",
+          "Yahoo Finance UK",
+          "Yahoo! Finance Canada"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f5388c66-0640-52e4-a631-24b32ca6c27d",
+      "timestamp_utc": "2026-04-04T07:40:18+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-welltower-inc-well-stock-position-increased-by-american-national-bank-trust-2026-04-04/",
+      "title": "Welltower Inc. $WELL Stock Position Increased by American National Bank & Trust - MarketBeat",
+      "body": "Welltower Inc. $WELL Stock Position Increased by American National Bank & Trust MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "WELL",
+      "tickers_hint": [
+        "WELL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "WELL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "daad0bb1-9a6d-5ba6-bf39-d4a4b48a43c1",
+      "timestamp_utc": "2026-04-03T14:54:39+00:00",
+      "source": "tekedia",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUUlGSEJaa0NBZTVOX2g2N3BZclcyV041THZGbTJKellKeHpXNGU5am1GYk54MjE5VjM1Q09QcXBRY21maE1rSWJ3cVVwVzhWbXpFLVB3cHBYVV8tRFRqQnR6OGxzLXhySmlmWENQaDlObHlESVNadXVRQ0pxbVFGWndhNV9aNW80LUZZSnh6OGl1cURMWS1TYVdZeVNWLThjQWV3X1JJaDZ1WEw0eDNCbUVmbHRxaUhkekJ3YTk1b0RaUUtEd0JrUHkwNlp4QQ?oc=5",
+      "title": "U.S. Senators Demand Insider Stock & Derivatives Trading Probe Over Well-Timed Bets Ahead of Trump Policy Moves - Tekedia",
+      "body": "U.S. Senators Demand Insider Stock & Derivatives Trading Probe Over Well-Timed Bets Ahead of Trump Policy Moves Tekedia",
+      "author": null,
+      "language": "en",
+      "ticker": "WELL",
+      "tickers_hint": [
+        "WELL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "tekedia",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Tekedia",
+        "source_domain": "tekedia.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WELL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

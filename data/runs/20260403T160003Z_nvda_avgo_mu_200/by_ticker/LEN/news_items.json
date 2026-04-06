@@ -1,0 +1,89 @@
+[
+  {
+    "id": "a8debaa4-cf2e-562d-a0e8-bc4bffeb4925",
+    "timestamp_utc": "2026-04-03T16:03:22+00:00",
+    "source": "moneycheck",
+    "url": "https://moneycheck.com/lennar-len-stock-plunges-25-amid-earnings-shortfall-and-downgrades/",
+    "title": "Lennar (LEN) Stock Plunges 25% Amid Earnings Shortfall and Downgrades - MoneyCheck",
+    "body": "Binance Unveils Binance Ai Pro Beta For AI Crypto Trading On OpenClawMarch 25, 2026 MoonPay Unveils Open Wallet Standard For AI Agents To Transact Across Chains TodayMarch 24, 2026 Mark Zuckerberg Deploys Personal AI Assistant to Revolutionize Meta OperationsMarch 23, 2026 Gemini Cuts Workforce By 30% As AI Drive Fails To Curb Widening 2025 Net LossesMarch 20, 2026 Nebius And Nvidia Forge $2 Billion Pact To Build Next Gen AI Cloud Hubs WorldwideMarch 11, 2026",
+    "author": null,
+    "language": "en",
+    "ticker": "LEN",
+    "tickers_hint": [
+      "LEN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "moneycheck",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MoneyCheck",
+      "source_domain": "moneycheck.com",
+      "trust_tier": 1,
+      "relevance": 0.65,
+      "event_origin": "news",
+      "query_tickers": [
+        "LEN"
+      ],
+      "body_kind": "article_text"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "fe795c19-6a85-55b8-b9a3-2496d0998b8f",
+    "timestamp_utc": "2026-04-03T15:47:24+00:00",
+    "source": "parameter.io",
+    "url": "https://parameter.io/lennar-len-stock-plummets-25-amid-earnings-shortfall-and-widespread-analyst-downgrades/",
+    "title": "Lennar (LEN) Stock Plummets 25% Amid Earnings Shortfall and Widespread Analyst Downgrades - parameter.io",
+    "body": "Wall Street Reacts as Claude Disrupts Cybersecurity MarketFebruary 20, 2026 George Soros Boosts Nvidia and TSMC Stakes and Opens Coinbase Position in Latest TradesFebruary 20, 2026 Nvidia (NVDA) Stock Rises as Nvidia Eyes $30 Billion OpenAI InvestmentFebruary 20, 2026 Tesla (TSLA) Stock: Federal Judge Upholds $243M Autopilot Crash VerdictFebruary 20, 2026",
+    "author": null,
+    "language": "en",
+    "ticker": "LEN",
+    "tickers_hint": [
+      "LEN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "parameter.io",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "parameter.io",
+      "source_domain": "parameterio.com",
+      "trust_tier": 1,
+      "relevance": 0.65,
+      "event_origin": "news",
+      "query_tickers": [
+        "LEN"
+      ],
+      "body_kind": "article_text"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "21a055bd-7480-581a-ae52-f03e58c9c9e5",
+    "timestamp_utc": "2026-04-01T17:36:01+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8765547/len-keefe-bruyette-woods-lowers-price-target-maintains-rating-len-stock-news",
+    "title": "LEN: Keefe, Bruyette & Woods Lowers Price Target, Maintains Rati - GuruFocus",
+    "body": "LEN: Keefe, Bruyette & Woods Lowers Price Target, Maintains Rati GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "LEN",
+    "tickers_hint": [
+      "LEN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "LEN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

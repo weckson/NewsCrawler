@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1befb748-7d8a-590c-8e7d-1ff60a6beb0e",
+    "timestamp_utc": "2026-04-03T14:03:02+00:00",
+    "source": "yahoo_finance_uk",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13dUZ6X2syeldOVDFtUGp5ZzYwVUN5dEJvbzJwZGRtaVR0RWdlNm1DU0tDbzJNWGhjRGYyVjFFdEhZTFRYcm02UWtrdE40NXJqX2RxbURpYw?oc=5",
+    "title": "Digital Realty Trust, Inc. (DLR) latest stock news and headlines - Yahoo Finance UK",
+    "body": "Digital Realty Trust, Inc. (DLR) latest stock news and headlines Yahoo Finance UK",
+    "author": null,
+    "language": "en",
+    "ticker": "DLR",
+    "tickers_hint": [
+      "DLR"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo finance uk",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance UK",
+      "source_domain": "yahoofinanceuk.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "DLR"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

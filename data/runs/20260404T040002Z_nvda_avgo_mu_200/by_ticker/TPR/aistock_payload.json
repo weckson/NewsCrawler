@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "842beedd-69eb-5693-be1a-3c315132287e",
+      "timestamp_utc": "2026-04-03T12:39:38+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZMnhhR3BueVc5dkxYUFZXX19xWHBYLXFDYU8xdWJDUnY1SXotbGFESEgxSFZTT0lQc1R6VW83aHVpN2lwZXlxYWdkN1ZMVm5K?oc=5",
+      "title": "Tapestry, Inc. (TPR) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Tapestry, Inc. (TPR) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "TPR",
+      "tickers_hint": [
+        "TPR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TPR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "00a6f6de-fe57-5e7b-a67a-e61027e622b8",
+      "timestamp_utc": "2026-04-02T08:40:02+00:00",
+      "source": "qz.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zQzh2MGhWTTBPWVo0UEhQM21DNDE1NkhVaVVxUDQxbW1Qdm5HbjJlRGtOZXYzRjU2cXZYYXViM3l4UXJTdEJ5cUlOUUNZdy1zaHdDaV9BcllsZ1Q4MC1vRW0zZ2hhVzF2LUpzRWF6SW10UEZEY3ZhUjJPYXRwUQ?oc=5",
+      "title": "Are Retail-Wholesale Stocks Lagging Tapestry (TPR) This Year? - qz.com",
+      "body": "Are Retail-Wholesale Stocks Lagging Tapestry (TPR) This Year? qz.com",
+      "author": null,
+      "language": "en",
+      "ticker": "TPR",
+      "tickers_hint": [
+        "TPR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "qz.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "qz.com",
+        "source_domain": "qzcom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TPR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "842beedd-69eb-5693-be1a-3c315132287e",
+      "timestamp_utc": "2026-04-03T12:39:38+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZMnhhR3BueVc5dkxYUFZXX19xWHBYLXFDYU8xdWJDUnY1SXotbGFESEgxSFZTT0lQc1R6VW83aHVpN2lwZXlxYWdkN1ZMVm5K?oc=5",
+      "title": "Tapestry, Inc. (TPR) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Tapestry, Inc. (TPR) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "TPR",
+      "tickers_hint": [
+        "TPR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TPR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "00a6f6de-fe57-5e7b-a67a-e61027e622b8",
+      "timestamp_utc": "2026-04-02T08:40:02+00:00",
+      "source": "qz.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zQzh2MGhWTTBPWVo0UEhQM21DNDE1NkhVaVVxUDQxbW1Qdm5HbjJlRGtOZXYzRjU2cXZYYXViM3l4UXJTdEJ5cUlOUUNZdy1zaHdDaV9BcllsZ1Q4MC1vRW0zZ2hhVzF2LUpzRWF6SW10UEZEY3ZhUjJPYXRwUQ?oc=5",
+      "title": "Are Retail-Wholesale Stocks Lagging Tapestry (TPR) This Year? - qz.com",
+      "body": "Are Retail-Wholesale Stocks Lagging Tapestry (TPR) This Year? qz.com",
+      "author": null,
+      "language": "en",
+      "ticker": "TPR",
+      "tickers_hint": [
+        "TPR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "qz.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "qz.com",
+        "source_domain": "qzcom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TPR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

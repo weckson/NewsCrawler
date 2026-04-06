@@ -1,0 +1,118 @@
+[
+  {
+    "id": "4c137451-6271-5823-94f3-ee010f9dcd8a",
+    "timestamp_utc": "2026-04-02T15:39:53+00:00",
+    "source": "seeking_alpha",
+    "url": "https://seekingalpha.com/news/4572227-sa-analyst-upgrades-downgrades-mu-nem-lng-msft",
+    "title": "SA analyst upgrades/downgrades: MU, NEM, LNG, MSFT - Seeking Alpha",
+    "body": "Microsoft (MSFT) and Newmont (NEM) have received upgrades, with Envision Research seeing an attractive entry point for Microsoft at its current P/E levels, while JR Research identifies a compelling buying opportunity in Newmont following a selloff in gold mining",
+    "author": null,
+    "language": "en",
+    "ticker": "NEM",
+    "tickers_hint": [
+      "NEM"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "seekingalpha.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Seeking Alpha",
+      "source_domain": "seekingalpha.com",
+      "trust_tier": 3,
+      "relevance": 0.65,
+      "event_origin": "news",
+      "query_tickers": [
+        "NEM"
+      ],
+      "body_kind": "article_text"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "65582d8c-5465-5af2-bd38-353ca7e60ce7",
+    "timestamp_utc": "2026-04-03T11:23:40+00:00",
+    "source": "msn",
+    "url": "https://www.msn.com/en-us/money/topstocks/will-newmont-nem-beat-estimates-again-in-its-next-earnings-report/ar-AA1ZWcBH",
+    "title": "Will Newmont (NEM) beat estimates again in its next earnings report? - MSN",
+    "body": "Will Newmont (NEM) beat estimates again in its next earnings report? MSN",
+    "author": null,
+    "language": "en",
+    "ticker": "NEM",
+    "tickers_hint": [
+      "NEM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "msn",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MSN",
+      "source_domain": "msn.com",
+      "trust_tier": 1,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "NEM"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "16fba4a2-ac56-5cb4-9b84-65c66c1a4f97",
+    "timestamp_utc": "2026-04-03T20:31:23+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNXzAyTlNGbDJvTGtFVWdoTVU2cGZnY2Jjc2FCUXFIX1FJLTVXOHMyS3U3OUdjRWdRMm1fMkdDZ2RQMkczdTNpbXctTkVVVWZSN0VnaVVtX2hJNU5mVDZmYjhGcmFkQUIzUnBfdVRtVFZGMkFjWmY5czY4SUR1ejQzd2JoYnplak1maU55dVFkVS1US1A0dlFFWWVENG1DbFFTbW5IdXR1QWRJbGVX?oc=5",
+    "title": "Newmont (NEM) EVP Peter Toth sells 3,000 shares under Rule 10b5-1 plan - Stock Titan",
+    "body": "Newmont (NEM) EVP Peter Toth sells 3,000 shares under Rule 10b5-1 plan Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "NEM",
+    "tickers_hint": [
+      "NEM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "NEM"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "a9c073e2-dc92-547c-815e-9330885897a6",
+    "timestamp_utc": "2026-04-03T13:00:06+00:00",
+    "source": "yahoo_finance_singapore",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMWFHRUxKXzFBR3JkbUdtekM2UUtaWXJnbmJVdnM3a0lhMUxVMTBZdVJKT3ZwWW5IOGlkVzRMcWJ0R1RNM3lpU2FFcUpOWWo0Ynh3SW9kUGh0Q3R5M0JmU1BsX0pCUkpJWjJYU1JQZGRld2VCU1JEbEJjLU5TLXhxSHhrYm1RWTg0THkxc0pSdUk?oc=5",
+    "title": "Newmont Corporation (NEM) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance Singapore",
+    "body": "Newmont Corporation (NEM) Is a Trending Stock: Facts to Know Before Betting on It Yahoo Finance Singapore",
+    "author": null,
+    "language": "en",
+    "ticker": "NEM",
+    "tickers_hint": [
+      "NEM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo finance singapore",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance Singapore",
+      "source_domain": "yahoofinancesingapore.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "NEM"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

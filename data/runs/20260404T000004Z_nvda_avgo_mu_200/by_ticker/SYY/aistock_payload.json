@@ -1,0 +1,420 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "60b745fb-4cd2-55f7-831d-4a0f025635fb",
+      "timestamp_utc": "2026-04-02T23:15:00+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8769096/ubs-lowers-price-target-for-sysco-syy-to-9000-maintains-buy-rating-syy-stock-news?mobile=true",
+      "title": "UBS Lowers Price Target for Sysco (SYY) to $90.00, Maintains Buy Rating | SYY Stock News - GuruFocus",
+      "body": "UBS Lowers Price Target for Sysco (SYY) to $90.00, Maintains Buy Rating | SYY Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "SYY",
+      "tickers_hint": [
+        "SYY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "SYY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ab2b3923-395e-54e3-bb62-ac551f961f0d",
+      "timestamp_utc": "2026-04-02T20:34:49+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8768942/sysco-syy-gets-price-target-boost-from-citigroup-analyst-syy-stock-news?mobile=true",
+      "title": "Sysco (SYY) Gets Price Target Boost from Citigroup Analyst | SYY Stock News - GuruFocus",
+      "body": "Sysco (SYY) Gets Price Target Boost from Citigroup Analyst | SYY Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "SYY",
+      "tickers_hint": [
+        "SYY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "SYY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e2cbe3d4-e20e-5f99-b3b5-fe0095b8943d",
+      "timestamp_utc": "2026-04-02T16:52:30+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8768431/guggenheim-lowers-price-target-for-sysco-syy-to-90-syy-stock-news?mobile=true",
+      "title": "Guggenheim Lowers Price Target for Sysco (SYY) to $90 | SYY Stoc - GuruFocus",
+      "body": "Guggenheim Lowers Price Target for Sysco (SYY) to $90 | SYY Stoc GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "SYY",
+      "tickers_hint": [
+        "SYY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "SYY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b0b12340-5123-5dd6-b159-75e98fe55768",
+      "timestamp_utc": "2026-04-02T19:39:32+00:00",
+      "source": "marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/ubs-group-has-lowered-expectations-for-sysco-nysesyy-stock-price-2026-04-02/",
+      "title": "UBS Group Has Lowered Expectations for Sysco (NYSE:SYY) Stock Price - marketbeat.com",
+      "body": "UBS Group Has Lowered Expectations for Sysco (NYSE:SYY) Stock Price marketbeat.com",
+      "author": null,
+      "language": "en",
+      "ticker": "SYY",
+      "tickers_hint": [
+        "SYY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "marketbeat.com",
+        "source_domain": "marketbeatcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "SYY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "87a41b68-d40c-5787-97a3-7a02f4ef0647",
+      "timestamp_utc": "2026-04-02T14:27:53+00:00",
+      "source": "marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/guggenheim-has-lowered-expectations-for-sysco-nysesyy-stock-price-2026-04-02/",
+      "title": "Guggenheim Has Lowered Expectations for Sysco (NYSE:SYY) Stock Price - marketbeat.com",
+      "body": "Guggenheim Has Lowered Expectations for Sysco (NYSE:SYY) Stock Price marketbeat.com",
+      "author": null,
+      "language": "en",
+      "ticker": "SYY",
+      "tickers_hint": [
+        "SYY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "marketbeat.com",
+        "source_domain": "marketbeatcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "SYY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "60e91384-fb2a-5ec7-96fc-9e096145d64e",
+      "timestamp_utc": "2026-04-02T08:04:19+00:00",
+      "source": "stockstory",
+      "url": "https://stockstory.org/us/stocks/nyse/syy/news/earnings/spotting-winners-sysco-nysesyy-and-consumer-discretionary-stocks-in-q4",
+      "title": "Spotting Winners: Sysco (NYSE:SYY) And Consumer Discretionary Stocks In Q4 - StockStory",
+      "body": "Earnings results often indicate what direction a company will take in the months ahead. With Q4 behind us, let’s have a look at Sysco (NYSE:SYY) and its peers.\n\nThis sector includes everything from cable TV services to hotel stays to gym memberships. While diverse, the way people buy and experience these products is being upended by the internet and digitization. Consumer discretionary companies are working to adapt to secular trends such as streaming video, online marketplaces for lodging accommodations, and connected fitness. That discretionary purchases are, by definition, something consumers can give up makes it even more imperative for companies in the space to adapt.\n\nThe consumer discretionary stocks we track reported a mixed Q4. As a group, revenues beat analysts’ consensus estimates by 1.9% while next quarter’s revenue guidance was in line.\n\nWhile some consumer discretionary stocks have fared somewhat better than others, they have collectively declined. On average, share prices are down 4% since the latest earnings results.\n\nPowering more than 730,000 commercial kitchens across North America and Europe, Sysco (NYSE:SYY) is a global food distributor that supplies restaurants, healthcare facilities, schools, hotels, and other foodservice establishments with food products and related services.\n\nSysco reported revenues of $20.76 billion, up 3% year on year. This print was in line with analysts’ expectations, but overall, it was a mixed quarter for the company with a narrow beat of analysts’ EPS estimates but a miss of analysts’ EBITDA estimates.\n\n“Sysco delivered strong results in the second quarter of fiscal year 2026. Our performance was driven by increased local case growth, and gross margin expansion. We delivered our third consecutive quarter of sequentially improving local case growth. More importantly, USFS local case volume is now positive, having delivered positive 1.2% case volume growth in the quarter. Our building momentum and progress with key growth initiatives gives us confidence that we will deliver at least 2.5% local case growth in the 2nd half of the fiscal year. Given the progress we are making, we now expect our full year adjusted EPS1 to be at the high end of our previously provided guidance range of $4.50-$4.60. While there is still more work to be done, I am pleased with the momentum of our business, and want to thank the entire organization for their steadfast commitment to our customers. It is an exciting time to be at Sysco,” said Kevin Hourican, Sysco’s Chair of the Board and Chief Executive Officer.\n\nThe stock is down 4.5% since reporting and currently trades at $72.21.\n\nRead our full report on Sysco here, it’s free.\n\nRising to fame via TikTok and founded in 2013 by Heather Hasson and Trina Spear, Figs (NYSE:FIGS) is a healthcare apparel company known for its stylish approach to medical attire and uniforms.\n\nFigs reported revenues of $201.9 million, up 33% year on year, outperforming analysts’ expectations by 21.8%. The business had an incredible quarter with a beat of analysts’ EPS estimates and a solid beat of analysts’ EBITDA estimates.\n\nThe market seems happy with the results as the stock is up 17% since reporting. It currently trades at $14.59.\n\nIs now the time to buy Figs? Access our full analysis of the earnings results here, it’s free.\n\nKnown for the creation of iconic toys such as Barbie and Hotwheels, Mattel (NASDAQ:MAT) is a global children's entertainment company specializing in the design and production of consumer products.\n\nMattel reported revenues of $1.77 billion, up 7.3% year on year, falling short of analysts’ expectations by 3.7%. It was a disappointing quarter as it posted full-year EPS guidance missing analysts’ expectations significantly and a significant miss of analysts’ EBITDA estimates.\n\nAs expected, the stock is down 30.6% since the results and currently trades at $14.63.\n\nRead our full analysis of Mattel’s results here.\n\nFounded by real estate guru Eric Wu, Opendoor (NASDAQ:OPEN) offers a technology-driven, convenient, and streamlined process to buy and sell homes.\n\nOpendoor reported revenues of $736 million, down 32.1% year on year. This number topped analysts’ expectations by 23.7%. Overall, it was a very strong quarter as it also recorded EBITDA guidance for next quarter exceeding analysts’ expectations and an impressive beat of analysts’ revenue estimates.\n\nOpendoor delivered the biggest analyst estimates beat among its peers. The stock is down 1.4% since reporting and currently trades at $4.59.\n\nRead our full, actionable report on Opendoor here, it’s free.\n\nFounded by Alexander Graham Bell, AT&T (NYSE:T) is a multinational telecomm conglomerate providing a range of communications and internet services.\n\nAT&T reported revenues of $33.47 billion, up 3.6% year on year. This result beat analysts’ expectations by 2.1%. Overall, it was a satisfactory quarter as it also put up a beat of analysts’ EPS estimates.\n\nThe stock is up 23.3% since reporting and currently trades at $28.35.\n\nRead our full, actionable report on AT&T here, it’s free.\n\nLate in 2025 into early 2026, there was hand wringing around artificial intelligence. For software companies, the fear was that AI would erode pricing power and compress margins as new tools made it easier to replicate what once required expensive enterprise platforms. Crypto investors had their own version of the same anxiety: if AI agents could trade, allocate capital, and manage wallets autonomously, what exactly was the long-term value of today’s crypto infrastructure?\n\nThese concerns triggered a noticeable rotation away from these sectors and into safer havens. But markets rarely dwell on one narrative for long. Spring 2026 came, and the focus shifted abruptly from technological disruption to geopolitical risk. The US’ conflict with Iran became the dominant driver of market psychology, and when geopolitics takes center stage, the script changes quickly. Investors stop debating growth rates and start worrying about oil supply, inflation, and global stability.\n\nWant to invest in winners with rock-solid fundamentals? Check out our Strong Momentum Stocks and add them to your watchlist. These companies are poised for growth regardless of the political or macroeconomic climate.\n\nStockStory’s analyst team — all seasoned professional investors — uses quantitative analysis and automation to deliver market-beating insights faster and with higher quality.",
+      "author": null,
+      "language": "en",
+      "ticker": "SYY",
+      "tickers_hint": [
+        "SYY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stockstory",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "StockStory",
+        "source_domain": "stockstory.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "SYY"
+        ],
+        "alt_sources": [
+          "StockStory"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f72aa351-e683-539d-af6d-d94bbcb5dc2a",
+      "timestamp_utc": "2026-04-02T20:52:07+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdVVtSjZPYlFhSElia1R1cGVUeXh2WUlTVDg4U1psbTJsV3d5Snp5SWZBZVB0ZjBlbmRWZlZQZUFkRHpia1F4WktpNkVvUXRTSndZZEZTV2J2aExBYncxaEZWd0VHaU1ZdUxyX3o1enFyLW50Tlo2RWl2bkNrRDdVTzJFbmJIRHZhN0NrUW9uQU05RGRENnRJdVY0dTVyeG80WjR6ZjRn?oc=5",
+      "title": "Sysco (NYSE: SYY) CLO covers taxes with 542-share withholding - Stock Titan",
+      "body": "Sysco (NYSE: SYY) CLO covers taxes with 542-share withholding Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "SYY",
+      "tickers_hint": [
+        "SYY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "SYY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "60b745fb-4cd2-55f7-831d-4a0f025635fb",
+      "timestamp_utc": "2026-04-02T23:15:00+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8769096/ubs-lowers-price-target-for-sysco-syy-to-9000-maintains-buy-rating-syy-stock-news?mobile=true",
+      "title": "UBS Lowers Price Target for Sysco (SYY) to $90.00, Maintains Buy Rating | SYY Stock News - GuruFocus",
+      "body": "UBS Lowers Price Target for Sysco (SYY) to $90.00, Maintains Buy Rating | SYY Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "SYY",
+      "tickers_hint": [
+        "SYY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "SYY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ab2b3923-395e-54e3-bb62-ac551f961f0d",
+      "timestamp_utc": "2026-04-02T20:34:49+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8768942/sysco-syy-gets-price-target-boost-from-citigroup-analyst-syy-stock-news?mobile=true",
+      "title": "Sysco (SYY) Gets Price Target Boost from Citigroup Analyst | SYY Stock News - GuruFocus",
+      "body": "Sysco (SYY) Gets Price Target Boost from Citigroup Analyst | SYY Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "SYY",
+      "tickers_hint": [
+        "SYY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "SYY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e2cbe3d4-e20e-5f99-b3b5-fe0095b8943d",
+      "timestamp_utc": "2026-04-02T16:52:30+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8768431/guggenheim-lowers-price-target-for-sysco-syy-to-90-syy-stock-news?mobile=true",
+      "title": "Guggenheim Lowers Price Target for Sysco (SYY) to $90 | SYY Stoc - GuruFocus",
+      "body": "Guggenheim Lowers Price Target for Sysco (SYY) to $90 | SYY Stoc GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "SYY",
+      "tickers_hint": [
+        "SYY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "SYY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b0b12340-5123-5dd6-b159-75e98fe55768",
+      "timestamp_utc": "2026-04-02T19:39:32+00:00",
+      "source": "marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/ubs-group-has-lowered-expectations-for-sysco-nysesyy-stock-price-2026-04-02/",
+      "title": "UBS Group Has Lowered Expectations for Sysco (NYSE:SYY) Stock Price - marketbeat.com",
+      "body": "UBS Group Has Lowered Expectations for Sysco (NYSE:SYY) Stock Price marketbeat.com",
+      "author": null,
+      "language": "en",
+      "ticker": "SYY",
+      "tickers_hint": [
+        "SYY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "marketbeat.com",
+        "source_domain": "marketbeatcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "SYY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "87a41b68-d40c-5787-97a3-7a02f4ef0647",
+      "timestamp_utc": "2026-04-02T14:27:53+00:00",
+      "source": "marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/guggenheim-has-lowered-expectations-for-sysco-nysesyy-stock-price-2026-04-02/",
+      "title": "Guggenheim Has Lowered Expectations for Sysco (NYSE:SYY) Stock Price - marketbeat.com",
+      "body": "Guggenheim Has Lowered Expectations for Sysco (NYSE:SYY) Stock Price marketbeat.com",
+      "author": null,
+      "language": "en",
+      "ticker": "SYY",
+      "tickers_hint": [
+        "SYY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "marketbeat.com",
+        "source_domain": "marketbeatcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "SYY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "60e91384-fb2a-5ec7-96fc-9e096145d64e",
+      "timestamp_utc": "2026-04-02T08:04:19+00:00",
+      "source": "stockstory",
+      "url": "https://stockstory.org/us/stocks/nyse/syy/news/earnings/spotting-winners-sysco-nysesyy-and-consumer-discretionary-stocks-in-q4",
+      "title": "Spotting Winners: Sysco (NYSE:SYY) And Consumer Discretionary Stocks In Q4 - StockStory",
+      "body": "Earnings results often indicate what direction a company will take in the months ahead. With Q4 behind us, let’s have a look at Sysco (NYSE:SYY) and its peers.\n\nThis sector includes everything from cable TV services to hotel stays to gym memberships. While diverse, the way people buy and experience these products is being upended by the internet and digitization. Consumer discretionary companies are working to adapt to secular trends such as streaming video, online marketplaces for lodging accommodations, and connected fitness. That discretionary purchases are, by definition, something consumers can give up makes it even more imperative for companies in the space to adapt.\n\nThe consumer discretionary stocks we track reported a mixed Q4. As a group, revenues beat analysts’ consensus estimates by 1.9% while next quarter’s revenue guidance was in line.\n\nWhile some consumer discretionary stocks have fared somewhat better than others, they have collectively declined. On average, share prices are down 4% since the latest earnings results.\n\nPowering more than 730,000 commercial kitchens across North America and Europe, Sysco (NYSE:SYY) is a global food distributor that supplies restaurants, healthcare facilities, schools, hotels, and other foodservice establishments with food products and related services.\n\nSysco reported revenues of $20.76 billion, up 3% year on year. This print was in line with analysts’ expectations, but overall, it was a mixed quarter for the company with a narrow beat of analysts’ EPS estimates but a miss of analysts’ EBITDA estimates.\n\n“Sysco delivered strong results in the second quarter of fiscal year 2026. Our performance was driven by increased local case growth, and gross margin expansion. We delivered our third consecutive quarter of sequentially improving local case growth. More importantly, USFS local case volume is now positive, having delivered positive 1.2% case volume growth in the quarter. Our building momentum and progress with key growth initiatives gives us confidence that we will deliver at least 2.5% local case growth in the 2nd half of the fiscal year. Given the progress we are making, we now expect our full year adjusted EPS1 to be at the high end of our previously provided guidance range of $4.50-$4.60. While there is still more work to be done, I am pleased with the momentum of our business, and want to thank the entire organization for their steadfast commitment to our customers. It is an exciting time to be at Sysco,” said Kevin Hourican, Sysco’s Chair of the Board and Chief Executive Officer.\n\nThe stock is down 4.5% since reporting and currently trades at $72.21.\n\nRead our full report on Sysco here, it’s free.\n\nRising to fame via TikTok and founded in 2013 by Heather Hasson and Trina Spear, Figs (NYSE:FIGS) is a healthcare apparel company known for its stylish approach to medical attire and uniforms.\n\nFigs reported revenues of $201.9 million, up 33% year on year, outperforming analysts’ expectations by 21.8%. The business had an incredible quarter with a beat of analysts’ EPS estimates and a solid beat of analysts’ EBITDA estimates.\n\nThe market seems happy with the results as the stock is up 17% since reporting. It currently trades at $14.59.\n\nIs now the time to buy Figs? Access our full analysis of the earnings results here, it’s free.\n\nKnown for the creation of iconic toys such as Barbie and Hotwheels, Mattel (NASDAQ:MAT) is a global children's entertainment company specializing in the design and production of consumer products.\n\nMattel reported revenues of $1.77 billion, up 7.3% year on year, falling short of analysts’ expectations by 3.7%. It was a disappointing quarter as it posted full-year EPS guidance missing analysts’ expectations significantly and a significant miss of analysts’ EBITDA estimates.\n\nAs expected, the stock is down 30.6% since the results and currently trades at $14.63.\n\nRead our full analysis of Mattel’s results here.\n\nFounded by real estate guru Eric Wu, Opendoor (NASDAQ:OPEN) offers a technology-driven, convenient, and streamlined process to buy and sell homes.\n\nOpendoor reported revenues of $736 million, down 32.1% year on year. This number topped analysts’ expectations by 23.7%. Overall, it was a very strong quarter as it also recorded EBITDA guidance for next quarter exceeding analysts’ expectations and an impressive beat of analysts’ revenue estimates.\n\nOpendoor delivered the biggest analyst estimates beat among its peers. The stock is down 1.4% since reporting and currently trades at $4.59.\n\nRead our full, actionable report on Opendoor here, it’s free.\n\nFounded by Alexander Graham Bell, AT&T (NYSE:T) is a multinational telecomm conglomerate providing a range of communications and internet services.\n\nAT&T reported revenues of $33.47 billion, up 3.6% year on year. This result beat analysts’ expectations by 2.1%. Overall, it was a satisfactory quarter as it also put up a beat of analysts’ EPS estimates.\n\nThe stock is up 23.3% since reporting and currently trades at $28.35.\n\nRead our full, actionable report on AT&T here, it’s free.\n\nLate in 2025 into early 2026, there was hand wringing around artificial intelligence. For software companies, the fear was that AI would erode pricing power and compress margins as new tools made it easier to replicate what once required expensive enterprise platforms. Crypto investors had their own version of the same anxiety: if AI agents could trade, allocate capital, and manage wallets autonomously, what exactly was the long-term value of today’s crypto infrastructure?\n\nThese concerns triggered a noticeable rotation away from these sectors and into safer havens. But markets rarely dwell on one narrative for long. Spring 2026 came, and the focus shifted abruptly from technological disruption to geopolitical risk. The US’ conflict with Iran became the dominant driver of market psychology, and when geopolitics takes center stage, the script changes quickly. Investors stop debating growth rates and start worrying about oil supply, inflation, and global stability.\n\nWant to invest in winners with rock-solid fundamentals? Check out our Strong Momentum Stocks and add them to your watchlist. These companies are poised for growth regardless of the political or macroeconomic climate.\n\nStockStory’s analyst team — all seasoned professional investors — uses quantitative analysis and automation to deliver market-beating insights faster and with higher quality.",
+      "author": null,
+      "language": "en",
+      "ticker": "SYY",
+      "tickers_hint": [
+        "SYY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stockstory",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "StockStory",
+        "source_domain": "stockstory.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "SYY"
+        ],
+        "alt_sources": [
+          "StockStory"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f72aa351-e683-539d-af6d-d94bbcb5dc2a",
+      "timestamp_utc": "2026-04-02T20:52:07+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdVVtSjZPYlFhSElia1R1cGVUeXh2WUlTVDg4U1psbTJsV3d5Snp5SWZBZVB0ZjBlbmRWZlZQZUFkRHpia1F4WktpNkVvUXRTSndZZEZTV2J2aExBYncxaEZWd0VHaU1ZdUxyX3o1enFyLW50Tlo2RWl2bkNrRDdVTzJFbmJIRHZhN0NrUW9uQU05RGRENnRJdVY0dTVyeG80WjR6ZjRn?oc=5",
+      "title": "Sysco (NYSE: SYY) CLO covers taxes with 542-share withholding - Stock Titan",
+      "body": "Sysco (NYSE: SYY) CLO covers taxes with 542-share withholding Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "SYY",
+      "tickers_hint": [
+        "SYY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "SYY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

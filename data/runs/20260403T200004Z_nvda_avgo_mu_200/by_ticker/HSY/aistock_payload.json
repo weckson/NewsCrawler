@@ -1,0 +1,240 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "7ae0306c-6cea-5d8a-8ad4-88568dea960b",
+      "timestamp_utc": "2026-04-02T15:23:51+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdEg1RWFTaHdkSXlDdW1sWnFkVTBtU3lXRWNkZFBjMDhjNlRsMjl2aXdJbzJBbHJra2d4bDFxR2psdWsxa2VaRWlyLS1HbWZjUzgwQkxqYTVEd0NWR3pMcUdQREMxTHVhdnBtNWdFTjV0MXQwUzlVbDNlaFhUcnFTcDd2THMxMW5TOEpQaDVLSQ?oc=5",
+      "title": "HSY (NYSE: HSY) proposed sale notice for 129 shares following vesting - Stock Titan",
+      "body": "HSY (NYSE: HSY) proposed sale notice for 129 shares following vesting Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "HSY",
+      "tickers_hint": [
+        "HSY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "HSY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ee2c2e6a-586d-5335-9baa-51ab8818379a",
+      "timestamp_utc": "2026-04-03T20:19:33+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMVBnX2NMUm1SOVlRTFhVM25NYXJuX3ZvUlBNdDR2VmlVWkNfNWotd0lHWHA4Tk9mNFNxVFJMbDRLNXd0R2RsYmFvVkt0eTF3SHB3eEtqM0lERU01cklLV2VLUDZVNFdrZzVubXRMWk40WHRoLUstOHJhM193b0tzdnppQ3VuMUxoMDNzVWh6eWNWN3AwT0JhbXVadG1YVVM4bzJYVzJR?oc=5",
+      "title": "Hershey (HSY) director Curoe receives stock grant, lifts holdings to 1,600.9 shares - Stock Titan",
+      "body": "Hershey (HSY) director Curoe receives stock grant, lifts holdings to 1,600.9 shares Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "HSY",
+      "tickers_hint": [
+        "HSY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HSY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d984af66-6409-53e6-adf2-a981eee559e3",
+      "timestamp_utc": "2026-04-03T20:15:12+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTklwSXVZNFFnOU85M1AxbzRWcW5HTjdCNzhKNDRNNFI3OWdhUWlMS1NKMmpMSGpWMm5jVURqTjZ1dXR1TW5yS3VfTjR1S2VyS1RycUVHRkhjM2RiWkExdHowNkVndFp0NEQzdVdaTjctVHNNRVo1ZXVkVTBEalJnV3luT2wwelV6d1M0R29haU8taTd3NWFOMnRTYnEtaV9TSGxDMzlR?oc=5",
+      "title": "Hershey (NYSE: HSY) director receives 221.795-share stock grant - Stock Titan",
+      "body": "Hershey (NYSE: HSY) director receives 221.795-share stock grant Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "HSY",
+      "tickers_hint": [
+        "HSY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HSY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5cab9011-e39a-53eb-b255-881328287c9b",
+      "timestamp_utc": "2026-04-01T22:15:41+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSzVTdlhRVldVZnNuMXNPX24wNGQySm9qNXdzQUxQbHhBd2pCZmZOWWhCY1FTSkpacmR6RzhBUFRVaTc2QlZ5TUFvX2o4UDVGVlNTSG1QN0g0TGtGbk1FME9LZTI5MXJwb19kcUpOdVFBSHZ3MzNKRzZWcFduNFZqV0hkd3FVLVFydFBhcjlKcnhGeEItc0lITTVLNWUyTm5JbjBGZGhB?oc=5",
+      "title": "Hershey Trust (NYSE: HSY) trims stake with 30,000-share sale - Stock Titan",
+      "body": "Hershey Trust (NYSE: HSY) trims stake with 30,000-share sale Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "HSY",
+      "tickers_hint": [
+        "HSY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HSY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "7ae0306c-6cea-5d8a-8ad4-88568dea960b",
+      "timestamp_utc": "2026-04-02T15:23:51+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdEg1RWFTaHdkSXlDdW1sWnFkVTBtU3lXRWNkZFBjMDhjNlRsMjl2aXdJbzJBbHJra2d4bDFxR2psdWsxa2VaRWlyLS1HbWZjUzgwQkxqYTVEd0NWR3pMcUdQREMxTHVhdnBtNWdFTjV0MXQwUzlVbDNlaFhUcnFTcDd2THMxMW5TOEpQaDVLSQ?oc=5",
+      "title": "HSY (NYSE: HSY) proposed sale notice for 129 shares following vesting - Stock Titan",
+      "body": "HSY (NYSE: HSY) proposed sale notice for 129 shares following vesting Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "HSY",
+      "tickers_hint": [
+        "HSY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "HSY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ee2c2e6a-586d-5335-9baa-51ab8818379a",
+      "timestamp_utc": "2026-04-03T20:19:33+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMVBnX2NMUm1SOVlRTFhVM25NYXJuX3ZvUlBNdDR2VmlVWkNfNWotd0lHWHA4Tk9mNFNxVFJMbDRLNXd0R2RsYmFvVkt0eTF3SHB3eEtqM0lERU01cklLV2VLUDZVNFdrZzVubXRMWk40WHRoLUstOHJhM193b0tzdnppQ3VuMUxoMDNzVWh6eWNWN3AwT0JhbXVadG1YVVM4bzJYVzJR?oc=5",
+      "title": "Hershey (HSY) director Curoe receives stock grant, lifts holdings to 1,600.9 shares - Stock Titan",
+      "body": "Hershey (HSY) director Curoe receives stock grant, lifts holdings to 1,600.9 shares Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "HSY",
+      "tickers_hint": [
+        "HSY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HSY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d984af66-6409-53e6-adf2-a981eee559e3",
+      "timestamp_utc": "2026-04-03T20:15:12+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTklwSXVZNFFnOU85M1AxbzRWcW5HTjdCNzhKNDRNNFI3OWdhUWlMS1NKMmpMSGpWMm5jVURqTjZ1dXR1TW5yS3VfTjR1S2VyS1RycUVHRkhjM2RiWkExdHowNkVndFp0NEQzdVdaTjctVHNNRVo1ZXVkVTBEalJnV3luT2wwelV6d1M0R29haU8taTd3NWFOMnRTYnEtaV9TSGxDMzlR?oc=5",
+      "title": "Hershey (NYSE: HSY) director receives 221.795-share stock grant - Stock Titan",
+      "body": "Hershey (NYSE: HSY) director receives 221.795-share stock grant Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "HSY",
+      "tickers_hint": [
+        "HSY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HSY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5cab9011-e39a-53eb-b255-881328287c9b",
+      "timestamp_utc": "2026-04-01T22:15:41+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSzVTdlhRVldVZnNuMXNPX24wNGQySm9qNXdzQUxQbHhBd2pCZmZOWWhCY1FTSkpacmR6RzhBUFRVaTc2QlZ5TUFvX2o4UDVGVlNTSG1QN0g0TGtGbk1FME9LZTI5MXJwb19kcUpOdVFBSHZ3MzNKRzZWcFduNFZqV0hkd3FVLVFydFBhcjlKcnhGeEItc0lITTVLNWUyTm5JbjBGZGhB?oc=5",
+      "title": "Hershey Trust (NYSE: HSY) trims stake with 30,000-share sale - Stock Titan",
+      "body": "Hershey Trust (NYSE: HSY) trims stake with 30,000-share sale Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "HSY",
+      "tickers_hint": [
+        "HSY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HSY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

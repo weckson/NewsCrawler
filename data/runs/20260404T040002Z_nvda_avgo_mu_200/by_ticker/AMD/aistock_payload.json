@@ -1,0 +1,646 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "e44da1ec-9fe5-5f07-a0f7-02683e2c7278",
+      "timestamp_utc": "2026-04-02T18:41:09+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-among-184109749.html",
+      "title": "Advanced Micro Devices (AMD): Among the Stocks That Can Make You Richer in 2026 - Yahoo Finance",
+      "body": "Advanced Micro Devices (AMD): Among the Stocks That Can Make You Richer in 2026 Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "AMD",
+      "tickers_hint": [
+        "AMD"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9852fd02-b59c-53d8-aa5c-795345ac2621",
+      "timestamp_utc": "2026-04-03T23:25:00+00:00",
+      "source": "motley_fool",
+      "url": "https://www.fool.com/investing/2026/04/03/amd-vs-nvidia-the-ai-supercycle-is-big-enough-for/",
+      "title": "AMD vs. Nvidia: The AI Supercycle Is Big Enough for Both. Here's the Better Buy. - The Motley Fool",
+      "body": "The artificial intelligence (AI) boom is creating massive winners, but not every stock riding this wave will deliver the same type of returns for investors.\n\nNvidia (NVDA +0.87%) and Advanced Micro Devices (AMD +3.36%) are two of the biggest names powering the AI revolution, and both are seeing explosive demand for their chips. While the AI supercycle may be big enough for both companies to thrive, one stock still stands out as the better buy right now.\n\nThe reason comes down to how each company is positioned within the AI ecosystem and how much of that opportunity is already priced into their stocks.",
+      "author": null,
+      "language": "en",
+      "ticker": "AMD",
+      "tickers_hint": [
+        "AMD"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "fool.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Motley Fool",
+        "source_domain": "fool.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMD"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8bc81cb7-ea63-5c27-93ed-ed5cbc0d85ff",
+      "timestamp_utc": "2026-04-03T09:10:32+00:00",
+      "source": "blockonomi",
+      "url": "https://blockonomi.com/advanced-micro-devices-amd-stock-surges-4-following-bullish-analyst-upgrade/",
+      "title": "Advanced Micro Devices (AMD) Stock Surges 4% Following Bullish Analyst Upgrade - Blockonomi",
+      "body": "Related Posts Figure Technology Solutions (FIGR) Stock Surges on Record Q1 Loan Growth and Token AdoptionApril 3, 2026 DeepSeek V4 to Power Huawei Chips as China’s Tech Titans Order Massive QuantitiesApril 3, 2026 Netflix (NFLX) Stock: Rome Court Declares Price Increases Unlawful, Mandates Customer RefundsApril 3, 2026",
+      "author": null,
+      "language": "en",
+      "ticker": "AMD",
+      "tickers_hint": [
+        "AMD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "blockonomi",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Blockonomi",
+        "source_domain": "blockonomi.com",
+        "trust_tier": 1,
+        "relevance": 0.7500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMD"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "45ce422d-5bab-5cda-a080-d3f55aa7de8a",
+      "timestamp_utc": "2026-04-02T20:59:38+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/advanced-micro-devices-nasdaqamd-shares-up-35-following-analyst-upgrade-2026-04-02/",
+      "title": "Advanced Micro Devices (NASDAQ:AMD) Shares Up 3.5% Following Analyst Upgrade - MarketBeat",
+      "body": "Advanced Micro Devices (NASDAQ:AMD) Shares Up 3.5% Following Analyst Upgrade MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMD",
+      "tickers_hint": [
+        "AMD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.7500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3ccdc874-61ad-5d57-a55f-0ebda865e469",
+      "timestamp_utc": "2026-04-03T14:14:34+00:00",
+      "source": "ad_hoc_news",
+      "url": "https://www.ad-hoc-news.de/boerse/ueberblick/advanced-micro-devices-inc-stock-3-5-percent-surge-on-upgrade-buy/69065245",
+      "title": "Advanced Micro Devices, Inc. stock: 3.5% Surge on Upgrade — Buy Now? - AD HOC NEWS",
+      "body": "NEWSAKTIENKURSEBÖRSE WIRTSCHAFT POLITIK SPORT UNTERHALTUNG WISSENSCHAFT AUSLAND POLIZEI INTERNATIONAL SONSTIGE ARCHIV BLOGS KALENDERBLATT NEWSLETTER BÖRSENLEXIKON RSS WATCHLISTNews SucheMenü ein-/ausblendenBlogsBilderNews",
+      "author": null,
+      "language": "en",
+      "ticker": "AMD",
+      "tickers_hint": [
+        "AMD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "ad hoc news",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "AD HOC NEWS",
+        "source_domain": "adhocnews.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMD"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "428b732e-5e9d-585c-b3b8-afb4165baa9a",
+      "timestamp_utc": "2026-04-03T10:39:29+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-formidable-asset-management-llc-has-566-million-stock-position-in-advanced-micro-devices-inc-amd-2026-04-03/",
+      "title": "Formidable Asset Management LLC Has $5.66 Million Stock Position in Advanced Micro Devices, Inc. $AMD - MarketBeat",
+      "body": "Formidable Asset Management LLC Has $5.66 Million Stock Position in Advanced Micro Devices, Inc. $AMD MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMD",
+      "tickers_hint": [
+        "AMD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "26882574-60d7-5314-9f2f-029795ab8ab4",
+      "timestamp_utc": "2026-04-03T07:17:35+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-aberdeen-group-plc-grows-stock-position-in-advanced-micro-devices-inc-amd-2026-04-03/",
+      "title": "Aberdeen Group plc Grows Stock Position in Advanced Micro Devices, Inc. $AMD - MarketBeat",
+      "body": "Aberdeen Group plc Grows Stock Position in Advanced Micro Devices, Inc. $AMD MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMD",
+      "tickers_hint": [
+        "AMD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a72412d1-f915-53c9-a223-9181af48862c",
+      "timestamp_utc": "2026-04-02T11:36:53+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-matauro-llc-has-204-million-stake-in-advanced-micro-devices-inc-amd-2026-04-02/",
+      "title": "Matauro LLC Has $2.04 Million Stake in Advanced Micro Devices, Inc. $AMD - MarketBeat",
+      "body": "Matauro LLC Has $2.04 Million Stake in Advanced Micro Devices, Inc. $AMD MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMD",
+      "tickers_hint": [
+        "AMD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "32700064-06f3-5f16-8f97-ec2481d4f3b8",
+      "timestamp_utc": "2026-04-02T08:46:49+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeEVtZWk0b1pkRWhhZEViRnE3dExUVktVVVlZbVpzb0doclIyNEJmeklxLXBSTXBpbV92LWZ0b25kLW84TmxtZVhILVZKTFdwcHo5dkZtd1BoaENhcEF3Vy1NcWZjSFdreFZUWU83NzhpWjhnSVRLbjJ5YzVPZHVlRlZTNE1wWlhQVWFFZjhReXZVMjk2by1rSVZTTmFEY2FvRU45U3MxSm5lMlVxYlBIZnZJUXdYSEQ3MGdPaFVfbmVOZm1Wbk9FejRIZ2xGaTNCZUZHRkFB?oc=5",
+      "title": "Advanced Micro Devices, Inc. $AMD is Ellsworth Advisors LLC's 9th Largest Position - MarketBeat",
+      "body": "Advanced Micro Devices, Inc. $AMD is Ellsworth Advisors LLC's 9th Largest Position MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMD",
+      "tickers_hint": [
+        "AMD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "82c74198-e35e-5a4b-bc6d-1ed6f42f753b",
+      "timestamp_utc": "2026-04-02T08:34:44+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQbzBFbUFwNjY1ZlFSVWxoYlFuRlU0U0hfYjlaZV9VaFBFRHM5b3c3TzJqaGxCZFh4MTQzaTVjajFBZ1AtYWxtby1sRHNuQVFnZlZadWhBSk5kcW11MWtrTmltQl9oa0lzWjN6UTNYT1FvcHFiN1V4LWRIT3BWWThyVWt4Z2s3cUNzX2I0eDhFWG1zNG1CSUFPT1V3a0ROelRDMS1lMGJud2tKWmZGdzBzY3doRUh6V2VOekNzX2h3Mk1sejRaSXdCX2RCeV9RRXl6VkNtZ05SRXJzUzdQUDhPRndQSDF5MTNKcFExRjl3WDYwQlJQcTBwa1Y5Um80N3RNSXlz?oc=5",
+      "title": "Advanced Micro Devices, Inc. $AMD Shares Bought by Empirical Financial Services LLC d.b.a. Empirical Wealth Management - MarketBeat",
+      "body": "Advanced Micro Devices, Inc. $AMD Shares Bought by Empirical Financial Services LLC d.b.a. Empirical Wealth Management MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMD",
+      "tickers_hint": [
+        "AMD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e3203012-c796-5d13-b905-f9a1ee0da67d",
+      "timestamp_utc": "2026-04-02T13:50:01+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWnE0dnhiM0M1RjBnaWhIT0l1dHNqWmt6STJWVV9rdk41NjRYTU1tSnk0cGJnc0l5dEhBX3A0YlpFeFZKNnlqaDk1UHFwUlJXa3JJd0NvQXNZT1JKeGRPQm1pYTFWcngzd2IteDZIa285QW04dE9fSnI0NjhPVEdLdmFWTk5kUQ?oc=5",
+      "title": "Why Advanced Micro Devices (AMD) is a Top Momentum Stock for the Long-Term - Yahoo Finance Singapore",
+      "body": "Why Advanced Micro Devices (AMD) is a Top Momentum Stock for the Long-Term Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "AMD",
+      "tickers_hint": [
+        "AMD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "e44da1ec-9fe5-5f07-a0f7-02683e2c7278",
+      "timestamp_utc": "2026-04-02T18:41:09+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-among-184109749.html",
+      "title": "Advanced Micro Devices (AMD): Among the Stocks That Can Make You Richer in 2026 - Yahoo Finance",
+      "body": "Advanced Micro Devices (AMD): Among the Stocks That Can Make You Richer in 2026 Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "AMD",
+      "tickers_hint": [
+        "AMD"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9852fd02-b59c-53d8-aa5c-795345ac2621",
+      "timestamp_utc": "2026-04-03T23:25:00+00:00",
+      "source": "motley_fool",
+      "url": "https://www.fool.com/investing/2026/04/03/amd-vs-nvidia-the-ai-supercycle-is-big-enough-for/",
+      "title": "AMD vs. Nvidia: The AI Supercycle Is Big Enough for Both. Here's the Better Buy. - The Motley Fool",
+      "body": "The artificial intelligence (AI) boom is creating massive winners, but not every stock riding this wave will deliver the same type of returns for investors.\n\nNvidia (NVDA +0.87%) and Advanced Micro Devices (AMD +3.36%) are two of the biggest names powering the AI revolution, and both are seeing explosive demand for their chips. While the AI supercycle may be big enough for both companies to thrive, one stock still stands out as the better buy right now.\n\nThe reason comes down to how each company is positioned within the AI ecosystem and how much of that opportunity is already priced into their stocks.",
+      "author": null,
+      "language": "en",
+      "ticker": "AMD",
+      "tickers_hint": [
+        "AMD"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "fool.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Motley Fool",
+        "source_domain": "fool.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMD"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8bc81cb7-ea63-5c27-93ed-ed5cbc0d85ff",
+      "timestamp_utc": "2026-04-03T09:10:32+00:00",
+      "source": "blockonomi",
+      "url": "https://blockonomi.com/advanced-micro-devices-amd-stock-surges-4-following-bullish-analyst-upgrade/",
+      "title": "Advanced Micro Devices (AMD) Stock Surges 4% Following Bullish Analyst Upgrade - Blockonomi",
+      "body": "Related Posts Figure Technology Solutions (FIGR) Stock Surges on Record Q1 Loan Growth and Token AdoptionApril 3, 2026 DeepSeek V4 to Power Huawei Chips as China’s Tech Titans Order Massive QuantitiesApril 3, 2026 Netflix (NFLX) Stock: Rome Court Declares Price Increases Unlawful, Mandates Customer RefundsApril 3, 2026",
+      "author": null,
+      "language": "en",
+      "ticker": "AMD",
+      "tickers_hint": [
+        "AMD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "blockonomi",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Blockonomi",
+        "source_domain": "blockonomi.com",
+        "trust_tier": 1,
+        "relevance": 0.7500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMD"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "45ce422d-5bab-5cda-a080-d3f55aa7de8a",
+      "timestamp_utc": "2026-04-02T20:59:38+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/advanced-micro-devices-nasdaqamd-shares-up-35-following-analyst-upgrade-2026-04-02/",
+      "title": "Advanced Micro Devices (NASDAQ:AMD) Shares Up 3.5% Following Analyst Upgrade - MarketBeat",
+      "body": "Advanced Micro Devices (NASDAQ:AMD) Shares Up 3.5% Following Analyst Upgrade MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMD",
+      "tickers_hint": [
+        "AMD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.7500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3ccdc874-61ad-5d57-a55f-0ebda865e469",
+      "timestamp_utc": "2026-04-03T14:14:34+00:00",
+      "source": "ad_hoc_news",
+      "url": "https://www.ad-hoc-news.de/boerse/ueberblick/advanced-micro-devices-inc-stock-3-5-percent-surge-on-upgrade-buy/69065245",
+      "title": "Advanced Micro Devices, Inc. stock: 3.5% Surge on Upgrade — Buy Now? - AD HOC NEWS",
+      "body": "NEWSAKTIENKURSEBÖRSE WIRTSCHAFT POLITIK SPORT UNTERHALTUNG WISSENSCHAFT AUSLAND POLIZEI INTERNATIONAL SONSTIGE ARCHIV BLOGS KALENDERBLATT NEWSLETTER BÖRSENLEXIKON RSS WATCHLISTNews SucheMenü ein-/ausblendenBlogsBilderNews",
+      "author": null,
+      "language": "en",
+      "ticker": "AMD",
+      "tickers_hint": [
+        "AMD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "ad hoc news",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "AD HOC NEWS",
+        "source_domain": "adhocnews.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMD"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "428b732e-5e9d-585c-b3b8-afb4165baa9a",
+      "timestamp_utc": "2026-04-03T10:39:29+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-formidable-asset-management-llc-has-566-million-stock-position-in-advanced-micro-devices-inc-amd-2026-04-03/",
+      "title": "Formidable Asset Management LLC Has $5.66 Million Stock Position in Advanced Micro Devices, Inc. $AMD - MarketBeat",
+      "body": "Formidable Asset Management LLC Has $5.66 Million Stock Position in Advanced Micro Devices, Inc. $AMD MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMD",
+      "tickers_hint": [
+        "AMD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "26882574-60d7-5314-9f2f-029795ab8ab4",
+      "timestamp_utc": "2026-04-03T07:17:35+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-aberdeen-group-plc-grows-stock-position-in-advanced-micro-devices-inc-amd-2026-04-03/",
+      "title": "Aberdeen Group plc Grows Stock Position in Advanced Micro Devices, Inc. $AMD - MarketBeat",
+      "body": "Aberdeen Group plc Grows Stock Position in Advanced Micro Devices, Inc. $AMD MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMD",
+      "tickers_hint": [
+        "AMD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a72412d1-f915-53c9-a223-9181af48862c",
+      "timestamp_utc": "2026-04-02T11:36:53+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-matauro-llc-has-204-million-stake-in-advanced-micro-devices-inc-amd-2026-04-02/",
+      "title": "Matauro LLC Has $2.04 Million Stake in Advanced Micro Devices, Inc. $AMD - MarketBeat",
+      "body": "Matauro LLC Has $2.04 Million Stake in Advanced Micro Devices, Inc. $AMD MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMD",
+      "tickers_hint": [
+        "AMD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "32700064-06f3-5f16-8f97-ec2481d4f3b8",
+      "timestamp_utc": "2026-04-02T08:46:49+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeEVtZWk0b1pkRWhhZEViRnE3dExUVktVVVlZbVpzb0doclIyNEJmeklxLXBSTXBpbV92LWZ0b25kLW84TmxtZVhILVZKTFdwcHo5dkZtd1BoaENhcEF3Vy1NcWZjSFdreFZUWU83NzhpWjhnSVRLbjJ5YzVPZHVlRlZTNE1wWlhQVWFFZjhReXZVMjk2by1rSVZTTmFEY2FvRU45U3MxSm5lMlVxYlBIZnZJUXdYSEQ3MGdPaFVfbmVOZm1Wbk9FejRIZ2xGaTNCZUZHRkFB?oc=5",
+      "title": "Advanced Micro Devices, Inc. $AMD is Ellsworth Advisors LLC's 9th Largest Position - MarketBeat",
+      "body": "Advanced Micro Devices, Inc. $AMD is Ellsworth Advisors LLC's 9th Largest Position MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMD",
+      "tickers_hint": [
+        "AMD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "82c74198-e35e-5a4b-bc6d-1ed6f42f753b",
+      "timestamp_utc": "2026-04-02T08:34:44+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQbzBFbUFwNjY1ZlFSVWxoYlFuRlU0U0hfYjlaZV9VaFBFRHM5b3c3TzJqaGxCZFh4MTQzaTVjajFBZ1AtYWxtby1sRHNuQVFnZlZadWhBSk5kcW11MWtrTmltQl9oa0lzWjN6UTNYT1FvcHFiN1V4LWRIT3BWWThyVWt4Z2s3cUNzX2I0eDhFWG1zNG1CSUFPT1V3a0ROelRDMS1lMGJud2tKWmZGdzBzY3doRUh6V2VOekNzX2h3Mk1sejRaSXdCX2RCeV9RRXl6VkNtZ05SRXJzUzdQUDhPRndQSDF5MTNKcFExRjl3WDYwQlJQcTBwa1Y5Um80N3RNSXlz?oc=5",
+      "title": "Advanced Micro Devices, Inc. $AMD Shares Bought by Empirical Financial Services LLC d.b.a. Empirical Wealth Management - MarketBeat",
+      "body": "Advanced Micro Devices, Inc. $AMD Shares Bought by Empirical Financial Services LLC d.b.a. Empirical Wealth Management MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMD",
+      "tickers_hint": [
+        "AMD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e3203012-c796-5d13-b905-f9a1ee0da67d",
+      "timestamp_utc": "2026-04-02T13:50:01+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWnE0dnhiM0M1RjBnaWhIT0l1dHNqWmt6STJWVV9rdk41NjRYTU1tSnk0cGJnc0l5dEhBX3A0YlpFeFZKNnlqaDk1UHFwUlJXa3JJd0NvQXNZT1JKeGRPQm1pYTFWcngzd2IteDZIa285QW04dE9fSnI0NjhPVEdLdmFWTk5kUQ?oc=5",
+      "title": "Why Advanced Micro Devices (AMD) is a Top Momentum Stock for the Long-Term - Yahoo Finance Singapore",
+      "body": "Why Advanced Micro Devices (AMD) is a Top Momentum Stock for the Long-Term Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "AMD",
+      "tickers_hint": [
+        "AMD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

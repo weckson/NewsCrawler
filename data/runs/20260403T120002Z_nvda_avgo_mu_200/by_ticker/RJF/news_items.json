@@ -1,0 +1,31 @@
+[
+  {
+    "id": "2f83da22-0bf0-5c63-bf23-4cc192a4785e",
+    "timestamp_utc": "2026-04-03T01:06:19+00:00",
+    "source": "eastern_progress",
+    "url": "https://www.easternprogress.com/raymond-james-financial-inc-rjf-expected-to-beat-earnings-estimates-what-to-know-ahead-of/article_388df41e-8f47-5820-9387-6fe3522f6b78.html",
+    "title": "Raymond James Financial, Inc. (RJF) Expected to Beat Earnings Estimates: What to Know Ahead of Q1 Release - Eastern Progress",
+    "body": "Raymond James Financial, Inc. (RJF) Expected to Beat Earnings Estimates: What to Know Ahead of Q1 Release Eastern Progress",
+    "author": null,
+    "language": "en",
+    "ticker": "RJF",
+    "tickers_hint": [
+      "RJF"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "eastern progress",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Eastern Progress",
+      "source_domain": "easternprogress.com",
+      "trust_tier": 1,
+      "relevance": 0.65,
+      "event_origin": "news",
+      "query_tickers": [
+        "RJF"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

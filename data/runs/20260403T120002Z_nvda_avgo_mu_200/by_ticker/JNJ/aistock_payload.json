@@ -1,0 +1,472 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "e091e3d8-152d-58d5-87c8-635e1bb9885e",
+      "timestamp_utc": "2026-04-01T16:10:03+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-jnj-beat-estimates-161003737.html",
+      "title": "Will Johnson & Johnson (JNJ) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
+      "body": "Will Johnson & Johnson (JNJ) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "JNJ",
+      "tickers_hint": [
+        "JNJ"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "JNJ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8c1bed66-5021-585e-ba92-6dc809939cb0",
+      "timestamp_utc": "2026-04-02T13:35:15+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMDBPREVsNnByR1hBOVRqclk1OUhkcUpwQWVjV0hNZndBTEx0ckQ5Ty1iazRkemJ5QkJITkw2OTdZZUUyR2xhNTFBME4tcExnLUpaR0NEZUhteThJaWQ3MWtoSGlKd3NSRjl0TmdiUlBVcVFhWEdIb3M2a0NPVkRYajJmeHg1bDJSeTF4ZDg0c2lRNHAyaW1JcTNfSVo?oc=5",
+      "title": "Why Johnson & Johnson (JNJ) Is One of the Best Pharma Stocks to Invest in Now - Yahoo Finance",
+      "body": "Why Johnson & Johnson (JNJ) Is One of the Best Pharma Stocks to Invest in Now Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "JNJ",
+      "tickers_hint": [
+        "JNJ"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JNJ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8e7626d1-1bbf-53b4-95bf-7d80a6b97da8",
+      "timestamp_utc": "2026-04-02T12:01:00+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX2dubjJUUlVxYjB2Mk5iUkE5TC1Na0JxSEtyaDNUZEdvakx3MlRaN3RaYkoxVUVCTlBlVkhFcl9FY1c5X2NaUHdYcXdlZTkxcGlnNVVzWWNzZ3Bud3I4Zy1PMll0NEExaUdWeXFUZEMtZzlqN0hPM0RUakd2S1N6NG5PWVJ1YkZhLWZiOWZmeVlsMkFq?oc=5",
+      "title": "JNJ Stock’s 60% Breakout: Why Wall Street is Torn - Yahoo Finance",
+      "body": "JNJ Stock’s 60% Breakout: Why Wall Street is Torn Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "JNJ",
+      "tickers_hint": [
+        "JNJ"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JNJ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "82650def-d567-5d3b-9f09-4597206bdb10",
+      "timestamp_utc": "2026-04-01T18:58:38+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORmx2ZlV2Y1BEcEdlV0FMOGFwX2tUVll1aDVPM3ZHQmVpZVc4NjdxOVh6ZzdxejhZM1NlSlFvMHZ1aUN4R1RwY2doUV9xSjVjSlRodlBEbmNCZ1o2WkNWRXFwd3NjbTFTMnhXN2hrdXFia05vczJJd3VrM1ZlbTdOTUNZVnhUTkU1QU1JQkRzbVZKT3k0Vk90dnk1c0RlOGNnM1E?oc=5",
+      "title": "Johnson & Johnson (JNJ): Billionaire Ray Dalio Trims Position - Yahoo Finance",
+      "body": "Johnson & Johnson (JNJ): Billionaire Ray Dalio Trims Position Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "JNJ",
+      "tickers_hint": [
+        "JNJ"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JNJ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "12838341-8bfb-5b4f-a427-c7d7a6c6d49e",
+      "timestamp_utc": "2026-04-03T09:40:15+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-johnson-johnson-jnj-stock-holdings-lifted-by-royal-fund-management-llc-2026-04-03/",
+      "title": "Johnson & Johnson $JNJ Stock Holdings Lifted by Royal Fund Management LLC - MarketBeat",
+      "body": "Johnson & Johnson $JNJ Stock Holdings Lifted by Royal Fund Management LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JNJ",
+      "tickers_hint": [
+        "JNJ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "JNJ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ba940ccf-3a01-54d8-bd3f-1f4c02aae89f",
+      "timestamp_utc": "2026-04-03T09:40:15+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-shrier-wealth-management-llc-acquires-shares-of-12462-johnson-johnson-jnj-2026-04-03/",
+      "title": "Shrier Wealth Management LLC Acquires Shares of 12,462 Johnson & Johnson $JNJ - MarketBeat",
+      "body": "Shrier Wealth Management LLC Acquires Shares of 12,462 Johnson & Johnson $JNJ MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JNJ",
+      "tickers_hint": [
+        "JNJ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "JNJ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5d1c02d2-3d53-5d8f-8078-819870773c40",
+      "timestamp_utc": "2026-04-02T08:06:39+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-11271-shares-in-johnson-johnson-jnj-bought-by-financial-planning-hawaii-inc-2026-04-02/",
+      "title": "11,271 Shares in Johnson & Johnson $JNJ Bought by Financial Planning Hawaii Inc. - MarketBeat",
+      "body": "11,271 Shares in Johnson & Johnson $JNJ Bought by Financial Planning Hawaii Inc. MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JNJ",
+      "tickers_hint": [
+        "JNJ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "JNJ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "63892dc3-2059-5faf-a746-bca68024593d",
+      "timestamp_utc": "2026-04-01T13:00:05+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc0xoZ2luY3NfWFdTYzRSRGJOTnRSQnozYmFrc1pvTFNZRzBSN0c5eGI1NEZsMU8yekJXb3cwTnZOYUNKUkhSQjZya2p5Nk5BemRHSjl0SWpuRFNES0M3a2ZPWnVkSlQ2bnhiUmNFRnp1RFFZaU5aMjJCcUdUQmRDY3d2bTBKN2ZxZWFN?oc=5",
+      "title": "Johnson & Johnson (JNJ) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance Singapore",
+      "body": "Johnson & Johnson (JNJ) Is a Trending Stock: Facts to Know Before Betting on It Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "JNJ",
+      "tickers_hint": [
+        "JNJ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JNJ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "e091e3d8-152d-58d5-87c8-635e1bb9885e",
+      "timestamp_utc": "2026-04-01T16:10:03+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-jnj-beat-estimates-161003737.html",
+      "title": "Will Johnson & Johnson (JNJ) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
+      "body": "Will Johnson & Johnson (JNJ) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "JNJ",
+      "tickers_hint": [
+        "JNJ"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "JNJ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8c1bed66-5021-585e-ba92-6dc809939cb0",
+      "timestamp_utc": "2026-04-02T13:35:15+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMDBPREVsNnByR1hBOVRqclk1OUhkcUpwQWVjV0hNZndBTEx0ckQ5Ty1iazRkemJ5QkJITkw2OTdZZUUyR2xhNTFBME4tcExnLUpaR0NEZUhteThJaWQ3MWtoSGlKd3NSRjl0TmdiUlBVcVFhWEdIb3M2a0NPVkRYajJmeHg1bDJSeTF4ZDg0c2lRNHAyaW1JcTNfSVo?oc=5",
+      "title": "Why Johnson & Johnson (JNJ) Is One of the Best Pharma Stocks to Invest in Now - Yahoo Finance",
+      "body": "Why Johnson & Johnson (JNJ) Is One of the Best Pharma Stocks to Invest in Now Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "JNJ",
+      "tickers_hint": [
+        "JNJ"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JNJ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8e7626d1-1bbf-53b4-95bf-7d80a6b97da8",
+      "timestamp_utc": "2026-04-02T12:01:00+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX2dubjJUUlVxYjB2Mk5iUkE5TC1Na0JxSEtyaDNUZEdvakx3MlRaN3RaYkoxVUVCTlBlVkhFcl9FY1c5X2NaUHdYcXdlZTkxcGlnNVVzWWNzZ3Bud3I4Zy1PMll0NEExaUdWeXFUZEMtZzlqN0hPM0RUakd2S1N6NG5PWVJ1YkZhLWZiOWZmeVlsMkFq?oc=5",
+      "title": "JNJ Stock’s 60% Breakout: Why Wall Street is Torn - Yahoo Finance",
+      "body": "JNJ Stock’s 60% Breakout: Why Wall Street is Torn Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "JNJ",
+      "tickers_hint": [
+        "JNJ"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JNJ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "82650def-d567-5d3b-9f09-4597206bdb10",
+      "timestamp_utc": "2026-04-01T18:58:38+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORmx2ZlV2Y1BEcEdlV0FMOGFwX2tUVll1aDVPM3ZHQmVpZVc4NjdxOVh6ZzdxejhZM1NlSlFvMHZ1aUN4R1RwY2doUV9xSjVjSlRodlBEbmNCZ1o2WkNWRXFwd3NjbTFTMnhXN2hrdXFia05vczJJd3VrM1ZlbTdOTUNZVnhUTkU1QU1JQkRzbVZKT3k0Vk90dnk1c0RlOGNnM1E?oc=5",
+      "title": "Johnson & Johnson (JNJ): Billionaire Ray Dalio Trims Position - Yahoo Finance",
+      "body": "Johnson & Johnson (JNJ): Billionaire Ray Dalio Trims Position Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "JNJ",
+      "tickers_hint": [
+        "JNJ"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JNJ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "12838341-8bfb-5b4f-a427-c7d7a6c6d49e",
+      "timestamp_utc": "2026-04-03T09:40:15+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-johnson-johnson-jnj-stock-holdings-lifted-by-royal-fund-management-llc-2026-04-03/",
+      "title": "Johnson & Johnson $JNJ Stock Holdings Lifted by Royal Fund Management LLC - MarketBeat",
+      "body": "Johnson & Johnson $JNJ Stock Holdings Lifted by Royal Fund Management LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JNJ",
+      "tickers_hint": [
+        "JNJ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "JNJ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ba940ccf-3a01-54d8-bd3f-1f4c02aae89f",
+      "timestamp_utc": "2026-04-03T09:40:15+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-shrier-wealth-management-llc-acquires-shares-of-12462-johnson-johnson-jnj-2026-04-03/",
+      "title": "Shrier Wealth Management LLC Acquires Shares of 12,462 Johnson & Johnson $JNJ - MarketBeat",
+      "body": "Shrier Wealth Management LLC Acquires Shares of 12,462 Johnson & Johnson $JNJ MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JNJ",
+      "tickers_hint": [
+        "JNJ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "JNJ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5d1c02d2-3d53-5d8f-8078-819870773c40",
+      "timestamp_utc": "2026-04-02T08:06:39+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-11271-shares-in-johnson-johnson-jnj-bought-by-financial-planning-hawaii-inc-2026-04-02/",
+      "title": "11,271 Shares in Johnson & Johnson $JNJ Bought by Financial Planning Hawaii Inc. - MarketBeat",
+      "body": "11,271 Shares in Johnson & Johnson $JNJ Bought by Financial Planning Hawaii Inc. MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JNJ",
+      "tickers_hint": [
+        "JNJ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "JNJ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "63892dc3-2059-5faf-a746-bca68024593d",
+      "timestamp_utc": "2026-04-01T13:00:05+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc0xoZ2luY3NfWFdTYzRSRGJOTnRSQnozYmFrc1pvTFNZRzBSN0c5eGI1NEZsMU8yekJXb3cwTnZOYUNKUkhSQjZya2p5Nk5BemRHSjl0SWpuRFNES0M3a2ZPWnVkSlQ2bnhiUmNFRnp1RFFZaU5aMjJCcUdUQmRDY3d2bTBKN2ZxZWFN?oc=5",
+      "title": "Johnson & Johnson (JNJ) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance Singapore",
+      "body": "Johnson & Johnson (JNJ) Is a Trending Stock: Facts to Know Before Betting on It Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "JNJ",
+      "tickers_hint": [
+        "JNJ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JNJ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

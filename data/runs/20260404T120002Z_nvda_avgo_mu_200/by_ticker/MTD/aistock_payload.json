@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "e0c9dc12-9eb7-541c-a677-ff056273c575",
+      "timestamp_utc": "2026-04-03T21:32:03+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zNDl4ZFA1SzBUTVRvWTV3M1luVFl3d0NSNVBGUWIyX3ZiMndnZk96VGVYbGFxbGJmekZYNlJrWXJ5S3BOYzJiRmN2aU5ENTZa?oc=5",
+      "title": "Mettler-Toledo International Inc. (MTD) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Mettler-Toledo International Inc. (MTD) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "MTD",
+      "tickers_hint": [
+        "MTD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MTD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "e0c9dc12-9eb7-541c-a677-ff056273c575",
+      "timestamp_utc": "2026-04-03T21:32:03+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zNDl4ZFA1SzBUTVRvWTV3M1luVFl3d0NSNVBGUWIyX3ZiMndnZk96VGVYbGFxbGJmekZYNlJrWXJ5S3BOYzJiRmN2aU5ENTZa?oc=5",
+      "title": "Mettler-Toledo International Inc. (MTD) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Mettler-Toledo International Inc. (MTD) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "MTD",
+      "tickers_hint": [
+        "MTD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MTD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

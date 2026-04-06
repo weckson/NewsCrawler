@@ -1,0 +1,60 @@
+[
+  {
+    "id": "96af151b-0785-5615-a643-6f2383ce2e5a",
+    "timestamp_utc": "2026-04-03T23:50:53+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyMEIwbVh0WUhjZ25ZOHFRbHBYM0FqVU9tSkpEUEtSNml6ZFE2N1dHTlpRSnlwSmdWRHlEUDJVcTBLM21WODl6dFVlM3N0dWJibGxuOXc3eDV4TFF4UUZIV3AyOEg?oc=5",
+    "title": "ACCENTURE PLC CEDEAR EACH 75 RE (ACN.BA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "body": "ACCENTURE PLC CEDEAR EACH 75 RE (ACN.BA) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "author": null,
+    "language": "en",
+    "ticker": "ACN",
+    "tickers_hint": [
+      "ACN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo! finance canada",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "ACN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "abfed3d4-b634-5c04-b3d1-9e60d5878687",
+    "timestamp_utc": "2026-04-03T22:06:38+00:00",
+    "source": "yahoo_finance_singapore",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45Z29OSGdLa3U2bzF5Y3JZRUNfZWhqeG5FRHpGeU00b21tNTFYa3BkNmJTQ0ZuTDVDWGlWb205R21aRkpYRnNpdmN2V0ZhUlBLYWhIMVdCYw?oc=5",
+    "title": "Accenture plc (ACN) latest stock news and headlines - Yahoo Finance Singapore",
+    "body": "Accenture plc (ACN) latest stock news and headlines Yahoo Finance Singapore",
+    "author": null,
+    "language": "en",
+    "ticker": "ACN",
+    "tickers_hint": [
+      "ACN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo finance singapore",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance Singapore",
+      "source_domain": "yahoofinancesingapore.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "ACN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

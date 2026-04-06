@@ -1,0 +1,157 @@
+
+============================================================================================
+  AMD NEWS REPORT — Quality Filtered, 2026-04-02 14:53
+============================================================================================
+
+  CRAWL STATS:
+  Channel                      Raw Description
+  ------------------------- ------ ----------------------------------------
+  AMD-IR                        10 Official AMD Investor Relations press releases RSS
+  BZ-RSS                        25 Official Benzinga RSS /feed + /news/feed
+  BZ-via-Google                200 Google News filtered to site:benzinga.com
+  Google-broad                 200 Google News all financial sources
+  TOTAL                        435
+
+  QUALITY PIPELINE:
+    Raw articles:        435
+    After quality filter:   21  (removed 414 junk/irrelevant/dupes)
+    New saved to DB:      21
+    Benzinga articles:     2  (direct Benzinga coverage)
+
+  ANTI-SCRAPE STRATEGY:
+    - Benzinga HTML: SKIPPED (Cloudflare JS challenge blocks simple HTTP)
+    - Benzinga RSS:  /feed + /news/feed (no CF, structured XML)
+    - Google->BZ:    site:benzinga.com (Google already crawled, no CF)
+    - Polite crawl:  2s delay, standard UA, no JS execution needed
+
+  ── BENZINGA ARTICLES (2) ──
+
+    1. [TOP] [04-01 17:20] [rel:0.60] [Google-broad]
+       What's Going On With AMD Stock Wednesday? - Advanced Micro Devices (NASDAQ:AMD)
+       Source: Benzinga
+       > What's Going On With AMD Stock Wednesday? - Advanced Micro Devices (NASDAQ:AMD) Benzinga
+       https://www.benzinga.com/markets/tech/26/04/51607524/amd-says-space-needs-smarter-chips-now-and-its-ready-to-deliver
+
+    2. [TOP] [03-31 18:47] [rel:0.50] [BZ-via-Google]
+       Why Nvidia And Tesla Are Suddenly Knocking On Samsung's Door - Apple (NASDAQ:AAPL), Advanced Micro Device
+       Source: Benzinga
+       > Why Nvidia And Tesla Are Suddenly Knocking On Samsung's Door - Apple (NASDAQ:AAPL), Advanced Micro Device Benzinga
+       https://news.google.com/rss/articles/CBMipwFBVV95cUxQWnRXVEhaeFdnVDVZSmF1dUQwVFVQQlVYSGgxeExRV1B5Yi1XQ2RCcGlSOXBIYV9Ba0p
+
+  ── OTHER SOURCES (19) ──
+
+    1. [TOP] [04-01 19:42] [rel:0.65] [Google-broad]
+       Advanced Micro Devices, Inc. (AMD) and Samsung Deepen Ties to Power Next Generation AI Infrastructure
+       Source: Yahoo Finance
+       > Advanced Micro Devices, Inc. (AMD) and Samsung Deepen Ties to Power Next Generation AI Infrastructure Yahoo Finance
+       https://finance.yahoo.com/sectors/technology/articles/advanced-micro-devices-inc-amd-194253901.html
+
+    2. [TOP] [04-01 15:21] [rel:0.65] [Google-broad]
+       Advanced Micro Devices (AMD): D. E. Shaw Is Loading Up on This Chip Stock
+       Source: Yahoo Finance
+       > Advanced Micro Devices (AMD): D. E. Shaw Is Loading Up on This Chip Stock Yahoo Finance
+       https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-d-152120534.html
+
+    3. [OK ] [04-01 14:48] [rel:0.65] [Google-broad]
+       Wall Street Flags Advanced Micro Devices as a Buy Before Earnings
+       Source: 24/7 Wall St.
+       > Wall Street Flags Advanced Micro Devices as a Buy Before Earnings 24/7 Wall St.
+       https://247wallst.com/investing/2026/04/01/wall-street-flags-advanced-micro-devices-as-a-buy-before-earnings/
+
+    4. [OK ] [04-01 14:24] [rel:0.65] [Google-broad]
+       Intel Jumps 8%, AMD Rises 3%: A $14.2 Billion Fab Deal and AI Momentum Lift the Chip Sector
+       Source: 24/7 Wall St.
+       > Intel Jumps 8%, AMD Rises 3%: A $14.2 Billion Fab Deal and AI Momentum Lift the Chip Sector 24/7 Wall St.
+       https://247wallst.com/investing/2026/04/01/intel-jumps-8-amd-rises-3-a-14-2-billion-fab-deal-and-ai-momentum-lift-the-ch
+
+    5. [low] [04-02 13:58] [rel:0.65] [Google-broad]
+       Advanced Micro Devices, Inc. Stock: Navigating AI Momentum and Market Challenges in 2026
+       Source: AD HOC NEWS
+       > Advanced Micro Devices, Inc. Stock: Navigating AI Momentum and Market Challenges in 2026 AD HOC NEWS
+       https://www.ad-hoc-news.de/boerse/news/ueberblick/advanced-micro-devices-inc-stock-navigating-ai-momentum-and-market/690
+
+    6. [low] [04-02 11:36] [rel:0.65] [Google-broad]
+       Matauro LLC Has $2.04 Million Stake in Advanced Micro Devices, Inc. $AMD
+       Source: MarketBeat
+       > Matauro LLC Has $2.04 Million Stake in Advanced Micro Devices, Inc. $AMD MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-matauro-llc-has-204-million-stake-in-advanced-micro-devices-inc-amd-202
+
+    7. [low] [04-01 21:48] [rel:0.65] [Google-broad]
+       Advanced Micro Devices (NASDAQ:AMD) Stock Price Up 3.3% - Here's Why
+       Source: MarketBeat
+       > Advanced Micro Devices (NASDAQ:AMD) Stock Price Up 3.3% - Here's Why MarketBeat
+       https://www.marketbeat.com/instant-alerts/advanced-micro-devices-nasdaqamd-stock-price-up-33-heres-why-2026-04-01/
+
+    8. [low] [04-01 21:07] [rel:0.65] [Google-broad]
+       Why is Advanced Micro Devices stock gaining today? By Investing.com
+       Source: Investing.com South Africa
+       > Why is Advanced Micro Devices stock gaining today? By Investing.com Investing.com South Africa
+       https://news.google.com/rss/articles/CBMiqAFBVV95cUxPemtSN3g0Yy1UeWJWQldFN0dCbXlidHdnNmM2UTZkUXk4MVBoemg5eTZtdHBqZ1UyUWd
+
+    9. [low] [04-01 11:13] [rel:0.65] [Google-broad]
+       Advanced Micro Devices, Inc. $AMD Shares Acquired by Highline Wealth Partners LLC
+       Source: MarketBeat
+       > Advanced Micro Devices, Inc. $AMD Shares Acquired by Highline Wealth Partners LLC MarketBeat
+       https://news.google.com/rss/articles/CBMi1gFBVV95cUxObWhXNV9TZTc4YmY4WGVWaW5IaC16VjdxaUh3YW1tWVJJUzNSNnlTcThGekVYdDU2Y0h
+
+   10. [low] [04-01 11:13] [rel:0.65] [Google-broad]
+       Advanced Micro Devices, Inc. $AMD is Gunderson Capital Management Inc.'s 8th Largest Position
+       Source: MarketBeat
+       > Advanced Micro Devices, Inc. $AMD is Gunderson Capital Management Inc.'s 8th Largest Position MarketBeat
+       https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQV9yeVRxZHBmSmFoWjdHYU9lVTFXVHdDR0J0MXBjQUwwNHBSeEJ1UjlmckNRdmVNYWQ
+
+   11. [low] [04-01 11:05] [rel:0.65] [Google-broad]
+       Nisa Investment Advisors LLC Boosts Stock Position in Advanced Micro Devices, Inc. $AMD
+       Source: MarketBeat
+       > Nisa Investment Advisors LLC Boosts Stock Position in Advanced Micro Devices, Inc. $AMD MarketBeat
+       https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVG1SWjBPRXprTGdBb1h3S0lwQkoxYnB6alZtUFpTLUdnaWJWckUwdmRCUi04bGRSbFV
+
+   12. [low] [04-01 10:06] [rel:0.65] [Google-broad]
+       Advanced Micro Devices, Inc. $AMD Stake Reduced by J. Safra Sarasin Holding AG
+       Source: MarketBeat
+       > Advanced Micro Devices, Inc. $AMD Stake Reduced by J. Safra Sarasin Holding AG MarketBeat
+       https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUVFadGY4Y1FRaF9uUnNaVERhS2p0UWQyV0ZfVjdSX01UM1F4dzktTDBQUVlRYkl1SF8
+
+   13. [low] [03-31 21:30] [rel:0.65] [Google-broad]
+       Advanced Micro Devices (NASDAQ:AMD) Trading Up 3.8% - Still a Buy?
+       Source: MarketBeat
+       > Advanced Micro Devices (NASDAQ:AMD) Trading Up 3.8% - Still a Buy? MarketBeat
+       https://news.google.com/rss/articles/CBMisgFBVV95cUxNMmI2VExQSmxMOElQekJQWllhYXp3QmR5MVBfci1MTlduWW9DblAzb0d2dmUyM05yQ0x
+
+   14. [low] [04-01 18:57] [rel:0.60] [Google-broad]
+       Advanced Micro Devices Inc. (AMD): Billionaire Ray Dalio Trims Stake
+       Source: Yahoo Finance UK
+       > Advanced Micro Devices Inc. (AMD): Billionaire Ray Dalio Trims Stake Yahoo Finance UK
+       https://news.google.com/rss/articles/CBMihgFBVV95cUxPQjF4YzV0NGo1NjhpZEFGbVpfbkxudFVSbUVJOEl2RVZPNm90TXU2TF9QVnhXX2M2TjB
+
+   15. [low] [04-01 15:22] [rel:0.60] [Google-broad]
+       Why Advanced Micro Devices Stock Is Climbing Today
+       Source: GuruFocus
+       > Why Advanced Micro Devices Stock Is Climbing Today GuruFocus
+       https://news.google.com/rss/articles/CBMikwFBVV95cUxOR0dRb0hGZkVlMnlvZ3BJWUpVcW9ZZGRPclpxX09CQWNfYUNBeDhXYWRiSW1BamEydUt
+
+   16. [low] [04-01 14:25] [rel:0.60] [Google-broad]
+       Bye Bye, AMD! Cathie Wood Ditches 57K Advanced Micro Shares
+       Source: Barchart.com
+       > Bye Bye, AMD! Cathie Wood Ditches 57K Advanced Micro Shares Barchart.com
+       https://news.google.com/rss/articles/CBMiowFBVV95cUxNMzdXVThaWGxvX3lONHpISWY3YTFCOGt1WEtoTngwVlJUTzFhYnRTcFFFcUJRV3lyZmZ
+
+   17. [low] [04-01 13:45] [rel:0.60] [Google-broad]
+       Why Advanced Micro Devices (AMD) is a Top Growth Stock for the Long-Term
+       Source: Yahoo Finance Singapore
+       > Why Advanced Micro Devices (AMD) is a Top Growth Stock for the Long-Term Yahoo Finance Singapore
+       https://news.google.com/rss/articles/CBMihgFBVV95cUxNS3FONmd0c3dBZ1RFLW1TWXgwcm9lTF9oZnlaaDlDMnV0UTRXSTg4SXRObG5VZjNYckF
+
+   18. [low] [04-01 13:42] [rel:0.60] [Google-broad]
+       The Silicon Phoenix: Advanced Micro Devices (AMD) and the Architecture of 2026
+       Source: FinancialContent
+       > The Silicon Phoenix: Advanced Micro Devices (AMD) and the Architecture of 2026 FinancialContent
+       https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZXI4RzlWTWtOUnhnLTZSVG1QZVp6dGtxTG4xNGNaMjRNb0ZsbV9oTnJqbkczWkNVVkd
+
+   19. [low] [04-01 02:05] [rel:0.60] [Google-broad]
+       Advanced Micro Devices Stock Maintains Bullish Outlook Amid Global Tensions
+       Source: AD HOC NEWS
+       > Advanced Micro Devices Stock Maintains Bullish Outlook Amid Global Tensions AD HOC NEWS
+       https://news.google.com/rss/articles/CBMivAFBVV95cUxPM2RXTFFqZ3JpRDVWWTZmaUxvQW10aUZtYUtWQ2Jxbm9nUFVaYW41NFNXbThFbVJLYVd
+
+============================================================================================

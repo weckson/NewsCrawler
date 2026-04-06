@@ -1,0 +1,89 @@
+[
+  {
+    "id": "65e6d952-435c-5e37-a7a7-de783b829987",
+    "timestamp_utc": "2026-04-02T14:15:59+00:00",
+    "source": "investing.com",
+    "url": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-dollar-general-stock-rating-on-momentum-ceo-transition-93CH-4595858",
+    "title": "UBS reiterates Dollar General stock rating on momentum, CEO transition - Investing.com",
+    "body": "UBS reiterates Dollar General stock rating on momentum, CEO transition Investing.com",
+    "author": null,
+    "language": "en",
+    "ticker": "DG",
+    "tickers_hint": [
+      "DG"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "investing.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Investing.com",
+      "source_domain": "investing.com",
+      "trust_tier": 2,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "DG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "5099ad6d-d958-57a0-b9e0-235ef0b9b819",
+    "timestamp_utc": "2026-04-01T07:23:04+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-assenagon-asset-management-sa-cuts-position-in-dollar-general-corporation-dg-2026-04-01/",
+    "title": "Assenagon Asset Management S.A. Cuts Position in Dollar General Corporation $DG - MarketBeat",
+    "body": "Assenagon Asset Management S.A. Cuts Position in Dollar General Corporation $DG MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "DG",
+    "tickers_hint": [
+      "DG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "DG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "b1b6ea14-3a5a-5b94-a064-da00edab364c",
+    "timestamp_utc": "2026-04-01T10:55:00+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZkZyMXNqMExySE9ZM1JrcDlqTzNJYjBEVF9KRGNKVjRoeVVBcHRIMmVHa3NIYjJqb09VY3FIZE1oUC0wdFJUY2pIcklyRVp1aFVqT2YtcG5sU09MQ0pwVURxMlp5SDhreHc0S2w0TEpLVnBuRWtHT0RsV0U4UU5hUFN5NXF3TVpnRjZYV282QXhJSXRJZVZBR2ZXbnZyNzl3RFFrd0ZJaGhqcGZDTmlVM2VOQlk1Zw?oc=5",
+    "title": "Dollar General rolls out 50-plus home items priced from $1 - Stock Titan",
+    "body": "Dollar General rolls out 50-plus home items priced from $1 Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "DG",
+    "tickers_hint": [
+      "DG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "DG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

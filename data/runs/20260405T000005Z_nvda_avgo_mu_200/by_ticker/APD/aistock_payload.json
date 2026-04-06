@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "9d6a8f3c-b996-59b2-9e0c-561f6304ecf3",
+      "timestamp_utc": "2026-04-04T12:14:01+00:00",
+      "source": "intellectia.ai",
+      "url": "https://intellectia.ai/en/stock/APD/technical",
+      "title": "APD Technical Analysis & Stock Price Forecast - intellectia.ai",
+      "body": "APD Technical Analysis & Stock Price Forecast intellectia.ai",
+      "author": null,
+      "language": "en",
+      "ticker": "APD",
+      "tickers_hint": [
+        "APD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia.ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "intellectia.ai",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "APD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "29ae1ddb-3b84-5416-a20d-6ef84f265c7f",
+      "timestamp_utc": "2026-04-03T19:56:01+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NX0lpZ19LWTZzYUVJMlNnZUFsWXloVUNwVkxmcmM4c0JzVjFlUkIwakRQWEQtaE01UjdZX0g1LU04N2hDZEp3akxzLUI4NkxN?oc=5",
+      "title": "Air Products and Chemicals, Inc. (APD) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Air Products and Chemicals, Inc. (APD) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "APD",
+      "tickers_hint": [
+        "APD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "APD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "9d6a8f3c-b996-59b2-9e0c-561f6304ecf3",
+      "timestamp_utc": "2026-04-04T12:14:01+00:00",
+      "source": "intellectia.ai",
+      "url": "https://intellectia.ai/en/stock/APD/technical",
+      "title": "APD Technical Analysis & Stock Price Forecast - intellectia.ai",
+      "body": "APD Technical Analysis & Stock Price Forecast intellectia.ai",
+      "author": null,
+      "language": "en",
+      "ticker": "APD",
+      "tickers_hint": [
+        "APD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia.ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "intellectia.ai",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "APD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "29ae1ddb-3b84-5416-a20d-6ef84f265c7f",
+      "timestamp_utc": "2026-04-03T19:56:01+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NX0lpZ19LWTZzYUVJMlNnZUFsWXloVUNwVkxmcmM4c0JzVjFlUkIwakRQWEQtaE01UjdZX0g1LU04N2hDZEp3akxzLUI4NkxN?oc=5",
+      "title": "Air Products and Chemicals, Inc. (APD) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Air Products and Chemicals, Inc. (APD) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "APD",
+      "tickers_hint": [
+        "APD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "APD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

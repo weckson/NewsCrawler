@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "19fd67ca-659a-5247-9857-8359daa8d0c4",
+      "timestamp_utc": "2026-04-04T15:05:59+00:00",
+      "source": "intellectia.ai",
+      "url": "https://intellectia.ai/en/stock/ADSK/earnings",
+      "title": "ADSK Earning Date, Earning Analysis and Earning Prediction - intellectia.ai",
+      "body": "ADSK Earning Date, Earning Analysis and Earning Prediction intellectia.ai",
+      "author": null,
+      "language": "en",
+      "ticker": "ADSK",
+      "tickers_hint": [
+        "ADSK"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia.ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "intellectia.ai",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADSK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "19fd67ca-659a-5247-9857-8359daa8d0c4",
+      "timestamp_utc": "2026-04-04T15:05:59+00:00",
+      "source": "intellectia.ai",
+      "url": "https://intellectia.ai/en/stock/ADSK/earnings",
+      "title": "ADSK Earning Date, Earning Analysis and Earning Prediction - intellectia.ai",
+      "body": "ADSK Earning Date, Earning Analysis and Earning Prediction intellectia.ai",
+      "author": null,
+      "language": "en",
+      "ticker": "ADSK",
+      "tickers_hint": [
+        "ADSK"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia.ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "intellectia.ai",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADSK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,1368 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "ff1b3c07-6089-543a-bca3-13d54abe0156",
+      "timestamp_utc": "2026-04-02T14:35:46+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNEljMWxHMVE4MGFab0hrczFyVUFqNno4SmJDSmF0bzFxVXpHOVRVRENoa3k5V0ZfdER2a1pmdF9rQjJ6d0t1YnN2SGdsUDJwREpyMzJZMEtqbTRLbS1QTG5CVFM2TzktbHNVOGxvWFlLdlFucUhNQTQ1WFJEWVVkZ0VoLVdYMVpTeWdRRXdOMjBoQXRqdFpldTlfc1RkdUtOM0RSR2FJS3BpVHk5Vk04NTdOYlN6ZWdqODNlNGhiZk40MWdQbzNncU5xN2drY2s0cEZPM2NfcFB5Z3BSMTFoUHozanBNdWFRbVpzYTllWTUyRlpIRVpBTzBkem5MZw?oc=5",
+      "title": "EXCLUSIVE: Top 12 Most-Searched Tickers On Benzinga Pro In March – Where Do Tesla, Nvidia, Micron Stocks Rank? - Benzinga",
+      "body": "EXCLUSIVE: Top 12 Most-Searched Tickers On Benzinga Pro In March – Where Do Tesla, Nvidia, Micron Stocks Rank? Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU",
+        "NVDA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU",
+          "NVDA"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7bcb8d25-b6e7-5a07-bbea-c5cca4bb0e32",
+      "timestamp_utc": "2026-04-03T12:41:36+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/can-micron-stock-mu-continue-its-strong-run-on-memory-demand-analysts-weigh-in",
+      "title": "Can Micron Stock (MU) Continue its Strong Run on Memory Demand? Analysts Weigh in - TipRanks",
+      "body": "Can Micron Stock (MU) Continue its Strong Run on Memory Demand? Analysts Weigh in TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "57393be1-864f-5cd2-b32f-521c9558b28f",
+      "timestamp_utc": "2026-04-02T18:58:50+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rosenblatt-bullish-micron-technology-mu-185850281.html",
+      "title": "Rosenblatt Bullish on Micron Technology (MU) Amid Strong Revenue Growth - Yahoo Finance",
+      "body": "Rosenblatt Bullish on Micron Technology (MU) Amid Strong Revenue Growth Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "82860c6f-b699-5388-9c06-41d382fac657",
+      "timestamp_utc": "2026-04-02T15:38:30+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/are-micron-mu-and-sandisk-sndk-stocks-overvalued-after-ai-driven-rally",
+      "title": "Are Micron (MU) and SanDisk (SNDK) Stocks Overvalued after AI-Driven Rally? - TipRanks",
+      "body": "Are Micron (MU) and SanDisk (SNDK) Stocks Overvalued after AI-Driven Rally? TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU",
+        "SNDK"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU",
+          "SNDK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e01cd0b8-511e-5146-a99f-196c3a03eab5",
+      "timestamp_utc": "2026-04-02T15:41:13+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/article/4888104-micron-the-peak-memory-myth",
+      "title": "Micron: The Peak Memory Myth (NASDAQ:MU) - Seeking Alpha",
+      "body": "Fears of peak memory are overblown in our opinion, and one victim since reporting its stellar earnings just a few weeks ago has been Micron Technology, Inc. (MU). Make no mistake at all\n\nMarket volatility isn't a threat, it’s an opportunity. While the average investor is panicking, the BAD BEAT Investing community is pinpointing entries and securing rapid returns. We give you a unique playbook that combines high-conviction rapid-return trades with deep-value dividends to secure your retirement. Get in ahead of the $200 price hike May 1st!\n\nThere is a money back guarantee if you are not satisfied (you will be). Win with ideas from a team with a proven track record. Come take the next step!\n\nAnalyst’s Disclosure: I/we have a beneficial long position in the shares of MU either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "56b4fcb4-6489-5cc6-a7a3-f0200c8395d3",
+      "timestamp_utc": "2026-04-02T10:42:48+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/why-did-a-top-insider-sell-micron-stock-mu-today-after-it-skyrocketed",
+      "title": "Why Did a Top Insider Sell Micron Stock (MU) Today After It Skyrocketed? - TipRanks",
+      "body": "Why Did a Top Insider Sell Micron Stock (MU) Today After It Skyrocketed? TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d2b4a382-d6bd-5d31-9341-b27e3681f86e",
+      "timestamp_utc": "2026-04-02T19:08:00+00:00",
+      "source": "barrons",
+      "url": "https://www.barrons.com/articles/micron-stock-sandisk-google-turboquant-mizuho-7ddb2e4a?gaa_at=eafs&gaa_n=AWEtsqcAR0-k-acztUQthBsjEpmahNZYAHYqU0r50kbj5Zo03hwNSDN7nF_j&gaa_ts=69d0c8ad&gaa_sig=3zDq1RIEW1O01HabsaEzoGzRQ7vN8DAj8WWbhbPni_XpY_vVuH8acWPasHpoX9J7FS_R2e96Rgds0MyfHf-dzQ%3D%3D",
+      "title": "Micron and Sandisk Stock Have Been in a Slump. Buy the Pullback, Analyst Says. - Barron's",
+      "body": "Micron and Sandisk Stock Have Been in a Slump. Buy the Pullback, Analyst Says. Barron's",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "barrons.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Barron's",
+        "source_domain": "barrons.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "eee0c638-4eaa-5de2-9138-17cdb531195c",
+      "timestamp_utc": "2026-04-02T13:30:00+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/04/51618934/stock-market-today-sp-500-dow-futures-plunge-as-trump-re-escalates-war-with-iran-micron-technology-ibm-general-motors-in-focus",
+      "title": "Stock Market Today: S&P 500, Nasdaq Futures Plunge As Trump 'Re-Escalates' War With Iran— Micron Technolo - Benzinga",
+      "body": "Stock Market Today: S&P 500, Nasdaq Futures Plunge As Trump 'Re-Escalates' War With Iran— Micron Technolo Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1c18fe3a-6fc1-5775-ab23-485842ae0a3b",
+      "timestamp_utc": "2026-04-02T10:25:20+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/04/51620134/jim-cramer-says-micron-technology-other-memory-rivals-are-sitting-on-gold-mine-amid-ai-storage-crunch",
+      "title": "Jim Cramer Says Micron Technology, Other Memory Rivals Are Sitting On 'Gold Mine' Amid AI Storage Crunch - Benzinga",
+      "body": "Jim Cramer Says Micron Technology, Other Memory Rivals Are Sitting On 'Gold Mine' Amid AI Storage Crunch Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0ad276ef-b897-5f93-b040-55232f8be80b",
+      "timestamp_utc": "2026-04-04T05:14:59+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PVExUdWNyV3lucW1ncGlkTzdPQlNLdFBOaHZzQUpjdmwtNXpvV3NYRzk1QU1od1JFbS1ab0hTYlRuYWVyWC1DVkNvLUo0clpZZnFkclBQUHI3NlJsLUNDcnJlbnFNaXNSeUZIc3l4NGIyVzVvT2c?oc=5",
+      "title": "Micron Could Be The Next Intel - Seeking Alpha",
+      "body": "Micron Could Be The Next Intel Seeking Alpha",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "db717d8a-e735-551d-a8b3-b0805106716d",
+      "timestamp_utc": "2026-04-03T18:23:00+00:00",
+      "source": "motley_fool",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNakotYUFrdW9XSkFOeHNiM3JUeUdWUWR0aGs0aWFHRGpMYjRCLTdIcjg0a1kyYUxVd2lqbUZIQWpQR3M1VDZOeTdWalZiOHh2SDdRcm5VdHB4TGl0QmljdjgxOGJlaGNXSlNIZkswbW9Fb0pJd2hGeG9VUTVzLTNaU1k0RjZidw?oc=5",
+      "title": "Why Micron Stock Slumped 18% in March - The Motley Fool",
+      "body": "Why Micron Stock Slumped 18% in March The Motley Fool",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "fool.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Motley Fool",
+        "source_domain": "fool.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "51e2d7f8-d66f-57d8-80f7-3d2f6f9b7c11",
+      "timestamp_utc": "2026-04-02T12:43:43+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVzluYTFxZGczUWtzTHhwLUdaNHVnSTNPeWp4S3NFSzlud1p3VGFEaTloMVAwMnpLcUNia3IzdWFycm9IeDlvZGFuRGtyZ1gtaU1OME9qazNnaUo2NGhHM05UVi1IdE50M2NHQmUtekJ5aGNaZGdZVUtnNGV3ZlotWV96QVRsS09MMm56NnBwYw?oc=5",
+      "title": "Micron, Sandisk dips should be bought, Mizuho says (MU:NASDAQ) - Seeking Alpha",
+      "body": "Micron, Sandisk dips should be bought, Mizuho says (MU:NASDAQ) Seeking Alpha",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9ad46e3c-8b97-5385-a08e-d4fe5055cab4",
+      "timestamp_utc": "2026-04-02T11:42:00+00:00",
+      "source": "the_globe_and_mail",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPT3lLS1E0Y1ZveXpwdmhkTFJrSDFDWnBGUUhROU80c2dHWmR4TFdpM3B1NjZWZFQxTzJxRF95bklEZ0hZOUhMZU56UEthNGpXUnYwWjExQ2owaTJtN1ptRThXTGlYYXdIVnFUM0kwN2RzbGFRY3JfSFJicGJiWmNfcFJUNlRnc0tScVZEbDVEbTVROVZkWHN1M3hsNXhLTGo5UFk2Q2wzbnRyQkRWZGw4My1ranlxb3ZndmZhR215NjNzNFFHSGd1RF93VVhYU2JCTFUwZU5hLXlvMy1JdnVtUHFGV0JEdmpwMEZZcDNRTlg0UUlv?oc=5",
+      "title": "Analysts’ Opinions Are Mixed on These Technology Stocks: Micron (MU) and nCino (NCNO) - The Globe and Mail",
+      "body": "Analysts’ Opinions Are Mixed on These Technology Stocks: Micron (MU) and nCino (NCNO) The Globe and Mail",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "theglobeandmail.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Globe and Mail",
+        "source_domain": "theglobeandmail.com",
+        "trust_tier": 2,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c100339c-771e-5f2f-bf55-27aab5a5e757",
+      "timestamp_utc": "2026-04-02T12:58:41+00:00",
+      "source": "247_wall_st",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcTFxQnRMSnZpVFdBU2dLQjV2Uk82bHA2X0tCdHotU0hoZ0luZHJpeDVsZkFWeFBXa2h3czZLUnZKVExCdU83MUJEcFJrU1RBdFluY04ydW1sQ281S243eGRwbzJrVEN6ZE1TcGdsZE44SEFTczdWbklFdkpfNWhMam5tYUxWVnBacXdsSy1aN2pxdmJvTW1zSHNzdmRTM05YZHJHN3BvakhoTmZrZGUtM0JOY1pjRWk0TUZ5RWxKd0t6aV84Q2lR?oc=5",
+      "title": "Micron Drops 6% After Citi’s Price Target Cut: 3 Reasons Bears and Bulls Are Both Right - 24/7 Wall St.",
+      "body": "Micron Drops 6% After Citi’s Price Target Cut: 3 Reasons Bears and Bulls Are Both Right 24/7 Wall St.",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "247wallst.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "24/7 Wall St.",
+        "source_domain": "247wallst.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7b89206c-53f3-56fa-a72b-cd60b8bd71da",
+      "timestamp_utc": "2026-04-03T16:08:16+00:00",
+      "source": "the_globe_and_mail",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3JLYVBEWWNtZVBnVGxCb194SzhtVTFuSE5CUXJGZmxxLWZNN1hHazlodXNPeGw5VGJtVnN0bW9iai1pVjkzdFlYYnpNem1iczRLa2Q2NHhwYTRlZldBV183dXZwR2RtcmpBMl9uUWFrVWpaTnpabjBkVTh5SExUbTg2WTE4bkExQVNGUzl2X3pKSWhyMzhBVzlaNFg1bGhtNDNNOWJhVnNrMW5kRUVHTjRTcHk?oc=5",
+      "title": "Micron Stock: Buy, Sell, or Hold? - The Globe and Mail",
+      "body": "Micron Stock: Buy, Sell, or Hold? The Globe and Mail",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "theglobeandmail.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Globe and Mail",
+        "source_domain": "theglobeandmail.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7f816772-fed8-56ba-8d5f-c0608de06a81",
+      "timestamp_utc": "2026-04-04T00:37:53+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWUVhUDdZbC1jSUpsWGFrVXhabjlGUk1uYmYtVlNJY2tKSXk0X19zTWowVTk0YmhDNkZxaEpwM3VfZE9KV191dmhhM1FvRHV3T0l0Nm5zMWJqOG1DekpPcGVtZjd3OWxXbWo0bnUwZnd4aXh3a3lWdGxFWkh3bnI1UDdtVVp6bUVySUZ6aEt3S0ZseWJqNF9wbHRsWGUyM0xTN2ZlYTJ6TGpXam03bjRKMXBjNHF0TDg?oc=5",
+      "title": "Micron Technology (NASDAQ:MU) EVP April Arnzen Sells 40,000 Shares - MarketBeat",
+      "body": "Micron Technology (NASDAQ:MU) EVP April Arnzen Sells 40,000 Shares MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a0490d78-38f8-5bbd-8af3-4a71414c3336",
+      "timestamp_utc": "2026-04-03T12:11:00+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVXc0YzdxM05wbERTbmhXN0xYV0hxenhPM2Q2dUE2aUlOa0dINUdTRVB3dGJTWW8wOUpKTndjbVhZNWdJRDhOUzNSdUdMMDhndUdrMnRsLWlWM1V6Qm1KYVIzZVRCUzJmSnNrWUVBSVNWQk04eTM2UVM1SThINmg2NlMydG5PQk5hbWhvekJtVzQ0ck5jbmdRLUhXbUxKUTZIM3Ayb0VCQ1pZakVqcWxZLU9uNVZDWEp3cTlHVjdaM3JmUHZkaGhZaXdPYWVKZTFn?oc=5",
+      "title": "Micron Technology, Inc. $MU Shares Bought by Vanguard Capital Wealth Advisors - MarketBeat",
+      "body": "Micron Technology, Inc. $MU Shares Bought by Vanguard Capital Wealth Advisors MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8e860e15-2a2c-5ee3-9d1e-c84c836ccdc0",
+      "timestamp_utc": "2026-04-02T13:37:00+00:00",
+      "source": "financialcontent",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM0xHeFFGQmlPV0NVeU55QUpKUXNZS3k3RU9UNDNkREpXeC1UNm1pcWFfRFJMMzk1OVY4QUtXWEczeWt0TGpQMjFZM1hyQllPTExCaUttY0loRjdNdFlEaWJNU09WbW1MYWh6Q2x1dEZpVS1ZMFg0Zk5raUhWSEpac0Z6RUlMOF9lcWFjSzdFOGRoVGllUWduU3hSQUVWUDNYdkFLM1hveXdDQzBuVUJRV3JMLV9TN09La3U5c0RpVVFhQXRfUEliMGRQbTJhNHBvMV9qUEhmcw?oc=5",
+      "title": "The Architect of the AI Era: A 2026 Deep-Dive into Micron Technology (MU) - FinancialContent",
+      "body": "The Architect of the AI Era: A 2026 Deep-Dive into Micron Technology (MU) FinancialContent",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "financialcontent",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "FinancialContent",
+        "source_domain": "financialcontent.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "77b53248-f668-5335-b7f1-90fcfe089e83",
+      "timestamp_utc": "2026-04-02T10:35:06+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVnpsQjZMQjF5d3lkWjZsTElOLXpWYWJyQm9GS1hLM1p3ZXducEhjVGNpWlVFcXRSdzVwbHVLRTZYcWk3MVZyUVJlM2lZTTJ0aF92NDhRXzlmclRRWm91VWNJbDZLWGNCc0YwRk1WV0hMQ3dTdHZtbzVyOWtheWpTcEYtVDlyQ3lHM05NNWdqNFZwVjhlRDJ1dEhiQnJqVVMzWEJtSHJDN0psSEhxbXN5Q0Y4dlBzSWNacmtvU0wydzZKRkJZaENvRkdTWlVpaWplWlJOdVZMQmdlZjQ?oc=5",
+      "title": "Pictet North America Advisors SA Lowers Stock Position in Micron Technology, Inc. $MU - MarketBeat",
+      "body": "Pictet North America Advisors SA Lowers Stock Position in Micron Technology, Inc. $MU MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "59c8e934-6e1e-5ac9-80d2-cf3bb7cc01ce",
+      "timestamp_utc": "2026-04-02T08:52:47+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbFhHN21yemtSZElhbF95RmlnSVp2ZE1QMm9MdERYZHNKeWNJSElFaC1VR1pocEY0V1dqdXIwODNXczI4QUtFaXFhc2RCelItZVBKQU9FUmtfTFlGUk5IS2dObjlmN2ZlZHJMQkZoajIyMXcyMmpzZW5oaUtBcWZWZ0FtbE1fQUw5dmlIZVVJeWZkQVgtWmlWd18zbEJKbV9ySVo3S3k0TWNRV0xGQ1FPWF9IaDMxVlBBMWZqY2dkal9vZy1oY1N2VU10RFlQSklSa3lkR2d0ZDhVRGs?oc=5",
+      "title": "Crew Capital Management Ltd Takes $1.39 Million Position in Micron Technology, Inc. $MU - MarketBeat",
+      "body": "Crew Capital Management Ltd Takes $1.39 Million Position in Micron Technology, Inc. $MU MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a32678f1-63c0-54f0-b039-e757066bbffd",
+      "timestamp_utc": "2026-04-03T13:00:07+00:00",
+      "source": "yahoo_finance_australia",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMnpEaXM5Yno2aEktOGtsVzAxZnFmSnlaSldOV0pOOFRhVTVneENuSzY1YlFkTDUzd1VWR2tiV09lQlBWVmNaRXpKLU40NDllbG1wQ3g0YWluelJRSHlxQ3ZfUlA1RVMwN2lndUZPNVc5aWZBOUJYbmRSV0tkdXk3TmhUUndBWm5wTVlFQQ?oc=5",
+      "title": "Micron Technology, Inc. (MU) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance Australia",
+      "body": "Micron Technology, Inc. (MU) is Attracting Investor Attention: Here is What You Should Know Yahoo Finance Australia",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance australia",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Australia",
+        "source_domain": "yahoofinanceaustralia.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a71c5581-d619-5a4c-874e-ad0530dbbf65",
+      "timestamp_utc": "2026-04-03T17:35:41+00:00",
+      "source": "moomoo",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWHFiRWUxMGUzY1ZJTVJQd3d6ejlhUEl0UENjcjdYUXZoNkotOGNZNFA3SEt4b1JBVHJVYXVXWm0yV2c3Y1hPeFJOOFY1TEZQc2FvWEQwM1hGQllySkZvRVF1YmxHLTdxM0U1MkFHN2ZhMnBMNXRoR1ZLMUhSNGNjVTRPLXZRMGFjZG15Nkl0MC0yamE3TGZ6UTdNeUhBczd0MVdQbHFiQnhYTDBT?oc=5",
+      "title": "Mizuho Securities Maintains Micron Technology(MU.US) With Buy Rating - Moomoo",
+      "body": "Mizuho Securities Maintains Micron Technology(MU.US) With Buy Rating Moomoo",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "moomoo",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Moomoo",
+        "source_domain": "moomoo.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fa94e230-66b5-5c3f-972b-dbe85be70d8c",
+      "timestamp_utc": "2026-04-02T14:36:00+00:00",
+      "source": "thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDZReHQ0clI3VUJ6UWxONWlOdnNLTXNBZ0VyUF9ZTlEzMzh5MDlIUDFRQS1QTEsxbmtPLThUZTUtUFhCTUZ2Sm9lYUxIVkxqdXNuMTJUMEJudTkxY0QzMUZZNnphbl84YTJCSkJ0NVZTOGZHY2VnclJLeW5vY3BkWWM4SU1rUUE2OGJMZUJmcFRUT3BFWWNmSWR3M0s1TzJmSlp5aQ?oc=5",
+      "title": "Veteran Wall Street firm sends Micron stock a blunt warning - thestreet.com",
+      "body": "Veteran Wall Street firm sends Micron stock a blunt warning thestreet.com",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "thestreet.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "thestreet.com",
+        "source_domain": "thestreetcom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "ff1b3c07-6089-543a-bca3-13d54abe0156",
+      "timestamp_utc": "2026-04-02T14:35:46+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNEljMWxHMVE4MGFab0hrczFyVUFqNno4SmJDSmF0bzFxVXpHOVRVRENoa3k5V0ZfdER2a1pmdF9rQjJ6d0t1YnN2SGdsUDJwREpyMzJZMEtqbTRLbS1QTG5CVFM2TzktbHNVOGxvWFlLdlFucUhNQTQ1WFJEWVVkZ0VoLVdYMVpTeWdRRXdOMjBoQXRqdFpldTlfc1RkdUtOM0RSR2FJS3BpVHk5Vk04NTdOYlN6ZWdqODNlNGhiZk40MWdQbzNncU5xN2drY2s0cEZPM2NfcFB5Z3BSMTFoUHozanBNdWFRbVpzYTllWTUyRlpIRVpBTzBkem5MZw?oc=5",
+      "title": "EXCLUSIVE: Top 12 Most-Searched Tickers On Benzinga Pro In March – Where Do Tesla, Nvidia, Micron Stocks Rank? - Benzinga",
+      "body": "EXCLUSIVE: Top 12 Most-Searched Tickers On Benzinga Pro In March – Where Do Tesla, Nvidia, Micron Stocks Rank? Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU",
+        "NVDA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU",
+          "NVDA"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7bcb8d25-b6e7-5a07-bbea-c5cca4bb0e32",
+      "timestamp_utc": "2026-04-03T12:41:36+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/can-micron-stock-mu-continue-its-strong-run-on-memory-demand-analysts-weigh-in",
+      "title": "Can Micron Stock (MU) Continue its Strong Run on Memory Demand? Analysts Weigh in - TipRanks",
+      "body": "Can Micron Stock (MU) Continue its Strong Run on Memory Demand? Analysts Weigh in TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "57393be1-864f-5cd2-b32f-521c9558b28f",
+      "timestamp_utc": "2026-04-02T18:58:50+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rosenblatt-bullish-micron-technology-mu-185850281.html",
+      "title": "Rosenblatt Bullish on Micron Technology (MU) Amid Strong Revenue Growth - Yahoo Finance",
+      "body": "Rosenblatt Bullish on Micron Technology (MU) Amid Strong Revenue Growth Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "82860c6f-b699-5388-9c06-41d382fac657",
+      "timestamp_utc": "2026-04-02T15:38:30+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/are-micron-mu-and-sandisk-sndk-stocks-overvalued-after-ai-driven-rally",
+      "title": "Are Micron (MU) and SanDisk (SNDK) Stocks Overvalued after AI-Driven Rally? - TipRanks",
+      "body": "Are Micron (MU) and SanDisk (SNDK) Stocks Overvalued after AI-Driven Rally? TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU",
+        "SNDK"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU",
+          "SNDK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e01cd0b8-511e-5146-a99f-196c3a03eab5",
+      "timestamp_utc": "2026-04-02T15:41:13+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/article/4888104-micron-the-peak-memory-myth",
+      "title": "Micron: The Peak Memory Myth (NASDAQ:MU) - Seeking Alpha",
+      "body": "Fears of peak memory are overblown in our opinion, and one victim since reporting its stellar earnings just a few weeks ago has been Micron Technology, Inc. (MU). Make no mistake at all\n\nMarket volatility isn't a threat, it’s an opportunity. While the average investor is panicking, the BAD BEAT Investing community is pinpointing entries and securing rapid returns. We give you a unique playbook that combines high-conviction rapid-return trades with deep-value dividends to secure your retirement. Get in ahead of the $200 price hike May 1st!\n\nThere is a money back guarantee if you are not satisfied (you will be). Win with ideas from a team with a proven track record. Come take the next step!\n\nAnalyst’s Disclosure: I/we have a beneficial long position in the shares of MU either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "56b4fcb4-6489-5cc6-a7a3-f0200c8395d3",
+      "timestamp_utc": "2026-04-02T10:42:48+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/why-did-a-top-insider-sell-micron-stock-mu-today-after-it-skyrocketed",
+      "title": "Why Did a Top Insider Sell Micron Stock (MU) Today After It Skyrocketed? - TipRanks",
+      "body": "Why Did a Top Insider Sell Micron Stock (MU) Today After It Skyrocketed? TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d2b4a382-d6bd-5d31-9341-b27e3681f86e",
+      "timestamp_utc": "2026-04-02T19:08:00+00:00",
+      "source": "barrons",
+      "url": "https://www.barrons.com/articles/micron-stock-sandisk-google-turboquant-mizuho-7ddb2e4a?gaa_at=eafs&gaa_n=AWEtsqcAR0-k-acztUQthBsjEpmahNZYAHYqU0r50kbj5Zo03hwNSDN7nF_j&gaa_ts=69d0c8ad&gaa_sig=3zDq1RIEW1O01HabsaEzoGzRQ7vN8DAj8WWbhbPni_XpY_vVuH8acWPasHpoX9J7FS_R2e96Rgds0MyfHf-dzQ%3D%3D",
+      "title": "Micron and Sandisk Stock Have Been in a Slump. Buy the Pullback, Analyst Says. - Barron's",
+      "body": "Micron and Sandisk Stock Have Been in a Slump. Buy the Pullback, Analyst Says. Barron's",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "barrons.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Barron's",
+        "source_domain": "barrons.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "eee0c638-4eaa-5de2-9138-17cdb531195c",
+      "timestamp_utc": "2026-04-02T13:30:00+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/04/51618934/stock-market-today-sp-500-dow-futures-plunge-as-trump-re-escalates-war-with-iran-micron-technology-ibm-general-motors-in-focus",
+      "title": "Stock Market Today: S&P 500, Nasdaq Futures Plunge As Trump 'Re-Escalates' War With Iran— Micron Technolo - Benzinga",
+      "body": "Stock Market Today: S&P 500, Nasdaq Futures Plunge As Trump 'Re-Escalates' War With Iran— Micron Technolo Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1c18fe3a-6fc1-5775-ab23-485842ae0a3b",
+      "timestamp_utc": "2026-04-02T10:25:20+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/04/51620134/jim-cramer-says-micron-technology-other-memory-rivals-are-sitting-on-gold-mine-amid-ai-storage-crunch",
+      "title": "Jim Cramer Says Micron Technology, Other Memory Rivals Are Sitting On 'Gold Mine' Amid AI Storage Crunch - Benzinga",
+      "body": "Jim Cramer Says Micron Technology, Other Memory Rivals Are Sitting On 'Gold Mine' Amid AI Storage Crunch Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0ad276ef-b897-5f93-b040-55232f8be80b",
+      "timestamp_utc": "2026-04-04T05:14:59+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PVExUdWNyV3lucW1ncGlkTzdPQlNLdFBOaHZzQUpjdmwtNXpvV3NYRzk1QU1od1JFbS1ab0hTYlRuYWVyWC1DVkNvLUo0clpZZnFkclBQUHI3NlJsLUNDcnJlbnFNaXNSeUZIc3l4NGIyVzVvT2c?oc=5",
+      "title": "Micron Could Be The Next Intel - Seeking Alpha",
+      "body": "Micron Could Be The Next Intel Seeking Alpha",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "db717d8a-e735-551d-a8b3-b0805106716d",
+      "timestamp_utc": "2026-04-03T18:23:00+00:00",
+      "source": "motley_fool",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNakotYUFrdW9XSkFOeHNiM3JUeUdWUWR0aGs0aWFHRGpMYjRCLTdIcjg0a1kyYUxVd2lqbUZIQWpQR3M1VDZOeTdWalZiOHh2SDdRcm5VdHB4TGl0QmljdjgxOGJlaGNXSlNIZkswbW9Fb0pJd2hGeG9VUTVzLTNaU1k0RjZidw?oc=5",
+      "title": "Why Micron Stock Slumped 18% in March - The Motley Fool",
+      "body": "Why Micron Stock Slumped 18% in March The Motley Fool",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "fool.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Motley Fool",
+        "source_domain": "fool.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "51e2d7f8-d66f-57d8-80f7-3d2f6f9b7c11",
+      "timestamp_utc": "2026-04-02T12:43:43+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVzluYTFxZGczUWtzTHhwLUdaNHVnSTNPeWp4S3NFSzlud1p3VGFEaTloMVAwMnpLcUNia3IzdWFycm9IeDlvZGFuRGtyZ1gtaU1OME9qazNnaUo2NGhHM05UVi1IdE50M2NHQmUtekJ5aGNaZGdZVUtnNGV3ZlotWV96QVRsS09MMm56NnBwYw?oc=5",
+      "title": "Micron, Sandisk dips should be bought, Mizuho says (MU:NASDAQ) - Seeking Alpha",
+      "body": "Micron, Sandisk dips should be bought, Mizuho says (MU:NASDAQ) Seeking Alpha",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9ad46e3c-8b97-5385-a08e-d4fe5055cab4",
+      "timestamp_utc": "2026-04-02T11:42:00+00:00",
+      "source": "the_globe_and_mail",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPT3lLS1E0Y1ZveXpwdmhkTFJrSDFDWnBGUUhROU80c2dHWmR4TFdpM3B1NjZWZFQxTzJxRF95bklEZ0hZOUhMZU56UEthNGpXUnYwWjExQ2owaTJtN1ptRThXTGlYYXdIVnFUM0kwN2RzbGFRY3JfSFJicGJiWmNfcFJUNlRnc0tScVZEbDVEbTVROVZkWHN1M3hsNXhLTGo5UFk2Q2wzbnRyQkRWZGw4My1ranlxb3ZndmZhR215NjNzNFFHSGd1RF93VVhYU2JCTFUwZU5hLXlvMy1JdnVtUHFGV0JEdmpwMEZZcDNRTlg0UUlv?oc=5",
+      "title": "Analysts’ Opinions Are Mixed on These Technology Stocks: Micron (MU) and nCino (NCNO) - The Globe and Mail",
+      "body": "Analysts’ Opinions Are Mixed on These Technology Stocks: Micron (MU) and nCino (NCNO) The Globe and Mail",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "theglobeandmail.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Globe and Mail",
+        "source_domain": "theglobeandmail.com",
+        "trust_tier": 2,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c100339c-771e-5f2f-bf55-27aab5a5e757",
+      "timestamp_utc": "2026-04-02T12:58:41+00:00",
+      "source": "247_wall_st",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcTFxQnRMSnZpVFdBU2dLQjV2Uk82bHA2X0tCdHotU0hoZ0luZHJpeDVsZkFWeFBXa2h3czZLUnZKVExCdU83MUJEcFJrU1RBdFluY04ydW1sQ281S243eGRwbzJrVEN6ZE1TcGdsZE44SEFTczdWbklFdkpfNWhMam5tYUxWVnBacXdsSy1aN2pxdmJvTW1zSHNzdmRTM05YZHJHN3BvakhoTmZrZGUtM0JOY1pjRWk0TUZ5RWxKd0t6aV84Q2lR?oc=5",
+      "title": "Micron Drops 6% After Citi’s Price Target Cut: 3 Reasons Bears and Bulls Are Both Right - 24/7 Wall St.",
+      "body": "Micron Drops 6% After Citi’s Price Target Cut: 3 Reasons Bears and Bulls Are Both Right 24/7 Wall St.",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "247wallst.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "24/7 Wall St.",
+        "source_domain": "247wallst.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7b89206c-53f3-56fa-a72b-cd60b8bd71da",
+      "timestamp_utc": "2026-04-03T16:08:16+00:00",
+      "source": "the_globe_and_mail",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3JLYVBEWWNtZVBnVGxCb194SzhtVTFuSE5CUXJGZmxxLWZNN1hHazlodXNPeGw5VGJtVnN0bW9iai1pVjkzdFlYYnpNem1iczRLa2Q2NHhwYTRlZldBV183dXZwR2RtcmpBMl9uUWFrVWpaTnpabjBkVTh5SExUbTg2WTE4bkExQVNGUzl2X3pKSWhyMzhBVzlaNFg1bGhtNDNNOWJhVnNrMW5kRUVHTjRTcHk?oc=5",
+      "title": "Micron Stock: Buy, Sell, or Hold? - The Globe and Mail",
+      "body": "Micron Stock: Buy, Sell, or Hold? The Globe and Mail",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "theglobeandmail.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Globe and Mail",
+        "source_domain": "theglobeandmail.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7f816772-fed8-56ba-8d5f-c0608de06a81",
+      "timestamp_utc": "2026-04-04T00:37:53+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWUVhUDdZbC1jSUpsWGFrVXhabjlGUk1uYmYtVlNJY2tKSXk0X19zTWowVTk0YmhDNkZxaEpwM3VfZE9KV191dmhhM1FvRHV3T0l0Nm5zMWJqOG1DekpPcGVtZjd3OWxXbWo0bnUwZnd4aXh3a3lWdGxFWkh3bnI1UDdtVVp6bUVySUZ6aEt3S0ZseWJqNF9wbHRsWGUyM0xTN2ZlYTJ6TGpXam03bjRKMXBjNHF0TDg?oc=5",
+      "title": "Micron Technology (NASDAQ:MU) EVP April Arnzen Sells 40,000 Shares - MarketBeat",
+      "body": "Micron Technology (NASDAQ:MU) EVP April Arnzen Sells 40,000 Shares MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a0490d78-38f8-5bbd-8af3-4a71414c3336",
+      "timestamp_utc": "2026-04-03T12:11:00+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVXc0YzdxM05wbERTbmhXN0xYV0hxenhPM2Q2dUE2aUlOa0dINUdTRVB3dGJTWW8wOUpKTndjbVhZNWdJRDhOUzNSdUdMMDhndUdrMnRsLWlWM1V6Qm1KYVIzZVRCUzJmSnNrWUVBSVNWQk04eTM2UVM1SThINmg2NlMydG5PQk5hbWhvekJtVzQ0ck5jbmdRLUhXbUxKUTZIM3Ayb0VCQ1pZakVqcWxZLU9uNVZDWEp3cTlHVjdaM3JmUHZkaGhZaXdPYWVKZTFn?oc=5",
+      "title": "Micron Technology, Inc. $MU Shares Bought by Vanguard Capital Wealth Advisors - MarketBeat",
+      "body": "Micron Technology, Inc. $MU Shares Bought by Vanguard Capital Wealth Advisors MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8e860e15-2a2c-5ee3-9d1e-c84c836ccdc0",
+      "timestamp_utc": "2026-04-02T13:37:00+00:00",
+      "source": "financialcontent",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM0xHeFFGQmlPV0NVeU55QUpKUXNZS3k3RU9UNDNkREpXeC1UNm1pcWFfRFJMMzk1OVY4QUtXWEczeWt0TGpQMjFZM1hyQllPTExCaUttY0loRjdNdFlEaWJNU09WbW1MYWh6Q2x1dEZpVS1ZMFg0Zk5raUhWSEpac0Z6RUlMOF9lcWFjSzdFOGRoVGllUWduU3hSQUVWUDNYdkFLM1hveXdDQzBuVUJRV3JMLV9TN09La3U5c0RpVVFhQXRfUEliMGRQbTJhNHBvMV9qUEhmcw?oc=5",
+      "title": "The Architect of the AI Era: A 2026 Deep-Dive into Micron Technology (MU) - FinancialContent",
+      "body": "The Architect of the AI Era: A 2026 Deep-Dive into Micron Technology (MU) FinancialContent",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "financialcontent",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "FinancialContent",
+        "source_domain": "financialcontent.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "77b53248-f668-5335-b7f1-90fcfe089e83",
+      "timestamp_utc": "2026-04-02T10:35:06+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVnpsQjZMQjF5d3lkWjZsTElOLXpWYWJyQm9GS1hLM1p3ZXducEhjVGNpWlVFcXRSdzVwbHVLRTZYcWk3MVZyUVJlM2lZTTJ0aF92NDhRXzlmclRRWm91VWNJbDZLWGNCc0YwRk1WV0hMQ3dTdHZtbzVyOWtheWpTcEYtVDlyQ3lHM05NNWdqNFZwVjhlRDJ1dEhiQnJqVVMzWEJtSHJDN0psSEhxbXN5Q0Y4dlBzSWNacmtvU0wydzZKRkJZaENvRkdTWlVpaWplWlJOdVZMQmdlZjQ?oc=5",
+      "title": "Pictet North America Advisors SA Lowers Stock Position in Micron Technology, Inc. $MU - MarketBeat",
+      "body": "Pictet North America Advisors SA Lowers Stock Position in Micron Technology, Inc. $MU MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "59c8e934-6e1e-5ac9-80d2-cf3bb7cc01ce",
+      "timestamp_utc": "2026-04-02T08:52:47+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbFhHN21yemtSZElhbF95RmlnSVp2ZE1QMm9MdERYZHNKeWNJSElFaC1VR1pocEY0V1dqdXIwODNXczI4QUtFaXFhc2RCelItZVBKQU9FUmtfTFlGUk5IS2dObjlmN2ZlZHJMQkZoajIyMXcyMmpzZW5oaUtBcWZWZ0FtbE1fQUw5dmlIZVVJeWZkQVgtWmlWd18zbEJKbV9ySVo3S3k0TWNRV0xGQ1FPWF9IaDMxVlBBMWZqY2dkal9vZy1oY1N2VU10RFlQSklSa3lkR2d0ZDhVRGs?oc=5",
+      "title": "Crew Capital Management Ltd Takes $1.39 Million Position in Micron Technology, Inc. $MU - MarketBeat",
+      "body": "Crew Capital Management Ltd Takes $1.39 Million Position in Micron Technology, Inc. $MU MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a32678f1-63c0-54f0-b039-e757066bbffd",
+      "timestamp_utc": "2026-04-03T13:00:07+00:00",
+      "source": "yahoo_finance_australia",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMnpEaXM5Yno2aEktOGtsVzAxZnFmSnlaSldOV0pOOFRhVTVneENuSzY1YlFkTDUzd1VWR2tiV09lQlBWVmNaRXpKLU40NDllbG1wQ3g0YWluelJRSHlxQ3ZfUlA1RVMwN2lndUZPNVc5aWZBOUJYbmRSV0tkdXk3TmhUUndBWm5wTVlFQQ?oc=5",
+      "title": "Micron Technology, Inc. (MU) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance Australia",
+      "body": "Micron Technology, Inc. (MU) is Attracting Investor Attention: Here is What You Should Know Yahoo Finance Australia",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance australia",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Australia",
+        "source_domain": "yahoofinanceaustralia.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a71c5581-d619-5a4c-874e-ad0530dbbf65",
+      "timestamp_utc": "2026-04-03T17:35:41+00:00",
+      "source": "moomoo",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWHFiRWUxMGUzY1ZJTVJQd3d6ejlhUEl0UENjcjdYUXZoNkotOGNZNFA3SEt4b1JBVHJVYXVXWm0yV2c3Y1hPeFJOOFY1TEZQc2FvWEQwM1hGQllySkZvRVF1YmxHLTdxM0U1MkFHN2ZhMnBMNXRoR1ZLMUhSNGNjVTRPLXZRMGFjZG15Nkl0MC0yamE3TGZ6UTdNeUhBczd0MVdQbHFiQnhYTDBT?oc=5",
+      "title": "Mizuho Securities Maintains Micron Technology(MU.US) With Buy Rating - Moomoo",
+      "body": "Mizuho Securities Maintains Micron Technology(MU.US) With Buy Rating Moomoo",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "moomoo",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Moomoo",
+        "source_domain": "moomoo.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fa94e230-66b5-5c3f-972b-dbe85be70d8c",
+      "timestamp_utc": "2026-04-02T14:36:00+00:00",
+      "source": "thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDZReHQ0clI3VUJ6UWxONWlOdnNLTXNBZ0VyUF9ZTlEzMzh5MDlIUDFRQS1QTEsxbmtPLThUZTUtUFhCTUZ2Sm9lYUxIVkxqdXNuMTJUMEJudTkxY0QzMUZZNnphbl84YTJCSkJ0NVZTOGZHY2VnclJLeW5vY3BkWWM4SU1rUUE2OGJMZUJmcFRUT3BFWWNmSWR3M0s1TzJmSlp5aQ?oc=5",
+      "title": "Veteran Wall Street firm sends Micron stock a blunt warning - thestreet.com",
+      "body": "Veteran Wall Street firm sends Micron stock a blunt warning thestreet.com",
+      "author": null,
+      "language": "en",
+      "ticker": "MU",
+      "tickers_hint": [
+        "MU"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "thestreet.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "thestreet.com",
+        "source_domain": "thestreetcom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

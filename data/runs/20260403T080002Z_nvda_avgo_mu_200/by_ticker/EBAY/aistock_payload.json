@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "727cfeba-e550-55ba-8383-1e5f3701c827",
+      "timestamp_utc": "2026-04-02T11:17:14+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-ebay-inc-ebay-shares-purchased-by-hf-advisory-group-llc-2026-04-02/",
+      "title": "eBay Inc. $EBAY Shares Purchased by HF Advisory Group LLC - MarketBeat",
+      "body": "eBay Inc. $EBAY Shares Purchased by HF Advisory Group LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "EBAY",
+      "tickers_hint": [
+        "EBAY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "EBAY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "727cfeba-e550-55ba-8383-1e5f3701c827",
+      "timestamp_utc": "2026-04-02T11:17:14+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-ebay-inc-ebay-shares-purchased-by-hf-advisory-group-llc-2026-04-02/",
+      "title": "eBay Inc. $EBAY Shares Purchased by HF Advisory Group LLC - MarketBeat",
+      "body": "eBay Inc. $EBAY Shares Purchased by HF Advisory Group LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "EBAY",
+      "tickers_hint": [
+        "EBAY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "EBAY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

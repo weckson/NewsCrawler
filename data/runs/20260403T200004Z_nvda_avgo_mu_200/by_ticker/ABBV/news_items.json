@@ -1,0 +1,89 @@
+[
+  {
+    "id": "8aa0cb05-194e-54fd-a003-d62f57d75ee5",
+    "timestamp_utc": "2026-04-02T07:38:30+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-banque-pictet-cie-sa-has-8887-million-stock-position-in-abbvie-inc-abbv-2026-04-02/",
+    "title": "Banque Pictet & Cie SA Has $88.87 Million Stock Position in AbbVie Inc. $ABBV - MarketBeat",
+    "body": "Banque Pictet & Cie SA Has $88.87 Million Stock Position in AbbVie Inc. $ABBV MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "ABBV",
+    "tickers_hint": [
+      "ABBV"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "ABBV"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "113540f2-1e3f-521d-88c7-622acad0df28",
+    "timestamp_utc": "2026-04-02T18:15:54+00:00",
+    "source": "tradingkey.com",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUHpZWlc1elozSnBtLUxNS2xMSDlGTkdTOHQtX04zVE41eUxxVVVqUVh0eUJzVHJuNnVxb3pxNWh5eVVaSXBJSjBRdnVyVnJlR1BISktCdVVBX2dZbmhyVUZQd0FXUmIxU1NtRzlqRnV0MGdNSk1KS3Nlb1ZmNGsyenBsS0VDT2MzbGww?oc=5",
+    "title": "AbbVie Inc Stock (ABBV) Moved Down by 3.20% on Apr 2: A Full Analysis - tradingkey.com",
+    "body": "AbbVie Inc Stock (ABBV) Moved Down by 3.20% on Apr 2: A Full Analysis tradingkey.com",
+    "author": null,
+    "language": "en",
+    "ticker": "ABBV",
+    "tickers_hint": [
+      "ABBV"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "tradingkey.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "tradingkey.com",
+      "source_domain": "tradingkeycom.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "ABBV"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "8c3d5e2e-9b35-5ada-92ac-48dd265ea4e9",
+    "timestamp_utc": "2026-04-02T17:23:44+00:00",
+    "source": "traders_union",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTFl2eVJWVEVJWExKQXp5aHZYOGlTaDdta0ZOZUt6bDNHTnBJWTBNMEZ0YU9RaGJ1YjZjbHd4UWpGd012MEwzcTg0dURISUdnSGMyVzdhYllSTThwdldoOGVfd0h0N0VESnAxRXUtRWg4SjNyUDk5cTBBSDlRTThqeFp3TkhJM3U1NlhPMkVzbGNCemVGa1dmcg?oc=5",
+    "title": "AbbVie stock price forecast: Downside risk builds as ABBV drops 3.07% to $208 - Traders Union",
+    "body": "AbbVie stock price forecast: Downside risk builds as ABBV drops 3.07% to $208 Traders Union",
+    "author": null,
+    "language": "en",
+    "ticker": "ABBV",
+    "tickers_hint": [
+      "ABBV"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "traders union",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Traders Union",
+      "source_domain": "tradersunion.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "ABBV"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

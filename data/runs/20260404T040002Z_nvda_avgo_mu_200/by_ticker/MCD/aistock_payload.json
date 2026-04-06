@@ -1,0 +1,298 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "17640266-b344-5218-9bc7-d67a8127d3cc",
+      "timestamp_utc": "2026-04-02T20:13:45+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNXhGUExmNE1qUE1kenBGWGlZU0dNQVdJZ3otUlBiSkFRRHZtWGUyMlJ3M1FLZkRYQTVUUHYzZUFlekEyaFlaVFVvT1VwNWx2VEVwUERISnVPdzdnWHQwNDV5b2hQMXBFNnZEWlo3U09TSVc1WktQUjhzZzVPTldlQldwSHNTUjA0WHlRNVk3Vmk1WTczdXZsX1NFZFFkQmF4?oc=5",
+      "title": "McDonald's (MCD) Valuation Check As New KPop Demon Hunters Campaign Targets Younger Fans - Yahoo Finance",
+      "body": "McDonald's (MCD) Valuation Check As New KPop Demon Hunters Campaign Targets Younger Fans Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "MCD",
+      "tickers_hint": [
+        "MCD"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0fba25e1-6170-553f-bf37-6fd6070ada88",
+      "timestamp_utc": "2026-04-03T07:17:36+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-aberdeen-group-plc-trims-stake-in-mcdonalds-corporation-mcd-2026-04-03/",
+      "title": "Aberdeen Group plc Trims Stake in McDonald's Corporation $MCD - MarketBeat",
+      "body": "Aberdeen Group plc Trims Stake in McDonald's Corporation $MCD MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MCD",
+      "tickers_hint": [
+        "MCD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a6a83893-625e-5b95-af8c-f779dd31abf7",
+      "timestamp_utc": "2026-04-02T08:44:52+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mcdonalds-corporation-mcd-shares-acquired-by-compagnie-lombard-odier-scma-2026-04-02/",
+      "title": "McDonald's Corporation $MCD Shares Acquired by Compagnie Lombard Odier SCmA - MarketBeat",
+      "body": "McDonald's Corporation $MCD Shares Acquired by Compagnie Lombard Odier SCmA MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MCD",
+      "tickers_hint": [
+        "MCD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5b93f447-a623-5106-bdc8-4dc8b5fd0120",
+      "timestamp_utc": "2026-04-02T07:38:36+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-banque-pictet-cie-sa-trims-position-in-mcdonalds-corporation-mcd-2026-04-02/",
+      "title": "Banque Pictet & Cie SA Trims Position in McDonald's Corporation $MCD - MarketBeat",
+      "body": "Banque Pictet & Cie SA Trims Position in McDonald's Corporation $MCD MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MCD",
+      "tickers_hint": [
+        "MCD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d65146ca-e2ee-58cc-b5a9-78726fa0e452",
+      "timestamp_utc": "2026-04-02T18:05:30+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZGhRVjFSVnFaWFpFajluLVQzYUVXdFJNZXlPdEpnNzNtdEF4bE1JaHFJM3hEU0k0TUJBZzNjQmlxcUs2T3o0N1VFTTRFemxQQVpWWF9OdzZ0TFBJZFZTOHVnUHlBa2R2dFNwbEVBQ1NMS295MmpXdGNGdktON3Y0blZTZm45ZmU1UmtiMTJWVEMtczFGR1oyRXpNdzRhdUNEbFctb19mUkFYOXAwV25n?oc=5",
+      "title": "James D. Farley, Jr. joins McDonald’s (MCD) Audit & Finance and Corporate Responsibility panels - Stock Titan",
+      "body": "James D. Farley, Jr. joins McDonald’s (MCD) Audit & Finance and Corporate Responsibility panels Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "MCD",
+      "tickers_hint": [
+        "MCD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "17640266-b344-5218-9bc7-d67a8127d3cc",
+      "timestamp_utc": "2026-04-02T20:13:45+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNXhGUExmNE1qUE1kenBGWGlZU0dNQVdJZ3otUlBiSkFRRHZtWGUyMlJ3M1FLZkRYQTVUUHYzZUFlekEyaFlaVFVvT1VwNWx2VEVwUERISnVPdzdnWHQwNDV5b2hQMXBFNnZEWlo3U09TSVc1WktQUjhzZzVPTldlQldwSHNTUjA0WHlRNVk3Vmk1WTczdXZsX1NFZFFkQmF4?oc=5",
+      "title": "McDonald's (MCD) Valuation Check As New KPop Demon Hunters Campaign Targets Younger Fans - Yahoo Finance",
+      "body": "McDonald's (MCD) Valuation Check As New KPop Demon Hunters Campaign Targets Younger Fans Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "MCD",
+      "tickers_hint": [
+        "MCD"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0fba25e1-6170-553f-bf37-6fd6070ada88",
+      "timestamp_utc": "2026-04-03T07:17:36+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-aberdeen-group-plc-trims-stake-in-mcdonalds-corporation-mcd-2026-04-03/",
+      "title": "Aberdeen Group plc Trims Stake in McDonald's Corporation $MCD - MarketBeat",
+      "body": "Aberdeen Group plc Trims Stake in McDonald's Corporation $MCD MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MCD",
+      "tickers_hint": [
+        "MCD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a6a83893-625e-5b95-af8c-f779dd31abf7",
+      "timestamp_utc": "2026-04-02T08:44:52+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mcdonalds-corporation-mcd-shares-acquired-by-compagnie-lombard-odier-scma-2026-04-02/",
+      "title": "McDonald's Corporation $MCD Shares Acquired by Compagnie Lombard Odier SCmA - MarketBeat",
+      "body": "McDonald's Corporation $MCD Shares Acquired by Compagnie Lombard Odier SCmA MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MCD",
+      "tickers_hint": [
+        "MCD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5b93f447-a623-5106-bdc8-4dc8b5fd0120",
+      "timestamp_utc": "2026-04-02T07:38:36+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-banque-pictet-cie-sa-trims-position-in-mcdonalds-corporation-mcd-2026-04-02/",
+      "title": "Banque Pictet & Cie SA Trims Position in McDonald's Corporation $MCD - MarketBeat",
+      "body": "Banque Pictet & Cie SA Trims Position in McDonald's Corporation $MCD MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MCD",
+      "tickers_hint": [
+        "MCD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d65146ca-e2ee-58cc-b5a9-78726fa0e452",
+      "timestamp_utc": "2026-04-02T18:05:30+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZGhRVjFSVnFaWFpFajluLVQzYUVXdFJNZXlPdEpnNzNtdEF4bE1JaHFJM3hEU0k0TUJBZzNjQmlxcUs2T3o0N1VFTTRFemxQQVpWWF9OdzZ0TFBJZFZTOHVnUHlBa2R2dFNwbEVBQ1NMS295MmpXdGNGdktON3Y0blZTZm45ZmU1UmtiMTJWVEMtczFGR1oyRXpNdzRhdUNEbFctb19mUkFYOXAwV25n?oc=5",
+      "title": "James D. Farley, Jr. joins McDonald’s (MCD) Audit & Finance and Corporate Responsibility panels - Stock Titan",
+      "body": "James D. Farley, Jr. joins McDonald’s (MCD) Audit & Finance and Corporate Responsibility panels Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "MCD",
+      "tickers_hint": [
+        "MCD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

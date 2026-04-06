@@ -1,0 +1,130 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "767b8e35-f494-57a9-bb2f-95b0e55065ef",
+      "timestamp_utc": "2026-04-02T13:09:23+00:00",
+      "source": "investing.com",
+      "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-hca-healthcare-stock-overweight-rating-93CH-4595624",
+      "title": "Cantor Fitzgerald reiterates HCA Healthcare stock Overweight rating - Investing.com",
+      "body": "Cantor Fitzgerald reiterates HCA Healthcare stock Overweight rating Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "HCA",
+      "tickers_hint": [
+        "HCA"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HCA"
+        ],
+        "alt_sources": [
+          "Investing.com"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d3ff79bc-980e-53c1-b40a-3e2c992c1488",
+      "timestamp_utc": "2026-04-02T08:40:54+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-blue-trust-inc-has-1108-million-stock-position-in-hca-healthcare-inc-hca-2026-04-02/",
+      "title": "Blue Trust Inc. Has $11.08 Million Stock Position in HCA Healthcare, Inc. $HCA - MarketBeat",
+      "body": "Blue Trust Inc. Has $11.08 Million Stock Position in HCA Healthcare, Inc. $HCA MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "HCA",
+      "tickers_hint": [
+        "HCA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "HCA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "767b8e35-f494-57a9-bb2f-95b0e55065ef",
+      "timestamp_utc": "2026-04-02T13:09:23+00:00",
+      "source": "investing.com",
+      "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-hca-healthcare-stock-overweight-rating-93CH-4595624",
+      "title": "Cantor Fitzgerald reiterates HCA Healthcare stock Overweight rating - Investing.com",
+      "body": "Cantor Fitzgerald reiterates HCA Healthcare stock Overweight rating Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "HCA",
+      "tickers_hint": [
+        "HCA"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HCA"
+        ],
+        "alt_sources": [
+          "Investing.com"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d3ff79bc-980e-53c1-b40a-3e2c992c1488",
+      "timestamp_utc": "2026-04-02T08:40:54+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-blue-trust-inc-has-1108-million-stock-position-in-hca-healthcare-inc-hca-2026-04-02/",
+      "title": "Blue Trust Inc. Has $11.08 Million Stock Position in HCA Healthcare, Inc. $HCA - MarketBeat",
+      "body": "Blue Trust Inc. Has $11.08 Million Stock Position in HCA Healthcare, Inc. $HCA MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "HCA",
+      "tickers_hint": [
+        "HCA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "HCA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

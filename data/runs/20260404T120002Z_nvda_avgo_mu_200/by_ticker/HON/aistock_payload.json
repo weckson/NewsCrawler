@@ -1,0 +1,190 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "0ee6b191-9629-545a-a945-9bd8e215183d",
+      "timestamp_utc": "2026-04-02T19:16:31+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://uk.finance.yahoo.com/quote/2317.TW/",
+      "title": "Hon Hai Precision Industry Co., Ltd. (2317.TW) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Hon Hai Precision Industry Co., Ltd. (2317.TW) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "HON",
+      "tickers_hint": [
+        "HON"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HON"
+        ],
+        "alt_sources": [
+          "Yahoo Finance Singapore",
+          "Yahoo! Finance Canada"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6b096232-f7a9-5f03-9242-6d6531fc0a47",
+      "timestamp_utc": "2026-04-02T17:01:16+00:00",
+      "source": "quartr",
+      "url": "https://quartr.com/companies/hon-precision-inc_22454",
+      "title": "Hon Precision (7769) Investor Relations, Earnings Summary & Outlook - Quartr",
+      "body": "Edge3 Apr 2026Extra Everything: The Story of ChipotleChipotle's story from a single restaurant to a nationwide chain, through crisis and turnaround, built on one of the strongest models in the industry.",
+      "author": null,
+      "language": "en",
+      "ticker": "HON",
+      "tickers_hint": [
+        "HON"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "quartr",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Quartr",
+        "source_domain": "quartr.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HON"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0826dba9-fdff-55b3-9051-c52b543384b3",
+      "timestamp_utc": "2026-04-02T21:57:33+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNVlHSVNocThmUW40VThSaEFLZDdjTEdPcmRlcG1VR1BYQkJtTUxlaExJQl9VUUFtLUdteE1QWnJsZ0NYSjdTZkNsXzdmSkFjSUVyLUdWY2xoQW9XMFMzOURQUi1NX21Hdkp2VEcyZkVPNGZfWXhtUXVlVzA0YmhkYVM5UFRRSlhHaXk3SVBBeGVlTjM1aHA4eEtLTnFrUktXb1VhSVF4bVpCWnB4bzVWRFhoMTd0ZVF4bGxRMA?oc=5",
+      "title": "Honeywell (HON) director adds to deferred phantom share balance - Stock Titan",
+      "body": "Honeywell (HON) director adds to deferred phantom share balance Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "HON",
+      "tickers_hint": [
+        "HON"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HON"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "0ee6b191-9629-545a-a945-9bd8e215183d",
+      "timestamp_utc": "2026-04-02T19:16:31+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://uk.finance.yahoo.com/quote/2317.TW/",
+      "title": "Hon Hai Precision Industry Co., Ltd. (2317.TW) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Hon Hai Precision Industry Co., Ltd. (2317.TW) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "HON",
+      "tickers_hint": [
+        "HON"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HON"
+        ],
+        "alt_sources": [
+          "Yahoo Finance Singapore",
+          "Yahoo! Finance Canada"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6b096232-f7a9-5f03-9242-6d6531fc0a47",
+      "timestamp_utc": "2026-04-02T17:01:16+00:00",
+      "source": "quartr",
+      "url": "https://quartr.com/companies/hon-precision-inc_22454",
+      "title": "Hon Precision (7769) Investor Relations, Earnings Summary & Outlook - Quartr",
+      "body": "Edge3 Apr 2026Extra Everything: The Story of ChipotleChipotle's story from a single restaurant to a nationwide chain, through crisis and turnaround, built on one of the strongest models in the industry.",
+      "author": null,
+      "language": "en",
+      "ticker": "HON",
+      "tickers_hint": [
+        "HON"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "quartr",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Quartr",
+        "source_domain": "quartr.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HON"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0826dba9-fdff-55b3-9051-c52b543384b3",
+      "timestamp_utc": "2026-04-02T21:57:33+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNVlHSVNocThmUW40VThSaEFLZDdjTEdPcmRlcG1VR1BYQkJtTUxlaExJQl9VUUFtLUdteE1QWnJsZ0NYSjdTZkNsXzdmSkFjSUVyLUdWY2xoQW9XMFMzOURQUi1NX21Hdkp2VEcyZkVPNGZfWXhtUXVlVzA0YmhkYVM5UFRRSlhHaXk3SVBBeGVlTjM1aHA4eEtLTnFrUktXb1VhSVF4bVpCWnB4bzVWRFhoMTd0ZVF4bGxRMA?oc=5",
+      "title": "Honeywell (HON) director adds to deferred phantom share balance - Stock Titan",
+      "body": "Honeywell (HON) director adds to deferred phantom share balance Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "HON",
+      "tickers_hint": [
+        "HON"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HON"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

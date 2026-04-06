@@ -1,0 +1,89 @@
+[
+  {
+    "id": "0b2637f1-83b7-5d37-8930-b18b1f5d10ba",
+    "timestamp_utc": "2026-04-02T19:39:29+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/ubs-group-cuts-ppg-industries-nyseppg-price-target-to-11000-2026-04-02/",
+    "title": "UBS Group Cuts PPG Industries (NYSE:PPG) Price Target to $110.00 - MarketBeat",
+    "body": "UBS Group Cuts PPG Industries (NYSE:PPG) Price Target to $110.00 MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "PPG",
+    "tickers_hint": [
+      "PPG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.7000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "PPG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "e324aa97-12f6-578e-a2e4-a16ae062430b",
+    "timestamp_utc": "2026-04-03T06:28:13+00:00",
+    "source": "defense_world",
+    "url": "https://www.defenseworld.net/2026/04/03/citigroup-reiterates-neutral-rating-for-ppg-industries-nyseppg.html",
+    "title": "Citigroup Reiterates “Neutral” Rating for PPG Industries (NYSE:PPG) - Defense World",
+    "body": "Air Armament Engines Fighter Aircraft Helicopters Land Armored Vehicles and Tanks Ordinance and Artillery Personnel Equipment Small Arms Missiles and Space Air Defense Military Satellites Missile Technology Naval Civil Aviation Accidents Airlines Engines Manufacturers MRO Economy Management Appointments Market Trends and Finance Mergers and Acquisitions Companies",
+    "author": null,
+    "language": "en",
+    "ticker": "PPG",
+    "tickers_hint": [
+      "PPG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "defense world",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Defense World",
+      "source_domain": "defenseworld.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "PPG"
+      ],
+      "body_kind": "article_text"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "24f379b1-40d8-5ff5-8870-fe2826546bc7",
+    "timestamp_utc": "2026-04-02T21:37:07+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8769100/ubs-maintains-neutral-rating-for-ppg-adjusts-price-target-ppg-stock-news?mobile=true",
+    "title": "UBS Maintains 'Neutral' Rating for PPG, Adjusts Price Target | P - GuruFocus",
+    "body": "UBS Maintains 'Neutral' Rating for PPG, Adjusts Price Target | P GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "PPG",
+    "tickers_hint": [
+      "PPG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "PPG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "32fd2cd3-71d9-585a-b70b-28f700304197",
+      "timestamp_utc": "2026-04-01T13:00:05+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTnhTSDRJNDhWVWRlTHhya09sTHVpbk9nbGFPUTRic1k4b1dwYzZZQVgwM1dVeGNCdF9JeXpFYW9SRUtiY3NrZnBBR1drc21ERUl1Z3FiR2hnNkRLY2lwMDJFUGpHcUNQX3hFYVR2UG1fZWlQaVg0dkRVZG10SmdUbGRKa2ZsX1FjTURwazFlem56OFVPTnlpMG9DdjVxSHkx?oc=5",
+      "title": "Here is What to Know Beyond Why Berkshire Hathaway Inc. (BRK.B) is a Trending Stock - Yahoo Finance",
+      "body": "Here is What to Know Beyond Why Berkshire Hathaway Inc. (BRK.B) is a Trending Stock Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "BRK.B",
+      "tickers_hint": [
+        "BRK.B"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BRK.B"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "32fd2cd3-71d9-585a-b70b-28f700304197",
+      "timestamp_utc": "2026-04-01T13:00:05+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTnhTSDRJNDhWVWRlTHhya09sTHVpbk9nbGFPUTRic1k4b1dwYzZZQVgwM1dVeGNCdF9JeXpFYW9SRUtiY3NrZnBBR1drc21ERUl1Z3FiR2hnNkRLY2lwMDJFUGpHcUNQX3hFYVR2UG1fZWlQaVg0dkRVZG10SmdUbGRKa2ZsX1FjTURwazFlem56OFVPTnlpMG9DdjVxSHkx?oc=5",
+      "title": "Here is What to Know Beyond Why Berkshire Hathaway Inc. (BRK.B) is a Trending Stock - Yahoo Finance",
+      "body": "Here is What to Know Beyond Why Berkshire Hathaway Inc. (BRK.B) is a Trending Stock Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "BRK.B",
+      "tickers_hint": [
+        "BRK.B"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BRK.B"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

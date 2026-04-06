@@ -1,0 +1,34 @@
+[
+  {
+    "id": "a7580e01-fe85-541d-b3ad-77524f0eac2d",
+    "timestamp_utc": "2026-04-02T22:13:21+00:00",
+    "source": "msn.com",
+    "url": "https://www.msn.com/en-us/money/topstocks/here-s-what-to-expect-from-nxp-semiconductors-next-earnings-report/ar-AA2013Po",
+    "title": "Here's what to expect from NXP Semiconductors' next earnings report - msn.com",
+    "body": "Here's what to expect from NXP Semiconductors' next earnings report msn.com",
+    "author": null,
+    "language": "en",
+    "ticker": "NXPI",
+    "tickers_hint": [
+      "NXPI"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "msn.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "msn.com",
+      "source_domain": "msncom.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "NXPI"
+      ],
+      "alt_sources": [
+        "msn.com"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

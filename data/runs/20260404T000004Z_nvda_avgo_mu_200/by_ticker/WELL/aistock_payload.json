@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "b7d24175-cd99-50e1-88ee-910218398a48",
+      "timestamp_utc": "2026-04-03T14:36:00+00:00",
+      "source": "barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNcExZbDZ1RVZVQk1oMFd4dXBGblhlRE9WNkFGU0JDeWVaV2dOYmlxT3BjNGNCQUotb09jMHkyaHNGbUVMc2xObEk1cXBYZVNnTHBtMUhjTFUzN2lyQ3RkZVFKdTRwbExNZkRsYkhoRU44ckVZNTdVNm5yX3VOUDVMTFZPWURVNFdfRW1QVFAwVlF0ZU1Ba2thU0hhSmtNMl91d2xJdW1OSExNdlNGOWp4c05haVZfWm1zZlZEYnIzWWg0bHM0MlZIR20xNUI0ZTVtSV9wM3AzRUNVdG1MWENEZUpuZ1gtU3FVTXRzaHcwWDdRVW1vd2VZbFZJR0NlaHRsLXVxTlIzT2Jib2E2SVByMGREU0Fud1JhQnhVbFh4MXVwUVg5S2F0Nll4NGZNMXNxZWhNcXg4aWN2Y2dhaFBOQzkzMjAwNzNEQkFubHJrZGdOUTN0NEpNRmNacFd3WF9lcURfM1hMdTNqenk4amM0d18wYnBBWTJnektreV9RbnlxcmNOQ2kw?oc=5",
+      "title": "Why the Stock Market Has Held Up So Well Despite the Spike in Oil Prices - barrons.com",
+      "body": "Why the Stock Market Has Held Up So Well Despite the Spike in Oil Prices barrons.com",
+      "author": null,
+      "language": "en",
+      "ticker": "WELL",
+      "tickers_hint": [
+        "WELL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "barrons.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "barrons.com",
+        "source_domain": "barronscom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WELL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "b7d24175-cd99-50e1-88ee-910218398a48",
+      "timestamp_utc": "2026-04-03T14:36:00+00:00",
+      "source": "barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNcExZbDZ1RVZVQk1oMFd4dXBGblhlRE9WNkFGU0JDeWVaV2dOYmlxT3BjNGNCQUotb09jMHkyaHNGbUVMc2xObEk1cXBYZVNnTHBtMUhjTFUzN2lyQ3RkZVFKdTRwbExNZkRsYkhoRU44ckVZNTdVNm5yX3VOUDVMTFZPWURVNFdfRW1QVFAwVlF0ZU1Ba2thU0hhSmtNMl91d2xJdW1OSExNdlNGOWp4c05haVZfWm1zZlZEYnIzWWg0bHM0MlZIR20xNUI0ZTVtSV9wM3AzRUNVdG1MWENEZUpuZ1gtU3FVTXRzaHcwWDdRVW1vd2VZbFZJR0NlaHRsLXVxTlIzT2Jib2E2SVByMGREU0Fud1JhQnhVbFh4MXVwUVg5S2F0Nll4NGZNMXNxZWhNcXg4aWN2Y2dhaFBOQzkzMjAwNzNEQkFubHJrZGdOUTN0NEpNRmNacFd3WF9lcURfM1hMdTNqenk4amM0d18wYnBBWTJnektreV9RbnlxcmNOQ2kw?oc=5",
+      "title": "Why the Stock Market Has Held Up So Well Despite the Spike in Oil Prices - barrons.com",
+      "body": "Why the Stock Market Has Held Up So Well Despite the Spike in Oil Prices barrons.com",
+      "author": null,
+      "language": "en",
+      "ticker": "WELL",
+      "tickers_hint": [
+        "WELL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "barrons.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "barrons.com",
+        "source_domain": "barronscom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WELL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

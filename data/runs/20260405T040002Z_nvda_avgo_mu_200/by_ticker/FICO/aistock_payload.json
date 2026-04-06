@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "1e7b4dab-8eb5-533d-867f-1920d8460d2d",
+      "timestamp_utc": "2026-04-04T14:16:39+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DV3N2YWFaSlBVN0pYdGhMVC1TZDluWF8zelhsTElMeGtaVi1YcXAzcnUzay05bGt4UzQ2WTdUREhud2JWcFVQR01XdDdrNUx0a0E?oc=5",
+      "title": "Fair Isaac Corporation (FICO) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Fair Isaac Corporation (FICO) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "FICO",
+      "tickers_hint": [
+        "FICO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "FICO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1580f79a-ff03-5e1e-9dab-aefae3b06fd3",
+      "timestamp_utc": "2026-04-03T21:23:27+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tamZ2bmNnMW1OVXFwdExKTEtuVlh0OWhRZENSNDNpVEFxTjFCZzNFSXBSdU9NUktMMFFwTy1nTUtuMG4yN2NRaGZhYkdXT0U4SmNDQm1ld3J6UkhPQjR1cjhRSGlmUQ?oc=5",
+      "title": "FICO Jul 2026 700.000 put (FICO260717P00700000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "FICO Jul 2026 700.000 put (FICO260717P00700000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "FICO",
+      "tickers_hint": [
+        "FICO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "FICO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "1e7b4dab-8eb5-533d-867f-1920d8460d2d",
+      "timestamp_utc": "2026-04-04T14:16:39+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DV3N2YWFaSlBVN0pYdGhMVC1TZDluWF8zelhsTElMeGtaVi1YcXAzcnUzay05bGt4UzQ2WTdUREhud2JWcFVQR01XdDdrNUx0a0E?oc=5",
+      "title": "Fair Isaac Corporation (FICO) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Fair Isaac Corporation (FICO) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "FICO",
+      "tickers_hint": [
+        "FICO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "FICO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1580f79a-ff03-5e1e-9dab-aefae3b06fd3",
+      "timestamp_utc": "2026-04-03T21:23:27+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tamZ2bmNnMW1OVXFwdExKTEtuVlh0OWhRZENSNDNpVEFxTjFCZzNFSXBSdU9NUktMMFFwTy1nTUtuMG4yN2NRaGZhYkdXT0U4SmNDQm1ld3J6UkhPQjR1cjhRSGlmUQ?oc=5",
+      "title": "FICO Jul 2026 700.000 put (FICO260717P00700000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "FICO Jul 2026 700.000 put (FICO260717P00700000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "FICO",
+      "tickers_hint": [
+        "FICO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "FICO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

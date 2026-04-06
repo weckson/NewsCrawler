@@ -1,0 +1,89 @@
+[
+  {
+    "id": "0a853c48-8f94-57d2-8506-d3db6298fd82",
+    "timestamp_utc": "2026-04-02T20:22:32+00:00",
+    "source": "stocktitan.net",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQclN5SnZsWVBaTF9jb3RveGl3MnF4S1Z6LXdGbnJweXNBTjF2Q3NCbmdWOTV2akpMR3QteHZ0Zmg2NEZ4bjJiR1RQUXc4bFVyTTJuRDFVeEc1azFTSExBTnJkUFJPNW50YXFGbXl1UHFlWk9qOHdXNUhtSUo4d2MwLXQwdjYzUEt2Y2phZnNKXy1GZnYzSFBV?oc=5",
+    "title": "ROST (NASDAQ: ROST) insider 10b5-1 sales: 51,868 shares over March–April - stocktitan.net",
+    "body": "ROST (NASDAQ: ROST) insider 10b5-1 sales: 51,868 shares over March–April stocktitan.net",
+    "author": null,
+    "language": "en",
+    "ticker": "ROST",
+    "tickers_hint": [
+      "ROST"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stocktitan.net",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "stocktitan.net",
+      "source_domain": "stocktitannet.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "ROST"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "da4053a6-013a-5fea-aa3b-0b0351e66f74",
+    "timestamp_utc": "2026-04-04T01:13:48+00:00",
+    "source": "msn",
+    "url": "https://www.msn.com/en-us/money/topstocks/ross-stores-rost-up-3-since-last-earnings-report-can-it-continue/ar-AA201ijQ",
+    "title": "Ross Stores (ROST) up 3% since last earnings report: Can it continue? - MSN",
+    "body": "Ross Stores (ROST) up 3% since last earnings report: Can it continue? MSN",
+    "author": null,
+    "language": "en",
+    "ticker": "ROST",
+    "tickers_hint": [
+      "ROST"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "msn",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MSN",
+      "source_domain": "msn.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "ROST"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "4408059b-3ca8-545c-95c9-a53bae61aafe",
+    "timestamp_utc": "2026-04-02T19:59:09+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04TTR4TU12Y0N4czBEUmpmNDJWXy1lUjhKY3hiTG5vdzFvUVhWNUQtZVQtYzZDNkVOdEh3Q3o1Nnh3QjZNYWdiRXFrLWZJTjVYdmJ1ekREZTU4cGtlWWJUWjdDRF9PQQ?oc=5",
+    "title": "ROST Apr 2026 217.500 call (ROST260402C00217500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "body": "ROST Apr 2026 217.500 call (ROST260402C00217500) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "author": null,
+    "language": "en",
+    "ticker": "ROST",
+    "tickers_hint": [
+      "ROST"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo! finance canada",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "ROST"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "4148fb9f-20d2-5cb9-accc-bae2f7d2f5db",
+      "timestamp_utc": "2026-04-03T12:01:19+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HTUlra05sWXJtUlFRT0FMRXk3VW9XLWw2UzRGWmMtY2tnMGpJeTlrQVJIMHBiMFNlU2hoZWFFdjRfOTNDRDF2MmdfeXF3MTFOX25j?oc=5",
+      "title": "Admiral Group plc (ADM.L) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Admiral Group plc (ADM.L) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "4148fb9f-20d2-5cb9-accc-bae2f7d2f5db",
+      "timestamp_utc": "2026-04-03T12:01:19+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HTUlra05sWXJtUlFRT0FMRXk3VW9XLWw2UzRGWmMtY2tnMGpJeTlrQVJIMHBiMFNlU2hoZWFFdjRfOTNDRDF2MmdfeXF3MTFOX25j?oc=5",
+      "title": "Admiral Group plc (ADM.L) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Admiral Group plc (ADM.L) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

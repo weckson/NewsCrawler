@@ -1,0 +1,147 @@
+[
+  {
+    "id": "b4013b10-3bbd-50f5-9193-4e030ff5dd9e",
+    "timestamp_utc": "2026-04-01T16:10:03+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bristol-myers-bmy-beat-estimates-161003771.html",
+    "title": "Will Bristol Myers (BMY) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
+    "body": "Will Bristol Myers (BMY) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "BMY",
+    "tickers_hint": [
+      "BMY"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "BMY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "124ca264-6894-56c5-80a0-2dc89ef4696b",
+    "timestamp_utc": "2026-04-02T23:54:48+00:00",
+    "source": "investing.com_canada",
+    "url": "https://ca.investing.com/news/insider-trading-news/elkins-bristol-myers-squibb-cfo-sells-185-million-in-bmy-stock-93CH-4548301",
+    "title": "Elkins, Bristol Myers Squibb CFO, sells $1.85 million in BMY stock - Investing.com Canada",
+    "body": "Elkins, Bristol Myers Squibb CFO, sells $1.85 million in BMY stock Investing.com Canada",
+    "author": null,
+    "language": "en",
+    "ticker": "BMY",
+    "tickers_hint": [
+      "BMY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "investing.com canada",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Investing.com Canada",
+      "source_domain": "investingcomcanada.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "BMY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "23b7f51d-0dc8-5a9e-9b56-5fb5acd455d4",
+    "timestamp_utc": "2026-04-01T20:01:07+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/bristol-myers-squibb-target-of-unusually-high-options-trading-nysebmy-2026-04-01/",
+    "title": "Bristol Myers Squibb Target of Unusually High Options Trading (NYSE:BMY) - MarketBeat",
+    "body": "Bristol Myers Squibb Target of Unusually High Options Trading (NYSE:BMY) MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "BMY",
+    "tickers_hint": [
+      "BMY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "BMY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "b94d6a57-caf8-50b3-8934-3b76250cda9a",
+    "timestamp_utc": "2026-04-01T10:44:46+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-bristol-myers-squibb-company-bmy-shares-bought-by-nisa-investment-advisors-llc-2026-04-01/",
+    "title": "Bristol Myers Squibb Company $BMY Shares Bought by Nisa Investment Advisors LLC - MarketBeat",
+    "body": "Bristol Myers Squibb Company $BMY Shares Bought by Nisa Investment Advisors LLC MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "BMY",
+    "tickers_hint": [
+      "BMY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "BMY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "135fb07a-13a4-5414-9287-cf2c6f3d4498",
+    "timestamp_utc": "2026-04-02T20:26:15+00:00",
+    "source": "gurufocus",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN28xbEZGUjFRc3UwbjFvdVRaWGd0cXRHOGR3WWJ6Mms0TThjWTRhaERpLTdZMG9vaHFjMjc2R0hDUWFHV1h5TU44c3dyR0dSaXRuUUFRaGpSMzVHMThKS2VmV3E5clFybGxJY3hXYjNGTVI5M093aVdJUUd6LWVGZ2hFdFpFQXhtcmV2UEtjRXIyYWVRMnBhR0pseHgtMlJ6a0N5TQ?oc=5",
+    "title": "Bristol-Myers Squibb Co (BMY) Shares Down 3.58% on Apr 2 - GuruFocus",
+    "body": "Bristol-Myers Squibb Co (BMY) Shares Down 3.58% on Apr 2 GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "BMY",
+    "tickers_hint": [
+      "BMY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "BMY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "3952b2a7-4650-5a97-87b6-5a297806c817",
+    "timestamp_utc": "2026-04-03T08:07:49+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ZX1RNVGpxN0VHbTEwTGxEbEFlUnoyYjFxWXJXSzJFOWpqNlFlZG8zVzNlZkhhaDFIMU9YcWhsaXgzTUhRZC1BeHN3TG9ZQQ?oc=5",
+    "title": "Fair Isaac Corporation (FICO) Stock Price, News, Quote & History - Yahoo Finance",
+    "body": "Fair Isaac Corporation (FICO) Stock Price, News, Quote & History Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "FICO",
+    "tickers_hint": [
+      "FICO"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "FICO"
+      ],
+      "alt_sources": [
+        "Yahoo Finance"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "a2ff3550-2131-5f4e-8290-f91cf77fb7b6",
+    "timestamp_utc": "2026-04-02T23:48:45+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8769040/goldman-sachs-lowers-price-target-for-fair-isaac-fico-fico-stock-news?mobile=true",
+    "title": "Goldman Sachs Lowers Price Target for Fair Isaac (FICO) | FICO S - GuruFocus",
+    "body": "Goldman Sachs Lowers Price Target for Fair Isaac (FICO) | FICO S GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "FICO",
+    "tickers_hint": [
+      "FICO"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "FICO"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "2d8f2619-9182-5ea1-a59a-27c2d84c2a6d",
+    "timestamp_utc": "2026-04-01T10:24:23+00:00",
+    "source": "intellectia_ai",
+    "url": "https://intellectia.ai/en/stock/FICO/technical",
+    "title": "FICO Technical Analysis & Stock Price Forecast - Intellectia AI",
+    "body": "FICO Technical Analysis & Stock Price Forecast Intellectia AI",
+    "author": null,
+    "language": "en",
+    "ticker": "FICO",
+    "tickers_hint": [
+      "FICO"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "intellectia ai",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Intellectia AI",
+      "source_domain": "intellectiaai.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "FICO"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

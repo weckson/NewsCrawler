@@ -1,0 +1,31 @@
+[
+  {
+    "id": "09c94f75-ae28-5ea8-8701-f5027b1c4cf8",
+    "timestamp_utc": "2026-04-03T11:20:20+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-genesis-financial-group-llc-acquires-shares-of-48805-medtronic-plc-mdt-2026-04-03/",
+    "title": "Genesis Financial Group LLC Acquires Shares of 48,805 Medtronic PLC $MDT - MarketBeat",
+    "body": "Genesis Financial Group LLC Acquires Shares of 48,805 Medtronic PLC $MDT MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "MDT",
+    "tickers_hint": [
+      "MDT"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "MDT"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

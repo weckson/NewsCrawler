@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "65e6d952-435c-5e37-a7a7-de783b829987",
+      "timestamp_utc": "2026-04-02T14:15:59+00:00",
+      "source": "investing.com",
+      "url": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-dollar-general-stock-rating-on-momentum-ceo-transition-93CH-4595858",
+      "title": "UBS reiterates Dollar General stock rating on momentum, CEO transition - investing.com",
+      "body": "UBS reiterates Dollar General stock rating on momentum, CEO transition investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "DG",
+      "tickers_hint": [
+        "DG"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "DG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b18e8bae-d550-551b-ba27-184b72806dd6",
+      "timestamp_utc": "2026-04-03T07:17:32+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-allspring-global-investments-holdings-llc-buys-209167-shares-of-dollar-general-corporation-dg-2026-04-03/",
+      "title": "Allspring Global Investments Holdings LLC Buys 209,167 Shares of Dollar General Corporation $DG - MarketBeat",
+      "body": "Allspring Global Investments Holdings LLC Buys 209,167 Shares of Dollar General Corporation $DG MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "DG",
+      "tickers_hint": [
+        "DG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "65e6d952-435c-5e37-a7a7-de783b829987",
+      "timestamp_utc": "2026-04-02T14:15:59+00:00",
+      "source": "investing.com",
+      "url": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-dollar-general-stock-rating-on-momentum-ceo-transition-93CH-4595858",
+      "title": "UBS reiterates Dollar General stock rating on momentum, CEO transition - investing.com",
+      "body": "UBS reiterates Dollar General stock rating on momentum, CEO transition investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "DG",
+      "tickers_hint": [
+        "DG"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "DG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b18e8bae-d550-551b-ba27-184b72806dd6",
+      "timestamp_utc": "2026-04-03T07:17:32+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-allspring-global-investments-holdings-llc-buys-209167-shares-of-dollar-general-corporation-dg-2026-04-03/",
+      "title": "Allspring Global Investments Holdings LLC Buys 209,167 Shares of Dollar General Corporation $DG - MarketBeat",
+      "body": "Allspring Global Investments Holdings LLC Buys 209,167 Shares of Dollar General Corporation $DG MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "DG",
+      "tickers_hint": [
+        "DG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "c0ab3d98-e983-5ab6-8975-bf724a742bb4",
+      "timestamp_utc": "2026-04-02T23:33:47+00:00",
+      "source": "bitget",
+      "url": "https://www.bitget.com/news/detail/12560605335036",
+      "title": "ITW Executives Take Profits Amid Earnings Beat, But Director Trust Buys Suggest Split Conviction Before Key Catalysts - Bitget",
+      "body": "ITW Executives Take Profits Amid Earnings Beat, But Director Trust Buys Suggest Split Conviction Before Key Catalysts Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "ITW",
+      "tickers_hint": [
+        "ITW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "ITW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "32509835-3a14-5809-9770-6fd80a8c19b0",
+      "timestamp_utc": "2026-04-04T07:15:58+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-illinois-tool-works-inc-itw-position-boosted-by-aberdeen-group-plc-2026-04-04/",
+      "title": "Illinois Tool Works Inc. $ITW Position Boosted by Aberdeen Group plc - MarketBeat",
+      "body": "Illinois Tool Works Inc. $ITW Position Boosted by Aberdeen Group plc MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ITW",
+      "tickers_hint": [
+        "ITW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ITW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "77a720fe-fa0e-562e-ab15-4403ad0ac9fb",
+      "timestamp_utc": "2026-04-03T08:54:27+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaWR3ODNBa2lSYS1LVlF5bkpBc0FlenduZnVLZTBZWnZKRlpWMWlJYTdUTFZHMmRGX0Z1dndWd0taQ3M1dnFOZmZQR2hRTnZNLWNrV3dBZFVjZEVka25UUzRhVzdnNzF6NUNGQlByT2hXcGpkUEt2LVZSUTlxSHRZeGJjVzVBS1ZEUV9zVno5MW5QUHlYWUUtSUpLcFVGZGE0Qll2dFRiamc0bGZZQmo1TlRhTUhxS0xkcHc?oc=5",
+      "title": "Dorato Capital Management Buys Shares of 2,065 Illinois Tool Works Inc. $ITW - Defense World",
+      "body": "Dorato Capital Management Buys Shares of 2,065 Illinois Tool Works Inc. $ITW Defense World",
+      "author": null,
+      "language": "en",
+      "ticker": "ITW",
+      "tickers_hint": [
+        "ITW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ITW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "c0ab3d98-e983-5ab6-8975-bf724a742bb4",
+      "timestamp_utc": "2026-04-02T23:33:47+00:00",
+      "source": "bitget",
+      "url": "https://www.bitget.com/news/detail/12560605335036",
+      "title": "ITW Executives Take Profits Amid Earnings Beat, But Director Trust Buys Suggest Split Conviction Before Key Catalysts - Bitget",
+      "body": "ITW Executives Take Profits Amid Earnings Beat, But Director Trust Buys Suggest Split Conviction Before Key Catalysts Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "ITW",
+      "tickers_hint": [
+        "ITW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "ITW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "32509835-3a14-5809-9770-6fd80a8c19b0",
+      "timestamp_utc": "2026-04-04T07:15:58+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-illinois-tool-works-inc-itw-position-boosted-by-aberdeen-group-plc-2026-04-04/",
+      "title": "Illinois Tool Works Inc. $ITW Position Boosted by Aberdeen Group plc - MarketBeat",
+      "body": "Illinois Tool Works Inc. $ITW Position Boosted by Aberdeen Group plc MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ITW",
+      "tickers_hint": [
+        "ITW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ITW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "77a720fe-fa0e-562e-ab15-4403ad0ac9fb",
+      "timestamp_utc": "2026-04-03T08:54:27+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaWR3ODNBa2lSYS1LVlF5bkpBc0FlenduZnVLZTBZWnZKRlpWMWlJYTdUTFZHMmRGX0Z1dndWd0taQ3M1dnFOZmZQR2hRTnZNLWNrV3dBZFVjZEVka25UUzRhVzdnNzF6NUNGQlByT2hXcGpkUEt2LVZSUTlxSHRZeGJjVzVBS1ZEUV9zVno5MW5QUHlYWUUtSUpLcFVGZGE0Qll2dFRiamc0bGZZQmo1TlRhTUhxS0xkcHc?oc=5",
+      "title": "Dorato Capital Management Buys Shares of 2,065 Illinois Tool Works Inc. $ITW - Defense World",
+      "body": "Dorato Capital Management Buys Shares of 2,065 Illinois Tool Works Inc. $ITW Defense World",
+      "author": null,
+      "language": "en",
+      "ticker": "ITW",
+      "tickers_hint": [
+        "ITW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ITW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

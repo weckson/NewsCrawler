@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "9a0227bf-513c-5768-a9d9-573198470e5c",
+      "timestamp_utc": "2026-04-02T20:15:53+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbzRiaTlIdkJRanE0T3lnNjBPWTJtM0lQbURTaXVSSmhRaG5OYnJiaTFoUDVaU0l2UUpWcVlzX3ZOelo2ZUFadERUTHd3NWhud1FmRmliT0V1bkZVRklPcFRoTmhyeDIzaEltZlhVUkxWUjBlSnNUMXllUXM0MWJHMmFrOVNHVVk2OHM5dF9CZzNOY1Rnd0VyNFNRN2oydElzV3NNT3Y0bXVpNUhER2M3bG1reWJaWDZpOTl6N3dFN3JtZ29XaFE?oc=5",
+      "title": "Ellen Siminoff (TTWO) receives 116-share fully vested board grant - Stock Titan",
+      "body": "Ellen Siminoff (TTWO) receives 116-share fully vested board grant Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "TTWO",
+      "tickers_hint": [
+        "TTWO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TTWO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d3024082-001f-5f2c-a3ca-653a85759836",
+      "timestamp_utc": "2026-04-02T20:13:36+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaXBweENhbi1zQ1lUcERtOXZmamRVTmNYN1o1TEVxcFh4Q012VU1XY1NBMWlGTW84N0lBY2ZRa3R6b0VyM2ZwakJOdHVIMEVCTTU5SUNzVDdMMEZxMmpmaUNDSmZtNnU2V25SV0h4Vlg3amJ3Tk1KME1IeFJ0ZjNLb3ZfTEV4MlNXZXdxSjJCWmoxMTNPcjNBLXVUa2JDSTlic2FIUHR1YU16TzRTT2JFLTRhOTMyNFlFZ0JmMUhQVkxqVFR3YUE?oc=5",
+      "title": "Take-Two (NASDAQ: TTWO) director gets 103-share stock retainer grant - Stock Titan",
+      "body": "Take-Two (NASDAQ: TTWO) director gets 103-share stock retainer grant Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "TTWO",
+      "tickers_hint": [
+        "TTWO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TTWO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9614e283-bf16-54c1-8b82-37c7160242be",
+      "timestamp_utc": "2026-04-02T16:56:58+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92eU1JbzVHY2g0TThhRlY1NERwdWtubWFrUzl1eTdmRkxYQkhwOFQxMlhia3hLZHp1WEp0NGNiNDhCUEZBYml0aGlzSGRHQzBWZ0gwQnROaFg4Z21CYnY4LTZkeFpSdw?oc=5",
+      "title": "TTWO Apr 2026 180.000 call (TTWO260402C00180000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "TTWO Apr 2026 180.000 call (TTWO260402C00180000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "TTWO",
+      "tickers_hint": [
+        "TTWO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TTWO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "9a0227bf-513c-5768-a9d9-573198470e5c",
+      "timestamp_utc": "2026-04-02T20:15:53+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbzRiaTlIdkJRanE0T3lnNjBPWTJtM0lQbURTaXVSSmhRaG5OYnJiaTFoUDVaU0l2UUpWcVlzX3ZOelo2ZUFadERUTHd3NWhud1FmRmliT0V1bkZVRklPcFRoTmhyeDIzaEltZlhVUkxWUjBlSnNUMXllUXM0MWJHMmFrOVNHVVk2OHM5dF9CZzNOY1Rnd0VyNFNRN2oydElzV3NNT3Y0bXVpNUhER2M3bG1reWJaWDZpOTl6N3dFN3JtZ29XaFE?oc=5",
+      "title": "Ellen Siminoff (TTWO) receives 116-share fully vested board grant - Stock Titan",
+      "body": "Ellen Siminoff (TTWO) receives 116-share fully vested board grant Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "TTWO",
+      "tickers_hint": [
+        "TTWO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TTWO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d3024082-001f-5f2c-a3ca-653a85759836",
+      "timestamp_utc": "2026-04-02T20:13:36+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaXBweENhbi1zQ1lUcERtOXZmamRVTmNYN1o1TEVxcFh4Q012VU1XY1NBMWlGTW84N0lBY2ZRa3R6b0VyM2ZwakJOdHVIMEVCTTU5SUNzVDdMMEZxMmpmaUNDSmZtNnU2V25SV0h4Vlg3amJ3Tk1KME1IeFJ0ZjNLb3ZfTEV4MlNXZXdxSjJCWmoxMTNPcjNBLXVUa2JDSTlic2FIUHR1YU16TzRTT2JFLTRhOTMyNFlFZ0JmMUhQVkxqVFR3YUE?oc=5",
+      "title": "Take-Two (NASDAQ: TTWO) director gets 103-share stock retainer grant - Stock Titan",
+      "body": "Take-Two (NASDAQ: TTWO) director gets 103-share stock retainer grant Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "TTWO",
+      "tickers_hint": [
+        "TTWO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TTWO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9614e283-bf16-54c1-8b82-37c7160242be",
+      "timestamp_utc": "2026-04-02T16:56:58+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92eU1JbzVHY2g0TThhRlY1NERwdWtubWFrUzl1eTdmRkxYQkhwOFQxMlhia3hLZHp1WEp0NGNiNDhCUEZBYml0aGlzSGRHQzBWZ0gwQnROaFg4Z21CYnY4LTZkeFpSdw?oc=5",
+      "title": "TTWO Apr 2026 180.000 call (TTWO260402C00180000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "TTWO Apr 2026 180.000 call (TTWO260402C00180000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "TTWO",
+      "tickers_hint": [
+        "TTWO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TTWO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

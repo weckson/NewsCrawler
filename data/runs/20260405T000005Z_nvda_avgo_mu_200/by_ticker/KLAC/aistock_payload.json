@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "c02ac623-2789-518d-888a-4a722aa217f8",
+      "timestamp_utc": "2026-04-04T15:50:21+00:00",
+      "source": "intellectia.ai",
+      "url": "https://intellectia.ai/en/stock/KLAC/earnings",
+      "title": "KLAC Earning Date, Earning Analysis and Earning Prediction - intellectia.ai",
+      "body": "KLAC Earning Date, Earning Analysis and Earning Prediction intellectia.ai",
+      "author": null,
+      "language": "en",
+      "ticker": "KLAC",
+      "tickers_hint": [
+        "KLAC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia.ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "intellectia.ai",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KLAC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "c02ac623-2789-518d-888a-4a722aa217f8",
+      "timestamp_utc": "2026-04-04T15:50:21+00:00",
+      "source": "intellectia.ai",
+      "url": "https://intellectia.ai/en/stock/KLAC/earnings",
+      "title": "KLAC Earning Date, Earning Analysis and Earning Prediction - intellectia.ai",
+      "body": "KLAC Earning Date, Earning Analysis and Earning Prediction intellectia.ai",
+      "author": null,
+      "language": "en",
+      "ticker": "KLAC",
+      "tickers_hint": [
+        "KLAC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia.ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "intellectia.ai",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KLAC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}
