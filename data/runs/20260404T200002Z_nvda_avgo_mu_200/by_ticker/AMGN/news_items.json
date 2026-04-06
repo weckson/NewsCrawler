@@ -1,0 +1,60 @@
+[
+  {
+    "id": "b74b6979-3d75-5e66-a932-4ffb2936d0e6",
+    "timestamp_utc": "2026-04-02T21:50:02+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZnVJbWtickgyY3NFUWxwRUZycHZEdDBPY05KOXNkQVhqLU1oT3MzYXp5MXp2WXRyMWl4bWN0TGFBRFhDcFhzbkhBa3lwbldUclJtUDFaWDFPMlljc1ZzdUxpMUppb05ZNHBsLVJMejJlSWducF9FY282SjNvZ1c2NHBmNDJNdTlkdU1LakwxUDR0eXM0Vy1WWWpYT1Q?oc=5",
+    "title": "Amgen (AMGN) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
+    "body": "Amgen (AMGN) Stock Declines While Market Improves: Some Information for Investors Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "AMGN",
+    "tickers_hint": [
+      "AMGN"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "AMGN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "161ad56c-3407-5bb9-8c15-9becf68caee2",
+    "timestamp_utc": "2026-04-03T08:17:49+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-dorato-capital-management-invests-158-million-in-amgen-inc-amgn-2026-04-03/",
+    "title": "Dorato Capital Management Invests $1.58 Million in Amgen Inc. $AMGN - MarketBeat",
+    "body": "Dorato Capital Management Invests $1.58 Million in Amgen Inc. $AMGN MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "AMGN",
+    "tickers_hint": [
+      "AMGN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "AMGN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

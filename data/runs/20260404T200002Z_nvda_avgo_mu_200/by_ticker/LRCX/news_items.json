@@ -1,0 +1,60 @@
+[
+  {
+    "id": "d99228dc-e070-536f-9ddd-f347e324d95a",
+    "timestamp_utc": "2026-04-02T20:59:37+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/lam-research-nasdaqlrcx-stock-price-down-16-on-analyst-downgrade-2026-04-02/",
+    "title": "Lam Research (NASDAQ:LRCX) Stock Price Down 1.6% on Analyst Downgrade - MarketBeat",
+    "body": "Lam Research (NASDAQ:LRCX) Stock Price Down 1.6% on Analyst Downgrade MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "LRCX",
+    "tickers_hint": [
+      "LRCX"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.7500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "LRCX"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "a3f68dd8-b8a5-5fde-beca-8b918954db45",
+    "timestamp_utc": "2026-04-04T12:30:18+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-whalen-wealth-management-inc-makes-new-142-million-investment-in-lam-research-corporation-lrcx-2026-04-04/",
+    "title": "Whalen Wealth Management Inc. Makes New $1.42 Million Investment in Lam Research Corporation $LRCX - MarketBeat",
+    "body": "Whalen Wealth Management Inc. Makes New $1.42 Million Investment in Lam Research Corporation $LRCX MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "LRCX",
+    "tickers_hint": [
+      "LRCX"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "LRCX"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

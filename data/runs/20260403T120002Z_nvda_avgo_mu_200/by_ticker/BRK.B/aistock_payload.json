@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "32fd2cd3-71d9-585a-b70b-28f700304197",
+      "timestamp_utc": "2026-04-01T13:00:05+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTnhTSDRJNDhWVWRlTHhya09sTHVpbk9nbGFPUTRic1k4b1dwYzZZQVgwM1dVeGNCdF9JeXpFYW9SRUtiY3NrZnBBR1drc21ERUl1Z3FiR2hnNkRLY2lwMDJFUGpHcUNQX3hFYVR2UG1fZWlQaVg0dkRVZG10SmdUbGRKa2ZsX1FjTURwazFlem56OFVPTnlpMG9DdjVxSHkx?oc=5",
+      "title": "Here is What to Know Beyond Why Berkshire Hathaway Inc. (BRK.B) is a Trending Stock - Yahoo Finance",
+      "body": "Here is What to Know Beyond Why Berkshire Hathaway Inc. (BRK.B) is a Trending Stock Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "BRK.B",
+      "tickers_hint": [
+        "BRK.B"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BRK.B"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3103edc0-2aa8-58b6-bc1c-4f41a5efe131",
+      "timestamp_utc": "2026-04-03T04:22:01+00:00",
+      "source": "stock_traders_daily",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZnhnbzd0UnJ4YlFsbXozV2JLUDlhZ1UzWllXVk9RNUFndnhGZVNiajJnaXViNGJsMkhzc2NKN2RtanJ1VmVKanE2QjNqWXNJaVU1RHFBWVdEOFNxc3MtYWlhQlVPVm5faDlSQXRyUzRhcGM2eWNIUTNMRGlwMUJ5QmlLdzZxc0pITFdiNjFaUDJPajE0dXZYV3E1eTVmU3NiLXYzclFoOGsxZWFvUFZ4YzJSb1I0SGkyNzRINW9qQjZyYTFIa05aUzNqZ3Q3Zw?oc=5",
+      "title": "Behavioral Patterns of BRK.B and Institutional Flows - Stock Traders Daily",
+      "body": "Behavioral Patterns of BRK.B and Institutional Flows Stock Traders Daily",
+      "author": null,
+      "language": "en",
+      "ticker": "BRK.B",
+      "tickers_hint": [
+        "BRK.B"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock traders daily",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Traders Daily",
+        "source_domain": "stocktradersdaily.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BRK.B"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "32fd2cd3-71d9-585a-b70b-28f700304197",
+      "timestamp_utc": "2026-04-01T13:00:05+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTnhTSDRJNDhWVWRlTHhya09sTHVpbk9nbGFPUTRic1k4b1dwYzZZQVgwM1dVeGNCdF9JeXpFYW9SRUtiY3NrZnBBR1drc21ERUl1Z3FiR2hnNkRLY2lwMDJFUGpHcUNQX3hFYVR2UG1fZWlQaVg0dkRVZG10SmdUbGRKa2ZsX1FjTURwazFlem56OFVPTnlpMG9DdjVxSHkx?oc=5",
+      "title": "Here is What to Know Beyond Why Berkshire Hathaway Inc. (BRK.B) is a Trending Stock - Yahoo Finance",
+      "body": "Here is What to Know Beyond Why Berkshire Hathaway Inc. (BRK.B) is a Trending Stock Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "BRK.B",
+      "tickers_hint": [
+        "BRK.B"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BRK.B"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3103edc0-2aa8-58b6-bc1c-4f41a5efe131",
+      "timestamp_utc": "2026-04-03T04:22:01+00:00",
+      "source": "stock_traders_daily",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZnhnbzd0UnJ4YlFsbXozV2JLUDlhZ1UzWllXVk9RNUFndnhGZVNiajJnaXViNGJsMkhzc2NKN2RtanJ1VmVKanE2QjNqWXNJaVU1RHFBWVdEOFNxc3MtYWlhQlVPVm5faDlSQXRyUzRhcGM2eWNIUTNMRGlwMUJ5QmlLdzZxc0pITFdiNjFaUDJPajE0dXZYV3E1eTVmU3NiLXYzclFoOGsxZWFvUFZ4YzJSb1I0SGkyNzRINW9qQjZyYTFIa05aUzNqZ3Q3Zw?oc=5",
+      "title": "Behavioral Patterns of BRK.B and Institutional Flows - Stock Traders Daily",
+      "body": "Behavioral Patterns of BRK.B and Institutional Flows Stock Traders Daily",
+      "author": null,
+      "language": "en",
+      "ticker": "BRK.B",
+      "tickers_hint": [
+        "BRK.B"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock traders daily",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Traders Daily",
+        "source_domain": "stocktradersdaily.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BRK.B"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

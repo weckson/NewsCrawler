@@ -1,0 +1,60 @@
+[
+  {
+    "id": "ac3eb2ac-90dd-5641-9653-19b0f049b840",
+    "timestamp_utc": "2026-04-02T19:01:00+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVGZ4STQ4b2NOUHNORjNjazUwUnhtVU9GdUg5enZnMFdVTkN6dno4SHkzWlNrT1dtWS1QUUxEMWxkQ3JuV05FUzdrYmxiQmlhWlJ1R19QS3BSVEwtTWgyWm1JZnhTWFpsdE1jbmRsTWpkLUlrc1FjQTJBZFI3Q2RpaV8yLTAwd0F5TkltQnVBOEFfY2hkZ1pqTnduX3E2eExXWjFmLW5qd1FlbVE?oc=5",
+    "title": "Corning (NYSE: GLW) EVP receives 9,692 restricted stock units - Stock Titan",
+    "body": "Corning (NYSE: GLW) EVP receives 9,692 restricted stock units Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "GLW",
+    "tickers_hint": [
+      "GLW"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "GLW"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "404b3e07-40f4-5754-8d7a-3a1a9e910334",
+    "timestamp_utc": "2026-04-02T18:53:10+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORTdTM3pweUliY0tkOHR5cmRGcHQwclBaTnk5VTFBcmJoaWZ0UzBNV1RKbGU2alNDdGFmejFEUlE1Tkx0dkJISUl0cEhGX2E0T0t3a1NHeWJlUFV6bTRBNldlejNUV1BIcGhHNHhTZnA0QXJ6TFg2WGRwc01aRWNaS0JrMEpIekpremJKaHpqWE9LejFjbmx4Sko2VjRfSGc2ei1qa01yU2ZRSkk?oc=5",
+    "title": "Corning (NYSE: GLW) SVP receives 4,056 RSUs and reports equity holdings - Stock Titan",
+    "body": "Corning (NYSE: GLW) SVP receives 4,056 RSUs and reports equity holdings Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "GLW",
+    "tickers_hint": [
+      "GLW"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "GLW"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

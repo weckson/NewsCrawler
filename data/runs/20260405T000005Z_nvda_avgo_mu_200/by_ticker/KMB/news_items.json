@@ -1,0 +1,31 @@
+[
+  {
+    "id": "4711fc75-ec9d-594c-ac81-7fcc6be58c89",
+    "timestamp_utc": "2026-04-03T20:45:56+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsZlgzN0RkUzJPc1FkaG5XdUo1dHpLcUJCQkZSajBheFlxM2Rvd1pPM0YwVXBCVnpCOUZuYTA3Y2EwX09pMnZIWUpHYi0tbnMyUUlPc3hDMklYN0RQLXljX18zNEE?oc=5",
+    "title": "KMB Jun 2026 195.000 call (KMB260618C00195000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "body": "KMB Jun 2026 195.000 call (KMB260618C00195000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "author": null,
+    "language": "en",
+    "ticker": "KMB",
+    "tickers_hint": [
+      "KMB"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo! finance canada",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "KMB"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

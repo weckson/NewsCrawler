@@ -1,0 +1,530 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "0d4937e4-eff8-511d-b7bb-67bc2a67ba90",
+      "timestamp_utc": "2026-04-02T09:06:54+00:00",
+      "source": "marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-sg-americas-securities-llc-decreases-stake-in-yum-brands-inc-yum-2026-04-02/",
+      "title": "SG Americas Securities LLC Decreases Stake in Yum! Brands, Inc. $YUM - marketbeat.com",
+      "body": "SG Americas Securities LLC Decreases Stake in Yum! Brands, Inc. $YUM marketbeat.com",
+      "author": null,
+      "language": "en",
+      "ticker": "YUM",
+      "tickers_hint": [
+        "YUM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "marketbeat.com",
+        "source_domain": "marketbeatcom.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "YUM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a3588c1f-cf74-5b86-a993-b6e3580009d4",
+      "timestamp_utc": "2026-04-03T06:06:49+00:00",
+      "source": "bitget",
+      "url": "https://www.bitget.com/news/detail/12560605335654",
+      "title": "Yum! Brands' Revenue Beat Hides Margin Squeeze as Expansion Costs Outpace Profits - Bitget",
+      "body": "Yum! Brands' Revenue Beat Hides Margin Squeeze as Expansion Costs Outpace Profits Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "YUM",
+      "tickers_hint": [
+        "YUM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "YUM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fedd7105-6eb8-5674-af5e-495d462ea775",
+      "timestamp_utc": "2026-04-03T20:00:24+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0lsSjF1LWtSclRHdXRmWTNLYUdrQXc4U05vMFp0LVRaWXNSS1JHMHdEaVFDeFBJYllUTHRsMGJrRV9NSFZJMEYtYXdjbWMtN3FQYWdvVDJVYngwWU0wS212V3FyUHQ4dGNWU3hobXV3Sm9sc2hiM0RVQldiRlIxZnVkbDY4ZldwY2Y1TWNkUl83azRuUFQ3WDBWMUc4UzRiNXJHTDduUHdrVE81SktJ?oc=5",
+      "title": "YUM Brands (NYSE: YUM) 2026 proxy pits board against 10% special-meeting push - Stock Titan",
+      "body": "YUM Brands (NYSE: YUM) 2026 proxy pits board against 10% special-meeting push Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "YUM",
+      "tickers_hint": [
+        "YUM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "YUM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f58f9538-2352-5db9-b801-c53ece7fb0c5",
+      "timestamp_utc": "2026-04-02T14:06:58+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUNDWlVCT0tVbV9jQVJCV05ScFhaOXNDU2JzZy1jUHNleUhLNzM5NlNDMkdIQnoyTGFhdUNMbmhfTEE1aE1CaVAxSVZMTGsyQ1I0SENqdXdGR2ZMdU51SG1ONUg3RTVnb3pJclEtTEctVjExcU9adUhhZHd5MjI4cnZXc2wwVHoySlkxUFVWTG5uUm55Y1NJMVg1TDUyWFNncWt3c2d3WFp0bTQ?oc=5",
+      "title": "YUM Brands (YUM) director granted phantom stock units and 910 shares - Stock Titan",
+      "body": "YUM Brands (YUM) director granted phantom stock units and 910 shares Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "YUM",
+      "tickers_hint": [
+        "YUM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "YUM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7615e747-19ad-5afe-9678-0191f9a787b7",
+      "timestamp_utc": "2026-04-02T14:04:54+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZFUyRmJydml2ZTZUUmFuaHBXSW1QVHlDUEZzSDVuVXlxSkVNRWVEa3l1bFVtYUFHa3RRZko4bjJ0cVF6NEdnQ0lhbUdoZkpKeE95OWNSRDl6YWxqQ2JjMms4eVJGSDR1UktQdnBRSFNKNFRPSEdzSGpmY0t5eXNIOF9sOWtaUHlMNnZRWmxBQ19fZFVqeVIta3M4V2tVR09jU3A4SmtxU0o4cUx4Uk5HZVNYVzNkWGt0eVR2NmNha1dIQQ?oc=5",
+      "title": "Yum Brands (YUM) director Kathleen Oberg files initial Form 3 disclosure - Stock Titan",
+      "body": "Yum Brands (YUM) director Kathleen Oberg files initial Form 3 disclosure Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "YUM",
+      "tickers_hint": [
+        "YUM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "YUM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "42cd06b0-9ce8-57c8-8b40-8e2b93a13050",
+      "timestamp_utc": "2026-04-03T20:10:08+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeDdOWGVpeTY3c2p1UHpDUVhBdUY1V1ZBc2VHUllaNDBDNFROWUN4SlBPdGJuenRPVDJ3a01VNFZRdWFKcnBQMVBESUVmQ1NueUNNd3RmZ3N4N2ttMm9zX0ttc1daa1V6dS0yTnFRbVB5X2RTVFF3MUR4dGd0QjlidlE3Z2dYbmZpaWRJakMxT2hZV2tv?oc=5",
+      "title": "[ARS] YUM BRANDS INC SEC Filing - Stock Titan",
+      "body": "[ARS] YUM BRANDS INC SEC Filing Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "YUM",
+      "tickers_hint": [
+        "YUM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "YUM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2e5a097b-945f-51b7-8484-f544fc399f51",
+      "timestamp_utc": "2026-04-02T20:50:00+00:00",
+      "source": "marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxOclBrV0JUanFCaEVmZm15ZEcxWE1UZ2pHNm1PT0R3QldoZk1QaURFNnhmTmhQR3J6QnIyaWx5X0l3czBJYS1zTmQtaHlnSnhWaVRWSGlVVG4xMWFrOXhTYVRXeElmLUJ5dHNvbE1YM1lBZkRTMUdTaVhwQk5HRE9KOUpYNDR6emJ1bE1mTXVwbGtlR2V0MVNtMWJyRE9ZNTVmZXZqS0Ntb2dxN0F3dHU1c2hHWC1Fek5IVUVoY2lqUFEyWU9FWUJzM2Y0VTdBNjBZUDl3RlYxTF9nbG1ZMVVRTDJPNTBFY2ZNV08tNWFKTmVwY3VwQUZzZG1Ub0RaZFVyaDB2OElROG44RFF2OTVXSTV4WmxiSVY3QkpaUjVIQktTZFEtR0VxSTRyRW1nX0hCQ1RHRjBSWk0ydVRGYWh5T2VqQmZMT3llaVQtc21qajJ2dlhfN2dfVHVnUzNORWREQ29sdHl3ZXp0by1hVC11ZkVFNWFGZ2xOMWswWktmcFRuNUk4ZjA0c2VzNHlzbTBycm5KVTB6LVQwUDFVb2F5bXh3WUltUUwwTDd4WXlMOW5pdkZKRml3NTExNWlfQlJLaF9ueGo3dEJ0dw?oc=5",
+      "title": "Yum! Brands Inc. stock outperforms competitors on strong trading day - marketwatch.com",
+      "body": "Yum! Brands Inc. stock outperforms competitors on strong trading day marketwatch.com",
+      "author": null,
+      "language": "en",
+      "ticker": "YUM",
+      "tickers_hint": [
+        "YUM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketwatch.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "marketwatch.com",
+        "source_domain": "marketwatchcom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "YUM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "24c60be2-827a-5417-b456-70b3a68671b0",
+      "timestamp_utc": "2026-04-02T18:42:04+00:00",
+      "source": "nation’s_restaurant_news",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNblV3Q21ZSXoxSVFfZ0xEblVWTFl1bWxVZHJIZzhuNlBLWTNzYWVHR3Ytc0tiMHJ5ZHpMU0t6dy1yMTNOOVJWMEx1djZBVlNUSHJaWVNONnY4WnJWcDFYZ0p2aktUV3VmendnN0M2d3hpam9PRzMwWHRkcDJjektZazA1V2VqMVgzYlBLUy1zX2ZVTmZvYnM4ZkxTVzBxdDdQLUJHX3ladG12Ulh3cHNsdkhGY01lQlF3akdBdlMtN0htRE5FUG4wXzF3eE1ZOVZyVHFnUmg3V0phRUhRNW44X0trbll4N2xHYVpqU3dMeFB6Zw?oc=5",
+      "title": "Yum! Brands adds Kathleen Oberg to board - Nation’s Restaurant News",
+      "body": "Yum! Brands adds Kathleen Oberg to board Nation’s Restaurant News",
+      "author": null,
+      "language": "en",
+      "ticker": "YUM",
+      "tickers_hint": [
+        "YUM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "nation’s restaurant news",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Nation’s Restaurant News",
+        "source_domain": "nationsrestaurantnews.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "YUM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3e9131f7-c779-5003-9e73-872b0f409fb9",
+      "timestamp_utc": "2026-04-02T16:19:28+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRklnVGVaZEJIbmtnSU1SbWVWdlN0YjZ3N2ppWEo0M19hM0FCREZOZml1SEx6WHU4X1N1bjliTzFReHVHZ2lfRVpoUjB4cm5tY3J3OVZ0b3FRV1paa1NGQnZ3dW05YjkxOEIxNVNCUHVEM0hYWm40QUhsUWM3QXhBMlZGTWR1aHJNaW80MGJUM3dqY3Jsdmdsdk1XbzZfTDJOLVR4UlBHWFA3Mk0?oc=5",
+      "title": "[Form 4] YUM BRANDS INC Insider Trading Activity - Stock Titan",
+      "body": "[Form 4] YUM BRANDS INC Insider Trading Activity Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "YUM",
+      "tickers_hint": [
+        "YUM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "YUM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "0d4937e4-eff8-511d-b7bb-67bc2a67ba90",
+      "timestamp_utc": "2026-04-02T09:06:54+00:00",
+      "source": "marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-sg-americas-securities-llc-decreases-stake-in-yum-brands-inc-yum-2026-04-02/",
+      "title": "SG Americas Securities LLC Decreases Stake in Yum! Brands, Inc. $YUM - marketbeat.com",
+      "body": "SG Americas Securities LLC Decreases Stake in Yum! Brands, Inc. $YUM marketbeat.com",
+      "author": null,
+      "language": "en",
+      "ticker": "YUM",
+      "tickers_hint": [
+        "YUM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "marketbeat.com",
+        "source_domain": "marketbeatcom.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "YUM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a3588c1f-cf74-5b86-a993-b6e3580009d4",
+      "timestamp_utc": "2026-04-03T06:06:49+00:00",
+      "source": "bitget",
+      "url": "https://www.bitget.com/news/detail/12560605335654",
+      "title": "Yum! Brands' Revenue Beat Hides Margin Squeeze as Expansion Costs Outpace Profits - Bitget",
+      "body": "Yum! Brands' Revenue Beat Hides Margin Squeeze as Expansion Costs Outpace Profits Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "YUM",
+      "tickers_hint": [
+        "YUM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "YUM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fedd7105-6eb8-5674-af5e-495d462ea775",
+      "timestamp_utc": "2026-04-03T20:00:24+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0lsSjF1LWtSclRHdXRmWTNLYUdrQXc4U05vMFp0LVRaWXNSS1JHMHdEaVFDeFBJYllUTHRsMGJrRV9NSFZJMEYtYXdjbWMtN3FQYWdvVDJVYngwWU0wS212V3FyUHQ4dGNWU3hobXV3Sm9sc2hiM0RVQldiRlIxZnVkbDY4ZldwY2Y1TWNkUl83azRuUFQ3WDBWMUc4UzRiNXJHTDduUHdrVE81SktJ?oc=5",
+      "title": "YUM Brands (NYSE: YUM) 2026 proxy pits board against 10% special-meeting push - Stock Titan",
+      "body": "YUM Brands (NYSE: YUM) 2026 proxy pits board against 10% special-meeting push Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "YUM",
+      "tickers_hint": [
+        "YUM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "YUM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f58f9538-2352-5db9-b801-c53ece7fb0c5",
+      "timestamp_utc": "2026-04-02T14:06:58+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUNDWlVCT0tVbV9jQVJCV05ScFhaOXNDU2JzZy1jUHNleUhLNzM5NlNDMkdIQnoyTGFhdUNMbmhfTEE1aE1CaVAxSVZMTGsyQ1I0SENqdXdGR2ZMdU51SG1ONUg3RTVnb3pJclEtTEctVjExcU9adUhhZHd5MjI4cnZXc2wwVHoySlkxUFVWTG5uUm55Y1NJMVg1TDUyWFNncWt3c2d3WFp0bTQ?oc=5",
+      "title": "YUM Brands (YUM) director granted phantom stock units and 910 shares - Stock Titan",
+      "body": "YUM Brands (YUM) director granted phantom stock units and 910 shares Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "YUM",
+      "tickers_hint": [
+        "YUM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "YUM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7615e747-19ad-5afe-9678-0191f9a787b7",
+      "timestamp_utc": "2026-04-02T14:04:54+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZFUyRmJydml2ZTZUUmFuaHBXSW1QVHlDUEZzSDVuVXlxSkVNRWVEa3l1bFVtYUFHa3RRZko4bjJ0cVF6NEdnQ0lhbUdoZkpKeE95OWNSRDl6YWxqQ2JjMms4eVJGSDR1UktQdnBRSFNKNFRPSEdzSGpmY0t5eXNIOF9sOWtaUHlMNnZRWmxBQ19fZFVqeVIta3M4V2tVR09jU3A4SmtxU0o4cUx4Uk5HZVNYVzNkWGt0eVR2NmNha1dIQQ?oc=5",
+      "title": "Yum Brands (YUM) director Kathleen Oberg files initial Form 3 disclosure - Stock Titan",
+      "body": "Yum Brands (YUM) director Kathleen Oberg files initial Form 3 disclosure Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "YUM",
+      "tickers_hint": [
+        "YUM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "YUM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "42cd06b0-9ce8-57c8-8b40-8e2b93a13050",
+      "timestamp_utc": "2026-04-03T20:10:08+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeDdOWGVpeTY3c2p1UHpDUVhBdUY1V1ZBc2VHUllaNDBDNFROWUN4SlBPdGJuenRPVDJ3a01VNFZRdWFKcnBQMVBESUVmQ1NueUNNd3RmZ3N4N2ttMm9zX0ttc1daa1V6dS0yTnFRbVB5X2RTVFF3MUR4dGd0QjlidlE3Z2dYbmZpaWRJakMxT2hZV2tv?oc=5",
+      "title": "[ARS] YUM BRANDS INC SEC Filing - Stock Titan",
+      "body": "[ARS] YUM BRANDS INC SEC Filing Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "YUM",
+      "tickers_hint": [
+        "YUM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "YUM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2e5a097b-945f-51b7-8484-f544fc399f51",
+      "timestamp_utc": "2026-04-02T20:50:00+00:00",
+      "source": "marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxOclBrV0JUanFCaEVmZm15ZEcxWE1UZ2pHNm1PT0R3QldoZk1QaURFNnhmTmhQR3J6QnIyaWx5X0l3czBJYS1zTmQtaHlnSnhWaVRWSGlVVG4xMWFrOXhTYVRXeElmLUJ5dHNvbE1YM1lBZkRTMUdTaVhwQk5HRE9KOUpYNDR6emJ1bE1mTXVwbGtlR2V0MVNtMWJyRE9ZNTVmZXZqS0Ntb2dxN0F3dHU1c2hHWC1Fek5IVUVoY2lqUFEyWU9FWUJzM2Y0VTdBNjBZUDl3RlYxTF9nbG1ZMVVRTDJPNTBFY2ZNV08tNWFKTmVwY3VwQUZzZG1Ub0RaZFVyaDB2OElROG44RFF2OTVXSTV4WmxiSVY3QkpaUjVIQktTZFEtR0VxSTRyRW1nX0hCQ1RHRjBSWk0ydVRGYWh5T2VqQmZMT3llaVQtc21qajJ2dlhfN2dfVHVnUzNORWREQ29sdHl3ZXp0by1hVC11ZkVFNWFGZ2xOMWswWktmcFRuNUk4ZjA0c2VzNHlzbTBycm5KVTB6LVQwUDFVb2F5bXh3WUltUUwwTDd4WXlMOW5pdkZKRml3NTExNWlfQlJLaF9ueGo3dEJ0dw?oc=5",
+      "title": "Yum! Brands Inc. stock outperforms competitors on strong trading day - marketwatch.com",
+      "body": "Yum! Brands Inc. stock outperforms competitors on strong trading day marketwatch.com",
+      "author": null,
+      "language": "en",
+      "ticker": "YUM",
+      "tickers_hint": [
+        "YUM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketwatch.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "marketwatch.com",
+        "source_domain": "marketwatchcom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "YUM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "24c60be2-827a-5417-b456-70b3a68671b0",
+      "timestamp_utc": "2026-04-02T18:42:04+00:00",
+      "source": "nation’s_restaurant_news",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNblV3Q21ZSXoxSVFfZ0xEblVWTFl1bWxVZHJIZzhuNlBLWTNzYWVHR3Ytc0tiMHJ5ZHpMU0t6dy1yMTNOOVJWMEx1djZBVlNUSHJaWVNONnY4WnJWcDFYZ0p2aktUV3VmendnN0M2d3hpam9PRzMwWHRkcDJjektZazA1V2VqMVgzYlBLUy1zX2ZVTmZvYnM4ZkxTVzBxdDdQLUJHX3ladG12Ulh3cHNsdkhGY01lQlF3akdBdlMtN0htRE5FUG4wXzF3eE1ZOVZyVHFnUmg3V0phRUhRNW44X0trbll4N2xHYVpqU3dMeFB6Zw?oc=5",
+      "title": "Yum! Brands adds Kathleen Oberg to board - Nation’s Restaurant News",
+      "body": "Yum! Brands adds Kathleen Oberg to board Nation’s Restaurant News",
+      "author": null,
+      "language": "en",
+      "ticker": "YUM",
+      "tickers_hint": [
+        "YUM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "nation’s restaurant news",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Nation’s Restaurant News",
+        "source_domain": "nationsrestaurantnews.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "YUM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3e9131f7-c779-5003-9e73-872b0f409fb9",
+      "timestamp_utc": "2026-04-02T16:19:28+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRklnVGVaZEJIbmtnSU1SbWVWdlN0YjZ3N2ppWEo0M19hM0FCREZOZml1SEx6WHU4X1N1bjliTzFReHVHZ2lfRVpoUjB4cm5tY3J3OVZ0b3FRV1paa1NGQnZ3dW05YjkxOEIxNVNCUHVEM0hYWm40QUhsUWM3QXhBMlZGTWR1aHJNaW80MGJUM3dqY3Jsdmdsdk1XbzZfTDJOLVR4UlBHWFA3Mk0?oc=5",
+      "title": "[Form 4] YUM BRANDS INC Insider Trading Activity - Stock Titan",
+      "body": "[Form 4] YUM BRANDS INC Insider Trading Activity Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "YUM",
+      "tickers_hint": [
+        "YUM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "YUM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

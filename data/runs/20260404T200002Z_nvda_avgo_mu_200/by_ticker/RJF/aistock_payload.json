@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "f5be163b-adef-5139-94e6-4ba620ab5218",
+      "timestamp_utc": "2026-04-04T15:10:01+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/RJF/technical",
+      "title": "RJF Technical Analysis & Stock Price Forecast - Intellectia AI",
+      "body": "RJF Technical Analysis & Stock Price Forecast Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "RJF",
+      "tickers_hint": [
+        "RJF"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "RJF"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "f5be163b-adef-5139-94e6-4ba620ab5218",
+      "timestamp_utc": "2026-04-04T15:10:01+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/RJF/technical",
+      "title": "RJF Technical Analysis & Stock Price Forecast - Intellectia AI",
+      "body": "RJF Technical Analysis & Stock Price Forecast Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "RJF",
+      "tickers_hint": [
+        "RJF"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "RJF"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

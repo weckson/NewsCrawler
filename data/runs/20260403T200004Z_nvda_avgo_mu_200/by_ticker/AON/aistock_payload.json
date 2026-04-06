@@ -1,0 +1,74 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "71ae496a-7e56-5737-903d-3166d4ff39af",
+      "timestamp_utc": "2026-04-02T10:12:00+00:00",
+      "source": "financialcontent",
+      "url": "https://www.financialcontent.com/article/barchart-2026-4-2-heres-what-to-expect-from-aons-next-earnings-report",
+      "title": "Here's What to Expect From Aon's Next Earnings Report - FinancialContent",
+      "body": "Here's What to Expect From Aon's Next Earnings Report FinancialContent",
+      "author": null,
+      "language": "en",
+      "ticker": "AON",
+      "tickers_hint": [
+        "AON"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "financialcontent",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "FinancialContent",
+        "source_domain": "financialcontent.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AON"
+        ],
+        "alt_sources": [
+          "inkl",
+          "FinancialContent"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "71ae496a-7e56-5737-903d-3166d4ff39af",
+      "timestamp_utc": "2026-04-02T10:12:00+00:00",
+      "source": "financialcontent",
+      "url": "https://www.financialcontent.com/article/barchart-2026-4-2-heres-what-to-expect-from-aons-next-earnings-report",
+      "title": "Here's What to Expect From Aon's Next Earnings Report - FinancialContent",
+      "body": "Here's What to Expect From Aon's Next Earnings Report FinancialContent",
+      "author": null,
+      "language": "en",
+      "ticker": "AON",
+      "tickers_hint": [
+        "AON"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "financialcontent",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "FinancialContent",
+        "source_domain": "financialcontent.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AON"
+        ],
+        "alt_sources": [
+          "inkl",
+          "FinancialContent"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

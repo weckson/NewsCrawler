@@ -1,0 +1,1010 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "8c506647-6aee-5c42-825c-8814763ae85d",
+      "timestamp_utc": "2026-04-01T18:36:25+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTWZvRmhrLURSbVI4VlQ5eGQ0eVNRQ1RDZE5Lc3Z6SEhadTBxOEU0QmVReUdhazVkWU40UEdTMENDTDBLVE1fMEpxZ3QxQ3VHVFRXS0h2NzhORElHMHBFSllYN2FFMXM1ODhNeGJ6bndCOC1pOGtsclVFamdDT1p1UUNieUlNNFI5YTFraWduaXVseTA?oc=5",
+      "title": "Nike Stock (NKE) Falls to 11-Year Low. China Remains a Problem - TipRanks",
+      "body": "Nike Stock (NKE) Falls to 11-Year Low. China Remains a Problem TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW",
+        "NKE"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW",
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "bfc28b22-1905-57ed-b52b-fcb515b5cde1",
+      "timestamp_utc": "2026-04-01T11:15:00+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/article/4887721-why-nike-beat-earnings-but-dropped-9-percent",
+      "title": "Why Nike Beat Earnings But Dropped 9% (Rating Upgrade) (NYSE:NKE) - Seeking Alpha",
+      "body": "ozgurdonmaz/iStock Unreleased via Getty Images\n\nQ1 ends with Nike (NKE) reporting its Q3 earnings. If you followed along, Nike is a stock I bought in late 2022 but that I then exited, taking advantage of a quick\n\nAnalyst’s Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.7,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "303c72d5-1aa7-566e-a6da-e1c2999d6597",
+      "timestamp_utc": "2026-04-01T18:44:25+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/nike-stock-crashes-14-today-as-j-p-morgan-and-citi-analysts-reset-timeline-for-nke-to-return-to-a-10-operating-margin",
+      "title": "Nike Stock Crashes 14% Today as J.P. Morgan and Citi Analysts Reset ‘Timeline for NKE to Return to a 10% Operating Margin’ - TipRanks",
+      "body": "Nike Stock Crashes 14% Today as J.P. Morgan and Citi Analysts Reset ‘Timeline for NKE to Return to a 10% Operating Margin’ TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9faa5d37-ed3a-5032-ab3e-7d573a0cb5ab",
+      "timestamp_utc": "2026-04-01T11:24:37+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/news/4571148-what-analysts-are-saying-about-nike-after-its-guidance-surprise",
+      "title": "What analysts are saying about Nike after its guidance surprise (NKE:NYSE) - Seeking Alpha",
+      "body": "Nike (NKE) is on the radar of analysts and investors after reporting a year-over-year decline in profit and issuing guidance below expectations. The report is being seen as an indication of an uneven recovery for the athletic apparel giant.",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0e72a65a-c09a-55ec-8ef3-8a78a7cf0667",
+      "timestamp_utc": "2026-04-01T15:05:47+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765096/nke-telsey-advisory-group-lowers-price-target-to-55-maintains-market-perform-rating-nke-stock-news",
+      "title": "NKE: Telsey Advisory Group Lowers Price Target to $55, Maintains Market Perform Rating | NKE Stock News - GuruFocus",
+      "body": "NKE: Telsey Advisory Group Lowers Price Target to $55, Maintains Market Perform Rating | NKE Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b8fc0ea0-3864-5746-988b-48ed41a34b9b",
+      "timestamp_utc": "2026-04-02T14:43:04+00:00",
+      "source": "benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMW5XaU92MGw1akJUYkRXTXl0VW82VHM3cDlXdi1ZeTU2V21KZ3ZONGw2TWVoMXpZYjhQT1RNcWpDWlJRd1k3dHM3aVhjdlF6ZUFoUUFYaGFtV2VldXFQaWo3a0pzRjdIWG00MmYxU3VSZWZwNWtZWDROOXF0UmZfWkRtdkcxZ01OcFNVRkQ1RngtaEFMVjlmck4xTkluTktCTHFHYlVoYXlNbnh5NmpJRQ?oc=5",
+      "title": "Nike Technical Analysis: Will NKE Remember What To Do? - Nike (NYSE:NKE) - benzinga.com",
+      "body": "Nike Technical Analysis: Will NKE Remember What To Do? - Nike (NYSE:NKE) benzinga.com",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "benzinga.com",
+        "source_domain": "benzingacom.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "alt_sources": [
+          "benzinga.com"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "009324cd-dc3d-5b85-ba79-73d0a7ab3520",
+      "timestamp_utc": "2026-04-01T12:33:45+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8763596/nke-stock-downgraded-by-jpmorgan-following-earnings-report?mobile=true",
+      "title": "NKE Stock Downgraded by JPMorgan Following Earnings Report - GuruFocus",
+      "body": "NKE Stock Downgraded by JPMorgan Following Earnings Report GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "093e770b-6b0b-5190-8594-9e9bbde25cd8",
+      "timestamp_utc": "2026-04-01T12:21:17+00:00",
+      "source": "benzinga.com",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/04/51595829/these-analysts-cut-their-forecasts-on-nike-after-q3-results",
+      "title": "These Analysts Cut Their Forecasts On Nike After Q3 Results - Nike (NYSE:NKE) - benzinga.com",
+      "body": "These Analysts Cut Their Forecasts On Nike After Q3 Results - Nike (NYSE:NKE) benzinga.com",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "benzinga.com",
+        "source_domain": "benzingacom.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "alt_sources": [
+          "benzinga.com"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "91d94271-4bef-5f58-8e3b-530a69358f68",
+      "timestamp_utc": "2026-04-02T20:37:30+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8769041/nke-downgraded-by-goldman-sachs-target-price-lowered-to-52-nke-stock-news",
+      "title": "NKE Downgraded by Goldman Sachs, Target Price Lowered to $52 | N - GuruFocus",
+      "body": "NKE Downgraded by Goldman Sachs, Target Price Lowered to $52 | N GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "049bcab2-c421-5a90-83f4-8ed83b50f532",
+      "timestamp_utc": "2026-04-02T13:45:31+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/china-renaissance-issues-pessimistic-forecast-for-nike-nysenke-stock-price-2026-04-02/",
+      "title": "China Renaissance Issues Pessimistic Forecast for NIKE (NYSE:NKE) Stock Price - MarketBeat",
+      "body": "China Renaissance Issues Pessimistic Forecast for NIKE (NYSE:NKE) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "bdabd54e-87a9-59b9-970c-6c60c57d8217",
+      "timestamp_utc": "2026-04-01T23:33:54+00:00",
+      "source": "stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZjVoRXVubmpUSlNtT0t5NlZLckQ3UVVuUk5wQnhwMHEwMXJZYmNrZ1V3dXpSWHJHbjRUTjdRMmljZE5rV2VpbEpMVXVvR2k4LUlKYUlybFo3dDVPZkxJRXFiRzVSQjlWLXU5TlF3M1hHem1ubC04Qi1vTTdZZlhyY2hWa1ZleENMZUR4RjFJd1hpN3hISjczWHRZV1NleHdqd2t1WDYxbU9yWU04LTRITFRaMGcySDVhQXpfcnBrdnUwOEhSTHRWd1RlRVFfNUdQVGc?oc=5",
+      "title": "NKE Stock Gets Hit With Downgrades As China Slump Clouds Turnaround - Stocktwits",
+      "body": "NKE Stock Gets Hit With Downgrades As China Slump Clouds Turnaround Stocktwits",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktwits",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stocktwits",
+        "source_domain": "stocktwits.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "48bababc-4d69-5d67-9f02-6fe87ed44c62",
+      "timestamp_utc": "2026-04-01T22:33:42+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGtEODdiOFhhaHdSVHcteG5NYUtvV0N6YTVDR2NIMm4zeENaUGJoeDByTWhHRnkyWlFYRWVzNnpDY255ZDVfRUU1ZnFjUjJsYXlFbmJiT3JUZzVaOS1RWGMzbGIxZGNXRDNlTGNUQWdPSHdwRE1VREp2TEtYUHE3bFdCSU5rY2FmbDVFSWF1Qzg0Y1FQbWY3dlhmWU1sMFlobjJRS256SHZPNklHZjQ5eTZxclQ3RTdtZWtISQ?oc=5",
+      "title": "NKE: Citigroup Lowers Price Target While Maintaining Neutral Rat - GuruFocus",
+      "body": "NKE: Citigroup Lowers Price Target While Maintaining Neutral Rat GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "34cd0951-677c-5f95-b626-96c76cea9a25",
+      "timestamp_utc": "2026-04-01T19:08:33+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUjRsRkF2VVQ1MjZXdTFvQzYxUVV4cFI1QjVoYmR2anppTk8wY1BkdWprWEpNZGtQOHhhbWdHVTh1a0Q0dWhOZFNjUEZGa2UtRzNjZnZwcTM5QVNfRzlCcm9lSU5RMXRkcW1NSlp3bFNLbUVRNGJEZElxeThwR0llcGlQN1VWSmlaeXgzenZ6U2JoUDVwY2Q2ZmZxaXNDZmJhZ3loYU9TbndyNV94SnVyWGZqWEREZHQ3Um5RczBjTGtDNE1KRGdKOVB4MzdnWF9yRWc?oc=5",
+      "title": "Jefferies Financial Group Issues Pessimistic Forecast for NIKE (NYSE:NKE) Stock Price - MarketBeat",
+      "body": "Jefferies Financial Group Issues Pessimistic Forecast for NIKE (NYSE:NKE) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d1c0ca5a-a431-5259-84f2-d2d09fdad9a7",
+      "timestamp_utc": "2026-04-01T12:57:52+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS3YzTDVnNy1rTDBqcm02RUdnLUl1QUtPemVPdXFSVEw4SHFPY2RuUUJFNTRwaFpXQVAzOVY5Wk9rVzRuTHdUVDhZRUZfVnQ3aDhNRWZ6bU01LWFUbnViaXBfam5DZV9ZdzZLMjBWaVlfdktib25FcWRMeXFqSWRyWFFNWi1NZllqV05FMUYzaUlTdDhjMHlvYjRuSlhTRTJibU5yUDRNMUlPOWlNRlNSeFpwbS1ZY1EwWThxclFB?oc=5",
+      "title": "Guggenheim Issues Pessimistic Forecast for NIKE (NYSE:NKE) Stock Price - MarketBeat",
+      "body": "Guggenheim Issues Pessimistic Forecast for NIKE (NYSE:NKE) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "575ca87d-5b8e-5fce-b2f6-800876f186fc",
+      "timestamp_utc": "2026-04-02T02:53:46+00:00",
+      "source": "fxleaders",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQjRKRVFXekpOOVdOVGh0NDRqMHUzZmZZTUl3YV9jTXd5SVctZkdLNmxWVl85MVI5bWpjUUVhS2FvdE9tXzRxSWpHaklieWI0RUYtbkNxVE0yanYxQ1RJMTBMQm43NzBockR6ak5kVEd5T1UwWWZRb2pFYjdaUGVpLXlIRkFlSEdld0IzZ0JjcHgwZjdEVGgxSnBtQjh0c2c?oc=5",
+      "title": "Nike (NKE) Stock Craters 15% as China Sales Crisis Deepens - FXLeaders",
+      "body": "Nike (NKE) Stock Craters 15% as China Sales Crisis Deepens FXLeaders",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "fxleaders",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "FXLeaders",
+        "source_domain": "fxleaders.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "58a38187-20e9-5699-9fc2-5b8fb9e7eacc",
+      "timestamp_utc": "2026-04-01T18:34:24+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSDJlcE1CclVLM0VSZ0J1Vm4yZnowMW1hMHA3R1d6S2RvaG56ckVRUjVWbTVIYS1UQzFSNWlsaXlBQTRCcllMSFRKek42UGJ2UEJyNlRiNEZlNEY3Zmc5YmhadDk3T2x6T2lSTTZ6Vk9KOVd0cXFCbVBLVG1OWWhncFRzemRmalVISFlBZVROU0s?oc=5",
+      "title": "Nike (NKE) Shares Drop 14.2% as Stock Price Declines - GuruFocus",
+      "body": "Nike (NKE) Shares Drop 14.2% as Stock Price Declines GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c550a477-4393-5647-93d2-119ffda65f6e",
+      "timestamp_utc": "2026-04-01T14:36:00+00:00",
+      "source": "investor's_business_daily",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWNwQ2d5RFFGT0NQNk9aMnFxTDJUY2t4SC1YeHo2czJqQnpCY1NkaUZfZkJsUjZKbUd3YUZaa1NNY2RJYUI5dUhFOWdKSVE4dV9HYWw1dEItN202WHd4LWxES2lBSU1qUXZKNTlPUVBnUGVjelJYYnlJYVB2OWRnRUhNcldKZjRJdTdCdg?oc=5",
+      "title": "Nike Tumbles On Outlook, Turnaround Efforts Continue. China Sales Lag. - Investor's Business Daily",
+      "body": "Nike Tumbles On Outlook, Turnaround Efforts Continue. China Sales Lag. Investor's Business Daily3 things Nike investors need to watch with the stock plunging after earnings Yahoo FinanceNike shares fall 9% on weak outlook, expected 20% sales decline in China CNBCNike stock slammed, but traders bet on near-term rebound (NKE:NYSE) Seeking AlphaNike Stock Just Plummeted More Than 10%. Here's Why. The Motley FoolNike Stock Sinks to Lowest Level Since 2014 as Weak Sales Outlook Spooks Investors Inves...",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "investor's business daily",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investor's Business Daily",
+        "source_domain": "investorsbusinessdaily.com",
+        "trust_tier": 1,
+        "relevance": 0.2,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "8c506647-6aee-5c42-825c-8814763ae85d",
+      "timestamp_utc": "2026-04-01T18:36:25+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTWZvRmhrLURSbVI4VlQ5eGQ0eVNRQ1RDZE5Lc3Z6SEhadTBxOEU0QmVReUdhazVkWU40UEdTMENDTDBLVE1fMEpxZ3QxQ3VHVFRXS0h2NzhORElHMHBFSllYN2FFMXM1ODhNeGJ6bndCOC1pOGtsclVFamdDT1p1UUNieUlNNFI5YTFraWduaXVseTA?oc=5",
+      "title": "Nike Stock (NKE) Falls to 11-Year Low. China Remains a Problem - TipRanks",
+      "body": "Nike Stock (NKE) Falls to 11-Year Low. China Remains a Problem TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "LOW",
+      "tickers_hint": [
+        "LOW",
+        "NKE"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "LOW",
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "bfc28b22-1905-57ed-b52b-fcb515b5cde1",
+      "timestamp_utc": "2026-04-01T11:15:00+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/article/4887721-why-nike-beat-earnings-but-dropped-9-percent",
+      "title": "Why Nike Beat Earnings But Dropped 9% (Rating Upgrade) (NYSE:NKE) - Seeking Alpha",
+      "body": "ozgurdonmaz/iStock Unreleased via Getty Images\n\nQ1 ends with Nike (NKE) reporting its Q3 earnings. If you followed along, Nike is a stock I bought in late 2022 but that I then exited, taking advantage of a quick\n\nAnalyst’s Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.7,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "303c72d5-1aa7-566e-a6da-e1c2999d6597",
+      "timestamp_utc": "2026-04-01T18:44:25+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/nike-stock-crashes-14-today-as-j-p-morgan-and-citi-analysts-reset-timeline-for-nke-to-return-to-a-10-operating-margin",
+      "title": "Nike Stock Crashes 14% Today as J.P. Morgan and Citi Analysts Reset ‘Timeline for NKE to Return to a 10% Operating Margin’ - TipRanks",
+      "body": "Nike Stock Crashes 14% Today as J.P. Morgan and Citi Analysts Reset ‘Timeline for NKE to Return to a 10% Operating Margin’ TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9faa5d37-ed3a-5032-ab3e-7d573a0cb5ab",
+      "timestamp_utc": "2026-04-01T11:24:37+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/news/4571148-what-analysts-are-saying-about-nike-after-its-guidance-surprise",
+      "title": "What analysts are saying about Nike after its guidance surprise (NKE:NYSE) - Seeking Alpha",
+      "body": "Nike (NKE) is on the radar of analysts and investors after reporting a year-over-year decline in profit and issuing guidance below expectations. The report is being seen as an indication of an uneven recovery for the athletic apparel giant.",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0e72a65a-c09a-55ec-8ef3-8a78a7cf0667",
+      "timestamp_utc": "2026-04-01T15:05:47+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765096/nke-telsey-advisory-group-lowers-price-target-to-55-maintains-market-perform-rating-nke-stock-news",
+      "title": "NKE: Telsey Advisory Group Lowers Price Target to $55, Maintains Market Perform Rating | NKE Stock News - GuruFocus",
+      "body": "NKE: Telsey Advisory Group Lowers Price Target to $55, Maintains Market Perform Rating | NKE Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b8fc0ea0-3864-5746-988b-48ed41a34b9b",
+      "timestamp_utc": "2026-04-02T14:43:04+00:00",
+      "source": "benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMW5XaU92MGw1akJUYkRXTXl0VW82VHM3cDlXdi1ZeTU2V21KZ3ZONGw2TWVoMXpZYjhQT1RNcWpDWlJRd1k3dHM3aVhjdlF6ZUFoUUFYaGFtV2VldXFQaWo3a0pzRjdIWG00MmYxU3VSZWZwNWtZWDROOXF0UmZfWkRtdkcxZ01OcFNVRkQ1RngtaEFMVjlmck4xTkluTktCTHFHYlVoYXlNbnh5NmpJRQ?oc=5",
+      "title": "Nike Technical Analysis: Will NKE Remember What To Do? - Nike (NYSE:NKE) - benzinga.com",
+      "body": "Nike Technical Analysis: Will NKE Remember What To Do? - Nike (NYSE:NKE) benzinga.com",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "benzinga.com",
+        "source_domain": "benzingacom.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "alt_sources": [
+          "benzinga.com"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "009324cd-dc3d-5b85-ba79-73d0a7ab3520",
+      "timestamp_utc": "2026-04-01T12:33:45+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8763596/nke-stock-downgraded-by-jpmorgan-following-earnings-report?mobile=true",
+      "title": "NKE Stock Downgraded by JPMorgan Following Earnings Report - GuruFocus",
+      "body": "NKE Stock Downgraded by JPMorgan Following Earnings Report GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "093e770b-6b0b-5190-8594-9e9bbde25cd8",
+      "timestamp_utc": "2026-04-01T12:21:17+00:00",
+      "source": "benzinga.com",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/04/51595829/these-analysts-cut-their-forecasts-on-nike-after-q3-results",
+      "title": "These Analysts Cut Their Forecasts On Nike After Q3 Results - Nike (NYSE:NKE) - benzinga.com",
+      "body": "These Analysts Cut Their Forecasts On Nike After Q3 Results - Nike (NYSE:NKE) benzinga.com",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "benzinga.com",
+        "source_domain": "benzingacom.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "alt_sources": [
+          "benzinga.com"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "91d94271-4bef-5f58-8e3b-530a69358f68",
+      "timestamp_utc": "2026-04-02T20:37:30+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8769041/nke-downgraded-by-goldman-sachs-target-price-lowered-to-52-nke-stock-news",
+      "title": "NKE Downgraded by Goldman Sachs, Target Price Lowered to $52 | N - GuruFocus",
+      "body": "NKE Downgraded by Goldman Sachs, Target Price Lowered to $52 | N GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "049bcab2-c421-5a90-83f4-8ed83b50f532",
+      "timestamp_utc": "2026-04-02T13:45:31+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/china-renaissance-issues-pessimistic-forecast-for-nike-nysenke-stock-price-2026-04-02/",
+      "title": "China Renaissance Issues Pessimistic Forecast for NIKE (NYSE:NKE) Stock Price - MarketBeat",
+      "body": "China Renaissance Issues Pessimistic Forecast for NIKE (NYSE:NKE) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "bdabd54e-87a9-59b9-970c-6c60c57d8217",
+      "timestamp_utc": "2026-04-01T23:33:54+00:00",
+      "source": "stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZjVoRXVubmpUSlNtT0t5NlZLckQ3UVVuUk5wQnhwMHEwMXJZYmNrZ1V3dXpSWHJHbjRUTjdRMmljZE5rV2VpbEpMVXVvR2k4LUlKYUlybFo3dDVPZkxJRXFiRzVSQjlWLXU5TlF3M1hHem1ubC04Qi1vTTdZZlhyY2hWa1ZleENMZUR4RjFJd1hpN3hISjczWHRZV1NleHdqd2t1WDYxbU9yWU04LTRITFRaMGcySDVhQXpfcnBrdnUwOEhSTHRWd1RlRVFfNUdQVGc?oc=5",
+      "title": "NKE Stock Gets Hit With Downgrades As China Slump Clouds Turnaround - Stocktwits",
+      "body": "NKE Stock Gets Hit With Downgrades As China Slump Clouds Turnaround Stocktwits",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktwits",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stocktwits",
+        "source_domain": "stocktwits.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "48bababc-4d69-5d67-9f02-6fe87ed44c62",
+      "timestamp_utc": "2026-04-01T22:33:42+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGtEODdiOFhhaHdSVHcteG5NYUtvV0N6YTVDR2NIMm4zeENaUGJoeDByTWhHRnkyWlFYRWVzNnpDY255ZDVfRUU1ZnFjUjJsYXlFbmJiT3JUZzVaOS1RWGMzbGIxZGNXRDNlTGNUQWdPSHdwRE1VREp2TEtYUHE3bFdCSU5rY2FmbDVFSWF1Qzg0Y1FQbWY3dlhmWU1sMFlobjJRS256SHZPNklHZjQ5eTZxclQ3RTdtZWtISQ?oc=5",
+      "title": "NKE: Citigroup Lowers Price Target While Maintaining Neutral Rat - GuruFocus",
+      "body": "NKE: Citigroup Lowers Price Target While Maintaining Neutral Rat GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "34cd0951-677c-5f95-b626-96c76cea9a25",
+      "timestamp_utc": "2026-04-01T19:08:33+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUjRsRkF2VVQ1MjZXdTFvQzYxUVV4cFI1QjVoYmR2anppTk8wY1BkdWprWEpNZGtQOHhhbWdHVTh1a0Q0dWhOZFNjUEZGa2UtRzNjZnZwcTM5QVNfRzlCcm9lSU5RMXRkcW1NSlp3bFNLbUVRNGJEZElxeThwR0llcGlQN1VWSmlaeXgzenZ6U2JoUDVwY2Q2ZmZxaXNDZmJhZ3loYU9TbndyNV94SnVyWGZqWEREZHQ3Um5RczBjTGtDNE1KRGdKOVB4MzdnWF9yRWc?oc=5",
+      "title": "Jefferies Financial Group Issues Pessimistic Forecast for NIKE (NYSE:NKE) Stock Price - MarketBeat",
+      "body": "Jefferies Financial Group Issues Pessimistic Forecast for NIKE (NYSE:NKE) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d1c0ca5a-a431-5259-84f2-d2d09fdad9a7",
+      "timestamp_utc": "2026-04-01T12:57:52+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS3YzTDVnNy1rTDBqcm02RUdnLUl1QUtPemVPdXFSVEw4SHFPY2RuUUJFNTRwaFpXQVAzOVY5Wk9rVzRuTHdUVDhZRUZfVnQ3aDhNRWZ6bU01LWFUbnViaXBfam5DZV9ZdzZLMjBWaVlfdktib25FcWRMeXFqSWRyWFFNWi1NZllqV05FMUYzaUlTdDhjMHlvYjRuSlhTRTJibU5yUDRNMUlPOWlNRlNSeFpwbS1ZY1EwWThxclFB?oc=5",
+      "title": "Guggenheim Issues Pessimistic Forecast for NIKE (NYSE:NKE) Stock Price - MarketBeat",
+      "body": "Guggenheim Issues Pessimistic Forecast for NIKE (NYSE:NKE) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "575ca87d-5b8e-5fce-b2f6-800876f186fc",
+      "timestamp_utc": "2026-04-02T02:53:46+00:00",
+      "source": "fxleaders",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQjRKRVFXekpOOVdOVGh0NDRqMHUzZmZZTUl3YV9jTXd5SVctZkdLNmxWVl85MVI5bWpjUUVhS2FvdE9tXzRxSWpHaklieWI0RUYtbkNxVE0yanYxQ1RJMTBMQm43NzBockR6ak5kVEd5T1UwWWZRb2pFYjdaUGVpLXlIRkFlSEdld0IzZ0JjcHgwZjdEVGgxSnBtQjh0c2c?oc=5",
+      "title": "Nike (NKE) Stock Craters 15% as China Sales Crisis Deepens - FXLeaders",
+      "body": "Nike (NKE) Stock Craters 15% as China Sales Crisis Deepens FXLeaders",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "fxleaders",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "FXLeaders",
+        "source_domain": "fxleaders.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "58a38187-20e9-5699-9fc2-5b8fb9e7eacc",
+      "timestamp_utc": "2026-04-01T18:34:24+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSDJlcE1CclVLM0VSZ0J1Vm4yZnowMW1hMHA3R1d6S2RvaG56ckVRUjVWbTVIYS1UQzFSNWlsaXlBQTRCcllMSFRKek42UGJ2UEJyNlRiNEZlNEY3Zmc5YmhadDk3T2x6T2lSTTZ6Vk9KOVd0cXFCbVBLVG1OWWhncFRzemRmalVISFlBZVROU0s?oc=5",
+      "title": "Nike (NKE) Shares Drop 14.2% as Stock Price Declines - GuruFocus",
+      "body": "Nike (NKE) Shares Drop 14.2% as Stock Price Declines GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c550a477-4393-5647-93d2-119ffda65f6e",
+      "timestamp_utc": "2026-04-01T14:36:00+00:00",
+      "source": "investor's_business_daily",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWNwQ2d5RFFGT0NQNk9aMnFxTDJUY2t4SC1YeHo2czJqQnpCY1NkaUZfZkJsUjZKbUd3YUZaa1NNY2RJYUI5dUhFOWdKSVE4dV9HYWw1dEItN202WHd4LWxES2lBSU1qUXZKNTlPUVBnUGVjelJYYnlJYVB2OWRnRUhNcldKZjRJdTdCdg?oc=5",
+      "title": "Nike Tumbles On Outlook, Turnaround Efforts Continue. China Sales Lag. - Investor's Business Daily",
+      "body": "Nike Tumbles On Outlook, Turnaround Efforts Continue. China Sales Lag. Investor's Business Daily3 things Nike investors need to watch with the stock plunging after earnings Yahoo FinanceNike shares fall 9% on weak outlook, expected 20% sales decline in China CNBCNike stock slammed, but traders bet on near-term rebound (NKE:NYSE) Seeking AlphaNike Stock Just Plummeted More Than 10%. Here's Why. The Motley FoolNike Stock Sinks to Lowest Level Since 2014 as Weak Sales Outlook Spooks Investors Inves...",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "investor's business daily",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investor's Business Daily",
+        "source_domain": "investorsbusinessdaily.com",
+        "trust_tier": 1,
+        "relevance": 0.2,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

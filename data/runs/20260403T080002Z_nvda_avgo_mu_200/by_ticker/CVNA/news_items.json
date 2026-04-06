@@ -1,0 +1,60 @@
+[
+  {
+    "id": "80c8b181-6740-5d66-8b68-855dfa203766",
+    "timestamp_utc": "2026-04-01T20:46:50+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeG9HYWdrUXNXakdMVUxuYWZ6bm1sR25mQ1NUaGVCZXZQbWxpLXdjNVVuQjFJWkFoa1ZJTk8xaEFkNndqNDR5a0x1WWZEX3hrYW9YRWR5Z1NqOGJxT2ZLN3hnbTJoLWVLYnZ2SFlIV0lYeHZsQWdtRHNWQU9wN1lhNFFRclFWTE5FejJoT2V6VUw?oc=5",
+    "title": "CVNA (NASDAQ: CVNA) option exercise and three 10b5-1 sales of 10,000 shares - Stock Titan",
+    "body": "CVNA (NASDAQ: CVNA) option exercise and three 10b5-1 sales of 10,000 shares Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "CVNA",
+    "tickers_hint": [
+      "CVNA"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "CVNA"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "7368c4a1-d14b-511e-9f36-b831208c338d",
+    "timestamp_utc": "2026-04-01T20:45:28+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQWIxaHJLSlptelhpZEZyVnhuSkRDdGhyRXZfcTQyZEZiS1NBS2MzdFV2WkZqVXhkdDlZQkdQbGxQX2Vaa0Z2al9iTkcydDJQaElGNTJJUjh3Q2txSDZncUtoZkZlYUhTSEc0M3BlZEhmR202OGFZNmZiNHN0SnFZMXkzUm5vTDAyc3BRaXc1aTQ?oc=5",
+    "title": "12,750-share stock-option sale listed for CVNA (NYSE: CVNA) on 04/01/2026 - Stock Titan",
+    "body": "12,750-share stock-option sale listed for CVNA (NYSE: CVNA) on 04/01/2026 Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "CVNA",
+    "tickers_hint": [
+      "CVNA"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "CVNA"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

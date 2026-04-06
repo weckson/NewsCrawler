@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "2807e2f5-e518-5f96-9dee-b55ffb94001a",
+      "timestamp_utc": "2026-04-02T22:38:56+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44ZVFqN2xiRWt4aUVDcnNvT3JoX3BYZjY3bWpFN1pJRlJnUm5MR2VjU2RyUkRLT1ZSbGd6Qlp5ay1ZMExaXzdLRVg0bHNJTUU?oc=5",
+      "title": "Electronic Arts Inc. (EA) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Electronic Arts Inc. (EA) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "EA",
+      "tickers_hint": [
+        "EA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "EA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "2807e2f5-e518-5f96-9dee-b55ffb94001a",
+      "timestamp_utc": "2026-04-02T22:38:56+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44ZVFqN2xiRWt4aUVDcnNvT3JoX3BYZjY3bWpFN1pJRlJnUm5MR2VjU2RyUkRLT1ZSbGd6Qlp5ay1ZMExaXzdLRVg0bHNJTUU?oc=5",
+      "title": "Electronic Arts Inc. (EA) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Electronic Arts Inc. (EA) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "EA",
+      "tickers_hint": [
+        "EA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "EA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

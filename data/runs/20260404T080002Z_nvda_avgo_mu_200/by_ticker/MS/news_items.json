@@ -1,0 +1,31 @@
+[
+  {
+    "id": "c830fccc-fc21-51be-a8c9-be5053434114",
+    "timestamp_utc": "2026-04-02T18:40:53+00:00",
+    "source": "msn",
+    "url": "https://www.msn.com/en-us/money/topstocks/will-morgan-stanley-ms-beat-estimates-again-in-its-next-earnings-report/ar-AA201AhL",
+    "title": "Will Morgan Stanley (MS) beat estimates again in its next earnings report? - MSN",
+    "body": "Will Morgan Stanley (MS) beat estimates again in its next earnings report? MSN",
+    "author": null,
+    "language": "en",
+    "ticker": "MS",
+    "tickers_hint": [
+      "MS"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "msn",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MSN",
+      "source_domain": "msn.com",
+      "trust_tier": 1,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "MS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

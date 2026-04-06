@@ -1,0 +1,246 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "e743d3cf-1b1d-5990-9cb8-5307889c0421",
+      "timestamp_utc": "2026-04-02T08:02:00+00:00",
+      "source": "motley_fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUDQyWWpYYnAxbURSWTEzMm1PVEw5YUQ5MVZKVU82YnlqOUpTTDhORU5OUWdtU3JlQnJpUjlJWDIwU0JOcVR5OTRDaVBNblFKUndKYUZFc0U5TlRPeUI2ckZ4aXBfdjBzdHJDbm8yMzUyZ19EYXViNUNzUVY1dW9DYVFNZ0RucXlJTEdLTkVya0F4VEJMUmZv?oc=5",
+      "title": "Here's Why Arista Networks (ANET) is the First Stock I've Purchased in 2026 - The Motley Fool",
+      "body": "Here's Why Arista Networks (ANET) is the First Stock I've Purchased in 2026 The Motley Fool",
+      "author": null,
+      "language": "en",
+      "ticker": "ANET",
+      "tickers_hint": [
+        "ANET"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "fool.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Motley Fool",
+        "source_domain": "fool.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ANET"
+        ],
+        "alt_sources": [
+          "The Globe and Mail"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "716fed67-95bf-561c-86c2-dc10d2e4b0b0",
+      "timestamp_utc": "2026-04-03T11:02:30+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/arista-networks-nyseanet-stock-rating-upgraded-by-susquehanna-2026-04-03/",
+      "title": "Arista Networks (NYSE:ANET) Stock Rating Upgraded by Susquehanna - MarketBeat",
+      "body": "Arista Networks (NYSE:ANET) Stock Rating Upgraded by Susquehanna MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ANET",
+      "tickers_hint": [
+        "ANET"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "ANET"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ae7a00ff-35e5-5eb0-ae92-4bc70c06a247",
+      "timestamp_utc": "2026-04-03T21:54:57+00:00",
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-inc-anet-billionaire-215457017.html",
+      "title": "Arista Networks, Inc. (ANET): Billionaire Steve Cohen Admires This AI Stock - finance.yahoo.com",
+      "body": "Arista Networks, Inc. (ANET): Billionaire Steve Cohen Admires This AI Stock finance.yahoo.com",
+      "author": null,
+      "language": "en",
+      "ticker": "ANET",
+      "tickers_hint": [
+        "ANET"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "finance.yahoo.com",
+        "source_domain": "financeyahoocom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ANET"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9f155234-8b03-57a1-9bc7-20125f834df7",
+      "timestamp_utc": "2026-04-03T22:31:40+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMW9Lcl9QTEhnZU1jVVkxWDNuMjZ3bE9ESlFzSjM1c1hLQThUcXBnNlR0SFNrY0JRRGVGeDNsWHlKTjVXMHJFcmZFNUo5eHhTdjBuTC1taXU4R1JhVUdtSVlSa3VHcTBmUUF5ZUxhOC1kSFgtTGExZHlibWE4dHNMMWM2M25qbHVEVm9XalE3SlhxMW9oM2NrRzFpdkVaRzhucUh6b2JfZlhfRmVNamhWcDJtRQ?oc=5",
+      "title": "Director’s family trust trims Arista (NYSE: ANET) stake - Stock Titan",
+      "body": "Director’s family trust trims Arista (NYSE: ANET) stake Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ANET",
+      "tickers_hint": [
+        "ANET"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ANET"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "e743d3cf-1b1d-5990-9cb8-5307889c0421",
+      "timestamp_utc": "2026-04-02T08:02:00+00:00",
+      "source": "motley_fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUDQyWWpYYnAxbURSWTEzMm1PVEw5YUQ5MVZKVU82YnlqOUpTTDhORU5OUWdtU3JlQnJpUjlJWDIwU0JOcVR5OTRDaVBNblFKUndKYUZFc0U5TlRPeUI2ckZ4aXBfdjBzdHJDbm8yMzUyZ19EYXViNUNzUVY1dW9DYVFNZ0RucXlJTEdLTkVya0F4VEJMUmZv?oc=5",
+      "title": "Here's Why Arista Networks (ANET) is the First Stock I've Purchased in 2026 - The Motley Fool",
+      "body": "Here's Why Arista Networks (ANET) is the First Stock I've Purchased in 2026 The Motley Fool",
+      "author": null,
+      "language": "en",
+      "ticker": "ANET",
+      "tickers_hint": [
+        "ANET"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "fool.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Motley Fool",
+        "source_domain": "fool.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ANET"
+        ],
+        "alt_sources": [
+          "The Globe and Mail"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "716fed67-95bf-561c-86c2-dc10d2e4b0b0",
+      "timestamp_utc": "2026-04-03T11:02:30+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/arista-networks-nyseanet-stock-rating-upgraded-by-susquehanna-2026-04-03/",
+      "title": "Arista Networks (NYSE:ANET) Stock Rating Upgraded by Susquehanna - MarketBeat",
+      "body": "Arista Networks (NYSE:ANET) Stock Rating Upgraded by Susquehanna MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ANET",
+      "tickers_hint": [
+        "ANET"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "ANET"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ae7a00ff-35e5-5eb0-ae92-4bc70c06a247",
+      "timestamp_utc": "2026-04-03T21:54:57+00:00",
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-inc-anet-billionaire-215457017.html",
+      "title": "Arista Networks, Inc. (ANET): Billionaire Steve Cohen Admires This AI Stock - finance.yahoo.com",
+      "body": "Arista Networks, Inc. (ANET): Billionaire Steve Cohen Admires This AI Stock finance.yahoo.com",
+      "author": null,
+      "language": "en",
+      "ticker": "ANET",
+      "tickers_hint": [
+        "ANET"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "finance.yahoo.com",
+        "source_domain": "financeyahoocom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ANET"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9f155234-8b03-57a1-9bc7-20125f834df7",
+      "timestamp_utc": "2026-04-03T22:31:40+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMW9Lcl9QTEhnZU1jVVkxWDNuMjZ3bE9ESlFzSjM1c1hLQThUcXBnNlR0SFNrY0JRRGVGeDNsWHlKTjVXMHJFcmZFNUo5eHhTdjBuTC1taXU4R1JhVUdtSVlSa3VHcTBmUUF5ZUxhOC1kSFgtTGExZHlibWE4dHNMMWM2M25qbHVEVm9XalE3SlhxMW9oM2NrRzFpdkVaRzhucUh6b2JfZlhfRmVNamhWcDJtRQ?oc=5",
+      "title": "Director’s family trust trims Arista (NYSE: ANET) stake - Stock Titan",
+      "body": "Director’s family trust trims Arista (NYSE: ANET) stake Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ANET",
+      "tickers_hint": [
+        "ANET"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ANET"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

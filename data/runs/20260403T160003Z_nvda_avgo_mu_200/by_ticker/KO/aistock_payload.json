@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "0620b2bc-8c2b-5f34-8d8d-802142d4eb05",
+      "timestamp_utc": "2026-04-02T22:49:55+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQVpVSmpoeFhYTWcxQ2IyNHN0TGJJb19lWTMwT0J2NzVoYlBfdjEyNXl6dkFJelhhTi01dk93MGhvT1g1d3ZTUDJkUXB5T2dGY19tUXlTcnBGNUVENUx0NW11cC1jTFMtSHJMTmFTQldYY1ViZmMtUklhUW9aUFFEYlVIV0tSbXF4R081Z25B?oc=5",
+      "title": "Coca-Cola Stock (KO) Rises as New Ad Campaign Is Launched - TipRanks",
+      "body": "Coca-Cola Stock (KO) Rises as New Ad Campaign Is Launched TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "dd764c22-b3b9-5329-96b8-921ef656cbb0",
+      "timestamp_utc": "2026-04-01T18:52:06+00:00",
+      "source": "zacks.com",
+      "url": "https://www.zacks.com/stock/news/2893209/will-coca-cola-ko-beat-estimates-again-in-its-next-earnings-report?cid=CS-TICKERTECH-HL-tale_of_the_tape",
+      "title": "Will Coca-Cola (KO) Beat Estimates Again in Its Next Earnings Report? - zacks.com",
+      "body": "As you were browsing something about your browser made us think you were a bot. There are a few reasons this might happen:\n\nTo regain access, please make sure that cookies and JavaScript are enabled before reloading the page.\n\nWe're getting everything ready for you. The page is loading, and you'll be on your way in just a few moments.",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "zacks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "zacks.com",
+        "source_domain": "zackscom.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "0620b2bc-8c2b-5f34-8d8d-802142d4eb05",
+      "timestamp_utc": "2026-04-02T22:49:55+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQVpVSmpoeFhYTWcxQ2IyNHN0TGJJb19lWTMwT0J2NzVoYlBfdjEyNXl6dkFJelhhTi01dk93MGhvT1g1d3ZTUDJkUXB5T2dGY19tUXlTcnBGNUVENUx0NW11cC1jTFMtSHJMTmFTQldYY1ViZmMtUklhUW9aUFFEYlVIV0tSbXF4R081Z25B?oc=5",
+      "title": "Coca-Cola Stock (KO) Rises as New Ad Campaign Is Launched - TipRanks",
+      "body": "Coca-Cola Stock (KO) Rises as New Ad Campaign Is Launched TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "dd764c22-b3b9-5329-96b8-921ef656cbb0",
+      "timestamp_utc": "2026-04-01T18:52:06+00:00",
+      "source": "zacks.com",
+      "url": "https://www.zacks.com/stock/news/2893209/will-coca-cola-ko-beat-estimates-again-in-its-next-earnings-report?cid=CS-TICKERTECH-HL-tale_of_the_tape",
+      "title": "Will Coca-Cola (KO) Beat Estimates Again in Its Next Earnings Report? - zacks.com",
+      "body": "As you were browsing something about your browser made us think you were a bot. There are a few reasons this might happen:\n\nTo regain access, please make sure that cookies and JavaScript are enabled before reloading the page.\n\nWe're getting everything ready for you. The page is loading, and you'll be on your way in just a few moments.",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "zacks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "zacks.com",
+        "source_domain": "zackscom.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

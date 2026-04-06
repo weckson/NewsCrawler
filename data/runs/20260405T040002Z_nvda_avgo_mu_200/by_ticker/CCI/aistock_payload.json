@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "395ab8a9-deac-578b-8d85-32e77f2547a6",
+      "timestamp_utc": "2026-04-04T07:21:34+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM2szWFAzOFZaU2R5QnRrU2gwNGVWckJpblFlbXpFV1Jtd2xocXpmZ3lXeG1aYjZpQmRwV1l4ZG0zclhQV2t5cTNzX29CM2dyVkVibk5uYzVuSGxFMzhaenZ3blMtd09oYUticlZjb2VtYkNjZk11WnRzRlR5U3Q1TUo3cmNQSzBYckd0NkNsQlVZOFlGbTB5bHZLQlJzSHQ5ZXpV?oc=5",
+      "title": "Crown Castle Inc. $CCI Shares Bought by Aberdeen Group plc - Defense World",
+      "body": "Crown Castle Inc. $CCI Shares Bought by Aberdeen Group plc Defense World",
+      "author": null,
+      "language": "en",
+      "ticker": "CCI",
+      "tickers_hint": [
+        "CCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CCI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c5f0cadd-6e9e-5bc8-81fe-473a8ff02e78",
+      "timestamp_utc": "2026-04-03T21:43:04+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5RDVXekgzUkFHcnJONUY5TFBCaFR5VlNiemRHTXdFYmNGc2ZjZTA5RE44c3QzaElIaEVfT2U1cVNOWmNVZWp6cndiNTY5YjhJUGd1eDBGUXg?oc=5",
+      "title": "Crown Castle Inc. (CCI) interactive stock chart - Yahoo Finance Singapore",
+      "body": "Crown Castle Inc. (CCI) interactive stock chart Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "CCI",
+      "tickers_hint": [
+        "CCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CCI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "53b23c57-b50f-5b59-89bd-90470206792e",
+      "timestamp_utc": "2026-04-03T20:55:16+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YZmZUandhMmNLR3A0TEh6dndKMDExemNOeDNTWGJjU2h6QnpHVnlQc1plVEE5aHNBR3I2bERKNTlOOHlTZXpLMDFwNE5sSWVNdElXLWsycVFMQnpYX1gzX0lmaUw?oc=5",
+      "title": "CCI Oct 2026 110.000 call (CCI261016C00110000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "CCI Oct 2026 110.000 call (CCI261016C00110000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "CCI",
+      "tickers_hint": [
+        "CCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CCI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "395ab8a9-deac-578b-8d85-32e77f2547a6",
+      "timestamp_utc": "2026-04-04T07:21:34+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM2szWFAzOFZaU2R5QnRrU2gwNGVWckJpblFlbXpFV1Jtd2xocXpmZ3lXeG1aYjZpQmRwV1l4ZG0zclhQV2t5cTNzX29CM2dyVkVibk5uYzVuSGxFMzhaenZ3blMtd09oYUticlZjb2VtYkNjZk11WnRzRlR5U3Q1TUo3cmNQSzBYckd0NkNsQlVZOFlGbTB5bHZLQlJzSHQ5ZXpV?oc=5",
+      "title": "Crown Castle Inc. $CCI Shares Bought by Aberdeen Group plc - Defense World",
+      "body": "Crown Castle Inc. $CCI Shares Bought by Aberdeen Group plc Defense World",
+      "author": null,
+      "language": "en",
+      "ticker": "CCI",
+      "tickers_hint": [
+        "CCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CCI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c5f0cadd-6e9e-5bc8-81fe-473a8ff02e78",
+      "timestamp_utc": "2026-04-03T21:43:04+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5RDVXekgzUkFHcnJONUY5TFBCaFR5VlNiemRHTXdFYmNGc2ZjZTA5RE44c3QzaElIaEVfT2U1cVNOWmNVZWp6cndiNTY5YjhJUGd1eDBGUXg?oc=5",
+      "title": "Crown Castle Inc. (CCI) interactive stock chart - Yahoo Finance Singapore",
+      "body": "Crown Castle Inc. (CCI) interactive stock chart Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "CCI",
+      "tickers_hint": [
+        "CCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CCI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "53b23c57-b50f-5b59-89bd-90470206792e",
+      "timestamp_utc": "2026-04-03T20:55:16+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YZmZUandhMmNLR3A0TEh6dndKMDExemNOeDNTWGJjU2h6QnpHVnlQc1plVEE5aHNBR3I2bERKNTlOOHlTZXpLMDFwNE5sSWVNdElXLWsycVFMQnpYX1gzX0lmaUw?oc=5",
+      "title": "CCI Oct 2026 110.000 call (CCI261016C00110000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "CCI Oct 2026 110.000 call (CCI261016C00110000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "CCI",
+      "tickers_hint": [
+        "CCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CCI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

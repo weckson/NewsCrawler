@@ -1,11 +1,11 @@
 [
   {
-    "id": "cacdf152-96fc-51e3-9678-bba70868072f",
-    "timestamp_utc": "2026-03-31T08:34:57+00:00",
-    "source": "gurufocus",
-    "url": "https://www.gurufocus.com/news/8762232/morgan-stanley-lowers-price-target-for-tfc-maintains-overweight-rating-tfc-stock-news?mobile=true",
-    "title": "Morgan Stanley Lowers Price Target for TFC, Maintains Overweight Rating | TFC Stock News - GuruFocus",
-    "body": "Morgan Stanley Lowers Price Target for TFC, Maintains Overweight Rating | TFC Stock News GuruFocus",
+    "id": "a9f0e91a-a152-5ec5-9cc8-9b6a852a0d8a",
+    "timestamp_utc": "2026-04-03T23:04:00+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uQVNyUzNvTXBRQkJXdGhPbmpFSmF0VmZsNFJtRzJTd3dSVjNzRXR3YlRVcjhRYk5fUkJYQ1BPZ0ZWZGthOGg4eDItejVaMWRHMlhDdHFsUk9DcHYzd0IzU1ZKVXk?oc=5",
+    "title": "TFC Dec 2028 75.000 put (TFC281215P00075000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "body": "TFC Dec 2028 75.000 put (TFC281215P00075000) Stock Price, News, Quote & History Yahoo! Finance Canada",
     "author": null,
     "language": "en",
     "ticker": "TFC",
@@ -13,13 +13,13 @@
       "TFC"
     ],
     "source_quality": "low",
-    "publisher_raw": "gurufocus.com",
+    "publisher_raw": "yahoo! finance canada",
     "meta": {
       "channel": "google_broad",
-      "source_name": "GuruFocus",
-      "source_domain": "gurufocus.com",
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
       "trust_tier": 1,
-      "relevance": 0.7000000000000001,
+      "relevance": 0.5,
       "event_origin": "news",
       "query_tickers": [
         "TFC"

@@ -1,0 +1,124 @@
+[
+  {
+    "id": "0b2637f1-83b7-5d37-8930-b18b1f5d10ba",
+    "timestamp_utc": "2026-04-02T19:39:29+00:00",
+    "source": "marketbeat.com",
+    "url": "https://www.marketbeat.com/instant-alerts/ubs-group-cuts-ppg-industries-nyseppg-price-target-to-11000-2026-04-02/",
+    "title": "UBS Group Cuts PPG Industries (NYSE:PPG) Price Target to $110.00 - marketbeat.com",
+    "body": "UBS Group Cuts PPG Industries (NYSE:PPG) Price Target to $110.00 marketbeat.com",
+    "author": null,
+    "language": "en",
+    "ticker": "PPG",
+    "tickers_hint": [
+      "PPG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "marketbeat.com",
+      "source_domain": "marketbeatcom.com",
+      "trust_tier": 1,
+      "relevance": 0.7000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "PPG"
+      ],
+      "alt_sources": [
+        "Defense World"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "e324aa97-12f6-578e-a2e4-a16ae062430b",
+    "timestamp_utc": "2026-04-03T06:28:13+00:00",
+    "source": "defense_world",
+    "url": "https://www.defenseworld.net/2026/04/03/citigroup-reiterates-neutral-rating-for-ppg-industries-nyseppg.html",
+    "title": "Citigroup Reiterates “Neutral” Rating for PPG Industries (NYSE:PPG) - Defense World",
+    "body": "Air Armament Engines Fighter Aircraft Helicopters Land Armored Vehicles and Tanks Ordinance and Artillery Personnel Equipment Small Arms Missiles and Space Air Defense Military Satellites Missile Technology Naval Civil Aviation Accidents Airlines Engines Manufacturers MRO Economy Management Appointments Market Trends and Finance Mergers and Acquisitions Companies",
+    "author": null,
+    "language": "en",
+    "ticker": "PPG",
+    "tickers_hint": [
+      "PPG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "defense world",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Defense World",
+      "source_domain": "defenseworld.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "PPG"
+      ],
+      "body_kind": "article_text"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "4c6b345f-f068-5c2a-8055-d06695920045",
+    "timestamp_utc": "2026-04-03T12:22:18+00:00",
+    "source": "yahoo_finance_uk",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HcENELXhmdlhQS0JrdWtOaXM4S0tjTUpMdEZ2Z2Y1WWxUUF9lTXZwdkFMdnJCZ3lwdnhYRFdYT0p6enJZUE1GQzZQOHlyUEww?oc=5",
+    "title": "PPG Industries, Inc. (PPG) stock price, news, quote and history - Yahoo Finance UK",
+    "body": "PPG Industries, Inc. (PPG) stock price, news, quote and history Yahoo Finance UK",
+    "author": null,
+    "language": "en",
+    "ticker": "PPG",
+    "tickers_hint": [
+      "PPG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo finance uk",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance UK",
+      "source_domain": "yahoofinanceuk.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "PPG"
+      ],
+      "alt_sources": [
+        "Yahoo! Finance Canada"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "24f379b1-40d8-5ff5-8870-fe2826546bc7",
+    "timestamp_utc": "2026-04-02T21:37:07+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8769100/ubs-maintains-neutral-rating-for-ppg-adjusts-price-target-ppg-stock-news?mobile=true",
+    "title": "UBS Maintains 'Neutral' Rating for PPG, Adjusts Price Target | P - GuruFocus",
+    "body": "UBS Maintains 'Neutral' Rating for PPG, Adjusts Price Target | P GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "PPG",
+    "tickers_hint": [
+      "PPG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "PPG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

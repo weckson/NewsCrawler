@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "93753999-7cb5-5485-be3a-d09eb849865c",
+      "timestamp_utc": "2026-04-04T22:34:07+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDVTdVd0E2Z2xDQkZ2R2c3SlU0dllObW5XSDU4N0VkazFIRWhqNDVhRFVMZ1kzOTVMeDY0Wlh5OVZHRmI3MFV6eE1TOEpsVEtmTGJrLWtDTU5sNGtXSmIybEMtQ2RnZ0pYTWFYcDVNR1h5bjUyLWZGcW9wb1JpQQ?oc=5",
+      "title": "1 Stock That's a Big Opportunity: AIG - Yahoo",
+      "body": "1 Stock That's a Big Opportunity: AIG Yahoo",
+      "author": null,
+      "language": "en",
+      "ticker": "AIG",
+      "tickers_hint": [
+        "AIG"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo",
+        "source_domain": "yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AIG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0a44b4ae-b70f-5124-b923-9e9422e090b9",
+      "timestamp_utc": "2026-04-04T00:11:52+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kZm1JS0lIUjVaU19KTHVFQV9HVGh2bUFudlZTa3BmUzJoOXZSQkdMY2Jqbk80amxVRHB1TV9FUUo0bHktSmYxcTF1ejdsdTVqeHg5YkExclNqRF9jVkZGWjRyeGdRQQ?oc=5",
+      "title": "AIG SEC Filings - American Intl Group Inc 10-K, 10-Q, 8-K Forms - Stock Titan",
+      "body": "AIG SEC Filings - American Intl Group Inc 10-K, 10-Q, 8-K Forms Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "AIG",
+      "tickers_hint": [
+        "AIG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AIG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "93753999-7cb5-5485-be3a-d09eb849865c",
+      "timestamp_utc": "2026-04-04T22:34:07+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDVTdVd0E2Z2xDQkZ2R2c3SlU0dllObW5XSDU4N0VkazFIRWhqNDVhRFVMZ1kzOTVMeDY0Wlh5OVZHRmI3MFV6eE1TOEpsVEtmTGJrLWtDTU5sNGtXSmIybEMtQ2RnZ0pYTWFYcDVNR1h5bjUyLWZGcW9wb1JpQQ?oc=5",
+      "title": "1 Stock That's a Big Opportunity: AIG - Yahoo",
+      "body": "1 Stock That's a Big Opportunity: AIG Yahoo",
+      "author": null,
+      "language": "en",
+      "ticker": "AIG",
+      "tickers_hint": [
+        "AIG"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo",
+        "source_domain": "yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AIG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0a44b4ae-b70f-5124-b923-9e9422e090b9",
+      "timestamp_utc": "2026-04-04T00:11:52+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kZm1JS0lIUjVaU19KTHVFQV9HVGh2bUFudlZTa3BmUzJoOXZSQkdMY2Jqbk80amxVRHB1TV9FUUo0bHktSmYxcTF1ejdsdTVqeHg5YkExclNqRF9jVkZGWjRyeGdRQQ?oc=5",
+      "title": "AIG SEC Filings - American Intl Group Inc 10-K, 10-Q, 8-K Forms - Stock Titan",
+      "body": "AIG SEC Filings - American Intl Group Inc 10-K, 10-Q, 8-K Forms Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "AIG",
+      "tickers_hint": [
+        "AIG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AIG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

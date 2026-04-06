@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "72c6ef79-da34-5292-97ba-ae4c3d6198d7",
+      "timestamp_utc": "2026-04-04T01:21:31+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OVmdLNlpldTJTNXNXS3lWLVpFMGVodkliWWZDcXNyMHh0dTdMNlJabmlMOWlNbl9ld0h1N1FPalA1T1AtTjdUaTF5NVpyR1BIcnRHTUxJeE4zUnZGdUljTVNiUGNnUQ?oc=5",
+      "title": "CTVA SEC Filings - Corteva Inc 10-K, 10-Q, 8-K Forms - Stock Titan",
+      "body": "CTVA SEC Filings - Corteva Inc 10-K, 10-Q, 8-K Forms Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "CTVA",
+      "tickers_hint": [
+        "CTVA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CTVA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "77c034f4-be61-5192-977d-c6f2495f2128",
+      "timestamp_utc": "2026-04-03T19:19:25+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IUGl4OUNqZy1XMnNlY0Q2OHFLMUpLcjVxWXpNanU2b0lTeGhod2U1QnJkbWhtcDlQTUdqeFJuMU5GT0J1Z2VLR1B2RjVnaTBzTXc?oc=5",
+      "title": "Corteva, Inc. (CTVA) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Corteva, Inc. (CTVA) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "CTVA",
+      "tickers_hint": [
+        "CTVA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CTVA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "72c6ef79-da34-5292-97ba-ae4c3d6198d7",
+      "timestamp_utc": "2026-04-04T01:21:31+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OVmdLNlpldTJTNXNXS3lWLVpFMGVodkliWWZDcXNyMHh0dTdMNlJabmlMOWlNbl9ld0h1N1FPalA1T1AtTjdUaTF5NVpyR1BIcnRHTUxJeE4zUnZGdUljTVNiUGNnUQ?oc=5",
+      "title": "CTVA SEC Filings - Corteva Inc 10-K, 10-Q, 8-K Forms - Stock Titan",
+      "body": "CTVA SEC Filings - Corteva Inc 10-K, 10-Q, 8-K Forms Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "CTVA",
+      "tickers_hint": [
+        "CTVA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CTVA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "77c034f4-be61-5192-977d-c6f2495f2128",
+      "timestamp_utc": "2026-04-03T19:19:25+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IUGl4OUNqZy1XMnNlY0Q2OHFLMUpLcjVxWXpNanU2b0lTeGhod2U1QnJkbWhtcDlQTUdqeFJuMU5GT0J1Z2VLR1B2RjVnaTBzTXc?oc=5",
+      "title": "Corteva, Inc. (CTVA) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Corteva, Inc. (CTVA) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "CTVA",
+      "tickers_hint": [
+        "CTVA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CTVA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

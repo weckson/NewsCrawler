@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "6b68eddf-9b92-5423-aedb-b7bde7259fcc",
+      "timestamp_utc": "2026-04-03T08:05:48+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-walmart-inc-wmt-shares-purchased-by-compagnie-lombard-odier-scma-2026-04-03/",
+      "title": "Walmart Inc. $WMT Shares Purchased by Compagnie Lombard Odier SCmA - MarketBeat",
+      "body": "Walmart Inc. $WMT Shares Purchased by Compagnie Lombard Odier SCmA MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "WMT",
+      "tickers_hint": [
+        "WMT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "WMT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "6b68eddf-9b92-5423-aedb-b7bde7259fcc",
+      "timestamp_utc": "2026-04-03T08:05:48+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-walmart-inc-wmt-shares-purchased-by-compagnie-lombard-odier-scma-2026-04-03/",
+      "title": "Walmart Inc. $WMT Shares Purchased by Compagnie Lombard Odier SCmA - MarketBeat",
+      "body": "Walmart Inc. $WMT Shares Purchased by Compagnie Lombard Odier SCmA MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "WMT",
+      "tickers_hint": [
+        "WMT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "WMT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

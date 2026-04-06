@@ -1,0 +1,614 @@
+[
+  {
+    "id": "a2e40143-5390-5ce5-9619-294e87dd38c6",
+    "timestamp_utc": "2026-04-01T20:01:00+00:00",
+    "source": "investing.com",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS0w1dkpTU19xc3N5S2s3TTFoZFRDM21ZeGZxVVZiWHBzSGxuUWdWWVVUWGZoblRPcXNDVlpXU0c4QnZtbklCSFBzZUNkSEVRZ1BwcFh2UFdabmp0enBsNTBiS0sxVHZkbk55UFZPLUtGbUhBWWNHdWxidUJRRVlMa2Nnc2h4djhOSFRvd01neHV1bzMzT1o0dzlpaWNqTXhXb3ZOQ0FDUm1QLVI5V2d5MGJ5X3g0T2RkdFpTWnhBWndCQk4tOUVVdmRkMk9Ndw?oc=5",
+    "title": "Smith Daniel C., Simon Property director, buys $65k in SPG stock - Investing.com",
+    "body": "Smith Daniel C., Simon Property director, buys $65k in SPG stock Investing.com",
+    "author": null,
+    "language": "en",
+    "ticker": "SPG",
+    "tickers_hint": [
+      "SPG"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "investing.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Investing.com",
+      "source_domain": "investing.com",
+      "trust_tier": 2,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "SPG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "020cc777-40e3-52ce-b86b-032793f9a4b8",
+    "timestamp_utc": "2026-04-01T19:46:00+00:00",
+    "source": "investing.com",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTU1KM1VtSEpvT01SZFZLRnl5dnNBamo5LV83SXFuRE5neFlWSzNTY0FkOFN6ak9CVVg2UzhYLXBPT2cwUk52a1Jval9LdTNranEwZEJOamtWY0xESXA0Yi16SzZsRVZSR3NQb09ENWl3ZkFwbkVmTk5LODRIdFlZSzM4SWRaQWtITFJZS0NRZ3JzZE1oRUM0OFVTQnRyRG1xOXFJN25hRWlrSS1Uc25yb1gydEZ3NmIwdndrYmw2NWttWDZvVExncnJjcUV1RVlTZVE?oc=5",
+    "title": "Aeppel Glyn, director, buys Simon Property (SPG) shares worth $40,619 - Investing.com",
+    "body": "Aeppel Glyn, director, buys Simon Property (SPG) shares worth $40,619 Investing.com",
+    "author": null,
+    "language": "en",
+    "ticker": "SPG",
+    "tickers_hint": [
+      "SPG"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "investing.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Investing.com",
+      "source_domain": "investing.com",
+      "trust_tier": 2,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "SPG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "6e03ca02-2a0a-5c74-8fcb-b47547926429",
+    "timestamp_utc": "2026-04-02T19:25:24+00:00",
+    "source": "stock_titan",
+    "url": "https://www.stocktitan.net/sec-filings/SPG/form-4-simon-property-group-inc-insider-trading-activity-13029a42d38f.html",
+    "title": "SPG (SPG) CEO Eli Simon has 2,030 shares withheld for taxes on vesting - Stock Titan",
+    "body": "SPG (SPG) CEO Eli Simon has 2,030 shares withheld for taxes on vesting Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "SPG",
+    "tickers_hint": [
+      "SPG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "SPG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "5a0e6a1b-364d-54ca-8ee0-4ebbcf9162fe",
+    "timestamp_utc": "2026-04-01T19:56:44+00:00",
+    "source": "stock_titan",
+    "url": "https://www.stocktitan.net/sec-filings/SPG/form-4-simon-property-group-inc-insider-trading-activity-232b1866ecf1.html",
+    "title": "Director Daniel C. Smith adds SPG (NYSE: SPG) shares through dividend reinvestment - Stock Titan",
+    "body": "Director Daniel C. Smith adds SPG (NYSE: SPG) shares through dividend reinvestment Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "SPG",
+    "tickers_hint": [
+      "SPG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "SPG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "b7cc20a9-53f3-5772-b43a-ac63f36e78a6",
+    "timestamp_utc": "2026-04-01T19:48:24+00:00",
+    "source": "stock_titan",
+    "url": "https://www.stocktitan.net/sec-filings/SPG/form-4-simon-property-group-inc-insider-trading-activity-90629b1a456d.html",
+    "title": "Director Nina P. Jones adds SPG (NYSE: SPG) shares via dividend reinvestment - Stock Titan",
+    "body": "Director Nina P. Jones adds SPG (NYSE: SPG) shares via dividend reinvestment Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "SPG",
+    "tickers_hint": [
+      "SPG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "SPG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "97b8c6ce-a11a-5810-8ab6-581c58f786f1",
+    "timestamp_utc": "2026-04-02T19:36:22+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNczNvcjM4SENrcjhIN2RsSlV2S3E2NVFONlZsV2dQWUVUVjItaVBvSElsUUZmQXNiUkRjbVF0Y0oxMld3ME9HQUJscjJMcGxtQ1QxeGZpZDg2OUcxbEpXaDF3blJnUzY3YTNBeHNfTkhzT21LNEVTTGN5cUdQOFVWOGlCYTc2Y0lCYmk3a0VmUkltcldGbkQyUTNQODJlbF8xU2NxSU44UGlsYklCNDlmV3ZtZ1I1Y2Fz?oc=5",
+    "title": "SPG (SPG) CAO Rulli has shares withheld for taxes on restricted stock - Stock Titan",
+    "body": "SPG (SPG) CAO Rulli has shares withheld for taxes on restricted stock Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "SPG",
+    "tickers_hint": [
+      "SPG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "SPG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "5698c314-e1b6-5cbd-bb46-05e78f6e5c18",
+    "timestamp_utc": "2026-04-02T19:34:37+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX1pmWkdCRGJ6elRCbzFxNVI4SHVyZDlMTVVlQVRJaTVyVjJObklQR2l5b3UtZnNLTGVTcXRZNVJyZWlXa3hjQzJtQkpHdlpRcDFmQ1kxejR2aURMY0tjVkdjeVJUTHJUazJUNmdTNno2ZUpyV2VzWHYySE5vLTUzZG83eFB6b2VsQ0dlQzdsTkpxb0ZlUUFZa0FzbTh6TWJVZ0p5aExLZF94Rjd5ZVJqbE9XcXg4Y3NG?oc=5",
+    "title": "SPG (NYSE: SPG) accounting chief has 391 shares withheld for tax on vesting - Stock Titan",
+    "body": "SPG (NYSE: SPG) accounting chief has 391 shares withheld for tax on vesting Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "SPG",
+    "tickers_hint": [
+      "SPG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "SPG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "508e2c76-6c8d-57ee-ae77-e0ce774e0660",
+    "timestamp_utc": "2026-04-02T19:32:55+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWlJ3cjc4c0JMaGg1R3dSUnVoZGQ2YVhfU0hjMXVOUXgyZTdnZC1TcTRXS295VVR6M1lKeDRBSFZ3b04wUkZJSy1tQ0pEQVVINDlRNGc0OEF2Q3JBeXY4bHI3MkczTnZrRXp0NkJtZS1VSUJzNUlZQkxKWW0yczRfRVRoaDc0aDhMV3g3dkF3UmlsTlc5Y3VJR0V3RjNIcjVxTEhhbE9ITF9ZUUpQaWtoZ29kX0ZFNlNB?oc=5",
+    "title": "SPG (SPG) assistant general counsel granted restricted stock, shares withheld for taxes - Stock Titan",
+    "body": "SPG (SPG) assistant general counsel granted restricted stock, shares withheld for taxes Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "SPG",
+    "tickers_hint": [
+      "SPG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "SPG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "a1550e9f-a55d-5ce6-ba6a-8620984274b1",
+    "timestamp_utc": "2026-04-02T19:29:01+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbnVoYS15V3hmcGFzc3Y3NFRUX2ZrX25IVXJjS2JKNm5JZl9JX2YyMlBTQ2NjZXd5MzMzX0tkTTRPRFRVZENMVGJzb2xsSjBvQ2ZOMVBnaTBTMjI0dF92aWVwLWF5cTNLT2drTEN1XzNYUTJRLU9ycjRfeW1QR0gwdFBONVQyVHR4bnl6THJIUlZuU3VWSGZoc0Y0aFFUYXJDT0o4YXpLeHkxV29RdjI4UHpydDVpQmdJ?oc=5",
+    "title": "SPG (NYSE: SPG) EVP awarded restricted stock and has shares withheld for taxes - Stock Titan",
+    "body": "SPG (NYSE: SPG) EVP awarded restricted stock and has shares withheld for taxes Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "SPG",
+    "tickers_hint": [
+      "SPG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "SPG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "48848672-7a5e-5c4f-9304-85ae6fa651b2",
+    "timestamp_utc": "2026-04-01T19:46:32+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWjdISmtnTWhmWE94N1FaY1hWX3haaW8tbWtuVG5ZUUN4TzRMTXRRVGVWdUItX3VvMW1NX21LVVpQeUVEcmdUNGRGS3Z3YlQ0X25NZVpPb2ZIUG1wMVNfUnkwVENRNTJWZXVidko1anBtb1NaQWtmOEJhZkxvb0VMTWhheFdnU3V4OGp4aF9scnZSOGZKc2gwLUtXSEh4bmZPdXh1ajlnQjVfdGhUV2EyLTVlQ3doR0xh?oc=5",
+    "title": "SPG (SPG) director Reuben Leibowitz adds 491 shares in open-market buy - Stock Titan",
+    "body": "SPG (SPG) director Reuben Leibowitz adds 491 shares in open-market buy Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "SPG",
+    "tickers_hint": [
+      "SPG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "SPG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "774a9065-0f5f-5311-bb45-21783b8047bb",
+    "timestamp_utc": "2026-04-03T10:12:10+00:00",
+    "source": "msn",
+    "url": "https://www.msn.com/en-us/money/topstocks/is-simon-property-group-inc-spg-the-most-profitable-real-estate-stock-right-now/ar-AA1ZPMRr?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "title": "Is Simon Property Group, Inc. (SPG) the most profitable real estate stock right now? - MSN",
+    "body": "Is Simon Property Group, Inc. (SPG) the most profitable real estate stock right now? MSN",
+    "author": null,
+    "language": "en",
+    "ticker": "SPG",
+    "tickers_hint": [
+      "SPG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "msn",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MSN",
+      "source_domain": "msn.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "SPG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "10f55ca4-0ff1-5a87-9ece-93f62dcc2290",
+    "timestamp_utc": "2026-04-01T19:54:58+00:00",
+    "source": "stock_titan",
+    "url": "https://www.stocktitan.net/sec-filings/SPG/form-4-simon-property-group-inc-insider-trading-activity-0b04d0fe7932.html",
+    "title": "Director adds 206 Simon Property (NYSE: SPG) shares via dividend reinvestment - Stock Titan",
+    "body": "⛶ Fullscreen SEC Form 4 FORM 4UNITED STATES SECURITIES AND EXCHANGE COMMISSIONWashington, D.C.\n\n20549STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIPFiled pursuant to Section 16(a) of the Securities Exchange Act of 1934or Section 30(h) of the Investment Company Act of 1940OMB APPROVALOMB Number:3235-0287Estimated average burdenhours per response:0.5 Check this box if no longer subject to Section 16.\n\nCheck this box to indicate that a transaction was made pursuant to a contract, instruction or written plan for the purchase or sale of equity securities of the issuer that is intended to satisfy the affirmative defense conditions of Rule 10b5-1(c).\n\nName and Address of Reporting Person*SELIG STEFAN M(Last)(First)(Middle)2 EAST 70TH STREET(Street)NEW YORK NEW YORK 10021(City)(State)(Zip)UNITED STATES(Country)2.\n\nIssuer Name and Ticker or Trading Symbol SIMON PROPERTY GROUP INC.\n\nRelationship of Reporting Person(s) to Issuer (Check all applicable)XDirector10% OwnerOfficer (give title below)Other (specify below)2a.\n\nIndividual or Joint/Group Filing (Check Applicable Line) XForm filed by One Reporting PersonForm filed by More than One Reporting Person4.\n\nIf Amendment, Date of Original Filed (Month/Day/Year)Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned1.\n\nAmount of Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeVAmount(A) or (D)PriceCommon Stock03/31/2026P(1)206A$183.8(1)32,483DTable II - Derivative Securities Acquired, Disposed of, or Beneficially Owned(e.g., puts, calls, warrants, options, convertible securities)1.\n\nNumber of Derivative Securities Acquired (A) or Disposed of (D) (Instr.\n\nTitle and Amount of Securities Underlying Derivative Security (Instr.\n\nNumber of derivative Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeV(A)(D)Date ExercisableExpiration DateTitleAmount or Number of SharesExplanation of Responses:1.\n\nRepresents shares of common stock acquired through the reinvestment of dividends received on restricted stock awarded to the Reporting Person as non-cash compensation under the Simon Property Group, L.P.\n\nFivel04/01/2026** Signature of Reporting PersonDateReminder: Report on a separate line for each class of securities beneficially owned directly or indirectly.* If the form is filed by more than one reporting person, see Instruction 4 (b)(v).** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C.\n\n78ff(a).Note: File three copies of this Form, one of which must be manually signed.\n\nIf space is insufficient, see Instruction 6 for procedure.Persons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB Number.* Form 4: SEC 1474 (03-26)",
+    "author": null,
+    "language": "en",
+    "ticker": "SPG",
+    "tickers_hint": [
+      "SPG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "SPG"
+      ],
+      "alt_sources": [
+        "Stock Titan"
+      ],
+      "body_kind": "article_text"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "ac5c85b4-8dd5-5421-b10f-c1877d196e30",
+    "timestamp_utc": "2026-04-01T19:53:19+00:00",
+    "source": "stock_titan",
+    "url": "https://www.stocktitan.net/sec-filings/SPG/form-4-simon-property-group-inc-insider-trading-activity-7e263974970e.html",
+    "title": "Peggy Roe adds 81 Simon Property (NYSE: SPG) shares via dividends - Stock Titan",
+    "body": "⛶ Fullscreen SEC Form 4 FORM 4UNITED STATES SECURITIES AND EXCHANGE COMMISSIONWashington, D.C.\n\n20549STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIPFiled pursuant to Section 16(a) of the Securities Exchange Act of 1934or Section 30(h) of the Investment Company Act of 1940OMB APPROVALOMB Number:3235-0287Estimated average burdenhours per response:0.5 Check this box if no longer subject to Section 16.\n\nCheck this box to indicate that a transaction was made pursuant to a contract, instruction or written plan for the purchase or sale of equity securities of the issuer that is intended to satisfy the affirmative defense conditions of Rule 10b5-1(c).\n\nName and Address of Reporting Person*Roe Peggy(Last)(First)(Middle)5804 CLEVES LANE(Street)BETHESDA MARYLAND 20816(City)(State)(Zip)UNITED STATES(Country)2.\n\nIssuer Name and Ticker or Trading Symbol SIMON PROPERTY GROUP INC.\n\nRelationship of Reporting Person(s) to Issuer (Check all applicable)XDirector10% OwnerOfficer (give title below)Other (specify below)2a.\n\nIndividual or Joint/Group Filing (Check Applicable Line) XForm filed by One Reporting PersonForm filed by More than One Reporting Person4.\n\nIf Amendment, Date of Original Filed (Month/Day/Year)Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned1.\n\nAmount of Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeVAmount(A) or (D)PriceCommon Stock03/31/2026P(1)81A$183.8(1)6,885DTable II - Derivative Securities Acquired, Disposed of, or Beneficially Owned(e.g., puts, calls, warrants, options, convertible securities)1.\n\nNumber of Derivative Securities Acquired (A) or Disposed of (D) (Instr.\n\nTitle and Amount of Securities Underlying Derivative Security (Instr.\n\nNumber of derivative Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeV(A)(D)Date ExercisableExpiration DateTitleAmount or Number of SharesExplanation of Responses:1.\n\nRepresents shares of common stock acquired through the reinvestment of dividends received on restricted stock awarded to the Reporting Person as non-cash compensation under the Simon Property Group, L.P.\n\n2019 Stock Incentive Plan./s/ Peggy Fang Roe by her attorney-in-fact, Steven E.\n\nFivel04/01/2026** Signature of Reporting PersonDateReminder: Report on a separate line for each class of securities beneficially owned directly or indirectly.* If the form is filed by more than one reporting person, see Instruction 4 (b)(v).** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C.\n\n78ff(a).Note: File three copies of this Form, one of which must be manually signed.\n\nIf space is insufficient, see Instruction 6 for procedure.Persons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB Number.* Form 4: SEC 1474 (03-26)",
+    "author": null,
+    "language": "en",
+    "ticker": "SPG",
+    "tickers_hint": [
+      "SPG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "SPG"
+      ],
+      "body_kind": "article_text"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "936a821c-ae28-5593-88ed-16072ea03978",
+    "timestamp_utc": "2026-04-01T19:51:27+00:00",
+    "source": "stock_titan",
+    "url": "https://www.stocktitan.net/sec-filings/SPG/form-4-simon-property-group-inc-insider-trading-activity-fe91ff0a6567.html",
+    "title": "Director adds 232 Simon Property (NYSE: SPG) shares via dividends - Stock Titan",
+    "body": "Director adds 232 Simon Property (NYSE: SPG) shares via dividends Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "SPG",
+    "tickers_hint": [
+      "SPG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "SPG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "acf4cd04-2d0a-58a2-b7ea-b60e629b6c12",
+    "timestamp_utc": "2026-04-01T19:49:55+00:00",
+    "source": "stock_titan",
+    "url": "https://www.stocktitan.net/sec-filings/SPG/form-4-simon-property-group-inc-insider-trading-activity-960302f94566.html",
+    "title": "Director adds 56 Simon Property Group (NYSE: SPG) shares via dividends - Stock Titan",
+    "body": "Director adds 56 Simon Property Group (NYSE: SPG) shares via dividends Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "SPG",
+    "tickers_hint": [
+      "SPG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "SPG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "4e7afdf9-e7cf-53fd-b795-70b150a88d9c",
+    "timestamp_utc": "2026-04-01T19:44:18+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY28zUW1ab3Ywd2YycGtZdU44enEtTjFWSEhreGZQNEhjTl9IcC1jemxBVFRzRTYtbGFlSk9NUm9NcFlPbWtBSC1LSEFNT3NPTi1Tbl9FRUUxUzR4ZjNpdTdEU2RLZV9CY3pFdnFfSFhaM21DVTRxSXc2TFNIaXRLTDR4MWNnbjBRNlp1djJyc19Jdl81Y20yRWQ4ajF1eTlUS041MEhndExBVXNDMlFWWTVSXy1PelZ1?oc=5",
+    "title": "Simon Property (NYSE: SPG) director adds 373 shares through dividend reinvestment plan - Stock Titan",
+    "body": "Simon Property (NYSE: SPG) director adds 373 shares through dividend reinvestment plan Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "SPG",
+    "tickers_hint": [
+      "SPG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "SPG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "e46085b3-a760-5099-95f8-af6d2ec5c639",
+    "timestamp_utc": "2026-04-02T19:30:53+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYXQ1ZklaQkxhN1pqd0RMdldSWEhtcXhoczJkdEtyRDJkYVRvU2llT3Y2UlVuY182RVRUS3Q0dHVvSzJ6c01id1pGcWNkYXFjTXV0NDhOTmQyR25ySFFWOUNaa0ZqT2RVRXFSX19kMmU2czM5aHdsRm1NbFh5NDQwUV94cExacHBjNzNSY1JHX3VfSTI3OFBxRHVua2M5bmo2RVVuZjNqc3NhOTFZRUc5cFJXczl0SC1w?oc=5",
+    "title": "Simon Property (NYSE: SPG) SVP granted stock; shares withheld for taxes - Stock Titan",
+    "body": "Simon Property (NYSE: SPG) SVP granted stock; shares withheld for taxes Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "SPG",
+    "tickers_hint": [
+      "SPG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "SPG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "14fb74cd-fa38-5f27-8a94-4c03ea5d385b",
+    "timestamp_utc": "2026-04-02T19:27:05+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUkZ6Y3JqN0FvREZGQUhwODVSSXY5d2hGWnJjVFlDVG1uRm9YNjk5TWs2VVcxRFd3dFJLR1VJZTBiNWgzZ3pZYzItLUQ3Q19mdU8weERLdzVRVFgzMWhmRTd3YzNmNmxvREJPRVU5LW1JWUVaSmJhSnk3WmtoTzIzell1OTZUa193SF9fWFVVR2t1V0pZSEQwYUVHZmZlRmFnVWgtSDhXdFQ5TmdUS1AxZlZDMlpzMG5K?oc=5",
+    "title": "Simon Property Group (NYSE: SPG) counsel reports 1,048-share tax withholding - Stock Titan",
+    "body": "Simon Property Group (NYSE: SPG) counsel reports 1,048-share tax withholding Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "SPG",
+    "tickers_hint": [
+      "SPG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "SPG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "038ee9d9-bab0-59e0-b11e-9f92b9dad9fc",
+    "timestamp_utc": "2026-04-01T20:33:38+00:00",
+    "source": "investing.com_india",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOXlHQ0lTbEh1WGY4VXRzYmpoWXpfdVlIMEFRVUVRU1FYLWZjUkFBZzNQczBIbTZ4UFF3bTZaUDZRNlRoTHh2VVE5TlpBSzhNMWRLWXRYOWVwRFl6RGRHVm9nOVlrZVZHUTA5NE1mM3pNRl9BWWJmVnJIbmdMSC1Pd3BXZVJFWVRnVXlGVzl0elJjbUtFYmpjekpad2o0ZlpsMFZYa2RsV2VlbDRlaW8tTzB0LXBIZkk?oc=5",
+    "title": "Leibowitz buys Simon Property (SPG) shares worth $90,245 By Investing.com - Investing.com India",
+    "body": "Leibowitz buys Simon Property (SPG) shares worth $90,245 By Investing.com Investing.com India",
+    "author": null,
+    "language": "en",
+    "ticker": "SPG",
+    "tickers_hint": [
+      "SPG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "investing.com india",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Investing.com India",
+      "source_domain": "investingcomindia.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "SPG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "fca16674-b3f7-5450-b4a1-8a3deb77ac69",
+    "timestamp_utc": "2026-04-01T20:27:46+00:00",
+    "source": "investing.com_australia",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMC16dGtGYTNQekc1U3hvaXdJNHRpTFhNY1hGVXhEMGJGeVB1WW54dkl2dGFNSUNBX1Rsa0JnMkFwY2s1dXhkb3A0dF94ZmdvUWVMM2lKVHdXOFFrV0J1bUMtaV92SVNjQ25MRWhiYmYzU2xvUVlPZUxVcHpnaEF6TnlsYWlSMTNtMUdCb0p1cGEtR1Q0RUo3eGJvV1oySWRhQ0Z4UklwR1l0MkZkR194RnlnM2hCVkJZSmhEczQ2aVI0Wm5PZEVR?oc=5",
+    "title": "Roe Peggy buys Simon Property (SPG) shares worth $14887 By Investing.com - Investing.com Australia",
+    "body": "Roe Peggy buys Simon Property (SPG) shares worth $14887 By Investing.com Investing.com Australia",
+    "author": null,
+    "language": "en",
+    "ticker": "SPG",
+    "tickers_hint": [
+      "SPG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "investing.com australia",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Investing.com Australia",
+      "source_domain": "investingcomaustralia.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "SPG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "fe733976-9071-58cb-bae1-03bd2c2308b9",
+    "timestamp_utc": "2026-04-01T19:42:25+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWWxiYjU1WDR4c3hDZ212a3hMUmxMeXdRRHVrMVBpazJIZUdvWGhmMW43V2VsZjJmanlHQ1hrekhXR0RiS0hReXJQTDU4VkF0b2NVVFAyVU5zUDdiTGFfV3YteEREQzRhNFd6cElhV1ZRNmFXallLTmJzeVV5M1F4UmFsN0N2Vy1uU24zcjlTZDN5bDdnTTU3ekxscHloamE2WnVrNVEtVy1qT0hIWUtnQWo0ZTJkT1d6?oc=5",
+    "title": "Director Glyn Aeppel adds 221 Simon Property (NYSE: SPG) shares - Stock Titan",
+    "body": "Director Glyn Aeppel adds 221 Simon Property (NYSE: SPG) shares Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "SPG",
+    "tickers_hint": [
+      "SPG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "SPG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

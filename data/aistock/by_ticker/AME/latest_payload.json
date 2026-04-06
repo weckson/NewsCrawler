@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "f9eb911b-ccd4-5a79-acf8-f8dc1afed19f",
+      "timestamp_utc": "2026-04-03T20:04:08+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QUVJZbnE2T0ZrQnhFN0FwMFpwWGdtLVJHU1QzaUVURmdxQmxXNmhmbmRVcGJLOG1Kc1RTWXhkcXBVN0JEaHJpMk5WRjZCRnI0RzFTMHluakFQeVZTS21GNW9n?oc=5",
+      "title": "Abacus Mining & Exploration Corporation (AME.V) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Abacus Mining & Exploration Corporation (AME.V) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "AME",
+      "tickers_hint": [
+        "AME"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AME"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "f9eb911b-ccd4-5a79-acf8-f8dc1afed19f",
+      "timestamp_utc": "2026-04-03T20:04:08+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QUVJZbnE2T0ZrQnhFN0FwMFpwWGdtLVJHU1QzaUVURmdxQmxXNmhmbmRVcGJLOG1Kc1RTWXhkcXBVN0JEaHJpMk5WRjZCRnI0RzFTMHluakFQeVZTS21GNW9n?oc=5",
+      "title": "Abacus Mining & Exploration Corporation (AME.V) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Abacus Mining & Exploration Corporation (AME.V) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "AME",
+      "tickers_hint": [
+        "AME"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AME"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

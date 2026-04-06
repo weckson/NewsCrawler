@@ -1,0 +1,728 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "f229a007-29ea-5302-92f9-147da2b415f1",
+      "timestamp_utc": "2026-04-01T09:09:36+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/04/51591719/iphone-17-panel-shipments-inch-higher-as-premiumization-deepens",
+      "title": "What's Going On With Apple Stock Wednesday? - Apple (NASDAQ:AAPL), Fidelity Blue Chip Growth ETF (BATS:FB - Benzinga",
+      "body": "What's Going On With Apple Stock Wednesday? - Apple (NASDAQ:AAPL), Fidelity Blue Chip Growth ETF (BATS:FB Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AAPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "37a288dc-c12c-58e5-9851-e56f4256c288",
+      "timestamp_utc": "2026-04-02T19:46:33+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/04/51637298/nvidia-apple-are-outgunning-defense-stocks-during-a-war-thats-weird",
+      "title": "Nvidia, Apple Are Outgunning Defense Stocks During A War — That's Weird - Apple (NASDAQ:AAPL), iShares U. - Benzinga",
+      "body": "Nvidia, Apple Are Outgunning Defense Stocks During A War — That's Weird - Apple (NASDAQ:AAPL), iShares U. Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AAPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8a690d30-50f8-5b98-92fb-2859bd74b7e7",
+      "timestamp_utc": "2026-04-02T05:18:23+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/AAPL/news",
+      "title": "Latest Apple Stock News | NASDAQ:AAPL - Benzinga",
+      "body": "Latest Apple Stock News | NASDAQ:AAPL Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AAPL"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ef52dab1-b0bb-53e7-8bb7-29d8da1b158f",
+      "timestamp_utc": "2026-04-02T19:11:06+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOXFkY1pxQ21XNndoOUdpbjcybWgyWktkUVZOVmFoQUtndHdJTnItR1JheF8wWEZrZU9LYVdOczJkUWkteF9lZ2dubWNraUlqYmZKTEF1RGlHSzAyTnZxOGFJbjdDc3V0bGFRbnZ4V1lyeGZCcVVkNHZIU0lRVFZoSnM1NjAwaHRFemozcnVTQTZQSFhXT0ZUWThoSXdoX29VT3Bz?oc=5",
+      "title": "Is Apple Stock Overvalued Or Undervalued? - Benzinga",
+      "body": "Is Apple Stock Overvalued Or Undervalued? Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AAPL"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "258564f8-9fc8-58db-94ae-c146c110e78a",
+      "timestamp_utc": "2026-04-01T19:21:46+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSVNOMlF4aTV1eGFxbDBqbWp6VHMzbURrQlRsT2ZCWVpnc2ZFdUk0eTVaMWY3bnRYRTI3bU05RXZ2T2g0NWJibFpNdjZrM3ZSS2VZb1hld1c1bFBNVUZ3bHVrTV9DVUNaazBhRXN2T2E2S1Y3cGVMQVd3dTJobGZXbXp1ME1OUmFENXU1QWNQbTczQ1VNaWpDUzVHanFBYTJVcDBxNHpQdHNGNnNJTDFMVnJ6NHROcmE5WVNjUklFalI3Z0dlbENPb01xdmlEOWpfUHpWZkNVYnd0SkhlRzhPa3lFOTc?oc=5",
+      "title": "Magnificent Seven Stocks Not So Magnificent In 2026 — Apple Surprises, Microsoft Craters - Amazon.com (NA - Benzinga",
+      "body": "Magnificent Seven Stocks Not So Magnificent In 2026 — Apple Surprises, Microsoft Craters - Amazon.com (NA Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AAPL"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c6e5df2a-782c-52bb-8233-cd20d9d1f7a1",
+      "timestamp_utc": "2026-04-01T10:24:52+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNVExDNzViamhkRjdsd3lFaWVZN2g5QmRkYzA4cU1iZVk4RmJzeVZjdnVTeXFaM0Zmd2RacGxHS3JXMmhMdVBmdERueVVLaWw2TE5jdmZiVFF5cFRhWGpId3NHVEhaUDVVZHlSMFc4ekI2RlR0b3UxN0xPMmxhTm1LekRfV1dlNnVDemQ5Q18wQUlLSjByeENnMDdJVTlIcUFmMTRmZFRkU2FLd0NXcmFESzBwRGQ0Z3RpX1pEVnhLcEFuLXlReFdLTFdsM1hWSE1KYWxsRGdibmtSNExHZlB5VzdaS09jVFloOW45T3JQNktKUDNlelNIQ0tGWW56MHUwTXpHTkNB?oc=5",
+      "title": "Apple Turns 50: From Garage Startup To $3.73 Trillion Giant—Here's How Much A $1,000 Investment At Its IP - Benzinga",
+      "body": "Apple Turns 50: From Garage Startup To $3.73 Trillion Giant—Here's How Much A $1,000 Investment At Its IP Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AAPL"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "dc956151-23d4-55ad-a319-42ff48322e29",
+      "timestamp_utc": "2026-04-01T09:08:08+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pensionfund-sabic-purchases-shares-of-34080-apple-inc-aapl-2026-04-01/",
+      "title": "Pensionfund Sabic Purchases Shares of 34,080 Apple Inc. $AAPL - MarketBeat",
+      "body": "Pensionfund Sabic Purchases Shares of 34,080 Apple Inc. $AAPL MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AAPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2db92432-3c5d-5319-8eb9-5e59761bbcbf",
+      "timestamp_utc": "2026-04-01T08:09:32+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-apple-inc-aapl-shares-acquired-by-founders-grove-wealth-partners-llc-2026-04-01/",
+      "title": "Apple Inc. $AAPL Shares Acquired by Founders Grove Wealth Partners LLC - MarketBeat",
+      "body": "Apple Inc. $AAPL Shares Acquired by Founders Grove Wealth Partners LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AAPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1070bb6c-84d2-51a7-b90f-9ec538375372",
+      "timestamp_utc": "2026-04-01T07:11:06+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-apple-inc-aapl-shares-bought-by-abound-wealth-management-2026-04-01/",
+      "title": "Apple Inc. $AAPL Shares Bought by Abound Wealth Management - MarketBeat",
+      "body": "Apple Inc. $AAPL Shares Bought by Abound Wealth Management MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AAPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9c4cfb0f-10eb-593a-83d0-851bb391ab81",
+      "timestamp_utc": "2026-04-02T19:58:24+00:00",
+      "source": "barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeFBudjlhS041T3BsSFZrS2JtM1l0RmwxTG5SUTFkRnNCQ0hfUUU4cF9uUDFkc21kc19Ja1pGcGY2TF9HYUs3TW9nZlpMMFA0SVAxWG1aejBTYXQ5YkV0ZzhNZUxmU01TUzZ4aFNIeDEzQnZUVV9fSjdrSnNZbWpXSHV6ak5YLUdfM2lLQ1JURUZ0RFlHVFdoQndWa09qUW9md2U0cVRXYnhjMVlMYk43dzlB?oc=5",
+      "title": "Apple Just Turned 50 Years Old. Is the AAPL Stock Cake Stale or Sweet? - barchart.com",
+      "body": "Apple Just Turned 50 Years Old. Is the AAPL Stock Cake Stale or Sweet? barchart.com",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "barchart.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "barchart.com",
+        "source_domain": "barchartcom.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AAPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "65fd292d-d80b-5467-b71d-99c22c914758",
+      "timestamp_utc": "2026-04-02T14:09:40+00:00",
+      "source": "barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONGlFLTI0TmJyVEtHY244UGlSUVF5Z1FCem5nS0ZVdkZPeWhSb015QzJKZEg0VFRPMDBmMU5kTE9hYXlOOEhHUktTXzJvVzFjQ0NwcDlnUWR0d0NJSHIxY0xkUzJFQmpmV0xZTzVMSTFvZ2E2ZWpobGhkUjhqRTF5VFNQYnpQZzlvVmY4WXNidUxjVjYxckEweHdndTMxQTV6NUNLaVhSTGZGNVhIR0k4d29BWW1tMjZla1lZ?oc=5",
+      "title": "AAPL Stock on Watch: Iran Threatens Retaliatory Strikes Could Hit Apple Next - barchart.com",
+      "body": "AAPL Stock on Watch: Iran Threatens Retaliatory Strikes Could Hit Apple Next barchart.com",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "barchart.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "barchart.com",
+        "source_domain": "barchartcom.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AAPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ed6db96d-b672-513f-9185-f9569b6667ad",
+      "timestamp_utc": "2026-04-02T21:03:00+00:00",
+      "source": "thestreet.com",
+      "url": "https://www.thestreet.com/investing/stocks/early-apple-aapl-stock-investors-now-earn-a-5-2-percent-dividend-yield",
+      "title": "Early Apple stock investors now earn a 5.2 percent dividend yield - thestreet.com",
+      "body": "Early Apple stock investors now earn a 5.2 percent dividend yield thestreet.com",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "thestreet.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "thestreet.com",
+        "source_domain": "thestreetcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AAPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "f229a007-29ea-5302-92f9-147da2b415f1",
+      "timestamp_utc": "2026-04-01T09:09:36+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/04/51591719/iphone-17-panel-shipments-inch-higher-as-premiumization-deepens",
+      "title": "What's Going On With Apple Stock Wednesday? - Apple (NASDAQ:AAPL), Fidelity Blue Chip Growth ETF (BATS:FB - Benzinga",
+      "body": "What's Going On With Apple Stock Wednesday? - Apple (NASDAQ:AAPL), Fidelity Blue Chip Growth ETF (BATS:FB Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AAPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "37a288dc-c12c-58e5-9851-e56f4256c288",
+      "timestamp_utc": "2026-04-02T19:46:33+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/04/51637298/nvidia-apple-are-outgunning-defense-stocks-during-a-war-thats-weird",
+      "title": "Nvidia, Apple Are Outgunning Defense Stocks During A War — That's Weird - Apple (NASDAQ:AAPL), iShares U. - Benzinga",
+      "body": "Nvidia, Apple Are Outgunning Defense Stocks During A War — That's Weird - Apple (NASDAQ:AAPL), iShares U. Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AAPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8a690d30-50f8-5b98-92fb-2859bd74b7e7",
+      "timestamp_utc": "2026-04-02T05:18:23+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/AAPL/news",
+      "title": "Latest Apple Stock News | NASDAQ:AAPL - Benzinga",
+      "body": "Latest Apple Stock News | NASDAQ:AAPL Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AAPL"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ef52dab1-b0bb-53e7-8bb7-29d8da1b158f",
+      "timestamp_utc": "2026-04-02T19:11:06+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOXFkY1pxQ21XNndoOUdpbjcybWgyWktkUVZOVmFoQUtndHdJTnItR1JheF8wWEZrZU9LYVdOczJkUWkteF9lZ2dubWNraUlqYmZKTEF1RGlHSzAyTnZxOGFJbjdDc3V0bGFRbnZ4V1lyeGZCcVVkNHZIU0lRVFZoSnM1NjAwaHRFemozcnVTQTZQSFhXT0ZUWThoSXdoX29VT3Bz?oc=5",
+      "title": "Is Apple Stock Overvalued Or Undervalued? - Benzinga",
+      "body": "Is Apple Stock Overvalued Or Undervalued? Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AAPL"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "258564f8-9fc8-58db-94ae-c146c110e78a",
+      "timestamp_utc": "2026-04-01T19:21:46+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSVNOMlF4aTV1eGFxbDBqbWp6VHMzbURrQlRsT2ZCWVpnc2ZFdUk0eTVaMWY3bnRYRTI3bU05RXZ2T2g0NWJibFpNdjZrM3ZSS2VZb1hld1c1bFBNVUZ3bHVrTV9DVUNaazBhRXN2T2E2S1Y3cGVMQVd3dTJobGZXbXp1ME1OUmFENXU1QWNQbTczQ1VNaWpDUzVHanFBYTJVcDBxNHpQdHNGNnNJTDFMVnJ6NHROcmE5WVNjUklFalI3Z0dlbENPb01xdmlEOWpfUHpWZkNVYnd0SkhlRzhPa3lFOTc?oc=5",
+      "title": "Magnificent Seven Stocks Not So Magnificent In 2026 — Apple Surprises, Microsoft Craters - Amazon.com (NA - Benzinga",
+      "body": "Magnificent Seven Stocks Not So Magnificent In 2026 — Apple Surprises, Microsoft Craters - Amazon.com (NA Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AAPL"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c6e5df2a-782c-52bb-8233-cd20d9d1f7a1",
+      "timestamp_utc": "2026-04-01T10:24:52+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNVExDNzViamhkRjdsd3lFaWVZN2g5QmRkYzA4cU1iZVk4RmJzeVZjdnVTeXFaM0Zmd2RacGxHS3JXMmhMdVBmdERueVVLaWw2TE5jdmZiVFF5cFRhWGpId3NHVEhaUDVVZHlSMFc4ekI2RlR0b3UxN0xPMmxhTm1LekRfV1dlNnVDemQ5Q18wQUlLSjByeENnMDdJVTlIcUFmMTRmZFRkU2FLd0NXcmFESzBwRGQ0Z3RpX1pEVnhLcEFuLXlReFdLTFdsM1hWSE1KYWxsRGdibmtSNExHZlB5VzdaS09jVFloOW45T3JQNktKUDNlelNIQ0tGWW56MHUwTXpHTkNB?oc=5",
+      "title": "Apple Turns 50: From Garage Startup To $3.73 Trillion Giant—Here's How Much A $1,000 Investment At Its IP - Benzinga",
+      "body": "Apple Turns 50: From Garage Startup To $3.73 Trillion Giant—Here's How Much A $1,000 Investment At Its IP Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AAPL"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "dc956151-23d4-55ad-a319-42ff48322e29",
+      "timestamp_utc": "2026-04-01T09:08:08+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pensionfund-sabic-purchases-shares-of-34080-apple-inc-aapl-2026-04-01/",
+      "title": "Pensionfund Sabic Purchases Shares of 34,080 Apple Inc. $AAPL - MarketBeat",
+      "body": "Pensionfund Sabic Purchases Shares of 34,080 Apple Inc. $AAPL MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AAPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2db92432-3c5d-5319-8eb9-5e59761bbcbf",
+      "timestamp_utc": "2026-04-01T08:09:32+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-apple-inc-aapl-shares-acquired-by-founders-grove-wealth-partners-llc-2026-04-01/",
+      "title": "Apple Inc. $AAPL Shares Acquired by Founders Grove Wealth Partners LLC - MarketBeat",
+      "body": "Apple Inc. $AAPL Shares Acquired by Founders Grove Wealth Partners LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AAPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1070bb6c-84d2-51a7-b90f-9ec538375372",
+      "timestamp_utc": "2026-04-01T07:11:06+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-apple-inc-aapl-shares-bought-by-abound-wealth-management-2026-04-01/",
+      "title": "Apple Inc. $AAPL Shares Bought by Abound Wealth Management - MarketBeat",
+      "body": "Apple Inc. $AAPL Shares Bought by Abound Wealth Management MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AAPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9c4cfb0f-10eb-593a-83d0-851bb391ab81",
+      "timestamp_utc": "2026-04-02T19:58:24+00:00",
+      "source": "barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeFBudjlhS041T3BsSFZrS2JtM1l0RmwxTG5SUTFkRnNCQ0hfUUU4cF9uUDFkc21kc19Ja1pGcGY2TF9HYUs3TW9nZlpMMFA0SVAxWG1aejBTYXQ5YkV0ZzhNZUxmU01TUzZ4aFNIeDEzQnZUVV9fSjdrSnNZbWpXSHV6ak5YLUdfM2lLQ1JURUZ0RFlHVFdoQndWa09qUW9md2U0cVRXYnhjMVlMYk43dzlB?oc=5",
+      "title": "Apple Just Turned 50 Years Old. Is the AAPL Stock Cake Stale or Sweet? - barchart.com",
+      "body": "Apple Just Turned 50 Years Old. Is the AAPL Stock Cake Stale or Sweet? barchart.com",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "barchart.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "barchart.com",
+        "source_domain": "barchartcom.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AAPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "65fd292d-d80b-5467-b71d-99c22c914758",
+      "timestamp_utc": "2026-04-02T14:09:40+00:00",
+      "source": "barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONGlFLTI0TmJyVEtHY244UGlSUVF5Z1FCem5nS0ZVdkZPeWhSb015QzJKZEg0VFRPMDBmMU5kTE9hYXlOOEhHUktTXzJvVzFjQ0NwcDlnUWR0d0NJSHIxY0xkUzJFQmpmV0xZTzVMSTFvZ2E2ZWpobGhkUjhqRTF5VFNQYnpQZzlvVmY4WXNidUxjVjYxckEweHdndTMxQTV6NUNLaVhSTGZGNVhIR0k4d29BWW1tMjZla1lZ?oc=5",
+      "title": "AAPL Stock on Watch: Iran Threatens Retaliatory Strikes Could Hit Apple Next - barchart.com",
+      "body": "AAPL Stock on Watch: Iran Threatens Retaliatory Strikes Could Hit Apple Next barchart.com",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "barchart.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "barchart.com",
+        "source_domain": "barchartcom.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AAPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ed6db96d-b672-513f-9185-f9569b6667ad",
+      "timestamp_utc": "2026-04-02T21:03:00+00:00",
+      "source": "thestreet.com",
+      "url": "https://www.thestreet.com/investing/stocks/early-apple-aapl-stock-investors-now-earn-a-5-2-percent-dividend-yield",
+      "title": "Early Apple stock investors now earn a 5.2 percent dividend yield - thestreet.com",
+      "body": "Early Apple stock investors now earn a 5.2 percent dividend yield thestreet.com",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "thestreet.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "thestreet.com",
+        "source_domain": "thestreetcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AAPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

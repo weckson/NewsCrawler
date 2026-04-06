@@ -1,0 +1,34 @@
+[
+  {
+    "id": "5020353e-b09b-597d-bde5-d254ae90bfdb",
+    "timestamp_utc": "2026-04-03T05:38:34+00:00",
+    "source": "defense_world",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY19zVldxejFNMGRJbUVRRGhfYllDZFNfMzlHOGR0X0ZWWWs3ZEhrM29Kc25VWXV0MVpuZ1E3NEZYY1J1VWhrSHlYVjBGLTZkaThKc01ELVB3NGRoT21yRmEyVnM5UXZDekpsMF95WFJiOXJpeElrVFVaWFNDalNBZXd0YTd4Sk5XM1MzQ29NWjU0NDE1bDFvMzJ2R2xvOWdjbUdWdmlHX3JWQ3hyLWtIY2VsNm5mNTNlNUp0a1lR?oc=5",
+    "title": "Barclays Issues Pessimistic Forecast for Otis Worldwide (NYSE:OTIS) Stock Price - Defense World",
+    "body": "Barclays Issues Pessimistic Forecast for Otis Worldwide (NYSE:OTIS) Stock Price Defense World",
+    "author": null,
+    "language": "en",
+    "ticker": "OTIS",
+    "tickers_hint": [
+      "OTIS"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "defense world",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Defense World",
+      "source_domain": "defenseworld.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "OTIS"
+      ],
+      "alt_sources": [
+        "Defense World"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

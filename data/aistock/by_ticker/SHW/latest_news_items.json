@@ -1,11 +1,11 @@
 [
   {
-    "id": "57d444ae-2fda-5747-8ac4-716d4354d962",
-    "timestamp_utc": "2026-04-01T11:11:39+00:00",
-    "source": "gurufocus",
-    "url": "https://www.gurufocus.com/news/8766061/sherwinwilliams-shw-citigroup-lowers-price-target-to-385-shw-stock-news",
-    "title": "Sherwin-Williams (SHW): Citigroup Lowers Price Target to $385 | - GuruFocus",
-    "body": "Sherwin-Williams (SHW): Citigroup Lowers Price Target to $385 | GuruFocus",
+    "id": "9a8f24ac-184b-5f72-a20e-94422ac4acbd",
+    "timestamp_utc": "2026-04-05T07:34:53+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HVFBsZXA0S3Jac3ItUnZxRGp1V2FpLTRJc2lRTE9RWDE3eXRZM014cVh2TTBjaUdVRXlPUnhnbmt0Tm5UenJrU2ZqQmh4NS1VbTJhUFVFY3VfcGJ5UDN3cQ?oc=5",
+    "title": "The Sherwin-Williams Company (SHW) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "body": "The Sherwin-Williams Company (SHW) Stock Price, News, Quote & History Yahoo! Finance Canada",
     "author": null,
     "language": "en",
     "ticker": "SHW",
@@ -13,13 +13,13 @@
       "SHW"
     ],
     "source_quality": "low",
-    "publisher_raw": "gurufocus.com",
+    "publisher_raw": "yahoo! finance canada",
     "meta": {
       "channel": "google_broad",
-      "source_name": "GuruFocus",
-      "source_domain": "gurufocus.com",
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
       "trust_tier": 1,
-      "relevance": 0.55,
+      "relevance": 0.5,
       "event_origin": "news",
       "query_tickers": [
         "SHW"
@@ -29,12 +29,12 @@
     "stream_type": "soft"
   },
   {
-    "id": "ac10e62c-1d09-5026-8d06-7a2cbca3b7a7",
-    "timestamp_utc": "2026-04-01T10:55:45+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/citigroup-has-lowered-expectations-for-sherwin-williams-nyseshw-stock-price-2026-04-01/",
-    "title": "Citigroup Has Lowered Expectations for Sherwin-Williams (NYSE:SHW) Stock Price - MarketBeat",
-    "body": "Citigroup Has Lowered Expectations for Sherwin-Williams (NYSE:SHW) Stock Price MarketBeat",
+    "id": "bc006b69-af43-5437-a093-3aca562316cd",
+    "timestamp_utc": "2026-04-04T05:53:02+00:00",
+    "source": "yahoo_finance_uk",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tOU1GNjdHMUZuTG1fN2RqZDV0QWlrS3V5ZjFMcGFtZktYRlpNNmFBRlJFc1pSbTZ0TXJCN1BBcElabjF0QUJBMkpLNjN6ZURRUE1DSEtiRQ?oc=5",
+    "title": "The Sherwin-Williams Company (SHW) latest stock news and headlines - Yahoo Finance UK",
+    "body": "The Sherwin-Williams Company (SHW) latest stock news and headlines Yahoo Finance UK",
     "author": null,
     "language": "en",
     "ticker": "SHW",
@@ -42,13 +42,13 @@
       "SHW"
     ],
     "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
+    "publisher_raw": "yahoo finance uk",
     "meta": {
       "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
+      "source_name": "Yahoo Finance UK",
+      "source_domain": "yahoofinanceuk.com",
       "trust_tier": 1,
-      "relevance": 0.55,
+      "relevance": 0.5,
       "event_origin": "news",
       "query_tickers": [
         "SHW"

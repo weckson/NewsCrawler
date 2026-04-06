@@ -1,0 +1,31 @@
+[
+  {
+    "id": "e0e680a4-0f2d-5930-926c-544f551702bc",
+    "timestamp_utc": "2026-04-03T23:38:05+00:00",
+    "source": "stocktitan.net",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vaTZrR2ZGdnh2N1pWWm9FajE1Sm1xY1A1LTFlSTZSbVplRXBocW0zcnFkd2hjYUpFQkw1cHV4NWF2OWZxSmVmckR2czBjRUtJdDROa0pVSnlkaGxmSVNWZGxsVFVCQQ?oc=5",
+    "title": "CTVA SEC Filings - Corteva Inc 10-K, 10-Q, 8-K Forms - stocktitan.net",
+    "body": "CTVA SEC Filings - Corteva Inc 10-K, 10-Q, 8-K Forms stocktitan.net",
+    "author": null,
+    "language": "en",
+    "ticker": "CTVA",
+    "tickers_hint": [
+      "CTVA"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stocktitan.net",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "stocktitan.net",
+      "source_domain": "stocktitannet.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "CTVA"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

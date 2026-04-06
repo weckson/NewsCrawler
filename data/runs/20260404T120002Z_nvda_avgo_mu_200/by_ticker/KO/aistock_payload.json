@@ -1,0 +1,478 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "0620b2bc-8c2b-5f34-8d8d-802142d4eb05",
+      "timestamp_utc": "2026-04-02T22:49:55+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQVpVSmpoeFhYTWcxQ2IyNHN0TGJJb19lWTMwT0J2NzVoYlBfdjEyNXl6dkFJelhhTi01dk93MGhvT1g1d3ZTUDJkUXB5T2dGY19tUXlTcnBGNUVENUx0NW11cC1jTFMtSHJMTmFTQldYY1ViZmMtUklhUW9aUFFEYlVIV0tSbXF4R081Z25B?oc=5",
+      "title": "Coca-Cola Stock (KO) Rises as New Ad Campaign Is Launched - TipRanks",
+      "body": "Coca-Cola Stock (KO) Rises as New Ad Campaign Is Launched TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b7a6c713-ab1e-5516-825c-92422dac0a9b",
+      "timestamp_utc": "2026-04-03T19:43:06+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVmxyYUd1NG1pcm1qLUk2QnNRTEpTXzVtdTNoQlV1cnFKVHRFcGJ6NWd0YS1Qa2dBSjAwcUV0Ml9seXVZaHdwR1JhU3pYaXR0ZE5TUmdDSVBna2JuRDhIdWZGNk9KNHREV19adndKZV82eVM5OENsZEZDWmkzQkEtRmVESDk0a0ZPRU40WlNuRHFfeE8tam0wdTZwMUNlN0xad0twSDM4cw?oc=5",
+      "title": "Coca-Cola (KO) director awarded 4,173 phantom share units in 2026 compensation plan - Stock Titan",
+      "body": "Coca-Cola (KO) director awarded 4,173 phantom share units in 2026 compensation plan Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "30f420d2-a6c8-5acb-a279-7a2ccf35b2de",
+      "timestamp_utc": "2026-04-03T19:29:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRnFYYWZRYTlEU1RKRE5RclZKTnN1d3JXaVdRSDljV1BnT09tLWtrOHRNc1lGbWRRaVBvSWp4WGNtaWx4LV9qMG1vV0RiMHdNMHlpQkpRTGYyMGJmTDFUWncyT2lObEtSd3Q3b0tiZUFfN2dndHhBaGltcWQzWFdtTXB4ejFURHF5Ykh6V3BXMThxZ3hwRUc4ZThpNG1uaFV2Wk4yVVp6bw?oc=5",
+      "title": "Coca-Cola (NYSE: KO) director awarded 1,121 phantom units - Stock Titan",
+      "body": "Coca-Cola (NYSE: KO) director awarded 1,121 phantom units Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "alt_sources": [
+          "Stock Titan"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "78840bc4-3ca5-557f-bca4-5fea91a5124d",
+      "timestamp_utc": "2026-04-03T19:23:57+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSnBGQ1Zya3RDVGRYMXpEbzhDMkZZZ0RaelRpRjVSWXRmMzlXN1NBU3ZBUHRQQXZ2eHoyOUFfU1drQnFaWExYeW5GYjlKa3A2VGhkNGUzRUVmUTRXZU5VZHFkbkNEY0VYcjNEQTdJSzZ0cUZvZzBhMjVGYVEzY2NOQm1MQ0Z2VWY5cjJVcVRoNGx4dzdJSmJuM05BQy1kd1BGLVhwTERhWQ?oc=5",
+      "title": "Coca-Cola (NYSE: KO) director Ana Botín granted phantom share units - Stock Titan",
+      "body": "Coca-Cola (NYSE: KO) director Ana Botín granted phantom share units Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "129c5f5a-f3f2-5653-a07e-3b6c27459947",
+      "timestamp_utc": "2026-04-03T17:22:49+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWkpPeVFHbV8zZFlRR1gyUTZJaUtyRmZMS3F4U2hoVkExVHFIc1pGT3B2SExKUVpqZU9pcXJLem41Um9TSTIwTUpVOC1vRVo0YmxubkREZXZBZ1hwbGhkdmFhd2RZUVJRYWJYYTRHUmZadkg1WHRQQlN2NnBiNDRkUGRhZWhpWld2WGt0OHFlZzhnNkJwRkF3MUVjbE85Ukw0ZHU2aG42QQ?oc=5",
+      "title": "Coca-Cola (KO) director Caroline Tsay receives 3,825 Phantom Share Units as 2026 pay - Stock Titan",
+      "body": "Coca-Cola (KO) director Caroline Tsay receives 3,825 Phantom Share Units as 2026 pay Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1618de82-284b-5c47-8dd9-fd52f952726f",
+      "timestamp_utc": "2026-04-03T17:21:36+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOEtfM3ZCX2pJTWI3RUx6aHpuU3ljMFJsYXJHS0xvNUhrQmtaVUFyM2NZUmkwcHFhT0tBZDJpdzhhZ1ZHMlhUbGplV2dGNFNFLS1PSl9GOWwzcTR1MWhBY3EwWGRNWDFfNmhwdkRiWXltWDVScHdXdjNZMzZEX0dnLXlJd043UFhZWUk3eVhwTnNRcHc2ZmpaTi1PSFExdEhPSklCWnMtTQ?oc=5",
+      "title": "Coca-Cola (KO) director adds 4,221 phantom units and reports 7.3M+ share holdings - Stock Titan",
+      "body": "Coca-Cola (KO) director adds 4,221 phantom units and reports 7.3M+ share holdings Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2348c673-2120-53f0-9edd-c4769909d0f2",
+      "timestamp_utc": "2026-04-03T17:08:32+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR2k4Nk8wRWJXbGlLc09BWkFIa2d1SURQdFFBSU43cV9TYm45dm9MTGhBQ3BrZHFfWklTanVfM24xY1VxOTVQc0ZqRmdTcjBrelpuRGVwcnBCbUp0LXBPV0ZVWVNva0Rycm5GZDVNdGRKR0o4SThpRENfZklwcXBpelY5eFpVaHE4OGItNEQzRTZQTkRha0NhMWpscE1RU0N4MDVGZzhjNA?oc=5",
+      "title": "Max Levchin (KO) awarded phantom share units as Coca-Cola board pay - Stock Titan",
+      "body": "Max Levchin (KO) awarded phantom share units as Coca-Cola board pay Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "06b1d516-9e08-5d21-a984-160583c8d658",
+      "timestamp_utc": "2026-04-03T17:06:07+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbDJKaWZkeFF4TXZJRXk3Sm5McFl0X1FYSmZ5S2pIZzR0V3Fqcm5lNFpJa1hyYnhiTzBmWGtzeVBoY2pvX0lUZ3pIdDNIemg4REpGZTE4dE13eVVGTTA0MW5kblVSWW9TUmJ2WTVBYmtlSUFBMzVJcU5leG14OVhBZHVZaVBTTEEwMWhXaXhTMXprMVk0VUItU19sMm5XQmhkc2EybEZvbw?oc=5",
+      "title": "Coca-Cola (NYSE: KO) director receives 4,089 phantom units as 2026 board pay - Stock Titan",
+      "body": "Coca-Cola (NYSE: KO) director receives 4,089 phantom units as 2026 board pay Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "0620b2bc-8c2b-5f34-8d8d-802142d4eb05",
+      "timestamp_utc": "2026-04-02T22:49:55+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQVpVSmpoeFhYTWcxQ2IyNHN0TGJJb19lWTMwT0J2NzVoYlBfdjEyNXl6dkFJelhhTi01dk93MGhvT1g1d3ZTUDJkUXB5T2dGY19tUXlTcnBGNUVENUx0NW11cC1jTFMtSHJMTmFTQldYY1ViZmMtUklhUW9aUFFEYlVIV0tSbXF4R081Z25B?oc=5",
+      "title": "Coca-Cola Stock (KO) Rises as New Ad Campaign Is Launched - TipRanks",
+      "body": "Coca-Cola Stock (KO) Rises as New Ad Campaign Is Launched TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b7a6c713-ab1e-5516-825c-92422dac0a9b",
+      "timestamp_utc": "2026-04-03T19:43:06+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVmxyYUd1NG1pcm1qLUk2QnNRTEpTXzVtdTNoQlV1cnFKVHRFcGJ6NWd0YS1Qa2dBSjAwcUV0Ml9seXVZaHdwR1JhU3pYaXR0ZE5TUmdDSVBna2JuRDhIdWZGNk9KNHREV19adndKZV82eVM5OENsZEZDWmkzQkEtRmVESDk0a0ZPRU40WlNuRHFfeE8tam0wdTZwMUNlN0xad0twSDM4cw?oc=5",
+      "title": "Coca-Cola (KO) director awarded 4,173 phantom share units in 2026 compensation plan - Stock Titan",
+      "body": "Coca-Cola (KO) director awarded 4,173 phantom share units in 2026 compensation plan Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "30f420d2-a6c8-5acb-a279-7a2ccf35b2de",
+      "timestamp_utc": "2026-04-03T19:29:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRnFYYWZRYTlEU1RKRE5RclZKTnN1d3JXaVdRSDljV1BnT09tLWtrOHRNc1lGbWRRaVBvSWp4WGNtaWx4LV9qMG1vV0RiMHdNMHlpQkpRTGYyMGJmTDFUWncyT2lObEtSd3Q3b0tiZUFfN2dndHhBaGltcWQzWFdtTXB4ejFURHF5Ykh6V3BXMThxZ3hwRUc4ZThpNG1uaFV2Wk4yVVp6bw?oc=5",
+      "title": "Coca-Cola (NYSE: KO) director awarded 1,121 phantom units - Stock Titan",
+      "body": "Coca-Cola (NYSE: KO) director awarded 1,121 phantom units Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "alt_sources": [
+          "Stock Titan"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "78840bc4-3ca5-557f-bca4-5fea91a5124d",
+      "timestamp_utc": "2026-04-03T19:23:57+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSnBGQ1Zya3RDVGRYMXpEbzhDMkZZZ0RaelRpRjVSWXRmMzlXN1NBU3ZBUHRQQXZ2eHoyOUFfU1drQnFaWExYeW5GYjlKa3A2VGhkNGUzRUVmUTRXZU5VZHFkbkNEY0VYcjNEQTdJSzZ0cUZvZzBhMjVGYVEzY2NOQm1MQ0Z2VWY5cjJVcVRoNGx4dzdJSmJuM05BQy1kd1BGLVhwTERhWQ?oc=5",
+      "title": "Coca-Cola (NYSE: KO) director Ana Botín granted phantom share units - Stock Titan",
+      "body": "Coca-Cola (NYSE: KO) director Ana Botín granted phantom share units Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "129c5f5a-f3f2-5653-a07e-3b6c27459947",
+      "timestamp_utc": "2026-04-03T17:22:49+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWkpPeVFHbV8zZFlRR1gyUTZJaUtyRmZMS3F4U2hoVkExVHFIc1pGT3B2SExKUVpqZU9pcXJLem41Um9TSTIwTUpVOC1vRVo0YmxubkREZXZBZ1hwbGhkdmFhd2RZUVJRYWJYYTRHUmZadkg1WHRQQlN2NnBiNDRkUGRhZWhpWld2WGt0OHFlZzhnNkJwRkF3MUVjbE85Ukw0ZHU2aG42QQ?oc=5",
+      "title": "Coca-Cola (KO) director Caroline Tsay receives 3,825 Phantom Share Units as 2026 pay - Stock Titan",
+      "body": "Coca-Cola (KO) director Caroline Tsay receives 3,825 Phantom Share Units as 2026 pay Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1618de82-284b-5c47-8dd9-fd52f952726f",
+      "timestamp_utc": "2026-04-03T17:21:36+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOEtfM3ZCX2pJTWI3RUx6aHpuU3ljMFJsYXJHS0xvNUhrQmtaVUFyM2NZUmkwcHFhT0tBZDJpdzhhZ1ZHMlhUbGplV2dGNFNFLS1PSl9GOWwzcTR1MWhBY3EwWGRNWDFfNmhwdkRiWXltWDVScHdXdjNZMzZEX0dnLXlJd043UFhZWUk3eVhwTnNRcHc2ZmpaTi1PSFExdEhPSklCWnMtTQ?oc=5",
+      "title": "Coca-Cola (KO) director adds 4,221 phantom units and reports 7.3M+ share holdings - Stock Titan",
+      "body": "Coca-Cola (KO) director adds 4,221 phantom units and reports 7.3M+ share holdings Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2348c673-2120-53f0-9edd-c4769909d0f2",
+      "timestamp_utc": "2026-04-03T17:08:32+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR2k4Nk8wRWJXbGlLc09BWkFIa2d1SURQdFFBSU43cV9TYm45dm9MTGhBQ3BrZHFfWklTanVfM24xY1VxOTVQc0ZqRmdTcjBrelpuRGVwcnBCbUp0LXBPV0ZVWVNva0Rycm5GZDVNdGRKR0o4SThpRENfZklwcXBpelY5eFpVaHE4OGItNEQzRTZQTkRha0NhMWpscE1RU0N4MDVGZzhjNA?oc=5",
+      "title": "Max Levchin (KO) awarded phantom share units as Coca-Cola board pay - Stock Titan",
+      "body": "Max Levchin (KO) awarded phantom share units as Coca-Cola board pay Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "06b1d516-9e08-5d21-a984-160583c8d658",
+      "timestamp_utc": "2026-04-03T17:06:07+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbDJKaWZkeFF4TXZJRXk3Sm5McFl0X1FYSmZ5S2pIZzR0V3Fqcm5lNFpJa1hyYnhiTzBmWGtzeVBoY2pvX0lUZ3pIdDNIemg4REpGZTE4dE13eVVGTTA0MW5kblVSWW9TUmJ2WTVBYmtlSUFBMzVJcU5leG14OVhBZHVZaVBTTEEwMWhXaXhTMXprMVk0VUItU19sMm5XQmhkc2EybEZvbw?oc=5",
+      "title": "Coca-Cola (NYSE: KO) director receives 4,089 phantom units as 2026 board pay - Stock Titan",
+      "body": "Coca-Cola (NYSE: KO) director receives 4,089 phantom units as 2026 board pay Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

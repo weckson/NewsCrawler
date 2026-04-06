@@ -1,0 +1,766 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "59905f99-950b-5b6e-822c-c9ecd96f77de",
+      "timestamp_utc": "2026-04-03T09:39:28+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/broadcom-avgo-or-marvell-mrvl-top-analyst-picks-the-better-chip-stock",
+      "title": "Broadcom (AVGO) or Marvell (MRVL)? Top Analyst Picks the Better Chip Stock - TipRanks",
+      "body": "Broadcom (AVGO) or Marvell (MRVL)? Top Analyst Picks the Better Chip Stock TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "AVGO",
+      "tickers_hint": [
+        "AVGO"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AVGO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3177c375-b52d-5ec5-93fc-1d6ed0963e6e",
+      "timestamp_utc": "2026-04-02T17:45:01+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/article/4888147-broadcom-ai-story-is-still-early",
+      "title": "Broadcom’s AI Story Is Still Early (NASDAQ:AVGO) - Seeking Alpha",
+      "body": "Broadcom Inc. (AVGO) doesn't look like a misunderstood stock at first glance. It’s a widely held stock, well covered and has one of the biggest themes in the market. Yet there’s a disconnect here. Broadcom is being treated\n\nAnalyst’s Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+      "author": null,
+      "language": "en",
+      "ticker": "AVGO",
+      "tickers_hint": [
+        "AVGO"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AVGO"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "61cdf5be-d939-5bb3-b4f0-f44f2756ba3e",
+      "timestamp_utc": "2026-04-01T16:44:40+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anlaysts-bullish-broadcom-avgo-despite-164440103.html",
+      "title": "Anlaysts Bullish on Broadcom (AVGO) Despite Gross Margins Concerns - Yahoo Finance",
+      "body": "Anlaysts Bullish on Broadcom (AVGO) Despite Gross Margins Concerns Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "AVGO",
+      "tickers_hint": [
+        "AVGO"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AVGO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7c30239e-c639-50db-a0d1-3682375da3db",
+      "timestamp_utc": "2026-04-02T13:58:06+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/micron-meta-and-broadcom-top-analyst-taps-the-brakes-on-3-ai-giants",
+      "title": "MU, META, and AVGO: Top Analyst Turns Cautious on 3 AI Stocks - TipRanks",
+      "body": "MU, META, and AVGO: Top Analyst Turns Cautious on 3 AI Stocks TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "AVGO",
+      "tickers_hint": [
+        "AVGO"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "AVGO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "4b8231a0-576c-559b-8141-ff44a5aac895",
+      "timestamp_utc": "2026-04-03T03:46:23+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/04/51643380/hock-tan-google-exec-amie-thuener-broadcom-cfo-ai-chip-push",
+      "title": "Hock Tan Says Google Executive Amie Thuener Will 'Bring Deep Experience' To Broadcom As New CFO Amid $100 - Benzinga",
+      "body": "Hock Tan Says Google Executive Amie Thuener Will 'Bring Deep Experience' To Broadcom As New CFO Amid $100 Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "AVGO",
+      "tickers_hint": [
+        "AVGO"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AVGO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "bc39f8af-bdc2-5565-af5c-ef60839f106d",
+      "timestamp_utc": "2026-04-02T15:08:01+00:00",
+      "source": "investing.com",
+      "url": "https://www.investing.com/analysis/avgo-earnings-preview-broadcom-eyes-ai-upside--nvidia-slump-rings-alarm-200676025",
+      "title": "Broadcom Q1 Earnings Preview: AI Upside Expected, but Nvidia Slump Raises Alarm - Investing.com",
+      "body": "Broadcom Q1 Earnings Preview: AI Upside Expected, but Nvidia Slump Raises Alarm Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "AVGO",
+      "tickers_hint": [
+        "AVGO"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "AVGO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9ab500ab-4dc7-5ed4-a0d4-3cf0bf3c46ec",
+      "timestamp_utc": "2026-04-03T13:07:02+00:00",
+      "source": "tradingview",
+      "url": "https://www.tradingview.com/news/gurufocus:505f0949d094b:0-broadcom-stock-in-spotlight-names-alphabet-s-top-accounting-leader-for-cfo-role/",
+      "title": "Broadcom Stock In Spotlight -- Names Alphabet's Top Accounting Leader for CFO Role - TradingView",
+      "body": "Broadcom AVGO stock is in focus on Friday after it said Amie Thuener will take over as chief financial officer on June 12.\n\nThuener currently serves as vice president, corporate controller and chief accounting officer at Alphabet, a role she has held since 2018. She will join Broadcom on May 4 before stepping into the CFO position.\n\nThe chipmaker's outgoing finance chief, Kirsten Spears, is retiring after 12 years with the company. Spears plans to remain as an advisor for nine months following the transition, with her outstanding equity awards continuing to vest during that period.\n\nThuener's compensation package includes an annual base salary of $700,000 and a target bonus of 100% of that amount. She is also set to receive a $1 million cash sign-on bonus along with restricted and performance stock units under Broadcom's 2012 stock incentive plan, subject to approval and continued employment.\n\nThe leadership change comes as Broadcom looks to maintain continuity in its finance operations. Shares of Broadcom remained little changed in early trading.",
+      "author": null,
+      "language": "en",
+      "ticker": "AVGO",
+      "tickers_hint": [
+        "AVGO"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AVGO"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "cfebfeac-96e2-5534-9d00-98abf2c6fcc0",
+      "timestamp_utc": "2026-04-03T12:23:00+00:00",
+      "source": "coincentral",
+      "url": "https://coincentral.com/broadcom-avgo-stock-new-cfo-named-alphabets-amie-thuener-takes-the-role/",
+      "title": "Broadcom (AVGO) Stock — New CFO Named, Alphabet’s Amie Thuener Takes the Role - CoinCentral",
+      "body": "The Best AI Stock Picking Tools in 2026: Your Complete Guide to Smarter InvestingFebruary 3, 2026 Finding The Best Crypto to Invest In: Expert Strategies for Identifying Tomorrow’s WinnersFebruary 27, 2025 Sui Blockchain Explained: How It Works and What You Need to KnowFebruary 6, 2025 Is Trump’s Memecoin Legit?\n\nHere’s What We Know About $TRUMPFebruary 1, 2025 What is Decentralized AI and Why We Need It ASAP?December 29, 2024",
+      "author": null,
+      "language": "en",
+      "ticker": "AVGO",
+      "tickers_hint": [
+        "AVGO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "coincentral",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "CoinCentral",
+        "source_domain": "coincentral.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AVGO"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b6d386d5-d3e0-5173-8be8-0ab1fde8647d",
+      "timestamp_utc": "2026-04-02T21:25:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcG9vWjJOdGgtdWpYTU1Vci1ibDVDQ3FKanU4ajBza19wbVNkaVBvRWVTbGp4Mkt1OTR4dlpHX0FZY2VKWC1jTm55TVJIQU5NZDZiWFg0WEVmbHBDd3l4ZklSVXJXN2d0OXA5RmJnellSeXpEQWJRaXhzeEhvTWhPN3VIT1VQWkFSeGhnNTZ6aVp0a3c5WGFHclZXdmpIOEVFYW8w?oc=5",
+      "title": "Broadcom (AVGO) plans CFO transition, hires Alphabet finance chief as successor - Stock Titan",
+      "body": "Broadcom (AVGO) plans CFO transition, hires Alphabet finance chief as successor Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "AVGO",
+      "tickers_hint": [
+        "AVGO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AVGO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "22d85407-2aaf-5b6e-8e9a-63b1ef0c6f36",
+      "timestamp_utc": "2026-04-02T01:55:08+00:00",
+      "source": "qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVVZKMmQ1bHU5SFVOUTV3UnJHVnZSQzQ2dk5OOGpQZ2l5SFQ3YW5IbTBzci00Rk42M3N3LVUzYnFkbGM5QTVSQ3dpMWdjcW8tZlhsdlNqNjVtRXUwTDdmRHEwaHBRdGpxc0pqY1NONk9ZZ2FheE9zck1heHdHUklkaE1IeFhpZTlJ?oc=5",
+      "title": "Is Broadcom Inc. (AVGO) a Buy as Wall Street Analysts Look Optimistic? - qz.com",
+      "body": "Is Broadcom Inc. (AVGO) a Buy as Wall Street Analysts Look Optimistic? qz.com",
+      "author": null,
+      "language": "en",
+      "ticker": "AVGO",
+      "tickers_hint": [
+        "AVGO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "qz.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "qz.com",
+        "source_domain": "qzcom.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AVGO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7de9a347-2c6c-5898-8aa6-7bfcbbb15699",
+      "timestamp_utc": "2026-04-02T14:07:45+00:00",
+      "source": "coincentral",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWXlpd3FLY1FQTXFXWW5JNjFWaGdwcEdZNGxHaE9fZTRQaWpSRnNsbjFKdFU2OHhzN1NMck5Qd1hIbmR6SEU4M2VMSnlsUTVkWWU1eWl5SXk0NDEwbDhDd1A1UVBfaVhvanZRemVaWEpEZnNoUEMwZzdYb0QxUDJZTHUzSnBMQVZwQnVGSjBxNjR6YUI0dzFLM05JVkJCQnM4WFhTSU91UQ?oc=5",
+      "title": "Broadcom (AVGO) and Applied Materials (AMAT) Added to Deutsche Bank’s Top Tech Picks - CoinCentral",
+      "body": "Broadcom (AVGO) and Applied Materials (AMAT) Added to Deutsche Bank’s Top Tech Picks CoinCentral",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT",
+        "AVGO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "coincentral",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "CoinCentral",
+        "source_domain": "coincentral.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMAT",
+          "AVGO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "4fbb644d-ec9a-5c84-af05-dcb13bb54e3f",
+      "timestamp_utc": "2026-04-03T11:07:00+00:00",
+      "source": "thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMEtpTG9XLV9JcDNnSWtUTDJJazEtTFIxeUZZOEJsdnBfS292V0x3TnZfVmE1Y2g4a204cDNmblRmRWoyOVBnRWxOcG9LZzdpR2YxU0NaWmNyVkFGOEdJUVVqd0RTNFAyeTdwVHNldjNSdUk4cUZHNTlwNUdyRHRROFdyRzhvV2prSC1YZE5ZSzJIdUpOVzZPY2hYeG4tZlNsU0ZSaGRkdEIzNlFqVG9vQW9TLU9RVkQtVERxekZsM05WZDBCMHlCcFBuYmVWMzRGU3A2NQ?oc=5",
+      "title": "$1,000 of AVGO stock from 2016 is worth this much with dividends - thestreet.com",
+      "body": "$1,000 of AVGO stock from 2016 is worth this much with dividends thestreet.com",
+      "author": null,
+      "language": "en",
+      "ticker": "AVGO",
+      "tickers_hint": [
+        "AVGO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "thestreet.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "thestreet.com",
+        "source_domain": "thestreetcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AVGO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "dbcb21e1-246d-529f-96a7-b5f9b2f6e393",
+      "timestamp_utc": "2026-04-02T20:15:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbDZ5TjdTdEZuNmZYTzdzRVJQS1hMc09Wc0tTbGdRT3RJRTFxM3R0cUluX3gxQzhWcndTTXAtMWttemdyRnNpcVBvanQ2cUdFTzhqSkk5Y2djWlY4YVZiTmowbXdPS2loeVo1YW1tdTEwckZWbHdReVhFZEhVcU9KZXJtcHVzbURaWWQ3dXdaVnFtZGNDaXd5X1hjc3hwNWJlTWdZdUlTbEU?oc=5",
+      "title": "Broadcom taps Alphabet executive Amie Thuener as next CFO - Stock Titan",
+      "body": "Broadcom taps Alphabet executive Amie Thuener as next CFO Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "AVGO",
+      "tickers_hint": [
+        "AVGO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AVGO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "59905f99-950b-5b6e-822c-c9ecd96f77de",
+      "timestamp_utc": "2026-04-03T09:39:28+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/broadcom-avgo-or-marvell-mrvl-top-analyst-picks-the-better-chip-stock",
+      "title": "Broadcom (AVGO) or Marvell (MRVL)? Top Analyst Picks the Better Chip Stock - TipRanks",
+      "body": "Broadcom (AVGO) or Marvell (MRVL)? Top Analyst Picks the Better Chip Stock TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "AVGO",
+      "tickers_hint": [
+        "AVGO"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AVGO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3177c375-b52d-5ec5-93fc-1d6ed0963e6e",
+      "timestamp_utc": "2026-04-02T17:45:01+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/article/4888147-broadcom-ai-story-is-still-early",
+      "title": "Broadcom’s AI Story Is Still Early (NASDAQ:AVGO) - Seeking Alpha",
+      "body": "Broadcom Inc. (AVGO) doesn't look like a misunderstood stock at first glance. It’s a widely held stock, well covered and has one of the biggest themes in the market. Yet there’s a disconnect here. Broadcom is being treated\n\nAnalyst’s Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+      "author": null,
+      "language": "en",
+      "ticker": "AVGO",
+      "tickers_hint": [
+        "AVGO"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AVGO"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "61cdf5be-d939-5bb3-b4f0-f44f2756ba3e",
+      "timestamp_utc": "2026-04-01T16:44:40+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anlaysts-bullish-broadcom-avgo-despite-164440103.html",
+      "title": "Anlaysts Bullish on Broadcom (AVGO) Despite Gross Margins Concerns - Yahoo Finance",
+      "body": "Anlaysts Bullish on Broadcom (AVGO) Despite Gross Margins Concerns Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "AVGO",
+      "tickers_hint": [
+        "AVGO"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AVGO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7c30239e-c639-50db-a0d1-3682375da3db",
+      "timestamp_utc": "2026-04-02T13:58:06+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/micron-meta-and-broadcom-top-analyst-taps-the-brakes-on-3-ai-giants",
+      "title": "MU, META, and AVGO: Top Analyst Turns Cautious on 3 AI Stocks - TipRanks",
+      "body": "MU, META, and AVGO: Top Analyst Turns Cautious on 3 AI Stocks TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "AVGO",
+      "tickers_hint": [
+        "AVGO"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "AVGO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "4b8231a0-576c-559b-8141-ff44a5aac895",
+      "timestamp_utc": "2026-04-03T03:46:23+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/04/51643380/hock-tan-google-exec-amie-thuener-broadcom-cfo-ai-chip-push",
+      "title": "Hock Tan Says Google Executive Amie Thuener Will 'Bring Deep Experience' To Broadcom As New CFO Amid $100 - Benzinga",
+      "body": "Hock Tan Says Google Executive Amie Thuener Will 'Bring Deep Experience' To Broadcom As New CFO Amid $100 Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "AVGO",
+      "tickers_hint": [
+        "AVGO"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AVGO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "bc39f8af-bdc2-5565-af5c-ef60839f106d",
+      "timestamp_utc": "2026-04-02T15:08:01+00:00",
+      "source": "investing.com",
+      "url": "https://www.investing.com/analysis/avgo-earnings-preview-broadcom-eyes-ai-upside--nvidia-slump-rings-alarm-200676025",
+      "title": "Broadcom Q1 Earnings Preview: AI Upside Expected, but Nvidia Slump Raises Alarm - Investing.com",
+      "body": "Broadcom Q1 Earnings Preview: AI Upside Expected, but Nvidia Slump Raises Alarm Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "AVGO",
+      "tickers_hint": [
+        "AVGO"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "AVGO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9ab500ab-4dc7-5ed4-a0d4-3cf0bf3c46ec",
+      "timestamp_utc": "2026-04-03T13:07:02+00:00",
+      "source": "tradingview",
+      "url": "https://www.tradingview.com/news/gurufocus:505f0949d094b:0-broadcom-stock-in-spotlight-names-alphabet-s-top-accounting-leader-for-cfo-role/",
+      "title": "Broadcom Stock In Spotlight -- Names Alphabet's Top Accounting Leader for CFO Role - TradingView",
+      "body": "Broadcom AVGO stock is in focus on Friday after it said Amie Thuener will take over as chief financial officer on June 12.\n\nThuener currently serves as vice president, corporate controller and chief accounting officer at Alphabet, a role she has held since 2018. She will join Broadcom on May 4 before stepping into the CFO position.\n\nThe chipmaker's outgoing finance chief, Kirsten Spears, is retiring after 12 years with the company. Spears plans to remain as an advisor for nine months following the transition, with her outstanding equity awards continuing to vest during that period.\n\nThuener's compensation package includes an annual base salary of $700,000 and a target bonus of 100% of that amount. She is also set to receive a $1 million cash sign-on bonus along with restricted and performance stock units under Broadcom's 2012 stock incentive plan, subject to approval and continued employment.\n\nThe leadership change comes as Broadcom looks to maintain continuity in its finance operations. Shares of Broadcom remained little changed in early trading.",
+      "author": null,
+      "language": "en",
+      "ticker": "AVGO",
+      "tickers_hint": [
+        "AVGO"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AVGO"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "cfebfeac-96e2-5534-9d00-98abf2c6fcc0",
+      "timestamp_utc": "2026-04-03T12:23:00+00:00",
+      "source": "coincentral",
+      "url": "https://coincentral.com/broadcom-avgo-stock-new-cfo-named-alphabets-amie-thuener-takes-the-role/",
+      "title": "Broadcom (AVGO) Stock — New CFO Named, Alphabet’s Amie Thuener Takes the Role - CoinCentral",
+      "body": "The Best AI Stock Picking Tools in 2026: Your Complete Guide to Smarter InvestingFebruary 3, 2026 Finding The Best Crypto to Invest In: Expert Strategies for Identifying Tomorrow’s WinnersFebruary 27, 2025 Sui Blockchain Explained: How It Works and What You Need to KnowFebruary 6, 2025 Is Trump’s Memecoin Legit?\n\nHere’s What We Know About $TRUMPFebruary 1, 2025 What is Decentralized AI and Why We Need It ASAP?December 29, 2024",
+      "author": null,
+      "language": "en",
+      "ticker": "AVGO",
+      "tickers_hint": [
+        "AVGO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "coincentral",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "CoinCentral",
+        "source_domain": "coincentral.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AVGO"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b6d386d5-d3e0-5173-8be8-0ab1fde8647d",
+      "timestamp_utc": "2026-04-02T21:25:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcG9vWjJOdGgtdWpYTU1Vci1ibDVDQ3FKanU4ajBza19wbVNkaVBvRWVTbGp4Mkt1OTR4dlpHX0FZY2VKWC1jTm55TVJIQU5NZDZiWFg0WEVmbHBDd3l4ZklSVXJXN2d0OXA5RmJnellSeXpEQWJRaXhzeEhvTWhPN3VIT1VQWkFSeGhnNTZ6aVp0a3c5WGFHclZXdmpIOEVFYW8w?oc=5",
+      "title": "Broadcom (AVGO) plans CFO transition, hires Alphabet finance chief as successor - Stock Titan",
+      "body": "Broadcom (AVGO) plans CFO transition, hires Alphabet finance chief as successor Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "AVGO",
+      "tickers_hint": [
+        "AVGO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AVGO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "22d85407-2aaf-5b6e-8e9a-63b1ef0c6f36",
+      "timestamp_utc": "2026-04-02T01:55:08+00:00",
+      "source": "qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVVZKMmQ1bHU5SFVOUTV3UnJHVnZSQzQ2dk5OOGpQZ2l5SFQ3YW5IbTBzci00Rk42M3N3LVUzYnFkbGM5QTVSQ3dpMWdjcW8tZlhsdlNqNjVtRXUwTDdmRHEwaHBRdGpxc0pqY1NONk9ZZ2FheE9zck1heHdHUklkaE1IeFhpZTlJ?oc=5",
+      "title": "Is Broadcom Inc. (AVGO) a Buy as Wall Street Analysts Look Optimistic? - qz.com",
+      "body": "Is Broadcom Inc. (AVGO) a Buy as Wall Street Analysts Look Optimistic? qz.com",
+      "author": null,
+      "language": "en",
+      "ticker": "AVGO",
+      "tickers_hint": [
+        "AVGO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "qz.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "qz.com",
+        "source_domain": "qzcom.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AVGO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7de9a347-2c6c-5898-8aa6-7bfcbbb15699",
+      "timestamp_utc": "2026-04-02T14:07:45+00:00",
+      "source": "coincentral",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWXlpd3FLY1FQTXFXWW5JNjFWaGdwcEdZNGxHaE9fZTRQaWpSRnNsbjFKdFU2OHhzN1NMck5Qd1hIbmR6SEU4M2VMSnlsUTVkWWU1eWl5SXk0NDEwbDhDd1A1UVBfaVhvanZRemVaWEpEZnNoUEMwZzdYb0QxUDJZTHUzSnBMQVZwQnVGSjBxNjR6YUI0dzFLM05JVkJCQnM4WFhTSU91UQ?oc=5",
+      "title": "Broadcom (AVGO) and Applied Materials (AMAT) Added to Deutsche Bank’s Top Tech Picks - CoinCentral",
+      "body": "Broadcom (AVGO) and Applied Materials (AMAT) Added to Deutsche Bank’s Top Tech Picks CoinCentral",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT",
+        "AVGO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "coincentral",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "CoinCentral",
+        "source_domain": "coincentral.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMAT",
+          "AVGO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "4fbb644d-ec9a-5c84-af05-dcb13bb54e3f",
+      "timestamp_utc": "2026-04-03T11:07:00+00:00",
+      "source": "thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMEtpTG9XLV9JcDNnSWtUTDJJazEtTFIxeUZZOEJsdnBfS292V0x3TnZfVmE1Y2g4a204cDNmblRmRWoyOVBnRWxOcG9LZzdpR2YxU0NaWmNyVkFGOEdJUVVqd0RTNFAyeTdwVHNldjNSdUk4cUZHNTlwNUdyRHRROFdyRzhvV2prSC1YZE5ZSzJIdUpOVzZPY2hYeG4tZlNsU0ZSaGRkdEIzNlFqVG9vQW9TLU9RVkQtVERxekZsM05WZDBCMHlCcFBuYmVWMzRGU3A2NQ?oc=5",
+      "title": "$1,000 of AVGO stock from 2016 is worth this much with dividends - thestreet.com",
+      "body": "$1,000 of AVGO stock from 2016 is worth this much with dividends thestreet.com",
+      "author": null,
+      "language": "en",
+      "ticker": "AVGO",
+      "tickers_hint": [
+        "AVGO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "thestreet.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "thestreet.com",
+        "source_domain": "thestreetcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AVGO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "dbcb21e1-246d-529f-96a7-b5f9b2f6e393",
+      "timestamp_utc": "2026-04-02T20:15:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbDZ5TjdTdEZuNmZYTzdzRVJQS1hMc09Wc0tTbGdRT3RJRTFxM3R0cUluX3gxQzhWcndTTXAtMWttemdyRnNpcVBvanQ2cUdFTzhqSkk5Y2djWlY4YVZiTmowbXdPS2loeVo1YW1tdTEwckZWbHdReVhFZEhVcU9KZXJtcHVzbURaWWQ3dXdaVnFtZGNDaXd5X1hjc3hwNWJlTWdZdUlTbEU?oc=5",
+      "title": "Broadcom taps Alphabet executive Amie Thuener as next CFO - Stock Titan",
+      "body": "Broadcom taps Alphabet executive Amie Thuener as next CFO Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "AVGO",
+      "tickers_hint": [
+        "AVGO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AVGO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

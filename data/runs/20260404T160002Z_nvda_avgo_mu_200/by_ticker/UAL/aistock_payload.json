@@ -1,0 +1,246 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "e989674c-355c-557c-9df9-b720f1ba6805",
+      "timestamp_utc": "2026-04-02T22:00:06+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLTlOQ09iWUJGakhULVVieGxDbjVtbkVDUXRuWUNjSjMzU1NPOFVvWk9uWDdQRGR0dWlTMVQ0Q1lDbUtLcE54TGEtVld4OEJ1LU50Z0x5X3ZEc0t6eGRTWVUtUmtFYkE0endiY25NUXRDczVCV2s5RWdWbVN5U3p5ak11S21LU1VNUXgySXZySEtMQkgyZWRkLXRXQ1M?oc=5",
+      "title": "United Airlines (UAL) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
+      "body": "United Airlines (UAL) Stock Sinks As Market Gains: What You Should Know Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "UAL",
+      "tickers_hint": [
+        "UAL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "UAL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c9a3bc82-be38-5ee3-ab2f-f9ea28a0c135",
+      "timestamp_utc": "2026-04-03T10:44:28+00:00",
+      "source": "mexc_exchange",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1lYzhZNHUyX0lYREMySXUxMXY1NlBhTmF2NElzai0wWVRoVEstVlR5eTQzUU5aRjY1bHNrVTZYeDVhZS1kdGlV?oc=5",
+      "title": "Airline Stocks Tumble as United (UAL) and Southwest (LUV) Face Soaring Jet Fuel Crisis - MEXC Exchange",
+      "body": "Airline Stocks Tumble as United (UAL) and Southwest (LUV) Face Soaring Jet Fuel Crisis MEXC Exchange",
+      "author": null,
+      "language": "en",
+      "ticker": "UAL",
+      "tickers_hint": [
+        "UAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "mexc exchange",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MEXC Exchange",
+        "source_domain": "mexcexchange.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "UAL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "229cd42b-3ab3-5747-80da-940fc060ad1e",
+      "timestamp_utc": "2026-04-02T21:09:45+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYVZKRGVlNzhudlNmbk9zVWFYek55aUlVR2hVZXVlM1ZQeXA1bUkxLWU4SDkydlFOTVNJYVJ6R0NkTlJZRldQUzJodXdhbVl1NGphclBQZWZ1eF9yU0s0RFU0REhfVm15VHIxT1hOeGhfcTJQS1FoVi1tandtLUNJTGZVR3FVVy1TbmFWVWxaUERXVFdTek43alNmZ0NZYVlYS2l4cWlGU0U1QU9mYUJUZ0w0b01vUEtlQXBRSnh3?oc=5",
+      "title": "United Airlines (UAL) director defers 2026 fees into 195 share units - Stock Titan",
+      "body": "United Airlines (UAL) director defers 2026 fees into 195 share units Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "UAL",
+      "tickers_hint": [
+        "UAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "UAL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3840580d-0da2-5fb2-8538-4416cb88618a",
+      "timestamp_utc": "2026-04-02T20:07:54+00:00",
+      "source": "mexc",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAxQUNiZC1rejdjUk9FNW1DZmRKZDdhMnNodi1OMDlZZm0yOUp1Nk5kTDd4M0VNaVBYc0VxMW9NYUI0NmRIZFNPLQ?oc=5",
+      "title": "United Airlines (UAL) and Southwest (LUV) Stock Drop as Jet Fuel Fears Grip Airlines - MEXC",
+      "body": "United Airlines (UAL) and Southwest (LUV) Stock Drop as Jet Fuel Fears Grip Airlines MEXC",
+      "author": null,
+      "language": "en",
+      "ticker": "UAL",
+      "tickers_hint": [
+        "UAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "mexc",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MEXC",
+        "source_domain": "mexc.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "UAL"
+        ],
+        "alt_sources": [
+          "CoinCentral"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "e989674c-355c-557c-9df9-b720f1ba6805",
+      "timestamp_utc": "2026-04-02T22:00:06+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLTlOQ09iWUJGakhULVVieGxDbjVtbkVDUXRuWUNjSjMzU1NPOFVvWk9uWDdQRGR0dWlTMVQ0Q1lDbUtLcE54TGEtVld4OEJ1LU50Z0x5X3ZEc0t6eGRTWVUtUmtFYkE0endiY25NUXRDczVCV2s5RWdWbVN5U3p5ak11S21LU1VNUXgySXZySEtMQkgyZWRkLXRXQ1M?oc=5",
+      "title": "United Airlines (UAL) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
+      "body": "United Airlines (UAL) Stock Sinks As Market Gains: What You Should Know Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "UAL",
+      "tickers_hint": [
+        "UAL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "UAL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c9a3bc82-be38-5ee3-ab2f-f9ea28a0c135",
+      "timestamp_utc": "2026-04-03T10:44:28+00:00",
+      "source": "mexc_exchange",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1lYzhZNHUyX0lYREMySXUxMXY1NlBhTmF2NElzai0wWVRoVEstVlR5eTQzUU5aRjY1bHNrVTZYeDVhZS1kdGlV?oc=5",
+      "title": "Airline Stocks Tumble as United (UAL) and Southwest (LUV) Face Soaring Jet Fuel Crisis - MEXC Exchange",
+      "body": "Airline Stocks Tumble as United (UAL) and Southwest (LUV) Face Soaring Jet Fuel Crisis MEXC Exchange",
+      "author": null,
+      "language": "en",
+      "ticker": "UAL",
+      "tickers_hint": [
+        "UAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "mexc exchange",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MEXC Exchange",
+        "source_domain": "mexcexchange.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "UAL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "229cd42b-3ab3-5747-80da-940fc060ad1e",
+      "timestamp_utc": "2026-04-02T21:09:45+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYVZKRGVlNzhudlNmbk9zVWFYek55aUlVR2hVZXVlM1ZQeXA1bUkxLWU4SDkydlFOTVNJYVJ6R0NkTlJZRldQUzJodXdhbVl1NGphclBQZWZ1eF9yU0s0RFU0REhfVm15VHIxT1hOeGhfcTJQS1FoVi1tandtLUNJTGZVR3FVVy1TbmFWVWxaUERXVFdTek43alNmZ0NZYVlYS2l4cWlGU0U1QU9mYUJUZ0w0b01vUEtlQXBRSnh3?oc=5",
+      "title": "United Airlines (UAL) director defers 2026 fees into 195 share units - Stock Titan",
+      "body": "United Airlines (UAL) director defers 2026 fees into 195 share units Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "UAL",
+      "tickers_hint": [
+        "UAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "UAL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3840580d-0da2-5fb2-8538-4416cb88618a",
+      "timestamp_utc": "2026-04-02T20:07:54+00:00",
+      "source": "mexc",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAxQUNiZC1rejdjUk9FNW1DZmRKZDdhMnNodi1OMDlZZm0yOUp1Nk5kTDd4M0VNaVBYc0VxMW9NYUI0NmRIZFNPLQ?oc=5",
+      "title": "United Airlines (UAL) and Southwest (LUV) Stock Drop as Jet Fuel Fears Grip Airlines - MEXC",
+      "body": "United Airlines (UAL) and Southwest (LUV) Stock Drop as Jet Fuel Fears Grip Airlines MEXC",
+      "author": null,
+      "language": "en",
+      "ticker": "UAL",
+      "tickers_hint": [
+        "UAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "mexc",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MEXC",
+        "source_domain": "mexc.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "UAL"
+        ],
+        "alt_sources": [
+          "CoinCentral"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "9bb994ef-4c1b-50e7-8a0a-3d34f978ecec",
+    "timestamp_utc": "2026-04-02T10:11:52+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/adp-adp-share-price-slide-101152474.html",
+    "title": "Has The ADP (ADP) Share Price Slide Created A Valuation Opportunity? - Yahoo Finance",
+    "body": "Has The ADP (ADP) Share Price Slide Created A Valuation Opportunity? Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "ADP",
+    "tickers_hint": [
+      "ADP"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "ADP"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

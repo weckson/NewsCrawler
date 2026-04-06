@@ -1,0 +1,60 @@
+[
+  {
+    "id": "4337cffa-30d7-5b36-8b7e-1e79c268e672",
+    "timestamp_utc": "2026-04-03T07:00:00+00:00",
+    "source": "investing.com",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUjJ6QTV5ZkNmelp0UTVDcmdZU3RZVlNOQklVejREY1p6ZEZ5TGYtTXNyV2JoZjZESk5rbTJyS20xUVBTSElwaWgzUTB4LW9TM0RvU09xai1VbTJUMEdySlpsRkhRLTJaTk1FNU5DaExqQzAteThCS3Y3d3p4X0JrUmRaaUI2TktIRDFzelFOeGdYTDY0dVl2UG00VExMQ2pMODhhUUdyRW9kal9iZl9pZGljZjNYUTdPZm1hMXZnNnp3UFcyWklCdzVWUWs?oc=5",
+    "title": "Walton family holdings trust sells $136 million in Walmart (WMT) stock - Investing.com",
+    "body": "Walton family holdings trust sells $136 million in Walmart (WMT) stock Investing.com",
+    "author": null,
+    "language": "en",
+    "ticker": "WMT",
+    "tickers_hint": [
+      "WMT"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "investing.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Investing.com",
+      "source_domain": "investing.com",
+      "trust_tier": 2,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "WMT"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "6b68eddf-9b92-5423-aedb-b7bde7259fcc",
+    "timestamp_utc": "2026-04-03T08:05:48+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-walmart-inc-wmt-shares-purchased-by-compagnie-lombard-odier-scma-2026-04-03/",
+    "title": "Walmart Inc. $WMT Shares Purchased by Compagnie Lombard Odier SCmA - MarketBeat",
+    "body": "Walmart Inc. $WMT Shares Purchased by Compagnie Lombard Odier SCmA MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "WMT",
+    "tickers_hint": [
+      "WMT"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "WMT"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

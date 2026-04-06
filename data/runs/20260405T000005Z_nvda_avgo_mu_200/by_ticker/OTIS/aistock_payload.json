@@ -1,0 +1,188 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "3e178fa0-49ce-5ed4-a1af-a9eba8ec3d4a",
+      "timestamp_utc": "2026-04-04T14:07:01+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/time-reconsider-otis-worldwide-otis-140701681.html",
+      "title": "Is It Time To Reconsider Otis Worldwide (OTIS) After The Recent Share Price Slide? - Yahoo Finance",
+      "body": "Is It Time To Reconsider Otis Worldwide (OTIS) After The Recent Share Price Slide? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "OTIS",
+      "tickers_hint": [
+        "OTIS"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "OTIS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5020353e-b09b-597d-bde5-d254ae90bfdb",
+      "timestamp_utc": "2026-04-03T05:38:34+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY19zVldxejFNMGRJbUVRRGhfYllDZFNfMzlHOGR0X0ZWWWs3ZEhrM29Kc25VWXV0MVpuZ1E3NEZYY1J1VWhrSHlYVjBGLTZkaThKc01ELVB3NGRoT21yRmEyVnM5UXZDekpsMF95WFJiOXJpeElrVFVaWFNDalNBZXd0YTd4Sk5XM1MzQ29NWjU0NDE1bDFvMzJ2R2xvOWdjbUdWdmlHX3JWQ3hyLWtIY2VsNm5mNTNlNUp0a1lR?oc=5",
+      "title": "Barclays Issues Pessimistic Forecast for Otis Worldwide (NYSE:OTIS) Stock Price - Defense World",
+      "body": "Barclays Issues Pessimistic Forecast for Otis Worldwide (NYSE:OTIS) Stock Price Defense World",
+      "author": null,
+      "language": "en",
+      "ticker": "OTIS",
+      "tickers_hint": [
+        "OTIS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "OTIS"
+        ],
+        "alt_sources": [
+          "Defense World"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "502f0568-fc87-5a86-850a-f78636b967c2",
+      "timestamp_utc": "2026-04-03T21:42:25+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JRlVRSHBRancxRWFQaDlKZTVNb2dOMFUtc2ZqNGxJRjV4azhvT1VFeVlpRXZpZF9QTU5vLWpNMFZTTHZGbEVCbExGdTRSX3BGeFllT2R4NVdoWTRhMFkyOGdEM2RXQQ?oc=5",
+      "title": "OTIS Sep 2026 100.000 call (OTIS260918C00100000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "OTIS Sep 2026 100.000 call (OTIS260918C00100000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "OTIS",
+      "tickers_hint": [
+        "OTIS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "OTIS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "3e178fa0-49ce-5ed4-a1af-a9eba8ec3d4a",
+      "timestamp_utc": "2026-04-04T14:07:01+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/time-reconsider-otis-worldwide-otis-140701681.html",
+      "title": "Is It Time To Reconsider Otis Worldwide (OTIS) After The Recent Share Price Slide? - Yahoo Finance",
+      "body": "Is It Time To Reconsider Otis Worldwide (OTIS) After The Recent Share Price Slide? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "OTIS",
+      "tickers_hint": [
+        "OTIS"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "OTIS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5020353e-b09b-597d-bde5-d254ae90bfdb",
+      "timestamp_utc": "2026-04-03T05:38:34+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY19zVldxejFNMGRJbUVRRGhfYllDZFNfMzlHOGR0X0ZWWWs3ZEhrM29Kc25VWXV0MVpuZ1E3NEZYY1J1VWhrSHlYVjBGLTZkaThKc01ELVB3NGRoT21yRmEyVnM5UXZDekpsMF95WFJiOXJpeElrVFVaWFNDalNBZXd0YTd4Sk5XM1MzQ29NWjU0NDE1bDFvMzJ2R2xvOWdjbUdWdmlHX3JWQ3hyLWtIY2VsNm5mNTNlNUp0a1lR?oc=5",
+      "title": "Barclays Issues Pessimistic Forecast for Otis Worldwide (NYSE:OTIS) Stock Price - Defense World",
+      "body": "Barclays Issues Pessimistic Forecast for Otis Worldwide (NYSE:OTIS) Stock Price Defense World",
+      "author": null,
+      "language": "en",
+      "ticker": "OTIS",
+      "tickers_hint": [
+        "OTIS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "OTIS"
+        ],
+        "alt_sources": [
+          "Defense World"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "502f0568-fc87-5a86-850a-f78636b967c2",
+      "timestamp_utc": "2026-04-03T21:42:25+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JRlVRSHBRancxRWFQaDlKZTVNb2dOMFUtc2ZqNGxJRjV4azhvT1VFeVlpRXZpZF9QTU5vLWpNMFZTTHZGbEVCbExGdTRSX3BGeFllT2R4NVdoWTRhMFkyOGdEM2RXQQ?oc=5",
+      "title": "OTIS Sep 2026 100.000 call (OTIS260918C00100000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "OTIS Sep 2026 100.000 call (OTIS260918C00100000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "OTIS",
+      "tickers_hint": [
+        "OTIS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "OTIS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

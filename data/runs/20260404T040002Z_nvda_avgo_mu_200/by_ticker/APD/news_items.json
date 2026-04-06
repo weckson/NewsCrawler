@@ -1,0 +1,31 @@
+[
+  {
+    "id": "29ae1ddb-3b84-5416-a20d-6ef84f265c7f",
+    "timestamp_utc": "2026-04-02T20:18:57+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NX0lpZ19LWTZzYUVJMlNnZUFsWXloVUNwVkxmcmM4c0JzVjFlUkIwakRQWEQtaE01UjdZX0g1LU04N2hDZEp3akxzLUI4NkxN?oc=5",
+    "title": "Air Products and Chemicals, Inc. (APD) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "body": "Air Products and Chemicals, Inc. (APD) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "author": null,
+    "language": "en",
+    "ticker": "APD",
+    "tickers_hint": [
+      "APD"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo! finance canada",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "APD"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

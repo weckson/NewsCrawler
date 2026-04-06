@@ -1,0 +1,31 @@
+[
+  {
+    "id": "00be8dc6-dc18-52c1-8572-314c1431b191",
+    "timestamp_utc": "2026-04-04T13:44:26+00:00",
+    "source": "intellectia.ai",
+    "url": "https://intellectia.ai/en/stock/EMR/technical",
+    "title": "EMR Technical Analysis & Stock Price Forecast - intellectia.ai",
+    "body": "EMR Technical Analysis & Stock Price Forecast intellectia.ai",
+    "author": null,
+    "language": "en",
+    "ticker": "EMR",
+    "tickers_hint": [
+      "EMR"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "intellectia.ai",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "intellectia.ai",
+      "source_domain": "intellectiaai.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "EMR"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

@@ -1,0 +1,188 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "b0397ffd-b116-52ad-9d78-6fc5c4f3a2ad",
+      "timestamp_utc": "2026-04-04T11:00:44+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcnYyR1NpUElQamhNbFlET0k3OHY1WFQ0ZXFiQk1GTXFvWkNTcFNKcGlmbnRRd3JQM3FFNTQyNkN6OGdTWFZXYktYWHpCUjBQWk5TOHBvcjYzRXNQaWk2Zy01SFF3Mmd6Qk1zQ1ZaZ0plbUhld3FJdnYwSjF6UHZybGVpR2FBM0FXZnZ1UEJjVldzeGpPLUs4ZmZ2NHZHNzdRYTR3dDFmSQ?oc=5",
+      "title": "From the Strip to the suburbs: VICI expands its Las Vegas footprint (MGM:NYSE) - Seeking Alpha",
+      "body": "From the Strip to the suburbs: VICI expands its Las Vegas footprint (MGM:NYSE) Seeking Alpha",
+      "author": null,
+      "language": "en",
+      "ticker": "VICI",
+      "tickers_hint": [
+        "VICI"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "VICI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "005655a2-9ade-512f-89f5-c6478e9726d0",
+      "timestamp_utc": "2026-04-04T01:09:23+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/is-vici-properties-vici-one-of-the-most-undervalued-stocks-to-buy-according-to-analysts/ar-AA1ZeecH?ocid=finance-verthp-feeds",
+      "title": "Is VICI Properties (VICI) one of the most undervalued stocks to buy according to analysts? - MSN",
+      "body": "Is VICI Properties (VICI) one of the most undervalued stocks to buy according to analysts? MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "VICI",
+      "tickers_hint": [
+        "VICI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "VICI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a1657132-ee50-5ce7-8b27-0a658a5e8573",
+      "timestamp_utc": "2026-04-04T06:39:29+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NSW5UaGZTaU52QmlLczVJWlRsbDYtSnM1Mnc5QjBIdWc1bVdkZFFGdl9peTZXcXpURVFvN2JXZUJQNlBIQUN1WlhYX2syUVJTaFE?oc=5",
+      "title": "VICI Properties Inc. (VICI) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "VICI Properties Inc. (VICI) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "VICI",
+      "tickers_hint": [
+        "VICI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "VICI"
+        ],
+        "alt_sources": [
+          "Yahoo Finance UK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "b0397ffd-b116-52ad-9d78-6fc5c4f3a2ad",
+      "timestamp_utc": "2026-04-04T11:00:44+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcnYyR1NpUElQamhNbFlET0k3OHY1WFQ0ZXFiQk1GTXFvWkNTcFNKcGlmbnRRd3JQM3FFNTQyNkN6OGdTWFZXYktYWHpCUjBQWk5TOHBvcjYzRXNQaWk2Zy01SFF3Mmd6Qk1zQ1ZaZ0plbUhld3FJdnYwSjF6UHZybGVpR2FBM0FXZnZ1UEJjVldzeGpPLUs4ZmZ2NHZHNzdRYTR3dDFmSQ?oc=5",
+      "title": "From the Strip to the suburbs: VICI expands its Las Vegas footprint (MGM:NYSE) - Seeking Alpha",
+      "body": "From the Strip to the suburbs: VICI expands its Las Vegas footprint (MGM:NYSE) Seeking Alpha",
+      "author": null,
+      "language": "en",
+      "ticker": "VICI",
+      "tickers_hint": [
+        "VICI"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "VICI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "005655a2-9ade-512f-89f5-c6478e9726d0",
+      "timestamp_utc": "2026-04-04T01:09:23+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/is-vici-properties-vici-one-of-the-most-undervalued-stocks-to-buy-according-to-analysts/ar-AA1ZeecH?ocid=finance-verthp-feeds",
+      "title": "Is VICI Properties (VICI) one of the most undervalued stocks to buy according to analysts? - MSN",
+      "body": "Is VICI Properties (VICI) one of the most undervalued stocks to buy according to analysts? MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "VICI",
+      "tickers_hint": [
+        "VICI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "VICI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a1657132-ee50-5ce7-8b27-0a658a5e8573",
+      "timestamp_utc": "2026-04-04T06:39:29+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NSW5UaGZTaU52QmlLczVJWlRsbDYtSnM1Mnc5QjBIdWc1bVdkZFFGdl9peTZXcXpURVFvN2JXZUJQNlBIQUN1WlhYX2syUVJTaFE?oc=5",
+      "title": "VICI Properties Inc. (VICI) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "VICI Properties Inc. (VICI) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "VICI",
+      "tickers_hint": [
+        "VICI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "VICI"
+        ],
+        "alt_sources": [
+          "Yahoo Finance UK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

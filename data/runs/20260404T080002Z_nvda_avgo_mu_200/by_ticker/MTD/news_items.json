@@ -1,0 +1,60 @@
+[
+  {
+    "id": "e0c9dc12-9eb7-541c-a677-ff056273c575",
+    "timestamp_utc": "2026-04-03T21:32:03+00:00",
+    "source": "yahoo_finance_uk",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zNDl4ZFA1SzBUTVRvWTV3M1luVFl3d0NSNVBGUWIyX3ZiMndnZk96VGVYbGFxbGJmekZYNlJrWXJ5S3BOYzJiRmN2aU5ENTZa?oc=5",
+    "title": "Mettler-Toledo International Inc. (MTD) stock price, news, quote and history - Yahoo Finance UK",
+    "body": "Mettler-Toledo International Inc. (MTD) stock price, news, quote and history Yahoo Finance UK",
+    "author": null,
+    "language": "en",
+    "ticker": "MTD",
+    "tickers_hint": [
+      "MTD"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo finance uk",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance UK",
+      "source_domain": "yahoofinanceuk.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "MTD"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "4c1bdbeb-9b62-5159-b977-88978b4074ec",
+    "timestamp_utc": "2026-04-02T09:49:18+00:00",
+    "source": "stockstory",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdWVpSHdFelJhdXNQdTJBQWJyNGdNWFlreEh1aFZhc0EyWl9GN3VKZExpM3VJQ2hqUEw0eHRlZk5CODQ3MkZhNXR1NmJjQ2plckZpOWNxbDhfSVZNLWh5T3VJQXNsaTlLSlVyMHJRZ0ZnckJ0X19KM09zQ1RzUTFYcExBUl9BcWUwNWVROUZPSTVyUUlQQnp1U3IwTVdjVGMwRV9lWE8wOG9hVjF3VUQw?oc=5",
+    "title": "3 Reasons MTD is Risky and 1 Stock to Buy Instead - StockStory",
+    "body": "3 Reasons MTD is Risky and 1 Stock to Buy Instead StockStory",
+    "author": null,
+    "language": "en",
+    "ticker": "MTD",
+    "tickers_hint": [
+      "MTD"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stockstory",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "StockStory",
+      "source_domain": "stockstory.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "MTD"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

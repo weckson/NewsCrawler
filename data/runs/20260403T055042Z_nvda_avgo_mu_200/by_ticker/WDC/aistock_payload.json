@@ -1,0 +1,588 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "faff6e47-b4c0-5bd4-80bc-bc4d9ec0c046",
+      "timestamp_utc": "2026-04-01T16:46:04+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZl9PNkFwRVVXejhjc3pwZWZmcldSZjBjbWpCTmJmSEl0eWt4R1hxZXpoUlBsTktxNk1BampGZkJlUmFsZHpNSUc5R2sydklqVWFEVE00aGd4dGRKVU1BZ3EyX3FPM0VfWm1hd2x5SEV1SXh2RzdCT056THBNVUxNN0txMk5hRm00cjlBMnZRbFlZRVd4aXZ3cDNmRUZ6ZXltd05NVElnT0MwSmVDRkE4S3hRSTE2NWVXYXpB?oc=5",
+      "title": "Western Digital (WDC) Shares Skyrocket, What You Need To Know - TradingView",
+      "body": "Western Digital (WDC) Shares Skyrocket, What You Need To Know TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "30f53ab8-206b-5793-876a-50b464d7ba75",
+      "timestamp_utc": "2026-04-02T06:29:07+00:00",
+      "source": "fxleaders",
+      "url": "https://www.fxleaders.com/news/2026/04/02/western-digital-wdc-stock-surges-10-on-analyst-upgrade-and-ai-storage-optimism/",
+      "title": "Western Digital (WDC) Stock Surges 10% on Analyst Upgrade and AI Storage Optimism - FXLeaders",
+      "body": "5 Best Forex Trading Apps How to Avoid Forex Trading Scams Introduction of Meta Trader 5.\n\nPart 1 What is Forex Dealing Desk Forex Web Trading Platforms: Pros and Cons MT4 Best Featues – Part 1 MT4: Fibonacci and Trend Line Tools",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "fxleaders",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "FXLeaders",
+        "source_domain": "fxleaders.com",
+        "trust_tier": 1,
+        "relevance": 0.7,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e1c6824b-3552-5e9c-88d3-19279b2a41a6",
+      "timestamp_utc": "2026-04-01T14:32:31+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/western-digital-nasdaqwdc-stock-price-up-102-after-analyst-upgrade-2026-04-01/",
+      "title": "Western Digital (NASDAQ:WDC) Stock Price Up 10.2% After Analyst Upgrade - MarketBeat",
+      "body": "Western Digital (NASDAQ:WDC) Stock Price Up 10.2% After Analyst Upgrade MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "656babc7-365c-5e4c-b42a-9fe1ac126ca0",
+      "timestamp_utc": "2026-04-02T11:39:13+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/western-digital-nasdaqwdc-stock-rating-lowered-by-zacks-research-2026-04-02/",
+      "title": "Western Digital (NASDAQ:WDC) Stock Rating Lowered by Zacks Research - MarketBeat",
+      "body": "Western Digital (NASDAQ:WDC) Stock Rating Lowered by Zacks Research MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d7e8429d-506a-52ce-9049-455ac9f92b95",
+      "timestamp_utc": "2026-04-01T15:01:34+00:00",
+      "source": "moomoo",
+      "url": "https://www.moomoo.com/community/feed/micron-sandisk-wdc-surge-10-are-memory-stocks-starting-a-116330049961990",
+      "title": "Micron, SanDisk, WDC Surge 10%—Are Memory Stocks Starting a New Rally? - Moomoo",
+      "body": "Micron, SanDisk, WDC Surge 10%—Are Memory Stocks Starting a New Rally? Moomoo",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "moomoo",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Moomoo",
+        "source_domain": "moomoo.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1e46c14e-49fc-5278-9191-63a33224d324",
+      "timestamp_utc": "2026-04-01T14:44:21+00:00",
+      "source": "coincentral",
+      "url": "https://coincentral.com/western-digital-wdc-stock-surges-11-after-bernstein-upgrades-to-outperform/",
+      "title": "Western Digital (WDC) Stock Surges 11% After Bernstein Upgrades to Outperform - CoinCentral",
+      "body": "The Best AI Stock Picking Tools in 2026: Your Complete Guide to Smarter InvestingFebruary 3, 2026 Finding The Best Crypto to Invest In: Expert Strategies for Identifying Tomorrow’s WinnersFebruary 27, 2025 Sui Blockchain Explained: How It Works and What You Need to KnowFebruary 6, 2025 Is Trump’s Memecoin Legit?\n\nHere’s What We Know About $TRUMPFebruary 1, 2025 What is Decentralized AI and Why We Need It ASAP?December 29, 2024",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "coincentral",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "CoinCentral",
+        "source_domain": "coincentral.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "997a900a-5f11-5258-879b-ae5157712fff",
+      "timestamp_utc": "2026-04-02T08:34:46+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-empirical-financial-services-llc-dba-empirical-wealth-management-reduces-stake-in-western-digital-corporation-wdc-2026-04-02/",
+      "title": "Empirical Financial Services LLC d.b.a. Empirical Wealth Management Reduces Stake in Western Digital Corporation $WDC - MarketBeat",
+      "body": "Empirical Financial Services LLC d.b.a. Empirical Wealth Management Reduces Stake in Western Digital Corporation $WDC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2aa0de59-763d-5cdf-8d2a-a0407ab3c175",
+      "timestamp_utc": "2026-04-02T01:05:03+00:00",
+      "source": "qz.com",
+      "url": "https://qz.com/wall-street-analysts-think-western-digital-wdc-is-a-good-investment-is-it",
+      "title": "Wall Street Analysts Think Western Digital (WDC) Is a Good Investment: Is It? - qz.com",
+      "body": "Wall Street Analysts Think Western Digital (WDC) Is a Good Investment: Is It? qz.com",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "qz.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "qz.com",
+        "source_domain": "qzcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "80f36924-0533-58e2-88f7-3aa0243b54a1",
+      "timestamp_utc": "2026-04-01T11:13:03+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-three-seasons-wealth-llc-buys-shares-of-8368-western-digital-corporation-wdc-2026-04-01/",
+      "title": "Three Seasons Wealth LLC Buys Shares of 8,368 Western Digital Corporation $WDC - MarketBeat",
+      "body": "Three Seasons Wealth LLC Buys Shares of 8,368 Western Digital Corporation $WDC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "bfb9b7ad-3a12-5fda-9305-273f6e0c6c99",
+      "timestamp_utc": "2026-04-01T11:11:42+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeV85UEZmTHZiSzVrTVNsblVoZ3l3SUR6R29saC1Pdk1oRm5peWhFdzludGJ5ZjIxVUZQWEpzR19uZVI5RjVodjI4RlRLakd0ZWJOaXhmNmtnSVNQLTZjMnh3WkE5U3hxcERJekVTQTBlZWFRYjB2dW9hYXVkMmcxYU1WOXlXSjg1b1laSEdWYV90R2dsODVSeWhZM3BmN0g4cGF3VW5NYlRfQnkwN01fNW5tY0RIV0hNWUJuV09MUHhtQXZQSHBDVTdJN19HZHBPUENRcWIwWVJyWk5UZFdiVExlZEZFVXRocmc?oc=5",
+      "title": "44,801 Shares in Western Digital Corporation $WDC Purchased by Gunderson Capital Management Inc. - MarketBeat",
+      "body": "44,801 Shares in Western Digital Corporation $WDC Purchased by Gunderson Capital Management Inc. MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "faff6e47-b4c0-5bd4-80bc-bc4d9ec0c046",
+      "timestamp_utc": "2026-04-01T16:46:04+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZl9PNkFwRVVXejhjc3pwZWZmcldSZjBjbWpCTmJmSEl0eWt4R1hxZXpoUlBsTktxNk1BampGZkJlUmFsZHpNSUc5R2sydklqVWFEVE00aGd4dGRKVU1BZ3EyX3FPM0VfWm1hd2x5SEV1SXh2RzdCT056THBNVUxNN0txMk5hRm00cjlBMnZRbFlZRVd4aXZ3cDNmRUZ6ZXltd05NVElnT0MwSmVDRkE4S3hRSTE2NWVXYXpB?oc=5",
+      "title": "Western Digital (WDC) Shares Skyrocket, What You Need To Know - TradingView",
+      "body": "Western Digital (WDC) Shares Skyrocket, What You Need To Know TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "30f53ab8-206b-5793-876a-50b464d7ba75",
+      "timestamp_utc": "2026-04-02T06:29:07+00:00",
+      "source": "fxleaders",
+      "url": "https://www.fxleaders.com/news/2026/04/02/western-digital-wdc-stock-surges-10-on-analyst-upgrade-and-ai-storage-optimism/",
+      "title": "Western Digital (WDC) Stock Surges 10% on Analyst Upgrade and AI Storage Optimism - FXLeaders",
+      "body": "5 Best Forex Trading Apps How to Avoid Forex Trading Scams Introduction of Meta Trader 5.\n\nPart 1 What is Forex Dealing Desk Forex Web Trading Platforms: Pros and Cons MT4 Best Featues – Part 1 MT4: Fibonacci and Trend Line Tools",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "fxleaders",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "FXLeaders",
+        "source_domain": "fxleaders.com",
+        "trust_tier": 1,
+        "relevance": 0.7,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e1c6824b-3552-5e9c-88d3-19279b2a41a6",
+      "timestamp_utc": "2026-04-01T14:32:31+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/western-digital-nasdaqwdc-stock-price-up-102-after-analyst-upgrade-2026-04-01/",
+      "title": "Western Digital (NASDAQ:WDC) Stock Price Up 10.2% After Analyst Upgrade - MarketBeat",
+      "body": "Western Digital (NASDAQ:WDC) Stock Price Up 10.2% After Analyst Upgrade MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "656babc7-365c-5e4c-b42a-9fe1ac126ca0",
+      "timestamp_utc": "2026-04-02T11:39:13+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/western-digital-nasdaqwdc-stock-rating-lowered-by-zacks-research-2026-04-02/",
+      "title": "Western Digital (NASDAQ:WDC) Stock Rating Lowered by Zacks Research - MarketBeat",
+      "body": "Western Digital (NASDAQ:WDC) Stock Rating Lowered by Zacks Research MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d7e8429d-506a-52ce-9049-455ac9f92b95",
+      "timestamp_utc": "2026-04-01T15:01:34+00:00",
+      "source": "moomoo",
+      "url": "https://www.moomoo.com/community/feed/micron-sandisk-wdc-surge-10-are-memory-stocks-starting-a-116330049961990",
+      "title": "Micron, SanDisk, WDC Surge 10%—Are Memory Stocks Starting a New Rally? - Moomoo",
+      "body": "Micron, SanDisk, WDC Surge 10%—Are Memory Stocks Starting a New Rally? Moomoo",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "moomoo",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Moomoo",
+        "source_domain": "moomoo.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1e46c14e-49fc-5278-9191-63a33224d324",
+      "timestamp_utc": "2026-04-01T14:44:21+00:00",
+      "source": "coincentral",
+      "url": "https://coincentral.com/western-digital-wdc-stock-surges-11-after-bernstein-upgrades-to-outperform/",
+      "title": "Western Digital (WDC) Stock Surges 11% After Bernstein Upgrades to Outperform - CoinCentral",
+      "body": "The Best AI Stock Picking Tools in 2026: Your Complete Guide to Smarter InvestingFebruary 3, 2026 Finding The Best Crypto to Invest In: Expert Strategies for Identifying Tomorrow’s WinnersFebruary 27, 2025 Sui Blockchain Explained: How It Works and What You Need to KnowFebruary 6, 2025 Is Trump’s Memecoin Legit?\n\nHere’s What We Know About $TRUMPFebruary 1, 2025 What is Decentralized AI and Why We Need It ASAP?December 29, 2024",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "coincentral",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "CoinCentral",
+        "source_domain": "coincentral.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "997a900a-5f11-5258-879b-ae5157712fff",
+      "timestamp_utc": "2026-04-02T08:34:46+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-empirical-financial-services-llc-dba-empirical-wealth-management-reduces-stake-in-western-digital-corporation-wdc-2026-04-02/",
+      "title": "Empirical Financial Services LLC d.b.a. Empirical Wealth Management Reduces Stake in Western Digital Corporation $WDC - MarketBeat",
+      "body": "Empirical Financial Services LLC d.b.a. Empirical Wealth Management Reduces Stake in Western Digital Corporation $WDC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2aa0de59-763d-5cdf-8d2a-a0407ab3c175",
+      "timestamp_utc": "2026-04-02T01:05:03+00:00",
+      "source": "qz.com",
+      "url": "https://qz.com/wall-street-analysts-think-western-digital-wdc-is-a-good-investment-is-it",
+      "title": "Wall Street Analysts Think Western Digital (WDC) Is a Good Investment: Is It? - qz.com",
+      "body": "Wall Street Analysts Think Western Digital (WDC) Is a Good Investment: Is It? qz.com",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "qz.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "qz.com",
+        "source_domain": "qzcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "80f36924-0533-58e2-88f7-3aa0243b54a1",
+      "timestamp_utc": "2026-04-01T11:13:03+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-three-seasons-wealth-llc-buys-shares-of-8368-western-digital-corporation-wdc-2026-04-01/",
+      "title": "Three Seasons Wealth LLC Buys Shares of 8,368 Western Digital Corporation $WDC - MarketBeat",
+      "body": "Three Seasons Wealth LLC Buys Shares of 8,368 Western Digital Corporation $WDC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "bfb9b7ad-3a12-5fda-9305-273f6e0c6c99",
+      "timestamp_utc": "2026-04-01T11:11:42+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeV85UEZmTHZiSzVrTVNsblVoZ3l3SUR6R29saC1Pdk1oRm5peWhFdzludGJ5ZjIxVUZQWEpzR19uZVI5RjVodjI4RlRLakd0ZWJOaXhmNmtnSVNQLTZjMnh3WkE5U3hxcERJekVTQTBlZWFRYjB2dW9hYXVkMmcxYU1WOXlXSjg1b1laSEdWYV90R2dsODVSeWhZM3BmN0g4cGF3VW5NYlRfQnkwN01fNW5tY0RIV0hNWUJuV09MUHhtQXZQSHBDVTdJN19HZHBPUENRcWIwWVJyWk5UZFdiVExlZEZFVXRocmc?oc=5",
+      "title": "44,801 Shares in Western Digital Corporation $WDC Purchased by Gunderson Capital Management Inc. - MarketBeat",
+      "body": "44,801 Shares in Western Digital Corporation $WDC Purchased by Gunderson Capital Management Inc. MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

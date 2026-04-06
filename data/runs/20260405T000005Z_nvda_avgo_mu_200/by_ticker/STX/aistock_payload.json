@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "6db650a5-402c-5929-ae24-4e4ddcd14392",
+      "timestamp_utc": "2026-04-03T21:08:59+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2NEpZMGFlbmRsTFAtOVA4c1lkWEtpa2tlb3dJZHlJdGdLOEM4SGhuX1h3bmRsMGJWRDBNLVlXRVVvb3YzUEhtZm9pYnF3VnY2VU5zbkVyWGxWdWJFeU9ySWdLUmY?oc=5",
+      "title": "STX Mar 2027 240.000 call (STX270319C00240000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "STX Mar 2027 240.000 call (STX270319C00240000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "STX",
+      "tickers_hint": [
+        "STX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "STX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "96bd298a-8fe3-5bad-9140-0b8355ead627",
+      "timestamp_utc": "2026-04-03T20:03:10+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KeXFLUGsxb1JvR0k3ZjlTZTY1MDZwMkx5cGZtSGN0T0R2ZHY1ZC01UXJCa1dubkoza3lKbld6NDFmUmFMUHBGc1EyV1hyZHZvVXh5OUhELXdoZUU?oc=5",
+      "title": "STX OPT.POLAND GR EUR (ST0C.Z) Latest Stock News & Headlines - Yahoo! Finance Canada",
+      "body": "STX OPT.POLAND GR EUR (ST0C.Z) Latest Stock News & Headlines Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "STX",
+      "tickers_hint": [
+        "STX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "STX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "66570145-ab85-5925-b533-6a4ebd77facf",
+      "timestamp_utc": "2026-04-03T11:11:15+00:00",
+      "source": "chartmill",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUWd0XzVWV2w5TnUtSUZTaUNaN1NoTXIwUzlabHdZZmNyNjY5N1BpenhQOWVGTDM4QXpqSFB1VTdleFJyRmRsclRJQVdlV0hmMTg2ZHZwaVdWQWZJc0YxRkRVREhFd0pKTXNUSWpKS3g5MldXZ2owaEVQSV9Nc0VPNGhUSlhHZWE4Z1htb3g3LXZIREZLdmhVSG5qWXJTUENrcmVPQ1BLdV9sa0pudkI2M1VwMWVIUDRobXFJVmF5M29ZTTRselM4ZndRNWtqUDJ6TGtUMENCajVtX2lidUVYMg?oc=5",
+      "title": "Seagate Technology Holdings (NASDAQ:STX) Fits Minervini's Trend Template with Strong Growth Momentum - ChartMill",
+      "body": "Seagate Technology Holdings (NASDAQ:STX) Fits Minervini's Trend Template with Strong Growth Momentum ChartMill",
+      "author": null,
+      "language": "en",
+      "ticker": "STX",
+      "tickers_hint": [
+        "STX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "chartmill",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "ChartMill",
+        "source_domain": "chartmill.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "STX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "6db650a5-402c-5929-ae24-4e4ddcd14392",
+      "timestamp_utc": "2026-04-03T21:08:59+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2NEpZMGFlbmRsTFAtOVA4c1lkWEtpa2tlb3dJZHlJdGdLOEM4SGhuX1h3bmRsMGJWRDBNLVlXRVVvb3YzUEhtZm9pYnF3VnY2VU5zbkVyWGxWdWJFeU9ySWdLUmY?oc=5",
+      "title": "STX Mar 2027 240.000 call (STX270319C00240000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "STX Mar 2027 240.000 call (STX270319C00240000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "STX",
+      "tickers_hint": [
+        "STX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "STX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "96bd298a-8fe3-5bad-9140-0b8355ead627",
+      "timestamp_utc": "2026-04-03T20:03:10+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KeXFLUGsxb1JvR0k3ZjlTZTY1MDZwMkx5cGZtSGN0T0R2ZHY1ZC01UXJCa1dubkoza3lKbld6NDFmUmFMUHBGc1EyV1hyZHZvVXh5OUhELXdoZUU?oc=5",
+      "title": "STX OPT.POLAND GR EUR (ST0C.Z) Latest Stock News & Headlines - Yahoo! Finance Canada",
+      "body": "STX OPT.POLAND GR EUR (ST0C.Z) Latest Stock News & Headlines Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "STX",
+      "tickers_hint": [
+        "STX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "STX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "66570145-ab85-5925-b533-6a4ebd77facf",
+      "timestamp_utc": "2026-04-03T11:11:15+00:00",
+      "source": "chartmill",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUWd0XzVWV2w5TnUtSUZTaUNaN1NoTXIwUzlabHdZZmNyNjY5N1BpenhQOWVGTDM4QXpqSFB1VTdleFJyRmRsclRJQVdlV0hmMTg2ZHZwaVdWQWZJc0YxRkRVREhFd0pKTXNUSWpKS3g5MldXZ2owaEVQSV9Nc0VPNGhUSlhHZWE4Z1htb3g3LXZIREZLdmhVSG5qWXJTUENrcmVPQ1BLdV9sa0pudkI2M1VwMWVIUDRobXFJVmF5M29ZTTRselM4ZndRNWtqUDJ6TGtUMENCajVtX2lidUVYMg?oc=5",
+      "title": "Seagate Technology Holdings (NASDAQ:STX) Fits Minervini's Trend Template with Strong Growth Momentum - ChartMill",
+      "body": "Seagate Technology Holdings (NASDAQ:STX) Fits Minervini's Trend Template with Strong Growth Momentum ChartMill",
+      "author": null,
+      "language": "en",
+      "ticker": "STX",
+      "tickers_hint": [
+        "STX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "chartmill",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "ChartMill",
+        "source_domain": "chartmill.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "STX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

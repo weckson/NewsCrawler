@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "03dfe01b-326e-5f22-866f-5f17aa54b431",
+      "timestamp_utc": "2026-04-03T20:51:47+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zbnpkQnFJM0JvalJsT2tjdTZzWVhXUDVHZGZ4Ql9Gb0xRUWlyRkViTHNIY3UyaC1BcUNRUGI3b3E1SlVBTmZOdTZrQlFHc0RSNTlVMmpMRUVfeGVyREJUQXdTcTgyZw?oc=5",
+      "title": "ORLY Jun 2026 70.000 call (ORLY260618C00070000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "ORLY Jun 2026 70.000 call (ORLY260618C00070000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "ORLY",
+      "tickers_hint": [
+        "ORLY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORLY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "03dfe01b-326e-5f22-866f-5f17aa54b431",
+      "timestamp_utc": "2026-04-03T20:51:47+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zbnpkQnFJM0JvalJsT2tjdTZzWVhXUDVHZGZ4Ql9Gb0xRUWlyRkViTHNIY3UyaC1BcUNRUGI3b3E1SlVBTmZOdTZrQlFHc0RSNTlVMmpMRUVfeGVyREJUQXdTcTgyZw?oc=5",
+      "title": "ORLY Jun 2026 70.000 call (ORLY260618C00070000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "ORLY Jun 2026 70.000 call (ORLY260618C00070000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "ORLY",
+      "tickers_hint": [
+        "ORLY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORLY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

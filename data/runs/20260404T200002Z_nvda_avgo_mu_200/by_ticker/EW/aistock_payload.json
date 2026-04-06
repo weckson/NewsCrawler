@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "112ef95c-9d88-50a6-9ed1-85718301b833",
+      "timestamp_utc": "2026-04-03T06:02:40+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFeVhWc0EzOG1XdEJPUDZfODM2bExlOTVCZUxjeDc5Z19OS1c3YkxkNjhobjkyenhOQlZ1THJOM1V2QWprQ3lrSTNmeXBBWFE?oc=5",
+      "title": "Edwards Lifesciences Corporation (EW) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Edwards Lifesciences Corporation (EW) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "EW",
+      "tickers_hint": [
+        "EW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "EW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0ce8de1b-8f64-5e4f-9032-e922f24432cc",
+      "timestamp_utc": "2026-04-02T21:13:52+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbGlZdE4zWVJJNTNZOUdkV0lGM1ZEdjV0dFE4UkZmc0dOYTBjdkRyNC1xRUVZcU5YOWZoZHhkT0plMXFPTlJzSnBHVUxvNE5xMGc1NWdNREFFaDBuWnNvc0o3ZWRxbnlHdlJVdVlHenpObTZQSWlXNXhNbVA4LXhPcjkzLWZnZDA1czAxVFo4emZuVXMtNjRuTWstb0F2b0dQeUNQUzdaMHNuSjc5ZDFFeks3V19DSXhs?oc=5",
+      "title": "Edwards Lifesciences (EW) VP sells 22,680 shares after option exercise - Stock Titan",
+      "body": "Edwards Lifesciences (EW) VP sells 22,680 shares after option exercise Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "EW",
+      "tickers_hint": [
+        "EW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "EW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "112ef95c-9d88-50a6-9ed1-85718301b833",
+      "timestamp_utc": "2026-04-03T06:02:40+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFeVhWc0EzOG1XdEJPUDZfODM2bExlOTVCZUxjeDc5Z19OS1c3YkxkNjhobjkyenhOQlZ1THJOM1V2QWprQ3lrSTNmeXBBWFE?oc=5",
+      "title": "Edwards Lifesciences Corporation (EW) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Edwards Lifesciences Corporation (EW) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "EW",
+      "tickers_hint": [
+        "EW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "EW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0ce8de1b-8f64-5e4f-9032-e922f24432cc",
+      "timestamp_utc": "2026-04-02T21:13:52+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbGlZdE4zWVJJNTNZOUdkV0lGM1ZEdjV0dFE4UkZmc0dOYTBjdkRyNC1xRUVZcU5YOWZoZHhkT0plMXFPTlJzSnBHVUxvNE5xMGc1NWdNREFFaDBuWnNvc0o3ZWRxbnlHdlJVdVlHenpObTZQSWlXNXhNbVA4LXhPcjkzLWZnZDA1czAxVFo4emZuVXMtNjRuTWstb0F2b0dQeUNQUzdaMHNuSjc5ZDFFeks3V19DSXhs?oc=5",
+      "title": "Edwards Lifesciences (EW) VP sells 22,680 shares after option exercise - Stock Titan",
+      "body": "Edwards Lifesciences (EW) VP sells 22,680 shares after option exercise Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "EW",
+      "tickers_hint": [
+        "EW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "EW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

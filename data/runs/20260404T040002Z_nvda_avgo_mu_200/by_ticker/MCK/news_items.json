@@ -1,0 +1,60 @@
+[
+  {
+    "id": "8445952e-cc00-5580-8ebc-b55d7f075a6f",
+    "timestamp_utc": "2026-04-02T11:21:11+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-mckesson-corporation-mck-stock-holdings-increased-by-hf-advisory-group-llc-2026-04-02/",
+    "title": "McKesson Corporation $MCK Stock Holdings Increased by HF Advisory Group LLC - MarketBeat",
+    "body": "McKesson Corporation $MCK Stock Holdings Increased by HF Advisory Group LLC MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "MCK",
+    "tickers_hint": [
+      "MCK"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "MCK"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "9f9fadc1-fc7f-5192-8a14-a1451fbd5d4c",
+    "timestamp_utc": "2026-04-03T20:02:43+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83OWdEQ29sbDZEY25YemlzUFJ5VVY1cktUOFZWN19xa2V3N0hoMllIVGgtbURvTnViN2RzNVlSSnNMUWZTOXNqYkdLZnN2NDdZcThVNVlQdmVJMDZpSVFEQktvQWI?oc=5",
+    "title": "MCK Apr 2026 1020.000 call (MCK260417C01020000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "body": "MCK Apr 2026 1020.000 call (MCK260417C01020000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "author": null,
+    "language": "en",
+    "ticker": "MCK",
+    "tickers_hint": [
+      "MCK"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo! finance canada",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "MCK"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

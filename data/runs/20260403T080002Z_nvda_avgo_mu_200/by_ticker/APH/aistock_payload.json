@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "cd8d3ecb-0c25-53de-a063-2fb2e58e2250",
+      "timestamp_utc": "2026-04-02T10:25:10+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-amphenol-corporation-aph-shares-purchased-by-tema-etfs-llc-2026-04-02/",
+      "title": "Amphenol Corporation $APH Shares Purchased by Tema Etfs LLC - MarketBeat",
+      "body": "Amphenol Corporation $APH Shares Purchased by Tema Etfs LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "APH",
+      "tickers_hint": [
+        "APH"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "APH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ba98ceb4-756b-5227-9959-ec304bbdbe39",
+      "timestamp_utc": "2026-04-01T10:40:48+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nisa-investment-advisors-llc-cuts-stock-position-in-amphenol-corporation-aph-2026-04-01/",
+      "title": "Nisa Investment Advisors LLC Cuts Stock Position in Amphenol Corporation $APH - MarketBeat",
+      "body": "Nisa Investment Advisors LLC Cuts Stock Position in Amphenol Corporation $APH MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "APH",
+      "tickers_hint": [
+        "APH"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "APH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "cd8d3ecb-0c25-53de-a063-2fb2e58e2250",
+      "timestamp_utc": "2026-04-02T10:25:10+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-amphenol-corporation-aph-shares-purchased-by-tema-etfs-llc-2026-04-02/",
+      "title": "Amphenol Corporation $APH Shares Purchased by Tema Etfs LLC - MarketBeat",
+      "body": "Amphenol Corporation $APH Shares Purchased by Tema Etfs LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "APH",
+      "tickers_hint": [
+        "APH"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "APH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ba98ceb4-756b-5227-9959-ec304bbdbe39",
+      "timestamp_utc": "2026-04-01T10:40:48+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nisa-investment-advisors-llc-cuts-stock-position-in-amphenol-corporation-aph-2026-04-01/",
+      "title": "Nisa Investment Advisors LLC Cuts Stock Position in Amphenol Corporation $APH - MarketBeat",
+      "body": "Nisa Investment Advisors LLC Cuts Stock Position in Amphenol Corporation $APH MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "APH",
+      "tickers_hint": [
+        "APH"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "APH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

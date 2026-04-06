@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "fc267ea2-beb5-5e2a-ba08-d38fd9eb87a5",
+      "timestamp_utc": "2026-04-04T19:18:17+00:00",
+      "source": "yahoo_finance_australia",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ONnktODhvNXlocmVXS091VHYwWEJzeVBHd3lVNjZiLW1KendEd28tbzBRenBGTnNMRE82ZHlpMTJYZ05TVUR5WWpSb2lINnZINjVRczUzSWNnWkNBVW8wdEdR?oc=5",
+      "title": "Equinix, Inc. (EQIX) stock price, news, quote and history - Yahoo Finance Australia",
+      "body": "Equinix, Inc. (EQIX) stock price, news, quote and history Yahoo Finance Australia",
+      "author": null,
+      "language": "en",
+      "ticker": "EQIX",
+      "tickers_hint": [
+        "EQIX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance australia",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Australia",
+        "source_domain": "yahoofinanceaustralia.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "EQIX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "708709bb-806c-5447-b64e-af21c63f96d2",
+      "timestamp_utc": "2026-04-04T12:11:52+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/EQIX/earnings",
+      "title": "EQIX Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "EQIX Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "EQIX",
+      "tickers_hint": [
+        "EQIX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "EQIX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "fc267ea2-beb5-5e2a-ba08-d38fd9eb87a5",
+      "timestamp_utc": "2026-04-04T19:18:17+00:00",
+      "source": "yahoo_finance_australia",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ONnktODhvNXlocmVXS091VHYwWEJzeVBHd3lVNjZiLW1KendEd28tbzBRenBGTnNMRE82ZHlpMTJYZ05TVUR5WWpSb2lINnZINjVRczUzSWNnWkNBVW8wdEdR?oc=5",
+      "title": "Equinix, Inc. (EQIX) stock price, news, quote and history - Yahoo Finance Australia",
+      "body": "Equinix, Inc. (EQIX) stock price, news, quote and history Yahoo Finance Australia",
+      "author": null,
+      "language": "en",
+      "ticker": "EQIX",
+      "tickers_hint": [
+        "EQIX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance australia",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Australia",
+        "source_domain": "yahoofinanceaustralia.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "EQIX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "708709bb-806c-5447-b64e-af21c63f96d2",
+      "timestamp_utc": "2026-04-04T12:11:52+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/EQIX/earnings",
+      "title": "EQIX Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "EQIX Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "EQIX",
+      "tickers_hint": [
+        "EQIX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "EQIX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

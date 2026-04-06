@@ -1,0 +1,60 @@
+[
+  {
+    "id": "b9655bc1-dda6-534e-9f0f-fa540f40c0f3",
+    "timestamp_utc": "2026-04-02T16:00:22+00:00",
+    "source": "tipranks",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWJrUVNvdFNOT3JZclJQZWYyS2RJRW9adU5qYXM3SUZ2LVp0RUs0akhWemRMQzh2Z3l6X01RYTNvOUlMYjUwZWllNURPOUFlN2tQMnVlalg2SEM3cmxuMEpJSUVwZHFmbFJoSHRMUDFBcDZ0RjF5UFpvQXBnbUdhVm00UWJxTURGSmFyYzd6ZzFvSE1aU3J0Sy1RcnEtNlFFbmVmaXVn?oc=5",
+    "title": "“Cautious Attitude” Among Consumers Prompts Drop in Home Depot Stock (NYSE:HD) - TipRanks",
+    "body": "“Cautious Attitude” Among Consumers Prompts Drop in Home Depot Stock (NYSE:HD) TipRanks",
+    "author": null,
+    "language": "en",
+    "ticker": "HD",
+    "tickers_hint": [
+      "HD"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "tipranks.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "HD"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "13be707e-0169-51bb-ad58-bc91dcb3700a",
+    "timestamp_utc": "2026-04-02T21:45:06+00:00",
+    "source": "finance.yahoo.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcFk5WW5mRmRsTlFxU2U4SFJvQ1BLOG1CR1lpTWlnOWd0YnNDN01uYlpWamR6SkNtbnF6RHJ4YnlHQVdkOTFMaWdzNng1Rm11RndsTlh2MXZpeDVqb3VFQmZxN0xEVWExemdrYzJVR1NzclIycTgyZ1VDVEVDTndNNEVWNVI1SHdzMVpSU3hoTFJ2UDZj?oc=5",
+    "title": "Home Depot (HD) Stock Sinks As Market Gains: Here's Why - finance.yahoo.com",
+    "body": "Home Depot (HD) Stock Sinks As Market Gains: Here's Why finance.yahoo.com",
+    "author": null,
+    "language": "en",
+    "ticker": "HD",
+    "tickers_hint": [
+      "HD"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "finance.yahoo.com",
+      "source_domain": "financeyahoocom.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "HD"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

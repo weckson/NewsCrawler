@@ -1,0 +1,31 @@
+[
+  {
+    "id": "48bc0d59-65e2-5bf1-a3e8-c04e42b53cbe",
+    "timestamp_utc": "2026-04-03T08:18:49+00:00",
+    "source": "defense_world",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNE1MMFpLb09sUS1GUmhEcjk2bGE1UVZGblRsTFZjT1loOUNKU0JuQmY5LXFFakEtVkpxWE9TblE4ZFFzaFRmbU1TcXVSUm1FM2JaSXRWWGNZNXNWOVp4bzlmV1Rta3FYTzF4VktkVllJZlRnaHVuWjNwb1pyekJQTUFFczhBN3FwNnVFczdkOU5pdkVaZGFFRUJaS2RadDcyMmNUVV9kYUc2LUQ1QkxnQXlR?oc=5",
+    "title": "Dorato Capital Management Takes Position in Cardinal Health, Inc. $CAH - Defense World",
+    "body": "Dorato Capital Management Takes Position in Cardinal Health, Inc. $CAH Defense World",
+    "author": null,
+    "language": "en",
+    "ticker": "CAH",
+    "tickers_hint": [
+      "CAH"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "defense world",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Defense World",
+      "source_domain": "defenseworld.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "CAH"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

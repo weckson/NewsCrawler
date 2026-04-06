@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "165e4cae-d354-59ff-9f1c-bdf05bf61165",
+      "timestamp_utc": "2026-04-03T08:21:35+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pNzdMYTFtb3BYem9ZcllvUjRVVVlpb3JlZjk5bk00dGJGVEdCeHI4a0paYWpLb3NDc1FFZ2FVWVo3SzBFc09qWVdsV0NWeWs?oc=5",
+      "title": "Chubb Limited (CB) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Chubb Limited (CB) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "CB",
+      "tickers_hint": [
+        "CB"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CB"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "165e4cae-d354-59ff-9f1c-bdf05bf61165",
+      "timestamp_utc": "2026-04-03T08:21:35+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pNzdMYTFtb3BYem9ZcllvUjRVVVlpb3JlZjk5bk00dGJGVEdCeHI4a0paYWpLb3NDc1FFZ2FVWVo3SzBFc09qWVdsV0NWeWs?oc=5",
+      "title": "Chubb Limited (CB) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Chubb Limited (CB) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "CB",
+      "tickers_hint": [
+        "CB"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CB"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "cd6ceca8-f9d3-51e7-9134-2fdb679795de",
+      "timestamp_utc": "2026-04-03T18:13:56+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KbHJ0djFuN0lRSXJ6REZYeXJBOWdaRVZBdEdqcWtjV3RJV3QxNW1pajdWTnNaUV9rYkhWeHRmWGZEY2dmT0JGUlByM01icllkSnl6YjIwUzhScU1tME9TbzczUXhwUQ?oc=5",
+      "title": "CARR Apr 2026 42.500 put (CARR260417P00042500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "CARR Apr 2026 42.500 put (CARR260417P00042500) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "CARR",
+      "tickers_hint": [
+        "CARR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CARR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "cd6ceca8-f9d3-51e7-9134-2fdb679795de",
+      "timestamp_utc": "2026-04-03T18:13:56+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KbHJ0djFuN0lRSXJ6REZYeXJBOWdaRVZBdEdqcWtjV3RJV3QxNW1pajdWTnNaUV9rYkhWeHRmWGZEY2dmT0JGUlByM01icllkSnl6YjIwUzhScU1tME9TbzczUXhwUQ?oc=5",
+      "title": "CARR Apr 2026 42.500 put (CARR260417P00042500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "CARR Apr 2026 42.500 put (CARR260417P00042500) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "CARR",
+      "tickers_hint": [
+        "CARR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CARR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "17414453-8e60-5c08-9d50-e725ddc141f7",
+      "timestamp_utc": "2026-04-04T10:11:18+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yQU1FUWU4T0NnYU9PRHFYLVVLNjg4S0llRDJ1VVBvbTItdWgzSmk5aGxhTEdOTTdGcVd5TDZyd0VsTDJHTEFWUGpIRUszSFRR?oc=5",
+      "title": "Emerson Electric Co. (EMR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Emerson Electric Co. (EMR) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "EMR",
+      "tickers_hint": [
+        "EMR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "EMR"
+        ],
+        "alt_sources": [
+          "Yahoo! Finance Canada"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "17414453-8e60-5c08-9d50-e725ddc141f7",
+      "timestamp_utc": "2026-04-04T10:11:18+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yQU1FUWU4T0NnYU9PRHFYLVVLNjg4S0llRDJ1VVBvbTItdWgzSmk5aGxhTEdOTTdGcVd5TDZyd0VsTDJHTEFWUGpIRUszSFRR?oc=5",
+      "title": "Emerson Electric Co. (EMR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Emerson Electric Co. (EMR) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "EMR",
+      "tickers_hint": [
+        "EMR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "EMR"
+        ],
+        "alt_sources": [
+          "Yahoo! Finance Canada"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

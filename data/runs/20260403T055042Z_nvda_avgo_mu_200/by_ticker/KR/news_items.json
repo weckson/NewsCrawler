@@ -1,0 +1,89 @@
+[
+  {
+    "id": "ce233103-0b5f-548b-b2dd-83b8f6805bb4",
+    "timestamp_utc": "2026-04-02T00:15:00+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-kroger-kr-stock-trading-001526973.html",
+    "title": "Why Kroger (KR) Stock Is Trading Lower Today - Yahoo Finance",
+    "body": "Why Kroger (KR) Stock Is Trading Lower Today Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "KR",
+    "tickers_hint": [
+      "KR"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "KR"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "ee000c2a-ce03-58d2-9220-ecf31c059b9a",
+    "timestamp_utc": "2026-04-03T00:20:00+00:00",
+    "source": "indexbox",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcDlxTHBFT0p4MV9vMllLcnlZbnJLY1ZSUFVGdWR0VVhrSU5Wc0VjOTFoOVZmN01zTzRiSzlvbjAwN2RsMGt3NmEzOHZneVFXbG1JMnRJVjV0MUgxNXpTQzJoVUZNM3d0MTBJcTFubHhQZV9UMHg3bWdESDczNVZqM0VuQ2FPNVU?oc=5",
+    "title": "Kroger (KR) Stock Decline Linked to Albertsons Closures | Market Update 2026 - News and Statistics - IndexBox",
+    "body": "Kroger (KR) Stock Decline Linked to Albertsons Closures | Market Update 2026 - News and Statistics IndexBox",
+    "author": null,
+    "language": "en",
+    "ticker": "KR",
+    "tickers_hint": [
+      "KR"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "indexbox",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "IndexBox",
+      "source_domain": "indexbox.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "KR"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "ad2f2f84-a374-58f1-9f99-8e05a2de5ca0",
+    "timestamp_utc": "2026-04-02T15:25:33+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZXZmSEZDclZHbVB5YU1lVmZqSUk5UmpqLWhwZy0tXy1RTTZjRTJPYzd1UzdzNjRtOFJnWTY2TlJfajdaQlFNRHd5c1dnRkh3cHpwRVFvMUNFUWJFM215NHN2RldVX0VrUUIyQ2Y5OWFDT2JwU1hzV05VV2NlRnR0UDBBVmIzN3JTaklCaDd1ZEp2blluZldETWs3LU5jbm16M29N?oc=5",
+    "title": "Kroger (NYSE: KR) director granted deferred phantom stock units - Stock Titan",
+    "body": "Kroger (NYSE: KR) director granted deferred phantom stock units Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "KR",
+    "tickers_hint": [
+      "KR"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "KR"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

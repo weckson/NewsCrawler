@@ -1,0 +1,34 @@
+[
+  {
+    "id": "5fc180c9-2063-5972-98f4-34ecb8016282",
+    "timestamp_utc": "2026-04-02T20:51:00+00:00",
+    "source": "benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1PdGV6WHowaTk3aUFKQUpFUVF4THItM05jdi1qcV9jWU9fTjZMQ3JHTzhfNTUzcUJhUWc3NDhKQVR6YmZyeWZZeEJ3?oc=5",
+    "title": "Accenture PLC (ACN) Stock Price, Quote, News & History - Benzinga",
+    "body": "Accenture PLC (ACN) Stock Price, Quote, News & History Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "ACN",
+    "tickers_hint": [
+      "ACN"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "meta": {
+      "channel": "google_benzinga",
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "ACN"
+      ],
+      "alt_sources": [
+        "Benzinga"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

@@ -1,0 +1,414 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "ef642f1b-df11-510e-829e-c06908c9e02a",
+      "timestamp_utc": "2026-04-02T03:22:30+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765875/stz-jp-morgan-raises-price-target-amid-neutral-rating-stz-stock-news?mobile=true",
+      "title": "STZ: JP Morgan Raises Price Target Amid Neutral Rating | STZ Sto - GuruFocus",
+      "body": "STZ: JP Morgan Raises Price Target Amid Neutral Rating | STZ Sto GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "STZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7fa430c6-5d20-565c-88a1-94dd2db92986",
+      "timestamp_utc": "2026-04-02T14:52:26+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8768391/barclays-raises-price-target-for-constellation-brands-stz-to-151-stz-stock-news?mobile=true",
+      "title": "Barclays Raises Price Target for Constellation Brands (STZ) to $151 | STZ Stock News - GuruFocus",
+      "body": "Barclays Raises Price Target for Constellation Brands (STZ) to $151 | STZ Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "STZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "dfb0605f-9f08-515f-bbf1-ec4a2bfc7bec",
+      "timestamp_utc": "2026-04-02T12:02:14+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8766910/stz-needham-reiterates-buy-rating-with-180-target-price-stz-stock-news?mobile=true",
+      "title": "STZ: Needham Reiterates Buy Rating with $180 Target Price | STZ Stock News - GuruFocus",
+      "body": "STZ: Needham Reiterates Buy Rating with $180 Target Price | STZ Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "STZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "043648bc-ede9-52b8-924c-b39fe35bb947",
+      "timestamp_utc": "2026-04-01T16:19:23+00:00",
+      "source": "bitget.com",
+      "url": "https://www.bitget.com/amp/news/detail/12560605327189",
+      "title": "Earnings Outlook: Constellation Brands (STZ) Anticipates Lower Q4 Profits - bitget.com",
+      "body": "Earnings Outlook: Constellation Brands (STZ) Anticipates Lower Q4 Profits bitget.com",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "bitget.com",
+        "source_domain": "bitgetcom.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "STZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "79d598b9-077e-5eed-9416-1671296835fc",
+      "timestamp_utc": "2026-04-01T18:49:36+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765462/stz-ubs-maintains-buy-rating-and-raises-price-target-to-176-stz-stock-news?mobile=true",
+      "title": "STZ: UBS Maintains 'Buy' Rating and Raises Price Target to $176 - GuruFocus",
+      "body": "STZ: UBS Maintains 'Buy' Rating and Raises Price Target to $176 GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "STZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d88b56f7-56cc-5184-951f-eb49397050e9",
+      "timestamp_utc": "2026-04-02T10:03:01+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nisa-investment-advisors-llc-buys-8035-shares-of-constellation-brands-inc-stz-2026-04-02/",
+      "title": "Nisa Investment Advisors LLC Buys 8,035 Shares of Constellation Brands Inc $STZ - MarketBeat",
+      "body": "Nisa Investment Advisors LLC Buys 8,035 Shares of Constellation Brands Inc $STZ MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "STZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7556eb1c-fe8b-56f6-a4de-312f652e4397",
+      "timestamp_utc": "2026-04-01T20:29:34+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-constellation-brands-nysestz-stock-price-2026-04-01/",
+      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Constellation Brands (NYSE:STZ) Stock Price - MarketBeat",
+      "body": "JPMorgan Chase & Co. Issues Positive Forecast for Constellation Brands (NYSE:STZ) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "STZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "ef642f1b-df11-510e-829e-c06908c9e02a",
+      "timestamp_utc": "2026-04-02T03:22:30+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765875/stz-jp-morgan-raises-price-target-amid-neutral-rating-stz-stock-news?mobile=true",
+      "title": "STZ: JP Morgan Raises Price Target Amid Neutral Rating | STZ Sto - GuruFocus",
+      "body": "STZ: JP Morgan Raises Price Target Amid Neutral Rating | STZ Sto GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "STZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7fa430c6-5d20-565c-88a1-94dd2db92986",
+      "timestamp_utc": "2026-04-02T14:52:26+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8768391/barclays-raises-price-target-for-constellation-brands-stz-to-151-stz-stock-news?mobile=true",
+      "title": "Barclays Raises Price Target for Constellation Brands (STZ) to $151 | STZ Stock News - GuruFocus",
+      "body": "Barclays Raises Price Target for Constellation Brands (STZ) to $151 | STZ Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "STZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "dfb0605f-9f08-515f-bbf1-ec4a2bfc7bec",
+      "timestamp_utc": "2026-04-02T12:02:14+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8766910/stz-needham-reiterates-buy-rating-with-180-target-price-stz-stock-news?mobile=true",
+      "title": "STZ: Needham Reiterates Buy Rating with $180 Target Price | STZ Stock News - GuruFocus",
+      "body": "STZ: Needham Reiterates Buy Rating with $180 Target Price | STZ Stock News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "STZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "043648bc-ede9-52b8-924c-b39fe35bb947",
+      "timestamp_utc": "2026-04-01T16:19:23+00:00",
+      "source": "bitget.com",
+      "url": "https://www.bitget.com/amp/news/detail/12560605327189",
+      "title": "Earnings Outlook: Constellation Brands (STZ) Anticipates Lower Q4 Profits - bitget.com",
+      "body": "Earnings Outlook: Constellation Brands (STZ) Anticipates Lower Q4 Profits bitget.com",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "bitget.com",
+        "source_domain": "bitgetcom.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "STZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "79d598b9-077e-5eed-9416-1671296835fc",
+      "timestamp_utc": "2026-04-01T18:49:36+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765462/stz-ubs-maintains-buy-rating-and-raises-price-target-to-176-stz-stock-news?mobile=true",
+      "title": "STZ: UBS Maintains 'Buy' Rating and Raises Price Target to $176 - GuruFocus",
+      "body": "STZ: UBS Maintains 'Buy' Rating and Raises Price Target to $176 GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "STZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d88b56f7-56cc-5184-951f-eb49397050e9",
+      "timestamp_utc": "2026-04-02T10:03:01+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nisa-investment-advisors-llc-buys-8035-shares-of-constellation-brands-inc-stz-2026-04-02/",
+      "title": "Nisa Investment Advisors LLC Buys 8,035 Shares of Constellation Brands Inc $STZ - MarketBeat",
+      "body": "Nisa Investment Advisors LLC Buys 8,035 Shares of Constellation Brands Inc $STZ MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "STZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7556eb1c-fe8b-56f6-a4de-312f652e4397",
+      "timestamp_utc": "2026-04-01T20:29:34+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-constellation-brands-nysestz-stock-price-2026-04-01/",
+      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Constellation Brands (NYSE:STZ) Stock Price - MarketBeat",
+      "body": "JPMorgan Chase & Co. Issues Positive Forecast for Constellation Brands (NYSE:STZ) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "STZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

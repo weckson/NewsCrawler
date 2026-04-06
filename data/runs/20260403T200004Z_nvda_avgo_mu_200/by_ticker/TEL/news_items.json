@@ -1,0 +1,60 @@
+[
+  {
+    "id": "cfff5973-8cef-5fdc-a2fe-5586fe99007d",
+    "timestamp_utc": "2026-04-03T08:23:49+00:00",
+    "source": "defense_world",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV3ozb1JqQmR0NGxIWUlTMUd1T1NCU21OZG4xR2VtazY2WWJwdHNpMVBOODQ5SGpna1ZBdmIxZTdkekl3Y1dxVHBnWVQxaHNKdlcxQkVfMzBhUzFhRVpUTFAwdWgzenpwME5TNGNFaFJqajJxMXpTamV3UWw5Nl8td1pYQmRySXlJc1M2OEE1SnZ5a0pBekw1UDlyNDlmdDUyYVM3RmJBcF84R29pa19uQzVB?oc=5",
+    "title": "Dorato Capital Management Invests $586,000 in TE Connectivity Ltd. $TEL - Defense World",
+    "body": "Dorato Capital Management Invests $586,000 in TE Connectivity Ltd. $TEL Defense World",
+    "author": null,
+    "language": "en",
+    "ticker": "TEL",
+    "tickers_hint": [
+      "TEL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "defense world",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Defense World",
+      "source_domain": "defenseworld.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "TEL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "873ca192-d423-561a-92aa-ea214c94b697",
+    "timestamp_utc": "2026-04-02T19:56:09+00:00",
+    "source": "גלובס",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2o4NUJWaW1IWml2VzBzNm1oUzNvMnpZZHE5cF9DeVVxdDktXzgtMk9LOXg5OGhvZE5hSnhQb0FaaXFJQ3loZlo0dk9CZ3hveU1OaklfdTlJTmlQUzIyVVdveFBaRjhUcVlUMElHTDhyZ2NneHExY0VOekJRZDJBY3VER3Z0Zy1UR1pxRUp4dFc3RXZiUEtZRnJmV3ptb3BwT0E?oc=5",
+    "title": "Globes Online – Israel business news – Israel economic news – Israel banks – Tel Aviv Stock Exchange – Israel stocks –Israel shares – bonds – shekel - Israeli companies – Israel capital market - DLR-C0340.0M609 Shekel/dollar option - גלובס",
+    "body": "Globes Online – Israel business news – Israel economic news – Israel banks – Tel Aviv Stock Exchange – Israel stocks –Israel shares – bonds – shekel - Israeli companies – Israel capital market - DLR-C0340.0M609 Shekel/dollar option גלובס",
+    "author": null,
+    "language": "en",
+    "ticker": "TEL",
+    "tickers_hint": [
+      "TEL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "גלובס",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "גלובס",
+      "source_domain": ".com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "TEL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

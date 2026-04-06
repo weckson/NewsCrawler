@@ -1,0 +1,74 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "97e7df39-17dc-5b6a-aa45-bab8849228cb",
+      "timestamp_utc": "2026-04-03T13:10:07+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BZGZwUHBvMk41SXpRTndQRVpzb1Z2VUJ4VGRvZXlDdkRORkFLOWFzWmxzbWtVZDRUTURtbWc0ZnZoUDNwUUlMV1ZVMU5jc0ZvM3c?oc=5",
+      "title": "Garmin Ltd. (GRMN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Garmin Ltd. (GRMN) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "GRMN",
+      "tickers_hint": [
+        "GRMN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "GRMN"
+        ],
+        "alt_sources": [
+          "Yahoo Finance Singapore",
+          "Yahoo! Finance Canada"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "97e7df39-17dc-5b6a-aa45-bab8849228cb",
+      "timestamp_utc": "2026-04-03T13:10:07+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BZGZwUHBvMk41SXpRTndQRVpzb1Z2VUJ4VGRvZXlDdkRORkFLOWFzWmxzbWtVZDRUTURtbWc0ZnZoUDNwUUlMV1ZVMU5jc0ZvM3c?oc=5",
+      "title": "Garmin Ltd. (GRMN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Garmin Ltd. (GRMN) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "GRMN",
+      "tickers_hint": [
+        "GRMN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "GRMN"
+        ],
+        "alt_sources": [
+          "Yahoo Finance Singapore",
+          "Yahoo! Finance Canada"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

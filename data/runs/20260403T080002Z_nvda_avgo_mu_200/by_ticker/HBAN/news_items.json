@@ -1,0 +1,31 @@
+[
+  {
+    "id": "c67bdd98-2ac8-52e9-a52d-46ac1a6a2935",
+    "timestamp_utc": "2026-04-02T21:07:49+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd0RGQ3BKemtDbFpwTXNTNUxwT0Z3dU52YTZQSUxHajZSN2o5UjRWVlc2RGRJVjU5cHp6MzdXTk16dENvX0dkU3NraUp0ZFlCb1pfZm42dE45a1lEWnZmNHpkTmxIV2hhVWZIcTJLYnhWOEZ6bE8tV3J2c28zOTdBNnJSUUxsc1ZQTDBkSmItZFF2MFpaWmplaXlXbFQyX01qU0lkTEdBN3lwSjFMcjR2dHZ2T2xocDdZUXNhMWxKbw?oc=5",
+    "title": "Huntington Bancshares (HBAN) director reports tax withholding of 79,274 shares - Stock Titan",
+    "body": "Huntington Bancshares (HBAN) director reports tax withholding of 79,274 shares Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "HBAN",
+    "tickers_hint": [
+      "HBAN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "HBAN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

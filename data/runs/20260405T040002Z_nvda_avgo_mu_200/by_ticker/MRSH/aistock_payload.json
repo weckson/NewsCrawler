@@ -1,0 +1,356 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "19e3a2f2-1f69-50d6-8bd3-5ef7a8d0d9e1",
+      "timestamp_utc": "2026-04-03T12:08:03+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investment-story-shifting-marsh-mclennan-120803038.html",
+      "title": "How The Investment Story Is Shifting For Marsh McLennan (MRSH) As Analyst Views Diverge - Yahoo Finance",
+      "body": "How The Investment Story Is Shifting For Marsh McLennan (MRSH) As Analyst Views Diverge Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "MRSH",
+      "tickers_hint": [
+        "MRSH"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MRSH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1ad8c7ab-b1cf-5746-bf92-a8aab5a53a6f",
+      "timestamp_utc": "2026-04-03T19:07:24+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdTc3aFFmcE41b0FlenJxWi16b0ZGX1Rtb083dFFCbkUtNEg2ZDFEYnRsUGRsRVdhSnJTcmVBRVYtSGxLcmNzQm1NUFkwR2czdkVuTW5BbDJkQnhZakhnSUVBM2dWU005X0xOczZxc2U4SFFvU2xwUEFNbjgwTmNjUTlyTy1ZajVMako0dHZpRHpVM3pPRFBRblZmV0ZvMjlY?oc=5",
+      "title": "Is Marsh & McLennan (MRSH) Offering Value After A 27.5% One Year Share Price Slide? - Yahoo Finance",
+      "body": "Is Marsh & McLennan (MRSH) Offering Value After A 27.5% One Year Share Price Slide? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "MRSH",
+      "tickers_hint": [
+        "MRSH"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MRSH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ce77eb57-6e19-5478-848e-793f802dc2d6",
+      "timestamp_utc": "2026-04-04T09:01:06+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-spire-wealth-management-has-154000-stake-in-marsh-mclennan-companies-inc-mrsh-2026-04-04/",
+      "title": "Spire Wealth Management Has $154,000 Stake in Marsh & McLennan Companies, Inc. $MRSH - MarketBeat",
+      "body": "Spire Wealth Management Has $154,000 Stake in Marsh & McLennan Companies, Inc. $MRSH MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MRSH",
+      "tickers_hint": [
+        "MRSH"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MRSH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "13355cd7-bcf5-5545-9c9e-d7edcaa4b765",
+      "timestamp_utc": "2026-04-03T23:58:31+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/savingandinvesting/marsh-mclennan-companies-inc-mrsh-target-lowered-by-barclays-as-ai-selloff-seen-overdone/ar-AA1YG8C9?ocid=finance-verthp-feeds&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "title": "Marsh & McLennan Companies, Inc. (MRSH) target lowered by Barclays as AI selloff seen overdone - MSN",
+      "body": "Marsh & McLennan Companies, Inc. (MRSH) target lowered by Barclays as AI selloff seen overdone MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "MRSH",
+      "tickers_hint": [
+        "MRSH"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MRSH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "be4e3abb-42fc-5677-a84b-141b62ae85be",
+      "timestamp_utc": "2026-04-04T16:41:05+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/MRSH/earnings",
+      "title": "MRSH Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "MRSH Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "MRSH",
+      "tickers_hint": [
+        "MRSH"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MRSH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0cd990e7-1179-598a-ae92-d17b7a7a1325",
+      "timestamp_utc": "2026-04-03T07:55:01+00:00",
+      "source": "bitget",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82SkRERTh0bXpvYUdsTnZHbl9NeEZGdVpaemJXcGJzWk9GVVdKUkhleVVveDZ2TXZEakxrb3pqVEM3M3B4S29ETTRnbkN6ZUhQdjNpcG15eGF5eGpPaXfSAWNBVV95cUxQT3Z4WEtBLWZJaXlUZW5acUJjc01nX2NrY2RtZDdGZkxLcVAtSVBxN1Y0WTM5ZGFhdzc4bEtJQ3BtYVRNVmdBWDRZUm11OWc5a1gyMUxfdThLdEU2UFF2TlFDc3c?oc=5",
+      "title": "MRSH: A Tactical Buy on Underpriced Leadership Stability and Strategic Nuclear Catalysts - Bitget",
+      "body": "MRSH: A Tactical Buy on Underpriced Leadership Stability and Strategic Nuclear Catalysts Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "MRSH",
+      "tickers_hint": [
+        "MRSH"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MRSH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "19e3a2f2-1f69-50d6-8bd3-5ef7a8d0d9e1",
+      "timestamp_utc": "2026-04-03T12:08:03+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investment-story-shifting-marsh-mclennan-120803038.html",
+      "title": "How The Investment Story Is Shifting For Marsh McLennan (MRSH) As Analyst Views Diverge - Yahoo Finance",
+      "body": "How The Investment Story Is Shifting For Marsh McLennan (MRSH) As Analyst Views Diverge Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "MRSH",
+      "tickers_hint": [
+        "MRSH"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MRSH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1ad8c7ab-b1cf-5746-bf92-a8aab5a53a6f",
+      "timestamp_utc": "2026-04-03T19:07:24+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdTc3aFFmcE41b0FlenJxWi16b0ZGX1Rtb083dFFCbkUtNEg2ZDFEYnRsUGRsRVdhSnJTcmVBRVYtSGxLcmNzQm1NUFkwR2czdkVuTW5BbDJkQnhZakhnSUVBM2dWU005X0xOczZxc2U4SFFvU2xwUEFNbjgwTmNjUTlyTy1ZajVMako0dHZpRHpVM3pPRFBRblZmV0ZvMjlY?oc=5",
+      "title": "Is Marsh & McLennan (MRSH) Offering Value After A 27.5% One Year Share Price Slide? - Yahoo Finance",
+      "body": "Is Marsh & McLennan (MRSH) Offering Value After A 27.5% One Year Share Price Slide? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "MRSH",
+      "tickers_hint": [
+        "MRSH"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MRSH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ce77eb57-6e19-5478-848e-793f802dc2d6",
+      "timestamp_utc": "2026-04-04T09:01:06+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-spire-wealth-management-has-154000-stake-in-marsh-mclennan-companies-inc-mrsh-2026-04-04/",
+      "title": "Spire Wealth Management Has $154,000 Stake in Marsh & McLennan Companies, Inc. $MRSH - MarketBeat",
+      "body": "Spire Wealth Management Has $154,000 Stake in Marsh & McLennan Companies, Inc. $MRSH MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MRSH",
+      "tickers_hint": [
+        "MRSH"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MRSH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "13355cd7-bcf5-5545-9c9e-d7edcaa4b765",
+      "timestamp_utc": "2026-04-03T23:58:31+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/savingandinvesting/marsh-mclennan-companies-inc-mrsh-target-lowered-by-barclays-as-ai-selloff-seen-overdone/ar-AA1YG8C9?ocid=finance-verthp-feeds&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "title": "Marsh & McLennan Companies, Inc. (MRSH) target lowered by Barclays as AI selloff seen overdone - MSN",
+      "body": "Marsh & McLennan Companies, Inc. (MRSH) target lowered by Barclays as AI selloff seen overdone MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "MRSH",
+      "tickers_hint": [
+        "MRSH"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MRSH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "be4e3abb-42fc-5677-a84b-141b62ae85be",
+      "timestamp_utc": "2026-04-04T16:41:05+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/MRSH/earnings",
+      "title": "MRSH Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "MRSH Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "MRSH",
+      "tickers_hint": [
+        "MRSH"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MRSH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0cd990e7-1179-598a-ae92-d17b7a7a1325",
+      "timestamp_utc": "2026-04-03T07:55:01+00:00",
+      "source": "bitget",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82SkRERTh0bXpvYUdsTnZHbl9NeEZGdVpaemJXcGJzWk9GVVdKUkhleVVveDZ2TXZEakxrb3pqVEM3M3B4S29ETTRnbkN6ZUhQdjNpcG15eGF5eGpPaXfSAWNBVV95cUxQT3Z4WEtBLWZJaXlUZW5acUJjc01nX2NrY2RtZDdGZkxLcVAtSVBxN1Y0WTM5ZGFhdzc4bEtJQ3BtYVRNVmdBWDRZUm11OWc5a1gyMUxfdThLdEU2UFF2TlFDc3c?oc=5",
+      "title": "MRSH: A Tactical Buy on Underpriced Leadership Stability and Strategic Nuclear Catalysts - Bitget",
+      "body": "MRSH: A Tactical Buy on Underpriced Leadership Stability and Strategic Nuclear Catalysts Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "MRSH",
+      "tickers_hint": [
+        "MRSH"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MRSH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

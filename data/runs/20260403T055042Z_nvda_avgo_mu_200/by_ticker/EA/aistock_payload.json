@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "24d42644-682e-5601-9f5a-02fa9c5092e8",
+      "timestamp_utc": "2026-04-01T15:14:30+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRHNVWExJSENiU1NyblNUWmx0b0lPcXVITmhMYUhFVElfZTJfY3A1RzdYc1ZTX0w5YzIySVRSal95WGlaR2JlNnU4aUlYb0cwOS0ybUotSEVxekRJVTlyRHFiR2F1OUE2T2VFS0pOc3RYUDVrcWZmQkxFeDFvNXBHQ05RRTh3dERiWWwzcTVGbHBlVDBYRmFpaWVFeExMNW1S?oc=5",
+      "title": "Electronic Arts Inc. (EA): Billionaire Paul Tudor Jones Likes This Gaming Stock - Yahoo Finance",
+      "body": "Electronic Arts Inc. (EA): Billionaire Paul Tudor Jones Likes This Gaming Stock Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "EA",
+      "tickers_hint": [
+        "EA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "EA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b223dbd9-e09c-5b92-a137-7c976b1ecc8e",
+      "timestamp_utc": "2026-04-01T11:05:08+00:00",
+      "source": "marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-electronic-arts-inc-ea-stock-holdings-boosted-by-nisa-investment-advisors-llc-2026-04-01/",
+      "title": "Electronic Arts Inc. $EA Stock Holdings Boosted by Nisa Investment Advisors LLC - marketbeat.com",
+      "body": "Electronic Arts Inc. $EA Stock Holdings Boosted by Nisa Investment Advisors LLC marketbeat.com",
+      "author": null,
+      "language": "en",
+      "ticker": "EA",
+      "tickers_hint": [
+        "EA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "marketbeat.com",
+        "source_domain": "marketbeatcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "EA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "24d42644-682e-5601-9f5a-02fa9c5092e8",
+      "timestamp_utc": "2026-04-01T15:14:30+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRHNVWExJSENiU1NyblNUWmx0b0lPcXVITmhMYUhFVElfZTJfY3A1RzdYc1ZTX0w5YzIySVRSal95WGlaR2JlNnU4aUlYb0cwOS0ybUotSEVxekRJVTlyRHFiR2F1OUE2T2VFS0pOc3RYUDVrcWZmQkxFeDFvNXBHQ05RRTh3dERiWWwzcTVGbHBlVDBYRmFpaWVFeExMNW1S?oc=5",
+      "title": "Electronic Arts Inc. (EA): Billionaire Paul Tudor Jones Likes This Gaming Stock - Yahoo Finance",
+      "body": "Electronic Arts Inc. (EA): Billionaire Paul Tudor Jones Likes This Gaming Stock Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "EA",
+      "tickers_hint": [
+        "EA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "EA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b223dbd9-e09c-5b92-a137-7c976b1ecc8e",
+      "timestamp_utc": "2026-04-01T11:05:08+00:00",
+      "source": "marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-electronic-arts-inc-ea-stock-holdings-boosted-by-nisa-investment-advisors-llc-2026-04-01/",
+      "title": "Electronic Arts Inc. $EA Stock Holdings Boosted by Nisa Investment Advisors LLC - marketbeat.com",
+      "body": "Electronic Arts Inc. $EA Stock Holdings Boosted by Nisa Investment Advisors LLC marketbeat.com",
+      "author": null,
+      "language": "en",
+      "ticker": "EA",
+      "tickers_hint": [
+        "EA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "marketbeat.com",
+        "source_domain": "marketbeatcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "EA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

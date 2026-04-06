@@ -1,0 +1,652 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "590fb714-0131-5bd3-ab57-7908feffa57a",
+      "timestamp_utc": "2026-04-01T19:29:55+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ford-f-recalls-suvs-over-192955971.html",
+      "title": "Ford (F) Recalls SUVs Over Software Issue, Reports February Sales - Yahoo Finance",
+      "body": "Ford (F) Recalls SUVs Over Software Issue, Reports February Sales Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "F"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "be693b05-589c-5ae7-98bb-0e4d993c8b7d",
+      "timestamp_utc": "2026-04-02T20:36:17+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/04/51639432/ford-ceo-jim-farley-says-affordable-vehicle-to-compete-with-model-y-investors-want-to-know-when",
+      "title": "Ford CEO Jim Farley Says 'Affordable Vehicle To Compete With Model Y': Investors Want To Know When - Benzinga",
+      "body": "Ford CEO Jim Farley Says 'Affordable Vehicle To Compete With Model Y': Investors Want To Know When Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "F"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fc57cd25-a132-5f5f-8891-f1fbf7220dca",
+      "timestamp_utc": "2026-04-02T14:29:27+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/news/4572171-ford-q1-us-sales-down-nearly-9",
+      "title": "Ford Q1 U.S. sales down nearly 9% (F:NYSE) - Seeking Alpha",
+      "body": "Ford Motor (F) on Thursday reported a nearly ​9% decline in first-quarter U.S. ‌sales as the auto industry struggles amid higher vehicle prices and economic uncertainty.\n\nFord reported overall sales ⁠of ​457,315 vehicles for the ​quarter ended March 31.",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "F"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c2bc321f-3cd0-5997-a1e1-bab30fad69df",
+      "timestamp_utc": "2026-04-02T17:26:05+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcFlIdFFjQ2E0WjNTUkdYbktDbGJWTXdSbVFqY0hzUzA5N1hhbHdSejN0SUtuTFc3NmxsWk10TXZ3Q3ZUQWc1VzVWUXhvWGFhbnBlTFg4blVOTGNBbktwb1d1cTgtSUpNWnlFX3VqN0RCc3NKRFI3ckNNN1FkNjAweEFwTE9xQ3JXTmRFZzFJYkU3LTRHUHFTdTBYYmxNb0JzOC1MSE5R?oc=5",
+      "title": "Ford Sales Fall 8.8% As EV Demand Collapses - Benzinga",
+      "body": "Ford Sales Fall 8.8% As EV Demand Collapses Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "F"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a4c569cf-b5de-5bfc-8ee1-8199746ff45b",
+      "timestamp_utc": "2026-04-02T14:44:38+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8768415/ford-motor-company-f-reports-first-quarter-2026-us-sales-performance",
+      "title": "Ford Motor Company (F) Reports First Quarter 2026 U.S. Sales Per - GuruFocus",
+      "body": "Ford Motor Company (F) Reports First Quarter 2026 U.S. Sales Per GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "F"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e7403082-c7e7-514d-9118-40ebbee23dd9",
+      "timestamp_utc": "2026-04-02T13:17:37+00:00",
+      "source": "stock_titan",
+      "url": "https://www.stocktitan.net/sec-filings/F/8-k-ford-motor-co-reports-material-event-5ed043e6d68e.html",
+      "title": "Ford (NYSE: F) grows Q1 2026 retail share with trucks and big SUVs - Stock Titan",
+      "body": "Ford Mtr Co Del NYSE:F View F Stock Overview → F Rankings #319 Ranked by Market Cap #514 Ranked by Dividends #886 52-Week Gainer #1622 YTD Gainer #1525 Monthly Gainer #1939 Ranked by Short %Change F Latest News Mar 31, 2026 Ford and onX Give Owners a Complimentary Year of Off-Road Navigation Mar 27, 2026 Ford Issues 2026 Proxy Statement, Sets Virtual Annual Meeting for May 14 Mar 23, 2026 Ford Motor Company Announces Details for Q1 2026 Earnings Conference Call Mar 23, 2026 Ford and Major League Baseball Unite to Celebrate America’s Pastime and the People Who Power It Feb 10, 2026 Ford Reports Fourth-Quarter, Full-Year 2025 Financial Results F Latest SEC Filings Apr 2, 2026 [Form 4] FORD MOTOR CO Insider Trading Activity Mar 27, 2026 [ARS] FORD MOTOR CO SEC Filing Mar 27, 2026 [DEF 14A] FORD MOTOR CO Definitive Proxy Statement Mar 26, 2026 [SCHEDULE 13G/A] FORD MOTOR CO Amended Passive Investment Disclosure Mar 13, 2026 [8-K] FORD MOTOR CO Reports Material Event F Stock Data Market Cap 46.85B Float 3.90B Industry Auto Manufacturers Sector Motor Vehicles & Passenger Car Bodies Website Link Country United States City DEARBORN",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "F"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "321ef944-a843-5c1f-8dc5-e4b87adeca15",
+      "timestamp_utc": "2026-04-02T10:03:01+00:00",
+      "source": "marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nisa-investment-advisors-llc-raises-position-in-ford-motor-company-f-2026-04-02/",
+      "title": "Nisa Investment Advisors LLC Raises Position in Ford Motor Company $F - marketbeat.com",
+      "body": "Nisa Investment Advisors LLC Raises Position in Ford Motor Company $F marketbeat.com",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "marketbeat.com",
+        "source_domain": "marketbeatcom.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "F"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "bee0d55f-e074-5b96-914f-bbe2def03bfb",
+      "timestamp_utc": "2026-04-01T21:37:46+00:00",
+      "source": "marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/ford-motor-nysef-stock-price-up-13-heres-why-2026-04-01/",
+      "title": "Ford Motor (NYSE:F) Stock Price Up 1.3% - Here's Why - marketbeat.com",
+      "body": "Ford Motor (NYSE:F) Stock Price Up 1.3% - Here's Why marketbeat.com",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "marketbeat.com",
+        "source_domain": "marketbeatcom.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "F"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "24c6b35c-773c-5053-8ea8-e66a41ff41e7",
+      "timestamp_utc": "2026-04-01T07:35:16+00:00",
+      "source": "marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-brookstone-capital-management-decreases-stock-position-in-ford-motor-company-f-2026-04-01/",
+      "title": "Brookstone Capital Management Decreases Stock Position in Ford Motor Company $F - marketbeat.com",
+      "body": "Brookstone Capital Management Decreases Stock Position in Ford Motor Company $F marketbeat.com",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "marketbeat.com",
+        "source_domain": "marketbeatcom.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "F"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f8c2a144-48ee-5159-8db3-eb2b8d4e4df2",
+      "timestamp_utc": "2026-04-02T20:30:57+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQmJHZkpKN0RLWmxjakZnSlJ6U0ZkQWhGcUhiUktYTmRXVks3SEVZbFhnQXl0cGhORC1QQmtDLVJ6SzgzVlJaLW9CbFVqUEZXV0RtS1BiVDlfZUxsUF9DMEJxM2txdHZ6LUN0VXZpRHI2bU9IWEJRZURMN0ZlcHNSR0p5U0M3REZvX3N1MUNJb3Rhb1ZhaWpXVk9uUjN5MUNXTTRVNkZCRQ?oc=5",
+      "title": "Ford (F) president settles RSUs; 123,036 shares withheld for taxes - Stock Titan",
+      "body": "Ford (F) president settles RSUs; 123,036 shares withheld for taxes Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "F"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b4dbdcdb-8aca-5412-900b-09935b44f82f",
+      "timestamp_utc": "2026-04-01T19:54:24+00:00",
+      "source": "ad_hoc_news",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM2hmZXJuYURYcFZTMFBKWjlVT3BRRU1ZTTVWbXp3NTJBRmZDSlpNSDI3ZGFUaERjZjZnZkJXcklGb2VvQTBpelRrR1NDc0JYYUIyOEMxTHNudG9SbmlzZTdMNEM5YjUwXzZYczhibHF2cHkyd3ZfOGdOOEZOMFZLR2g3TnppbWdqak43SWJFTVpQeVA5Rno2TUtOVl9qdi15Tk5rUG1KbjduR2tEcmEtRE5obG5jNTRpMGRYekdDc3hrZDMz?oc=5",
+      "title": "Ford Motor Co Stock: Navigating Electric Transition and Core Strengths in a Competitive Auto Landsca - AD HOC NEWS",
+      "body": "Ford Motor Co Stock: Navigating Electric Transition and Core Strengths in a Competitive Auto Landsca AD HOC NEWS",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "ad hoc news",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "AD HOC NEWS",
+        "source_domain": "adhocnews.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "F"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "590fb714-0131-5bd3-ab57-7908feffa57a",
+      "timestamp_utc": "2026-04-01T19:29:55+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ford-f-recalls-suvs-over-192955971.html",
+      "title": "Ford (F) Recalls SUVs Over Software Issue, Reports February Sales - Yahoo Finance",
+      "body": "Ford (F) Recalls SUVs Over Software Issue, Reports February Sales Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "F"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "be693b05-589c-5ae7-98bb-0e4d993c8b7d",
+      "timestamp_utc": "2026-04-02T20:36:17+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/04/51639432/ford-ceo-jim-farley-says-affordable-vehicle-to-compete-with-model-y-investors-want-to-know-when",
+      "title": "Ford CEO Jim Farley Says 'Affordable Vehicle To Compete With Model Y': Investors Want To Know When - Benzinga",
+      "body": "Ford CEO Jim Farley Says 'Affordable Vehicle To Compete With Model Y': Investors Want To Know When Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "F"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fc57cd25-a132-5f5f-8891-f1fbf7220dca",
+      "timestamp_utc": "2026-04-02T14:29:27+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/news/4572171-ford-q1-us-sales-down-nearly-9",
+      "title": "Ford Q1 U.S. sales down nearly 9% (F:NYSE) - Seeking Alpha",
+      "body": "Ford Motor (F) on Thursday reported a nearly ​9% decline in first-quarter U.S. ‌sales as the auto industry struggles amid higher vehicle prices and economic uncertainty.\n\nFord reported overall sales ⁠of ​457,315 vehicles for the ​quarter ended March 31.",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "F"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c2bc321f-3cd0-5997-a1e1-bab30fad69df",
+      "timestamp_utc": "2026-04-02T17:26:05+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcFlIdFFjQ2E0WjNTUkdYbktDbGJWTXdSbVFqY0hzUzA5N1hhbHdSejN0SUtuTFc3NmxsWk10TXZ3Q3ZUQWc1VzVWUXhvWGFhbnBlTFg4blVOTGNBbktwb1d1cTgtSUpNWnlFX3VqN0RCc3NKRFI3ckNNN1FkNjAweEFwTE9xQ3JXTmRFZzFJYkU3LTRHUHFTdTBYYmxNb0JzOC1MSE5R?oc=5",
+      "title": "Ford Sales Fall 8.8% As EV Demand Collapses - Benzinga",
+      "body": "Ford Sales Fall 8.8% As EV Demand Collapses Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "F"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a4c569cf-b5de-5bfc-8ee1-8199746ff45b",
+      "timestamp_utc": "2026-04-02T14:44:38+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8768415/ford-motor-company-f-reports-first-quarter-2026-us-sales-performance",
+      "title": "Ford Motor Company (F) Reports First Quarter 2026 U.S. Sales Per - GuruFocus",
+      "body": "Ford Motor Company (F) Reports First Quarter 2026 U.S. Sales Per GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "F"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e7403082-c7e7-514d-9118-40ebbee23dd9",
+      "timestamp_utc": "2026-04-02T13:17:37+00:00",
+      "source": "stock_titan",
+      "url": "https://www.stocktitan.net/sec-filings/F/8-k-ford-motor-co-reports-material-event-5ed043e6d68e.html",
+      "title": "Ford (NYSE: F) grows Q1 2026 retail share with trucks and big SUVs - Stock Titan",
+      "body": "Ford Mtr Co Del NYSE:F View F Stock Overview → F Rankings #319 Ranked by Market Cap #514 Ranked by Dividends #886 52-Week Gainer #1622 YTD Gainer #1525 Monthly Gainer #1939 Ranked by Short %Change F Latest News Mar 31, 2026 Ford and onX Give Owners a Complimentary Year of Off-Road Navigation Mar 27, 2026 Ford Issues 2026 Proxy Statement, Sets Virtual Annual Meeting for May 14 Mar 23, 2026 Ford Motor Company Announces Details for Q1 2026 Earnings Conference Call Mar 23, 2026 Ford and Major League Baseball Unite to Celebrate America’s Pastime and the People Who Power It Feb 10, 2026 Ford Reports Fourth-Quarter, Full-Year 2025 Financial Results F Latest SEC Filings Apr 2, 2026 [Form 4] FORD MOTOR CO Insider Trading Activity Mar 27, 2026 [ARS] FORD MOTOR CO SEC Filing Mar 27, 2026 [DEF 14A] FORD MOTOR CO Definitive Proxy Statement Mar 26, 2026 [SCHEDULE 13G/A] FORD MOTOR CO Amended Passive Investment Disclosure Mar 13, 2026 [8-K] FORD MOTOR CO Reports Material Event F Stock Data Market Cap 46.85B Float 3.90B Industry Auto Manufacturers Sector Motor Vehicles & Passenger Car Bodies Website Link Country United States City DEARBORN",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "F"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "321ef944-a843-5c1f-8dc5-e4b87adeca15",
+      "timestamp_utc": "2026-04-02T10:03:01+00:00",
+      "source": "marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nisa-investment-advisors-llc-raises-position-in-ford-motor-company-f-2026-04-02/",
+      "title": "Nisa Investment Advisors LLC Raises Position in Ford Motor Company $F - marketbeat.com",
+      "body": "Nisa Investment Advisors LLC Raises Position in Ford Motor Company $F marketbeat.com",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "marketbeat.com",
+        "source_domain": "marketbeatcom.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "F"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "bee0d55f-e074-5b96-914f-bbe2def03bfb",
+      "timestamp_utc": "2026-04-01T21:37:46+00:00",
+      "source": "marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/ford-motor-nysef-stock-price-up-13-heres-why-2026-04-01/",
+      "title": "Ford Motor (NYSE:F) Stock Price Up 1.3% - Here's Why - marketbeat.com",
+      "body": "Ford Motor (NYSE:F) Stock Price Up 1.3% - Here's Why marketbeat.com",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "marketbeat.com",
+        "source_domain": "marketbeatcom.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "F"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "24c6b35c-773c-5053-8ea8-e66a41ff41e7",
+      "timestamp_utc": "2026-04-01T07:35:16+00:00",
+      "source": "marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-brookstone-capital-management-decreases-stock-position-in-ford-motor-company-f-2026-04-01/",
+      "title": "Brookstone Capital Management Decreases Stock Position in Ford Motor Company $F - marketbeat.com",
+      "body": "Brookstone Capital Management Decreases Stock Position in Ford Motor Company $F marketbeat.com",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "marketbeat.com",
+        "source_domain": "marketbeatcom.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "F"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f8c2a144-48ee-5159-8db3-eb2b8d4e4df2",
+      "timestamp_utc": "2026-04-02T20:30:57+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQmJHZkpKN0RLWmxjakZnSlJ6U0ZkQWhGcUhiUktYTmRXVks3SEVZbFhnQXl0cGhORC1QQmtDLVJ6SzgzVlJaLW9CbFVqUEZXV0RtS1BiVDlfZUxsUF9DMEJxM2txdHZ6LUN0VXZpRHI2bU9IWEJRZURMN0ZlcHNSR0p5U0M3REZvX3N1MUNJb3Rhb1ZhaWpXVk9uUjN5MUNXTTRVNkZCRQ?oc=5",
+      "title": "Ford (F) president settles RSUs; 123,036 shares withheld for taxes - Stock Titan",
+      "body": "Ford (F) president settles RSUs; 123,036 shares withheld for taxes Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "F"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b4dbdcdb-8aca-5412-900b-09935b44f82f",
+      "timestamp_utc": "2026-04-01T19:54:24+00:00",
+      "source": "ad_hoc_news",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM2hmZXJuYURYcFZTMFBKWjlVT3BRRU1ZTTVWbXp3NTJBRmZDSlpNSDI3ZGFUaERjZjZnZkJXcklGb2VvQTBpelRrR1NDc0JYYUIyOEMxTHNudG9SbmlzZTdMNEM5YjUwXzZYczhibHF2cHkyd3ZfOGdOOEZOMFZLR2g3TnppbWdqak43SWJFTVpQeVA5Rno2TUtOVl9qdi15Tk5rUG1KbjduR2tEcmEtRE5obG5jNTRpMGRYekdDc3hrZDMz?oc=5",
+      "title": "Ford Motor Co Stock: Navigating Electric Transition and Core Strengths in a Competitive Auto Landsca - AD HOC NEWS",
+      "body": "Ford Motor Co Stock: Navigating Electric Transition and Core Strengths in a Competitive Auto Landsca AD HOC NEWS",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "ad hoc news",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "AD HOC NEWS",
+        "source_domain": "adhocnews.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "F"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

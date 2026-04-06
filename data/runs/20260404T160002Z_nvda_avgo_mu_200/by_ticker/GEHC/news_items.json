@@ -1,0 +1,60 @@
+[
+  {
+    "id": "fefb4e8a-eade-5eb6-8920-fd7787a2618d",
+    "timestamp_utc": "2026-04-04T11:44:58+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-perpetual-ltd-buys-shares-of-459112-ge-healthcare-technologies-inc-gehc-2026-04-04/",
+    "title": "Perpetual Ltd Buys Shares of 459,112 GE HealthCare Technologies Inc. $GEHC - MarketBeat",
+    "body": "Perpetual Ltd Buys Shares of 459,112 GE HealthCare Technologies Inc. $GEHC MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "GEHC",
+    "tickers_hint": [
+      "GEHC"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "GEHC"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "2bd05f6f-fb47-5d1b-8c54-2f5edbb0cba0",
+    "timestamp_utc": "2026-04-02T17:39:22+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wWEoxRElMWVNQY0poR1pQWmRaeWVjX0lNRHc0cjJmeTlkcENvNm1lSmV5MW5Pb0FGLTNzMWdXd1JXUk1kVEV2SGhGaER3V0xFRjdnSVQ2SlFuT3RBc3plRlZ6eTUtUQ?oc=5",
+    "title": "GEHC Apr 2026 75.000 put (GEHC260424P00075000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "body": "GEHC Apr 2026 75.000 put (GEHC260424P00075000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "author": null,
+    "language": "en",
+    "ticker": "GEHC",
+    "tickers_hint": [
+      "GEHC"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo! finance canada",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "GEHC"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

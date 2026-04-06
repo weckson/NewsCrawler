@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "22c4172d-72bb-5d07-abf5-fbe723592604",
+      "timestamp_utc": "2026-04-03T12:31:50+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/jpmorgan-stock-jpm-looks-undervalued-despite-ai-and-apple-card-tailwinds",
+      "title": "JPMorgan Stock (JPM) Looks Undervalued Despite AI and Apple Card Tailwinds - TipRanks",
+      "body": "JPMorgan Stock (JPM) Looks Undervalued Despite AI and Apple Card Tailwinds TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6157d831-3cbc-5c61-baed-211450ff2557",
+      "timestamp_utc": "2026-04-02T09:14:49+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-bought-by-lvw-advisors-llc-2026-04-02/",
+      "title": "JPMorgan Chase & Co. $JPM Shares Bought by LVW Advisors LLC - MarketBeat",
+      "body": "JPMorgan Chase & Co. $JPM Shares Bought by LVW Advisors LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "22c4172d-72bb-5d07-abf5-fbe723592604",
+      "timestamp_utc": "2026-04-03T12:31:50+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/jpmorgan-stock-jpm-looks-undervalued-despite-ai-and-apple-card-tailwinds",
+      "title": "JPMorgan Stock (JPM) Looks Undervalued Despite AI and Apple Card Tailwinds - TipRanks",
+      "body": "JPMorgan Stock (JPM) Looks Undervalued Despite AI and Apple Card Tailwinds TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6157d831-3cbc-5c61-baed-211450ff2557",
+      "timestamp_utc": "2026-04-02T09:14:49+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-bought-by-lvw-advisors-llc-2026-04-02/",
+      "title": "JPMorgan Chase & Co. $JPM Shares Bought by LVW Advisors LLC - MarketBeat",
+      "body": "JPMorgan Chase & Co. $JPM Shares Bought by LVW Advisors LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

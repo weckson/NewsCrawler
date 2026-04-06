@@ -1,0 +1,246 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "fee51c1a-d656-58d9-886f-ee0995caa83a",
+      "timestamp_utc": "2026-04-04T04:34:50+00:00",
+      "source": "investing.com",
+      "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-hca-healthcare-stock-overweight-rating-93CH-4541540",
+      "title": "Cantor Fitzgerald reiterates HCA Healthcare stock Overweight rating - Investing.com",
+      "body": "Cantor Fitzgerald reiterates HCA Healthcare stock Overweight rating Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "HCA",
+      "tickers_hint": [
+        "HCA"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HCA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1bec9e4c-440a-57d5-8f45-37b27fb80eee",
+      "timestamp_utc": "2026-04-04T09:23:23+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/HCA/news",
+      "title": "HCA Stock News Today | Earnings, Events & Price Alerts - Intellectia AI",
+      "body": "HCA Stock News Today | Earnings, Events & Price Alerts Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "HCA",
+      "tickers_hint": [
+        "HCA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HCA"
+        ],
+        "alt_sources": [
+          "Intellectia AI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "31e2a41b-d9af-5c43-87a4-45b1b5fa5856",
+      "timestamp_utc": "2026-04-03T18:19:00+00:00",
+      "source": "investor's_business_daily",
+      "url": "https://www.investors.com/research/ibd-stock-of-the-day/hca-stock-of-the-day-ai-winner-palantir/",
+      "title": "'AI Winner' HCA, Stock Of The Day, Gets Healthy With Palantir - Investor's Business Daily",
+      "body": "About Us Reviews Site Map Your Ad Choices Advertising Contact us IBD Stock Charts IBD Stock Checkup Stock Quotes Stock Market Today The Big Picture My Stock Lists Terms of Use Privacy Notice Accessibility",
+      "author": null,
+      "language": "en",
+      "ticker": "HCA",
+      "tickers_hint": [
+        "HCA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "investor's business daily",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investor's Business Daily",
+        "source_domain": "investorsbusinessdaily.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HCA"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b62aac4c-ea3f-594e-9d63-651440e48190",
+      "timestamp_utc": "2026-04-03T18:34:15+00:00",
+      "source": "ad_hoc_news",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPallqeHhfTHFRUWUyX0sxODBMOXlkSkpuRE44aVA1aVRPY094Ujh3bFE2cHJFS0Y4UlBWTENSTS1jd1Z4NE5xUEhoSHhwOGtpaUVFM1gtRGlwNFZoOE5MZHQya1hsWV9sVnFOUUR2clhLNXYxYm02azBLeGtMLW5PNDl4VmhhZTE2R2lHekdtRS1hd0VwSXJlWFBmYThNQ2p3dGx4YUwwamYydU5pLUVxUkt0bUxkQk5kemNJ?oc=5",
+      "title": "HCA Healthcare stock: Strong growth outlook amid healthcare shifts - AD HOC NEWS",
+      "body": "HCA Healthcare stock: Strong growth outlook amid healthcare shifts AD HOC NEWS",
+      "author": null,
+      "language": "en",
+      "ticker": "HCA",
+      "tickers_hint": [
+        "HCA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "ad hoc news",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "AD HOC NEWS",
+        "source_domain": "adhocnews.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HCA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "fee51c1a-d656-58d9-886f-ee0995caa83a",
+      "timestamp_utc": "2026-04-04T04:34:50+00:00",
+      "source": "investing.com",
+      "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-hca-healthcare-stock-overweight-rating-93CH-4541540",
+      "title": "Cantor Fitzgerald reiterates HCA Healthcare stock Overweight rating - Investing.com",
+      "body": "Cantor Fitzgerald reiterates HCA Healthcare stock Overweight rating Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "HCA",
+      "tickers_hint": [
+        "HCA"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HCA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1bec9e4c-440a-57d5-8f45-37b27fb80eee",
+      "timestamp_utc": "2026-04-04T09:23:23+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/HCA/news",
+      "title": "HCA Stock News Today | Earnings, Events & Price Alerts - Intellectia AI",
+      "body": "HCA Stock News Today | Earnings, Events & Price Alerts Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "HCA",
+      "tickers_hint": [
+        "HCA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HCA"
+        ],
+        "alt_sources": [
+          "Intellectia AI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "31e2a41b-d9af-5c43-87a4-45b1b5fa5856",
+      "timestamp_utc": "2026-04-03T18:19:00+00:00",
+      "source": "investor's_business_daily",
+      "url": "https://www.investors.com/research/ibd-stock-of-the-day/hca-stock-of-the-day-ai-winner-palantir/",
+      "title": "'AI Winner' HCA, Stock Of The Day, Gets Healthy With Palantir - Investor's Business Daily",
+      "body": "About Us Reviews Site Map Your Ad Choices Advertising Contact us IBD Stock Charts IBD Stock Checkup Stock Quotes Stock Market Today The Big Picture My Stock Lists Terms of Use Privacy Notice Accessibility",
+      "author": null,
+      "language": "en",
+      "ticker": "HCA",
+      "tickers_hint": [
+        "HCA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "investor's business daily",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investor's Business Daily",
+        "source_domain": "investorsbusinessdaily.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HCA"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b62aac4c-ea3f-594e-9d63-651440e48190",
+      "timestamp_utc": "2026-04-03T18:34:15+00:00",
+      "source": "ad_hoc_news",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPallqeHhfTHFRUWUyX0sxODBMOXlkSkpuRE44aVA1aVRPY094Ujh3bFE2cHJFS0Y4UlBWTENSTS1jd1Z4NE5xUEhoSHhwOGtpaUVFM1gtRGlwNFZoOE5MZHQya1hsWV9sVnFOUUR2clhLNXYxYm02azBLeGtMLW5PNDl4VmhhZTE2R2lHekdtRS1hd0VwSXJlWFBmYThNQ2p3dGx4YUwwamYydU5pLUVxUkt0bUxkQk5kemNJ?oc=5",
+      "title": "HCA Healthcare stock: Strong growth outlook amid healthcare shifts - AD HOC NEWS",
+      "body": "HCA Healthcare stock: Strong growth outlook amid healthcare shifts AD HOC NEWS",
+      "author": null,
+      "language": "en",
+      "ticker": "HCA",
+      "tickers_hint": [
+        "HCA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "ad hoc news",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "AD HOC NEWS",
+        "source_domain": "adhocnews.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HCA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

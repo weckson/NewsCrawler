@@ -1,0 +1,60 @@
+[
+  {
+    "id": "50768558-e646-5cf5-8314-94ab80d6f9b0",
+    "timestamp_utc": "2026-04-02T23:15:00+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8769098/sherwinwilliams-shw-analyst-rating-update-by-ubs-price-target-lowered-shw-stock-news?mobile=true",
+    "title": "Sherwin-Williams (SHW) Analyst Rating Update by UBS: Price Targe - GuruFocus",
+    "body": "Sherwin-Williams (SHW) Analyst Rating Update by UBS: Price Targe GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "SHW",
+    "tickers_hint": [
+      "SHW"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "SHW"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "7063b34c-82ce-5324-98cd-8ee8fa4bd1c3",
+    "timestamp_utc": "2026-04-02T19:39:01+00:00",
+    "source": "marketbeat.com",
+    "url": "https://www.marketbeat.com/instant-alerts/ubs-group-issues-pessimistic-forecast-for-sherwin-williams-nyseshw-stock-price-2026-04-02/",
+    "title": "UBS Group Issues Pessimistic Forecast for Sherwin-Williams (NYSE:SHW) Stock Price - marketbeat.com",
+    "body": "UBS Group Issues Pessimistic Forecast for Sherwin-Williams (NYSE:SHW) Stock Price marketbeat.com",
+    "author": null,
+    "language": "en",
+    "ticker": "SHW",
+    "tickers_hint": [
+      "SHW"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "marketbeat.com",
+      "source_domain": "marketbeatcom.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "SHW"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

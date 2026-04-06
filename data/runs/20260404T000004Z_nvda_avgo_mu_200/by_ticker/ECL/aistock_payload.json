@@ -1,0 +1,542 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "37f06cc4-36fe-5912-af3e-147b08bd0312",
+      "timestamp_utc": "2026-04-02T21:12:46+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ1ZfSkVVQWd1YlYwY3oyR0tfRTNzbWtralJheTRySWd6ZXRTcy1DOVFWcmV2ZTh1TzlZMlFORVFGN3JoUFhPc2tOdkMwVkxmMkVqT2xRYm1hSnBoQy1HaEJIc0JRckF1OFFGa05HdDhwOFJaN0JmNVdOcE55YnFGaFlyWFdaVGIwQjgzeURYQkExbHNvWEdkYWw0M3NyTVlxUWtZX0t3?oc=5",
+      "title": "Ecolab (NYSE: ECL) director Reich receives 137.82-share stock award - Stock Titan",
+      "body": "Ecolab (NYSE: ECL) director Reich receives 137.82-share stock award Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ECL",
+      "tickers_hint": [
+        "ECL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ECL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0fac4ac2-5cef-54e6-a31e-3f064106cbf1",
+      "timestamp_utc": "2026-04-02T21:08:04+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWkwtaWFGUXhHSWUzMUpnVTY3SmprWXlGM0N5X2U0Q1RkYjhLeGg5U1J4MHJTMURGbDFJQi1YcXJUZ1BIUVczek0tUUFSeDZyTHYyalZTTVlnZ3lmOWxDQTJXTTRSaTNMa0NhTGg2ajA1WUthRjA4bDcwMWxRQjFTY0c2a0c1TVFZWXl2NUNlRjY3YTl3cGdLWEJRdE5RN3RwQk1Xc1dB?oc=5",
+      "title": "Ecolab (NYSE: ECL) director adds shares through stock award grant - Stock Titan",
+      "body": "Ecolab (NYSE: ECL) director adds shares through stock award grant Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ECL",
+      "tickers_hint": [
+        "ECL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ECL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d9c87ee4-09d9-590b-ab93-fe54467ec04a",
+      "timestamp_utc": "2026-04-02T21:04:55+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaERYeUxiR0VyQllVMEF0WlRKMHlBMFk3MjdmNmJVdHhnRnRValpBbGIwUjQwbkpxaE0xRG1QRGc0dXJXNGR1NC1HWnBSdzZfN3BlZzZmZ3JKMV9sVzlKMVZGNmFOM0p2cHVUVmY1OEp3dnF5cW8zd3UtMVRjLWlQZmc3MkZGRmJyTWdYZEt4dVlNV3hxSEpVTWIwSlkzMGZ4ZVVzdVNB?oc=5",
+      "title": "Director adds Ecolab (NYSE: ECL) shares through stock awards - Stock Titan",
+      "body": "Director adds Ecolab (NYSE: ECL) shares through stock awards Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ECL",
+      "tickers_hint": [
+        "ECL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ECL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6d9a37fd-6dd2-57b5-9b20-125a5978a1b5",
+      "timestamp_utc": "2026-04-02T21:03:16+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbi1ZSVZOUk1BSzNOeFVUTG5JOVpTcklSTGJuNDhyd0tVcTFhczdkaERELTB5WTVGMjIzVHNadG1JQUVNR2VsdjFhVE5YeHpRUU1abXpIM0F0cDlHZXU0TEV1ZGI0VGxWbGgySzVLTTF3RnI3ZFBvMHJ1TjlmRkJkVHZ1T3VuOXkwTTU0RDkxRkFkNjVTSVVpMlpoWEpQTVNrQlFNTG9n?oc=5",
+      "title": "Director Michael Larson receives Ecolab (NYSE: ECL) 137.82-share award - Stock Titan",
+      "body": "Director Michael Larson receives Ecolab (NYSE: ECL) 137.82-share award Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ECL",
+      "tickers_hint": [
+        "ECL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ECL"
+        ],
+        "alt_sources": [
+          "Stock Titan"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e951a0bb-9579-5c76-9656-2c7e1ddecc25",
+      "timestamp_utc": "2026-04-02T21:01:30+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONV9jVC14NVlYVEJZVEtRNU5TSVd1S3pRN3ZialllWVJsYndxWm1PcTA1cjY0TUZkVUJYRF93UkFpOWJoRGtQN0lXbnJNY3ItWnJQY0lINkJucG1BZGRXWWthUUlfOGFnSXJlb1JkaDJlWlNkLVJqYk8xaFNOaXpnU1ctRkdGTUNCZGNPbjFyak9ocDJtaXZXQ0hqS1g1S2cwRWMtWEhn?oc=5",
+      "title": "Ecolab (ECL) director Marion Gross receives 137.82-share stock award - Stock Titan",
+      "body": "Ecolab (ECL) director Marion Gross receives 137.82-share stock award Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ECL",
+      "tickers_hint": [
+        "ECL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ECL"
+        ],
+        "alt_sources": [
+          "Stock Titan"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e394b15c-994d-502e-844e-68365ef636ec",
+      "timestamp_utc": "2026-04-02T20:59:49+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWxBYXBuRzBiWUJZTXl0WnhkY2Z3Q29xbVBkRFk1TDZudGh4RHI3Z2I0b3dWemEwaGQzVlF3elZ3eURXa3lsZ3FPYWdMbDRyOGhCeVR6QURadkwta1BhTVIyWXA0UDFuNHdMcldXYXU4TUFvVmhhOXd2N2tYeU93WE5na3NQWXd2Ujh0Q19DY2hDQWJoRE1vdGZhNlJKWUhEV3g2cFZR?oc=5",
+      "title": "Director at Ecolab (ECL) awarded additional common stock shares - Stock Titan",
+      "body": "Director at Ecolab (ECL) awarded additional common stock shares Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ECL",
+      "tickers_hint": [
+        "ECL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ECL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "01ac0eb4-9455-51f4-8be3-8c8d8bd798d3",
+      "timestamp_utc": "2026-04-02T20:51:54+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMTF4TTFiMk1JRE5KdFIwMDdSOXBYWjV3MnBlTDFDSlh2c19VZlJkRGd2dnNsc29yTWtxb1J0RDFyZVZWZXZsdm9kUmo3NGk3aEdZT1J0VnhJcXgtMmxnWVVSVXBjOElrWl9CeXFUQXZYMVVQdUh3VzlvSE5aU2Npd1FNRnBMVTlEQ2xrQUt6bVJ2SjVJQ0p6VlA0UmJvQTZYeFRzcHh3?oc=5",
+      "title": "Ecolab (NYSE: ECL) director Shari Ballard receives new stock awards - Stock Titan",
+      "body": "Ecolab (NYSE: ECL) director Shari Ballard receives new stock awards Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ECL",
+      "tickers_hint": [
+        "ECL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ECL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "21e32cf1-b726-5e6d-a225-c4c7cc441de7",
+      "timestamp_utc": "2026-04-02T20:47:57+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLWwwaHdsblBicEoxZXI2YVdsUXVBWHIxUnp5c3lsUGJEYVZPN2ZOMW51OWxXSXVTV2lwUmVTYjcxa0RNNlhPUXhZMTdOSE1ub1VQdmxuckM0WFQ2VWtzX1hpSDBwVTVlNF9yNjhlakZvVlNLS1BfTzE3SllYdWdTWGZ2UEVxbXJMcE45aFNmN0x2Z2ZrdXI5QVFxRENhaGVSdFBnRElR?oc=5",
+      "title": "Ecolab (NYSE: ECL) director granted 137.82 shares, now holds 1,139.93 - Stock Titan",
+      "body": "Ecolab (NYSE: ECL) director granted 137.82 shares, now holds 1,139.93 Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ECL",
+      "tickers_hint": [
+        "ECL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ECL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a4bc6d03-e624-5d50-a618-cfea36d3b36f",
+      "timestamp_utc": "2026-04-02T14:15:52+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/ECL/earnings",
+      "title": "ECL Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "ECL Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "ECL",
+      "tickers_hint": [
+        "ECL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ECL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "37f06cc4-36fe-5912-af3e-147b08bd0312",
+      "timestamp_utc": "2026-04-02T21:12:46+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ1ZfSkVVQWd1YlYwY3oyR0tfRTNzbWtralJheTRySWd6ZXRTcy1DOVFWcmV2ZTh1TzlZMlFORVFGN3JoUFhPc2tOdkMwVkxmMkVqT2xRYm1hSnBoQy1HaEJIc0JRckF1OFFGa05HdDhwOFJaN0JmNVdOcE55YnFGaFlyWFdaVGIwQjgzeURYQkExbHNvWEdkYWw0M3NyTVlxUWtZX0t3?oc=5",
+      "title": "Ecolab (NYSE: ECL) director Reich receives 137.82-share stock award - Stock Titan",
+      "body": "Ecolab (NYSE: ECL) director Reich receives 137.82-share stock award Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ECL",
+      "tickers_hint": [
+        "ECL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ECL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0fac4ac2-5cef-54e6-a31e-3f064106cbf1",
+      "timestamp_utc": "2026-04-02T21:08:04+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWkwtaWFGUXhHSWUzMUpnVTY3SmprWXlGM0N5X2U0Q1RkYjhLeGg5U1J4MHJTMURGbDFJQi1YcXJUZ1BIUVczek0tUUFSeDZyTHYyalZTTVlnZ3lmOWxDQTJXTTRSaTNMa0NhTGg2ajA1WUthRjA4bDcwMWxRQjFTY0c2a0c1TVFZWXl2NUNlRjY3YTl3cGdLWEJRdE5RN3RwQk1Xc1dB?oc=5",
+      "title": "Ecolab (NYSE: ECL) director adds shares through stock award grant - Stock Titan",
+      "body": "Ecolab (NYSE: ECL) director adds shares through stock award grant Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ECL",
+      "tickers_hint": [
+        "ECL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ECL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d9c87ee4-09d9-590b-ab93-fe54467ec04a",
+      "timestamp_utc": "2026-04-02T21:04:55+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaERYeUxiR0VyQllVMEF0WlRKMHlBMFk3MjdmNmJVdHhnRnRValpBbGIwUjQwbkpxaE0xRG1QRGc0dXJXNGR1NC1HWnBSdzZfN3BlZzZmZ3JKMV9sVzlKMVZGNmFOM0p2cHVUVmY1OEp3dnF5cW8zd3UtMVRjLWlQZmc3MkZGRmJyTWdYZEt4dVlNV3hxSEpVTWIwSlkzMGZ4ZVVzdVNB?oc=5",
+      "title": "Director adds Ecolab (NYSE: ECL) shares through stock awards - Stock Titan",
+      "body": "Director adds Ecolab (NYSE: ECL) shares through stock awards Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ECL",
+      "tickers_hint": [
+        "ECL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ECL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6d9a37fd-6dd2-57b5-9b20-125a5978a1b5",
+      "timestamp_utc": "2026-04-02T21:03:16+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbi1ZSVZOUk1BSzNOeFVUTG5JOVpTcklSTGJuNDhyd0tVcTFhczdkaERELTB5WTVGMjIzVHNadG1JQUVNR2VsdjFhVE5YeHpRUU1abXpIM0F0cDlHZXU0TEV1ZGI0VGxWbGgySzVLTTF3RnI3ZFBvMHJ1TjlmRkJkVHZ1T3VuOXkwTTU0RDkxRkFkNjVTSVVpMlpoWEpQTVNrQlFNTG9n?oc=5",
+      "title": "Director Michael Larson receives Ecolab (NYSE: ECL) 137.82-share award - Stock Titan",
+      "body": "Director Michael Larson receives Ecolab (NYSE: ECL) 137.82-share award Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ECL",
+      "tickers_hint": [
+        "ECL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ECL"
+        ],
+        "alt_sources": [
+          "Stock Titan"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e951a0bb-9579-5c76-9656-2c7e1ddecc25",
+      "timestamp_utc": "2026-04-02T21:01:30+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONV9jVC14NVlYVEJZVEtRNU5TSVd1S3pRN3ZialllWVJsYndxWm1PcTA1cjY0TUZkVUJYRF93UkFpOWJoRGtQN0lXbnJNY3ItWnJQY0lINkJucG1BZGRXWWthUUlfOGFnSXJlb1JkaDJlWlNkLVJqYk8xaFNOaXpnU1ctRkdGTUNCZGNPbjFyak9ocDJtaXZXQ0hqS1g1S2cwRWMtWEhn?oc=5",
+      "title": "Ecolab (ECL) director Marion Gross receives 137.82-share stock award - Stock Titan",
+      "body": "Ecolab (ECL) director Marion Gross receives 137.82-share stock award Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ECL",
+      "tickers_hint": [
+        "ECL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ECL"
+        ],
+        "alt_sources": [
+          "Stock Titan"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e394b15c-994d-502e-844e-68365ef636ec",
+      "timestamp_utc": "2026-04-02T20:59:49+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWxBYXBuRzBiWUJZTXl0WnhkY2Z3Q29xbVBkRFk1TDZudGh4RHI3Z2I0b3dWemEwaGQzVlF3elZ3eURXa3lsZ3FPYWdMbDRyOGhCeVR6QURadkwta1BhTVIyWXA0UDFuNHdMcldXYXU4TUFvVmhhOXd2N2tYeU93WE5na3NQWXd2Ujh0Q19DY2hDQWJoRE1vdGZhNlJKWUhEV3g2cFZR?oc=5",
+      "title": "Director at Ecolab (ECL) awarded additional common stock shares - Stock Titan",
+      "body": "Director at Ecolab (ECL) awarded additional common stock shares Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ECL",
+      "tickers_hint": [
+        "ECL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ECL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "01ac0eb4-9455-51f4-8be3-8c8d8bd798d3",
+      "timestamp_utc": "2026-04-02T20:51:54+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMTF4TTFiMk1JRE5KdFIwMDdSOXBYWjV3MnBlTDFDSlh2c19VZlJkRGd2dnNsc29yTWtxb1J0RDFyZVZWZXZsdm9kUmo3NGk3aEdZT1J0VnhJcXgtMmxnWVVSVXBjOElrWl9CeXFUQXZYMVVQdUh3VzlvSE5aU2Npd1FNRnBMVTlEQ2xrQUt6bVJ2SjVJQ0p6VlA0UmJvQTZYeFRzcHh3?oc=5",
+      "title": "Ecolab (NYSE: ECL) director Shari Ballard receives new stock awards - Stock Titan",
+      "body": "Ecolab (NYSE: ECL) director Shari Ballard receives new stock awards Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ECL",
+      "tickers_hint": [
+        "ECL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ECL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "21e32cf1-b726-5e6d-a225-c4c7cc441de7",
+      "timestamp_utc": "2026-04-02T20:47:57+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLWwwaHdsblBicEoxZXI2YVdsUXVBWHIxUnp5c3lsUGJEYVZPN2ZOMW51OWxXSXVTV2lwUmVTYjcxa0RNNlhPUXhZMTdOSE1ub1VQdmxuckM0WFQ2VWtzX1hpSDBwVTVlNF9yNjhlakZvVlNLS1BfTzE3SllYdWdTWGZ2UEVxbXJMcE45aFNmN0x2Z2ZrdXI5QVFxRENhaGVSdFBnRElR?oc=5",
+      "title": "Ecolab (NYSE: ECL) director granted 137.82 shares, now holds 1,139.93 - Stock Titan",
+      "body": "Ecolab (NYSE: ECL) director granted 137.82 shares, now holds 1,139.93 Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ECL",
+      "tickers_hint": [
+        "ECL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ECL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a4bc6d03-e624-5d50-a618-cfea36d3b36f",
+      "timestamp_utc": "2026-04-02T14:15:52+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/ECL/earnings",
+      "title": "ECL Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "ECL Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "ECL",
+      "tickers_hint": [
+        "ECL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ECL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

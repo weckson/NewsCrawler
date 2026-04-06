@@ -1,0 +1,240 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "6b20907e-3160-5527-999e-bc5f24f3f9e2",
+      "timestamp_utc": "2026-04-01T16:55:33+00:00",
+      "source": "marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/wells-fargo-company-lowers-illinois-tool-works-nyseitw-price-target-to-24500-2026-04-01/",
+      "title": "Wells Fargo & Company Lowers Illinois Tool Works (NYSE:ITW) Price Target to $245.00 - marketbeat.com",
+      "body": "Wells Fargo & Company Lowers Illinois Tool Works (NYSE:ITW) Price Target to $245.00 marketbeat.com",
+      "author": null,
+      "language": "en",
+      "ticker": "ITW",
+      "tickers_hint": [
+        "ITW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "marketbeat.com",
+        "source_domain": "marketbeatcom.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "ITW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ed280598-b072-591e-a4fb-55ed263811e0",
+      "timestamp_utc": "2026-04-01T18:50:25+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765744/itw-barclays-lowers-price-target-to-250-while-maintaining-underweight-rating-itw-stock-news",
+      "title": "ITW: Barclays Lowers Price Target to $250 While Maintaining Unde - GuruFocus",
+      "body": "ITW: Barclays Lowers Price Target to $250 While Maintaining Unde GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "ITW",
+      "tickers_hint": [
+        "ITW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ITW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "03c141c7-f6e9-5511-919a-9e49133c7ae9",
+      "timestamp_utc": "2026-04-01T18:42:35+00:00",
+      "source": "marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/barclays-issues-pessimistic-forecast-for-illinois-tool-works-nyseitw-stock-price-2026-04-01/",
+      "title": "Barclays Issues Pessimistic Forecast for Illinois Tool Works (NYSE:ITW) Stock Price - marketbeat.com",
+      "body": "Barclays Issues Pessimistic Forecast for Illinois Tool Works (NYSE:ITW) Stock Price marketbeat.com",
+      "author": null,
+      "language": "en",
+      "ticker": "ITW",
+      "tickers_hint": [
+        "ITW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "marketbeat.com",
+        "source_domain": "marketbeatcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ITW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "85078dd1-9e43-5178-b048-9f3ca6938ab2",
+      "timestamp_utc": "2026-04-01T17:43:59+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765622/itw-wells-fargo-lowers-price-target-to-245-maintains-underweight-rating-itw-stock-news",
+      "title": "ITW: Wells Fargo Lowers Price Target to $245, Maintains Underwei - GuruFocus",
+      "body": "ITW: Wells Fargo Lowers Price Target to $245, Maintains Underwei GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "ITW",
+      "tickers_hint": [
+        "ITW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ITW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "6b20907e-3160-5527-999e-bc5f24f3f9e2",
+      "timestamp_utc": "2026-04-01T16:55:33+00:00",
+      "source": "marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/wells-fargo-company-lowers-illinois-tool-works-nyseitw-price-target-to-24500-2026-04-01/",
+      "title": "Wells Fargo & Company Lowers Illinois Tool Works (NYSE:ITW) Price Target to $245.00 - marketbeat.com",
+      "body": "Wells Fargo & Company Lowers Illinois Tool Works (NYSE:ITW) Price Target to $245.00 marketbeat.com",
+      "author": null,
+      "language": "en",
+      "ticker": "ITW",
+      "tickers_hint": [
+        "ITW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "marketbeat.com",
+        "source_domain": "marketbeatcom.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "ITW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ed280598-b072-591e-a4fb-55ed263811e0",
+      "timestamp_utc": "2026-04-01T18:50:25+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765744/itw-barclays-lowers-price-target-to-250-while-maintaining-underweight-rating-itw-stock-news",
+      "title": "ITW: Barclays Lowers Price Target to $250 While Maintaining Unde - GuruFocus",
+      "body": "ITW: Barclays Lowers Price Target to $250 While Maintaining Unde GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "ITW",
+      "tickers_hint": [
+        "ITW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ITW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "03c141c7-f6e9-5511-919a-9e49133c7ae9",
+      "timestamp_utc": "2026-04-01T18:42:35+00:00",
+      "source": "marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/barclays-issues-pessimistic-forecast-for-illinois-tool-works-nyseitw-stock-price-2026-04-01/",
+      "title": "Barclays Issues Pessimistic Forecast for Illinois Tool Works (NYSE:ITW) Stock Price - marketbeat.com",
+      "body": "Barclays Issues Pessimistic Forecast for Illinois Tool Works (NYSE:ITW) Stock Price marketbeat.com",
+      "author": null,
+      "language": "en",
+      "ticker": "ITW",
+      "tickers_hint": [
+        "ITW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "marketbeat.com",
+        "source_domain": "marketbeatcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ITW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "85078dd1-9e43-5178-b048-9f3ca6938ab2",
+      "timestamp_utc": "2026-04-01T17:43:59+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765622/itw-wells-fargo-lowers-price-target-to-245-maintains-underweight-rating-itw-stock-news",
+      "title": "ITW: Wells Fargo Lowers Price Target to $245, Maintains Underwei - GuruFocus",
+      "body": "ITW: Wells Fargo Lowers Price Target to $245, Maintains Underwei GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "ITW",
+      "tickers_hint": [
+        "ITW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ITW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

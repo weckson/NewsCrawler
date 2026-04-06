@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "91d94271-4bef-5f58-8e3b-530a69358f68",
+      "timestamp_utc": "2026-04-02T20:37:30+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8769041/nke-downgraded-by-goldman-sachs-target-price-lowered-to-52-nke-stock-news",
+      "title": "NKE Downgraded by Goldman Sachs, Target Price Lowered to $52 | N - GuruFocus",
+      "body": "NKE Downgraded by Goldman Sachs, Target Price Lowered to $52 | N GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "91d94271-4bef-5f58-8e3b-530a69358f68",
+      "timestamp_utc": "2026-04-02T20:37:30+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8769041/nke-downgraded-by-goldman-sachs-target-price-lowered-to-52-nke-stock-news",
+      "title": "NKE Downgraded by Goldman Sachs, Target Price Lowered to $52 | N - GuruFocus",
+      "body": "NKE Downgraded by Goldman Sachs, Target Price Lowered to $52 | N GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "NKE",
+      "tickers_hint": [
+        "NKE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "NKE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

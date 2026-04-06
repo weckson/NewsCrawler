@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ba57d117-b474-5c10-9012-982084cfe5b3",
+    "timestamp_utc": "2026-04-03T07:28:37+00:00",
+    "source": "defense_world",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ1FWSjZENFRSY2t6dWJqSDBONmx4NTIyWi1zZGcyM3pBaDMwV1kxcFBoT3otVUY1a0JLcWR2aUFQSS1XaVlnNlktSlE4SG9QQ3JhaEMxTkxwdloxaE9YNWxMdmxlM3FCVEtadXMzS1JsWGhCbFpxWWZteXJ1NGVyMGlYT1hMZlU2Wi1zSF9DMV9RcU03ZWJwdGtDUEItV2Q4S1haSy1NQy1hSTZ1ZGctX2owa1JmWUZqQ0g4Z0VsbkJGTlEwc2FDcFFfdjg?oc=5",
+    "title": "Wells Fargo & Company Issues Pessimistic Forecast for Otis Worldwide (NYSE:OTIS) Stock Price - Defense World",
+    "body": "Wells Fargo & Company Issues Pessimistic Forecast for Otis Worldwide (NYSE:OTIS) Stock Price Defense World",
+    "author": null,
+    "language": "en",
+    "ticker": "OTIS",
+    "tickers_hint": [
+      "OTIS"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "defense world",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Defense World",
+      "source_domain": "defenseworld.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "OTIS"
+      ],
+      "alt_sources": [
+        "Defense World"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

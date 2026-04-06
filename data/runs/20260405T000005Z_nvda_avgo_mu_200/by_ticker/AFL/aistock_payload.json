@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "47141864-cd54-53a3-91a0-91acbe90b272",
+      "timestamp_utc": "2026-04-03T13:34:52+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1VjUzE4dWVJTVlxSjFKSE1HQzhDaUNCRWVmY0NVc1ZxRjYzS2FhdHluWG96cS12eTNGMWFtSU03clU1b1puaU9KWUFYbGE2d1ZZUGMxV29wMk1vOG5obHZhYlJvc1JpVFRrbmJsbkVDTEtGWkdyWnc1M3J2ZW42YkM5alFteEpGQkhZdWZqb01Uem52dHRYdHptZ2ZBdDZvRUlSbA?oc=5",
+      "title": "Japan Post-related trust cuts AFLAC (NYSE: AFL) holding by 19,600 shares - Stock Titan",
+      "body": "Japan Post-related trust cuts AFLAC (NYSE: AFL) holding by 19,600 shares Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "AFL",
+      "tickers_hint": [
+        "AFL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AFL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c25fa7e5-6e65-5d76-95f6-137cb56376ed",
+      "timestamp_utc": "2026-04-03T05:39:03+00:00",
+      "source": "yahoo_finance_australia",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zU3hKQlFET1lKVEUtYU5mVjAyWlVZR0lwa3BaREtXRFUwdWFJRHVWcGdhcF8wakxKNnZ0cTBOS3Jyb2N4ZVJoTUIwOGZpeGJZ?oc=5",
+      "title": "Aflac Incorporated (AFL) stock price, news, quote and history - Yahoo Finance Australia",
+      "body": "Aflac Incorporated (AFL) stock price, news, quote and history Yahoo Finance Australia",
+      "author": null,
+      "language": "en",
+      "ticker": "AFL",
+      "tickers_hint": [
+        "AFL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance australia",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Australia",
+        "source_domain": "yahoofinanceaustralia.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AFL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "47141864-cd54-53a3-91a0-91acbe90b272",
+      "timestamp_utc": "2026-04-03T13:34:52+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1VjUzE4dWVJTVlxSjFKSE1HQzhDaUNCRWVmY0NVc1ZxRjYzS2FhdHluWG96cS12eTNGMWFtSU03clU1b1puaU9KWUFYbGE2d1ZZUGMxV29wMk1vOG5obHZhYlJvc1JpVFRrbmJsbkVDTEtGWkdyWnc1M3J2ZW42YkM5alFteEpGQkhZdWZqb01Uem52dHRYdHptZ2ZBdDZvRUlSbA?oc=5",
+      "title": "Japan Post-related trust cuts AFLAC (NYSE: AFL) holding by 19,600 shares - Stock Titan",
+      "body": "Japan Post-related trust cuts AFLAC (NYSE: AFL) holding by 19,600 shares Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "AFL",
+      "tickers_hint": [
+        "AFL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AFL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c25fa7e5-6e65-5d76-95f6-137cb56376ed",
+      "timestamp_utc": "2026-04-03T05:39:03+00:00",
+      "source": "yahoo_finance_australia",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zU3hKQlFET1lKVEUtYU5mVjAyWlVZR0lwa3BaREtXRFUwdWFJRHVWcGdhcF8wakxKNnZ0cTBOS3Jyb2N4ZVJoTUIwOGZpeGJZ?oc=5",
+      "title": "Aflac Incorporated (AFL) stock price, news, quote and history - Yahoo Finance Australia",
+      "body": "Aflac Incorporated (AFL) stock price, news, quote and history Yahoo Finance Australia",
+      "author": null,
+      "language": "en",
+      "ticker": "AFL",
+      "tickers_hint": [
+        "AFL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance australia",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Australia",
+        "source_domain": "yahoofinanceaustralia.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AFL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

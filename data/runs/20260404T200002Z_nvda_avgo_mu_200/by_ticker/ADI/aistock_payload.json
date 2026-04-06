@@ -1,0 +1,530 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "df740d4f-acdb-5e8f-bad6-b98067a21a5e",
+      "timestamp_utc": "2026-04-03T20:37:01+00:00",
+      "source": "investing.com",
+      "url": "https://www.investing.com/news/insider-trading-news/roche-vincent-analog-devices-chair--ceo-sells-318-million-in-stock-93CH-4597265",
+      "title": "Roche Vincent, Analog Devices chair & CEO, sells $3.18 million in stock - Investing.com",
+      "body": "Roche Vincent, Analog Devices chair & CEO, sells $3.18 million in stock Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "ADI",
+      "tickers_hint": [
+        "ADI"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7a9a7813-78ef-5906-a531-4d7da57b8b6b",
+      "timestamp_utc": "2026-04-03T22:39:54+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/analog-devices-nasdaqadi-ceo-sells-318140000-in-stock-2026-04-03/",
+      "title": "Analog Devices (NASDAQ:ADI) CEO Sells $3,181,400.00 in Stock - MarketBeat",
+      "body": "Analog Devices (NASDAQ:ADI) CEO Sells $3,181,400.00 in Stock MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ADI",
+      "tickers_hint": [
+        "ADI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "08f22d9d-ef39-53c2-a436-6a01704d226d",
+      "timestamp_utc": "2026-04-03T06:29:20+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/analog-devices-inc-nasdaqadi-receives-average-recommendation-of-buy-from-analysts-2026-04-03/",
+      "title": "Analog Devices, Inc. (NASDAQ:ADI) Receives Average Recommendation of \"Buy\" from Analysts - MarketBeat",
+      "body": "Analog Devices, Inc. (NASDAQ:ADI) Receives Average Recommendation of \"Buy\" from Analysts MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ADI",
+      "tickers_hint": [
+        "ADI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "11fed2a0-ced3-5508-aeb8-ffecc9199377",
+      "timestamp_utc": "2026-04-04T12:06:54+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-tritonpoint-wealth-llc-cuts-stock-position-in-analog-devices-inc-adi-2026-04-04/",
+      "title": "Tritonpoint Wealth LLC Cuts Stock Position in Analog Devices, Inc. $ADI - MarketBeat",
+      "body": "Tritonpoint Wealth LLC Cuts Stock Position in Analog Devices, Inc. $ADI MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ADI",
+      "tickers_hint": [
+        "ADI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2cbb0b20-6658-5201-84eb-9f10a0d84cb1",
+      "timestamp_utc": "2026-04-04T10:34:05+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-analog-devices-inc-adi-shares-purchased-by-thurston-springer-miller-herd-titak-inc-2026-04-04/",
+      "title": "Analog Devices, Inc. $ADI Shares Purchased by Thurston Springer Miller Herd & Titak Inc. - MarketBeat",
+      "body": "Analog Devices, Inc. $ADI Shares Purchased by Thurston Springer Miller Herd & Titak Inc. MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ADI",
+      "tickers_hint": [
+        "ADI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5e18d7d3-2f48-5a3d-af3d-fb9fb2934c89",
+      "timestamp_utc": "2026-04-03T20:13:27+00:00",
+      "source": "stock_titan",
+      "url": "https://www.stocktitan.net/sec-filings/ADI/form-4-analog-devices-inc-insider-trading-activity-860d4df55a28.html",
+      "title": "Analog Devices (ADI) CEO sells 10K shares after option exercise - Stock Titan",
+      "body": "⛶ Fullscreen SEC Form 4 FORM 4UNITED STATES SECURITIES AND EXCHANGE COMMISSIONWashington, D.C.\n\n20549STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIPFiled pursuant to Section 16(a) of the Securities Exchange Act of 1934or Section 30(h) of the Investment Company Act of 1940OMB APPROVALOMB Number:3235-0287Estimated average burdenhours per response:0.5 Check this box if no longer subject to Section 16.\n\nSee Instruction 1(b).XCheck this box to indicate that a transaction was made pursuant to a contract, instruction or written plan for the purchase or sale of equity securities of the issuer that is intended to satisfy the affirmative defense conditions of Rule 10b5-1(c).\n\nName and Address of Reporting Person*ROCHE VINCENT(Last)(First)(Middle)ONE ANALOG WAY(Street)WILMINGTON MASSACHUSETTS 01887(City)(State)(Zip)UNITED STATES(Country)2.\n\nIssuer Name and Ticker or Trading Symbol ANALOG DEVICES INC [ ADI ] 5.\n\nRelationship of Reporting Person(s) to Issuer (Check all applicable)XDirector10% OwnerXOfficer (give title below)Other (specify below)Chair & CEO2a.\n\nIndividual or Joint/Group Filing (Check Applicable Line) XForm filed by One Reporting PersonForm filed by More than One Reporting Person4.\n\nIf Amendment, Date of Original Filed (Month/Day/Year)Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned1.\n\nAmount of Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeVAmount(A) or (D)PriceComm Stock - $.16-2/3 value04/01/2026M10,000A$94.41177,825.875DComm Stock - $.16-2/3 value04/01/2026S10,000(1)D$318.14167,825.875DComm Stock-$.16-2/3 value23,515I(2)Vincent Roche 2024 Grantor Retained Annuity TrustTable II - Derivative Securities Acquired, Disposed of, or Beneficially Owned(e.g., puts, calls, warrants, options, convertible securities)1.\n\nNumber of Derivative Securities Acquired (A) or Disposed of (D) (Instr.\n\nTitle and Amount of Securities Underlying Derivative Security (Instr.\n\nNumber of derivative Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeV(A)(D)Date ExercisableExpiration DateTitleAmount or Number of SharesNon-Qualified Stock Option (right to buy)$94.4104/01/2026M10,000 (3)03/11/2030Comm Stock - $.16-2/3 value10,000$94.4124,637DExplanation of Responses:1.\n\nThese shares were sold pursuant to a 10b5-1 plan adopted by the reporting person on May 23, 2025.2.\n\nShares held by the Vincent Roche 2024 Grantor Retained Annuity Trust dated October 3, 2024.3.\n\nThis option is fully vested.Remarks:/s/ Shelly Shaw, General Counsel, by Power of Attorney04/03/2026** Signature of Reporting PersonDateReminder: Report on a separate line for each class of securities beneficially owned directly or indirectly.* If the form is filed by more than one reporting person, see Instruction 4 (b)(v).** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C.\n\n78ff(a).Note: File three copies of this Form, one of which must be manually signed.\n\nIf space is insufficient, see Instruction 6 for procedure.Persons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB Number.* Form 4: SEC 1474 (03-26)",
+      "author": null,
+      "language": "en",
+      "ticker": "ADI",
+      "tickers_hint": [
+        "ADI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADI"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "246e8534-2a25-5634-bc8c-ecdcad567222",
+      "timestamp_utc": "2026-04-03T07:17:37+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-aberdeen-group-plc-has-22202-million-position-in-analog-devices-inc-adi-2026-04-03/",
+      "title": "Aberdeen Group plc Has $222.02 Million Position in Analog Devices, Inc. $ADI - MarketBeat",
+      "body": "Aberdeen Group plc Has $222.02 Million Position in Analog Devices, Inc. $ADI MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ADI",
+      "tickers_hint": [
+        "ADI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "99600e41-a238-5528-bedd-25659262e724",
+      "timestamp_utc": "2026-04-04T13:44:06+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/ADI/earnings",
+      "title": "ADI Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "ADI Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "ADI",
+      "tickers_hint": [
+        "ADI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6570b92c-a2bb-53f3-ad4a-ceb226772b86",
+      "timestamp_utc": "2026-04-03T19:07:26+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94WFJSN0tlTVNOZ2dEeEFkN3g1X2lsWXFmVk42Sng0MHJCZEVMSFpVR1BUUVJYOGhxaEZoWEpHSnM4UXJuY1NfWmk5Wk9DaExWbWtuTVNyWFVWOTF5US1DaDhWcXc?oc=5",
+      "title": "ANALOG DEVICES INC. R (ANL.DE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "ANALOG DEVICES INC. R (ANL.DE) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "ADI",
+      "tickers_hint": [
+        "ADI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "df740d4f-acdb-5e8f-bad6-b98067a21a5e",
+      "timestamp_utc": "2026-04-03T20:37:01+00:00",
+      "source": "investing.com",
+      "url": "https://www.investing.com/news/insider-trading-news/roche-vincent-analog-devices-chair--ceo-sells-318-million-in-stock-93CH-4597265",
+      "title": "Roche Vincent, Analog Devices chair & CEO, sells $3.18 million in stock - Investing.com",
+      "body": "Roche Vincent, Analog Devices chair & CEO, sells $3.18 million in stock Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "ADI",
+      "tickers_hint": [
+        "ADI"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7a9a7813-78ef-5906-a531-4d7da57b8b6b",
+      "timestamp_utc": "2026-04-03T22:39:54+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/analog-devices-nasdaqadi-ceo-sells-318140000-in-stock-2026-04-03/",
+      "title": "Analog Devices (NASDAQ:ADI) CEO Sells $3,181,400.00 in Stock - MarketBeat",
+      "body": "Analog Devices (NASDAQ:ADI) CEO Sells $3,181,400.00 in Stock MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ADI",
+      "tickers_hint": [
+        "ADI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "08f22d9d-ef39-53c2-a436-6a01704d226d",
+      "timestamp_utc": "2026-04-03T06:29:20+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/analog-devices-inc-nasdaqadi-receives-average-recommendation-of-buy-from-analysts-2026-04-03/",
+      "title": "Analog Devices, Inc. (NASDAQ:ADI) Receives Average Recommendation of \"Buy\" from Analysts - MarketBeat",
+      "body": "Analog Devices, Inc. (NASDAQ:ADI) Receives Average Recommendation of \"Buy\" from Analysts MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ADI",
+      "tickers_hint": [
+        "ADI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "11fed2a0-ced3-5508-aeb8-ffecc9199377",
+      "timestamp_utc": "2026-04-04T12:06:54+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-tritonpoint-wealth-llc-cuts-stock-position-in-analog-devices-inc-adi-2026-04-04/",
+      "title": "Tritonpoint Wealth LLC Cuts Stock Position in Analog Devices, Inc. $ADI - MarketBeat",
+      "body": "Tritonpoint Wealth LLC Cuts Stock Position in Analog Devices, Inc. $ADI MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ADI",
+      "tickers_hint": [
+        "ADI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2cbb0b20-6658-5201-84eb-9f10a0d84cb1",
+      "timestamp_utc": "2026-04-04T10:34:05+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-analog-devices-inc-adi-shares-purchased-by-thurston-springer-miller-herd-titak-inc-2026-04-04/",
+      "title": "Analog Devices, Inc. $ADI Shares Purchased by Thurston Springer Miller Herd & Titak Inc. - MarketBeat",
+      "body": "Analog Devices, Inc. $ADI Shares Purchased by Thurston Springer Miller Herd & Titak Inc. MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ADI",
+      "tickers_hint": [
+        "ADI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5e18d7d3-2f48-5a3d-af3d-fb9fb2934c89",
+      "timestamp_utc": "2026-04-03T20:13:27+00:00",
+      "source": "stock_titan",
+      "url": "https://www.stocktitan.net/sec-filings/ADI/form-4-analog-devices-inc-insider-trading-activity-860d4df55a28.html",
+      "title": "Analog Devices (ADI) CEO sells 10K shares after option exercise - Stock Titan",
+      "body": "⛶ Fullscreen SEC Form 4 FORM 4UNITED STATES SECURITIES AND EXCHANGE COMMISSIONWashington, D.C.\n\n20549STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIPFiled pursuant to Section 16(a) of the Securities Exchange Act of 1934or Section 30(h) of the Investment Company Act of 1940OMB APPROVALOMB Number:3235-0287Estimated average burdenhours per response:0.5 Check this box if no longer subject to Section 16.\n\nSee Instruction 1(b).XCheck this box to indicate that a transaction was made pursuant to a contract, instruction or written plan for the purchase or sale of equity securities of the issuer that is intended to satisfy the affirmative defense conditions of Rule 10b5-1(c).\n\nName and Address of Reporting Person*ROCHE VINCENT(Last)(First)(Middle)ONE ANALOG WAY(Street)WILMINGTON MASSACHUSETTS 01887(City)(State)(Zip)UNITED STATES(Country)2.\n\nIssuer Name and Ticker or Trading Symbol ANALOG DEVICES INC [ ADI ] 5.\n\nRelationship of Reporting Person(s) to Issuer (Check all applicable)XDirector10% OwnerXOfficer (give title below)Other (specify below)Chair & CEO2a.\n\nIndividual or Joint/Group Filing (Check Applicable Line) XForm filed by One Reporting PersonForm filed by More than One Reporting Person4.\n\nIf Amendment, Date of Original Filed (Month/Day/Year)Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned1.\n\nAmount of Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeVAmount(A) or (D)PriceComm Stock - $.16-2/3 value04/01/2026M10,000A$94.41177,825.875DComm Stock - $.16-2/3 value04/01/2026S10,000(1)D$318.14167,825.875DComm Stock-$.16-2/3 value23,515I(2)Vincent Roche 2024 Grantor Retained Annuity TrustTable II - Derivative Securities Acquired, Disposed of, or Beneficially Owned(e.g., puts, calls, warrants, options, convertible securities)1.\n\nNumber of Derivative Securities Acquired (A) or Disposed of (D) (Instr.\n\nTitle and Amount of Securities Underlying Derivative Security (Instr.\n\nNumber of derivative Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeV(A)(D)Date ExercisableExpiration DateTitleAmount or Number of SharesNon-Qualified Stock Option (right to buy)$94.4104/01/2026M10,000 (3)03/11/2030Comm Stock - $.16-2/3 value10,000$94.4124,637DExplanation of Responses:1.\n\nThese shares were sold pursuant to a 10b5-1 plan adopted by the reporting person on May 23, 2025.2.\n\nShares held by the Vincent Roche 2024 Grantor Retained Annuity Trust dated October 3, 2024.3.\n\nThis option is fully vested.Remarks:/s/ Shelly Shaw, General Counsel, by Power of Attorney04/03/2026** Signature of Reporting PersonDateReminder: Report on a separate line for each class of securities beneficially owned directly or indirectly.* If the form is filed by more than one reporting person, see Instruction 4 (b)(v).** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C.\n\n78ff(a).Note: File three copies of this Form, one of which must be manually signed.\n\nIf space is insufficient, see Instruction 6 for procedure.Persons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB Number.* Form 4: SEC 1474 (03-26)",
+      "author": null,
+      "language": "en",
+      "ticker": "ADI",
+      "tickers_hint": [
+        "ADI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADI"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "246e8534-2a25-5634-bc8c-ecdcad567222",
+      "timestamp_utc": "2026-04-03T07:17:37+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-aberdeen-group-plc-has-22202-million-position-in-analog-devices-inc-adi-2026-04-03/",
+      "title": "Aberdeen Group plc Has $222.02 Million Position in Analog Devices, Inc. $ADI - MarketBeat",
+      "body": "Aberdeen Group plc Has $222.02 Million Position in Analog Devices, Inc. $ADI MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ADI",
+      "tickers_hint": [
+        "ADI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "99600e41-a238-5528-bedd-25659262e724",
+      "timestamp_utc": "2026-04-04T13:44:06+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/ADI/earnings",
+      "title": "ADI Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "ADI Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "ADI",
+      "tickers_hint": [
+        "ADI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6570b92c-a2bb-53f3-ad4a-ceb226772b86",
+      "timestamp_utc": "2026-04-03T19:07:26+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94WFJSN0tlTVNOZ2dEeEFkN3g1X2lsWXFmVk42Sng0MHJCZEVMSFpVR1BUUVJYOGhxaEZoWEpHSnM4UXJuY1NfWmk5Wk9DaExWbWtuTVNyWFVWOTF5US1DaDhWcXc?oc=5",
+      "title": "ANALOG DEVICES INC. R (ANL.DE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "ANALOG DEVICES INC. R (ANL.DE) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "ADI",
+      "tickers_hint": [
+        "ADI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

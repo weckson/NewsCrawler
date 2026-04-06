@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "a9f0e91a-a152-5ec5-9cc8-9b6a852a0d8a",
+      "timestamp_utc": "2026-04-03T23:04:00+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uQVNyUzNvTXBRQkJXdGhPbmpFSmF0VmZsNFJtRzJTd3dSVjNzRXR3YlRVcjhRYk5fUkJYQ1BPZ0ZWZGthOGg4eDItejVaMWRHMlhDdHFsUk9DcHYzd0IzU1ZKVXk?oc=5",
+      "title": "TFC Dec 2028 75.000 put (TFC281215P00075000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "TFC Dec 2028 75.000 put (TFC281215P00075000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "TFC",
+      "tickers_hint": [
+        "TFC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TFC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "a9f0e91a-a152-5ec5-9cc8-9b6a852a0d8a",
+      "timestamp_utc": "2026-04-03T23:04:00+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uQVNyUzNvTXBRQkJXdGhPbmpFSmF0VmZsNFJtRzJTd3dSVjNzRXR3YlRVcjhRYk5fUkJYQ1BPZ0ZWZGthOGg4eDItejVaMWRHMlhDdHFsUk9DcHYzd0IzU1ZKVXk?oc=5",
+      "title": "TFC Dec 2028 75.000 put (TFC281215P00075000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "TFC Dec 2028 75.000 put (TFC281215P00075000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "TFC",
+      "tickers_hint": [
+        "TFC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TFC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

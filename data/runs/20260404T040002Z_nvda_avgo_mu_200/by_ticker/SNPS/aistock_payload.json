@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "3debe713-381c-57c8-8cad-15874bba9c94",
+      "timestamp_utc": "2026-04-02T22:55:53+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HdU9EcHprS0lPdGN2YlN3TndQM2U2WEJzdFAyZDdlcFhWWl8ybVhNX3BCcmViRjRIMUtnNHV5SUx6VnpBSFJHV0lPNFprVkdkaUE?oc=5",
+      "title": "Synopsys, Inc. (SNPS) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Synopsys, Inc. (SNPS) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "SNPS",
+      "tickers_hint": [
+        "SNPS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "SNPS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "3debe713-381c-57c8-8cad-15874bba9c94",
+      "timestamp_utc": "2026-04-02T22:55:53+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HdU9EcHprS0lPdGN2YlN3TndQM2U2WEJzdFAyZDdlcFhWWl8ybVhNX3BCcmViRjRIMUtnNHV5SUx6VnpBSFJHV0lPNFprVkdkaUE?oc=5",
+      "title": "Synopsys, Inc. (SNPS) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Synopsys, Inc. (SNPS) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "SNPS",
+      "tickers_hint": [
+        "SNPS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "SNPS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "4ae9d969-0642-5259-b99d-bed4f61627c7",
+      "timestamp_utc": "2026-04-01T07:45:27+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-cbre-groups-next-074527098.html",
+      "title": "Here's What to Expect From CBRE Group's Next Earnings Report - Yahoo Finance",
+      "body": "Here's What to Expect From CBRE Group's Next Earnings Report Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "CBRE",
+      "tickers_hint": [
+        "CBRE"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "CBRE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "54216767-105a-5f1c-a29b-a7eb108b3471",
+      "timestamp_utc": "2026-04-02T03:24:59+00:00",
+      "source": "bitget",
+      "url": "https://www.bitget.com/news/detail/12560605332314",
+      "title": "CBRE Encounters \"Sell the News\" Threat as Strong Earnings Could Be Reflected in Current Price - Bitget",
+      "body": "CBRE Encounters \"Sell the News\" Threat as Strong Earnings Could Be Reflected in Current Price Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "CBRE",
+      "tickers_hint": [
+        "CBRE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "CBRE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "4ae9d969-0642-5259-b99d-bed4f61627c7",
+      "timestamp_utc": "2026-04-01T07:45:27+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-cbre-groups-next-074527098.html",
+      "title": "Here's What to Expect From CBRE Group's Next Earnings Report - Yahoo Finance",
+      "body": "Here's What to Expect From CBRE Group's Next Earnings Report Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "CBRE",
+      "tickers_hint": [
+        "CBRE"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "CBRE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "54216767-105a-5f1c-a29b-a7eb108b3471",
+      "timestamp_utc": "2026-04-02T03:24:59+00:00",
+      "source": "bitget",
+      "url": "https://www.bitget.com/news/detail/12560605332314",
+      "title": "CBRE Encounters \"Sell the News\" Threat as Strong Earnings Could Be Reflected in Current Price - Bitget",
+      "body": "CBRE Encounters \"Sell the News\" Threat as Strong Earnings Could Be Reflected in Current Price Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "CBRE",
+      "tickers_hint": [
+        "CBRE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "CBRE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

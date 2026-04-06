@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "3fbb49fe-fc9f-5d30-a4e7-36ac514a5a42",
+      "timestamp_utc": "2026-04-04T15:06:46+00:00",
+      "source": "intellectia.ai",
+      "url": "https://intellectia.ai/en/stock/HIG/earnings",
+      "title": "HIG Earning Date, Earning Analysis and Earning Prediction - intellectia.ai",
+      "body": "HIG Earning Date, Earning Analysis and Earning Prediction intellectia.ai",
+      "author": null,
+      "language": "en",
+      "ticker": "HIG",
+      "tickers_hint": [
+        "HIG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia.ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "intellectia.ai",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HIG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "3fbb49fe-fc9f-5d30-a4e7-36ac514a5a42",
+      "timestamp_utc": "2026-04-04T15:06:46+00:00",
+      "source": "intellectia.ai",
+      "url": "https://intellectia.ai/en/stock/HIG/earnings",
+      "title": "HIG Earning Date, Earning Analysis and Earning Prediction - intellectia.ai",
+      "body": "HIG Earning Date, Earning Analysis and Earning Prediction intellectia.ai",
+      "author": null,
+      "language": "en",
+      "ticker": "HIG",
+      "tickers_hint": [
+        "HIG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia.ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "intellectia.ai",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HIG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

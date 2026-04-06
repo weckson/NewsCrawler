@@ -1,0 +1,60 @@
+[
+  {
+    "id": "ab7b9763-9454-5d27-ac2f-2f2150def1d5",
+    "timestamp_utc": "2026-04-02T20:08:01+00:00",
+    "source": "stocktitan.net",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUWZJbUtNTFhlcXJSYjNtaFdiN0RjUG5rc19aMDhrbmVoemlKZ2hOaVd2MFJjYkVhMk5oZTdIMWZNNWdEbkJ0R1lLTmtaQjBscThLUFFRMmFmV1VEcEFNejlVTDdtdGVKMjRmbktpMWJSV1M1U3JaZUJ4NThPdlNKU0pzNVV2c3BDRHB2MFZ4aVdLZTJvMmpoR1h2Y0RqcExfd1dpV2tjcDhmT0RwdTNMYmc4elZxb00?oc=5",
+    "title": "Travelers (NYSE: TRV) director gets deferred stock unit grant - stocktitan.net",
+    "body": "Travelers (NYSE: TRV) director gets deferred stock unit grant stocktitan.net",
+    "author": null,
+    "language": "en",
+    "ticker": "TRV",
+    "tickers_hint": [
+      "TRV"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stocktitan.net",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "stocktitan.net",
+      "source_domain": "stocktitannet.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "TRV"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "e92857e4-0afd-5751-941c-b2f7628b9cd1",
+    "timestamp_utc": "2026-04-02T20:05:00+00:00",
+    "source": "stocktitan.net",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY2N1dF9hX0JjdGN1U0Y5RlFIREJxTWdLRTFDNEpxLURjMDd5eHp0RkE4SENyazBTZy16TXA0dnZoc1ZrVGJCM0dMNDBZbFNGNlBHVHYzS1hGZmlMVmdMRVJNVWZGQkkyUXpoeFV2WU5rWDhHWUNoNFJuaDNlX0VUUklSNjBWcUp3cEJ0SmpRMnFKbzJpb0hBT1laWk9vS2x0WFJLc0V1NDBiM3FpU0dGdGt1eG9QSG8?oc=5",
+    "title": "Travelers (NYSE: TRV) director adds 158 deferred stock units as pay - stocktitan.net",
+    "body": "Travelers (NYSE: TRV) director adds 158 deferred stock units as pay stocktitan.net",
+    "author": null,
+    "language": "en",
+    "ticker": "TRV",
+    "tickers_hint": [
+      "TRV"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stocktitan.net",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "stocktitan.net",
+      "source_domain": "stocktitannet.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "TRV"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "2f94f3c9-c9be-58fa-997c-93260ff7034d",
+    "timestamp_utc": "2026-04-03T08:17:50+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-6788-shares-in-applied-materials-inc-amat-acquired-by-dorato-capital-management-2026-04-03/",
+    "title": "6,788 Shares in Applied Materials, Inc. $AMAT Acquired by Dorato Capital Management - MarketBeat",
+    "body": "6,788 Shares in Applied Materials, Inc. $AMAT Acquired by Dorato Capital Management MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "AMAT",
+    "tickers_hint": [
+      "AMAT"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "AMAT"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "6c3079d1-7ae8-590d-a7ee-d9fb51035fa4",
+    "timestamp_utc": "2026-04-03T02:03:50+00:00",
+    "source": "bitget",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nQzA1MzVVZlpHcTJJZm1xdEl1b0VXQjM3QzZ2NzRUUWlxVnJ4SDIxWmt5R1U2RUwzMnJMSXhYUm5UMGdFRDhNclA4a3pmc0gyYU9DSlZvZXJJUVFMd2fSAWNBVV95cUxNVWJGaWJ2N2ROS3pWZ0xjeG9Wd1ZWelNlMTdTY3huUWdfMEZxbHlycGJOZlJ4UUNFSk5ZYzRlXzFjZDBoa3VFZmFEN0w1eWNaenE2SE9CQWV3MUpJTDNteVRSWGc?oc=5",
+    "title": "Applied Materials (AMAT) Raised to Strong Buy: What Could This Mean for the Stock? - Bitget",
+    "body": "Applied Materials (AMAT) Raised to Strong Buy: What Could This Mean for the Stock? Bitget",
+    "author": null,
+    "language": "en",
+    "ticker": "AMAT",
+    "tickers_hint": [
+      "AMAT"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "bitget",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Bitget",
+      "source_domain": "bitget.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "AMAT"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

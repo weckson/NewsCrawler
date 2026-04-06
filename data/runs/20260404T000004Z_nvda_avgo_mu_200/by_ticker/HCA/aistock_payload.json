@@ -1,0 +1,188 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "fee51c1a-d656-58d9-886f-ee0995caa83a",
+      "timestamp_utc": "2026-04-03T06:23:28+00:00",
+      "source": "investing.com",
+      "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-hca-healthcare-stock-overweight-rating-93CH-4541540",
+      "title": "Cantor Fitzgerald reiterates HCA Healthcare stock Overweight rating - Investing.com",
+      "body": "Cantor Fitzgerald reiterates HCA Healthcare stock Overweight rating Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "HCA",
+      "tickers_hint": [
+        "HCA"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HCA"
+        ],
+        "alt_sources": [
+          "Investing.com"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d3ff79bc-980e-53c1-b40a-3e2c992c1488",
+      "timestamp_utc": "2026-04-02T08:40:54+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-blue-trust-inc-has-1108-million-stock-position-in-hca-healthcare-inc-hca-2026-04-02/",
+      "title": "Blue Trust Inc. Has $11.08 Million Stock Position in HCA Healthcare, Inc. $HCA - MarketBeat",
+      "body": "Blue Trust Inc. Has $11.08 Million Stock Position in HCA Healthcare, Inc. $HCA MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "HCA",
+      "tickers_hint": [
+        "HCA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "HCA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "31e2a41b-d9af-5c43-87a4-45b1b5fa5856",
+      "timestamp_utc": "2026-04-03T00:47:03+00:00",
+      "source": "investor's_business_daily",
+      "url": "https://www.investors.com/research/ibd-stock-of-the-day/hca-stock-of-the-day-ai-winner-palantir/",
+      "title": "'AI Winner' HCA, Stock Of The Day, Gets Healthy With Palantir - Investor's Business Daily",
+      "body": "About Us Reviews Site Map Your Ad Choices Advertising Contact us IBD Stock Charts IBD Stock Checkup Stock Quotes Stock Market Today The Big Picture My Stock Lists Terms of Use Privacy Notice Accessibility",
+      "author": null,
+      "language": "en",
+      "ticker": "HCA",
+      "tickers_hint": [
+        "HCA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "investor's business daily",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investor's Business Daily",
+        "source_domain": "investorsbusinessdaily.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HCA"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "fee51c1a-d656-58d9-886f-ee0995caa83a",
+      "timestamp_utc": "2026-04-03T06:23:28+00:00",
+      "source": "investing.com",
+      "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-hca-healthcare-stock-overweight-rating-93CH-4541540",
+      "title": "Cantor Fitzgerald reiterates HCA Healthcare stock Overweight rating - Investing.com",
+      "body": "Cantor Fitzgerald reiterates HCA Healthcare stock Overweight rating Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "HCA",
+      "tickers_hint": [
+        "HCA"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HCA"
+        ],
+        "alt_sources": [
+          "Investing.com"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d3ff79bc-980e-53c1-b40a-3e2c992c1488",
+      "timestamp_utc": "2026-04-02T08:40:54+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-blue-trust-inc-has-1108-million-stock-position-in-hca-healthcare-inc-hca-2026-04-02/",
+      "title": "Blue Trust Inc. Has $11.08 Million Stock Position in HCA Healthcare, Inc. $HCA - MarketBeat",
+      "body": "Blue Trust Inc. Has $11.08 Million Stock Position in HCA Healthcare, Inc. $HCA MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "HCA",
+      "tickers_hint": [
+        "HCA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "HCA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "31e2a41b-d9af-5c43-87a4-45b1b5fa5856",
+      "timestamp_utc": "2026-04-03T00:47:03+00:00",
+      "source": "investor's_business_daily",
+      "url": "https://www.investors.com/research/ibd-stock-of-the-day/hca-stock-of-the-day-ai-winner-palantir/",
+      "title": "'AI Winner' HCA, Stock Of The Day, Gets Healthy With Palantir - Investor's Business Daily",
+      "body": "About Us Reviews Site Map Your Ad Choices Advertising Contact us IBD Stock Charts IBD Stock Checkup Stock Quotes Stock Market Today The Big Picture My Stock Lists Terms of Use Privacy Notice Accessibility",
+      "author": null,
+      "language": "en",
+      "ticker": "HCA",
+      "tickers_hint": [
+        "HCA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "investor's business daily",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investor's Business Daily",
+        "source_domain": "investorsbusinessdaily.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HCA"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

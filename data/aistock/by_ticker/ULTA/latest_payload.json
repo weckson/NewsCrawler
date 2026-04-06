@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "1c190675-94ca-5705-894d-8e7af7c3484b",
-      "timestamp_utc": "2026-04-01T00:05:00+00:00",
+      "id": "e9822635-fc64-5637-aa56-3912dc85187a",
+      "timestamp_utc": "2026-04-03T16:18:55+00:00",
       "source": "yahoo_finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQkY3XzdqYlZFYkY3TUtPZkEtQUJRRVFPUTRVU0RQZnlzbjRTQXFSTnloUldzNVktN1lqcmZ5cUxVa0hHVVU0UElvTkdibHNNM2xzeGFValJuOVA0N0lwUHJyVUR3cTF6TzF2TTQyRDA4eTFsc2VmenduSmhROW1GN3Q0Vmx2U294SDMtcXQyZUZUWVdZU3J5elhfcjVmZ0t6ZkFRQUdn?oc=5",
-      "title": "Zacks Industry Outlook Highlights Ulta Beauty, Five, Sally Beauty and Arhaus - Yahoo Finance",
-      "body": "Zacks Industry Outlook Highlights Ulta Beauty, Five, Sally Beauty and Arhaus Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ulta-beauty-ulta-valuation-check-161855562.html",
+      "title": "Ulta Beauty (ULTA) Valuation Check After Recent Share Price Volatility - Yahoo Finance",
+      "body": "Ulta Beauty (ULTA) Valuation Check After Recent Share Price Volatility Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "ULTA",
@@ -21,35 +21,6 @@
         "source_name": "Yahoo Finance",
         "source_domain": "finance.yahoo.com",
         "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "ULTA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "3d72746e-5ca9-5766-bfc0-d0308a559f13",
-      "timestamp_utc": "2026-04-01T06:51:43+00:00",
-      "source": "gurufocus",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdW5yV1JXeTdIVjU1NTUxMi1aNTV2bkJhTTZCR3c3cUpOZW1FWTJPSWhCUDgyZ1R6TVFRdmRvZTdURDhnbG9GelJwMEJtN2l4bm9PSTdjODJhckRHRm1DQ1VxRjlwZTh1UjV4cmh3TW9kVW1NTlFOMEVNY19WWVJ5ZzN0ZWx6UU5WLUE?oc=5",
-      "title": "Ulta Beauty Inc (ULTA) Shares Up 3.01% on Apr 1 - GuruFocus",
-      "body": "Ulta Beauty Inc (ULTA) Shares Up 3.01% on Apr 1 GuruFocus",
-      "author": null,
-      "language": "en",
-      "ticker": "ULTA",
-      "tickers_hint": [
-        "ULTA"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
         "relevance": 0.6000000000000001,
         "event_origin": "news",
         "query_tickers": [
@@ -60,12 +31,44 @@
       "stream_type": "soft"
     },
     {
-      "id": "07dfd0a8-aa84-5ea0-877a-7166ad71125f",
-      "timestamp_utc": "2026-04-01T18:01:27+00:00",
-      "source": "wwd",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM2lkYmMwbEl5Z2NJcFh0MUVnQ2V2ejB4Yzk2YlNUMEJBUHF4eUlLVjRkbkhPcEhaN0pYdnBfWGFTR0MxOGttSnI3cHZFdUV0QUlNbzFGUUlXdjFVWnV3THlfNkw5Y2xBSGpFRDgyQVlUeTlzUHBUN3BCc0Izb3p4VmtTZU1iWFRWRTlPS1g4azByR3FseUVsaEFRZkl4LUJNdTZTYWtWTEQ?oc=5",
-      "title": "Teen Skin Care Brand Erly Lands First Retail Partner With Ulta Beauty - WWD",
-      "body": "Teen Skin Care Brand Erly Lands First Retail Partner With Ulta Beauty WWD",
+      "id": "3e2e99a9-5f0d-530f-9047-f429a55b6a54",
+      "timestamp_utc": "2026-04-03T15:01:07+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTml0UGRkX3pDNzJjZHJlckhxMVhwYjEwQnFGQTh4allIUHBSTTlOWlFCYkRWSXZ6bXk0bVZtajB4cEVJOENnZl94d3BvQmZhME9aQ0tZM0MxZ1U2cmxqVTYwSlhVd0k3ejN2bi1id0FwZVdSaU1aamw4M3pDRUlhb2R2aFpZWFBmX2pUZWswNm9lbW5PZDJRUjY4VXlOU2d1dHMtcjdQbFdwZnJLWnVjRnF3RGZvcXRfa2RFU0hsdjZqX3dfcF9zOHF4REdFQXdVVUtIOXNmbXU3S1A4VGo5YTBB?oc=5",
+      "title": "Strategic Move: Christopher Lialios Enhances Portfolio With Ulta Beauty Stock Options Worth $11K - Benzinga",
+      "body": "Strategic Move: Christopher Lialios Enhances Portfolio With Ulta Beauty Stock Options Worth $11K Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f3110b7a-7bf8-5fe1-8c0f-9d8cec203d5a",
+      "timestamp_utc": "2026-04-04T16:06:27+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vY2pnSUJ3a2puUTdFdWwtT3FiczJBeWhPblNjZWVheEFjajEtaUpBWXVpbW5wSUhWZ1dLYlEwQjRXdDBxV0pRb2l3N0xYcEJIZGc?oc=5",
+      "title": "Ulta Beauty, Inc. (ULTA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Ulta Beauty, Inc. (ULTA) Stock Price, News, Quote & History Yahoo! Finance Canada",
       "author": null,
       "language": "en",
       "ticker": "ULTA",
@@ -73,11 +76,43 @@
         "ULTA"
       ],
       "source_quality": "low",
-      "publisher_raw": "wwd",
+      "publisher_raw": "yahoo! finance canada",
       "meta": {
         "channel": "google_broad",
-        "source_name": "WWD",
-        "source_domain": "wwd.com",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "alt_sources": [
+          "Yahoo Finance UK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d3c05470-01dc-5b82-b8ab-4366347afdd3",
+      "timestamp_utc": "2026-04-04T22:34:15+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/ULTA/earnings",
+      "title": "ULTA Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "ULTA Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
         "trust_tier": 1,
         "relevance": 0.5,
         "event_origin": "news",
@@ -89,12 +124,12 @@
       "stream_type": "soft"
     },
     {
-      "id": "f0b613c6-7f39-5162-b656-58c8ab63883f",
-      "timestamp_utc": "2026-04-01T16:26:01+00:00",
-      "source": "stock_traders_daily",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLTlCazhoQkJTUFFZZWc0UWhSb0tVaXo5NkVaVE82eGVlLU02eWVfeDU0YmNibnNtdmFsOGZHajYzRzB5NXpVUlpBN0g1ODlRaUtnd2VOMlp4UUpQakllRlp4WUxYSm1PU2ZWTl8zb0lHX2hfQ3RHZUY3U0FGeDhRRVhWZUE2TTVoVlFKeUV1dzMtZUoxQVdrYmUxX0VlMkV3dFhjUmMtR3gxTHJHWkpGbmNyOHh3Zk1qNTg5WWUwMlBDWUJkNE5HWg?oc=5",
-      "title": "(ULTA) Movement Within Algorithmic Entry Frameworks - Stock Traders Daily",
-      "body": "(ULTA) Movement Within Algorithmic Entry Frameworks Stock Traders Daily",
+      "id": "d2481490-e684-587b-9488-dae10c3802a7",
+      "timestamp_utc": "2026-04-03T22:43:00+00:00",
+      "source": "koat",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGhYYk84V2NmSDU1MGtaQmpUSHo4eXFMb001TTRYMko4ZUVsYldTSG1DODZURUVCQ3JRdUxRYkRxTHA1MVZUQmhrUEF3bUdsT2VBLUxYMXVYcXVHQVZta3RyQm9pNWZkSnRady04MWQwb0VxR2ZESms2UkFUN2V3WnhmOS1xUXEw?oc=5",
+      "title": "Video shows Ulta Beauty store theft in Albuquerque - KOAT",
+      "body": "Video shows Ulta Beauty store theft in Albuquerque KOAT",
       "author": null,
       "language": "en",
       "ticker": "ULTA",
@@ -102,69 +137,11 @@
         "ULTA"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock traders daily",
+      "publisher_raw": "koat",
       "meta": {
         "channel": "google_broad",
-        "source_name": "Stock Traders Daily",
-        "source_domain": "stocktradersdaily.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "ULTA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "57630917-3b1a-5600-9be0-b1ca7552fbc8",
-      "timestamp_utc": "2026-04-01T03:22:09+00:00",
-      "source": "beauty_packaging",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSmYxWWlTLVBPZGVFM3owVG43NkVqak5tU0FLQ1lENUtjcFZLZzBPSXUzem90eXpVRlk4MkFDblFmdjJQSTd2QkttbjJ1YWprOENyRjZ2SVlaNXlUelVrUUYzeDB3M29waGFaXzk5ZTdmV3RTR3dUdG9IMXBuN2RvMkhkZm5GNG52ZWU2TkpnQlpGTmE5Y1I2N0hmRm5CTFAxdVE?oc=5",
-      "title": "Ulta Names Kristin Wolf Chief Strategy & Growth Officer - Beauty Packaging",
-      "body": "Ulta Names Kristin Wolf Chief Strategy & Growth Officer Beauty Packaging",
-      "author": null,
-      "language": "en",
-      "ticker": "ULTA",
-      "tickers_hint": [
-        "ULTA"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "beauty packaging",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Beauty Packaging",
-        "source_domain": "beautypackaging.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "ULTA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "fa4f3a84-66d2-50f1-9f46-78166c383813",
-      "timestamp_utc": "2026-03-31T11:23:26+00:00",
-      "source": "yahoo_finance_singapore",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVTZQdEJDcDdKNjVwbFRpM2kzbUZFRk1RWV9FcFJMRUl6SjIxMHlSLWdaamxYenBIWHlPUWpnNE5BMEdvM3Zvc0tpZ1ZFVnZLWGl0cjdQRDhSeVYzWkw0cThYMHBMdGtpT1FHcFpEWm4yOE9wM2JtNHpEdU1vaWJTVEM5SlYtQTUwVFE?oc=5",
-      "title": "Ulta Beauty Promotes Kristin Wolf to Newly Created Chief Strategy and Growth Officer Role - Yahoo Finance Singapore",
-      "body": "Ulta Beauty Promotes Kristin Wolf to Newly Created Chief Strategy and Growth Officer Role Yahoo Finance Singapore",
-      "author": null,
-      "language": "en",
-      "ticker": "ULTA",
-      "tickers_hint": [
-        "ULTA"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo finance singapore",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance Singapore",
-        "source_domain": "yahoofinancesingapore.com",
+        "source_name": "KOAT",
+        "source_domain": "koat.com",
         "trust_tier": 1,
         "relevance": 0.5,
         "event_origin": "news",
@@ -179,12 +156,12 @@
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "1c190675-94ca-5705-894d-8e7af7c3484b",
-      "timestamp_utc": "2026-04-01T00:05:00+00:00",
+      "id": "e9822635-fc64-5637-aa56-3912dc85187a",
+      "timestamp_utc": "2026-04-03T16:18:55+00:00",
       "source": "yahoo_finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQkY3XzdqYlZFYkY3TUtPZkEtQUJRRVFPUTRVU0RQZnlzbjRTQXFSTnloUldzNVktN1lqcmZ5cUxVa0hHVVU0UElvTkdibHNNM2xzeGFValJuOVA0N0lwUHJyVUR3cTF6TzF2TTQyRDA4eTFsc2VmenduSmhROW1GN3Q0Vmx2U294SDMtcXQyZUZUWVdZU3J5elhfcjVmZ0t6ZkFRQUdn?oc=5",
-      "title": "Zacks Industry Outlook Highlights Ulta Beauty, Five, Sally Beauty and Arhaus - Yahoo Finance",
-      "body": "Zacks Industry Outlook Highlights Ulta Beauty, Five, Sally Beauty and Arhaus Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ulta-beauty-ulta-valuation-check-161855562.html",
+      "title": "Ulta Beauty (ULTA) Valuation Check After Recent Share Price Volatility - Yahoo Finance",
+      "body": "Ulta Beauty (ULTA) Valuation Check After Recent Share Price Volatility Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "ULTA",
@@ -198,35 +175,6 @@
         "source_name": "Yahoo Finance",
         "source_domain": "finance.yahoo.com",
         "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "ULTA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "3d72746e-5ca9-5766-bfc0-d0308a559f13",
-      "timestamp_utc": "2026-04-01T06:51:43+00:00",
-      "source": "gurufocus",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdW5yV1JXeTdIVjU1NTUxMi1aNTV2bkJhTTZCR3c3cUpOZW1FWTJPSWhCUDgyZ1R6TVFRdmRvZTdURDhnbG9GelJwMEJtN2l4bm9PSTdjODJhckRHRm1DQ1VxRjlwZTh1UjV4cmh3TW9kVW1NTlFOMEVNY19WWVJ5ZzN0ZWx6UU5WLUE?oc=5",
-      "title": "Ulta Beauty Inc (ULTA) Shares Up 3.01% on Apr 1 - GuruFocus",
-      "body": "Ulta Beauty Inc (ULTA) Shares Up 3.01% on Apr 1 GuruFocus",
-      "author": null,
-      "language": "en",
-      "ticker": "ULTA",
-      "tickers_hint": [
-        "ULTA"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
         "relevance": 0.6000000000000001,
         "event_origin": "news",
         "query_tickers": [
@@ -237,12 +185,44 @@
       "stream_type": "soft"
     },
     {
-      "id": "07dfd0a8-aa84-5ea0-877a-7166ad71125f",
-      "timestamp_utc": "2026-04-01T18:01:27+00:00",
-      "source": "wwd",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM2lkYmMwbEl5Z2NJcFh0MUVnQ2V2ejB4Yzk2YlNUMEJBUHF4eUlLVjRkbkhPcEhaN0pYdnBfWGFTR0MxOGttSnI3cHZFdUV0QUlNbzFGUUlXdjFVWnV3THlfNkw5Y2xBSGpFRDgyQVlUeTlzUHBUN3BCc0Izb3p4VmtTZU1iWFRWRTlPS1g4azByR3FseUVsaEFRZkl4LUJNdTZTYWtWTEQ?oc=5",
-      "title": "Teen Skin Care Brand Erly Lands First Retail Partner With Ulta Beauty - WWD",
-      "body": "Teen Skin Care Brand Erly Lands First Retail Partner With Ulta Beauty WWD",
+      "id": "3e2e99a9-5f0d-530f-9047-f429a55b6a54",
+      "timestamp_utc": "2026-04-03T15:01:07+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTml0UGRkX3pDNzJjZHJlckhxMVhwYjEwQnFGQTh4allIUHBSTTlOWlFCYkRWSXZ6bXk0bVZtajB4cEVJOENnZl94d3BvQmZhME9aQ0tZM0MxZ1U2cmxqVTYwSlhVd0k3ejN2bi1id0FwZVdSaU1aamw4M3pDRUlhb2R2aFpZWFBmX2pUZWswNm9lbW5PZDJRUjY4VXlOU2d1dHMtcjdQbFdwZnJLWnVjRnF3RGZvcXRfa2RFU0hsdjZqX3dfcF9zOHF4REdFQXdVVUtIOXNmbXU3S1A4VGo5YTBB?oc=5",
+      "title": "Strategic Move: Christopher Lialios Enhances Portfolio With Ulta Beauty Stock Options Worth $11K - Benzinga",
+      "body": "Strategic Move: Christopher Lialios Enhances Portfolio With Ulta Beauty Stock Options Worth $11K Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f3110b7a-7bf8-5fe1-8c0f-9d8cec203d5a",
+      "timestamp_utc": "2026-04-04T16:06:27+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vY2pnSUJ3a2puUTdFdWwtT3FiczJBeWhPblNjZWVheEFjajEtaUpBWXVpbW5wSUhWZ1dLYlEwQjRXdDBxV0pRb2l3N0xYcEJIZGc?oc=5",
+      "title": "Ulta Beauty, Inc. (ULTA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Ulta Beauty, Inc. (ULTA) Stock Price, News, Quote & History Yahoo! Finance Canada",
       "author": null,
       "language": "en",
       "ticker": "ULTA",
@@ -250,11 +230,43 @@
         "ULTA"
       ],
       "source_quality": "low",
-      "publisher_raw": "wwd",
+      "publisher_raw": "yahoo! finance canada",
       "meta": {
         "channel": "google_broad",
-        "source_name": "WWD",
-        "source_domain": "wwd.com",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "alt_sources": [
+          "Yahoo Finance UK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d3c05470-01dc-5b82-b8ab-4366347afdd3",
+      "timestamp_utc": "2026-04-04T22:34:15+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/ULTA/earnings",
+      "title": "ULTA Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "ULTA Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
         "trust_tier": 1,
         "relevance": 0.5,
         "event_origin": "news",
@@ -266,12 +278,12 @@
       "stream_type": "soft"
     },
     {
-      "id": "f0b613c6-7f39-5162-b656-58c8ab63883f",
-      "timestamp_utc": "2026-04-01T16:26:01+00:00",
-      "source": "stock_traders_daily",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLTlCazhoQkJTUFFZZWc0UWhSb0tVaXo5NkVaVE82eGVlLU02eWVfeDU0YmNibnNtdmFsOGZHajYzRzB5NXpVUlpBN0g1ODlRaUtnd2VOMlp4UUpQakllRlp4WUxYSm1PU2ZWTl8zb0lHX2hfQ3RHZUY3U0FGeDhRRVhWZUE2TTVoVlFKeUV1dzMtZUoxQVdrYmUxX0VlMkV3dFhjUmMtR3gxTHJHWkpGbmNyOHh3Zk1qNTg5WWUwMlBDWUJkNE5HWg?oc=5",
-      "title": "(ULTA) Movement Within Algorithmic Entry Frameworks - Stock Traders Daily",
-      "body": "(ULTA) Movement Within Algorithmic Entry Frameworks Stock Traders Daily",
+      "id": "d2481490-e684-587b-9488-dae10c3802a7",
+      "timestamp_utc": "2026-04-03T22:43:00+00:00",
+      "source": "koat",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGhYYk84V2NmSDU1MGtaQmpUSHo4eXFMb001TTRYMko4ZUVsYldTSG1DODZURUVCQ3JRdUxRYkRxTHA1MVZUQmhrUEF3bUdsT2VBLUxYMXVYcXVHQVZta3RyQm9pNWZkSnRady04MWQwb0VxR2ZESms2UkFUN2V3WnhmOS1xUXEw?oc=5",
+      "title": "Video shows Ulta Beauty store theft in Albuquerque - KOAT",
+      "body": "Video shows Ulta Beauty store theft in Albuquerque KOAT",
       "author": null,
       "language": "en",
       "ticker": "ULTA",
@@ -279,69 +291,11 @@
         "ULTA"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock traders daily",
+      "publisher_raw": "koat",
       "meta": {
         "channel": "google_broad",
-        "source_name": "Stock Traders Daily",
-        "source_domain": "stocktradersdaily.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "ULTA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "57630917-3b1a-5600-9be0-b1ca7552fbc8",
-      "timestamp_utc": "2026-04-01T03:22:09+00:00",
-      "source": "beauty_packaging",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSmYxWWlTLVBPZGVFM3owVG43NkVqak5tU0FLQ1lENUtjcFZLZzBPSXUzem90eXpVRlk4MkFDblFmdjJQSTd2QkttbjJ1YWprOENyRjZ2SVlaNXlUelVrUUYzeDB3M29waGFaXzk5ZTdmV3RTR3dUdG9IMXBuN2RvMkhkZm5GNG52ZWU2TkpnQlpGTmE5Y1I2N0hmRm5CTFAxdVE?oc=5",
-      "title": "Ulta Names Kristin Wolf Chief Strategy & Growth Officer - Beauty Packaging",
-      "body": "Ulta Names Kristin Wolf Chief Strategy & Growth Officer Beauty Packaging",
-      "author": null,
-      "language": "en",
-      "ticker": "ULTA",
-      "tickers_hint": [
-        "ULTA"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "beauty packaging",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Beauty Packaging",
-        "source_domain": "beautypackaging.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "ULTA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "fa4f3a84-66d2-50f1-9f46-78166c383813",
-      "timestamp_utc": "2026-03-31T11:23:26+00:00",
-      "source": "yahoo_finance_singapore",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVTZQdEJDcDdKNjVwbFRpM2kzbUZFRk1RWV9FcFJMRUl6SjIxMHlSLWdaamxYenBIWHlPUWpnNE5BMEdvM3Zvc0tpZ1ZFVnZLWGl0cjdQRDhSeVYzWkw0cThYMHBMdGtpT1FHcFpEWm4yOE9wM2JtNHpEdU1vaWJTVEM5SlYtQTUwVFE?oc=5",
-      "title": "Ulta Beauty Promotes Kristin Wolf to Newly Created Chief Strategy and Growth Officer Role - Yahoo Finance Singapore",
-      "body": "Ulta Beauty Promotes Kristin Wolf to Newly Created Chief Strategy and Growth Officer Role Yahoo Finance Singapore",
-      "author": null,
-      "language": "en",
-      "ticker": "ULTA",
-      "tickers_hint": [
-        "ULTA"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo finance singapore",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance Singapore",
-        "source_domain": "yahoofinancesingapore.com",
+        "source_name": "KOAT",
+        "source_domain": "koat.com",
         "trust_tier": 1,
         "relevance": 0.5,
         "event_origin": "news",

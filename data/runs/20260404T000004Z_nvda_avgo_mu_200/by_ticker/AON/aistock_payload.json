@@ -1,0 +1,132 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "8eef7f87-392f-5024-bb9b-e45faca70df7",
+      "timestamp_utc": "2026-04-03T05:12:42+00:00",
+      "source": "bitget",
+      "url": "https://www.bitget.com/news/detail/12560605335581",
+      "title": "Aon’s Earnings Precision Play: Miss Revenue, Trigger Fresh Sell-Off — Or Beat, and Force a Re-Rating - Bitget",
+      "body": "Aon’s Earnings Precision Play: Miss Revenue, Trigger Fresh Sell-Off — Or Beat, and Force a Re-Rating Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "AON",
+      "tickers_hint": [
+        "AON"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.75,
+        "event_origin": "news",
+        "query_tickers": [
+          "AON"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "16882d0c-9268-5b6e-86e1-925cffec7116",
+      "timestamp_utc": "2026-04-02T10:12:47+00:00",
+      "source": "inkl",
+      "url": "https://www.inkl.com/news/here-s-what-to-expect-from-aon-s-next-earnings-report",
+      "title": "Here's What to Expect From Aon's Next Earnings Report - inkl",
+      "body": "Here's What to Expect From Aon's Next Earnings Report inkl",
+      "author": null,
+      "language": "en",
+      "ticker": "AON",
+      "tickers_hint": [
+        "AON"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "inkl",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "inkl",
+        "source_domain": "inkl.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AON"
+        ],
+        "alt_sources": [
+          "FinancialContent",
+          "inkl"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "8eef7f87-392f-5024-bb9b-e45faca70df7",
+      "timestamp_utc": "2026-04-03T05:12:42+00:00",
+      "source": "bitget",
+      "url": "https://www.bitget.com/news/detail/12560605335581",
+      "title": "Aon’s Earnings Precision Play: Miss Revenue, Trigger Fresh Sell-Off — Or Beat, and Force a Re-Rating - Bitget",
+      "body": "Aon’s Earnings Precision Play: Miss Revenue, Trigger Fresh Sell-Off — Or Beat, and Force a Re-Rating Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "AON",
+      "tickers_hint": [
+        "AON"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.75,
+        "event_origin": "news",
+        "query_tickers": [
+          "AON"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "16882d0c-9268-5b6e-86e1-925cffec7116",
+      "timestamp_utc": "2026-04-02T10:12:47+00:00",
+      "source": "inkl",
+      "url": "https://www.inkl.com/news/here-s-what-to-expect-from-aon-s-next-earnings-report",
+      "title": "Here's What to Expect From Aon's Next Earnings Report - inkl",
+      "body": "Here's What to Expect From Aon's Next Earnings Report inkl",
+      "author": null,
+      "language": "en",
+      "ticker": "AON",
+      "tickers_hint": [
+        "AON"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "inkl",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "inkl",
+        "source_domain": "inkl.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AON"
+        ],
+        "alt_sources": [
+          "FinancialContent",
+          "inkl"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

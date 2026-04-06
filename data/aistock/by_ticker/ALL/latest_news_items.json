@@ -1,11 +1,11 @@
 [
   {
-    "id": "bbfc5a79-cc89-5b3b-9588-d4a9208815e7",
-    "timestamp_utc": "2026-04-01T06:10:05+00:00",
-    "source": "yahoo_finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/allstate-beat-estimates-again-next-161005801.html",
-    "title": "Will Allstate (ALL) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
-    "body": "Will Allstate (ALL) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance",
+    "id": "85b0cd1c-71d2-5315-880d-93befa8d8ed4",
+    "timestamp_utc": "2026-04-04T13:08:11+00:00",
+    "source": "seeking_alpha",
+    "url": "https://seekingalpha.com/article/4888400-allstate-has-weathered-insurance-storm-in-2025-its-umbrella-remains-strong",
+    "title": "Allstate Stock: Weathered Insurance Storm In 2025, Its Umbrella Remains Strong (NYSE:ALL) - Seeking Alpha",
+    "body": "Dougal Waters/DigitalVision via Getty Images\n\nAn analogy I love to use about the insurance sector, since springtime is when many people go sailing or boating, is that an experienced skipper should anticipate the risk of potential storms or sudden wind changes\n\nAnalyst’s Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
     "author": null,
     "language": "en",
     "ticker": "ALL",
@@ -13,60 +13,57 @@
       "ALL"
     ],
     "source_quality": "high",
-    "publisher_raw": "finance.yahoo.com",
+    "publisher_raw": "seekingalpha.com",
     "meta": {
       "channel": "google_broad",
-      "source_name": "Yahoo Finance",
-      "source_domain": "finance.yahoo.com",
+      "source_name": "Seeking Alpha",
+      "source_domain": "seekingalpha.com",
       "trust_tier": 3,
-      "relevance": 0.7000000000000001,
+      "relevance": 0.6000000000000001,
       "event_origin": "news",
       "query_tickers": [
         "ALL"
       ],
-      "body_kind": "summary_snippet"
+      "body_kind": "article_text"
     },
     "stream_type": "soft"
   },
   {
-    "id": "3f9e00fd-b113-50b4-9e4b-2d96db2e5dfe",
-    "timestamp_utc": "2026-04-01T19:54:00+00:00",
-    "source": "yahoo_finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/allstate-reports-140m-february-catastrophe-055442921.html",
-    "title": "Allstate (ALL) Reports $140M February Catastrophe Losses - Yahoo Finance",
-    "body": "Allstate (ALL) Reports $140M February Catastrophe Losses Yahoo Finance",
+    "id": "43f37fa5-3c5a-580a-9227-d047eeec350f",
+    "timestamp_utc": "2026-04-04T08:41:44+00:00",
+    "source": "defense_world",
+    "url": "https://www.defenseworld.net/2026/04/04/the-allstate-corporation-nyseall-given-average-rating-of-moderate-buy-by-brokerages.html",
+    "title": "The Allstate Corporation (NYSE:ALL) Given Average Rating of “Moderate Buy” by Brokerages - Defense World",
+    "body": "Air Armament Engines Fighter Aircraft Helicopters Land Armored Vehicles and Tanks Ordinance and Artillery Personnel Equipment Small Arms Missiles and Space Air Defense Military Satellites Missile Technology Naval Civil Aviation Accidents Airlines Engines Manufacturers MRO Economy Management Appointments Market Trends and Finance Mergers and Acquisitions Companies",
     "author": null,
     "language": "en",
     "ticker": "ALL",
     "tickers_hint": [
       "ALL"
     ],
-    "source_quality": "high",
-    "publisher_raw": "finance.yahoo.com",
+    "source_quality": "low",
+    "publisher_raw": "defense world",
     "meta": {
       "channel": "google_broad",
-      "source_name": "Yahoo Finance",
-      "source_domain": "finance.yahoo.com",
-      "trust_tier": 3,
+      "source_name": "Defense World",
+      "source_domain": "defenseworld.com",
+      "trust_tier": 1,
       "relevance": 0.6500000000000001,
       "event_origin": "news",
       "query_tickers": [
         "ALL"
       ],
-      "alt_sources": [
-        "Insider Monkey"
-      ],
-      "body_kind": "summary_snippet"
+      "body_kind": "article_text"
     },
     "stream_type": "soft"
   },
   {
-    "id": "de380ba5-7e2f-5bc4-9e1d-cdeb5ea7771f",
-    "timestamp_utc": "2026-04-01T00:28:37+00:00",
+    "id": "04fcc5d6-41d5-5a44-91d0-2a4a6d34ad63",
+    "timestamp_utc": "2026-04-04T07:25:55+00:00",
     "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-the-allstate-corporation-all-shares-purchased-by-meyer-handelman-co-2026-04-01/",
-    "title": "The Allstate Corporation $ALL Shares Purchased by Meyer Handelman Co. - MarketBeat",
-    "body": "The Allstate Corporation $ALL Shares Purchased by Meyer Handelman Co. MarketBeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-the-allstate-corporation-all-shares-purchased-by-aberdeen-group-plc-2026-04-04/",
+    "title": "The Allstate Corporation $ALL Shares Purchased by Aberdeen Group plc - MarketBeat",
+    "body": "The Allstate Corporation $ALL Shares Purchased by Aberdeen Group plc MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "ALL",
@@ -81,35 +78,6 @@
       "source_domain": "marketbeat.com",
       "trust_tier": 1,
       "relevance": 0.6500000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "ALL"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "c978e7ce-5d29-5794-9584-8f1ddd8c55e2",
-    "timestamp_utc": "2026-04-01T09:15:00+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR21xaEZJdUtPcTdUYWgwNmJnX2Z0ZEJ1WXZWUlVUMU5zNFlIY3g2NlJvX0pMZl84eHpRUjNTUkJTTzJoRENHVUdCTmpvMmxOdm1lOGc0a0paMm00U2w3Rnk2c0QyWGtDSnQxckhLWGp4SlEtVjVqdHZvWnAzZDVCRHR3TmtSc1Q4M0tBZ2otaG0zMjlkTjFBMkJYaWhKSVNmUDVTc09nckZRcDZuRjJac0F3R0pLSnFFbjNzNGthbw?oc=5",
-    "title": "Gas hits $4, and Allstate says its app is getting 50,000 weekly price checks - Stock Titan",
-    "body": "Gas hits $4, and Allstate says its app is getting 50,000 weekly price checks Stock Titan",
-    "author": null,
-    "language": "en",
-    "ticker": "ALL",
-    "tickers_hint": [
-      "ALL"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
       "event_origin": "news",
       "query_tickers": [
         "ALL"

@@ -1,43 +1,11 @@
 [
   {
-    "id": "397fb123-3991-5824-81fb-d25639c6d602",
-    "timestamp_utc": "2026-04-01T08:31:29+00:00",
-    "source": "benzinga",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQlRUS3lTVkpJTTRFYk5NZmMtWF9naE9VR2lsNXFDX1RHNS1kbGNzSHhZU1o2bHo3MWhXb3YwOFFrUVpSa2g5ZHh6VmYwWmk5Q25uemt5ejhtVEdJcXU1NHh2LWY4YnhNSXAyVUtwc3NxX0VkTjRwX19IRmFCLWdUdHdzX3NNcnVEQlY5dTNpMGJsTVEzSm1oYzk2eG5hLVJ1UEh3XzJBQlo?oc=5",
-    "title": "What's Behind The Uptick In Walt Disney Stock? - Walt Disney (NYSE:DIS) - Benzinga",
-    "body": "What's Behind The Uptick In Walt Disney Stock? - Walt Disney (NYSE:DIS) Benzinga",
-    "author": null,
-    "language": "en",
-    "ticker": "DIS",
-    "tickers_hint": [
-      "DIS"
-    ],
-    "source_quality": "high",
-    "publisher_raw": "benzinga.com",
-    "meta": {
-      "channel": "google_benzinga",
-      "source_name": "Benzinga",
-      "source_domain": "benzinga.com",
-      "trust_tier": 3,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "DIS"
-      ],
-      "alt_sources": [
-        "Benzinga"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "bb851a26-3127-5208-9953-01a3a3b06cbb",
-    "timestamp_utc": "2026-04-01T05:33:45+00:00",
-    "source": "gurufocus",
-    "url": "https://www.gurufocus.com/news/8765306/raymond-james-upgrades-dis-to-outperform-with-115-price-target-dis-stock-news",
-    "title": "Raymond James Upgrades DIS to Outperform with $115 Price Target - GuruFocus",
-    "body": "Raymond James Upgrades DIS to Outperform with $115 Price Target GuruFocus",
+    "id": "e67fcf05-ec0a-520c-9a76-329afb8351ac",
+    "timestamp_utc": "2026-04-02T22:01:51+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMkt6bURQNEJDQ3owLURvaE5LZEZRaTgxdEtDdTdTbmpXWVdOdnBwSlNRMk1uY0I5RnpoNllPUUpsQTlEbE5zMC0zcUZwbmZGY1pORmc2aWp0SEJxUGk1Y0Z3NHBGMEZBSmduNGp6MldXZTdQcmZmeDhmN08wakRVd0g2SkxfUXA0b05SOGF2WXAxd056Ui1CTDA5X2JySk5WX1N6TEVUbkhhaUE?oc=5",
+    "title": "Disney (NYSE: DIS) director Carolyn Everson granted 1,064.7 shares in award - Stock Titan",
+    "body": "Disney (NYSE: DIS) director Carolyn Everson granted 1,064.7 shares in award Stock Titan",
     "author": null,
     "language": "en",
     "ticker": "DIS",
@@ -45,13 +13,13 @@
       "DIS"
     ],
     "source_quality": "low",
-    "publisher_raw": "gurufocus.com",
+    "publisher_raw": "stock titan",
     "meta": {
       "channel": "google_broad",
-      "source_name": "GuruFocus",
-      "source_domain": "gurufocus.com",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
       "trust_tier": 1,
-      "relevance": 0.6,
+      "relevance": 0.5,
       "event_origin": "news",
       "query_tickers": [
         "DIS"

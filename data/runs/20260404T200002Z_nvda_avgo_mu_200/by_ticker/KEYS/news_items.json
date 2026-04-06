@@ -1,0 +1,31 @@
+[
+  {
+    "id": "ec34af73-7fcc-53dc-907c-f97889a86625",
+    "timestamp_utc": "2026-04-03T09:28:29+00:00",
+    "source": "intellectia_ai",
+    "url": "https://intellectia.ai/en/stock/KEYS/news",
+    "title": "KEYS Stock News Today | Earnings, Events & Price Alerts - Intellectia AI",
+    "body": "KEYS Stock News Today | Earnings, Events & Price Alerts Intellectia AI",
+    "author": null,
+    "language": "en",
+    "ticker": "KEYS",
+    "tickers_hint": [
+      "KEYS"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "intellectia ai",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Intellectia AI",
+      "source_domain": "intellectiaai.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "KEYS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

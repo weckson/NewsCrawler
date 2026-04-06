@@ -1,0 +1,66 @@
+[
+  {
+    "id": "7ff1bb3f-6cec-5c0b-ba63-e84d61119d7b",
+    "timestamp_utc": "2026-04-04T10:28:08+00:00",
+    "source": "yahoo_finance_singapore",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yWDhsSEZ6a0pxUllrT2lDTnZQQVl3aTU5UkVEVTdHQnh0TXlvbGlBaW1ZTGc2YVpjYWFVTTZJWGtJLVBKRHgyRlU3SzRrTWVINUNTRnFwT3liYkduRkpYNw?oc=5",
+    "title": "Tapestry, Inc. (TPR) stock price, news, quote and history - Yahoo Finance Singapore",
+    "body": "Tapestry, Inc. (TPR) stock price, news, quote and history Yahoo Finance Singapore",
+    "author": null,
+    "language": "en",
+    "ticker": "TPR",
+    "tickers_hint": [
+      "TPR"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo finance singapore",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance Singapore",
+      "source_domain": "yahoofinancesingapore.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "TPR"
+      ],
+      "alt_sources": [
+        "Yahoo! Finance Canada"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "8e28eefc-8d56-5e45-9a05-920340d789cf",
+    "timestamp_utc": "2026-04-04T10:11:46+00:00",
+    "source": "yahoo_finance_uk",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qbUFmLUJQNDVFZkVJa2FqMUF2MlN1ZVJSNE80LWtROXRRcUVld1VQNHl6Tk1RTTQxemh6Nm1ZTW1jYzVjMW5UV0pkTUhoSjZBT2FzbHViaw?oc=5",
+    "title": "Tapestry, Inc. (TPR) latest stock news and headlines - Yahoo Finance UK",
+    "body": "Tapestry, Inc. (TPR) latest stock news and headlines Yahoo Finance UK",
+    "author": null,
+    "language": "en",
+    "ticker": "TPR",
+    "tickers_hint": [
+      "TPR"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo finance uk",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance UK",
+      "source_domain": "yahoofinanceuk.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "TPR"
+      ],
+      "alt_sources": [
+        "Yahoo Finance Singapore"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

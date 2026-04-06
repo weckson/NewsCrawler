@@ -1,0 +1,34 @@
+[
+  {
+    "id": "77262918-f046-5023-8865-69b61e91c898",
+    "timestamp_utc": "2026-04-04T05:15:01+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nRGZjODVWandBdWU5WVJqTFhRdEd2V3oySUd4cG0wU0lDRFIxRVRfRzQ5Y2o5bjRCdUp3NjVTa2hVNDJtSWFFc3NpOXpEalUy?oc=5",
+    "title": "Archer-Daniels-Midland Company (ADM) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "body": "Archer-Daniels-Midland Company (ADM) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "author": null,
+    "language": "en",
+    "ticker": "ADM",
+    "tickers_hint": [
+      "ADM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo! finance canada",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "ADM"
+      ],
+      "alt_sources": [
+        "Yahoo! Finance Canada"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]
