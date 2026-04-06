@@ -1,0 +1,118 @@
+[
+  {
+    "id": "7f6aaaba-9631-56dc-a74e-9ca7d2cedcc4",
+    "timestamp_utc": "2026-04-03T07:00:00+00:00",
+    "source": "investing.com",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbXdRVXhkVHAxMGpBMUhtRld2ZFV2WHk1eUlBOWc4b2xFbTZzMnNTalFMNGZoSG1La2dDUHkzdWdsTGhRVnl6N3ZNZWc4d0Ruby00YkNURm93ZFFJekwxWG4wcEhka0RMRFdxNWhCMEJkWHdoVFRjNUhlMHlwNVZGanl5MVdVLTNnRTJxX0J1ZXcwMWRhZlQzbnFkUjMtRnEwVFRMSTgzQ24tVjdpczY2NkNjVFcwZFBjQmpnVw?oc=5",
+    "title": "Cigna group: Officer Neville Everett sells $497k in stock - investing.com",
+    "body": "Cigna group: Officer Neville Everett sells $497k in stock investing.com",
+    "author": null,
+    "language": "en",
+    "ticker": "CI",
+    "tickers_hint": [
+      "CI"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "investing.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "investing.com",
+      "source_domain": "investing.com",
+      "trust_tier": 2,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "CI"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "84e70811-98eb-5661-9d28-54a98f6f183c",
+    "timestamp_utc": "2026-04-02T15:40:07+00:00",
+    "source": "finviz.com",
+    "url": "https://finviz.com/news/341996/the-cigna-groups-first-quarter-2026-earnings-release-details",
+    "title": "The Cigna Group's First Quarter 2026 Earnings Release Details - finviz.com",
+    "body": "The Cigna Group's First Quarter 2026 Earnings Release Details finviz.com",
+    "author": null,
+    "language": "en",
+    "ticker": "CI",
+    "tickers_hint": [
+      "CI"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "finviz.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "finviz.com",
+      "source_domain": "finvizcom.com",
+      "trust_tier": 1,
+      "relevance": 0.7000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "CI"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "7332a088-4514-5842-8965-6ee7a2701914",
+    "timestamp_utc": "2026-04-04T07:15:58+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-aberdeen-group-plc-reduces-stake-in-cigna-group-ci-2026-04-04/",
+    "title": "Aberdeen Group plc Reduces Stake in Cigna Group $CI - MarketBeat",
+    "body": "Aberdeen Group plc Reduces Stake in Cigna Group $CI MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "CI",
+    "tickers_hint": [
+      "CI"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "CI"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "acb55fb1-1f1d-5c2f-b570-8d6914d500e4",
+    "timestamp_utc": "2026-04-03T21:13:56+00:00",
+    "source": "stocktitan.net",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbGVab29UcE9ZNEZhT0I5YV9VMWQyQ2dzNHVOUHpSelE0d0ZuS1o0YVE1d2g4cXUwUmU5cjRJRzdraHV1QV92dlhNdFpHNXUzckF5akxsbnAwNFM2dHRBb3N1SHVlZzBxQnRPUURDZkhKYmZBbHF5UHAyUmZRZmk5T0ZRZzIxUVdDLXVHZDdlRDlSMTFHd01WQnJ3QkRfbk13TjBrdDVpU01lV0hpeDU3bzNhcDdneXc4cFVDNg?oc=5",
+    "title": "Cigna (NYSE: CI) EVP details stock and option holdings - stocktitan.net",
+    "body": "Cigna (NYSE: CI) EVP details stock and option holdings stocktitan.net",
+    "author": null,
+    "language": "en",
+    "ticker": "CI",
+    "tickers_hint": [
+      "CI"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stocktitan.net",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "stocktitan.net",
+      "source_domain": "stocktitannet.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "CI"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

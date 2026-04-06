@@ -1,0 +1,34 @@
+[
+  {
+    "id": "dbbdd559-2260-5861-880d-f4ded6ba373b",
+    "timestamp_utc": "2026-04-03T21:52:26+00:00",
+    "source": "yahoo_finance_uk",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TRldWZzFiblhnZHk3TE8zdm96LUdMMVdfMnZRSFpKNUtuWkg0OEVlLTI2WEVyV0FaNFU3WkFPQ01seWUwY1BJTUk2dVNrRzZOUFdzdUl4Yw?oc=5",
+    "title": "W.W. Grainger, Inc. (GWW) latest stock news and headlines - Yahoo Finance UK",
+    "body": "W.W. Grainger, Inc. (GWW) latest stock news and headlines Yahoo Finance UK",
+    "author": null,
+    "language": "en",
+    "ticker": "GWW",
+    "tickers_hint": [
+      "GWW"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo finance uk",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance UK",
+      "source_domain": "yahoofinanceuk.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "GWW"
+      ],
+      "alt_sources": [
+        "Yahoo Finance UK"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

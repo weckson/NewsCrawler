@@ -1,0 +1,20 @@
+[2m2026-04-02T14:07:39.763095Z[0m [[32m[1minfo     [0m] [1mrun_start                     [0m [36mhours[0m=[35m1[0m [36mrun_dir[0m=[35mdata\runs\20260402T140739Z_nvda_1[0m [36mtickers[0m=[35m['NVDA'][0m
+[2m2026-04-02T14:07:39.763951Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35m'Benzinga RSS'[0m [36mtag[0m=[35mbenzinga_rss[0m
+[2m2026-04-02T14:07:42.377668Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35mhttps://www.benzinga.com/feed[0m
+[2m2026-04-02T14:07:42.576612Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mbenzinga_rss[0m [36mraw[0m=[35m10[0m
+[2m2026-04-02T14:07:45.115734Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35mhttps://www.benzinga.com/news/feed[0m
+[2m2026-04-02T14:07:45.152347Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mbenzinga_rss[0m [36mraw[0m=[35m15[0m
+[2m2026-04-02T14:07:45.152471Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35mGoogle->Benzinga[0m [36mtag[0m=[35mgoogle_benzinga[0m
+[2m2026-04-02T14:07:47.911784Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=NVDA+nvidia+site:benzinga.com&hl=en-US&gl=US&ceid=US:'[0m
+[2m2026-04-02T14:07:48.034426Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-04-02T14:07:50.634397Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=nvidia+site:benzinga.com&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-04-02T14:07:50.748847Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_benzinga[0m [36mraw[0m=[35m100[0m
+[2m2026-04-02T14:07:50.748958Z[0m [[32m[1minfo     [0m] [1mcrawling                      [0m [36mchannel[0m=[35m'Google News (all)'[0m [36mtag[0m=[35mgoogle_broad[0m
+[2m2026-04-02T14:07:53.318143Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=NVDA+nvidia+stock+news&hl=en-US&gl=US&ceid=US:en'[0m
+[2m2026-04-02T14:07:53.429142Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-04-02T14:07:56.120057Z[0m [[32m[1minfo     [0m] [1mfetch                         [0m [36mstatus[0m=[35m200[0m [36murl[0m=[35m'https://news.google.com/rss/search?q=NVDA+nvidia+earnings+analysis&hl=en-US&gl=US&ceid=US:'[0m
+[2m2026-04-02T14:07:56.230804Z[0m [[32m[1minfo     [0m] [1mparsed                        [0m [36mchannel[0m=[35mgoogle_broad[0m [36mraw[0m=[35m100[0m
+[2m2026-04-02T14:07:56.231872Z[0m [[32m[1minfo     [0m] [1mquality_filter                [0m [36minput[0m=[35m425[0m [36mpassed[0m=[35m0[0m
+[2m2026-04-02T14:07:56.231958Z[0m [[32m[1minfo     [0m] [1mdedup                         [0m [36mafter[0m=[35m0[0m [36mbefore[0m=[35m0[0m
+[2m2026-04-02T14:07:56.232029Z[0m [[32m[1minfo     [0m] [1mfulltext_selection            [0m [36mcandidates[0m=[35m0[0m [36mfiltered[0m=[35m0[0m [36mmode[0m=[35moff[0m [36mticker[0m=[35mNVDA[0m
+[2m2026-04-02T14:07:56.237340Z[0m [[32m[1minfo     [0m] [1mrun_complete                  [0m [36mfiltered[0m=[35m0[0m [36mlog_path[0m=[35mdata\runs\20260402T140739Z_nvda_1\run.log[0m [36mnews_items[0m=[35m0[0m [36mraw[0m=[35m425[0m [36mrun_dir[0m=[35mdata\runs\20260402T140739Z_nvda_1[0m

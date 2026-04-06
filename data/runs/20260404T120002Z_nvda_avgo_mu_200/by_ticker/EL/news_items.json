@@ -1,0 +1,31 @@
+[
+  {
+    "id": "fef64f10-09b9-5cbc-a3ac-18ec963d8ce0",
+    "timestamp_utc": "2026-04-02T16:04:25+00:00",
+    "source": "bitget",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sZWl6V2NVOHRvT0pndkFJSS03Nzg0azNIRFliVktXaDMyR1FxTHpJTFZJaGpzRXZ1aXFoU01SS2dOUnB1blVRaVlDWUkyVFRYYjZWM0duSUM0d0dNWjBYM2M5b9IBY0FVX3lxTE5sZWl6V2NVOHRvT0pndkFJSS03Nzg0azNIRFliVktXaDMyR1FxTHpJTFZJaGpzRXZ1aXFoU01SS2dOUnB1blVRaVlDWUkyVFRYYjZWM0duSUM0d0dNWjBYM2M5bw?oc=5",
+    "title": "Estee Lauder Crashes 5.4% Intraday: What's Fueling This Sudden Dive? - Bitget",
+    "body": "Estee Lauder Crashes 5.4% Intraday: What's Fueling This Sudden Dive? Bitget",
+    "author": null,
+    "language": "en",
+    "ticker": "EL",
+    "tickers_hint": [
+      "EL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "bitget",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Bitget",
+      "source_domain": "bitget.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "EL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

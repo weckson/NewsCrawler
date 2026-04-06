@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "8a7eb9ac-3709-5aab-bb3d-c81face10614",
+      "timestamp_utc": "2026-04-01T15:32:37+00:00",
+      "source": "insider_monkey",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNkZkVmV1VURjenJmVUZxQlRKdzU0X05xZUlBMlpvbE8xbFllZmpGcVR0M1FIMjVNa2dURDRGRVpjSHNlRW9rekZZQ1ZFcWJmcVd4ME14XzJwX0xWcjItXzdvVXhGQnQ0ZU5vbU9zTFVKaFRWZl91dnFVcUZnWUEwRnRRWEdVemNfVUNpSmpqQVVvbTVaOVRIZmdJU1J6UDFmc192OHRRdW5FUnh2OTZ2dGh3anpuZ0pLMk9Ybkh0TkZjak9lU3fSAcYBQVVfeXFMTzZGZFZldVVEY3pyZlVGcUJUSnc1NF9OcWVJQTJab2xPMWxZZWZqRnFUdDNRSDI1TWtnVEQ0RkVaY0hzZUVva3pGWUNWRXFiZnFXeDBNeF8ycF9MVnIyLV83b1V4RkJ0NGVOb21Pc0xVSmhUVmZfdXZxVXFGZ1lBMEZ0UVhHVXpjX1VDaUpqakFVb201WjlUSGZnSVNSelAxZnNfdjh0UXVuRVJ4djk2dnRod2p6bmdKSzJPWG5IdE5GY2pPZVN3?oc=5",
+      "title": "Las Vegas Sands Corp. (LVS): Billionaire Paul Tudor Jones More Than Doubles Stake - Insider Monkey",
+      "body": "Las Vegas Sands Corp. (LVS): Billionaire Paul Tudor Jones More Than Doubles Stake Insider Monkey",
+      "author": null,
+      "language": "en",
+      "ticker": "LVS",
+      "tickers_hint": [
+        "LVS"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "insidermonkey.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Insider Monkey",
+        "source_domain": "insidermonkey.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "LVS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "8a7eb9ac-3709-5aab-bb3d-c81face10614",
+      "timestamp_utc": "2026-04-01T15:32:37+00:00",
+      "source": "insider_monkey",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNkZkVmV1VURjenJmVUZxQlRKdzU0X05xZUlBMlpvbE8xbFllZmpGcVR0M1FIMjVNa2dURDRGRVpjSHNlRW9rekZZQ1ZFcWJmcVd4ME14XzJwX0xWcjItXzdvVXhGQnQ0ZU5vbU9zTFVKaFRWZl91dnFVcUZnWUEwRnRRWEdVemNfVUNpSmpqQVVvbTVaOVRIZmdJU1J6UDFmc192OHRRdW5FUnh2OTZ2dGh3anpuZ0pLMk9Ybkh0TkZjak9lU3fSAcYBQVVfeXFMTzZGZFZldVVEY3pyZlVGcUJUSnc1NF9OcWVJQTJab2xPMWxZZWZqRnFUdDNRSDI1TWtnVEQ0RkVaY0hzZUVva3pGWUNWRXFiZnFXeDBNeF8ycF9MVnIyLV83b1V4RkJ0NGVOb21Pc0xVSmhUVmZfdXZxVXFGZ1lBMEZ0UVhHVXpjX1VDaUpqakFVb201WjlUSGZnSVNSelAxZnNfdjh0UXVuRVJ4djk2dnRod2p6bmdKSzJPWG5IdE5GY2pPZVN3?oc=5",
+      "title": "Las Vegas Sands Corp. (LVS): Billionaire Paul Tudor Jones More Than Doubles Stake - Insider Monkey",
+      "body": "Las Vegas Sands Corp. (LVS): Billionaire Paul Tudor Jones More Than Doubles Stake Insider Monkey",
+      "author": null,
+      "language": "en",
+      "ticker": "LVS",
+      "tickers_hint": [
+        "LVS"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "insidermonkey.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Insider Monkey",
+        "source_domain": "insidermonkey.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "LVS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

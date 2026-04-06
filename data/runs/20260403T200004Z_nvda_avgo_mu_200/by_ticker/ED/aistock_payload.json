@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "78503ba8-f890-5bdf-b86f-501c6006777d",
+      "timestamp_utc": "2026-04-03T07:43:35+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-exchange-traded-concepts-llc-cuts-stake-in-consolidated-edison-inc-ed-2026-04-03/",
+      "title": "Exchange Traded Concepts LLC Cuts Stake in Consolidated Edison Inc $ED - MarketBeat",
+      "body": "Exchange Traded Concepts LLC Cuts Stake in Consolidated Edison Inc $ED MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ED",
+      "tickers_hint": [
+        "ED"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ED"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "78503ba8-f890-5bdf-b86f-501c6006777d",
+      "timestamp_utc": "2026-04-03T07:43:35+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-exchange-traded-concepts-llc-cuts-stake-in-consolidated-edison-inc-ed-2026-04-03/",
+      "title": "Exchange Traded Concepts LLC Cuts Stake in Consolidated Edison Inc $ED - MarketBeat",
+      "body": "Exchange Traded Concepts LLC Cuts Stake in Consolidated Edison Inc $ED MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "ED",
+      "tickers_hint": [
+        "ED"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ED"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

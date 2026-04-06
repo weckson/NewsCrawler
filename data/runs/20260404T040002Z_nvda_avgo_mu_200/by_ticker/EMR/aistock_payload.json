@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "788d8ec8-01fc-5277-b81b-53794899c45a",
+      "timestamp_utc": "2026-04-02T05:26:15+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765566/emr-wells-fargo-lowers-price-target-amidst-maintained-rating-emr-stock-news?mobile=true",
+      "title": "EMR: Wells Fargo Lowers Price Target Amidst Maintained Rating | - GuruFocus",
+      "body": "EMR: Wells Fargo Lowers Price Target Amidst Maintained Rating | GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "EMR",
+      "tickers_hint": [
+        "EMR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "EMR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2d680abb-8919-5661-b9a9-2e0c790c2cc7",
+      "timestamp_utc": "2026-04-02T06:32:49+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765737/emerson-electric-emr-sees-price-target-lowered-by-barclays-emr-stock-news?mobile=true",
+      "title": "Emerson Electric (EMR) Sees Price Target Lowered by Barclays | E - GuruFocus",
+      "body": "Emerson Electric (EMR) Sees Price Target Lowered by Barclays | E GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "EMR",
+      "tickers_hint": [
+        "EMR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "EMR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "17414453-8e60-5c08-9d50-e725ddc141f7",
+      "timestamp_utc": "2026-04-03T00:21:35+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yQU1FUWU4T0NnYU9PRHFYLVVLNjg4S0llRDJ1VVBvbTItdWgzSmk5aGxhTEdOTTdGcVd5TDZyd0VsTDJHTEFWUGpIRUszSFRR?oc=5",
+      "title": "Emerson Electric Co. (EMR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Emerson Electric Co. (EMR) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "EMR",
+      "tickers_hint": [
+        "EMR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "EMR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "788d8ec8-01fc-5277-b81b-53794899c45a",
+      "timestamp_utc": "2026-04-02T05:26:15+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765566/emr-wells-fargo-lowers-price-target-amidst-maintained-rating-emr-stock-news?mobile=true",
+      "title": "EMR: Wells Fargo Lowers Price Target Amidst Maintained Rating | - GuruFocus",
+      "body": "EMR: Wells Fargo Lowers Price Target Amidst Maintained Rating | GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "EMR",
+      "tickers_hint": [
+        "EMR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "EMR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2d680abb-8919-5661-b9a9-2e0c790c2cc7",
+      "timestamp_utc": "2026-04-02T06:32:49+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765737/emerson-electric-emr-sees-price-target-lowered-by-barclays-emr-stock-news?mobile=true",
+      "title": "Emerson Electric (EMR) Sees Price Target Lowered by Barclays | E - GuruFocus",
+      "body": "Emerson Electric (EMR) Sees Price Target Lowered by Barclays | E GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "EMR",
+      "tickers_hint": [
+        "EMR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "EMR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "17414453-8e60-5c08-9d50-e725ddc141f7",
+      "timestamp_utc": "2026-04-03T00:21:35+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yQU1FUWU4T0NnYU9PRHFYLVVLNjg4S0llRDJ1VVBvbTItdWgzSmk5aGxhTEdOTTdGcVd5TDZyd0VsTDJHTEFWUGpIRUszSFRR?oc=5",
+      "title": "Emerson Electric Co. (EMR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Emerson Electric Co. (EMR) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "EMR",
+      "tickers_hint": [
+        "EMR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "EMR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

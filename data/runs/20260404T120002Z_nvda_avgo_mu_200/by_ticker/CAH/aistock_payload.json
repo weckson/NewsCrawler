@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "0c974ec7-b263-5219-acd1-f21669d4f3d2",
+      "timestamp_utc": "2026-04-02T16:10:12+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lZTBPbTNvQ01NRHNWUWlZNTNZdGhXTEpZUFIybFZUeHNjTTF0OTlvdk43ODlRN3JRSkVDYnFvU2o5czlOc09XakpzVXVQNzR1eDV2SnN2TjFtN01UVWQybDlCMGc?oc=5",
+      "title": "CAH Apr 2026 227.500 call (CAH260402C00227500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "CAH Apr 2026 227.500 call (CAH260402C00227500) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "CAH",
+      "tickers_hint": [
+        "CAH"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CAH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "0c974ec7-b263-5219-acd1-f21669d4f3d2",
+      "timestamp_utc": "2026-04-02T16:10:12+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lZTBPbTNvQ01NRHNWUWlZNTNZdGhXTEpZUFIybFZUeHNjTTF0OTlvdk43ODlRN3JRSkVDYnFvU2o5czlOc09XakpzVXVQNzR1eDV2SnN2TjFtN01UVWQybDlCMGc?oc=5",
+      "title": "CAH Apr 2026 227.500 call (CAH260402C00227500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "CAH Apr 2026 227.500 call (CAH260402C00227500) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "CAH",
+      "tickers_hint": [
+        "CAH"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CAH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

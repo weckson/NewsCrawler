@@ -1,0 +1,60 @@
+[
+  {
+    "id": "bc820cf5-0719-5bbe-9c4a-4c332ece15e2",
+    "timestamp_utc": "2026-04-04T00:16:05+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaDIzVkpiWFVfYV9YdTJncEdId2VacmNvblNDQVBuTWtnSUpuVEtRaVFiQ2JnM05UQ1ZPQ0g1R0tzZkZob0dHR2Z2cm1ZMHZQeVdfQmQyQVJuRVhvcHdaMGJBY1g0ZEo3a1pyOTZ4aHNZUWZqb1BlWndxREdOMk5zUE1vd0hVMHhQVW9ncXY4cDdhTDBOUU9SZ3EzWi1xaU8yOXk0c1FzZUItLUtVUURfNk80RUl0RGVRcGlkcUR6clY?oc=5",
+    "title": "Charter Communications (NASDAQ: CHTR) sees $965M exchangeable debt repaid in cash - Stock Titan",
+    "body": "Charter Communications (NASDAQ: CHTR) sees $965M exchangeable debt repaid in cash Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "CHTR",
+    "tickers_hint": [
+      "CHTR"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "CHTR"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "06c667cf-098f-5c43-9b0a-092271a3ea01",
+    "timestamp_utc": "2026-04-03T17:39:12+00:00",
+    "source": "yahoo_finance_singapore",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tMEVudm95bTdHZkcyV2FreHRMYTd3RUR0YldDejN5emViQVJvOUtkSGk5MjlYWTdQV2lMSEV6SHA3b1BJUU9uOXJpTVZrNHpLTzg1dnlaYVk?oc=5",
+    "title": "Charter Communications, Inc. (CHTR) latest stock news and headlines - Yahoo Finance Singapore",
+    "body": "Charter Communications, Inc. (CHTR) latest stock news and headlines Yahoo Finance Singapore",
+    "author": null,
+    "language": "en",
+    "ticker": "CHTR",
+    "tickers_hint": [
+      "CHTR"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo finance singapore",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance Singapore",
+      "source_domain": "yahoofinancesingapore.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "CHTR"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "id": "b7d270bc-ddd8-56bf-89aa-56fd3b60058a",
+    "timestamp_utc": "2026-04-04T10:34:13+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-thurston-springer-miller-herd-titak-inc-buys-4647-shares-of-mcdonalds-corporation-mcd-2026-04-04/",
+    "title": "Thurston Springer Miller Herd & Titak Inc. Buys 4,647 Shares of McDonald's Corporation $MCD - MarketBeat",
+    "body": "Thurston Springer Miller Herd & Titak Inc. Buys 4,647 Shares of McDonald's Corporation $MCD MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "MCD",
+    "tickers_hint": [
+      "MCD"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "MCD"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "0fba25e1-6170-553f-bf37-6fd6070ada88",
+    "timestamp_utc": "2026-04-03T07:17:36+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-aberdeen-group-plc-trims-stake-in-mcdonalds-corporation-mcd-2026-04-03/",
+    "title": "Aberdeen Group plc Trims Stake in McDonald's Corporation $MCD - MarketBeat",
+    "body": "Aberdeen Group plc Trims Stake in McDonald's Corporation $MCD MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "MCD",
+    "tickers_hint": [
+      "MCD"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "MCD"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "cf86009e-e1a0-593d-b676-a7106b962525",
+    "timestamp_utc": "2026-04-02T20:13:45+00:00",
+    "source": "yahoo_finance_singapore",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLTk0dXc5U0RreTRLTVhfOVV0UXhUbFVtU0hzY0MtQ28tYklWRHpsQ0ZIZW93azdLUnJ1eTRfaWNibklFeUQ0T3JCUy0ySmpmZlptZEN0aC00VXlmNDdjQnBWQ0FrS3FIV3RFUXV1aXFLN3dpTHNaVlQ2MDhOeWNMWTctTHRvLTdYdE1J?oc=5",
+    "title": "McDonald's (MCD) Valuation Check As New KPop Demon Hunters Campaign Targets Younger Fans - Yahoo Finance Singapore",
+    "body": "McDonald's (MCD) Valuation Check As New KPop Demon Hunters Campaign Targets Younger Fans Yahoo Finance Singapore",
+    "author": null,
+    "language": "en",
+    "ticker": "MCD",
+    "tickers_hint": [
+      "MCD"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo finance singapore",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance Singapore",
+      "source_domain": "yahoofinancesingapore.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "MCD"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "d65146ca-e2ee-58cc-b5a9-78726fa0e452",
+    "timestamp_utc": "2026-04-02T18:05:30+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZGhRVjFSVnFaWFpFajluLVQzYUVXdFJNZXlPdEpnNzNtdEF4bE1JaHFJM3hEU0k0TUJBZzNjQmlxcUs2T3o0N1VFTTRFemxQQVpWWF9OdzZ0TFBJZFZTOHVnUHlBa2R2dFNwbEVBQ1NMS295MmpXdGNGdktON3Y0blZTZm45ZmU1UmtiMTJWVEMtczFGR1oyRXpNdzRhdUNEbFctb19mUkFYOXAwV25n?oc=5",
+    "title": "James D. Farley, Jr. joins McDonald’s (MCD) Audit & Finance and Corporate Responsibility panels - Stock Titan",
+    "body": "James D. Farley, Jr. joins McDonald’s (MCD) Audit & Finance and Corporate Responsibility panels Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "MCD",
+    "tickers_hint": [
+      "MCD"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "MCD"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

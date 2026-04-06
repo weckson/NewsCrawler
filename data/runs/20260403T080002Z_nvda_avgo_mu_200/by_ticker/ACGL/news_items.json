@@ -1,0 +1,89 @@
+[
+  {
+    "id": "4775999b-1379-5517-bb02-ff2aef76b04d",
+    "timestamp_utc": "2026-04-02T16:10:03+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-arch-capital-acgl-poised-161003705.html",
+    "title": "Why Arch Capital (ACGL) is Poised to Beat Earnings Estimates Again - Yahoo Finance",
+    "body": "Why Arch Capital (ACGL) is Poised to Beat Earnings Estimates Again Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "ACGL",
+    "tickers_hint": [
+      "ACGL"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "ACGL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "a798b617-7468-53a2-93b1-041706421914",
+    "timestamp_utc": "2026-04-02T12:31:15+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/research-analysts-offer-predictions-for-acgl-q1-earnings-2026-04-02/",
+    "title": "Research Analysts Offer Predictions for ACGL Q1 Earnings - MarketBeat",
+    "body": "Research Analysts Offer Predictions for ACGL Q1 Earnings MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "ACGL",
+    "tickers_hint": [
+      "ACGL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.7,
+      "event_origin": "news",
+      "query_tickers": [
+        "ACGL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "b2996686-9596-5f11-ab2f-6dd91f7e7efa",
+    "timestamp_utc": "2026-04-02T21:56:15+00:00",
+    "source": "bitget.com",
+    "url": "https://www.bitget.com/amp/news/detail/12560605332147",
+    "title": "Why Arch Capital (ACGL) Looks Set to Surpass Earnings Projections Once More - bitget.com",
+    "body": "Why Arch Capital (ACGL) Looks Set to Surpass Earnings Projections Once More bitget.com",
+    "author": null,
+    "language": "en",
+    "ticker": "ACGL",
+    "tickers_hint": [
+      "ACGL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "bitget.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "bitget.com",
+      "source_domain": "bitgetcom.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "ACGL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

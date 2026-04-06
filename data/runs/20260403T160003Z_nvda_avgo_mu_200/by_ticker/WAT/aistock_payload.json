@@ -1,0 +1,240 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "8b5631f1-538d-5ee2-9246-544350eb8ec7",
+      "timestamp_utc": "2026-04-01T17:19:34+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8763560/goldman-sachs-reinstates-buy-rating-on-waters-wat-stock?mobile=true",
+      "title": "Goldman Sachs Reinstates Buy Rating on Waters (WAT) Stock - GuruFocus",
+      "body": "Goldman Sachs Reinstates Buy Rating on Waters (WAT) Stock GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "WAT",
+      "tickers_hint": [
+        "WAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "WAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "433d776f-b5d5-5466-a7bb-062acc20e6bb",
+      "timestamp_utc": "2026-04-02T21:03:05+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdVBUMElhZVM2cGc5bmlKbXNmbW42cW9VZnRPR1RORkNrWHc2RnpWZ1kzbWl3ZHQ4WFBrM2ZRQ2dYUG4wY3dRSnE2TW0wUjlSUFNEZnd0V2daLUEtclkzSndIUS1VRm1lVTdaeUEyX21RUmxGVm9zVEZuRGViazc3b0Z4bWV3R3dEcFh1MnpsVjVmWjhOQ0hxZkwwX2l4YVhiaHllLXA2d3pkeWs?oc=5",
+      "title": "Waters Corp (WAT) director gets deferred stock units grant - Stock Titan",
+      "body": "Waters Corp (WAT) director gets deferred stock units grant Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "WAT",
+      "tickers_hint": [
+        "WAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "af610f90-90c3-59ee-a9c0-917ac6cf840a",
+      "timestamp_utc": "2026-04-02T21:00:53+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVNEZHN2YlB2VUZyS1Q1QU9FT1Z1MzNOTy05dTFvRFpKdFhXc0NNc0lxMF9xdHFZNmx4WllDTWQtT2hyMW9sU1dRLUpXNmpiTmZ3d21SX3RMSVRCN0VnWU9XVHBMV1ZiY0pCUnhYVHNwNXd4dUY1dzBtOFJnTlJfRG1XRkYzQmgwREtHVUZ0LXhLVTBpMEo4a2ZrZWtXVDhtdW8ySzA2S3Rjek0?oc=5",
+      "title": "Director Heather Knight granted deferred Waters (NYSE: WAT) stock units - Stock Titan",
+      "body": "Director Heather Knight granted deferred Waters (NYSE: WAT) stock units Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "WAT",
+      "tickers_hint": [
+        "WAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fd7d72c3-2410-543b-ae1c-a3cc2b079540",
+      "timestamp_utc": "2026-04-02T01:03:38+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVTc4eDVUajhiZ2plaDVBU0lQTkJpZGpYeFZSaDBTeXUtZGx1cDA1NnhtU0VhSURmZHZ5YTdMWDFPTm5JV1kyQ3VEV29lN1BsYlp3WVBIWTl4YkFGdzlrNW16TDdnNzRaV2ZuaEwxU2pKZVlkdVRRY2xqbnNscHFNN25ETV9DLXZoN0E?oc=5",
+      "title": "Parkman Healthcare Partners LLC's Waters Corp(WAT) Holding History - GuruFocus",
+      "body": "Parkman Healthcare Partners LLC's Waters Corp(WAT) Holding History GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "WAT",
+      "tickers_hint": [
+        "WAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "8b5631f1-538d-5ee2-9246-544350eb8ec7",
+      "timestamp_utc": "2026-04-01T17:19:34+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8763560/goldman-sachs-reinstates-buy-rating-on-waters-wat-stock?mobile=true",
+      "title": "Goldman Sachs Reinstates Buy Rating on Waters (WAT) Stock - GuruFocus",
+      "body": "Goldman Sachs Reinstates Buy Rating on Waters (WAT) Stock GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "WAT",
+      "tickers_hint": [
+        "WAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "WAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "433d776f-b5d5-5466-a7bb-062acc20e6bb",
+      "timestamp_utc": "2026-04-02T21:03:05+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdVBUMElhZVM2cGc5bmlKbXNmbW42cW9VZnRPR1RORkNrWHc2RnpWZ1kzbWl3ZHQ4WFBrM2ZRQ2dYUG4wY3dRSnE2TW0wUjlSUFNEZnd0V2daLUEtclkzSndIUS1VRm1lVTdaeUEyX21RUmxGVm9zVEZuRGViazc3b0Z4bWV3R3dEcFh1MnpsVjVmWjhOQ0hxZkwwX2l4YVhiaHllLXA2d3pkeWs?oc=5",
+      "title": "Waters Corp (WAT) director gets deferred stock units grant - Stock Titan",
+      "body": "Waters Corp (WAT) director gets deferred stock units grant Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "WAT",
+      "tickers_hint": [
+        "WAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "af610f90-90c3-59ee-a9c0-917ac6cf840a",
+      "timestamp_utc": "2026-04-02T21:00:53+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVNEZHN2YlB2VUZyS1Q1QU9FT1Z1MzNOTy05dTFvRFpKdFhXc0NNc0lxMF9xdHFZNmx4WllDTWQtT2hyMW9sU1dRLUpXNmpiTmZ3d21SX3RMSVRCN0VnWU9XVHBMV1ZiY0pCUnhYVHNwNXd4dUY1dzBtOFJnTlJfRG1XRkYzQmgwREtHVUZ0LXhLVTBpMEo4a2ZrZWtXVDhtdW8ySzA2S3Rjek0?oc=5",
+      "title": "Director Heather Knight granted deferred Waters (NYSE: WAT) stock units - Stock Titan",
+      "body": "Director Heather Knight granted deferred Waters (NYSE: WAT) stock units Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "WAT",
+      "tickers_hint": [
+        "WAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fd7d72c3-2410-543b-ae1c-a3cc2b079540",
+      "timestamp_utc": "2026-04-02T01:03:38+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVTc4eDVUajhiZ2plaDVBU0lQTkJpZGpYeFZSaDBTeXUtZGx1cDA1NnhtU0VhSURmZHZ5YTdMWDFPTm5JV1kyQ3VEV29lN1BsYlp3WVBIWTl4YkFGdzlrNW16TDdnNzRaV2ZuaEwxU2pKZVlkdVRRY2xqbnNscHFNN25ETV9DLXZoN0E?oc=5",
+      "title": "Parkman Healthcare Partners LLC's Waters Corp(WAT) Holding History - GuruFocus",
+      "body": "Parkman Healthcare Partners LLC's Waters Corp(WAT) Holding History GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "WAT",
+      "tickers_hint": [
+        "WAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

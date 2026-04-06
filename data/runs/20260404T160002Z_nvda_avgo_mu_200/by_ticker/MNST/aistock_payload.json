@@ -1,0 +1,186 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "6118d2fb-201e-5712-8559-16dc42112b5d",
+      "timestamp_utc": "2026-04-03T15:40:03+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTS1YQmc1TGxEbEZiTUl2SU1sWUtUSHFZeUhsdUlxYTFtZW1rX1FBYm9XeG80MjFSN290c0wxX1lkQ1JZRm9Tai1MNjNCZFRGZUpDZnJwVjlZcklLcS0zcWpxYjNjXzhaMElmVHJYdl9rRExxMEt4RzhtaGhBdVRvZGRwejVVUEJVRkpBYTM0UVE1QzA?oc=5",
+      "title": "KDP vs. MNST: Which Stock Is the Better Value Option? - Yahoo Finance",
+      "body": "KDP vs. MNST: Which Stock Is the Better Value Option? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "MNST",
+      "tickers_hint": [
+        "MNST"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MNST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ba6f9e32-9566-5c2a-87ac-16f9526f2f84",
+      "timestamp_utc": "2026-04-04T08:06:38+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaEtSUm9DLWZqVXhCYVhqb2xOcnhqN3A1b3BJTDRYNy1mc3E4U1FuUWcxcFZRY3F6YjR3OGxxSWZmSVJET0RQd0FzMURsTWJOZGstckZDcTBfTHpZSUJrQ3UwbWJXVEVXUXdSaUR0NWYwNnJpaVJBYkNWd2QyTnJZSl9XRGN3bFpheGo5QUJEZUl5eEsxTGV1QzdyeUpud1RNRzluQ2RWV1UwSDJDYVZLRVY5a0U1NFR3VGpZX196OXFOcWw2UFpMeQ?oc=5",
+      "title": "Brookstone Capital Management Buys Shares of 17,720 Monster Beverage Corporation $MNST - Defense World",
+      "body": "Brookstone Capital Management Buys Shares of 17,720 Monster Beverage Corporation $MNST Defense World",
+      "author": null,
+      "language": "en",
+      "ticker": "MNST",
+      "tickers_hint": [
+        "MNST"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MNST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fc67d27a-f0ab-530e-939b-e14f2c321cd3",
+      "timestamp_utc": "2026-04-03T16:52:40+00:00",
+      "source": "bitget",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uODZPQTVvT0doX1JObG9WYVZkYTVVTlJwWmZCWFMwRl9kbWh5U3BiOWpTRURSQXBzaUllaV91N25FQ3VSV2VzenBOOGZOa2tha3k2WVZPTGlBWGtMTjQ0SjBIY9IBY0FVX3lxTE9uODZPQTVvT0doX1JObG9WYVZkYTVVTlJwWmZCWFMwRl9kbWh5U3BiOWpTRURSQXBzaUllaV91N25FQ3VSV2VzenBOOGZOa2tha3k2WVZPTGlBWGtMTjQ0SjBIYw?oc=5",
+      "title": "KDP or MNST: Which Stock Offers Superior Value? - Bitget",
+      "body": "KDP or MNST: Which Stock Offers Superior Value? Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "KDP",
+      "tickers_hint": [
+        "KDP",
+        "MNST"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KDP",
+          "MNST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "6118d2fb-201e-5712-8559-16dc42112b5d",
+      "timestamp_utc": "2026-04-03T15:40:03+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTS1YQmc1TGxEbEZiTUl2SU1sWUtUSHFZeUhsdUlxYTFtZW1rX1FBYm9XeG80MjFSN290c0wxX1lkQ1JZRm9Tai1MNjNCZFRGZUpDZnJwVjlZcklLcS0zcWpxYjNjXzhaMElmVHJYdl9rRExxMEt4RzhtaGhBdVRvZGRwejVVUEJVRkpBYTM0UVE1QzA?oc=5",
+      "title": "KDP vs. MNST: Which Stock Is the Better Value Option? - Yahoo Finance",
+      "body": "KDP vs. MNST: Which Stock Is the Better Value Option? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "MNST",
+      "tickers_hint": [
+        "MNST"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MNST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ba6f9e32-9566-5c2a-87ac-16f9526f2f84",
+      "timestamp_utc": "2026-04-04T08:06:38+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaEtSUm9DLWZqVXhCYVhqb2xOcnhqN3A1b3BJTDRYNy1mc3E4U1FuUWcxcFZRY3F6YjR3OGxxSWZmSVJET0RQd0FzMURsTWJOZGstckZDcTBfTHpZSUJrQ3UwbWJXVEVXUXdSaUR0NWYwNnJpaVJBYkNWd2QyTnJZSl9XRGN3bFpheGo5QUJEZUl5eEsxTGV1QzdyeUpud1RNRzluQ2RWV1UwSDJDYVZLRVY5a0U1NFR3VGpZX196OXFOcWw2UFpMeQ?oc=5",
+      "title": "Brookstone Capital Management Buys Shares of 17,720 Monster Beverage Corporation $MNST - Defense World",
+      "body": "Brookstone Capital Management Buys Shares of 17,720 Monster Beverage Corporation $MNST Defense World",
+      "author": null,
+      "language": "en",
+      "ticker": "MNST",
+      "tickers_hint": [
+        "MNST"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MNST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fc67d27a-f0ab-530e-939b-e14f2c321cd3",
+      "timestamp_utc": "2026-04-03T16:52:40+00:00",
+      "source": "bitget",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uODZPQTVvT0doX1JObG9WYVZkYTVVTlJwWmZCWFMwRl9kbWh5U3BiOWpTRURSQXBzaUllaV91N25FQ3VSV2VzenBOOGZOa2tha3k2WVZPTGlBWGtMTjQ0SjBIY9IBY0FVX3lxTE9uODZPQTVvT0doX1JObG9WYVZkYTVVTlJwWmZCWFMwRl9kbWh5U3BiOWpTRURSQXBzaUllaV91N25FQ3VSV2VzenBOOGZOa2tha3k2WVZPTGlBWGtMTjQ0SjBIYw?oc=5",
+      "title": "KDP or MNST: Which Stock Offers Superior Value? - Bitget",
+      "body": "KDP or MNST: Which Stock Offers Superior Value? Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "KDP",
+      "tickers_hint": [
+        "KDP",
+        "MNST"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KDP",
+          "MNST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

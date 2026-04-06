@@ -1,0 +1,298 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "8be96287-f4f1-5d88-bcce-387bbeee55a7",
+      "timestamp_utc": "2026-04-03T12:00:19+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqUGNEYjZXcmRoSkpILTF4Q3FUQk56T0tjUUFWcWZNUy1GZjd5dlhXcmtJMzdpRVRtVTVENmpsS2wtdFN6TFZzMEduUDg1Q1l3clhVcDZ4bHhKZlFOaWg0REs5X0hWQ1N5RmttY1FR?oc=5",
+      "title": "PPL Corp (PPL) Stock Price, Trades & News - GuruFocus",
+      "body": "PPL Corp (PPL) Stock Price, Trades & News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "PPL",
+      "tickers_hint": [
+        "PPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "PPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d437f17d-605a-5f51-8bc0-d6875b4ce382",
+      "timestamp_utc": "2026-04-03T04:50:35+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ydGVCdThhWkEzaDVjanpyQzctcWNMZHBDOGt5WktxcUxHWDlaYUpwdkdqY2NkZlBjMVJHU29IeW5SU0k5LVNnYVBHRXVLaGRk?oc=5",
+      "title": "PPL Corporation (PPL) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "PPL Corporation (PPL) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "PPL",
+      "tickers_hint": [
+        "PPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "PPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "51ed3605-742d-5f8e-86e8-adada32aaa4f",
+      "timestamp_utc": "2026-04-04T02:47:24+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90TG1OdUg5MVRCMUxUNElnY2pQZjZuUDVQWFlQbGRNSzk5cTctLVhfWjlFWW80aHhqcjBSWVlIMDBfMnBwdHE4aHVrY0xla0NGcWRiNDlVV0dNRXNLZENLVU1JREY?oc=5",
+      "title": "PPL Jul 2026 35.000 call (PPL260717C00035000) stock price, news, quote and history - Yahoo Finance Singapore",
+      "body": "PPL Jul 2026 35.000 call (PPL260717C00035000) stock price, news, quote and history Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "PPL",
+      "tickers_hint": [
+        "PPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "10a43e6a-9b4b-57ad-b8c7-1d2831ed470b",
+      "timestamp_utc": "2026-04-03T21:48:26+00:00",
+      "source": "msn.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONndiTU9JQmVTeXhIVVVCLXRjc1lKbWt1R3RyNkEzbXd5aXJRZTJDSkRLTWs4TW5IalR2VHhVRzFzVkktbkxrNW5zM3FJbENuZldVVlREaHhySUlSSTEzbDFIODdtajNjQjZWNGdOQWQtenktZkEtMjc0WnVLc0tZZA?oc=5",
+      "title": "PEMBINA PIPELINE CORPORATION (PPL) - msn.com",
+      "body": "PEMBINA PIPELINE CORPORATION (PPL) msn.com",
+      "author": null,
+      "language": "en",
+      "ticker": "PPL",
+      "tickers_hint": [
+        "PPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "msn.com",
+        "source_domain": "msncom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "47eb5b4f-3a46-54e6-9156-24a26f9e72ab",
+      "timestamp_utc": "2026-04-03T04:48:19+00:00",
+      "source": "trefis.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVWNWaDFnc1A1azZOV1o4dGg3dWVsTzB2R3dzV2R0UEFYOG1YNGFmdWZ3V1pOSTB1VWVPUzdUNVFlVUVodEpWZ0tWcTZyMFNkWm91QjRGZktkRlRmY1ZfRXNwQ00wczBEOUhDWWFQaS1mUUxXelFuejBTU1pMMkFHbjMxbnBNV3loMVA3NkpmbV82VDR0bTdwSkkydVFSMDZsVFhoa2MtdUVPR2c?oc=5",
+      "title": "PPL Stock 9-Day Winning Spree: Stock Climbs 5.7% - trefis.com",
+      "body": "PPL Stock 9-Day Winning Spree: Stock Climbs 5.7% trefis.com",
+      "author": null,
+      "language": "en",
+      "ticker": "PPL",
+      "tickers_hint": [
+        "PPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "trefis.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "trefis.com",
+        "source_domain": "trefiscom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "8be96287-f4f1-5d88-bcce-387bbeee55a7",
+      "timestamp_utc": "2026-04-03T12:00:19+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqUGNEYjZXcmRoSkpILTF4Q3FUQk56T0tjUUFWcWZNUy1GZjd5dlhXcmtJMzdpRVRtVTVENmpsS2wtdFN6TFZzMEduUDg1Q1l3clhVcDZ4bHhKZlFOaWg0REs5X0hWQ1N5RmttY1FR?oc=5",
+      "title": "PPL Corp (PPL) Stock Price, Trades & News - GuruFocus",
+      "body": "PPL Corp (PPL) Stock Price, Trades & News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "PPL",
+      "tickers_hint": [
+        "PPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "PPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d437f17d-605a-5f51-8bc0-d6875b4ce382",
+      "timestamp_utc": "2026-04-03T04:50:35+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ydGVCdThhWkEzaDVjanpyQzctcWNMZHBDOGt5WktxcUxHWDlaYUpwdkdqY2NkZlBjMVJHU29IeW5SU0k5LVNnYVBHRXVLaGRk?oc=5",
+      "title": "PPL Corporation (PPL) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "PPL Corporation (PPL) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "PPL",
+      "tickers_hint": [
+        "PPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "PPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "51ed3605-742d-5f8e-86e8-adada32aaa4f",
+      "timestamp_utc": "2026-04-04T02:47:24+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90TG1OdUg5MVRCMUxUNElnY2pQZjZuUDVQWFlQbGRNSzk5cTctLVhfWjlFWW80aHhqcjBSWVlIMDBfMnBwdHE4aHVrY0xla0NGcWRiNDlVV0dNRXNLZENLVU1JREY?oc=5",
+      "title": "PPL Jul 2026 35.000 call (PPL260717C00035000) stock price, news, quote and history - Yahoo Finance Singapore",
+      "body": "PPL Jul 2026 35.000 call (PPL260717C00035000) stock price, news, quote and history Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "PPL",
+      "tickers_hint": [
+        "PPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "10a43e6a-9b4b-57ad-b8c7-1d2831ed470b",
+      "timestamp_utc": "2026-04-03T21:48:26+00:00",
+      "source": "msn.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONndiTU9JQmVTeXhIVVVCLXRjc1lKbWt1R3RyNkEzbXd5aXJRZTJDSkRLTWs4TW5IalR2VHhVRzFzVkktbkxrNW5zM3FJbENuZldVVlREaHhySUlSSTEzbDFIODdtajNjQjZWNGdOQWQtenktZkEtMjc0WnVLc0tZZA?oc=5",
+      "title": "PEMBINA PIPELINE CORPORATION (PPL) - msn.com",
+      "body": "PEMBINA PIPELINE CORPORATION (PPL) msn.com",
+      "author": null,
+      "language": "en",
+      "ticker": "PPL",
+      "tickers_hint": [
+        "PPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "msn.com",
+        "source_domain": "msncom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "47eb5b4f-3a46-54e6-9156-24a26f9e72ab",
+      "timestamp_utc": "2026-04-03T04:48:19+00:00",
+      "source": "trefis.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVWNWaDFnc1A1azZOV1o4dGg3dWVsTzB2R3dzV2R0UEFYOG1YNGFmdWZ3V1pOSTB1VWVPUzdUNVFlVUVodEpWZ0tWcTZyMFNkWm91QjRGZktkRlRmY1ZfRXNwQ00wczBEOUhDWWFQaS1mUUxXelFuejBTU1pMMkFHbjMxbnBNV3loMVA3NkpmbV82VDR0bTdwSkkydVFSMDZsVFhoa2MtdUVPR2c?oc=5",
+      "title": "PPL Stock 9-Day Winning Spree: Stock Climbs 5.7% - trefis.com",
+      "body": "PPL Stock 9-Day Winning Spree: Stock Climbs 5.7% trefis.com",
+      "author": null,
+      "language": "en",
+      "ticker": "PPL",
+      "tickers_hint": [
+        "PPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "trefis.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "trefis.com",
+        "source_domain": "trefiscom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "fca80ae8-5a2d-5294-a179-d0bdd899fe2f",
+      "timestamp_utc": "2026-04-02T21:41:43+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tbm1lNkhOVVhOejZQdnVjbTdYTTBRSUFudkJrUmZsV3JPRzQycDdsdVd0MDJDUW1kRGx6YW1adjlIT0h3NmdMdG9zbFlDNUZq?oc=5",
+      "title": "Warner Bros. Discovery, Inc. (WBD) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Warner Bros. Discovery, Inc. (WBD) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "WBD",
+      "tickers_hint": [
+        "WBD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WBD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "fca80ae8-5a2d-5294-a179-d0bdd899fe2f",
+      "timestamp_utc": "2026-04-02T21:41:43+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tbm1lNkhOVVhOejZQdnVjbTdYTTBRSUFudkJrUmZsV3JPRzQycDdsdVd0MDJDUW1kRGx6YW1adjlIT0h3NmdMdG9zbFlDNUZq?oc=5",
+      "title": "Warner Bros. Discovery, Inc. (WBD) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Warner Bros. Discovery, Inc. (WBD) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "WBD",
+      "tickers_hint": [
+        "WBD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WBD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

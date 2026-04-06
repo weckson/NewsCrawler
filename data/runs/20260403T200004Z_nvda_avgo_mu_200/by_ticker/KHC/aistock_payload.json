@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "330a0da5-fcd0-5fb4-8425-588108d71fc8",
+      "timestamp_utc": "2026-04-02T22:00:04+00:00",
+      "source": "finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcFFtT0NSaHFhaThYblRYcnVhSTZiMVNaeDJBajRsYTVSZ2U3aTd2eDhzRnNUb0pCU0hNZTZCS2c5Qll6SjVOOWltYUJDMDZlTzZrOGwyQjlhQTRYMzIwWVR6dW5raFJpeUNNckNBaUhHZXJtY3V3TjhmbGEwQjA5Ulp0ZGZpejZjbGhiVVQ4bHpWM1lrRWc?oc=5",
+      "title": "Kraft Heinz (KHC) Laps the Stock Market: Here's Why - finance.yahoo.com",
+      "body": "Kraft Heinz (KHC) Laps the Stock Market: Here's Why finance.yahoo.com",
+      "author": null,
+      "language": "en",
+      "ticker": "KHC",
+      "tickers_hint": [
+        "KHC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "finance.yahoo.com",
+        "source_domain": "financeyahoocom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KHC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "330a0da5-fcd0-5fb4-8425-588108d71fc8",
+      "timestamp_utc": "2026-04-02T22:00:04+00:00",
+      "source": "finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcFFtT0NSaHFhaThYblRYcnVhSTZiMVNaeDJBajRsYTVSZ2U3aTd2eDhzRnNUb0pCU0hNZTZCS2c5Qll6SjVOOWltYUJDMDZlTzZrOGwyQjlhQTRYMzIwWVR6dW5raFJpeUNNckNBaUhHZXJtY3V3TjhmbGEwQjA5Ulp0ZGZpejZjbGhiVVQ4bHpWM1lrRWc?oc=5",
+      "title": "Kraft Heinz (KHC) Laps the Stock Market: Here's Why - finance.yahoo.com",
+      "body": "Kraft Heinz (KHC) Laps the Stock Market: Here's Why finance.yahoo.com",
+      "author": null,
+      "language": "en",
+      "ticker": "KHC",
+      "tickers_hint": [
+        "KHC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "finance.yahoo.com",
+        "source_domain": "financeyahoocom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KHC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

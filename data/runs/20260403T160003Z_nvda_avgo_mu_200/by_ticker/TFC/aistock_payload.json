@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "59acec9a-4ed3-5d9f-bf7a-d9077ccfd125",
+      "timestamp_utc": "2026-04-02T08:46:46+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-blue-trust-inc-increases-stock-position-in-truist-financial-corporation-tfc-2026-04-02/",
+      "title": "Blue Trust Inc. Increases Stock Position in Truist Financial Corporation $TFC - MarketBeat",
+      "body": "Blue Trust Inc. Increases Stock Position in Truist Financial Corporation $TFC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "TFC",
+      "tickers_hint": [
+        "TFC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "TFC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "59acec9a-4ed3-5d9f-bf7a-d9077ccfd125",
+      "timestamp_utc": "2026-04-02T08:46:46+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-blue-trust-inc-increases-stock-position-in-truist-financial-corporation-tfc-2026-04-02/",
+      "title": "Blue Trust Inc. Increases Stock Position in Truist Financial Corporation $TFC - MarketBeat",
+      "body": "Blue Trust Inc. Increases Stock Position in Truist Financial Corporation $TFC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "TFC",
+      "tickers_hint": [
+        "TFC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "TFC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

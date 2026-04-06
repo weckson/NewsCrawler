@@ -1,0 +1,304 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "c902ab22-6107-5af6-9c64-1811ef80246a",
+      "timestamp_utc": "2026-04-02T15:45:04+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-ventas-vtr-great-dividend-154504252.html",
+      "title": "Why Ventas (VTR) is a Great Dividend Stock Right Now - Yahoo Finance",
+      "body": "Why Ventas (VTR) is a Great Dividend Stock Right Now Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "VTR",
+      "tickers_hint": [
+        "VTR"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "VTR"
+        ],
+        "alt_sources": [
+          "Yahoo Finance Australia"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "16c82009-1d40-55b2-900f-439fbded3638",
+      "timestamp_utc": "2026-04-03T20:05:21+00:00",
+      "source": "stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdlhJWDBrZldhdDdWQy1sa3gzSUlwa3YtbjVab05XNnBmdGE3SjRTZEJBeER0WUtwWFl1dV9ELXBDSTFsMXNubEVKUkhwdXZkTTd0UEJCZUljOTJ6YzZycjRkdDNhZ1FHLVJTX0Y2eEVJWHVyZXFqaHZQNUNDb2twbnRkREg1b280dXJzY1o4M3A0dm5MN2hyR3JRQTVZM1NaaERCNGxB?oc=5",
+      "title": "Director Maurice S. Smith receives 457 Ventas (NYSE: VTR) stock units as fees - stocktitan.net",
+      "body": "Director Maurice S. Smith receives 457 Ventas (NYSE: VTR) stock units as fees stocktitan.net",
+      "author": null,
+      "language": "en",
+      "ticker": "VTR",
+      "tickers_hint": [
+        "VTR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktitan.net",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "stocktitan.net",
+        "source_domain": "stocktitannet.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "VTR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2af825ee-5bf9-5eda-afec-207dde0ba141",
+      "timestamp_utc": "2026-04-03T20:05:16+00:00",
+      "source": "stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSmFNWk95QUlkRWNZTjR3RlFjcmJmckZhMjRhYXYzVVhQOFUxREVGSkJsWXRkeHVKSUt2OW52TFg2RjA4cDhkNEhlYndGMVh2X0tHX1FlY3RyQ0ZqVzVzOTJHd3JsQ0h1amRrVVZSLVlJZXhvbWUxajV6aDNvanQ1RDhBZ3NUZE84RWFjRGtRR3ZTckNhWl9wS21xem52WVdXY3NqTEl3?oc=5",
+      "title": "Ventas (NYSE: VTR) director awarded 381 shares under fee deferral plan - stocktitan.net",
+      "body": "Ventas (NYSE: VTR) director awarded 381 shares under fee deferral plan stocktitan.net",
+      "author": null,
+      "language": "en",
+      "ticker": "VTR",
+      "tickers_hint": [
+        "VTR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktitan.net",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "stocktitan.net",
+        "source_domain": "stocktitannet.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "VTR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a6e9d2bd-ee71-57dc-92ee-197ad6456864",
+      "timestamp_utc": "2026-04-03T20:05:14+00:00",
+      "source": "stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc0xJalRZM2xERVRXVmhERmJOUFdNRGhJbV9XVEE1Sjd6M0s2RHZickZDODNIR0dmcktDc18zcVpMRTBDR0JkZTFkMUpfb3VjZ2xkV3JkZDlWdlItMFJ3aGtyb0hjRUVNcmR3WUtNbVIwTm9xS3RKRkprQ0hwTFl0a0F0NXgtUk9HemlJeHJrQjBRSjdDb183MlZWR2NoblJRei00YWFn?oc=5",
+      "title": "Ventas (VTR) director converts deferred board fees into 396 stock units - stocktitan.net",
+      "body": "Ventas (VTR) director converts deferred board fees into 396 stock units stocktitan.net",
+      "author": null,
+      "language": "en",
+      "ticker": "VTR",
+      "tickers_hint": [
+        "VTR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktitan.net",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "stocktitan.net",
+        "source_domain": "stocktitannet.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "VTR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6c019616-03dd-504d-8dce-7ab647f9d511",
+      "timestamp_utc": "2026-04-03T20:05:10+00:00",
+      "source": "stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGFpYWc3Q1ZMUWhiaHNtMWM3LXVYV3ZxX050NjA1RXRHc1lqRzEyQ1pSRzlrM0NnSktSVHphV3dCRU91TlUySVd0RmxJaFZwcjljUDAzY3c2WElzdENaLUVRVkdWVXF3UVZBWkR1ZVphaUhCWGJTZTNBZU5WSUlxQjI4OXVPWUI4em9JZHpmU29RU1V2eG13eGJlSVdhNFhzUFYyMC1n?oc=5",
+      "title": "Roxanne Martino adds Ventas (VTR) shares through director fee grant - stocktitan.net",
+      "body": "Roxanne Martino adds Ventas (VTR) shares through director fee grant stocktitan.net",
+      "author": null,
+      "language": "en",
+      "ticker": "VTR",
+      "tickers_hint": [
+        "VTR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktitan.net",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "stocktitan.net",
+        "source_domain": "stocktitannet.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "VTR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "c902ab22-6107-5af6-9c64-1811ef80246a",
+      "timestamp_utc": "2026-04-02T15:45:04+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-ventas-vtr-great-dividend-154504252.html",
+      "title": "Why Ventas (VTR) is a Great Dividend Stock Right Now - Yahoo Finance",
+      "body": "Why Ventas (VTR) is a Great Dividend Stock Right Now Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "VTR",
+      "tickers_hint": [
+        "VTR"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "VTR"
+        ],
+        "alt_sources": [
+          "Yahoo Finance Australia"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "16c82009-1d40-55b2-900f-439fbded3638",
+      "timestamp_utc": "2026-04-03T20:05:21+00:00",
+      "source": "stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdlhJWDBrZldhdDdWQy1sa3gzSUlwa3YtbjVab05XNnBmdGE3SjRTZEJBeER0WUtwWFl1dV9ELXBDSTFsMXNubEVKUkhwdXZkTTd0UEJCZUljOTJ6YzZycjRkdDNhZ1FHLVJTX0Y2eEVJWHVyZXFqaHZQNUNDb2twbnRkREg1b280dXJzY1o4M3A0dm5MN2hyR3JRQTVZM1NaaERCNGxB?oc=5",
+      "title": "Director Maurice S. Smith receives 457 Ventas (NYSE: VTR) stock units as fees - stocktitan.net",
+      "body": "Director Maurice S. Smith receives 457 Ventas (NYSE: VTR) stock units as fees stocktitan.net",
+      "author": null,
+      "language": "en",
+      "ticker": "VTR",
+      "tickers_hint": [
+        "VTR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktitan.net",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "stocktitan.net",
+        "source_domain": "stocktitannet.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "VTR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2af825ee-5bf9-5eda-afec-207dde0ba141",
+      "timestamp_utc": "2026-04-03T20:05:16+00:00",
+      "source": "stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSmFNWk95QUlkRWNZTjR3RlFjcmJmckZhMjRhYXYzVVhQOFUxREVGSkJsWXRkeHVKSUt2OW52TFg2RjA4cDhkNEhlYndGMVh2X0tHX1FlY3RyQ0ZqVzVzOTJHd3JsQ0h1amRrVVZSLVlJZXhvbWUxajV6aDNvanQ1RDhBZ3NUZE84RWFjRGtRR3ZTckNhWl9wS21xem52WVdXY3NqTEl3?oc=5",
+      "title": "Ventas (NYSE: VTR) director awarded 381 shares under fee deferral plan - stocktitan.net",
+      "body": "Ventas (NYSE: VTR) director awarded 381 shares under fee deferral plan stocktitan.net",
+      "author": null,
+      "language": "en",
+      "ticker": "VTR",
+      "tickers_hint": [
+        "VTR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktitan.net",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "stocktitan.net",
+        "source_domain": "stocktitannet.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "VTR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a6e9d2bd-ee71-57dc-92ee-197ad6456864",
+      "timestamp_utc": "2026-04-03T20:05:14+00:00",
+      "source": "stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc0xJalRZM2xERVRXVmhERmJOUFdNRGhJbV9XVEE1Sjd6M0s2RHZickZDODNIR0dmcktDc18zcVpMRTBDR0JkZTFkMUpfb3VjZ2xkV3JkZDlWdlItMFJ3aGtyb0hjRUVNcmR3WUtNbVIwTm9xS3RKRkprQ0hwTFl0a0F0NXgtUk9HemlJeHJrQjBRSjdDb183MlZWR2NoblJRei00YWFn?oc=5",
+      "title": "Ventas (VTR) director converts deferred board fees into 396 stock units - stocktitan.net",
+      "body": "Ventas (VTR) director converts deferred board fees into 396 stock units stocktitan.net",
+      "author": null,
+      "language": "en",
+      "ticker": "VTR",
+      "tickers_hint": [
+        "VTR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktitan.net",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "stocktitan.net",
+        "source_domain": "stocktitannet.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "VTR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6c019616-03dd-504d-8dce-7ab647f9d511",
+      "timestamp_utc": "2026-04-03T20:05:10+00:00",
+      "source": "stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGFpYWc3Q1ZMUWhiaHNtMWM3LXVYV3ZxX050NjA1RXRHc1lqRzEyQ1pSRzlrM0NnSktSVHphV3dCRU91TlUySVd0RmxJaFZwcjljUDAzY3c2WElzdENaLUVRVkdWVXF3UVZBWkR1ZVphaUhCWGJTZTNBZU5WSUlxQjI4OXVPWUI4em9JZHpmU29RU1V2eG13eGJlSVdhNFhzUFYyMC1n?oc=5",
+      "title": "Roxanne Martino adds Ventas (VTR) shares through director fee grant - stocktitan.net",
+      "body": "Roxanne Martino adds Ventas (VTR) shares through director fee grant stocktitan.net",
+      "author": null,
+      "language": "en",
+      "ticker": "VTR",
+      "tickers_hint": [
+        "VTR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktitan.net",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "stocktitan.net",
+        "source_domain": "stocktitannet.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "VTR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

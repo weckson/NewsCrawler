@@ -1,0 +1,188 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "c7d41a22-68a7-5cb8-b293-058abd5ad3c9",
+      "timestamp_utc": "2026-04-03T05:24:48+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LSTR5c1ZpUWtRaTdLczlHSW5sNklkNGtPS2RmU2d0a0JuN0FRcDlzUmFwVXI5NnhyRHlyOEdtYVJDM2xHSWtiY3p6ZzU5dTd5?oc=5",
+      "title": "Waters Corporation (WAT) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Waters Corporation (WAT) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "WAT",
+      "tickers_hint": [
+        "WAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WAT"
+        ],
+        "alt_sources": [
+          "Yahoo Finance UK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "433d776f-b5d5-5466-a7bb-062acc20e6bb",
+      "timestamp_utc": "2026-04-02T21:03:05+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdVBUMElhZVM2cGc5bmlKbXNmbW42cW9VZnRPR1RORkNrWHc2RnpWZ1kzbWl3ZHQ4WFBrM2ZRQ2dYUG4wY3dRSnE2TW0wUjlSUFNEZnd0V2daLUEtclkzSndIUS1VRm1lVTdaeUEyX21RUmxGVm9zVEZuRGViazc3b0Z4bWV3R3dEcFh1MnpsVjVmWjhOQ0hxZkwwX2l4YVhiaHllLXA2d3pkeWs?oc=5",
+      "title": "Waters Corp (WAT) director gets deferred stock units grant - Stock Titan",
+      "body": "Waters Corp (WAT) director gets deferred stock units grant Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "WAT",
+      "tickers_hint": [
+        "WAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "af610f90-90c3-59ee-a9c0-917ac6cf840a",
+      "timestamp_utc": "2026-04-02T21:00:53+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVNEZHN2YlB2VUZyS1Q1QU9FT1Z1MzNOTy05dTFvRFpKdFhXc0NNc0lxMF9xdHFZNmx4WllDTWQtT2hyMW9sU1dRLUpXNmpiTmZ3d21SX3RMSVRCN0VnWU9XVHBMV1ZiY0pCUnhYVHNwNXd4dUY1dzBtOFJnTlJfRG1XRkYzQmgwREtHVUZ0LXhLVTBpMEo4a2ZrZWtXVDhtdW8ySzA2S3Rjek0?oc=5",
+      "title": "Director Heather Knight granted deferred Waters (NYSE: WAT) stock units - Stock Titan",
+      "body": "Director Heather Knight granted deferred Waters (NYSE: WAT) stock units Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "WAT",
+      "tickers_hint": [
+        "WAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "c7d41a22-68a7-5cb8-b293-058abd5ad3c9",
+      "timestamp_utc": "2026-04-03T05:24:48+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LSTR5c1ZpUWtRaTdLczlHSW5sNklkNGtPS2RmU2d0a0JuN0FRcDlzUmFwVXI5NnhyRHlyOEdtYVJDM2xHSWtiY3p6ZzU5dTd5?oc=5",
+      "title": "Waters Corporation (WAT) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Waters Corporation (WAT) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "WAT",
+      "tickers_hint": [
+        "WAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WAT"
+        ],
+        "alt_sources": [
+          "Yahoo Finance UK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "433d776f-b5d5-5466-a7bb-062acc20e6bb",
+      "timestamp_utc": "2026-04-02T21:03:05+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdVBUMElhZVM2cGc5bmlKbXNmbW42cW9VZnRPR1RORkNrWHc2RnpWZ1kzbWl3ZHQ4WFBrM2ZRQ2dYUG4wY3dRSnE2TW0wUjlSUFNEZnd0V2daLUEtclkzSndIUS1VRm1lVTdaeUEyX21RUmxGVm9zVEZuRGViazc3b0Z4bWV3R3dEcFh1MnpsVjVmWjhOQ0hxZkwwX2l4YVhiaHllLXA2d3pkeWs?oc=5",
+      "title": "Waters Corp (WAT) director gets deferred stock units grant - Stock Titan",
+      "body": "Waters Corp (WAT) director gets deferred stock units grant Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "WAT",
+      "tickers_hint": [
+        "WAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "af610f90-90c3-59ee-a9c0-917ac6cf840a",
+      "timestamp_utc": "2026-04-02T21:00:53+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVNEZHN2YlB2VUZyS1Q1QU9FT1Z1MzNOTy05dTFvRFpKdFhXc0NNc0lxMF9xdHFZNmx4WllDTWQtT2hyMW9sU1dRLUpXNmpiTmZ3d21SX3RMSVRCN0VnWU9XVHBMV1ZiY0pCUnhYVHNwNXd4dUY1dzBtOFJnTlJfRG1XRkYzQmgwREtHVUZ0LXhLVTBpMEo4a2ZrZWtXVDhtdW8ySzA2S3Rjek0?oc=5",
+      "title": "Director Heather Knight granted deferred Waters (NYSE: WAT) stock units - Stock Titan",
+      "body": "Director Heather Knight granted deferred Waters (NYSE: WAT) stock units Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "WAT",
+      "tickers_hint": [
+        "WAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

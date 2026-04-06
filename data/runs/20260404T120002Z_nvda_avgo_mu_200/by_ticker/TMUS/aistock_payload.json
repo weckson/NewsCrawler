@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "4858989c-d7ea-527c-abab-be102ab4f832",
+      "timestamp_utc": "2026-04-02T19:36:39+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XNnBlRmVOdURQbTlYTzF0dVRsbWUybnlLOW96UjJPSTR4aTJ5YUsxRzR1NFVidEI3YllvTnhWYmlBNEFSYUJXMno2Y1NSVmZKOFY2Z1pQX1hQNGFybHE4ellzQnY0UQ?oc=5",
+      "title": "TMUS Apr 2026 217.500 call (TMUS260410C00217500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "TMUS Apr 2026 217.500 call (TMUS260410C00217500) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "TMUS",
+      "tickers_hint": [
+        "TMUS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TMUS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "4858989c-d7ea-527c-abab-be102ab4f832",
+      "timestamp_utc": "2026-04-02T19:36:39+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XNnBlRmVOdURQbTlYTzF0dVRsbWUybnlLOW96UjJPSTR4aTJ5YUsxRzR1NFVidEI3YllvTnhWYmlBNEFSYUJXMno2Y1NSVmZKOFY2Z1pQX1hQNGFybHE4ellzQnY0UQ?oc=5",
+      "title": "TMUS Apr 2026 217.500 call (TMUS260410C00217500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "TMUS Apr 2026 217.500 call (TMUS260410C00217500) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "TMUS",
+      "tickers_hint": [
+        "TMUS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TMUS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

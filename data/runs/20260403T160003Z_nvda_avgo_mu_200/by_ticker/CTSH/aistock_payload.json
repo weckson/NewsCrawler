@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "a0eb65e9-0012-565e-9c9f-bd971c7947de",
+      "timestamp_utc": "2026-04-02T13:40:03+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTUFyeUZoVVNwRmxmWGZMQUg5RzY3YWFlTjY3eWpZY2V4SmF4ODFXQ19FbWhlbElaTUM5elJ2WnpPTVRLM0RpdFNoWTlXd1FnRXU3UzlsU0lZeUZMY3lmVEtfRlNaUHYwdG45TU80NGRFdGlTenV5bUZyMkZpZkM1azJHOTdCdEhwYTBhMDlhZ2pveWhjX1VrTUZiS2I?oc=5",
+      "title": "Here's Why Cognizant (CTSH) is a Strong Value Stock - Yahoo Finance",
+      "body": "Here's Why Cognizant (CTSH) is a Strong Value Stock Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "CTSH",
+      "tickers_hint": [
+        "CTSH"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CTSH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f4f1e285-d9a2-5cca-b6e0-1ed569b67dc2",
+      "timestamp_utc": "2026-04-02T20:23:08+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUVVQWWZ1NmhHNklMRm1BOW1VYVhjOFgtTEM4NkgzX2VGdzEwYm81QjVOTnR0M0VyUWdyUTdWZ0k2MXQ0YUVPQUZEbGNqbWVqOGRQSjdTNkdVdnA4ZkxWdzRPejdCbnYxWDlmc0JjRGtMelZMYjdrN1gxT0hGQUMtMlpWcUZKcDVHYnZqM2F0TVRzU3hIWGZmUjlVZU82VW9ndWp2SWdaSU1vdWlzMFdKRUx3?oc=5",
+      "title": "Proposed 194-share sale; Alina Kerdman 10b5-1 trades (CTSH) - Stock Titan",
+      "body": "Proposed 194-share sale; Alina Kerdman 10b5-1 trades (CTSH) Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "CTSH",
+      "tickers_hint": [
+        "CTSH"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CTSH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "a0eb65e9-0012-565e-9c9f-bd971c7947de",
+      "timestamp_utc": "2026-04-02T13:40:03+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTUFyeUZoVVNwRmxmWGZMQUg5RzY3YWFlTjY3eWpZY2V4SmF4ODFXQ19FbWhlbElaTUM5elJ2WnpPTVRLM0RpdFNoWTlXd1FnRXU3UzlsU0lZeUZMY3lmVEtfRlNaUHYwdG45TU80NGRFdGlTenV5bUZyMkZpZkM1azJHOTdCdEhwYTBhMDlhZ2pveWhjX1VrTUZiS2I?oc=5",
+      "title": "Here's Why Cognizant (CTSH) is a Strong Value Stock - Yahoo Finance",
+      "body": "Here's Why Cognizant (CTSH) is a Strong Value Stock Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "CTSH",
+      "tickers_hint": [
+        "CTSH"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CTSH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f4f1e285-d9a2-5cca-b6e0-1ed569b67dc2",
+      "timestamp_utc": "2026-04-02T20:23:08+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUVVQWWZ1NmhHNklMRm1BOW1VYVhjOFgtTEM4NkgzX2VGdzEwYm81QjVOTnR0M0VyUWdyUTdWZ0k2MXQ0YUVPQUZEbGNqbWVqOGRQSjdTNkdVdnA4ZkxWdzRPejdCbnYxWDlmc0JjRGtMelZMYjdrN1gxT0hGQUMtMlpWcUZKcDVHYnZqM2F0TVRzU3hIWGZmUjlVZU82VW9ndWp2SWdaSU1vdWlzMFdKRUx3?oc=5",
+      "title": "Proposed 194-share sale; Alina Kerdman 10b5-1 trades (CTSH) - Stock Titan",
+      "body": "Proposed 194-share sale; Alina Kerdman 10b5-1 trades (CTSH) Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "CTSH",
+      "tickers_hint": [
+        "CTSH"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CTSH"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

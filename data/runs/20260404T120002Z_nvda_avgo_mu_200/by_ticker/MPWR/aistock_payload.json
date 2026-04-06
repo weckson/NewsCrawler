@@ -1,0 +1,472 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "fc8ff945-260d-584a-82da-a345ab5a871a",
+      "timestamp_utc": "2026-04-03T21:40:00+00:00",
+      "source": "investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMHhIdDREUkxZRmVFb09vdFBjYzNuV2lfZ1VZQVMzNFg3NmlsOXFYLUgtZHkyeTBqakZraG9GUzBUc2ZwdnpQTERsRXVVanZ4eE5fSjJTRFVDZ24tVHlFcDJFbElkNGhibkMtRXlSQjVZRjNzVmNMYzh1R3BGeFA2QndzWklnNXR1U3NqLWQ5LV9Cc21xTGNzcDdTLXVibjB6X21FZmN3WEotUHY3eFR4UW9MSUZERFNzRnBMZWpKOU83aE5MaU4xWkhQUTVlZGJBZEd1d3B3?oc=5",
+      "title": "Tseng, Monolithic Power Systems EVP, sells $1.58 million in MPWR stock - Investing.com",
+      "body": "Tseng, Monolithic Power Systems EVP, sells $1.58 million in MPWR stock Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "MPWR",
+      "tickers_hint": [
+        "MPWR"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MPWR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d8b81b5f-9adb-53d3-a80c-56afb84d5b5f",
+      "timestamp_utc": "2026-04-03T22:56:01+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/monolithic-power-systems-nasdaqmpwr-evp-sells-158692800-in-stock-2026-04-03/",
+      "title": "Monolithic Power Systems (NASDAQ:MPWR) EVP Sells $1,586,928.00 in Stock - MarketBeat",
+      "body": "Monolithic Power Systems (NASDAQ:MPWR) EVP Sells $1,586,928.00 in Stock MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MPWR",
+      "tickers_hint": [
+        "MPWR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MPWR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "54910e4d-0016-5449-8949-3dfda787cfc6",
+      "timestamp_utc": "2026-04-03T08:31:51+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-fny-investment-advisers-llc-invests-952-million-in-monolithic-power-systems-inc-mpwr-2026-04-03/",
+      "title": "FNY Investment Advisers LLC Invests $9.52 Million in Monolithic Power Systems, Inc. $MPWR - MarketBeat",
+      "body": "FNY Investment Advisers LLC Invests $9.52 Million in Monolithic Power Systems, Inc. $MPWR MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MPWR",
+      "tickers_hint": [
+        "MPWR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MPWR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "320e7d63-fc87-51dd-98e5-355dd9f581d3",
+      "timestamp_utc": "2026-04-03T06:11:15+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/monolithic-power-systems-inc-nasdaqmpwr-given-average-recommendation-of-moderate-buy-by-brokerages-2026-04-03/",
+      "title": "Monolithic Power Systems, Inc. (NASDAQ:MPWR) Given Average Recommendation of \"Moderate Buy\" by Brokerages - MarketBeat",
+      "body": "Monolithic Power Systems, Inc. (NASDAQ:MPWR) Given Average Recommendation of \"Moderate Buy\" by Brokerages MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MPWR",
+      "tickers_hint": [
+        "MPWR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MPWR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c6fcf61b-e9ec-500c-a94e-cd8f637d157f",
+      "timestamp_utc": "2026-04-02T15:36:53+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/monolithic-power-systems-nasdaqmpwr-evp-sells-2594357700-in-stock-2026-04-02/",
+      "title": "Monolithic Power Systems (NASDAQ:MPWR) EVP Sells $25,943,577.00 in Stock - MarketBeat",
+      "body": "Monolithic Power Systems (NASDAQ:MPWR) EVP Sells $25,943,577.00 in Stock MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MPWR",
+      "tickers_hint": [
+        "MPWR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MPWR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "74b91107-c976-5184-afc2-cd426bc7f062",
+      "timestamp_utc": "2026-04-03T21:36:18+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORFFxbFlrX3RReGs1bngxc1R3amdLZ2lpSGdGWjZZWFRQWnZlN3MxcUp6Z2U4ekh4d28tWDhrYUlaQUtPWlVRRmNBRFFnekYtaXI3NlR1UnNQUDFtemlEQ1JOZ2VLLXJMa1hXZkd0ekhwRGsxUk1mbW1LblNCR19fTGt5SUtoUEpCRVRaRG81amdWMzgwU0ZkcTJBRHV0bGR3SG5zUlk0bGRDcjc2OEtxVGU1MVA5Znh2U1psS2k1SQ?oc=5",
+      "title": "Monolithic Power (NASDAQ: MPWR) EVP sells 1,400 shares in 10b5-1 trades - Stock Titan",
+      "body": "Monolithic Power (NASDAQ: MPWR) EVP sells 1,400 shares in 10b5-1 trades Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "MPWR",
+      "tickers_hint": [
+        "MPWR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MPWR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7416a15f-4185-5475-bcd1-a99455c0489c",
+      "timestamp_utc": "2026-04-03T21:00:22+00:00",
+      "source": "investing.com_australia",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ1FkOTI5WXVfTlI2QVQzNWVkOFliNnp0am1yWmwyRmVycEVzU0NxcWtMNlVwRUdnMXVNVE0zcFJnTm5PamFVRUM2MVI2VVFUM0pSUy1XNnQySWM2ekNqZlphQjIxclFwdkh3MFRtN0FpdXNweGtpYndDZGhNSktOU0NyZzh6M191S1ZlYUhxR3AxUUZMMWxjcVZJa05Ycl9KLTV5ZkQycDlwSWs2OG0yeFlwak54U0My?oc=5",
+      "title": "Monolithic Power EVP Sciammas sells $33k in MPWR stock By Investing.com - Investing.com Australia",
+      "body": "Monolithic Power EVP Sciammas sells $33k in MPWR stock By Investing.com Investing.com Australia",
+      "author": null,
+      "language": "en",
+      "ticker": "MPWR",
+      "tickers_hint": [
+        "MPWR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "investing.com australia",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com Australia",
+        "source_domain": "investingcomaustralia.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MPWR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "353ee09e-82c2-5a78-a38a-53533b14a549",
+      "timestamp_utc": "2026-04-03T19:58:07+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNWNmeEVueTM4OW1kcllnOERod2g5cVVObmJtY2dEODlQc1ExVGMxRzVDY2xRT2ViaUdqRTZJSFd3MGJVSk1ZTnRSUE5OWVBlaHBXcFZsYUFzNjhnLVNpQ1pxWGRLOUJsWmdoQUM0ZGVLSGRxNGFieXBKUEpiZlhXb2lQMzExNEpxemkzZGpUQjZGb0tlQUloclhpS01yMXFfUzkyMXNhbHgxSEZjNkdFM0gwYVNLUEgwVVNMb1Uwbw?oc=5",
+      "title": "EVP at Monolithic Power (MPWR) sells 30 shares under 10b5-1 plan - Stock Titan",
+      "body": "EVP at Monolithic Power (MPWR) sells 30 shares under 10b5-1 plan Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "MPWR",
+      "tickers_hint": [
+        "MPWR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MPWR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "fc8ff945-260d-584a-82da-a345ab5a871a",
+      "timestamp_utc": "2026-04-03T21:40:00+00:00",
+      "source": "investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMHhIdDREUkxZRmVFb09vdFBjYzNuV2lfZ1VZQVMzNFg3NmlsOXFYLUgtZHkyeTBqakZraG9GUzBUc2ZwdnpQTERsRXVVanZ4eE5fSjJTRFVDZ24tVHlFcDJFbElkNGhibkMtRXlSQjVZRjNzVmNMYzh1R3BGeFA2QndzWklnNXR1U3NqLWQ5LV9Cc21xTGNzcDdTLXVibjB6X21FZmN3WEotUHY3eFR4UW9MSUZERFNzRnBMZWpKOU83aE5MaU4xWkhQUTVlZGJBZEd1d3B3?oc=5",
+      "title": "Tseng, Monolithic Power Systems EVP, sells $1.58 million in MPWR stock - Investing.com",
+      "body": "Tseng, Monolithic Power Systems EVP, sells $1.58 million in MPWR stock Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "MPWR",
+      "tickers_hint": [
+        "MPWR"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MPWR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d8b81b5f-9adb-53d3-a80c-56afb84d5b5f",
+      "timestamp_utc": "2026-04-03T22:56:01+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/monolithic-power-systems-nasdaqmpwr-evp-sells-158692800-in-stock-2026-04-03/",
+      "title": "Monolithic Power Systems (NASDAQ:MPWR) EVP Sells $1,586,928.00 in Stock - MarketBeat",
+      "body": "Monolithic Power Systems (NASDAQ:MPWR) EVP Sells $1,586,928.00 in Stock MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MPWR",
+      "tickers_hint": [
+        "MPWR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MPWR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "54910e4d-0016-5449-8949-3dfda787cfc6",
+      "timestamp_utc": "2026-04-03T08:31:51+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-fny-investment-advisers-llc-invests-952-million-in-monolithic-power-systems-inc-mpwr-2026-04-03/",
+      "title": "FNY Investment Advisers LLC Invests $9.52 Million in Monolithic Power Systems, Inc. $MPWR - MarketBeat",
+      "body": "FNY Investment Advisers LLC Invests $9.52 Million in Monolithic Power Systems, Inc. $MPWR MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MPWR",
+      "tickers_hint": [
+        "MPWR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MPWR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "320e7d63-fc87-51dd-98e5-355dd9f581d3",
+      "timestamp_utc": "2026-04-03T06:11:15+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/monolithic-power-systems-inc-nasdaqmpwr-given-average-recommendation-of-moderate-buy-by-brokerages-2026-04-03/",
+      "title": "Monolithic Power Systems, Inc. (NASDAQ:MPWR) Given Average Recommendation of \"Moderate Buy\" by Brokerages - MarketBeat",
+      "body": "Monolithic Power Systems, Inc. (NASDAQ:MPWR) Given Average Recommendation of \"Moderate Buy\" by Brokerages MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MPWR",
+      "tickers_hint": [
+        "MPWR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MPWR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c6fcf61b-e9ec-500c-a94e-cd8f637d157f",
+      "timestamp_utc": "2026-04-02T15:36:53+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/monolithic-power-systems-nasdaqmpwr-evp-sells-2594357700-in-stock-2026-04-02/",
+      "title": "Monolithic Power Systems (NASDAQ:MPWR) EVP Sells $25,943,577.00 in Stock - MarketBeat",
+      "body": "Monolithic Power Systems (NASDAQ:MPWR) EVP Sells $25,943,577.00 in Stock MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MPWR",
+      "tickers_hint": [
+        "MPWR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MPWR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "74b91107-c976-5184-afc2-cd426bc7f062",
+      "timestamp_utc": "2026-04-03T21:36:18+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORFFxbFlrX3RReGs1bngxc1R3amdLZ2lpSGdGWjZZWFRQWnZlN3MxcUp6Z2U4ekh4d28tWDhrYUlaQUtPWlVRRmNBRFFnekYtaXI3NlR1UnNQUDFtemlEQ1JOZ2VLLXJMa1hXZkd0ekhwRGsxUk1mbW1LblNCR19fTGt5SUtoUEpCRVRaRG81amdWMzgwU0ZkcTJBRHV0bGR3SG5zUlk0bGRDcjc2OEtxVGU1MVA5Znh2U1psS2k1SQ?oc=5",
+      "title": "Monolithic Power (NASDAQ: MPWR) EVP sells 1,400 shares in 10b5-1 trades - Stock Titan",
+      "body": "Monolithic Power (NASDAQ: MPWR) EVP sells 1,400 shares in 10b5-1 trades Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "MPWR",
+      "tickers_hint": [
+        "MPWR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MPWR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7416a15f-4185-5475-bcd1-a99455c0489c",
+      "timestamp_utc": "2026-04-03T21:00:22+00:00",
+      "source": "investing.com_australia",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ1FkOTI5WXVfTlI2QVQzNWVkOFliNnp0am1yWmwyRmVycEVzU0NxcWtMNlVwRUdnMXVNVE0zcFJnTm5PamFVRUM2MVI2VVFUM0pSUy1XNnQySWM2ekNqZlphQjIxclFwdkh3MFRtN0FpdXNweGtpYndDZGhNSktOU0NyZzh6M191S1ZlYUhxR3AxUUZMMWxjcVZJa05Ycl9KLTV5ZkQycDlwSWs2OG0yeFlwak54U0My?oc=5",
+      "title": "Monolithic Power EVP Sciammas sells $33k in MPWR stock By Investing.com - Investing.com Australia",
+      "body": "Monolithic Power EVP Sciammas sells $33k in MPWR stock By Investing.com Investing.com Australia",
+      "author": null,
+      "language": "en",
+      "ticker": "MPWR",
+      "tickers_hint": [
+        "MPWR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "investing.com australia",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com Australia",
+        "source_domain": "investingcomaustralia.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MPWR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "353ee09e-82c2-5a78-a38a-53533b14a549",
+      "timestamp_utc": "2026-04-03T19:58:07+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNWNmeEVueTM4OW1kcllnOERod2g5cVVObmJtY2dEODlQc1ExVGMxRzVDY2xRT2ViaUdqRTZJSFd3MGJVSk1ZTnRSUE5OWVBlaHBXcFZsYUFzNjhnLVNpQ1pxWGRLOUJsWmdoQUM0ZGVLSGRxNGFieXBKUEpiZlhXb2lQMzExNEpxemkzZGpUQjZGb0tlQUloclhpS01yMXFfUzkyMXNhbHgxSEZjNkdFM0gwYVNLUEgwVVNMb1Uwbw?oc=5",
+      "title": "EVP at Monolithic Power (MPWR) sells 30 shares under 10b5-1 plan - Stock Titan",
+      "body": "EVP at Monolithic Power (MPWR) sells 30 shares under 10b5-1 plan Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "MPWR",
+      "tickers_hint": [
+        "MPWR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "MPWR"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

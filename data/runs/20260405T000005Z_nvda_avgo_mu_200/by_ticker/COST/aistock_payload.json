@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "a8dc9690-6c1a-514b-8dd8-f06e6d3ba3f0",
+      "timestamp_utc": "2026-04-03T12:16:44+00:00",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/costco-stock-cost-pops-on-significant-growth-runway-for-another-50-years",
+      "title": "Costco Stock (COST): Analyst Flags “Growth Runway for Another 50+ Years” - tipranks.com",
+      "body": "Costco Stock (COST): Analyst Flags “Growth Runway for Another 50+ Years” tipranks.com",
+      "author": null,
+      "language": "en",
+      "ticker": "COST",
+      "tickers_hint": [
+        "COST"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "tipranks.com",
+        "source_domain": "tiprankscom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "COST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "a8dc9690-6c1a-514b-8dd8-f06e6d3ba3f0",
+      "timestamp_utc": "2026-04-03T12:16:44+00:00",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/costco-stock-cost-pops-on-significant-growth-runway-for-another-50-years",
+      "title": "Costco Stock (COST): Analyst Flags “Growth Runway for Another 50+ Years” - tipranks.com",
+      "body": "Costco Stock (COST): Analyst Flags “Growth Runway for Another 50+ Years” tipranks.com",
+      "author": null,
+      "language": "en",
+      "ticker": "COST",
+      "tickers_hint": [
+        "COST"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "tipranks.com",
+        "source_domain": "tiprankscom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "COST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

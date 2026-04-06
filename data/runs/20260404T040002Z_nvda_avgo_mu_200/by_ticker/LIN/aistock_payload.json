@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "de12f9e1-bebf-5821-ad1e-ffb90685d454",
+      "timestamp_utc": "2026-04-03T17:12:13+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaUhBMG42OWVvNzdCaXphUVl5RXdneDR6VmlEbHMwc1piT0k1SncweGh2b2h2ZEc2aDRWV1pfUlJqU1htVWV2UUFLdWc2QXJhcFp6N1RkTVEzaDU5alNwaHo4aUNxeHYwcnk0SUdEWDdTQUFPNjM4X1pQaUgyX1BTRHpuMHhReDFTQVc0RmZIS2NwVXU3cEo5S0tIUkRCTWxjbWtuUg?oc=5",
+      "title": "Linde (LIN) director adds deferred and restricted stock unit holdings - Stock Titan",
+      "body": "Linde (LIN) director adds deferred and restricted stock unit holdings Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "LIN",
+      "tickers_hint": [
+        "LIN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "LIN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "cd338876-f61e-54d6-9874-dc0114cd26ca",
+      "timestamp_utc": "2026-04-03T17:11:34+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY0F6dGYyLU5VRXFCREFWY3MwVWtJVldiVklEUXBRVXhERkR0dmNGb1AxampXVWFGZmRkemF4elduaXg2TkhtUU04SHg2aWRHTnJLdFdDS0RrR2xuWFg4OWg3QWVOMDAwbWZjNlI2M0N5cnhMWFpqR0JxeFlpdFBiSEVCdzF1SlFpNXZfWi1KV3VBSkNTVUZuLUoyV3gxd21paGhmUg?oc=5",
+      "title": "Linde (LIN) director Hugh Grant granted deferred and restricted stock units - Stock Titan",
+      "body": "Linde (LIN) director Hugh Grant granted deferred and restricted stock units Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "LIN",
+      "tickers_hint": [
+        "LIN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "LIN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "de12f9e1-bebf-5821-ad1e-ffb90685d454",
+      "timestamp_utc": "2026-04-03T17:12:13+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaUhBMG42OWVvNzdCaXphUVl5RXdneDR6VmlEbHMwc1piT0k1SncweGh2b2h2ZEc2aDRWV1pfUlJqU1htVWV2UUFLdWc2QXJhcFp6N1RkTVEzaDU5alNwaHo4aUNxeHYwcnk0SUdEWDdTQUFPNjM4X1pQaUgyX1BTRHpuMHhReDFTQVc0RmZIS2NwVXU3cEo5S0tIUkRCTWxjbWtuUg?oc=5",
+      "title": "Linde (LIN) director adds deferred and restricted stock unit holdings - Stock Titan",
+      "body": "Linde (LIN) director adds deferred and restricted stock unit holdings Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "LIN",
+      "tickers_hint": [
+        "LIN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "LIN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "cd338876-f61e-54d6-9874-dc0114cd26ca",
+      "timestamp_utc": "2026-04-03T17:11:34+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY0F6dGYyLU5VRXFCREFWY3MwVWtJVldiVklEUXBRVXhERkR0dmNGb1AxampXVWFGZmRkemF4elduaXg2TkhtUU04SHg2aWRHTnJLdFdDS0RrR2xuWFg4OWg3QWVOMDAwbWZjNlI2M0N5cnhMWFpqR0JxeFlpdFBiSEVCdzF1SlFpNXZfWi1KV3VBSkNTVUZuLUoyV3gxd21paGhmUg?oc=5",
+      "title": "Linde (LIN) director Hugh Grant granted deferred and restricted stock units - Stock Titan",
+      "body": "Linde (LIN) director Hugh Grant granted deferred and restricted stock units Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "LIN",
+      "tickers_hint": [
+        "LIN"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "LIN"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

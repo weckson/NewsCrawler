@@ -1,0 +1,89 @@
+[
+  {
+    "id": "faf5b24f-5820-5320-9141-0e5531d123af",
+    "timestamp_utc": "2026-04-03T08:51:57+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-eldred-rock-partners-llc-decreases-stake-in-texas-instruments-incorporated-txn-2026-04-03/",
+    "title": "Eldred Rock Partners LLC Decreases Stake in Texas Instruments Incorporated $TXN - MarketBeat",
+    "body": "Eldred Rock Partners LLC Decreases Stake in Texas Instruments Incorporated $TXN MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "TXN",
+    "tickers_hint": [
+      "TXN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "TXN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "aef4c919-516c-5217-8355-b1940f4b3a09",
+    "timestamp_utc": "2026-04-03T04:01:35+00:00",
+    "source": "msn.com",
+    "url": "https://www.msn.com/en-us/money/topstocks/earnings-preview-what-to-expect-from-texas-instruments-report/ar-AA1ZyhOX",
+    "title": "Earnings preview: What to expect from Texas Instruments' report - msn.com",
+    "body": "Earnings preview: What to expect from Texas Instruments' report msn.com",
+    "author": null,
+    "language": "en",
+    "ticker": "TXN",
+    "tickers_hint": [
+      "TXN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "msn.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "msn.com",
+      "source_domain": "msncom.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "TXN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "0297ba68-0b68-51fb-b5c4-d54bcba94500",
+    "timestamp_utc": "2026-04-03T02:40:51+00:00",
+    "source": "tikr.com",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ1JCVWVFNVp6QTA0anRkOFFtZUVDUW80VENFdWg0UEhTbGJHdE9yczZ1dU9QQlBDTFVqNzhyQkNSWUZBeEVGSGxuSzMyZGlfcVIwR0RHcVl4elI1QmhIQkNTT2cwSVV2Umc0VHpCMWdmTjNVZC0xbUhRUXI5QS1zUHJkTDB5X1VpNFBLZ3kwTEVsem9XdGpOX3IyMTIxUWZuU2VtTl9CcVZCNmpiZzlUS0NSSmlyNjdXZVY3TVo5dEdyTnJreWFNRS1kQkRuQQ?oc=5",
+    "title": "Texas Instruments Fell 8% Over the Past 30 Days. Here’s Why Slowing Industrial Demand Is Weighing on the Stock - TIKR.com",
+    "body": "Texas Instruments Fell 8% Over the Past 30 Days. Here’s Why Slowing Industrial Demand Is Weighing on the Stock TIKR.com",
+    "author": null,
+    "language": "en",
+    "ticker": "TXN",
+    "tickers_hint": [
+      "TXN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "tikr.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "TIKR.com",
+      "source_domain": "tikrcom.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "TXN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

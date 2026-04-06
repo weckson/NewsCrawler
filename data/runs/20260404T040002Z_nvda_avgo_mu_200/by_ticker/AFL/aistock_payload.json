@@ -1,0 +1,304 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "46ee5d37-d427-56d0-917b-a5c67848494d",
+      "timestamp_utc": "2026-04-03T20:19:59+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82TWMzME1mNEhMeVBUSFdVNEVra1B2clJhbmxzT0R1MDZfT1ByeE5VSW95TGpYUGFfekQ0UWxsQW1taEkxZk1ad0hEcVRud0JLdWJrdDU0a0VNaGlTazRQdTVnWTM?oc=5",
+      "title": "AFL Apr 2026 140.000 call (AFL260410C00140000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "AFL Apr 2026 140.000 call (AFL260410C00140000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "AFL",
+      "tickers_hint": [
+        "AFL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AFL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "47141864-cd54-53a3-91a0-91acbe90b272",
+      "timestamp_utc": "2026-04-03T13:34:52+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1VjUzE4dWVJTVlxSjFKSE1HQzhDaUNCRWVmY0NVc1ZxRjYzS2FhdHluWG96cS12eTNGMWFtSU03clU1b1puaU9KWUFYbGE2d1ZZUGMxV29wMk1vOG5obHZhYlJvc1JpVFRrbmJsbkVDTEtGWkdyWnc1M3J2ZW42YkM5alFteEpGQkhZdWZqb01Uem52dHRYdHptZ2ZBdDZvRUlSbA?oc=5",
+      "title": "Japan Post-related trust cuts AFLAC (NYSE: AFL) holding by 19,600 shares - Stock Titan",
+      "body": "Japan Post-related trust cuts AFLAC (NYSE: AFL) holding by 19,600 shares Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "AFL",
+      "tickers_hint": [
+        "AFL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AFL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fd4bb7d2-cb13-5fe3-8c52-c403608f48c1",
+      "timestamp_utc": "2026-04-03T00:41:52+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56NFBHVmVXQzZUWEIyLXFmZHRkT0Jzdlk1cFdySS1CRS0tYUJjSktIUFlMa2xmc1ItX2FqeUJwRkw5V0RIY283eDRZZ0taN1VG?oc=5",
+      "title": "Aflac Incorporated (AFL) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Aflac Incorporated (AFL) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "AFL",
+      "tickers_hint": [
+        "AFL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AFL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "4e1aa204-bc9f-514b-b2f1-6c2a5e927f73",
+      "timestamp_utc": "2026-04-03T00:07:15+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPOG16R3FIZFRaMFkyODVLWEd4MHhDdGZGSWZMWUlyWnVzdnRoeVMzMWpkZUJTNWthQ2FMTmExVE4wVkVid0FmclpjS2lDdURwM1ZIazdUT0N3aGlTWVhvNDVBWHc?oc=5",
+      "title": "AFL SEC Filings - Aflac Inc 10-K, 10-Q, 8-K Forms - Stock Titan",
+      "body": "AFL SEC Filings - Aflac Inc 10-K, 10-Q, 8-K Forms Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "AFL",
+      "tickers_hint": [
+        "AFL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AFL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a1620489-efeb-5721-8fb0-522437cfe3d8",
+      "timestamp_utc": "2026-04-02T04:25:49+00:00",
+      "source": "benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc1dPZjJpc0hXVTZOU1o0NV93RFJtNVNtY1lFXzVra3dYT1hPNlBCQVVNYU1mRjVacmdCTXFrZ2xnMk5sdV9RVnUzbzBlNEJSQTVWQjRLM0VMWlpGX2laeEhJYmptT0RkNXFSMzFVZzBRMTR3YW9nc1JOQTJLTnpoNl8ybXhBVnp3TWQzR05PTVByTUZMVkFydVJjdW5Fa3RpNUlBRS16aTl6Q3NyeDFXdUt0S29YMXlRdFgyVmdadng4b29pdUJwMUw1cw?oc=5",
+      "title": "AFL and Inligo Partner to Advance Fibre Manufacturing for Unite Cable System - Benzinga - benzinga.com",
+      "body": "AFL and Inligo Partner to Advance Fibre Manufacturing for Unite Cable System - Benzinga benzinga.com",
+      "author": null,
+      "language": "en",
+      "ticker": "AFL",
+      "tickers_hint": [
+        "AFL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "benzinga.com",
+        "source_domain": "benzingacom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AFL"
+        ],
+        "alt_sources": [
+          "benzinga.com"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "46ee5d37-d427-56d0-917b-a5c67848494d",
+      "timestamp_utc": "2026-04-03T20:19:59+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82TWMzME1mNEhMeVBUSFdVNEVra1B2clJhbmxzT0R1MDZfT1ByeE5VSW95TGpYUGFfekQ0UWxsQW1taEkxZk1ad0hEcVRud0JLdWJrdDU0a0VNaGlTazRQdTVnWTM?oc=5",
+      "title": "AFL Apr 2026 140.000 call (AFL260410C00140000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "AFL Apr 2026 140.000 call (AFL260410C00140000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "AFL",
+      "tickers_hint": [
+        "AFL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AFL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "47141864-cd54-53a3-91a0-91acbe90b272",
+      "timestamp_utc": "2026-04-03T13:34:52+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1VjUzE4dWVJTVlxSjFKSE1HQzhDaUNCRWVmY0NVc1ZxRjYzS2FhdHluWG96cS12eTNGMWFtSU03clU1b1puaU9KWUFYbGE2d1ZZUGMxV29wMk1vOG5obHZhYlJvc1JpVFRrbmJsbkVDTEtGWkdyWnc1M3J2ZW42YkM5alFteEpGQkhZdWZqb01Uem52dHRYdHptZ2ZBdDZvRUlSbA?oc=5",
+      "title": "Japan Post-related trust cuts AFLAC (NYSE: AFL) holding by 19,600 shares - Stock Titan",
+      "body": "Japan Post-related trust cuts AFLAC (NYSE: AFL) holding by 19,600 shares Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "AFL",
+      "tickers_hint": [
+        "AFL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AFL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fd4bb7d2-cb13-5fe3-8c52-c403608f48c1",
+      "timestamp_utc": "2026-04-03T00:41:52+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56NFBHVmVXQzZUWEIyLXFmZHRkT0Jzdlk1cFdySS1CRS0tYUJjSktIUFlMa2xmc1ItX2FqeUJwRkw5V0RIY283eDRZZ0taN1VG?oc=5",
+      "title": "Aflac Incorporated (AFL) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Aflac Incorporated (AFL) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "AFL",
+      "tickers_hint": [
+        "AFL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AFL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "4e1aa204-bc9f-514b-b2f1-6c2a5e927f73",
+      "timestamp_utc": "2026-04-03T00:07:15+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPOG16R3FIZFRaMFkyODVLWEd4MHhDdGZGSWZMWUlyWnVzdnRoeVMzMWpkZUJTNWthQ2FMTmExVE4wVkVid0FmclpjS2lDdURwM1ZIazdUT0N3aGlTWVhvNDVBWHc?oc=5",
+      "title": "AFL SEC Filings - Aflac Inc 10-K, 10-Q, 8-K Forms - Stock Titan",
+      "body": "AFL SEC Filings - Aflac Inc 10-K, 10-Q, 8-K Forms Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "AFL",
+      "tickers_hint": [
+        "AFL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AFL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a1620489-efeb-5721-8fb0-522437cfe3d8",
+      "timestamp_utc": "2026-04-02T04:25:49+00:00",
+      "source": "benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc1dPZjJpc0hXVTZOU1o0NV93RFJtNVNtY1lFXzVra3dYT1hPNlBCQVVNYU1mRjVacmdCTXFrZ2xnMk5sdV9RVnUzbzBlNEJSQTVWQjRLM0VMWlpGX2laeEhJYmptT0RkNXFSMzFVZzBRMTR3YW9nc1JOQTJLTnpoNl8ybXhBVnp3TWQzR05PTVByTUZMVkFydVJjdW5Fa3RpNUlBRS16aTl6Q3NyeDFXdUt0S29YMXlRdFgyVmdadng4b29pdUJwMUw1cw?oc=5",
+      "title": "AFL and Inligo Partner to Advance Fibre Manufacturing for Unite Cable System - Benzinga - benzinga.com",
+      "body": "AFL and Inligo Partner to Advance Fibre Manufacturing for Unite Cable System - Benzinga benzinga.com",
+      "author": null,
+      "language": "en",
+      "ticker": "AFL",
+      "tickers_hint": [
+        "AFL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "benzinga.com",
+        "source_domain": "benzingacom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AFL"
+        ],
+        "alt_sources": [
+          "benzinga.com"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "5239a1aa-a51a-54a9-9de1-d6661baf8b56",
+      "timestamp_utc": "2026-04-03T07:00:00+00:00",
+      "source": "investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQTVVUTQtdUVVRkFQM01YdXB6cnczdUhOZjlSUUxvUjVxbXRHcmZxNzE3alBPRFF4ajRvU1IyeWoyd2c1b3dSdFJyTVR6UzFHTGg1aTkyQVdOR3lDUmpReXY0SU02Tnhmck0tMGFucWE3TWh2RDA2cTBOcDBSVUxvOFFSbm5LVkxDSG1RWVpJTnMwWUdNTmp6WWF2eFJ3NXlrbjAzS1JVVEY2MmdHNlRPR0JVQUFGalV5WndEMEg1Z2hBeDA?oc=5",
+      "title": "Horizon Kinetics buys Texas Pacific Land (TPL) share worth $522 - Investing.com",
+      "body": "Horizon Kinetics buys Texas Pacific Land (TPL) share worth $522 Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "TPL",
+      "tickers_hint": [
+        "TPL"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ac806ce7-d359-5099-9a26-4c59fa0ed31e",
+      "timestamp_utc": "2026-04-02T17:46:59+00:00",
+      "source": "stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdUV1ZXJYSjlHX05mRVFmbWYzemhPTmJ5djlWSWoyc2NXVlR5QkZ1VFk0S0J6d0YtRWZxeFZhRmdhX0s5Nl82ODJHaWFYbkpoQUJBb21jU0JFTnlfeDRDT2NPVE1qN3JWVHpXTTVWenRoSGZWcnVrY3pHQ0UtTUMxMk1PQTJ2dmlNOXNqZFBPdGxwbjMzQUtsLUMxQzRzSzN6cVhlWUNyalJwNTNmNVpBRjJjUHRIT3M?oc=5",
+      "title": "Horizon Kinetics (NYSE: TPL) makes small Texas Pacific Land share purchase - stocktitan.net",
+      "body": "Horizon Kinetics (NYSE: TPL) makes small Texas Pacific Land share purchase stocktitan.net",
+      "author": null,
+      "language": "en",
+      "ticker": "TPL",
+      "tickers_hint": [
+        "TPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktitan.net",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "stocktitan.net",
+        "source_domain": "stocktitannet.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "5239a1aa-a51a-54a9-9de1-d6661baf8b56",
+      "timestamp_utc": "2026-04-03T07:00:00+00:00",
+      "source": "investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQTVVUTQtdUVVRkFQM01YdXB6cnczdUhOZjlSUUxvUjVxbXRHcmZxNzE3alBPRFF4ajRvU1IyeWoyd2c1b3dSdFJyTVR6UzFHTGg1aTkyQVdOR3lDUmpReXY0SU02Tnhmck0tMGFucWE3TWh2RDA2cTBOcDBSVUxvOFFSbm5LVkxDSG1RWVpJTnMwWUdNTmp6WWF2eFJ3NXlrbjAzS1JVVEY2MmdHNlRPR0JVQUFGalV5WndEMEg1Z2hBeDA?oc=5",
+      "title": "Horizon Kinetics buys Texas Pacific Land (TPL) share worth $522 - Investing.com",
+      "body": "Horizon Kinetics buys Texas Pacific Land (TPL) share worth $522 Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "TPL",
+      "tickers_hint": [
+        "TPL"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ac806ce7-d359-5099-9a26-4c59fa0ed31e",
+      "timestamp_utc": "2026-04-02T17:46:59+00:00",
+      "source": "stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdUV1ZXJYSjlHX05mRVFmbWYzemhPTmJ5djlWSWoyc2NXVlR5QkZ1VFk0S0J6d0YtRWZxeFZhRmdhX0s5Nl82ODJHaWFYbkpoQUJBb21jU0JFTnlfeDRDT2NPVE1qN3JWVHpXTTVWenRoSGZWcnVrY3pHQ0UtTUMxMk1PQTJ2dmlNOXNqZFBPdGxwbjMzQUtsLUMxQzRzSzN6cVhlWUNyalJwNTNmNVpBRjJjUHRIT3M?oc=5",
+      "title": "Horizon Kinetics (NYSE: TPL) makes small Texas Pacific Land share purchase - stocktitan.net",
+      "body": "Horizon Kinetics (NYSE: TPL) makes small Texas Pacific Land share purchase stocktitan.net",
+      "author": null,
+      "language": "en",
+      "ticker": "TPL",
+      "tickers_hint": [
+        "TPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktitan.net",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "stocktitan.net",
+        "source_domain": "stocktitannet.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

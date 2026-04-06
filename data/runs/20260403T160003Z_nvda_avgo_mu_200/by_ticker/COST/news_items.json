@@ -1,0 +1,89 @@
+[
+  {
+    "id": "a8dc9690-6c1a-514b-8dd8-f06e6d3ba3f0",
+    "timestamp_utc": "2026-04-03T12:16:44+00:00",
+    "source": "tipranks",
+    "url": "https://www.tipranks.com/news/costco-stock-cost-pops-on-significant-growth-runway-for-another-50-years",
+    "title": "Costco Stock (COST): Analyst Flags “Growth Runway for Another 50+ Years” - TipRanks",
+    "body": "Costco Stock (COST): Analyst Flags “Growth Runway for Another 50+ Years” TipRanks",
+    "author": null,
+    "language": "en",
+    "ticker": "COST",
+    "tickers_hint": [
+      "COST"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "tipranks.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
+      "trust_tier": 3,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "COST"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "643730ec-30df-5c12-a603-a660d82f8788",
+    "timestamp_utc": "2026-04-02T10:13:46+00:00",
+    "source": "investing.com",
+    "url": "https://www.investing.com/news/analyst-ratings/rbc-capital-cuts-conagra-stock-price-target-to-17-on-cost-concerns-93CH-4594947",
+    "title": "RBC Capital cuts ConAgra stock price target to $17 on cost concerns - Investing.com",
+    "body": "RBC Capital cuts ConAgra stock price target to $17 on cost concerns Investing.com",
+    "author": null,
+    "language": "en",
+    "ticker": "COST",
+    "tickers_hint": [
+      "COST"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "investing.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Investing.com",
+      "source_domain": "investing.com",
+      "trust_tier": 2,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "COST"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "f2ad54e2-0a64-52d2-aa6d-e1bd8d1bc46f",
+    "timestamp_utc": "2026-04-02T21:06:20+00:00",
+    "source": "nbc_news",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUVJqVmFldTFfLXhwaDl0MHpSenpMT1NpSFp3Y2FlcHZvTUxpOURfQlpoUWhKTWllS0dIcEl1cWRfQkdsWHlxTDdFUFRCSi1KOEpwNTJoUVUwcjIyaFhCSS0xTXRndXJNRGd2ZE11U2lLVGdITW9LMjJyMlNXN2xSQ2g1QUNSSWthVjVFckh3VXluV0No?oc=5",
+    "title": "U.S. oil has its biggest one-day price increase in six years, driving up the cost of gas - NBC News",
+    "body": "U.S. oil has its biggest one-day price increase in six years, driving up the cost of gas NBC News",
+    "author": null,
+    "language": "en",
+    "ticker": "COST",
+    "tickers_hint": [
+      "COST"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "nbc news",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "NBC News",
+      "source_domain": "nbcnews.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "COST"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

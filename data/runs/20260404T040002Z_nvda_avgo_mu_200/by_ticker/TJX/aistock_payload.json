@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "3183112c-221b-510b-8248-5d86ca60bdc7",
+      "timestamp_utc": "2026-04-02T23:10:45+00:00",
+      "source": "investing.com",
+      "url": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-tjx-stock-buy-rating-on-market-share-gains-outlook-93CH-4541600",
+      "title": "UBS reiterates TJX stock Buy rating on market share gains outlook - Investing.com",
+      "body": "UBS reiterates TJX stock Buy rating on market share gains outlook Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "TJX",
+      "tickers_hint": [
+        "TJX"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "TJX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1ad51cd1-56de-59f1-b271-27ae6624c54f",
+      "timestamp_utc": "2026-04-03T16:24:38+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BYW9iOG1mYnFwSzFHQU5hUWlud1dVOVBCNjkzOUtZYm5zTUpfRU0tN041VmhVdHh2ckNHNTFEcWlQdWpwWDI4dlBoVVd5SVQzOVBhN3hNNmk4TDU4NWgzTkt1RGc?oc=5",
+      "title": "TJX SEC Filings - Tjx Companies Inc 10-K, 10-Q, 8-K Forms - Stock Titan",
+      "body": "TJX SEC Filings - Tjx Companies Inc 10-K, 10-Q, 8-K Forms Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "TJX",
+      "tickers_hint": [
+        "TJX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TJX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "eab04440-4d2e-51f5-a85b-8770e3c78410",
+      "timestamp_utc": "2026-04-03T03:12:14+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45WWcxdDA4RUt2TkFvbE1GOVBTcEpiQUdIWkozUm5zeERLaUMtdFByWjV2MUZFdW54MmtCODZCNmRtMno5eVFhS2EtTHIydkdBOUlidWN0WHplbFJ1Mmt3WQ?oc=5",
+      "title": "The TJX Companies, Inc. (TJX) stock price, news, quote and history - Yahoo Finance Singapore",
+      "body": "The TJX Companies, Inc. (TJX) stock price, news, quote and history Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "TJX",
+      "tickers_hint": [
+        "TJX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TJX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "3183112c-221b-510b-8248-5d86ca60bdc7",
+      "timestamp_utc": "2026-04-02T23:10:45+00:00",
+      "source": "investing.com",
+      "url": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-tjx-stock-buy-rating-on-market-share-gains-outlook-93CH-4541600",
+      "title": "UBS reiterates TJX stock Buy rating on market share gains outlook - Investing.com",
+      "body": "UBS reiterates TJX stock Buy rating on market share gains outlook Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "TJX",
+      "tickers_hint": [
+        "TJX"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "TJX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1ad51cd1-56de-59f1-b271-27ae6624c54f",
+      "timestamp_utc": "2026-04-03T16:24:38+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BYW9iOG1mYnFwSzFHQU5hUWlud1dVOVBCNjkzOUtZYm5zTUpfRU0tN041VmhVdHh2ckNHNTFEcWlQdWpwWDI4dlBoVVd5SVQzOVBhN3hNNmk4TDU4NWgzTkt1RGc?oc=5",
+      "title": "TJX SEC Filings - Tjx Companies Inc 10-K, 10-Q, 8-K Forms - Stock Titan",
+      "body": "TJX SEC Filings - Tjx Companies Inc 10-K, 10-Q, 8-K Forms Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "TJX",
+      "tickers_hint": [
+        "TJX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TJX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "eab04440-4d2e-51f5-a85b-8770e3c78410",
+      "timestamp_utc": "2026-04-03T03:12:14+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45WWcxdDA4RUt2TkFvbE1GOVBTcEpiQUdIWkozUm5zeERLaUMtdFByWjV2MUZFdW54MmtCODZCNmRtMno5eVFhS2EtTHIydkdBOUlidWN0WHplbFJ1Mmt3WQ?oc=5",
+      "title": "The TJX Companies, Inc. (TJX) stock price, news, quote and history - Yahoo Finance Singapore",
+      "body": "The TJX Companies, Inc. (TJX) stock price, news, quote and history Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "TJX",
+      "tickers_hint": [
+        "TJX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TJX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

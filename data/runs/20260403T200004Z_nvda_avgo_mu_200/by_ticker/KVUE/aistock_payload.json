@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "1dfb0b39-e2f7-52ef-8915-e2f85f599e14",
+      "timestamp_utc": "2026-04-02T11:15:09+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-kenvue-inc-kvue-shares-bought-by-hf-advisory-group-llc-2026-04-02/",
+      "title": "Kenvue Inc. $KVUE Shares Bought by HF Advisory Group LLC - MarketBeat",
+      "body": "Kenvue Inc. $KVUE Shares Bought by HF Advisory Group LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "KVUE",
+      "tickers_hint": [
+        "KVUE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "KVUE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3ffe5810-ff11-525d-b261-538e70aa8fce",
+      "timestamp_utc": "2026-04-02T20:46:00+00:00",
+      "source": "kvue",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZTRnZmJyWjFvdGwzc3lHUWVDbG5SYnJ5RFNhYXg2REV0V2hEMENwU3NUaXlsQS1uQ01DcHY3TTZ2MTFBWmNtajQzRm1wZk9TT1hKbzF6QWJDc1A2TlhUcC1nUXAtQnJ1NnBfN2ZLNUdwcUVCOGpjSi1nOUdrYmdlcE5aSHBzN3ZXRUNVNDJSbmYtMmVsTGpFT1ZDTS1oVWRUNFlnS096azFOWjVGN1JDS0RzcVQ0ZzB4cDhSeGxXVmVvYzNqOHBEd1VUMXdiaVUzQktqSDVmVDFaTU0walpB?oc=5",
+      "title": "How major US stock indexes fared Thursday 4/2/2026 - KVUE",
+      "body": "How major US stock indexes fared Thursday 4/2/2026 KVUE",
+      "author": null,
+      "language": "en",
+      "ticker": "KVUE",
+      "tickers_hint": [
+        "KVUE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "kvue",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "KVUE",
+        "source_domain": "kvue.com",
+        "trust_tier": 1,
+        "relevance": 0.15000000000000002,
+        "event_origin": "news",
+        "query_tickers": [
+          "KVUE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "1dfb0b39-e2f7-52ef-8915-e2f85f599e14",
+      "timestamp_utc": "2026-04-02T11:15:09+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-kenvue-inc-kvue-shares-bought-by-hf-advisory-group-llc-2026-04-02/",
+      "title": "Kenvue Inc. $KVUE Shares Bought by HF Advisory Group LLC - MarketBeat",
+      "body": "Kenvue Inc. $KVUE Shares Bought by HF Advisory Group LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "KVUE",
+      "tickers_hint": [
+        "KVUE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "KVUE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3ffe5810-ff11-525d-b261-538e70aa8fce",
+      "timestamp_utc": "2026-04-02T20:46:00+00:00",
+      "source": "kvue",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZTRnZmJyWjFvdGwzc3lHUWVDbG5SYnJ5RFNhYXg2REV0V2hEMENwU3NUaXlsQS1uQ01DcHY3TTZ2MTFBWmNtajQzRm1wZk9TT1hKbzF6QWJDc1A2TlhUcC1nUXAtQnJ1NnBfN2ZLNUdwcUVCOGpjSi1nOUdrYmdlcE5aSHBzN3ZXRUNVNDJSbmYtMmVsTGpFT1ZDTS1oVWRUNFlnS096azFOWjVGN1JDS0RzcVQ0ZzB4cDhSeGxXVmVvYzNqOHBEd1VUMXdiaVUzQktqSDVmVDFaTU0walpB?oc=5",
+      "title": "How major US stock indexes fared Thursday 4/2/2026 - KVUE",
+      "body": "How major US stock indexes fared Thursday 4/2/2026 KVUE",
+      "author": null,
+      "language": "en",
+      "ticker": "KVUE",
+      "tickers_hint": [
+        "KVUE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "kvue",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "KVUE",
+        "source_domain": "kvue.com",
+        "trust_tier": 1,
+        "relevance": 0.15000000000000002,
+        "event_origin": "news",
+        "query_tickers": [
+          "KVUE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

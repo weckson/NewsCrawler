@@ -1,0 +1,31 @@
+[
+  {
+    "id": "af152fb6-6fe5-5151-984e-7672a9c4edcc",
+    "timestamp_utc": "2026-04-03T10:40:03+00:00",
+    "source": "qz.com",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55dVJ4NzM4QjR6ZU1xUkVJN3g5Q3lyWTdaT1VvOXFzcXR4S1pTWkJRalVvNVBPWTdxWWVkbTd0Tk1zR0JpSEZsdDRPUEFUTElFVXJPNXRfQjV0Rjhwak04a0hlZDluVEttUHN4NUoyaWNCUQ?oc=5",
+    "title": "DHI vs. NVR: Which Stock Is the Better Value Option? - qz.com",
+    "body": "DHI vs. NVR: Which Stock Is the Better Value Option? qz.com",
+    "author": null,
+    "language": "en",
+    "ticker": "DHI",
+    "tickers_hint": [
+      "DHI"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "qz.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "qz.com",
+      "source_domain": "qzcom.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "DHI"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

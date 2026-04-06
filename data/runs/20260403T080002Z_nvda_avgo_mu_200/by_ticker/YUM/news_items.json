@@ -1,0 +1,498 @@
+[
+  {
+    "id": "ac20b111-be02-5790-a594-3b3de5197495",
+    "timestamp_utc": "2026-04-02T09:12:50+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/yum-brands-yum-fairly-priced-091250689.html",
+    "title": "Is Yum Brands (YUM) Fairly Priced After Recent Modest Share Performance? - Yahoo Finance",
+    "body": "Is Yum Brands (YUM) Fairly Priced After Recent Modest Share Performance? Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "YUM",
+    "tickers_hint": [
+      "YUM"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "YUM"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "96ed445c-fd86-5a6c-a722-0bbd9e739f9b",
+    "timestamp_utc": "2026-04-01T13:04:58+00:00",
+    "source": "tipranks",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdm10QWZQblpfVUdUTlRNU3dZU2hKRnpvNXVrS3lyVndPNlh4X2Nqc0dvcjdnOUwtSEhOWWNWcFlpMFV3bFhodm8zWlpCWC1pQjZCM3RBNm1nQ2VvbVl6NnBENXo2Ti1rQXc4VHZobG1YWTg5cks2cXZoMXBlc2lCMkM5WW5Qd0ZRbDBlQjh2TTlnZVQxbXJqYTlQNjA2TEl4VVoweExmOA?oc=5",
+    "title": "Yum! Brands Adds Kathleen Oberg to Board of Directors - TipRanks",
+    "body": "Yum! Brands Adds Kathleen Oberg to Board of Directors TipRanks",
+    "author": null,
+    "language": "en",
+    "ticker": "YUM",
+    "tickers_hint": [
+      "YUM"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "tipranks.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "YUM"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "8c8e7b90-4f99-58b3-861f-c57910230df2",
+    "timestamp_utc": "2026-04-01T18:34:00+00:00",
+    "source": "investing.com",
+    "url": "https://m.investing.com/news/insider-trading-news/yum-brands-kfc-division-ceo-sells-41782-in-stock-93CH-4593868?ampMode=1",
+    "title": "Yum Brands KFC division CEO sells $41,782 in stock - Investing.com",
+    "body": "Yum Brands KFC division CEO sells $41,782 in stock Investing.com",
+    "author": null,
+    "language": "en",
+    "ticker": "YUM",
+    "tickers_hint": [
+      "YUM"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "investing.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Investing.com",
+      "source_domain": "investing.com",
+      "trust_tier": 2,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "YUM"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "e1ecfa5c-904f-5650-adec-d471cd5fa642",
+    "timestamp_utc": "2026-04-01T18:28:00+00:00",
+    "source": "investing.com",
+    "url": "https://m.investing.com/news/insider-trading-news/yum-brands-ceo-turner-sells-39k-in-stock-93CH-4593858?ampMode=1",
+    "title": "Yum Brands CEO Turner sells $39k in stock - Investing.com",
+    "body": "Yum Brands CEO Turner sells $39k in stock Investing.com",
+    "author": null,
+    "language": "en",
+    "ticker": "YUM",
+    "tickers_hint": [
+      "YUM"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "investing.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Investing.com",
+      "source_domain": "investing.com",
+      "trust_tier": 2,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "YUM"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "3d12dd6f-740a-5d43-9b3a-7c39ba012fcb",
+    "timestamp_utc": "2026-04-01T12:23:00+00:00",
+    "source": "tradingview",
+    "url": "https://www.tradingview.com/news/tradingview:d7630718ce42d:0-kathleen-k-oberg-appointed-to-yum-brands-board/",
+    "title": "Kathleen K. Oberg appointed to Yum! Brands board - TradingView",
+    "body": "Kathleen K. Oberg appointed to Yum! Brands board TradingView",
+    "author": null,
+    "language": "en",
+    "ticker": "YUM",
+    "tickers_hint": [
+      "YUM"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "tradingview.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "TradingView",
+      "source_domain": "tradingview.com",
+      "trust_tier": 2,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "YUM"
+      ],
+      "alt_sources": [
+        "Nation’s Restaurant News"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "0d4937e4-eff8-511d-b7bb-67bc2a67ba90",
+    "timestamp_utc": "2026-04-02T09:06:54+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-sg-americas-securities-llc-decreases-stake-in-yum-brands-inc-yum-2026-04-02/",
+    "title": "SG Americas Securities LLC Decreases Stake in Yum! Brands, Inc. $YUM - MarketBeat",
+    "body": "SG Americas Securities LLC Decreases Stake in Yum! Brands, Inc. $YUM MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "YUM",
+    "tickers_hint": [
+      "YUM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "YUM"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "9eabe597-d11f-52a3-b179-41406cfe1fda",
+    "timestamp_utc": "2026-04-01T18:23:28+00:00",
+    "source": "stock_titan",
+    "url": "https://www.stocktitan.net/sec-filings/YUM/form-4-yum-brands-inc-insider-trading-activity-afaf0b440754.html",
+    "title": "Yum Brands (NYSE: YUM) CEO logs small 257-share open-market stock sale - Stock Titan",
+    "body": "⛶ Fullscreen SEC Form 4 FORM 4UNITED STATES SECURITIES AND EXCHANGE COMMISSIONWashington, D.C.\n\n20549STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIPFiled pursuant to Section 16(a) of the Securities Exchange Act of 1934or Section 30(h) of the Investment Company Act of 1940OMB APPROVALOMB Number:3235-0287Estimated average burdenhours per response:0.5 Check this box if no longer subject to Section 16.\n\nSee Instruction 1(b).XCheck this box to indicate that a transaction was made pursuant to a contract, instruction or written plan for the purchase or sale of equity securities of the issuer that is intended to satisfy the affirmative defense conditions of Rule 10b5-1(c).\n\nName and Address of Reporting Person*Turner Christopher Lee(Last)(First)(Middle)1441 GARDINER LANE(Street)LOUISVILLE KENTUCKY 40213(City)(State)(Zip)UNITED STATES(Country)2.\n\nIssuer Name and Ticker or Trading Symbol YUM BRANDS INC [ YUM ] 5.\n\nRelationship of Reporting Person(s) to Issuer (Check all applicable)XDirector10% OwnerXOfficer (give title below)Other (specify below)CEO, Chairman of Board2a.\n\nIndividual or Joint/Group Filing (Check Applicable Line) XForm filed by One Reporting PersonForm filed by More than One Reporting Person4.\n\nIf Amendment, Date of Original Filed (Month/Day/Year)Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned1.\n\nAmount of Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeVAmount(A) or (D)PriceCommon Stock04/01/2026S257(1)D$154.1864,801.66DTable II - Derivative Securities Acquired, Disposed of, or Beneficially Owned(e.g., puts, calls, warrants, options, convertible securities)1.\n\nNumber of Derivative Securities Acquired (A) or Disposed of (D) (Instr.\n\nTitle and Amount of Securities Underlying Derivative Security (Instr.\n\nNumber of derivative Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeV(A)(D)Date ExercisableExpiration DateTitleAmount or Number of SharesExplanation of Responses:1.\n\nPursuant to 10b5-1 Plan/s/ Brittany Bodkin, POA04/01/2026** Signature of Reporting PersonDateReminder: Report on a separate line for each class of securities beneficially owned directly or indirectly.* If the form is filed by more than one reporting person, see Instruction 4 (b)(v).** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C.\n\n78ff(a).Note: File three copies of this Form, one of which must be manually signed.\n\nIf space is insufficient, see Instruction 6 for procedure.Persons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB Number.* Form 4: SEC 1474 (03-26)",
+    "author": null,
+    "language": "en",
+    "ticker": "YUM",
+    "tickers_hint": [
+      "YUM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "YUM"
+      ],
+      "body_kind": "article_text"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "1b086859-8af0-5337-89f8-0977778352aa",
+    "timestamp_utc": "2026-04-01T14:54:48+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8765304/yum-brands-yum-appoints-kathleen-k-oberg-to-board-of-directors",
+    "title": "Yum! Brands (YUM) Appoints Kathleen K. Oberg to Board of Directo - GuruFocus",
+    "body": "Yum! Brands (YUM) Appoints Kathleen K. Oberg to Board of Directo GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "YUM",
+    "tickers_hint": [
+      "YUM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "YUM"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "eee2e8d7-7121-5e2b-b5f2-0d6266712431",
+    "timestamp_utc": "2026-04-01T08:42:09+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-econ-financial-services-corp-buys-shares-of-15473-yum-brands-inc-yum-2026-04-01/",
+    "title": "Econ Financial Services Corp Buys Shares of 15,473 Yum! Brands, Inc. $YUM - MarketBeat",
+    "body": "Econ Financial Services Corp Buys Shares of 15,473 Yum! Brands, Inc. $YUM MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "YUM",
+    "tickers_hint": [
+      "YUM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "YUM"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "f58f9538-2352-5db9-b801-c53ece7fb0c5",
+    "timestamp_utc": "2026-04-02T14:06:58+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUNDWlVCT0tVbV9jQVJCV05ScFhaOXNDU2JzZy1jUHNleUhLNzM5NlNDMkdIQnoyTGFhdUNMbmhfTEE1aE1CaVAxSVZMTGsyQ1I0SENqdXdGR2ZMdU51SG1ONUg3RTVnb3pJclEtTEctVjExcU9adUhhZHd5MjI4cnZXc2wwVHoySlkxUFVWTG5uUm55Y1NJMVg1TDUyWFNncWt3c2d3WFp0bTQ?oc=5",
+    "title": "YUM Brands (YUM) director granted phantom stock units and 910 shares - Stock Titan",
+    "body": "YUM Brands (YUM) director granted phantom stock units and 910 shares Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "YUM",
+    "tickers_hint": [
+      "YUM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "YUM"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "7615e747-19ad-5afe-9678-0191f9a787b7",
+    "timestamp_utc": "2026-04-02T14:04:54+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZFUyRmJydml2ZTZUUmFuaHBXSW1QVHlDUEZzSDVuVXlxSkVNRWVEa3l1bFVtYUFHa3RRZko4bjJ0cVF6NEdnQ0lhbUdoZkpKeE95OWNSRDl6YWxqQ2JjMms4eVJGSDR1UktQdnBRSFNKNFRPSEdzSGpmY0t5eXNIOF9sOWtaUHlMNnZRWmxBQ19fZFVqeVIta3M4V2tVR09jU3A4SmtxU0o4cUx4Uk5HZVNYVzNkWGt0eVR2NmNha1dIQQ?oc=5",
+    "title": "Yum Brands (YUM) director Kathleen Oberg files initial Form 3 disclosure - Stock Titan",
+    "body": "Yum Brands (YUM) director Kathleen Oberg files initial Form 3 disclosure Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "YUM",
+    "tickers_hint": [
+      "YUM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "YUM"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "3b152e60-fd82-5020-a70d-6c247b37cf9f",
+    "timestamp_utc": "2026-04-01T18:31:00+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUnU1Ti1ueF96UU5sd0VqY0djUl9lQ2Y1Mnp0bHlHckRsN1dwZDZKVC1VMWt2WlFqbzQtWTdWQjUxZjlnQWhrOGhCdlUxazlzeXlGUjU1RVVXdHF4UW1jeDJFOXNsal9YOEZCWG9yMHNWM2hZanI3OFF0WTNUVjgtSmVZZm94RmwzY0tzOFY2ekVtTkE2MWdlNWNGMEtYY18wRlkwZHJCemp1R3c?oc=5",
+    "title": "KFC chief at Yum Brands (NYSE: YUM) sells exercised shares under plan - Stock Titan",
+    "body": "KFC chief at Yum Brands (NYSE: YUM) sells exercised shares under plan Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "YUM",
+    "tickers_hint": [
+      "YUM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "YUM"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "75c0fd2b-0faa-52a3-8154-ef37d9647e9c",
+    "timestamp_utc": "2026-04-01T13:13:54+00:00",
+    "source": "investing.com_south_africa",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR1drMnZ5SEpfYWx5bTQzNFBXbjBoOHhCdzlZWndJRzNKV3phdXZJNFJFcU4tYVVRUDZ6cVRjcjhGeHViRFJzTUVJUXBYUWhvX2RjaHpkbnpaMi1fdmdtMHFSVE1lZ29obTFGd2ZGSGkyVWpENXY0WmFpU1p4cVlfMDEwSzhEeDRHaW92djZ5NFVsajhzRHNRZzU1SzItcUc4ZXhRWFIxM3pTd0l5QUozM0phSQ?oc=5",
+    "title": "Yum Brands appoints Kathleen K. Oberg to board of directors By Investing.com - Investing.com South Africa",
+    "body": "Yum Brands appoints Kathleen K. Oberg to board of directors By Investing.com Investing.com South Africa",
+    "author": null,
+    "language": "en",
+    "ticker": "YUM",
+    "tickers_hint": [
+      "YUM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "investing.com south africa",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Investing.com South Africa",
+      "source_domain": "investingcomsouthafrica.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "YUM"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "3e9131f7-c779-5003-9e73-872b0f409fb9",
+    "timestamp_utc": "2026-04-02T16:19:28+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRklnVGVaZEJIbmtnSU1SbWVWdlN0YjZ3N2ppWEo0M19hM0FCREZOZml1SEx6WHU4X1N1bjliTzFReHVHZ2lfRVpoUjB4cm5tY3J3OVZ0b3FRV1paa1NGQnZ3dW05YjkxOEIxNVNCUHVEM0hYWm40QUhsUWM3QXhBMlZGTWR1aHJNaW80MGJUM3dqY3Jsdmdsdk1XbzZfTDJOLVR4UlBHWFA3Mk0?oc=5",
+    "title": "[Form 4] YUM BRANDS INC Insider Trading Activity - Stock Titan",
+    "body": "[Form 4] YUM BRANDS INC Insider Trading Activity Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "YUM",
+    "tickers_hint": [
+      "YUM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "YUM"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "e1027c38-d06c-51ef-8bf7-43f2518c57fa",
+    "timestamp_utc": "2026-04-02T02:31:17+00:00",
+    "source": "ad_hoc_news",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWkdsRUpVVFdTY0E4TTNoeUJzR1dQaVhZdW5IZjh6VkJRcm9aUEhOdnRlMWJBZjJtOGc0ZGJaSlpfejk3YTEwTmV2UUV6WTRVT1M2d3hsLWpyTElVbUwzSEktSDh4ZXRCOGlIVVVLMkp5OV80b09vNjFZM2lVVUt2MDdrQVFuUUFDVnFuQzdPV3BIMVRiVXJBVEM3TmZSWTlZYVhsMmRJSzkzTVFPMzZndzZka09OT1JmU08tOFBzZTdaeVo0ZUx3VllB?oc=5",
+    "title": "Yum! Brands Inc Stock: Strategic Refocus Amid Board Changes and Franchise Adjustments Drives Long-Te - AD HOC NEWS",
+    "body": "Yum! Brands Inc Stock: Strategic Refocus Amid Board Changes and Franchise Adjustments Drives Long-Te AD HOC NEWS",
+    "author": null,
+    "language": "en",
+    "ticker": "YUM",
+    "tickers_hint": [
+      "YUM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "ad hoc news",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "AD HOC NEWS",
+      "source_domain": "adhocnews.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "YUM"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "8250da67-a32e-5427-aa11-19d71843aa43",
+    "timestamp_utc": "2026-04-01T14:30:00+00:00",
+    "source": "minichart",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV3JaUzF6bVZaUkQ2ZFpRMUk4cnZXSXNCa2Npc0k4SGlfTU5kTi1HNVdaT0ZnMkFhT1NNMDZoZ09nenZUMTEteUNzVjdCWWprSm5ZazF1NTV5bnd2eVFEZmNEcjFjS3c1NU1IZDRDUUo1MmtTU0tZMWFCWldKc3lhWVRiU1N5ZmQ3VXgwc01ZWE41TVNZcGlkY21UdlR6aGV1STlmWkZNUGNwMFo3S2NYN2ZveXVVei1mbTZESTRYZUVTQWRGeVBwT0pFTlZTOVE?oc=5",
+    "title": "YUM! Brands, Inc. 8-K Filing March 26, 2026: Company Details, Stock Info, and SEC Reporting 15161750 - Minichart",
+    "body": "YUM! Brands, Inc. 8-K Filing March 26, 2026: Company Details, Stock Info, and SEC Reporting 15161750 Minichart",
+    "author": null,
+    "language": "en",
+    "ticker": "YUM",
+    "tickers_hint": [
+      "YUM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "minichart",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Minichart",
+      "source_domain": "minichart.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "YUM"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "d71cb4a4-09b4-5a05-8b84-89a2449a9c17",
+    "timestamp_utc": "2026-04-01T12:14:13+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYzJLbV9XN2xuWU1JSDl0X29HeUZmTEktalEzejJMZFloVUhGUTZPbUNXWWpscGFqZ3hxY0dGdnZOaFVPc1Q5UmU0a19Vamk0d0k2T0Z2eWZKMS1yM3hyOUQ5Y1dWeTlLRTFqeGtlSjhiV2RkYXlvejNoRENud3l4NGhRZjFBS3lIV3h0R2NTZGRmbW5aTDdqSHZrMlhINFVaMUNucg?oc=5",
+    "title": "[8-K] YUM BRANDS INC Reports Material Event - Stock Titan",
+    "body": "[8-K] YUM BRANDS INC Reports Material Event Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "YUM",
+    "tickers_hint": [
+      "YUM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "YUM"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

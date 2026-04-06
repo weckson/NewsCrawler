@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "4773c49a-dab6-5b9c-bbdf-fec592083f3e",
+      "timestamp_utc": "2026-04-02T22:07:57+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdkpscjhIOXN2S010eVpDWU1NQTFXMHQtMzY0NDBaX1NqYTR2YWZmUGc3cmxaM1RUVHcxZW5RaTRTdjZ0UkpvMGdvR0pKQ09nZktyY0E2RkZkLTJKMzRTSGNieWp2U1UzUXk1alBhdlVMcDlpX2U0eXZSV2paRTVQQklVTjNIdlliTm0wc1h3b2VHbnF3Wlh3azVlV2FaS2huY1RVTHM4QjA2VHc?oc=5",
+      "title": "Booking Holdings enacts 25-for-1 stock split, ups shares - TipRanks",
+      "body": "Booking Holdings enacts 25-for-1 stock split, ups shares TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "UPS",
+      "tickers_hint": [
+        "UPS"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "UPS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "247f9d5b-2e4f-58c9-ba0b-50ba0025f08e",
+      "timestamp_utc": "2026-04-02T17:28:48+00:00",
+      "source": "et_now",
+      "url": "https://www.etnownews.com/markets/9-small-cap-stocks-shine-amid-market-ups-and-downs-deliver-over-20-returns-in-2-quarters-in-a-row-details-article-153984894",
+      "title": "9 small-cap stocks shine amid market ups and downs deliver over 20% returns in 2 quarters in a row - DETAILS - ET Now",
+      "body": "9 small-cap stocks shine amid market ups and downs deliver over 20% returns in 2 quarters in a row - DETAILS ET Now",
+      "author": null,
+      "language": "en",
+      "ticker": "UPS",
+      "tickers_hint": [
+        "UPS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "et now",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "ET Now",
+        "source_domain": "etnow.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "UPS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "4c80e7c4-0746-524c-b2c5-42dcfc9a902f",
+      "timestamp_utc": "2026-04-04T13:48:20+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/UPS/earnings",
+      "title": "UPS Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "UPS Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "UPS",
+      "tickers_hint": [
+        "UPS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "UPS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "4773c49a-dab6-5b9c-bbdf-fec592083f3e",
+      "timestamp_utc": "2026-04-02T22:07:57+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdkpscjhIOXN2S010eVpDWU1NQTFXMHQtMzY0NDBaX1NqYTR2YWZmUGc3cmxaM1RUVHcxZW5RaTRTdjZ0UkpvMGdvR0pKQ09nZktyY0E2RkZkLTJKMzRTSGNieWp2U1UzUXk1alBhdlVMcDlpX2U0eXZSV2paRTVQQklVTjNIdlliTm0wc1h3b2VHbnF3Wlh3azVlV2FaS2huY1RVTHM4QjA2VHc?oc=5",
+      "title": "Booking Holdings enacts 25-for-1 stock split, ups shares - TipRanks",
+      "body": "Booking Holdings enacts 25-for-1 stock split, ups shares TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "UPS",
+      "tickers_hint": [
+        "UPS"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "UPS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "247f9d5b-2e4f-58c9-ba0b-50ba0025f08e",
+      "timestamp_utc": "2026-04-02T17:28:48+00:00",
+      "source": "et_now",
+      "url": "https://www.etnownews.com/markets/9-small-cap-stocks-shine-amid-market-ups-and-downs-deliver-over-20-returns-in-2-quarters-in-a-row-details-article-153984894",
+      "title": "9 small-cap stocks shine amid market ups and downs deliver over 20% returns in 2 quarters in a row - DETAILS - ET Now",
+      "body": "9 small-cap stocks shine amid market ups and downs deliver over 20% returns in 2 quarters in a row - DETAILS ET Now",
+      "author": null,
+      "language": "en",
+      "ticker": "UPS",
+      "tickers_hint": [
+        "UPS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "et now",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "ET Now",
+        "source_domain": "etnow.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "UPS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "4c80e7c4-0746-524c-b2c5-42dcfc9a902f",
+      "timestamp_utc": "2026-04-04T13:48:20+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/UPS/earnings",
+      "title": "UPS Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "UPS Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "UPS",
+      "tickers_hint": [
+        "UPS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "UPS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

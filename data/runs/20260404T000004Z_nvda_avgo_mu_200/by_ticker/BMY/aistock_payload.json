@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "7901df44-2fe4-5981-afef-de596dbcee99",
+      "timestamp_utc": "2026-04-02T21:03:33+00:00",
+      "source": "investing.com_australia",
+      "url": "https://au.investing.com/news/insider-trading-news/elkins-bristol-myers-squibb-cfo-sells-185-million-in-bmy-stock-93CH-4345635",
+      "title": "Elkins, Bristol Myers Squibb CFO, sells $1.85 million in BMY stock - Investing.com Australia",
+      "body": "Elkins, Bristol Myers Squibb CFO, sells $1.85 million in BMY stock Investing.com Australia",
+      "author": null,
+      "language": "en",
+      "ticker": "BMY",
+      "tickers_hint": [
+        "BMY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "investing.com australia",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com Australia",
+        "source_domain": "investingcomaustralia.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "BMY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "135fb07a-13a4-5414-9287-cf2c6f3d4498",
+      "timestamp_utc": "2026-04-02T20:26:15+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN28xbEZGUjFRc3UwbjFvdVRaWGd0cXRHOGR3WWJ6Mms0TThjWTRhaERpLTdZMG9vaHFjMjc2R0hDUWFHV1h5TU44c3dyR0dSaXRuUUFRaGpSMzVHMThKS2VmV3E5clFybGxJY3hXYjNGTVI5M093aVdJUUd6LWVGZ2hFdFpFQXhtcmV2UEtjRXIyYWVRMnBhR0pseHgtMlJ6a0N5TQ?oc=5",
+      "title": "Bristol-Myers Squibb Co (BMY) Shares Down 3.58% on Apr 2 - GuruFocus",
+      "body": "Bristol-Myers Squibb Co (BMY) Shares Down 3.58% on Apr 2 GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "BMY",
+      "tickers_hint": [
+        "BMY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BMY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "7901df44-2fe4-5981-afef-de596dbcee99",
+      "timestamp_utc": "2026-04-02T21:03:33+00:00",
+      "source": "investing.com_australia",
+      "url": "https://au.investing.com/news/insider-trading-news/elkins-bristol-myers-squibb-cfo-sells-185-million-in-bmy-stock-93CH-4345635",
+      "title": "Elkins, Bristol Myers Squibb CFO, sells $1.85 million in BMY stock - Investing.com Australia",
+      "body": "Elkins, Bristol Myers Squibb CFO, sells $1.85 million in BMY stock Investing.com Australia",
+      "author": null,
+      "language": "en",
+      "ticker": "BMY",
+      "tickers_hint": [
+        "BMY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "investing.com australia",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com Australia",
+        "source_domain": "investingcomaustralia.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "BMY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "135fb07a-13a4-5414-9287-cf2c6f3d4498",
+      "timestamp_utc": "2026-04-02T20:26:15+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN28xbEZGUjFRc3UwbjFvdVRaWGd0cXRHOGR3WWJ6Mms0TThjWTRhaERpLTdZMG9vaHFjMjc2R0hDUWFHV1h5TU44c3dyR0dSaXRuUUFRaGpSMzVHMThKS2VmV3E5clFybGxJY3hXYjNGTVI5M093aVdJUUd6LWVGZ2hFdFpFQXhtcmV2UEtjRXIyYWVRMnBhR0pseHgtMlJ6a0N5TQ?oc=5",
+      "title": "Bristol-Myers Squibb Co (BMY) Shares Down 3.58% on Apr 2 - GuruFocus",
+      "body": "Bristol-Myers Squibb Co (BMY) Shares Down 3.58% on Apr 2 GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "BMY",
+      "tickers_hint": [
+        "BMY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BMY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "d9f1c4a2-41f9-5b38-b1af-30cb1fdacc6c",
+    "timestamp_utc": "2026-04-02T15:24:48+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/teradyne-nasdaqter-shares-gap-down-heres-why-2026-04-02/",
+    "title": "Teradyne (NASDAQ:TER) Shares Gap Down - Here's Why - MarketBeat",
+    "body": "Teradyne (NASDAQ:TER) Shares Gap Down - Here's Why MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "TER",
+    "tickers_hint": [
+      "TER"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "TER"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "a74cbb07-86cc-55b8-bb2f-16360730b1ad",
+    "timestamp_utc": "2026-04-02T16:17:50+00:00",
+    "source": "inkl",
+    "url": "https://www.inkl.com/news/what-to-expect-from-teradyne-s-q1-2026-earnings-report",
+    "title": "What to Expect From Teradyne's Q1 2026 Earnings Report - inkl",
+    "body": "What to Expect From Teradyne's Q1 2026 Earnings Report inkl",
+    "author": null,
+    "language": "en",
+    "ticker": "TER",
+    "tickers_hint": [
+      "TER"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "inkl",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "inkl",
+      "source_domain": "inkl.com",
+      "trust_tier": 1,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "TER"
+      ],
+      "alt_sources": [
+        "FinancialContent",
+        "MSN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "addc31b7-73d4-51c0-83b4-10b1cacd9bdd",
+    "timestamp_utc": "2026-04-03T10:02:00+00:00",
+    "source": "fxempire",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd1lJNUV2WW0zY1gwdGNyZEJENmdnYkx0ZlNmZG10RTdsTHJFX1djcEwtVkp6SU9Uajg3MjA1Ti0wZ2pVUmltajFQNW1VSGVNUkFJUkx6TDNDc24yWnJoYmxvZnlINGV1M0swbjgzbjViQk5MUEVkV1c5bVRYUE9KOW9PUW8zaVd2ZzZ4bXZRb1Roa2JmeEFLQw?oc=5",
+    "title": "AI, Robotics Keep Teradyne Shares in Demand - FXEmpire",
+    "body": "AI, Robotics Keep Teradyne Shares in Demand FXEmpire",
+    "author": null,
+    "language": "en",
+    "ticker": "TER",
+    "tickers_hint": [
+      "TER"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "fxempire",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "TER"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

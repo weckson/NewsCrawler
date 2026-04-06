@@ -1,0 +1,31 @@
+[
+  {
+    "id": "589b90dc-84f5-5c42-abdd-5c8f255cd1eb",
+    "timestamp_utc": "2026-04-02T00:05:01+00:00",
+    "source": "qz.com",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oVmtkQjlXYVZLQllEVGVpXzctd2tiUXUtbzBxQWlOdTRIUmo1VF9aVTBZZmRTaTVIUnUycnRtRnFHZ2FQUjB5ekpQejFDTGdkT2tzbmNnLWNkZDN1Mmo2VHgzdjluZHEyNlRxcDZFMVExYUlFajBF?oc=5",
+    "title": "GEHC or ABT: Which Is the Better Value Stock Right Now? - qz.com",
+    "body": "GEHC or ABT: Which Is the Better Value Stock Right Now? qz.com",
+    "author": null,
+    "language": "en",
+    "ticker": "GEHC",
+    "tickers_hint": [
+      "GEHC"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "qz.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "qz.com",
+      "source_domain": "qzcom.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "GEHC"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

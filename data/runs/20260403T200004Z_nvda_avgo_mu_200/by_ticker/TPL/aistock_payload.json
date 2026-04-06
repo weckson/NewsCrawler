@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "d8409272-fed9-563f-9f37-0515f7cdc73c",
+      "timestamp_utc": "2026-04-02T10:47:21+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-texas-pacific-land-corporation-tpl-stock-position-raised-by-ipswich-investment-management-co-inc-2026-04-02/",
+      "title": "Texas Pacific Land Corporation $TPL Stock Position Raised by Ipswich Investment Management Co. Inc. - MarketBeat",
+      "body": "Texas Pacific Land Corporation $TPL Stock Position Raised by Ipswich Investment Management Co. Inc. MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "TPL",
+      "tickers_hint": [
+        "TPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "TPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ac806ce7-d359-5099-9a26-4c59fa0ed31e",
+      "timestamp_utc": "2026-04-02T17:46:59+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdUV1ZXJYSjlHX05mRVFmbWYzemhPTmJ5djlWSWoyc2NXVlR5QkZ1VFk0S0J6d0YtRWZxeFZhRmdhX0s5Nl82ODJHaWFYbkpoQUJBb21jU0JFTnlfeDRDT2NPVE1qN3JWVHpXTTVWenRoSGZWcnVrY3pHQ0UtTUMxMk1PQTJ2dmlNOXNqZFBPdGxwbjMzQUtsLUMxQzRzSzN6cVhlWUNyalJwNTNmNVpBRjJjUHRIT3M?oc=5",
+      "title": "Horizon Kinetics (NYSE: TPL) makes small Texas Pacific Land share purchase - Stock Titan",
+      "body": "Horizon Kinetics (NYSE: TPL) makes small Texas Pacific Land share purchase Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "TPL",
+      "tickers_hint": [
+        "TPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "d8409272-fed9-563f-9f37-0515f7cdc73c",
+      "timestamp_utc": "2026-04-02T10:47:21+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-texas-pacific-land-corporation-tpl-stock-position-raised-by-ipswich-investment-management-co-inc-2026-04-02/",
+      "title": "Texas Pacific Land Corporation $TPL Stock Position Raised by Ipswich Investment Management Co. Inc. - MarketBeat",
+      "body": "Texas Pacific Land Corporation $TPL Stock Position Raised by Ipswich Investment Management Co. Inc. MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "TPL",
+      "tickers_hint": [
+        "TPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "TPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ac806ce7-d359-5099-9a26-4c59fa0ed31e",
+      "timestamp_utc": "2026-04-02T17:46:59+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdUV1ZXJYSjlHX05mRVFmbWYzemhPTmJ5djlWSWoyc2NXVlR5QkZ1VFk0S0J6d0YtRWZxeFZhRmdhX0s5Nl82ODJHaWFYbkpoQUJBb21jU0JFTnlfeDRDT2NPVE1qN3JWVHpXTTVWenRoSGZWcnVrY3pHQ0UtTUMxMk1PQTJ2dmlNOXNqZFBPdGxwbjMzQUtsLUMxQzRzSzN6cVhlWUNyalJwNTNmNVpBRjJjUHRIT3M?oc=5",
+      "title": "Horizon Kinetics (NYSE: TPL) makes small Texas Pacific Land share purchase - Stock Titan",
+      "body": "Horizon Kinetics (NYSE: TPL) makes small Texas Pacific Land share purchase Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "TPL",
+      "tickers_hint": [
+        "TPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TPL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

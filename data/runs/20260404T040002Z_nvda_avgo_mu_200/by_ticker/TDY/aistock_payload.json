@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "4032a736-64dd-5086-99c3-4bb313337aa5",
+      "timestamp_utc": "2026-04-02T23:15:00+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8768940/tdy-citigroup-maintains-neutral-rating-and-raises-price-target-tdy-stock-news?mobile=true",
+      "title": "TDY: Citigroup Maintains Neutral Rating and Raises Price Target - GuruFocus",
+      "body": "TDY: Citigroup Maintains Neutral Rating and Raises Price Target GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "TDY",
+      "tickers_hint": [
+        "TDY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "TDY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ce360abf-80a1-570e-88e5-06778bd0943e",
+      "timestamp_utc": "2026-04-03T00:50:04+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jRjM5Z0lyaEs0eEVjcF92WjhoZ0Z4Q01QcksxaGFqdGRUVTFOdDFSOEJpcjJjbXZ6TFR1WGVMUVlIcDU5RmVUOU03UzEwTHBm?oc=5",
+      "title": "Teledyne Technologies Incorporated (TDY) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Teledyne Technologies Incorporated (TDY) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "TDY",
+      "tickers_hint": [
+        "TDY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TDY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "4032a736-64dd-5086-99c3-4bb313337aa5",
+      "timestamp_utc": "2026-04-02T23:15:00+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8768940/tdy-citigroup-maintains-neutral-rating-and-raises-price-target-tdy-stock-news?mobile=true",
+      "title": "TDY: Citigroup Maintains Neutral Rating and Raises Price Target - GuruFocus",
+      "body": "TDY: Citigroup Maintains Neutral Rating and Raises Price Target GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "TDY",
+      "tickers_hint": [
+        "TDY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "TDY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ce360abf-80a1-570e-88e5-06778bd0943e",
+      "timestamp_utc": "2026-04-03T00:50:04+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jRjM5Z0lyaEs0eEVjcF92WjhoZ0Z4Q01QcksxaGFqdGRUVTFOdDFSOEJpcjJjbXZ6TFR1WGVMUVlIcDU5RmVUOU03UzEwTHBm?oc=5",
+      "title": "Teledyne Technologies Incorporated (TDY) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Teledyne Technologies Incorporated (TDY) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "TDY",
+      "tickers_hint": [
+        "TDY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TDY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "374814c5-c3ed-58ce-9378-94b4efff92de",
+      "timestamp_utc": "2026-04-03T11:02:31+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/verizon-communications-nysevz-stock-rating-upgraded-by-erste-group-bank-2026-04-03/",
+      "title": "Verizon Communications (NYSE:VZ) Stock Rating Upgraded by Erste Group Bank - MarketBeat",
+      "body": "Verizon Communications (NYSE:VZ) Stock Rating Upgraded by Erste Group Bank MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "VZ",
+      "tickers_hint": [
+        "VZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "VZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "90b4bafd-7983-5ea5-b886-4a491d5eddc2",
+      "timestamp_utc": "2026-04-02T20:14:35+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbWxhWmNvWll2NERYTlpKN2g4YTRmRGRQRTI5VHJIeFNZU0lvQ0RsQ2U3WmhUcHBoOEJqbjdmT19GRVBqc3ZON1NxZUo0eExyeGZmcUN1c1ZRdjE4dm1IZXozWmxxTHdtdWxoRTlfVDBYZGlRVWZHWWZCTk94Mkl3eEF4RndaaWRQazJFVS01SWg2b2paZ1NUb1dtMGl1UWlaSl9VNUhNX1dRUGk1QzhoVk1HQTVoUG5kbVE?oc=5",
+      "title": "Verizon (VZ) Chief Legal Officer receives 48,593 RSU equity award - Stock Titan",
+      "body": "Verizon (VZ) Chief Legal Officer receives 48,593 RSU equity award Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "VZ",
+      "tickers_hint": [
+        "VZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "VZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f7e35eb1-4e0a-5361-90a9-b67bd953855b",
+      "timestamp_utc": "2026-04-02T20:11:03+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQlp4cFZjamprRDhqUENDeHdocmR6Mmw4M0Y4ZGxQOVl3WjhZSWZDZlFwNzFqMVJGdThRajBwUkNpcnlhaWY2Q1dEQ3pqX3NQTl9Kam1KOWgwNWdzVnFycDM2aXF1TmdtX3JZXzIta2VBT1RlZEZWX2dKbE5LUG5sZkY2b0JrV3VfUFl2MmxNckFTNDQ5QUhNWDlNVWF5MGtwUVdOX190QnRTTm9iQ2pLR0lRYjRkWm1meGc?oc=5",
+      "title": "Verizon (NYSE: VZ) SVP and Controller receives 24,803 RSU equity grant - Stock Titan",
+      "body": "Verizon (NYSE: VZ) SVP and Controller receives 24,803 RSU equity grant Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "VZ",
+      "tickers_hint": [
+        "VZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "VZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "639ceaa8-2538-5be4-82a6-f12687e366a1",
+      "timestamp_utc": "2026-04-02T20:07:24+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR0g2N3hsV2FjTzhkTXhZN2xEVl9peUlITEpCbGlDVkJVWlJubklzNm9HRG11RUlXQXlTcGFOclBDVWFZd05EbjFVUTVqQkh1N3FBUmN3d1d2SGlfNXB3SW9KLTBWN09qRFdnd3d1LW41MmxWUDd3RHRSN3c3dk81azZ0akRrNW9kNUdfNzRiV09hbzJROV91RUxBNGtMY2RJd3kyalE1b2RyWVZ3VjhxVkxJdlI2bzJWeEE?oc=5",
+      "title": "Verizon (NYSE: VZ) HR chief granted 40,495 RSUs vesting from 2027 - Stock Titan",
+      "body": "Verizon (NYSE: VZ) HR chief granted 40,495 RSUs vesting from 2027 Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "VZ",
+      "tickers_hint": [
+        "VZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "VZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c4281d14-5f61-5084-afb5-042bdf9c9ad4",
+      "timestamp_utc": "2026-04-02T20:05:07+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZkEtR3pzSEZ2N3R4Nkdwc25UYkl0bExsQmZFOGhYcF9xaHdseUtieFFyOUlsZG1LMXNUdm9ZdVYyQjc3U3FsYTVmbFJwNjIyOTNxNnNqeHVyVXNUTVVERjdYdzZlQlZrZUNtNzRNTzlkeUduUGdCWVZ3SmFXMFYtZVByUHZUTVl4andxMklDRUstSUxQWGJtQXphVUYtS09ZSEdkZ2p1MmQ3aG8zY1dKX1l0Y0Z5Wm9EbXc?oc=5",
+      "title": "Verizon (NYSE: VZ) director gains 5,062 cash-settled phantom units - Stock Titan",
+      "body": "Verizon (NYSE: VZ) director gains 5,062 cash-settled phantom units Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "VZ",
+      "tickers_hint": [
+        "VZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "VZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "85c5ee59-1d43-51f3-ad69-d79fe4093417",
+      "timestamp_utc": "2026-04-02T19:56:49+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRVJIVFF5bTZEOVF2WThsWXNYeDl2RGVpOGc0RUFwQ0JZbkxhTTdBSTdhV09JUTBjazVyMURQeWNsYlUzMVBodGdMWDFEVDFvWHhyTGR1RlVwSWdVNWFEa1hmbExGekZSS0l2aWNTU3l2LTE3TVNfQzNrdVAwS2hZTDhyR1dvT0REaTVxa0ZNYl9rTURzZDhwck1NUjBXeWdMV2R5N2JKRUlqUTQ4QjJxcFB0SmxEbUFCSWc?oc=5",
+      "title": "Verizon (VZ) director Bertolini receives 5,062 phantom stock units in deferred plan - Stock Titan",
+      "body": "Verizon (VZ) director Bertolini receives 5,062 phantom stock units in deferred plan Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "VZ",
+      "tickers_hint": [
+        "VZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "VZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "374814c5-c3ed-58ce-9378-94b4efff92de",
+      "timestamp_utc": "2026-04-03T11:02:31+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/verizon-communications-nysevz-stock-rating-upgraded-by-erste-group-bank-2026-04-03/",
+      "title": "Verizon Communications (NYSE:VZ) Stock Rating Upgraded by Erste Group Bank - MarketBeat",
+      "body": "Verizon Communications (NYSE:VZ) Stock Rating Upgraded by Erste Group Bank MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "VZ",
+      "tickers_hint": [
+        "VZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "VZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "90b4bafd-7983-5ea5-b886-4a491d5eddc2",
+      "timestamp_utc": "2026-04-02T20:14:35+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbWxhWmNvWll2NERYTlpKN2g4YTRmRGRQRTI5VHJIeFNZU0lvQ0RsQ2U3WmhUcHBoOEJqbjdmT19GRVBqc3ZON1NxZUo0eExyeGZmcUN1c1ZRdjE4dm1IZXozWmxxTHdtdWxoRTlfVDBYZGlRVWZHWWZCTk94Mkl3eEF4RndaaWRQazJFVS01SWg2b2paZ1NUb1dtMGl1UWlaSl9VNUhNX1dRUGk1QzhoVk1HQTVoUG5kbVE?oc=5",
+      "title": "Verizon (VZ) Chief Legal Officer receives 48,593 RSU equity award - Stock Titan",
+      "body": "Verizon (VZ) Chief Legal Officer receives 48,593 RSU equity award Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "VZ",
+      "tickers_hint": [
+        "VZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "VZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f7e35eb1-4e0a-5361-90a9-b67bd953855b",
+      "timestamp_utc": "2026-04-02T20:11:03+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQlp4cFZjamprRDhqUENDeHdocmR6Mmw4M0Y4ZGxQOVl3WjhZSWZDZlFwNzFqMVJGdThRajBwUkNpcnlhaWY2Q1dEQ3pqX3NQTl9Kam1KOWgwNWdzVnFycDM2aXF1TmdtX3JZXzIta2VBT1RlZEZWX2dKbE5LUG5sZkY2b0JrV3VfUFl2MmxNckFTNDQ5QUhNWDlNVWF5MGtwUVdOX190QnRTTm9iQ2pLR0lRYjRkWm1meGc?oc=5",
+      "title": "Verizon (NYSE: VZ) SVP and Controller receives 24,803 RSU equity grant - Stock Titan",
+      "body": "Verizon (NYSE: VZ) SVP and Controller receives 24,803 RSU equity grant Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "VZ",
+      "tickers_hint": [
+        "VZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "VZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "639ceaa8-2538-5be4-82a6-f12687e366a1",
+      "timestamp_utc": "2026-04-02T20:07:24+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR0g2N3hsV2FjTzhkTXhZN2xEVl9peUlITEpCbGlDVkJVWlJubklzNm9HRG11RUlXQXlTcGFOclBDVWFZd05EbjFVUTVqQkh1N3FBUmN3d1d2SGlfNXB3SW9KLTBWN09qRFdnd3d1LW41MmxWUDd3RHRSN3c3dk81azZ0akRrNW9kNUdfNzRiV09hbzJROV91RUxBNGtMY2RJd3kyalE1b2RyWVZ3VjhxVkxJdlI2bzJWeEE?oc=5",
+      "title": "Verizon (NYSE: VZ) HR chief granted 40,495 RSUs vesting from 2027 - Stock Titan",
+      "body": "Verizon (NYSE: VZ) HR chief granted 40,495 RSUs vesting from 2027 Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "VZ",
+      "tickers_hint": [
+        "VZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "VZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c4281d14-5f61-5084-afb5-042bdf9c9ad4",
+      "timestamp_utc": "2026-04-02T20:05:07+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZkEtR3pzSEZ2N3R4Nkdwc25UYkl0bExsQmZFOGhYcF9xaHdseUtieFFyOUlsZG1LMXNUdm9ZdVYyQjc3U3FsYTVmbFJwNjIyOTNxNnNqeHVyVXNUTVVERjdYdzZlQlZrZUNtNzRNTzlkeUduUGdCWVZ3SmFXMFYtZVByUHZUTVl4andxMklDRUstSUxQWGJtQXphVUYtS09ZSEdkZ2p1MmQ3aG8zY1dKX1l0Y0Z5Wm9EbXc?oc=5",
+      "title": "Verizon (NYSE: VZ) director gains 5,062 cash-settled phantom units - Stock Titan",
+      "body": "Verizon (NYSE: VZ) director gains 5,062 cash-settled phantom units Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "VZ",
+      "tickers_hint": [
+        "VZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "VZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "85c5ee59-1d43-51f3-ad69-d79fe4093417",
+      "timestamp_utc": "2026-04-02T19:56:49+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRVJIVFF5bTZEOVF2WThsWXNYeDl2RGVpOGc0RUFwQ0JZbkxhTTdBSTdhV09JUTBjazVyMURQeWNsYlUzMVBodGdMWDFEVDFvWHhyTGR1RlVwSWdVNWFEa1hmbExGekZSS0l2aWNTU3l2LTE3TVNfQzNrdVAwS2hZTDhyR1dvT0REaTVxa0ZNYl9rTURzZDhwck1NUjBXeWdMV2R5N2JKRUlqUTQ4QjJxcFB0SmxEbUFCSWc?oc=5",
+      "title": "Verizon (VZ) director Bertolini receives 5,062 phantom stock units in deferred plan - Stock Titan",
+      "body": "Verizon (VZ) director Bertolini receives 5,062 phantom stock units in deferred plan Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "VZ",
+      "tickers_hint": [
+        "VZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "VZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "141f878c-5cc4-5d3d-9fc9-b29a1cb6d1b3",
+    "timestamp_utc": "2026-04-02T21:44:20+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeU9tc0dwNkhienhuZ0VURjhBbjRvMkdRZ3dQMG84QlVRRkdfVURPanQ0dFJvSXhWaVB3Ul9XbHlUeU5zaHd3czFpWUphTzZaT3dERzZrclQxODZ3RDM4YkNFMUc1TDQtalFyTWxzYnJGa3BndElvRTBfbTdkR0VkUFhJUk1xbVUzY01YMExkdw?oc=5",
+    "title": "3 Reasons MTD is Risky and 1 Stock to Buy Instead - Yahoo Finance",
+    "body": "3 Reasons MTD is Risky and 1 Stock to Buy Instead Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "MTD",
+    "tickers_hint": [
+      "MTD"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "MTD"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "adce60b4-460f-5c6d-8a5f-338218b34fe4",
+    "timestamp_utc": "2026-04-01T13:58:28+00:00",
+    "source": "intellectia_ai",
+    "url": "https://intellectia.ai/en/stock/MTD/earnings",
+    "title": "MTD Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+    "body": "MTD Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+    "author": null,
+    "language": "en",
+    "ticker": "MTD",
+    "tickers_hint": [
+      "MTD"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "intellectia ai",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Intellectia AI",
+      "source_domain": "intellectiaai.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "MTD"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

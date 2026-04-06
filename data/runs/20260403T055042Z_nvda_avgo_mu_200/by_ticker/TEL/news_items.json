@@ -1,0 +1,60 @@
+[
+  {
+    "id": "d1455475-801c-5fdd-837d-26c8977f10f1",
+    "timestamp_utc": "2026-04-02T18:32:02+00:00",
+    "source": "גלובס",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZno2VzB5WXpSelU5ZFh5bTJYLTZ4VHVibmZSVlJ4ZnhkQ25PRGcyOEJoNHRTeXhLeThfeTBWS1dpY0F3bXNSMXF3WDF3elVkU1MwbFJFQTB1UHNtd2NONG9nN2lqbU1mcndXbEZPeEJ4WmlLQm51dXBzMGowNDRCUEJ5R2ZsOFp4QVZUSFNFN1F4V1FpcHp0a0VUOGdCLUhaaml1YUdmWDVndWUtamREVQ?oc=5",
+    "title": "Globes Online – Israel business news – Israel economic news – Israel banks – Tel Aviv Stock Exchange – Israel stocks –Israel shares – bonds – shekel - Israeli companies – Israel capital market - DLR-P0322.5M605 Shekel/dollar option - גלובס",
+    "body": "Globes Online – Israel business news – Israel economic news – Israel banks – Tel Aviv Stock Exchange – Israel stocks –Israel shares – bonds – shekel - Israeli companies – Israel capital market - DLR-P0322.5M605 Shekel/dollar option גלובס",
+    "author": null,
+    "language": "en",
+    "ticker": "TEL",
+    "tickers_hint": [
+      "TEL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "גלובס",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "גלובס",
+      "source_domain": ".com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "TEL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "82e42400-0cfa-536f-a5a1-3b8d04b7d658",
+    "timestamp_utc": "2026-04-01T11:06:09+00:00",
+    "source": "intellectia_ai",
+    "url": "https://intellectia.ai/en/stock/TEL.N/earnings",
+    "title": "TEL.N Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+    "body": "TEL.N Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+    "author": null,
+    "language": "en",
+    "ticker": "TEL",
+    "tickers_hint": [
+      "TEL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "intellectia ai",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Intellectia AI",
+      "source_domain": "intellectiaai.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "TEL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

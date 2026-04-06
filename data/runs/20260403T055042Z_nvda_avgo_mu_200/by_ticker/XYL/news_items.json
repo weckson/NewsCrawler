@@ -1,0 +1,92 @@
+[
+  {
+    "id": "3e538330-8f77-5714-b12a-8744ef95bc77",
+    "timestamp_utc": "2026-04-01T18:18:11+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8765696/oppenheimer-lowers-price-target-for-xylem-xyl-to-160-xyl-stock-news",
+    "title": "Oppenheimer Lowers Price Target for Xylem (XYL) to $160 | XYL St - GuruFocus",
+    "body": "Oppenheimer Lowers Price Target for Xylem (XYL) to $160 | XYL St GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "XYL",
+    "tickers_hint": [
+      "XYL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "XYL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "651f76ea-bd22-5049-8f57-bc38cfa14662",
+    "timestamp_utc": "2026-04-02T13:24:01+00:00",
+    "source": "stock_traders_daily",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd2ZabEVPRGwtbzlpQzRDR2JaeVQ1Tm1ZSkUyMFVxNF8tU3MxOVlpZS1YaTNHVjEtaDZNX21QMFZ1d0V0akJLbDk2VUd3Qm5jbVMwSExKT1VCaGlrSk90T1dGMEpFS3N3X0tESFV6eU5VTXBTVkNGVVl0NWxhYWkwNEdyaHZpWVpERHhmSnhTRXpCZi1VNDRYV0RLRUxTLV9xUmdjQU45WG10NEg0QUlOYTBQT0FiYWs?oc=5",
+    "title": "Understanding Momentum Shifts in (XYL) - Stock Traders Daily",
+    "body": "Understanding Momentum Shifts in (XYL) Stock Traders Daily",
+    "author": null,
+    "language": "en",
+    "ticker": "XYL",
+    "tickers_hint": [
+      "XYL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock traders daily",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Traders Daily",
+      "source_domain": "stocktradersdaily.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "XYL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "ec484c9c-956c-5ba7-ae76-9f500d2f94e0",
+    "timestamp_utc": "2026-04-01T11:19:49+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EWWlQaFdySjJJSnRONDFXc1ZiVDJNX0l1YUVnS01CaWRwMjUyRHY1dzA1Z0E5Z1lrOUFxSHZOaUMwVHg5NzV2c2RBNnkxODBGV0lVY3NRNmtfU0g3S3dWX3NWRC0?oc=5",
+    "title": "XYL SEC Filings - Xylem Inc 10-K, 10-Q, 8-K Forms - Stock Titan",
+    "body": "XYL SEC Filings - Xylem Inc 10-K, 10-Q, 8-K Forms Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "XYL",
+    "tickers_hint": [
+      "XYL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "XYL"
+      ],
+      "alt_sources": [
+        "Stock Titan"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

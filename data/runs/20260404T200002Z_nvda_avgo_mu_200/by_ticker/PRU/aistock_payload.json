@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "fc84a5c0-e2d3-57aa-800a-d6205f71183e",
+      "timestamp_utc": "2026-04-04T15:06:08+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/PRU/earnings",
+      "title": "PRU Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "PRU Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "PRU",
+      "tickers_hint": [
+        "PRU"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PRU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c9bc78e0-18b8-5308-9ea1-0072fdd1820f",
+      "timestamp_utc": "2026-04-02T23:05:56+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mVndRd2ZEUWsyM1lfUEZiblZWaEV3dy03dVJrdmtjMUlxTWlDQWZvbmhCbjR6QUlNNC05cG1QRE1zRWdIRXZ4QVRoY0ZFbDAz?oc=5",
+      "title": "Prudential Financial, Inc. (PRU) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Prudential Financial, Inc. (PRU) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "PRU",
+      "tickers_hint": [
+        "PRU"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PRU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "fc84a5c0-e2d3-57aa-800a-d6205f71183e",
+      "timestamp_utc": "2026-04-04T15:06:08+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/PRU/earnings",
+      "title": "PRU Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "PRU Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "PRU",
+      "tickers_hint": [
+        "PRU"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PRU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c9bc78e0-18b8-5308-9ea1-0072fdd1820f",
+      "timestamp_utc": "2026-04-02T23:05:56+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mVndRd2ZEUWsyM1lfUEZiblZWaEV3dy03dVJrdmtjMUlxTWlDQWZvbmhCbjR6QUlNNC05cG1QRE1zRWdIRXZ4QVRoY0ZFbDAz?oc=5",
+      "title": "Prudential Financial, Inc. (PRU) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Prudential Financial, Inc. (PRU) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "PRU",
+      "tickers_hint": [
+        "PRU"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "PRU"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

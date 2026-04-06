@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "374814c5-c3ed-58ce-9378-94b4efff92de",
+      "timestamp_utc": "2026-04-03T11:02:31+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/verizon-communications-nysevz-stock-rating-upgraded-by-erste-group-bank-2026-04-03/",
+      "title": "Verizon Communications (NYSE:VZ) Stock Rating Upgraded by Erste Group Bank - MarketBeat",
+      "body": "Verizon Communications (NYSE:VZ) Stock Rating Upgraded by Erste Group Bank MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "VZ",
+      "tickers_hint": [
+        "VZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "VZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c4281d14-5f61-5084-afb5-042bdf9c9ad4",
+      "timestamp_utc": "2026-04-02T20:05:07+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZkEtR3pzSEZ2N3R4Nkdwc25UYkl0bExsQmZFOGhYcF9xaHdseUtieFFyOUlsZG1LMXNUdm9ZdVYyQjc3U3FsYTVmbFJwNjIyOTNxNnNqeHVyVXNUTVVERjdYdzZlQlZrZUNtNzRNTzlkeUduUGdCWVZ3SmFXMFYtZVByUHZUTVl4andxMklDRUstSUxQWGJtQXphVUYtS09ZSEdkZ2p1MmQ3aG8zY1dKX1l0Y0Z5Wm9EbXc?oc=5",
+      "title": "Verizon (NYSE: VZ) director gains 5,062 cash-settled phantom units - Stock Titan",
+      "body": "Verizon (NYSE: VZ) director gains 5,062 cash-settled phantom units Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "VZ",
+      "tickers_hint": [
+        "VZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "VZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "374814c5-c3ed-58ce-9378-94b4efff92de",
+      "timestamp_utc": "2026-04-03T11:02:31+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/verizon-communications-nysevz-stock-rating-upgraded-by-erste-group-bank-2026-04-03/",
+      "title": "Verizon Communications (NYSE:VZ) Stock Rating Upgraded by Erste Group Bank - MarketBeat",
+      "body": "Verizon Communications (NYSE:VZ) Stock Rating Upgraded by Erste Group Bank MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "VZ",
+      "tickers_hint": [
+        "VZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "VZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c4281d14-5f61-5084-afb5-042bdf9c9ad4",
+      "timestamp_utc": "2026-04-02T20:05:07+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZkEtR3pzSEZ2N3R4Nkdwc25UYkl0bExsQmZFOGhYcF9xaHdseUtieFFyOUlsZG1LMXNUdm9ZdVYyQjc3U3FsYTVmbFJwNjIyOTNxNnNqeHVyVXNUTVVERjdYdzZlQlZrZUNtNzRNTzlkeUduUGdCWVZ3SmFXMFYtZVByUHZUTVl4andxMklDRUstSUxQWGJtQXphVUYtS09ZSEdkZ2p1MmQ3aG8zY1dKX1l0Y0Z5Wm9EbXc?oc=5",
+      "title": "Verizon (NYSE: VZ) director gains 5,062 cash-settled phantom units - Stock Titan",
+      "body": "Verizon (NYSE: VZ) director gains 5,062 cash-settled phantom units Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "VZ",
+      "tickers_hint": [
+        "VZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "VZ"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

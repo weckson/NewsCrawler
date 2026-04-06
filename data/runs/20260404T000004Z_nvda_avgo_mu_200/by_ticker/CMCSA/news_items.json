@@ -1,0 +1,92 @@
+[
+  {
+    "id": "4253028c-2a29-5876-9bcc-d02810971098",
+    "timestamp_utc": "2026-04-02T12:03:03+00:00",
+    "source": "benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUmVvT3RtcmZZajktMlFBT1pfeW00WVVWNnc1NUt1eE80bUdZZ2lIOUhmczJBb0tHbHRYX1Z2bkppUk02Z21HU2JGUjBJWHdwM085TWdJczRIUEtZbFZSMHdFVzVzaUYtU2tpcUE0ZEg4M2VQQkk0X2lnbFBXak9uZmpmbUtKeVBmSmw0UWpyRldVZDBabGZOd2VtWHVjajJqR2diRHVFQTZDaEF2aExvelN5QzEyUGRybVliaWVfczhrRm9UUTU4OVN3?oc=5",
+    "title": "Over 4 Million Children Have Registered For Trump Accounts, IRS Says - Comcast (NASDAQ:CMCSA), Coinbase G - Benzinga",
+    "body": "Over 4 Million Children Have Registered For Trump Accounts, IRS Says - Comcast (NASDAQ:CMCSA), Coinbase G Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "CMCSA",
+    "tickers_hint": [
+      "CMCSA"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "meta": {
+      "channel": "google_benzinga",
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "CMCSA"
+      ],
+      "alt_sources": [
+        "Benzinga"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "9832bb43-1bec-56e8-b63b-9dec11c32563",
+    "timestamp_utc": "2026-04-02T10:47:21+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-matrix-asset-advisors-inc-ny-lowers-stake-in-comcast-corporation-cmcsa-2026-04-02/",
+    "title": "Matrix Asset Advisors Inc. NY Lowers Stake in Comcast Corporation $CMCSA - MarketBeat",
+    "body": "Matrix Asset Advisors Inc. NY Lowers Stake in Comcast Corporation $CMCSA MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "CMCSA",
+    "tickers_hint": [
+      "CMCSA"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "CMCSA"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "532063c6-c92f-5675-a1d8-bc8df40a20f4",
+    "timestamp_utc": "2026-04-02T20:26:30+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaWE1TmxaekZnOXdlbzMxbWUtNDhXWFdfVUlmeVBwQlc4QnZZbVk2OGQ1Q3dmdUdhM2VyNktIS20ySFpTLXZMcURlQ2VpdS1GcVMwSHlKSWxFdG1zcjhvUXZCMXF3V3Y4SF9RLU15U0wxb1E4R29vem9JVUNmRE5iVko1YURVZGQtZkxSQjgzZ3RTV0o2dGJXQVM2SF8wNHFYdHppQWMxT2g?oc=5",
+    "title": "Comcast (NASDAQ: CMCSA) director receives 1,524-share equity grant - Stock Titan",
+    "body": "Comcast (NASDAQ: CMCSA) director receives 1,524-share equity grant Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "CMCSA",
+    "tickers_hint": [
+      "CMCSA"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "CMCSA"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

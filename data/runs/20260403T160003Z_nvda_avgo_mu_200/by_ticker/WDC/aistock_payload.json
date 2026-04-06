@@ -1,0 +1,356 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "7642073f-65b8-521f-ae5e-517c01139911",
+      "timestamp_utc": "2026-04-03T13:00:04+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYldDZmh3X2xxVkZpSy1rbVFpUWtaUUpucEhqTk9vZU8tMWF2eVA2c2pqYXRYR1hkRUI1ckdDcG40Y0ltM2M1aXh2bUoydmgxSXpwT1pHOHlxUmNSajl4SmZvbUdzVmFuZ0ppcGk0WDZIbjhvai15cTZrd2lGY3hrV1FmcnBWcmJid295M0ZXYVpaZHd6UHR0aXEtU1JKd3ZzbVpLR3JicFpZX0k?oc=5",
+      "title": "Western Digital Corporation (WDC) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+      "body": "Western Digital Corporation (WDC) is Attracting Investor Attention: Here is What You Should Know Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "faff6e47-b4c0-5bd4-80bc-bc4d9ec0c046",
+      "timestamp_utc": "2026-04-01T16:46:04+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZl9PNkFwRVVXejhjc3pwZWZmcldSZjBjbWpCTmJmSEl0eWt4R1hxZXpoUlBsTktxNk1BampGZkJlUmFsZHpNSUc5R2sydklqVWFEVE00aGd4dGRKVU1BZ3EyX3FPM0VfWm1hd2x5SEV1SXh2RzdCT056THBNVUxNN0txMk5hRm00cjlBMnZRbFlZRVd4aXZ3cDNmRUZ6ZXltd05NVElnT0MwSmVDRkE4S3hRSTE2NWVXYXpB?oc=5",
+      "title": "Western Digital (WDC) Shares Skyrocket, What You Need To Know - TradingView",
+      "body": "Western Digital (WDC) Shares Skyrocket, What You Need To Know TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "30f53ab8-206b-5793-876a-50b464d7ba75",
+      "timestamp_utc": "2026-04-02T06:29:07+00:00",
+      "source": "fxleaders",
+      "url": "https://www.fxleaders.com/news/2026/04/02/western-digital-wdc-stock-surges-10-on-analyst-upgrade-and-ai-storage-optimism/",
+      "title": "Western Digital (WDC) Stock Surges 10% on Analyst Upgrade and AI Storage Optimism - FXLeaders",
+      "body": "5 Best Forex Trading Apps How to Avoid Forex Trading Scams Introduction of Meta Trader 5.\n\nPart 1 What is Forex Dealing Desk Forex Web Trading Platforms: Pros and Cons MT4 Best Featues – Part 1 MT4: Fibonacci and Trend Line Tools",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "fxleaders",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "FXLeaders",
+        "source_domain": "fxleaders.com",
+        "trust_tier": 1,
+        "relevance": 0.7,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "656babc7-365c-5e4c-b42a-9fe1ac126ca0",
+      "timestamp_utc": "2026-04-02T11:37:11+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/western-digital-nasdaqwdc-stock-rating-lowered-by-zacks-research-2026-04-02/",
+      "title": "Western Digital (NASDAQ:WDC) Stock Rating Lowered by Zacks Research - MarketBeat",
+      "body": "Western Digital (NASDAQ:WDC) Stock Rating Lowered by Zacks Research MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2aa0de59-763d-5cdf-8d2a-a0407ab3c175",
+      "timestamp_utc": "2026-04-02T01:05:03+00:00",
+      "source": "qz.com",
+      "url": "https://qz.com/wall-street-analysts-think-western-digital-wdc-is-a-good-investment-is-it",
+      "title": "Wall Street Analysts Think Western Digital (WDC) Is a Good Investment: Is It? - qz.com",
+      "body": "Wall Street Analysts Think Western Digital (WDC) Is a Good Investment: Is It? qz.com",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "qz.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "qz.com",
+        "source_domain": "qzcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ed23a6d3-ceec-5083-b9de-77760935fa05",
+      "timestamp_utc": "2026-04-01T17:08:22+00:00",
+      "source": "mexc",
+      "url": "https://www.mexc.com/news/998242",
+      "title": "Western Digital (WDC) Stock Rallies 11% on Bernstein’s Bullish Upgrade to Outperform - MEXC",
+      "body": "Western Digital (WDC) Stock Rallies 11% on Bernstein’s Bullish Upgrade to Outperform MEXC",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "mexc",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MEXC",
+        "source_domain": "mexc.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "7642073f-65b8-521f-ae5e-517c01139911",
+      "timestamp_utc": "2026-04-03T13:00:04+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYldDZmh3X2xxVkZpSy1rbVFpUWtaUUpucEhqTk9vZU8tMWF2eVA2c2pqYXRYR1hkRUI1ckdDcG40Y0ltM2M1aXh2bUoydmgxSXpwT1pHOHlxUmNSajl4SmZvbUdzVmFuZ0ppcGk0WDZIbjhvai15cTZrd2lGY3hrV1FmcnBWcmJid295M0ZXYVpaZHd6UHR0aXEtU1JKd3ZzbVpLR3JicFpZX0k?oc=5",
+      "title": "Western Digital Corporation (WDC) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+      "body": "Western Digital Corporation (WDC) is Attracting Investor Attention: Here is What You Should Know Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "faff6e47-b4c0-5bd4-80bc-bc4d9ec0c046",
+      "timestamp_utc": "2026-04-01T16:46:04+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZl9PNkFwRVVXejhjc3pwZWZmcldSZjBjbWpCTmJmSEl0eWt4R1hxZXpoUlBsTktxNk1BampGZkJlUmFsZHpNSUc5R2sydklqVWFEVE00aGd4dGRKVU1BZ3EyX3FPM0VfWm1hd2x5SEV1SXh2RzdCT056THBNVUxNN0txMk5hRm00cjlBMnZRbFlZRVd4aXZ3cDNmRUZ6ZXltd05NVElnT0MwSmVDRkE4S3hRSTE2NWVXYXpB?oc=5",
+      "title": "Western Digital (WDC) Shares Skyrocket, What You Need To Know - TradingView",
+      "body": "Western Digital (WDC) Shares Skyrocket, What You Need To Know TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "30f53ab8-206b-5793-876a-50b464d7ba75",
+      "timestamp_utc": "2026-04-02T06:29:07+00:00",
+      "source": "fxleaders",
+      "url": "https://www.fxleaders.com/news/2026/04/02/western-digital-wdc-stock-surges-10-on-analyst-upgrade-and-ai-storage-optimism/",
+      "title": "Western Digital (WDC) Stock Surges 10% on Analyst Upgrade and AI Storage Optimism - FXLeaders",
+      "body": "5 Best Forex Trading Apps How to Avoid Forex Trading Scams Introduction of Meta Trader 5.\n\nPart 1 What is Forex Dealing Desk Forex Web Trading Platforms: Pros and Cons MT4 Best Featues – Part 1 MT4: Fibonacci and Trend Line Tools",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "fxleaders",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "FXLeaders",
+        "source_domain": "fxleaders.com",
+        "trust_tier": 1,
+        "relevance": 0.7,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "656babc7-365c-5e4c-b42a-9fe1ac126ca0",
+      "timestamp_utc": "2026-04-02T11:37:11+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/western-digital-nasdaqwdc-stock-rating-lowered-by-zacks-research-2026-04-02/",
+      "title": "Western Digital (NASDAQ:WDC) Stock Rating Lowered by Zacks Research - MarketBeat",
+      "body": "Western Digital (NASDAQ:WDC) Stock Rating Lowered by Zacks Research MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2aa0de59-763d-5cdf-8d2a-a0407ab3c175",
+      "timestamp_utc": "2026-04-02T01:05:03+00:00",
+      "source": "qz.com",
+      "url": "https://qz.com/wall-street-analysts-think-western-digital-wdc-is-a-good-investment-is-it",
+      "title": "Wall Street Analysts Think Western Digital (WDC) Is a Good Investment: Is It? - qz.com",
+      "body": "Wall Street Analysts Think Western Digital (WDC) Is a Good Investment: Is It? qz.com",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "qz.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "qz.com",
+        "source_domain": "qzcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ed23a6d3-ceec-5083-b9de-77760935fa05",
+      "timestamp_utc": "2026-04-01T17:08:22+00:00",
+      "source": "mexc",
+      "url": "https://www.mexc.com/news/998242",
+      "title": "Western Digital (WDC) Stock Rallies 11% on Bernstein’s Bullish Upgrade to Outperform - MEXC",
+      "body": "Western Digital (WDC) Stock Rallies 11% on Bernstein’s Bullish Upgrade to Outperform MEXC",
+      "author": null,
+      "language": "en",
+      "ticker": "WDC",
+      "tickers_hint": [
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "mexc",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MEXC",
+        "source_domain": "mexc.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "WDC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

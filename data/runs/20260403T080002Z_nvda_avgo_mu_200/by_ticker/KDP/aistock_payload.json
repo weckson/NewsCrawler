@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "9c102788-0d69-57d8-b053-ec6cf94c8636",
+      "timestamp_utc": "2026-04-03T05:46:03+00:00",
+      "source": "bitget.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vcm1ZWjhMeXdjVWRUZG9Dc1VoLXBOd3llMWRwdldLSXMzOHpBSE1sVWRwRzFoM25nQlI2SFVsVU1YY1F1dW5YR2wwRWo5c3FxNUxVUTRDZVFGYkIxTWFPSHNkMNIBY0FVX3lxTE5vcm1ZWjhMeXdjVWRUZG9Dc1VoLXBOd3llMWRwdldLSXMzOHpBSE1sVWRwRzFoM25nQlI2SFVsVU1YY1F1dW5YR2wwRWo5c3FxNUxVUTRDZVFGYkIxTWFPSHNkMA?oc=5",
+      "title": "Keurig Dr Pepper (KDP) Drops 11% Over the Past Month—Is a Turnaround Imminent? - bitget.com",
+      "body": "Keurig Dr Pepper (KDP) Drops 11% Over the Past Month—Is a Turnaround Imminent? bitget.com",
+      "author": null,
+      "language": "en",
+      "ticker": "KDP",
+      "tickers_hint": [
+        "KDP"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "bitget.com",
+        "source_domain": "bitgetcom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KDP"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e1fd0f3f-9ada-5a0d-a64b-50359e51cebe",
+      "timestamp_utc": "2026-04-02T09:49:15+00:00",
+      "source": "stockstory",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbkZVZlJlcEJxNVlOYmhnYThOcElCWGlJM2lDazQ5U1V1eTdMR0EtRWlhaGQtT3ZqSS1yRnc1MkpoVU14RXVwY2pBcWp4R0otemN6OTd3RkowZmo3czVjMjN1dmdwSlpBVXQwS1VST2ctOHRDY3l3LVhsdzVSWWVuS05HYTlOUXRWZUhrS0xBVUk1TmljeTlWRTgteHNmTFpKS01qR3lsRm0tQQ?oc=5",
+      "title": "2 Reasons to Watch KDP and 1 to Stay Cautious - StockStory",
+      "body": "2 Reasons to Watch KDP and 1 to Stay Cautious StockStory",
+      "author": null,
+      "language": "en",
+      "ticker": "KDP",
+      "tickers_hint": [
+        "KDP"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stockstory",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "StockStory",
+        "source_domain": "stockstory.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KDP"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "9c102788-0d69-57d8-b053-ec6cf94c8636",
+      "timestamp_utc": "2026-04-03T05:46:03+00:00",
+      "source": "bitget.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vcm1ZWjhMeXdjVWRUZG9Dc1VoLXBOd3llMWRwdldLSXMzOHpBSE1sVWRwRzFoM25nQlI2SFVsVU1YY1F1dW5YR2wwRWo5c3FxNUxVUTRDZVFGYkIxTWFPSHNkMNIBY0FVX3lxTE5vcm1ZWjhMeXdjVWRUZG9Dc1VoLXBOd3llMWRwdldLSXMzOHpBSE1sVWRwRzFoM25nQlI2SFVsVU1YY1F1dW5YR2wwRWo5c3FxNUxVUTRDZVFGYkIxTWFPSHNkMA?oc=5",
+      "title": "Keurig Dr Pepper (KDP) Drops 11% Over the Past Month—Is a Turnaround Imminent? - bitget.com",
+      "body": "Keurig Dr Pepper (KDP) Drops 11% Over the Past Month—Is a Turnaround Imminent? bitget.com",
+      "author": null,
+      "language": "en",
+      "ticker": "KDP",
+      "tickers_hint": [
+        "KDP"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "bitget.com",
+        "source_domain": "bitgetcom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KDP"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e1fd0f3f-9ada-5a0d-a64b-50359e51cebe",
+      "timestamp_utc": "2026-04-02T09:49:15+00:00",
+      "source": "stockstory",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbkZVZlJlcEJxNVlOYmhnYThOcElCWGlJM2lDazQ5U1V1eTdMR0EtRWlhaGQtT3ZqSS1yRnc1MkpoVU14RXVwY2pBcWp4R0otemN6OTd3RkowZmo3czVjMjN1dmdwSlpBVXQwS1VST2ctOHRDY3l3LVhsdzVSWWVuS05HYTlOUXRWZUhrS0xBVUk1TmljeTlWRTgteHNmTFpKS01qR3lsRm0tQQ?oc=5",
+      "title": "2 Reasons to Watch KDP and 1 to Stay Cautious - StockStory",
+      "body": "2 Reasons to Watch KDP and 1 to Stay Cautious StockStory",
+      "author": null,
+      "language": "en",
+      "ticker": "KDP",
+      "tickers_hint": [
+        "KDP"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stockstory",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "StockStory",
+        "source_domain": "stockstory.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KDP"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

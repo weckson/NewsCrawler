@@ -1,0 +1,92 @@
+[
+  {
+    "id": "c902ab22-6107-5af6-9c64-1811ef80246a",
+    "timestamp_utc": "2026-04-02T15:45:04+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-ventas-vtr-great-dividend-154504252.html",
+    "title": "Why Ventas (VTR) is a Great Dividend Stock Right Now - Yahoo Finance",
+    "body": "Why Ventas (VTR) is a Great Dividend Stock Right Now Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "VTR",
+    "tickers_hint": [
+      "VTR"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "VTR"
+      ],
+      "alt_sources": [
+        "Yahoo Finance Australia"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "e4e3b47a-e53d-5ef6-b9dc-e093a074f03e",
+    "timestamp_utc": "2026-04-02T08:32:01+00:00",
+    "source": "stock_traders_daily",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWFlVQ0hCZ0dtYU1PN0R5WEpZcjFOajNybVZTeEpSci1qQVJZQ0cta09ZM0UwT3NjMDJZZTdVcUVoLTliWmx3SkNRQVFRQVc5Wl9JcEgyNGJrYnU0ZHB4eGxOWTljeHhVSGMtX19NVGJBUFRmYlhnT2ZoUXZRVFVGSHotbzY0NWJveEFSZjZGOGN0VUxmS2RkcDdVVldteWhBcW9KbWYwdDJnYU00VGlqcmx6SHFidjQzUWhNT05R?oc=5",
+    "title": "Liquidity Mapping Around (VTR) Price Events - Stock Traders Daily",
+    "body": "Liquidity Mapping Around (VTR) Price Events Stock Traders Daily",
+    "author": null,
+    "language": "en",
+    "ticker": "VTR",
+    "tickers_hint": [
+      "VTR"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock traders daily",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Traders Daily",
+      "source_domain": "stocktradersdaily.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "VTR"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "726d5da7-af56-5d2b-8d0e-99ab1fb2b8f0",
+    "timestamp_utc": "2026-04-01T10:57:53+00:00",
+    "source": "intellectia_ai",
+    "url": "https://intellectia.ai/en/stock/VTR/earnings",
+    "title": "VTR Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+    "body": "VTR Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+    "author": null,
+    "language": "en",
+    "ticker": "VTR",
+    "tickers_hint": [
+      "VTR"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "intellectia ai",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Intellectia AI",
+      "source_domain": "intellectiaai.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "VTR"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

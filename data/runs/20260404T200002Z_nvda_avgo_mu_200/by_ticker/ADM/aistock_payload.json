@@ -1,0 +1,716 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "afe6fb71-f0bf-5067-b145-4f877d05f8db",
+      "timestamp_utc": "2026-04-02T20:40:31+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWlBpNUVJVzBabFJMNG90QWtlSE5mSFM5QmxiTHl4enNXaUdPVHl2blVzbWFNdURyOWpRcnZBLVBnUG9TM0ZhdjJrOTlucFpDMWdzUmxNV05JQnVmOHBBdHBqZjdrLWJCT1RjT0FsTzdOY1NNQ1RGV1JZTVUzSGRzclhXNWNQczZKa1ZuSi1PU3dZY2ZPVHBtLW5fT2hRMDYwUDhZSVk2WHNwOVpBMHdPSUlGdjljVHBjR1E?oc=5",
+      "title": "ADM (NYSE: ADM) director Lei Zhang Schlitz receives 706.994 stock units grant - Stock Titan",
+      "body": "ADM (NYSE: ADM) director Lei Zhang Schlitz receives 706.994 stock units grant Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "71b75e46-9533-5ed9-8d3e-cf5df482d4bb",
+      "timestamp_utc": "2026-04-02T20:40:28+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV3otbk5IRl9vSmZzM21pd3hUd2Z3TVZyQk04MTV0N3QxSGFWdllnXzZubzVLYTJKRXE2ckhNa2M5dmdJc3gzamViSm1nQTZkbGZUaVRrNXhkUjVMcGd2c3dmTV96OTdtOXhtZ2FDODR3dDQxczdwcVFybTR5TDJTbEg1Q1hLYUo4aTVWc0l5ai0tYjE0RlowRG5BcXhmV0NPRlQ2QlBNT2Rjci1TeDJKa3FJQmNMTUVhNXc?oc=5",
+      "title": "ADM (NYSE: ADM) director awarded 706.994 stock units under board plan - Stock Titan",
+      "body": "ADM (NYSE: ADM) director awarded 706.994 stock units under board plan Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "alt_sources": [
+          "Stock Titan"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ce7b7db4-be76-56bd-9dd2-6e80c199b8f2",
+      "timestamp_utc": "2026-04-02T20:40:26+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSmtvdEg5Zl9IY09RVDVJSUZKaGthQWdDQ0ljS1UtZ1RDang1a3FsQS02YWMxeHpMRnZDU3hKdjdmTHhrbTV4dTZVX0NCU3ZzajI2YnZCdFgyc00xYUgwcGpfa0Q5eWhWUkR1T1ljaGZCa3ZpMFByMEUzUmhySzQwREJNWExqZ2ZXTlJoRk40WVFMMEVOZWpHa0FsdWhqeno0RnZaeC0xUTVzLU1MMmNKSDN4MVhadlpmMGc?oc=5",
+      "title": "ADM director Patrick J. Moore receives 793 stock units (NYSE: ADM) - Stock Titan",
+      "body": "ADM director Patrick J. Moore receives 793 stock units (NYSE: ADM) Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0dd4c5f8-b436-5d16-b5a3-9a7713d03a40",
+      "timestamp_utc": "2026-04-02T20:40:25+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2MycDhYRnF5TDlJc3RWV2dDOHFWLXctOW1uRkF6cTZTekZKb3dnVlRsaG9XNHl4VW9zQ1ZJMXFBOGlxSmdDeG1Xc1NENG9leDhLbnkxcUFhYzdBWmdpT3c4aS1Ta2ZOSGpnX3hmSGtUeGlIY3Noc3YyRnVXeWljQmkwVUJZMExtNlNWVk9pQWw3Y1QzeFRDMkQ0bGJoZUdDSThnODQ1cC1kWk1RQlMyMG8wbWhvVjIyaWc?oc=5",
+      "title": "ADM (ADM) director receives 707 stock units as board compensation grant - Stock Titan",
+      "body": "ADM (ADM) director receives 707 stock units as board compensation grant Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "68000a52-02ee-5fda-b39d-de1b91566b87",
+      "timestamp_utc": "2026-04-02T20:40:23+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZEZMcFlIbHVXaS1GME9ibmFLZlFkOGU4Ymo1eFJJOHBvZ1g5M3Q3ZmxERXRQellCOVFicG5pR3FucVhGZmcwT0FBVlB3bXFEZTBEX0ZRSnVXT0QyMjljazBSNHdOcXpQbzN1cHJ6ZVZzMDNxSzNINXcta1ByWXF4dVZ2N0R5Szdra2lPbnp2ZmktTDhkX2RvcFRmSmFwSG9idUxlSVFscVl5X3A3MTN4d2JoU2FBVHp4emc?oc=5",
+      "title": "ADM (ADM) director Suzan Harrison awarded 793 stock units as equity pay - Stock Titan",
+      "body": "ADM (ADM) director Suzan Harrison awarded 793 stock units as equity pay Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "alt_sources": [
+          "Stock Titan"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "cfe2d457-f28f-5622-9acd-f8d2bf307472",
+      "timestamp_utc": "2026-04-02T20:40:17+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYWlCQTBBQV84b1k3dFo1S0t0VDVlazBDdHBUNkg2bF9vS2h1MHRTNFM3ZWNWV3NsVzV0NTh6OU85aHZXZUdRZUUtRk1WRzBqU0wyMm9VRUNoLVgtUXJqandCSTBzRWVBMXFXQmJjQlA1X2tIYjM2Mk5RZExJZFl5US1mTWpmSlh1Tms5djI1dmtyVkx0TV9IMVpfNHJDWkNBRHNxdTZRWWNhVmxwZjF0bnJXbHduR1JvZGc?oc=5",
+      "title": "ADM (NYSE: ADM) director Terrell Crews receives 879 stock units grant - Stock Titan",
+      "body": "ADM (NYSE: ADM) director Terrell Crews receives 879 stock units grant Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6c156877-065b-532a-82f0-51f885ef599d",
+      "timestamp_utc": "2026-04-02T20:40:12+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONjFaTzJRRENveEFjV25OUUJQSVdmTTZmaTV4N2pTUW1zZVFtR2p5N1hSRUtNdDFPZzNyWm5vSHVzdjJhNTltcldwcHItOTZOVnZHTWZLaWVsc1M0U3YtaGYwTG5lOUN6X25rYVlzTzNDQS1wNy1xZlFRVkN4Z1I2RWh6WUI0Y0tCaGV3T0p5WTAtcUN1SFVBN3R4ZDNGcWh4Rmo2RHZad1lHMnBSSU9IMU1MZll5ZkJDdUE?oc=5",
+      "title": "ADM (NYSE: ADM) director gets 706.994 stock unit grant - Stock Titan",
+      "body": "ADM (NYSE: ADM) director gets 706.994 stock unit grant Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "41a70d2d-f667-5929-9d69-f02409c0ed3a",
+      "timestamp_utc": "2026-04-02T20:40:10+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR2FRa2d1bkJXTUR5NkFTcmRxU2JmZUJad3ZRUHZUdDJlSGVPTXlyYWZ2SDlac0wwQkNaZXZSTkF1djR1Mm8wQXBCNE5NNENlQWVkNkQ5dkItQWF1anZYNV9fYkU2OGgtdVY1eVpzSGVlcDJ1aTd2RE0xUmx0RUd1X3dWYlpwbVc2MWFGX3ZEWTU0R21vRnhsU3dsR0Y4TVlTOERPZjEtdG1KdnZSXzNGZnRBYWhfQl83OEE?oc=5",
+      "title": "ADM (NYSE: ADM) awards 827.7 stock units to director Michael Burke - Stock Titan",
+      "body": "ADM (NYSE: ADM) awards 827.7 stock units to director Michael Burke Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3db39729-5fc0-5a50-8279-d33d74ca53b8",
+      "timestamp_utc": "2026-04-04T15:33:34+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tUHMwRnVJNkJaYzJNUHctUTVrTG9xRUhFbU45QUJMX1pNMENRNW9mSTk0R1FQa0ViZ3ZwMGpnU1poajdBaG02SEtpdWpjdnZf?oc=5",
+      "title": "Archer-Daniels-Midland Company (ADM) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Archer-Daniels-Midland Company (ADM) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "4148fb9f-20d2-5cb9-accc-bae2f7d2f5db",
+      "timestamp_utc": "2026-04-03T12:01:19+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HTUlra05sWXJtUlFRT0FMRXk3VW9XLWw2UzRGWmMtY2tnMGpJeTlrQVJIMHBiMFNlU2hoZWFFdjRfOTNDRDF2MmdfeXF3MTFOX25j?oc=5",
+      "title": "Admiral Group plc (ADM.L) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Admiral Group plc (ADM.L) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3f05732b-ac8b-54c0-aa36-01b41990fa63",
+      "timestamp_utc": "2026-04-02T20:40:20+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczVlY3NlWjFJcWlCbW00SkZaaDIzcHVDemltWVpnampLZjh1NnhtOXdPLTRQejJTWWo5YUFFRzRsQVVmM3dzVERyZzZjM3dwSkVwTmJZZ0dCajl0ZTJYbk5WamZCTUwtSkZhbTc1Z1R0Q2FCRU9XekdUU2U5dkZlTy02bW5tY1lqcV93ZFg5YVRxZGYyQVE3T2ZyZm5wQmtkWGlJdjZ4U3h2Z0lqLTJ5ZTBibkRXZ1d4c0E?oc=5",
+      "title": "Director Michael McMurray receives 180.676 stock units at Archer-Daniels (NYSE: ADM) - Stock Titan",
+      "body": "Director Michael McMurray receives 180.676 stock units at Archer-Daniels (NYSE: ADM) Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "205f9656-a9c0-5d51-a24c-b05f8d4a05e4",
+      "timestamp_utc": "2026-04-02T20:40:20+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX3dwcGlkU0VxUkw3YWRDQmxoblFpdXBBeXFteUhoUm5UX215c2tmNVZjRHJGTFZHZG1mVjBWSHFwNkZEbkZESVppclJmaHY4MmxTbHJOTzZidEF0MFNHNFduNXAzRTZiZmNXMlNhX3VrVjhTeEZ6dzFmbjBMdzJPT1E0cUNLa21VQmdQTF8tZlFGLVpfMGkyaF9TeXV0dnZ4SDNsYkxoTEwtUHY1OVJxb3k5anEzWTBjSWc?oc=5",
+      "title": "Director Kelvin Westbrook receives stock units at Archer-Daniels-Midland (NYSE: ADM) - Stock Titan",
+      "body": "Director Kelvin Westbrook receives stock units at Archer-Daniels-Midland (NYSE: ADM) Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "afe6fb71-f0bf-5067-b145-4f877d05f8db",
+      "timestamp_utc": "2026-04-02T20:40:31+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWlBpNUVJVzBabFJMNG90QWtlSE5mSFM5QmxiTHl4enNXaUdPVHl2blVzbWFNdURyOWpRcnZBLVBnUG9TM0ZhdjJrOTlucFpDMWdzUmxNV05JQnVmOHBBdHBqZjdrLWJCT1RjT0FsTzdOY1NNQ1RGV1JZTVUzSGRzclhXNWNQczZKa1ZuSi1PU3dZY2ZPVHBtLW5fT2hRMDYwUDhZSVk2WHNwOVpBMHdPSUlGdjljVHBjR1E?oc=5",
+      "title": "ADM (NYSE: ADM) director Lei Zhang Schlitz receives 706.994 stock units grant - Stock Titan",
+      "body": "ADM (NYSE: ADM) director Lei Zhang Schlitz receives 706.994 stock units grant Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "71b75e46-9533-5ed9-8d3e-cf5df482d4bb",
+      "timestamp_utc": "2026-04-02T20:40:28+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV3otbk5IRl9vSmZzM21pd3hUd2Z3TVZyQk04MTV0N3QxSGFWdllnXzZubzVLYTJKRXE2ckhNa2M5dmdJc3gzamViSm1nQTZkbGZUaVRrNXhkUjVMcGd2c3dmTV96OTdtOXhtZ2FDODR3dDQxczdwcVFybTR5TDJTbEg1Q1hLYUo4aTVWc0l5ai0tYjE0RlowRG5BcXhmV0NPRlQ2QlBNT2Rjci1TeDJKa3FJQmNMTUVhNXc?oc=5",
+      "title": "ADM (NYSE: ADM) director awarded 706.994 stock units under board plan - Stock Titan",
+      "body": "ADM (NYSE: ADM) director awarded 706.994 stock units under board plan Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "alt_sources": [
+          "Stock Titan"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ce7b7db4-be76-56bd-9dd2-6e80c199b8f2",
+      "timestamp_utc": "2026-04-02T20:40:26+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSmtvdEg5Zl9IY09RVDVJSUZKaGthQWdDQ0ljS1UtZ1RDang1a3FsQS02YWMxeHpMRnZDU3hKdjdmTHhrbTV4dTZVX0NCU3ZzajI2YnZCdFgyc00xYUgwcGpfa0Q5eWhWUkR1T1ljaGZCa3ZpMFByMEUzUmhySzQwREJNWExqZ2ZXTlJoRk40WVFMMEVOZWpHa0FsdWhqeno0RnZaeC0xUTVzLU1MMmNKSDN4MVhadlpmMGc?oc=5",
+      "title": "ADM director Patrick J. Moore receives 793 stock units (NYSE: ADM) - Stock Titan",
+      "body": "ADM director Patrick J. Moore receives 793 stock units (NYSE: ADM) Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0dd4c5f8-b436-5d16-b5a3-9a7713d03a40",
+      "timestamp_utc": "2026-04-02T20:40:25+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2MycDhYRnF5TDlJc3RWV2dDOHFWLXctOW1uRkF6cTZTekZKb3dnVlRsaG9XNHl4VW9zQ1ZJMXFBOGlxSmdDeG1Xc1NENG9leDhLbnkxcUFhYzdBWmdpT3c4aS1Ta2ZOSGpnX3hmSGtUeGlIY3Noc3YyRnVXeWljQmkwVUJZMExtNlNWVk9pQWw3Y1QzeFRDMkQ0bGJoZUdDSThnODQ1cC1kWk1RQlMyMG8wbWhvVjIyaWc?oc=5",
+      "title": "ADM (ADM) director receives 707 stock units as board compensation grant - Stock Titan",
+      "body": "ADM (ADM) director receives 707 stock units as board compensation grant Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "68000a52-02ee-5fda-b39d-de1b91566b87",
+      "timestamp_utc": "2026-04-02T20:40:23+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZEZMcFlIbHVXaS1GME9ibmFLZlFkOGU4Ymo1eFJJOHBvZ1g5M3Q3ZmxERXRQellCOVFicG5pR3FucVhGZmcwT0FBVlB3bXFEZTBEX0ZRSnVXT0QyMjljazBSNHdOcXpQbzN1cHJ6ZVZzMDNxSzNINXcta1ByWXF4dVZ2N0R5Szdra2lPbnp2ZmktTDhkX2RvcFRmSmFwSG9idUxlSVFscVl5X3A3MTN4d2JoU2FBVHp4emc?oc=5",
+      "title": "ADM (ADM) director Suzan Harrison awarded 793 stock units as equity pay - Stock Titan",
+      "body": "ADM (ADM) director Suzan Harrison awarded 793 stock units as equity pay Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "alt_sources": [
+          "Stock Titan"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "cfe2d457-f28f-5622-9acd-f8d2bf307472",
+      "timestamp_utc": "2026-04-02T20:40:17+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYWlCQTBBQV84b1k3dFo1S0t0VDVlazBDdHBUNkg2bF9vS2h1MHRTNFM3ZWNWV3NsVzV0NTh6OU85aHZXZUdRZUUtRk1WRzBqU0wyMm9VRUNoLVgtUXJqandCSTBzRWVBMXFXQmJjQlA1X2tIYjM2Mk5RZExJZFl5US1mTWpmSlh1Tms5djI1dmtyVkx0TV9IMVpfNHJDWkNBRHNxdTZRWWNhVmxwZjF0bnJXbHduR1JvZGc?oc=5",
+      "title": "ADM (NYSE: ADM) director Terrell Crews receives 879 stock units grant - Stock Titan",
+      "body": "ADM (NYSE: ADM) director Terrell Crews receives 879 stock units grant Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6c156877-065b-532a-82f0-51f885ef599d",
+      "timestamp_utc": "2026-04-02T20:40:12+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONjFaTzJRRENveEFjV25OUUJQSVdmTTZmaTV4N2pTUW1zZVFtR2p5N1hSRUtNdDFPZzNyWm5vSHVzdjJhNTltcldwcHItOTZOVnZHTWZLaWVsc1M0U3YtaGYwTG5lOUN6X25rYVlzTzNDQS1wNy1xZlFRVkN4Z1I2RWh6WUI0Y0tCaGV3T0p5WTAtcUN1SFVBN3R4ZDNGcWh4Rmo2RHZad1lHMnBSSU9IMU1MZll5ZkJDdUE?oc=5",
+      "title": "ADM (NYSE: ADM) director gets 706.994 stock unit grant - Stock Titan",
+      "body": "ADM (NYSE: ADM) director gets 706.994 stock unit grant Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "41a70d2d-f667-5929-9d69-f02409c0ed3a",
+      "timestamp_utc": "2026-04-02T20:40:10+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR2FRa2d1bkJXTUR5NkFTcmRxU2JmZUJad3ZRUHZUdDJlSGVPTXlyYWZ2SDlac0wwQkNaZXZSTkF1djR1Mm8wQXBCNE5NNENlQWVkNkQ5dkItQWF1anZYNV9fYkU2OGgtdVY1eVpzSGVlcDJ1aTd2RE0xUmx0RUd1X3dWYlpwbVc2MWFGX3ZEWTU0R21vRnhsU3dsR0Y4TVlTOERPZjEtdG1KdnZSXzNGZnRBYWhfQl83OEE?oc=5",
+      "title": "ADM (NYSE: ADM) awards 827.7 stock units to director Michael Burke - Stock Titan",
+      "body": "ADM (NYSE: ADM) awards 827.7 stock units to director Michael Burke Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3db39729-5fc0-5a50-8279-d33d74ca53b8",
+      "timestamp_utc": "2026-04-04T15:33:34+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tUHMwRnVJNkJaYzJNUHctUTVrTG9xRUhFbU45QUJMX1pNMENRNW9mSTk0R1FQa0ViZ3ZwMGpnU1poajdBaG02SEtpdWpjdnZf?oc=5",
+      "title": "Archer-Daniels-Midland Company (ADM) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Archer-Daniels-Midland Company (ADM) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "4148fb9f-20d2-5cb9-accc-bae2f7d2f5db",
+      "timestamp_utc": "2026-04-03T12:01:19+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HTUlra05sWXJtUlFRT0FMRXk3VW9XLWw2UzRGWmMtY2tnMGpJeTlrQVJIMHBiMFNlU2hoZWFFdjRfOTNDRDF2MmdfeXF3MTFOX25j?oc=5",
+      "title": "Admiral Group plc (ADM.L) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Admiral Group plc (ADM.L) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3f05732b-ac8b-54c0-aa36-01b41990fa63",
+      "timestamp_utc": "2026-04-02T20:40:20+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczVlY3NlWjFJcWlCbW00SkZaaDIzcHVDemltWVpnampLZjh1NnhtOXdPLTRQejJTWWo5YUFFRzRsQVVmM3dzVERyZzZjM3dwSkVwTmJZZ0dCajl0ZTJYbk5WamZCTUwtSkZhbTc1Z1R0Q2FCRU9XekdUU2U5dkZlTy02bW5tY1lqcV93ZFg5YVRxZGYyQVE3T2ZyZm5wQmtkWGlJdjZ4U3h2Z0lqLTJ5ZTBibkRXZ1d4c0E?oc=5",
+      "title": "Director Michael McMurray receives 180.676 stock units at Archer-Daniels (NYSE: ADM) - Stock Titan",
+      "body": "Director Michael McMurray receives 180.676 stock units at Archer-Daniels (NYSE: ADM) Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "205f9656-a9c0-5d51-a24c-b05f8d4a05e4",
+      "timestamp_utc": "2026-04-02T20:40:20+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX3dwcGlkU0VxUkw3YWRDQmxoblFpdXBBeXFteUhoUm5UX215c2tmNVZjRHJGTFZHZG1mVjBWSHFwNkZEbkZESVppclJmaHY4MmxTbHJOTzZidEF0MFNHNFduNXAzRTZiZmNXMlNhX3VrVjhTeEZ6dzFmbjBMdzJPT1E0cUNLa21VQmdQTF8tZlFGLVpfMGkyaF9TeXV0dnZ4SDNsYkxoTEwtUHY1OVJxb3k5anEzWTBjSWc?oc=5",
+      "title": "Director Kelvin Westbrook receives stock units at Archer-Daniels-Midland (NYSE: ADM) - Stock Titan",
+      "body": "Director Kelvin Westbrook receives stock units at Archer-Daniels-Midland (NYSE: ADM) Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ADM",
+      "tickers_hint": [
+        "ADM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ADM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

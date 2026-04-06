@@ -1,0 +1,60 @@
+[
+  {
+    "id": "b0397ffd-b116-52ad-9d78-6fc5c4f3a2ad",
+    "timestamp_utc": "2026-04-04T11:00:44+00:00",
+    "source": "seeking_alpha",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcnYyR1NpUElQamhNbFlET0k3OHY1WFQ0ZXFiQk1GTXFvWkNTcFNKcGlmbnRRd3JQM3FFNTQyNkN6OGdTWFZXYktYWHpCUjBQWk5TOHBvcjYzRXNQaWk2Zy01SFF3Mmd6Qk1zQ1ZaZ0plbUhld3FJdnYwSjF6UHZybGVpR2FBM0FXZnZ1UEJjVldzeGpPLUs4ZmZ2NHZHNzdRYTR3dDFmSQ?oc=5",
+    "title": "From the Strip to the suburbs: VICI expands its Las Vegas footprint (MGM:NYSE) - Seeking Alpha",
+    "body": "From the Strip to the suburbs: VICI expands its Las Vegas footprint (MGM:NYSE) Seeking Alpha",
+    "author": null,
+    "language": "en",
+    "ticker": "VICI",
+    "tickers_hint": [
+      "VICI"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "seekingalpha.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Seeking Alpha",
+      "source_domain": "seekingalpha.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "VICI"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "005655a2-9ade-512f-89f5-c6478e9726d0",
+    "timestamp_utc": "2026-04-04T01:09:23+00:00",
+    "source": "msn.com",
+    "url": "https://www.msn.com/en-us/money/topstocks/is-vici-properties-vici-one-of-the-most-undervalued-stocks-to-buy-according-to-analysts/ar-AA1ZeecH?ocid=finance-verthp-feeds",
+    "title": "Is VICI Properties (VICI) one of the most undervalued stocks to buy according to analysts? - msn.com",
+    "body": "Is VICI Properties (VICI) one of the most undervalued stocks to buy according to analysts? msn.com",
+    "author": null,
+    "language": "en",
+    "ticker": "VICI",
+    "tickers_hint": [
+      "VICI"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "msn.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "msn.com",
+      "source_domain": "msncom.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "VICI"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

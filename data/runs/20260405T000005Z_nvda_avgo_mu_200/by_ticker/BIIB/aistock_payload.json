@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "749d7610-726a-5990-b2f7-d98ada5862a6",
+      "timestamp_utc": "2026-04-04T08:36:54+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-15051-shares-in-biogen-inc-biib-bought-by-element-squared-llc-2026-04-04/",
+      "title": "15,051 Shares in Biogen Inc. $BIIB Bought by Element Squared LLC - MarketBeat",
+      "body": "15,051 Shares in Biogen Inc. $BIIB Bought by Element Squared LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "BIIB",
+      "tickers_hint": [
+        "BIIB"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "BIIB"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "def964f6-be8f-509e-89e7-70e9fb2141d7",
+      "timestamp_utc": "2026-04-03T20:05:27+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYzlpM3BhR3BOYVB4dTF0dUF6XzBXZmcycWxGSjRwZ0VqcjlEYkdaZUpfc0ZPR3gwazcwNjZZWE81WmhGZl92TkhhS1M5UEh4NEVOMk81OXdSY3VjR0lmYmhhZ2hjVXVNUWxpNnJIbGIySHdSV1poNHI1SFBILTk4Q1dYYjNncWRtUE5iWThvQ2lZMXNWQlFzMUJSM0RCbXBacXNRdnk1bw?oc=5",
+      "title": "Biogen (BIIB) CAO Sean Godbout nets shares from RSU vesting and tax withholding - Stock Titan",
+      "body": "Biogen (BIIB) CAO Sean Godbout nets shares from RSU vesting and tax withholding Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "BIIB",
+      "tickers_hint": [
+        "BIIB"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BIIB"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "749d7610-726a-5990-b2f7-d98ada5862a6",
+      "timestamp_utc": "2026-04-04T08:36:54+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-15051-shares-in-biogen-inc-biib-bought-by-element-squared-llc-2026-04-04/",
+      "title": "15,051 Shares in Biogen Inc. $BIIB Bought by Element Squared LLC - MarketBeat",
+      "body": "15,051 Shares in Biogen Inc. $BIIB Bought by Element Squared LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "BIIB",
+      "tickers_hint": [
+        "BIIB"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "BIIB"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "def964f6-be8f-509e-89e7-70e9fb2141d7",
+      "timestamp_utc": "2026-04-03T20:05:27+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYzlpM3BhR3BOYVB4dTF0dUF6XzBXZmcycWxGSjRwZ0VqcjlEYkdaZUpfc0ZPR3gwazcwNjZZWE81WmhGZl92TkhhS1M5UEh4NEVOMk81OXdSY3VjR0lmYmhhZ2hjVXVNUWxpNnJIbGIySHdSV1poNHI1SFBILTk4Q1dYYjNncWRtUE5iWThvQ2lZMXNWQlFzMUJSM0RCbXBacXNRdnk1bw?oc=5",
+      "title": "Biogen (BIIB) CAO Sean Godbout nets shares from RSU vesting and tax withholding - Stock Titan",
+      "body": "Biogen (BIIB) CAO Sean Godbout nets shares from RSU vesting and tax withholding Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "BIIB",
+      "tickers_hint": [
+        "BIIB"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BIIB"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

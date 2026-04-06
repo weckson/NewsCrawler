@@ -1,0 +1,324 @@
+[
+  {
+    "id": "2b2ef19a-5183-5ef1-be17-e6eea8619c0e",
+    "timestamp_utc": "2026-04-01T15:22:16+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-incorporated-txn-d-152216868.html",
+    "title": "Texas Instruments Incorporated (TXN): D. E. Shaw Is Buying This Chip Stock - Yahoo Finance",
+    "body": "Texas Instruments Incorporated (TXN): D. E. Shaw Is Buying This Chip Stock Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "TXN",
+    "tickers_hint": [
+      "TXN"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "TXN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "f9a07df3-4bc8-5a57-a992-d49f51e43396",
+    "timestamp_utc": "2026-04-01T13:15:00+00:00",
+    "source": "motley_fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa1RETy1IQl9EYjNCSVNYazZvbWlQMlBuNVZ5UDN3VDVySW9aTFFOVUhqM2N2Zk16ZlY1YkhONjZKekQyd0xvTFpRNHJpc3lzSUpJZU9vUjdiTThxLUFDMWZ4bjBuNHlNUnBVVkR0U2VrME9iSmdZRmNoWnVtdWZmYTY5Yzh2QThXVHh5RGluZ1g5TEZCbUVJdQ?oc=5",
+    "title": "I'm Making a Bold Call on Texas Instruments Stock. Here's My Reasoning. - The Motley Fool",
+    "body": "I'm Making a Bold Call on Texas Instruments Stock. Here's My Reasoning. The Motley Fool",
+    "author": null,
+    "language": "en",
+    "ticker": "TXN",
+    "tickers_hint": [
+      "TXN"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "fool.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "The Motley Fool",
+      "source_domain": "fool.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "TXN"
+      ],
+      "alt_sources": [
+        "The Globe and Mail"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "ae9329f7-83e6-558a-a792-873a1eb92330",
+    "timestamp_utc": "2026-04-02T11:15:10+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-hf-advisory-group-llc-increases-position-in-texas-instruments-incorporated-txn-2026-04-02/",
+    "title": "HF Advisory Group LLC Increases Position in Texas Instruments Incorporated $TXN - MarketBeat",
+    "body": "HF Advisory Group LLC Increases Position in Texas Instruments Incorporated $TXN MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "TXN",
+    "tickers_hint": [
+      "TXN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "TXN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "6f39d0ee-adec-5ecf-953b-e23e3e115851",
+    "timestamp_utc": "2026-04-02T10:47:22+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-matrix-asset-advisors-inc-ny-grows-stake-in-texas-instruments-incorporated-txn-2026-04-02/",
+    "title": "Matrix Asset Advisors Inc. NY Grows Stake in Texas Instruments Incorporated $TXN - MarketBeat",
+    "body": "Matrix Asset Advisors Inc. NY Grows Stake in Texas Instruments Incorporated $TXN MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "TXN",
+    "tickers_hint": [
+      "TXN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "TXN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "ef241cba-1c54-5e20-8185-f599cc23d0f1",
+    "timestamp_utc": "2026-04-02T09:14:48+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-spire-wealth-management-has-400000-stake-in-texas-instruments-incorporated-txn-2026-04-02/",
+    "title": "Spire Wealth Management Has $400,000 Stake in Texas Instruments Incorporated $TXN - MarketBeat",
+    "body": "Spire Wealth Management Has $400,000 Stake in Texas Instruments Incorporated $TXN MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "TXN",
+    "tickers_hint": [
+      "TXN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "TXN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "62bfa776-1a2d-5edb-a859-8a4d7031ddfe",
+    "timestamp_utc": "2026-04-01T09:04:08+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-capital-advisors-inc-ok-increases-stake-in-texas-instruments-incorporated-txn-2026-04-01/",
+    "title": "Capital Advisors Inc. OK Increases Stake in Texas Instruments Incorporated $TXN - MarketBeat",
+    "body": "Capital Advisors Inc. OK Increases Stake in Texas Instruments Incorporated $TXN MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "TXN",
+    "tickers_hint": [
+      "TXN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "TXN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "d08da45b-2adf-57c4-af72-c9667da4aaa7",
+    "timestamp_utc": "2026-04-01T22:00:06+00:00",
+    "source": "yahoo_finance_singapore",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcDdMZTJjYmVNNUlGOGNPQ1J2MXE2dDVaWlhsVTZUNWQ3VTI0Z2pKdURKOHpGT3lXM1plSHlVakxvTUhxaG1JLTlLM0kwZE9WTW1VUUs2QThkVzF0SjRKdC1mYWYtMl9MbjJYRXVsem9WejJBaHJINUlwYnFBYXVDdUE4LXNMWUtoa04xV2V6YTRFUm9E?oc=5",
+    "title": "Texas Instruments (TXN) Outperforms Broader Market: What You Need to Know - Yahoo Finance Singapore",
+    "body": "Texas Instruments (TXN) Outperforms Broader Market: What You Need to Know Yahoo Finance Singapore",
+    "author": null,
+    "language": "en",
+    "ticker": "TXN",
+    "tickers_hint": [
+      "TXN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo finance singapore",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance Singapore",
+      "source_domain": "yahoofinancesingapore.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "TXN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "aef4c919-516c-5217-8355-b1940f4b3a09",
+    "timestamp_utc": "2026-04-03T04:01:35+00:00",
+    "source": "msn",
+    "url": "https://www.msn.com/en-us/money/topstocks/earnings-preview-what-to-expect-from-texas-instruments-report/ar-AA1ZyhOX",
+    "title": "Earnings preview: What to expect from Texas Instruments' report - MSN",
+    "body": "Earnings preview: What to expect from Texas Instruments' report MSN",
+    "author": null,
+    "language": "en",
+    "ticker": "TXN",
+    "tickers_hint": [
+      "TXN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "msn",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MSN",
+      "source_domain": "msn.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "TXN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "0297ba68-0b68-51fb-b5c4-d54bcba94500",
+    "timestamp_utc": "2026-04-03T02:40:50+00:00",
+    "source": "tikr.com",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ1JCVWVFNVp6QTA0anRkOFFtZUVDUW80VENFdWg0UEhTbGJHdE9yczZ1dU9QQlBDTFVqNzhyQkNSWUZBeEVGSGxuSzMyZGlfcVIwR0RHcVl4elI1QmhIQkNTT2cwSVV2Umc0VHpCMWdmTjNVZC0xbUhRUXI5QS1zUHJkTDB5X1VpNFBLZ3kwTEVsem9XdGpOX3IyMTIxUWZuU2VtTl9CcVZCNmpiZzlUS0NSSmlyNjdXZVY3TVo5dEdyTnJreWFNRS1kQkRuQQ?oc=5",
+    "title": "Texas Instruments Fell 8% Over the Past 30 Days. Here’s Why Slowing Industrial Demand Is Weighing on the Stock - TIKR.com",
+    "body": "Texas Instruments Fell 8% Over the Past 30 Days. Here’s Why Slowing Industrial Demand Is Weighing on the Stock TIKR.com",
+    "author": null,
+    "language": "en",
+    "ticker": "TXN",
+    "tickers_hint": [
+      "TXN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "tikr.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "TIKR.com",
+      "source_domain": "tikrcom.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "TXN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "32d93c2a-4679-5b46-b033-498d74dfb3eb",
+    "timestamp_utc": "2026-04-02T08:33:48+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YXzRqZm1Bd1A3dlIzYXJ6NDMzc3JEQ3VVaDdCdWRETWhlOXFXYy1mdnRBbXg1TllzVS03cHlla1RKZ0dEWUFXQWY5WnhYMVVaTlBHMXBYYlNpbTFwXzNEcnFRSkhtbmFBZ3NYVA?oc=5",
+    "title": "If You Invested $1,000 in Texas Instrument (TXN) - Stock Titan",
+    "body": "If You Invested $1,000 in Texas Instrument (TXN) Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "TXN",
+    "tickers_hint": [
+      "TXN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "TXN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "09ba075d-fccb-5240-b8a5-053493789f23",
+    "timestamp_utc": "2026-04-01T15:39:00+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVFd6dTExOWJUSVFQRjFMYW5ZTEw0RDZmclFDRHh4dXpZWmxZd25OTVVuclZ6X2dLUTJjSTN5eGxfdkpIeE0wSmxMYm5hejdVSlZUY2ZtV1lTZTBXRnRVVVNFTHVtMWpZWjUwYmFzQ05kNkJ6Nnh6cEZkMHdPbjdGSHNBZ3Vici0zcVo1M1FJNmtiSkFEakp2RUx4ODZ4c2FuRHpVNFVrREdPa19WdzZR?oc=5",
+    "title": "Texas Instruments executives take investor questions on April 22 - Stock Titan",
+    "body": "Texas Instruments executives take investor questions on April 22 Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "TXN",
+    "tickers_hint": [
+      "TXN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "TXN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

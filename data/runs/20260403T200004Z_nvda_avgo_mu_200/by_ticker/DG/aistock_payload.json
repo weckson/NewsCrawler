@@ -1,0 +1,588 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "65e6d952-435c-5e37-a7a7-de783b829987",
+      "timestamp_utc": "2026-04-02T14:15:59+00:00",
+      "source": "investing.com",
+      "url": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-dollar-general-stock-rating-on-momentum-ceo-transition-93CH-4595858",
+      "title": "UBS reiterates Dollar General stock rating on momentum, CEO transition - Investing.com",
+      "body": "UBS reiterates Dollar General stock rating on momentum, CEO transition Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "DG",
+      "tickers_hint": [
+        "DG"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "DG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b18e8bae-d550-551b-ba27-184b72806dd6",
+      "timestamp_utc": "2026-04-03T07:17:32+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-allspring-global-investments-holdings-llc-buys-209167-shares-of-dollar-general-corporation-dg-2026-04-03/",
+      "title": "Allspring Global Investments Holdings LLC Buys 209,167 Shares of Dollar General Corporation $DG - MarketBeat",
+      "body": "Allspring Global Investments Holdings LLC Buys 209,167 Shares of Dollar General Corporation $DG MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "DG",
+      "tickers_hint": [
+        "DG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "175885ac-f62b-59c4-9ceb-6fea1181b790",
+      "timestamp_utc": "2026-04-03T14:34:12+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONWZNRlFCYUc3RjRWOXVhYXVqUm9WMktJdkNxVVR2SXh4M1k5T25xNmFsczFYVVhwek92LURjdnZTLVo5aWl4Zk5FWGVINjB1ekpwRWtoTUhqem5zbER6aHktWmwtS2k1NmViTFhYdFpIbXVZZThRMlRIT2ktRzlZOUlvQTBjVHhmSzdpZTFJdWlEMUk0WHFDWUlPT0lfTnVvOWJBczBZNVpCeDNiM0xNUw?oc=5",
+      "title": "Dollar General (NYSE: DG) SVP uses 1,303 shares to cover taxes - Stock Titan",
+      "body": "Dollar General (NYSE: DG) SVP uses 1,303 shares to cover taxes Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "DG",
+      "tickers_hint": [
+        "DG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "4567155f-f1bd-5861-8365-2360fbde049c",
+      "timestamp_utc": "2026-04-03T14:33:07+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVG9YTzRuWDRlSHdMZkQtMDBGX2ZUcWp6UWpRYUZsdE5ldmZjek1jZGY4dWZ3c1JSYUN5aU1kN3JleHZvaHoycFYzaWhVZjlzRlFkSFNHWU40OWk3dlZkbjBqZUZTRU1ZcnhxVDgtcEtjbHlOT2Nxc2Uxa21zNnctZkplZ1A0X1ZIOGllRE1Sa0dXQ2lCTWdZaGs2SGxESTNKTzRGUGZ6SjEzeHVrQzdERw?oc=5",
+      "title": "Dollar General (DG) EVP surrenders 902 shares to cover tax on vesting awards - Stock Titan",
+      "body": "Dollar General (DG) EVP surrenders 902 shares to cover tax on vesting awards Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "DG",
+      "tickers_hint": [
+        "DG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "32b56a7f-03f2-5c6d-802f-475d11bb0988",
+      "timestamp_utc": "2026-04-03T14:32:26+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdzJuc0kwRkdWODExMDh3S1BwRy1MaG5hbG9hU09mQVVQNG93LTJBeUJFS2tDblRVY1N1X3NfdjNpTDVubVhjamtReGVmdGx1LVNFLXBRbXZjVnMybkxfOHQwbm1LdUUyaXgwZ2JHZlBwZzEyWEdpWGFTMzFYV05yR0MtM0hNWWlTdjhFdW1kelNOOGpYRUdaSExDcGxOMHZxSWh0bFZucFE1dEYtUUJ4eQ?oc=5",
+      "title": "Dollar General (DG) EVP surrenders 8,017 shares to cover tax obligations - Stock Titan",
+      "body": "Dollar General (DG) EVP surrenders 8,017 shares to cover tax obligations Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "DG",
+      "tickers_hint": [
+        "DG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c24532be-501c-5b1b-ba59-c875b98a36a6",
+      "timestamp_utc": "2026-04-03T14:31:40+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2J5VFd0TEM3OWZyWU5kYWg3eklvcHJ3ZjlUSlpzWUxuT19na3U5OGdFTTA5bWRiWEZaSXA1ZnFFSWVlc0R6WnMyRFpGMVJqRFZ2T1psREFweVVacmptclE1RTNoaXFlVTY4VHA3TnlmY1R3SGV3cE5UUVhvWHRhVDVtUXF2Y1M2aHh5bUtBU210eWhQQmQ5WmNZa2FuMVRsaUFJQTJuVnY3TkNsZVdyNw?oc=5",
+      "title": "Dollar General (NYSE: DG) EVP surrenders shares for tax withholding on equity awards - Stock Titan",
+      "body": "Dollar General (NYSE: DG) EVP surrenders shares for tax withholding on equity awards Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "DG",
+      "tickers_hint": [
+        "DG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b306cdae-1f4f-5836-a446-76268305be59",
+      "timestamp_utc": "2026-04-03T14:30:42+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTlPblFpcENLRndCcWtBTlN1di1fRHh1NGw1dVVDd2ZMVUNtbDRLYTB1MWNGcW9DbDlmYzJTdmxtelBDZlVLY3hDcVBxVVM4NGhXekRPZWJTYzBBd1lKallrXzJsUGhRNUx1WUtDcmNjQ21jeFdKUjZZWTNncjVINHVvYjJIekFrTDM0WFk4eHpDSUViMkh0OE84dHBkRXRnMldqOWlqcXhGRmJhOGc4Vg?oc=5",
+      "title": "Dollar General (NYSE: DG) EVP surrenders 8,928 shares for tax withholding - Stock Titan",
+      "body": "Dollar General (NYSE: DG) EVP surrenders 8,928 shares for tax withholding Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "DG",
+      "tickers_hint": [
+        "DG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "efcd2af1-403d-5486-83ff-58923087bf80",
+      "timestamp_utc": "2026-04-03T14:29:41+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVJHSXFWdXVOVTI1aEhqaS16YUpqaktYbHpsS0NoRmlVU2NoSzQtcWptb2VzRUhzOElSdGQ1RkFWSHFSc2xpaWRidFRsNGw4TjdCUmNXb2JUNEsyQTRCN2VaejMxYlRLOGxJdXItak44MjdWb2ZXRjRQMUxLeWVULTNGcm9lc2RsaTZiVXpBUGRWR3o0YnhyRG1scHF3MFMwWktibGUtUWtjaHlJVWxtTA?oc=5",
+      "title": "Dollar General (NYSE: DG) EVP uses 7,938 shares to cover tax on vested awards - Stock Titan",
+      "body": "Dollar General (NYSE: DG) EVP uses 7,938 shares to cover tax on vested awards Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "DG",
+      "tickers_hint": [
+        "DG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2e03d46e-33c4-5dee-bd58-a982a01d625b",
+      "timestamp_utc": "2026-04-03T14:28:55+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM3hiRDluSFR5bTBReHprcTRDQnowLTZrc0tqbmtQU05rT01TSEJjNFk3OWZOanhoLXBtOTh1MkxmZFJKak1IaTBxRWlHbHpKbDRabG9OZllTNXc4Qko2Mnd6UVluRzl4aW15dWxUZDJzbnNWOTRRclZzSEI4RXJ3Wm96Z3MwQzRrVkdYY0lmUTJXYUQtQnFJNU5QdHo0WWpDcWp2eDdZMm5nVk5fTGpBeg?oc=5",
+      "title": "4,519 Dollar General (NYSE: DG) shares withheld for taxes - Stock Titan",
+      "body": "4,519 Dollar General (NYSE: DG) shares withheld for taxes Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "DG",
+      "tickers_hint": [
+        "DG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "77e90b19-4aff-55bd-995c-38620e69d135",
+      "timestamp_utc": "2026-04-03T14:28:03+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYU9jVVduQ29xTTZSanY5RTFiSEZRLVpGcEdCaTVjSVNnc2VqYUd6LUN1eUdhaU9Wc3Vkaml3eUNEeENLLUQ2VjJQa1ZwZTE1SXp6WmZUNklDUjlkNDRiY1luQVkwS3pHNXZSRUlPcEV0NS00dXMxLUw5VlFuNlhyTHdaYS02eVEzSWp5TEhRMjZQX0tMc3dSU1pkT0hvUkVGSFFMQ3ZlOTNySTlvLXdwYw?oc=5",
+      "title": "Dollar General (NYSE: DG) COO surrenders 8,928 shares for tax withholding - Stock Titan",
+      "body": "Dollar General (NYSE: DG) COO surrenders 8,928 shares for tax withholding Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "DG",
+      "tickers_hint": [
+        "DG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "65e6d952-435c-5e37-a7a7-de783b829987",
+      "timestamp_utc": "2026-04-02T14:15:59+00:00",
+      "source": "investing.com",
+      "url": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-dollar-general-stock-rating-on-momentum-ceo-transition-93CH-4595858",
+      "title": "UBS reiterates Dollar General stock rating on momentum, CEO transition - Investing.com",
+      "body": "UBS reiterates Dollar General stock rating on momentum, CEO transition Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "DG",
+      "tickers_hint": [
+        "DG"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "DG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b18e8bae-d550-551b-ba27-184b72806dd6",
+      "timestamp_utc": "2026-04-03T07:17:32+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-allspring-global-investments-holdings-llc-buys-209167-shares-of-dollar-general-corporation-dg-2026-04-03/",
+      "title": "Allspring Global Investments Holdings LLC Buys 209,167 Shares of Dollar General Corporation $DG - MarketBeat",
+      "body": "Allspring Global Investments Holdings LLC Buys 209,167 Shares of Dollar General Corporation $DG MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "DG",
+      "tickers_hint": [
+        "DG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "175885ac-f62b-59c4-9ceb-6fea1181b790",
+      "timestamp_utc": "2026-04-03T14:34:12+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONWZNRlFCYUc3RjRWOXVhYXVqUm9WMktJdkNxVVR2SXh4M1k5T25xNmFsczFYVVhwek92LURjdnZTLVo5aWl4Zk5FWGVINjB1ekpwRWtoTUhqem5zbER6aHktWmwtS2k1NmViTFhYdFpIbXVZZThRMlRIT2ktRzlZOUlvQTBjVHhmSzdpZTFJdWlEMUk0WHFDWUlPT0lfTnVvOWJBczBZNVpCeDNiM0xNUw?oc=5",
+      "title": "Dollar General (NYSE: DG) SVP uses 1,303 shares to cover taxes - Stock Titan",
+      "body": "Dollar General (NYSE: DG) SVP uses 1,303 shares to cover taxes Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "DG",
+      "tickers_hint": [
+        "DG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "4567155f-f1bd-5861-8365-2360fbde049c",
+      "timestamp_utc": "2026-04-03T14:33:07+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVG9YTzRuWDRlSHdMZkQtMDBGX2ZUcWp6UWpRYUZsdE5ldmZjek1jZGY4dWZ3c1JSYUN5aU1kN3JleHZvaHoycFYzaWhVZjlzRlFkSFNHWU40OWk3dlZkbjBqZUZTRU1ZcnhxVDgtcEtjbHlOT2Nxc2Uxa21zNnctZkplZ1A0X1ZIOGllRE1Sa0dXQ2lCTWdZaGs2SGxESTNKTzRGUGZ6SjEzeHVrQzdERw?oc=5",
+      "title": "Dollar General (DG) EVP surrenders 902 shares to cover tax on vesting awards - Stock Titan",
+      "body": "Dollar General (DG) EVP surrenders 902 shares to cover tax on vesting awards Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "DG",
+      "tickers_hint": [
+        "DG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "32b56a7f-03f2-5c6d-802f-475d11bb0988",
+      "timestamp_utc": "2026-04-03T14:32:26+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdzJuc0kwRkdWODExMDh3S1BwRy1MaG5hbG9hU09mQVVQNG93LTJBeUJFS2tDblRVY1N1X3NfdjNpTDVubVhjamtReGVmdGx1LVNFLXBRbXZjVnMybkxfOHQwbm1LdUUyaXgwZ2JHZlBwZzEyWEdpWGFTMzFYV05yR0MtM0hNWWlTdjhFdW1kelNOOGpYRUdaSExDcGxOMHZxSWh0bFZucFE1dEYtUUJ4eQ?oc=5",
+      "title": "Dollar General (DG) EVP surrenders 8,017 shares to cover tax obligations - Stock Titan",
+      "body": "Dollar General (DG) EVP surrenders 8,017 shares to cover tax obligations Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "DG",
+      "tickers_hint": [
+        "DG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c24532be-501c-5b1b-ba59-c875b98a36a6",
+      "timestamp_utc": "2026-04-03T14:31:40+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2J5VFd0TEM3OWZyWU5kYWg3eklvcHJ3ZjlUSlpzWUxuT19na3U5OGdFTTA5bWRiWEZaSXA1ZnFFSWVlc0R6WnMyRFpGMVJqRFZ2T1psREFweVVacmptclE1RTNoaXFlVTY4VHA3TnlmY1R3SGV3cE5UUVhvWHRhVDVtUXF2Y1M2aHh5bUtBU210eWhQQmQ5WmNZa2FuMVRsaUFJQTJuVnY3TkNsZVdyNw?oc=5",
+      "title": "Dollar General (NYSE: DG) EVP surrenders shares for tax withholding on equity awards - Stock Titan",
+      "body": "Dollar General (NYSE: DG) EVP surrenders shares for tax withholding on equity awards Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "DG",
+      "tickers_hint": [
+        "DG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b306cdae-1f4f-5836-a446-76268305be59",
+      "timestamp_utc": "2026-04-03T14:30:42+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTlPblFpcENLRndCcWtBTlN1di1fRHh1NGw1dVVDd2ZMVUNtbDRLYTB1MWNGcW9DbDlmYzJTdmxtelBDZlVLY3hDcVBxVVM4NGhXekRPZWJTYzBBd1lKallrXzJsUGhRNUx1WUtDcmNjQ21jeFdKUjZZWTNncjVINHVvYjJIekFrTDM0WFk4eHpDSUViMkh0OE84dHBkRXRnMldqOWlqcXhGRmJhOGc4Vg?oc=5",
+      "title": "Dollar General (NYSE: DG) EVP surrenders 8,928 shares for tax withholding - Stock Titan",
+      "body": "Dollar General (NYSE: DG) EVP surrenders 8,928 shares for tax withholding Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "DG",
+      "tickers_hint": [
+        "DG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "efcd2af1-403d-5486-83ff-58923087bf80",
+      "timestamp_utc": "2026-04-03T14:29:41+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVJHSXFWdXVOVTI1aEhqaS16YUpqaktYbHpsS0NoRmlVU2NoSzQtcWptb2VzRUhzOElSdGQ1RkFWSHFSc2xpaWRidFRsNGw4TjdCUmNXb2JUNEsyQTRCN2VaejMxYlRLOGxJdXItak44MjdWb2ZXRjRQMUxLeWVULTNGcm9lc2RsaTZiVXpBUGRWR3o0YnhyRG1scHF3MFMwWktibGUtUWtjaHlJVWxtTA?oc=5",
+      "title": "Dollar General (NYSE: DG) EVP uses 7,938 shares to cover tax on vested awards - Stock Titan",
+      "body": "Dollar General (NYSE: DG) EVP uses 7,938 shares to cover tax on vested awards Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "DG",
+      "tickers_hint": [
+        "DG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2e03d46e-33c4-5dee-bd58-a982a01d625b",
+      "timestamp_utc": "2026-04-03T14:28:55+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM3hiRDluSFR5bTBReHprcTRDQnowLTZrc0tqbmtQU05rT01TSEJjNFk3OWZOanhoLXBtOTh1MkxmZFJKak1IaTBxRWlHbHpKbDRabG9OZllTNXc4Qko2Mnd6UVluRzl4aW15dWxUZDJzbnNWOTRRclZzSEI4RXJ3Wm96Z3MwQzRrVkdYY0lmUTJXYUQtQnFJNU5QdHo0WWpDcWp2eDdZMm5nVk5fTGpBeg?oc=5",
+      "title": "4,519 Dollar General (NYSE: DG) shares withheld for taxes - Stock Titan",
+      "body": "4,519 Dollar General (NYSE: DG) shares withheld for taxes Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "DG",
+      "tickers_hint": [
+        "DG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "77e90b19-4aff-55bd-995c-38620e69d135",
+      "timestamp_utc": "2026-04-03T14:28:03+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYU9jVVduQ29xTTZSanY5RTFiSEZRLVpGcEdCaTVjSVNnc2VqYUd6LUN1eUdhaU9Wc3Vkaml3eUNEeENLLUQ2VjJQa1ZwZTE1SXp6WmZUNklDUjlkNDRiY1luQVkwS3pHNXZSRUlPcEV0NS00dXMxLUw5VlFuNlhyTHdaYS02eVEzSWp5TEhRMjZQX0tMc3dSU1pkT0hvUkVGSFFMQ3ZlOTNySTlvLXdwYw?oc=5",
+      "title": "Dollar General (NYSE: DG) COO surrenders 8,928 shares for tax withholding - Stock Titan",
+      "body": "Dollar General (NYSE: DG) COO surrenders 8,928 shares for tax withholding Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "DG",
+      "tickers_hint": [
+        "DG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "DG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

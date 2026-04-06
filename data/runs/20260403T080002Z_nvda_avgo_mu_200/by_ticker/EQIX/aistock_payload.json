@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "1b172b22-ae08-5cee-8947-b5f59baac5f7",
+      "timestamp_utc": "2026-04-02T06:13:32+00:00",
+      "source": "defense_world",
+      "url": "https://www.defenseworld.net/2026/04/02/equinix-nasdaqeqix-upgraded-at-truist-financial.html",
+      "title": "Equinix (NASDAQ:EQIX) Upgraded at Truist Financial - Defense World",
+      "body": "Air Armament Engines Fighter Aircraft Helicopters Land Armored Vehicles and Tanks Ordinance and Artillery Personnel Equipment Small Arms Missiles and Space Air Defense Military Satellites Missile Technology Naval Civil Aviation Accidents Airlines Engines Manufacturers MRO Economy Management Appointments Market Trends and Finance Mergers and Acquisitions Companies",
+      "author": null,
+      "language": "en",
+      "ticker": "EQIX",
+      "tickers_hint": [
+        "EQIX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "EQIX"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "1b172b22-ae08-5cee-8947-b5f59baac5f7",
+      "timestamp_utc": "2026-04-02T06:13:32+00:00",
+      "source": "defense_world",
+      "url": "https://www.defenseworld.net/2026/04/02/equinix-nasdaqeqix-upgraded-at-truist-financial.html",
+      "title": "Equinix (NASDAQ:EQIX) Upgraded at Truist Financial - Defense World",
+      "body": "Air Armament Engines Fighter Aircraft Helicopters Land Armored Vehicles and Tanks Ordinance and Artillery Personnel Equipment Small Arms Missiles and Space Air Defense Military Satellites Missile Technology Naval Civil Aviation Accidents Airlines Engines Manufacturers MRO Economy Management Appointments Market Trends and Finance Mergers and Acquisitions Companies",
+      "author": null,
+      "language": "en",
+      "ticker": "EQIX",
+      "tickers_hint": [
+        "EQIX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "EQIX"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

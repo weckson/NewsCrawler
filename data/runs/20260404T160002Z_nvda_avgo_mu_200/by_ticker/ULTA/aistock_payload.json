@@ -1,0 +1,600 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "e9822635-fc64-5637-aa56-3912dc85187a",
+      "timestamp_utc": "2026-04-03T16:18:55+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ulta-beauty-ulta-valuation-check-161855562.html",
+      "title": "Ulta Beauty (ULTA) Valuation Check After Recent Share Price Volatility - Yahoo Finance",
+      "body": "Ulta Beauty (ULTA) Valuation Check After Recent Share Price Volatility Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3e2e99a9-5f0d-530f-9047-f429a55b6a54",
+      "timestamp_utc": "2026-04-03T15:01:07+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTml0UGRkX3pDNzJjZHJlckhxMVhwYjEwQnFGQTh4allIUHBSTTlOWlFCYkRWSXZ6bXk0bVZtajB4cEVJOENnZl94d3BvQmZhME9aQ0tZM0MxZ1U2cmxqVTYwSlhVd0k3ejN2bi1id0FwZVdSaU1aamw4M3pDRUlhb2R2aFpZWFBmX2pUZWswNm9lbW5PZDJRUjY4VXlOU2d1dHMtcjdQbFdwZnJLWnVjRnF3RGZvcXRfa2RFU0hsdjZqX3dfcF9zOHF4REdFQXdVVUtIOXNmbXU3S1A4VGo5YTBB?oc=5",
+      "title": "Strategic Move: Christopher Lialios Enhances Portfolio With Ulta Beauty Stock Options Worth $11K - Benzinga",
+      "body": "Strategic Move: Christopher Lialios Enhances Portfolio With Ulta Beauty Stock Options Worth $11K Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "df55ca3a-4e0e-5c4d-b303-415ddd7f404d",
+      "timestamp_utc": "2026-04-02T20:49:17+00:00",
+      "source": "stock_titan",
+      "url": "https://www.stocktitan.net/sec-filings/ULTA/form-4-ulta-beauty-inc-insider-trading-activity-52ba5d9ea4e6.html",
+      "title": "Ulta Beauty (ULTA) CEO receives major option and restricted stock grants - Stock Titan",
+      "body": "⛶ Fullscreen SEC Form 4 FORM 4UNITED STATES SECURITIES AND EXCHANGE COMMISSIONWashington, D.C.\n\n20549STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIPFiled pursuant to Section 16(a) of the Securities Exchange Act of 1934or Section 30(h) of the Investment Company Act of 1940OMB APPROVALOMB Number:3235-0287Estimated average burdenhours per response:0.5 Check this box if no longer subject to Section 16.\n\nCheck this box to indicate that a transaction was made pursuant to a contract, instruction or written plan for the purchase or sale of equity securities of the issuer that is intended to satisfy the affirmative defense conditions of Rule 10b5-1(c).\n\nName and Address of Reporting Person*Steelman Kecia(Last)(First)(Middle)1000 REMINGTON BLVD., SUITE 120(Street)BOLINGBROOK ILLINOIS 60440(City)(State)(Zip)UNITED STATES(Country)2.\n\nRelationship of Reporting Person(s) to Issuer (Check all applicable)Director10% OwnerXOfficer (give title below)Other (specify below)President and CEO2a.\n\nIndividual or Joint/Group Filing (Check Applicable Line) XForm filed by One Reporting PersonForm filed by More than One Reporting Person4.\n\nIf Amendment, Date of Original Filed (Month/Day/Year)Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned1.\n\nAmount of Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeVAmount(A) or (D)PriceCommon Stock03/31/2026A10,889(1)A$042,489DTable II - Derivative Securities Acquired, Disposed of, or Beneficially Owned(e.g., puts, calls, warrants, options, convertible securities)1.\n\nNumber of Derivative Securities Acquired (A) or Disposed of (D) (Instr.\n\nTitle and Amount of Securities Underlying Derivative Security (Instr.\n\nNumber of derivative Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeV(A)(D)Date ExercisableExpiration DateTitleAmount or Number of SharesStock Option (right to buy)$522.7103/31/2026A37,070 (2)03/31/2036Common Stock37,070$037,070DStock Option (right to buy)$522.7103/31/2026A68,00003/31/2031(3)03/31/2036Common Stock68,000$068,000DExplanation of Responses:1.\n\nRepresents grant of 10,889 shares of restricted stock, vesting 100% on March 15, 2029.2.\n\nThe options, representing an initial right to purchase a total of 37,070 shares, vesting in 25% annual increments beginning March 15, 2027 and each anniversary thereafter through March 15, 2030.3.\n\nThe options, representing an initial right to purchase a total of 68,000 shares of common stock.\n\nThe performance-based option vests in two tranches, each of which comprises half of the award.\n\nThe first and second tranche will vest when the average closing stock price (over any consecutive twenty (20)-trading day or thirty (30)-calendar day period) represents a CAGR of 8% and 18%, respectively, from the base price.\n\nAny earned portion of the award will service-vest on March 31, 2031 and any unearned portion as of March 30, 2031 will be forfeited./s/ Rene G.\n\nCasares, as attorney-in-fact for Kecia Steelman04/02/2026** Signature of Reporting PersonDateReminder: Report on a separate line for each class of securities beneficially owned directly or indirectly.* If the form is filed by more than one reporting person, see Instruction 4 (b)(v).** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C.\n\n78ff(a).Note: File three copies of this Form, one of which must be manually signed.\n\nIf space is insufficient, see Instruction 6 for procedure.Persons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB Number.* Form 4: SEC 1474 (03-26)",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "4ecfeccb-531f-50cd-84ba-b63afbfafc58",
+      "timestamp_utc": "2026-04-02T20:45:44+00:00",
+      "source": "stock_titan",
+      "url": "https://www.stocktitan.net/sec-filings/ULTA/form-4-ulta-beauty-inc-insider-trading-activity-39c2379b2443.html",
+      "title": "Ulta Beauty (ULTA) CFO awarded stock options and restricted shares - Stock Titan",
+      "body": "⛶ Fullscreen SEC Form 4 FORM 4UNITED STATES SECURITIES AND EXCHANGE COMMISSIONWashington, D.C.\n\n20549STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIPFiled pursuant to Section 16(a) of the Securities Exchange Act of 1934or Section 30(h) of the Investment Company Act of 1940OMB APPROVALOMB Number:3235-0287Estimated average burdenhours per response:0.5 Check this box if no longer subject to Section 16.\n\nCheck this box to indicate that a transaction was made pursuant to a contract, instruction or written plan for the purchase or sale of equity securities of the issuer that is intended to satisfy the affirmative defense conditions of Rule 10b5-1(c).\n\nName and Address of Reporting Person*DelOrefice Christopher(Last)(First)(Middle)1000 REMINGTON BLVD., SUITE 120(Street)BOLINGBROOK ILLINOIS 60440(City)(State)(Zip)UNITED STATES(Country)2.\n\nRelationship of Reporting Person(s) to Issuer (Check all applicable)Director10% OwnerXOfficer (give title below)Other (specify below)Chief Financial Officer2a.\n\nIndividual or Joint/Group Filing (Check Applicable Line) XForm filed by One Reporting PersonForm filed by More than One Reporting Person4.\n\nIf Amendment, Date of Original Filed (Month/Day/Year)Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned1.\n\nAmount of Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeVAmount(A) or (D)PriceCommon Stock03/31/2026A4,219(1)A$09,693DTable II - Derivative Securities Acquired, Disposed of, or Beneficially Owned(e.g., puts, calls, warrants, options, convertible securities)1.\n\nNumber of Derivative Securities Acquired (A) or Disposed of (D) (Instr.\n\nTitle and Amount of Securities Underlying Derivative Security (Instr.\n\nNumber of derivative Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeV(A)(D)Date ExercisableExpiration DateTitleAmount or Number of SharesStock Option (right to buy)$522.7103/31/2026A14,363 (2)03/31/2036Common Stock14,363$014,363DExplanation of Responses:1.\n\nRepresents grant of 4,219 shares of restricted stock, vesting 100% on March 15, 2029.2.\n\nThe options, representing an initial right to purchase a total of 14,363 shares, vesting in 25% annual increments beginning March 15, 2027 and each anniversary thereafter through March 15, 2030./s/ Rene G.\n\nCasares, as attorney-in-fact for Christopher DelOrefice04/02/2026** Signature of Reporting PersonDateReminder: Report on a separate line for each class of securities beneficially owned directly or indirectly.* If the form is filed by more than one reporting person, see Instruction 4 (b)(v).** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C.\n\n78ff(a).Note: File three copies of this Form, one of which must be manually signed.\n\nIf space is insufficient, see Instruction 6 for procedure.Persons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB Number.* Form 4: SEC 1474 (03-26)",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "04fac087-9e62-57e8-8244-f4563c295e46",
+      "timestamp_utc": "2026-04-03T20:55:02+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVVFRVzVBODZaQnpDU3VBTEN1dmdGY19pS2FDenBCLUJGZ3VDRk9Mbml3anhLcThReGYyT21McVJrekYtdFZzcWJuQ1FDa0xucnV4V19lZlZVRTZLR2NscWNobF8tVmZJUXRLS2tFcUg4NU9uNjRpSHdObHhpT090V3FJUjh5N2JhZ3Y5bDVfaWY5eDlteHZLaEd2NTJQUGF5VDJWUDN4SW5hOHFCMWZkNU5XTQ?oc=5",
+      "title": "Ulta Beauty (NASDAQ: ULTA) seeks votes on directors, officer exculpation, forum clause - Stock Titan",
+      "body": "Ulta Beauty (NASDAQ: ULTA) seeks votes on directors, officer exculpation, forum clause Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f3c72acb-b977-5365-af4c-ac7d09c574ae",
+      "timestamp_utc": "2026-04-03T20:40:46+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0N1I5LUhfVnVuT1NLTmhLNjlpd1NaWnZYU0NuQW9tY1FyWURVaWhYUVRSaVJLYTZVcHBncXpCZ2U0cWg1MS0wU3lXVjFJQlFVa3c?oc=5",
+      "title": "Ulta Beauty, Inc. (ULTA) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Ulta Beauty, Inc. (ULTA) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "alt_sources": [
+          "Yahoo! Finance Canada"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "615a7351-6cd5-5629-9a35-c39c5726d54e",
+      "timestamp_utc": "2026-04-03T00:55:13+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTkc2YzJ1Y2xQeUdtUFQzTjdKUW9sR0dhQ1hrREhfV3kxVUFYNHdBY19KTFhJZFpuZlR4cUhZVDRoaUhRNmdnSnhBd0xKLUtiR1N4RTF1T1dCRDFBeUV3VVFhdEJqRUhTeWV2VGVLYV85THhfODRRVzJ5LU9Wc1kyYl8yUGhyYWg2VG8xNS1jZWRnTmp4UkNWRW4xUjBJbW1QeXcxemRfSEgwZXdzV2c?oc=5",
+      "title": "Ulta Beauty (ULTA) SVP receives new stock options and restricted shares - Stock Titan",
+      "body": "Ulta Beauty (ULTA) SVP receives new stock options and restricted shares Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "71241790-5954-5e8a-a309-3dad84e9b6c4",
+      "timestamp_utc": "2026-04-02T20:47:22+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSHNHRk9ocnFKRVRveTNGYV9LbG5sX1NvVUdGRFBZal9yYjF2YWtPX09fX1A5azU1WHl4UEFLbDBNN3hOUTc0QmRRY3o5WEk2LUdhYjNrUnl4cXZuRHVZMGtmNk9jTHM0ZENnSFhaMFZveE9TVHA1ZzI5WUJLdHJnbENrRGNmLU1ua3VDdnZ2LVRfcDV1Ynp4TW1iakxNbmo2Rk83MFJJNm9UX1FLOEE?oc=5",
+      "title": "Ulta (ULTA) CHRO receives new restricted stock and 4,912 stock options - Stock Titan",
+      "body": "Ulta (ULTA) CHRO receives new restricted stock and 4,912 stock options Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0032aff9-ff59-5f0c-946c-53a80a22c436",
+      "timestamp_utc": "2026-04-02T20:42:39+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZWNEMV9pMk5QVFJpNW9qVjgyRkZKblJzVTdIRkRVV21vT1BxcTMtU1NJUmN6RkEtZXlwNm43S1FnWjMtaWhXRTNmM3F2ak9UYmFxc055TFNuSUN0RGJXd0JxS2dRUzZHR1M3UGFRcEUtVThudUotMEs2ZFNFZ28tYURfX0ZabnNNZk5sbExic254cFBjWXVHWjFUVjZWV0Q2QUxIVlFBb3UzSzNEQXc?oc=5",
+      "title": "Ulta Beauty (ULTA) CLO receives new stock options and restricted share grant - Stock Titan",
+      "body": "Ulta Beauty (ULTA) CLO receives new stock options and restricted share grant Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d2481490-e684-587b-9488-dae10c3802a7",
+      "timestamp_utc": "2026-04-03T22:43:00+00:00",
+      "source": "koat",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGhYYk84V2NmSDU1MGtaQmpUSHo4eXFMb001TTRYMko4ZUVsYldTSG1DODZURUVCQ3JRdUxRYkRxTHA1MVZUQmhrUEF3bUdsT2VBLUxYMXVYcXVHQVZta3RyQm9pNWZkSnRady04MWQwb0VxR2ZESms2UkFUN2V3WnhmOS1xUXEw?oc=5",
+      "title": "Video shows Ulta Beauty store theft in Albuquerque - KOAT",
+      "body": "Video shows Ulta Beauty store theft in Albuquerque KOAT",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "koat",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "KOAT",
+        "source_domain": "koat.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "e9822635-fc64-5637-aa56-3912dc85187a",
+      "timestamp_utc": "2026-04-03T16:18:55+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ulta-beauty-ulta-valuation-check-161855562.html",
+      "title": "Ulta Beauty (ULTA) Valuation Check After Recent Share Price Volatility - Yahoo Finance",
+      "body": "Ulta Beauty (ULTA) Valuation Check After Recent Share Price Volatility Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3e2e99a9-5f0d-530f-9047-f429a55b6a54",
+      "timestamp_utc": "2026-04-03T15:01:07+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTml0UGRkX3pDNzJjZHJlckhxMVhwYjEwQnFGQTh4allIUHBSTTlOWlFCYkRWSXZ6bXk0bVZtajB4cEVJOENnZl94d3BvQmZhME9aQ0tZM0MxZ1U2cmxqVTYwSlhVd0k3ejN2bi1id0FwZVdSaU1aamw4M3pDRUlhb2R2aFpZWFBmX2pUZWswNm9lbW5PZDJRUjY4VXlOU2d1dHMtcjdQbFdwZnJLWnVjRnF3RGZvcXRfa2RFU0hsdjZqX3dfcF9zOHF4REdFQXdVVUtIOXNmbXU3S1A4VGo5YTBB?oc=5",
+      "title": "Strategic Move: Christopher Lialios Enhances Portfolio With Ulta Beauty Stock Options Worth $11K - Benzinga",
+      "body": "Strategic Move: Christopher Lialios Enhances Portfolio With Ulta Beauty Stock Options Worth $11K Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "df55ca3a-4e0e-5c4d-b303-415ddd7f404d",
+      "timestamp_utc": "2026-04-02T20:49:17+00:00",
+      "source": "stock_titan",
+      "url": "https://www.stocktitan.net/sec-filings/ULTA/form-4-ulta-beauty-inc-insider-trading-activity-52ba5d9ea4e6.html",
+      "title": "Ulta Beauty (ULTA) CEO receives major option and restricted stock grants - Stock Titan",
+      "body": "⛶ Fullscreen SEC Form 4 FORM 4UNITED STATES SECURITIES AND EXCHANGE COMMISSIONWashington, D.C.\n\n20549STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIPFiled pursuant to Section 16(a) of the Securities Exchange Act of 1934or Section 30(h) of the Investment Company Act of 1940OMB APPROVALOMB Number:3235-0287Estimated average burdenhours per response:0.5 Check this box if no longer subject to Section 16.\n\nCheck this box to indicate that a transaction was made pursuant to a contract, instruction or written plan for the purchase or sale of equity securities of the issuer that is intended to satisfy the affirmative defense conditions of Rule 10b5-1(c).\n\nName and Address of Reporting Person*Steelman Kecia(Last)(First)(Middle)1000 REMINGTON BLVD., SUITE 120(Street)BOLINGBROOK ILLINOIS 60440(City)(State)(Zip)UNITED STATES(Country)2.\n\nRelationship of Reporting Person(s) to Issuer (Check all applicable)Director10% OwnerXOfficer (give title below)Other (specify below)President and CEO2a.\n\nIndividual or Joint/Group Filing (Check Applicable Line) XForm filed by One Reporting PersonForm filed by More than One Reporting Person4.\n\nIf Amendment, Date of Original Filed (Month/Day/Year)Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned1.\n\nAmount of Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeVAmount(A) or (D)PriceCommon Stock03/31/2026A10,889(1)A$042,489DTable II - Derivative Securities Acquired, Disposed of, or Beneficially Owned(e.g., puts, calls, warrants, options, convertible securities)1.\n\nNumber of Derivative Securities Acquired (A) or Disposed of (D) (Instr.\n\nTitle and Amount of Securities Underlying Derivative Security (Instr.\n\nNumber of derivative Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeV(A)(D)Date ExercisableExpiration DateTitleAmount or Number of SharesStock Option (right to buy)$522.7103/31/2026A37,070 (2)03/31/2036Common Stock37,070$037,070DStock Option (right to buy)$522.7103/31/2026A68,00003/31/2031(3)03/31/2036Common Stock68,000$068,000DExplanation of Responses:1.\n\nRepresents grant of 10,889 shares of restricted stock, vesting 100% on March 15, 2029.2.\n\nThe options, representing an initial right to purchase a total of 37,070 shares, vesting in 25% annual increments beginning March 15, 2027 and each anniversary thereafter through March 15, 2030.3.\n\nThe options, representing an initial right to purchase a total of 68,000 shares of common stock.\n\nThe performance-based option vests in two tranches, each of which comprises half of the award.\n\nThe first and second tranche will vest when the average closing stock price (over any consecutive twenty (20)-trading day or thirty (30)-calendar day period) represents a CAGR of 8% and 18%, respectively, from the base price.\n\nAny earned portion of the award will service-vest on March 31, 2031 and any unearned portion as of March 30, 2031 will be forfeited./s/ Rene G.\n\nCasares, as attorney-in-fact for Kecia Steelman04/02/2026** Signature of Reporting PersonDateReminder: Report on a separate line for each class of securities beneficially owned directly or indirectly.* If the form is filed by more than one reporting person, see Instruction 4 (b)(v).** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C.\n\n78ff(a).Note: File three copies of this Form, one of which must be manually signed.\n\nIf space is insufficient, see Instruction 6 for procedure.Persons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB Number.* Form 4: SEC 1474 (03-26)",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "4ecfeccb-531f-50cd-84ba-b63afbfafc58",
+      "timestamp_utc": "2026-04-02T20:45:44+00:00",
+      "source": "stock_titan",
+      "url": "https://www.stocktitan.net/sec-filings/ULTA/form-4-ulta-beauty-inc-insider-trading-activity-39c2379b2443.html",
+      "title": "Ulta Beauty (ULTA) CFO awarded stock options and restricted shares - Stock Titan",
+      "body": "⛶ Fullscreen SEC Form 4 FORM 4UNITED STATES SECURITIES AND EXCHANGE COMMISSIONWashington, D.C.\n\n20549STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIPFiled pursuant to Section 16(a) of the Securities Exchange Act of 1934or Section 30(h) of the Investment Company Act of 1940OMB APPROVALOMB Number:3235-0287Estimated average burdenhours per response:0.5 Check this box if no longer subject to Section 16.\n\nCheck this box to indicate that a transaction was made pursuant to a contract, instruction or written plan for the purchase or sale of equity securities of the issuer that is intended to satisfy the affirmative defense conditions of Rule 10b5-1(c).\n\nName and Address of Reporting Person*DelOrefice Christopher(Last)(First)(Middle)1000 REMINGTON BLVD., SUITE 120(Street)BOLINGBROOK ILLINOIS 60440(City)(State)(Zip)UNITED STATES(Country)2.\n\nRelationship of Reporting Person(s) to Issuer (Check all applicable)Director10% OwnerXOfficer (give title below)Other (specify below)Chief Financial Officer2a.\n\nIndividual or Joint/Group Filing (Check Applicable Line) XForm filed by One Reporting PersonForm filed by More than One Reporting Person4.\n\nIf Amendment, Date of Original Filed (Month/Day/Year)Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned1.\n\nAmount of Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeVAmount(A) or (D)PriceCommon Stock03/31/2026A4,219(1)A$09,693DTable II - Derivative Securities Acquired, Disposed of, or Beneficially Owned(e.g., puts, calls, warrants, options, convertible securities)1.\n\nNumber of Derivative Securities Acquired (A) or Disposed of (D) (Instr.\n\nTitle and Amount of Securities Underlying Derivative Security (Instr.\n\nNumber of derivative Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeV(A)(D)Date ExercisableExpiration DateTitleAmount or Number of SharesStock Option (right to buy)$522.7103/31/2026A14,363 (2)03/31/2036Common Stock14,363$014,363DExplanation of Responses:1.\n\nRepresents grant of 4,219 shares of restricted stock, vesting 100% on March 15, 2029.2.\n\nThe options, representing an initial right to purchase a total of 14,363 shares, vesting in 25% annual increments beginning March 15, 2027 and each anniversary thereafter through March 15, 2030./s/ Rene G.\n\nCasares, as attorney-in-fact for Christopher DelOrefice04/02/2026** Signature of Reporting PersonDateReminder: Report on a separate line for each class of securities beneficially owned directly or indirectly.* If the form is filed by more than one reporting person, see Instruction 4 (b)(v).** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C.\n\n78ff(a).Note: File three copies of this Form, one of which must be manually signed.\n\nIf space is insufficient, see Instruction 6 for procedure.Persons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB Number.* Form 4: SEC 1474 (03-26)",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "04fac087-9e62-57e8-8244-f4563c295e46",
+      "timestamp_utc": "2026-04-03T20:55:02+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVVFRVzVBODZaQnpDU3VBTEN1dmdGY19pS2FDenBCLUJGZ3VDRk9Mbml3anhLcThReGYyT21McVJrekYtdFZzcWJuQ1FDa0xucnV4V19lZlZVRTZLR2NscWNobF8tVmZJUXRLS2tFcUg4NU9uNjRpSHdObHhpT090V3FJUjh5N2JhZ3Y5bDVfaWY5eDlteHZLaEd2NTJQUGF5VDJWUDN4SW5hOHFCMWZkNU5XTQ?oc=5",
+      "title": "Ulta Beauty (NASDAQ: ULTA) seeks votes on directors, officer exculpation, forum clause - Stock Titan",
+      "body": "Ulta Beauty (NASDAQ: ULTA) seeks votes on directors, officer exculpation, forum clause Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f3c72acb-b977-5365-af4c-ac7d09c574ae",
+      "timestamp_utc": "2026-04-03T20:40:46+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0N1I5LUhfVnVuT1NLTmhLNjlpd1NaWnZYU0NuQW9tY1FyWURVaWhYUVRSaVJLYTZVcHBncXpCZ2U0cWg1MS0wU3lXVjFJQlFVa3c?oc=5",
+      "title": "Ulta Beauty, Inc. (ULTA) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Ulta Beauty, Inc. (ULTA) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "alt_sources": [
+          "Yahoo! Finance Canada"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "615a7351-6cd5-5629-9a35-c39c5726d54e",
+      "timestamp_utc": "2026-04-03T00:55:13+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTkc2YzJ1Y2xQeUdtUFQzTjdKUW9sR0dhQ1hrREhfV3kxVUFYNHdBY19KTFhJZFpuZlR4cUhZVDRoaUhRNmdnSnhBd0xKLUtiR1N4RTF1T1dCRDFBeUV3VVFhdEJqRUhTeWV2VGVLYV85THhfODRRVzJ5LU9Wc1kyYl8yUGhyYWg2VG8xNS1jZWRnTmp4UkNWRW4xUjBJbW1QeXcxemRfSEgwZXdzV2c?oc=5",
+      "title": "Ulta Beauty (ULTA) SVP receives new stock options and restricted shares - Stock Titan",
+      "body": "Ulta Beauty (ULTA) SVP receives new stock options and restricted shares Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "71241790-5954-5e8a-a309-3dad84e9b6c4",
+      "timestamp_utc": "2026-04-02T20:47:22+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSHNHRk9ocnFKRVRveTNGYV9LbG5sX1NvVUdGRFBZal9yYjF2YWtPX09fX1A5azU1WHl4UEFLbDBNN3hOUTc0QmRRY3o5WEk2LUdhYjNrUnl4cXZuRHVZMGtmNk9jTHM0ZENnSFhaMFZveE9TVHA1ZzI5WUJLdHJnbENrRGNmLU1ua3VDdnZ2LVRfcDV1Ynp4TW1iakxNbmo2Rk83MFJJNm9UX1FLOEE?oc=5",
+      "title": "Ulta (ULTA) CHRO receives new restricted stock and 4,912 stock options - Stock Titan",
+      "body": "Ulta (ULTA) CHRO receives new restricted stock and 4,912 stock options Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0032aff9-ff59-5f0c-946c-53a80a22c436",
+      "timestamp_utc": "2026-04-02T20:42:39+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZWNEMV9pMk5QVFJpNW9qVjgyRkZKblJzVTdIRkRVV21vT1BxcTMtU1NJUmN6RkEtZXlwNm43S1FnWjMtaWhXRTNmM3F2ak9UYmFxc055TFNuSUN0RGJXd0JxS2dRUzZHR1M3UGFRcEUtVThudUotMEs2ZFNFZ28tYURfX0ZabnNNZk5sbExic254cFBjWXVHWjFUVjZWV0Q2QUxIVlFBb3UzSzNEQXc?oc=5",
+      "title": "Ulta Beauty (ULTA) CLO receives new stock options and restricted share grant - Stock Titan",
+      "body": "Ulta Beauty (ULTA) CLO receives new stock options and restricted share grant Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d2481490-e684-587b-9488-dae10c3802a7",
+      "timestamp_utc": "2026-04-03T22:43:00+00:00",
+      "source": "koat",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGhYYk84V2NmSDU1MGtaQmpUSHo4eXFMb001TTRYMko4ZUVsYldTSG1DODZURUVCQ3JRdUxRYkRxTHA1MVZUQmhrUEF3bUdsT2VBLUxYMXVYcXVHQVZta3RyQm9pNWZkSnRady04MWQwb0VxR2ZESms2UkFUN2V3WnhmOS1xUXEw?oc=5",
+      "title": "Video shows Ulta Beauty store theft in Albuquerque - KOAT",
+      "body": "Video shows Ulta Beauty store theft in Albuquerque KOAT",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "koat",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "KOAT",
+        "source_domain": "koat.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

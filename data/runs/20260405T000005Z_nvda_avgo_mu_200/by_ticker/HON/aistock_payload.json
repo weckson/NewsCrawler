@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "d3c4550e-d371-5e77-bd7f-21b23cfc71e8",
+      "timestamp_utc": "2026-04-04T12:18:18+00:00",
+      "source": "intellectia.ai",
+      "url": "https://intellectia.ai/en/stock/HON/earnings",
+      "title": "HON Earning Date, Earning Analysis and Earning Prediction - intellectia.ai",
+      "body": "HON Earning Date, Earning Analysis and Earning Prediction intellectia.ai",
+      "author": null,
+      "language": "en",
+      "ticker": "HON",
+      "tickers_hint": [
+        "HON"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia.ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "intellectia.ai",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HON"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "d3c4550e-d371-5e77-bd7f-21b23cfc71e8",
+      "timestamp_utc": "2026-04-04T12:18:18+00:00",
+      "source": "intellectia.ai",
+      "url": "https://intellectia.ai/en/stock/HON/earnings",
+      "title": "HON Earning Date, Earning Analysis and Earning Prediction - intellectia.ai",
+      "body": "HON Earning Date, Earning Analysis and Earning Prediction intellectia.ai",
+      "author": null,
+      "language": "en",
+      "ticker": "HON",
+      "tickers_hint": [
+        "HON"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia.ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "intellectia.ai",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HON"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

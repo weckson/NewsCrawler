@@ -1,0 +1,194 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "c9b6e995-4e4e-5b35-a0f7-e6f31abd3fce",
+      "timestamp_utc": "2026-04-02T20:30:36+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOUFFPTzhESVlsY2tZQjdDc3F4SlJwUDFVNlpVQ2R2d0NqNElzWUpLSWV4MVdYamIxV0J1amRTVTkwSFdDLTJRMkMwOXVqY3I2ZU55LWMyTEtGcUpFdGFuV3ZkM21vcGxGUmdFVkpXQkxBQXk3eEtvaTA2SlY4SnJYMDJ1QnJUak1KUHRoTm9zTTRkOHd5MlVvN0tIZ3NYMXI1cUpGWVdiN3VUYjJxLU5pRU81RUZfaGdSOHA3QkpKR2Fqdk43V2hRV2o5MVJsYlF4aThLS0ZBSFh4QjZLV1owZVZ1Mnl2OExqU3hkR2JrbXZkNWJFSWJjRnJMdVdreEpHY0NobzFkUXRBY3ZEYVdjSWY5d3RGNjhFSDQ2Vmc0bGtFRGhuM2xyZ3I2c1pPQQ?oc=5",
+      "title": "Warren Buffett Says He's Relieved He Never Met Epstein — 'I'm So Happy the Guy Didn't Stop In Omaha Ever… - Benzinga",
+      "body": "Warren Buffett Says He's Relieved He Never Met Epstein — 'I'm So Happy the Guy Didn't Stop In Omaha Ever… Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "MET",
+      "tickers_hint": [
+        "MET"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MET"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8a0f7fb3-2764-5152-be32-357f5a8932bd",
+      "timestamp_utc": "2026-04-02T02:42:17+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ0w1MWU5TXp5UGE5LWxpTGxUZmo1dGQtTW5HT3JJSHk1cGVYN3VGa2QxOVV0aUh6NkE2VzhjdkxQUk8yME93Vmd0dWc4ZGY4ZjRnbE5vODNuc0M2bUQzNHJQZ054UUhvX1MtMVJqYXBtbG56cnFkUlRCc3ZVaEQ5alF2RVcwYnJ6RDZ4YkJPYmVGaWpkaFQ5MFoteHp6amhHdUE3OEs5TXJEUXRjcjVTZy1OTmZKdDF3dERBRkRRdDY4bXpXamhSWTdRb24tcGc?oc=5",
+      "title": "Bitcoin, XRP, Dogecoin Slide, Ethereum Flat As Trump Signals Iran War To Go On Until 'Objectives' Met: An - Benzinga",
+      "body": "Bitcoin, XRP, Dogecoin Slide, Ethereum Flat As Trump Signals Iran War To Go On Until 'Objectives' Met: An Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "MET",
+      "tickers_hint": [
+        "MET"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MET"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b652c98d-97e7-5a28-b652-0dbc76253a04",
+      "timestamp_utc": "2026-04-02T20:26:51+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWXVuUlpCOXIzak9vS0dtWVdweHd0U0wtcjBfVXJSMmwyQXhfT0J0cUFkUFJDWHI1aHlDcVJ6UHVmbGtkQ205V1NTZlVyMjlTVTJsdlB1ZWk1NkIxZUo2dEd0dThYVnZKckNLS19rS29RZUhHa0pqZ1ptZ2d1QldhaFV5b2o5bVlFNzBRZE9kSTI?oc=5",
+      "title": "MetLife (NYSE: MET) files Form 144 listing affiliate Common Stock sales - Stock Titan",
+      "body": "MetLife (NYSE: MET) files Form 144 listing affiliate Common Stock sales Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "MET",
+      "tickers_hint": [
+        "MET"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MET"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "c9b6e995-4e4e-5b35-a0f7-e6f31abd3fce",
+      "timestamp_utc": "2026-04-02T20:30:36+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOUFFPTzhESVlsY2tZQjdDc3F4SlJwUDFVNlpVQ2R2d0NqNElzWUpLSWV4MVdYamIxV0J1amRTVTkwSFdDLTJRMkMwOXVqY3I2ZU55LWMyTEtGcUpFdGFuV3ZkM21vcGxGUmdFVkpXQkxBQXk3eEtvaTA2SlY4SnJYMDJ1QnJUak1KUHRoTm9zTTRkOHd5MlVvN0tIZ3NYMXI1cUpGWVdiN3VUYjJxLU5pRU81RUZfaGdSOHA3QkpKR2Fqdk43V2hRV2o5MVJsYlF4aThLS0ZBSFh4QjZLV1owZVZ1Mnl2OExqU3hkR2JrbXZkNWJFSWJjRnJMdVdreEpHY0NobzFkUXRBY3ZEYVdjSWY5d3RGNjhFSDQ2Vmc0bGtFRGhuM2xyZ3I2c1pPQQ?oc=5",
+      "title": "Warren Buffett Says He's Relieved He Never Met Epstein — 'I'm So Happy the Guy Didn't Stop In Omaha Ever… - Benzinga",
+      "body": "Warren Buffett Says He's Relieved He Never Met Epstein — 'I'm So Happy the Guy Didn't Stop In Omaha Ever… Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "MET",
+      "tickers_hint": [
+        "MET"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MET"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8a0f7fb3-2764-5152-be32-357f5a8932bd",
+      "timestamp_utc": "2026-04-02T02:42:17+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ0w1MWU5TXp5UGE5LWxpTGxUZmo1dGQtTW5HT3JJSHk1cGVYN3VGa2QxOVV0aUh6NkE2VzhjdkxQUk8yME93Vmd0dWc4ZGY4ZjRnbE5vODNuc0M2bUQzNHJQZ054UUhvX1MtMVJqYXBtbG56cnFkUlRCc3ZVaEQ5alF2RVcwYnJ6RDZ4YkJPYmVGaWpkaFQ5MFoteHp6amhHdUE3OEs5TXJEUXRjcjVTZy1OTmZKdDF3dERBRkRRdDY4bXpXamhSWTdRb24tcGc?oc=5",
+      "title": "Bitcoin, XRP, Dogecoin Slide, Ethereum Flat As Trump Signals Iran War To Go On Until 'Objectives' Met: An - Benzinga",
+      "body": "Bitcoin, XRP, Dogecoin Slide, Ethereum Flat As Trump Signals Iran War To Go On Until 'Objectives' Met: An Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "MET",
+      "tickers_hint": [
+        "MET"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MET"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b652c98d-97e7-5a28-b652-0dbc76253a04",
+      "timestamp_utc": "2026-04-02T20:26:51+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWXVuUlpCOXIzak9vS0dtWVdweHd0U0wtcjBfVXJSMmwyQXhfT0J0cUFkUFJDWHI1aHlDcVJ6UHVmbGtkQ205V1NTZlVyMjlTVTJsdlB1ZWk1NkIxZUo2dEd0dThYVnZKckNLS19rS29RZUhHa0pqZ1ptZ2d1QldhaFV5b2o5bVlFNzBRZE9kSTI?oc=5",
+      "title": "MetLife (NYSE: MET) files Form 144 listing affiliate Common Stock sales - Stock Titan",
+      "body": "MetLife (NYSE: MET) files Form 144 listing affiliate Common Stock sales Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "MET",
+      "tickers_hint": [
+        "MET"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MET"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

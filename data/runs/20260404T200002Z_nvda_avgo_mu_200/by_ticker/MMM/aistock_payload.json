@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "762c39f6-8de6-5310-acd6-21cbf097af13",
+      "timestamp_utc": "2026-04-04T06:17:30+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/3m-nysemmm-stock-unloaded-sen-tina-smith-2026-04-04/",
+      "title": "3M (NYSE:MMM) Stock Unloaded Sen. Tina Smith - MarketBeat",
+      "body": "3M (NYSE:MMM) Stock Unloaded Sen. Tina Smith MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MMM",
+      "tickers_hint": [
+        "MMM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MMM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8a054017-048e-5e05-a7f8-fdedac0c8d0e",
+      "timestamp_utc": "2026-04-03T12:57:11+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2Y1dkSFJlaUw4SXg0SWctYk1UVG9renpEekFUUkxNWU85SjJSd0lQZzBISGs2QkthXy1KM3dYY1VudHhPd0tYSVNwUE5Ia2U2?oc=5",
+      "title": "3M Company (MMM) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "3M Company (MMM) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "MMM",
+      "tickers_hint": [
+        "MMM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MMM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "762c39f6-8de6-5310-acd6-21cbf097af13",
+      "timestamp_utc": "2026-04-04T06:17:30+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/3m-nysemmm-stock-unloaded-sen-tina-smith-2026-04-04/",
+      "title": "3M (NYSE:MMM) Stock Unloaded Sen. Tina Smith - MarketBeat",
+      "body": "3M (NYSE:MMM) Stock Unloaded Sen. Tina Smith MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MMM",
+      "tickers_hint": [
+        "MMM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MMM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8a054017-048e-5e05-a7f8-fdedac0c8d0e",
+      "timestamp_utc": "2026-04-03T12:57:11+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2Y1dkSFJlaUw4SXg0SWctYk1UVG9renpEekFUUkxNWU85SjJSd0lQZzBISGs2QkthXy1KM3dYY1VudHhPd0tYSVNwUE5Ia2U2?oc=5",
+      "title": "3M Company (MMM) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "3M Company (MMM) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "MMM",
+      "tickers_hint": [
+        "MMM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MMM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

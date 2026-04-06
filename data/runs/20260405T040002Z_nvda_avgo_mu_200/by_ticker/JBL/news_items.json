@@ -1,0 +1,60 @@
+[
+  {
+    "id": "da002f53-b1ce-53a9-95ac-812b385e9624",
+    "timestamp_utc": "2026-04-04T23:37:12+00:00",
+    "source": "intellectia_ai",
+    "url": "https://intellectia.ai/en/stock/JBL/technical",
+    "title": "JBL Technical Analysis & Stock Price Forecast - Intellectia AI",
+    "body": "JBL Technical Analysis & Stock Price Forecast Intellectia AI",
+    "author": null,
+    "language": "en",
+    "ticker": "JBL",
+    "tickers_hint": [
+      "JBL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "intellectia ai",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Intellectia AI",
+      "source_domain": "intellectiaai.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "JBL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "d1454064-1684-5a6a-8aa9-fb6dd85a359e",
+    "timestamp_utc": "2026-04-03T19:20:57+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5X1ctaHAzZ1lONFZvY21zVVE1SGVtMU5LSWVvTi0wVVVHLUFMOHNoZVN6MndKb21VbEU0cXJKRnRCdTBSMTV2UUpRa0d0Z21kR01nSlFtc1RWNWpBeEVVUFRXcDA?oc=5",
+    "title": "JBL Sep 2026 370.000 call (JBL260918C00370000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "body": "JBL Sep 2026 370.000 call (JBL260918C00370000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "author": null,
+    "language": "en",
+    "ticker": "JBL",
+    "tickers_hint": [
+      "JBL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo! finance canada",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "JBL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

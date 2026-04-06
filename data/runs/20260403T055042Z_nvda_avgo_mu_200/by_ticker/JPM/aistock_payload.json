@@ -1,0 +1,414 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "d7a4b1a6-dbb9-512c-a13b-18788d855c44",
+      "timestamp_utc": "2026-04-01T16:10:02+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-co-jpm-beat-161002319.html",
+      "title": "Will JPMorgan Chase & Co. (JPM) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
+      "body": "Will JPMorgan Chase & Co. (JPM) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a31327dd-ef3a-5cf1-9b82-5c097b47397b",
+      "timestamp_utc": "2026-04-01T15:38:50+00:00",
+      "source": "insider_monkey",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTmFseWRTUEh3STN5Smx4Tlp5RXNBR29UdFFMallERlFPRmdHWUI5RHJLZVRUbEstZVQwbUpwbW9fdTRlT1VDUzBxLTNxbmNiaDY0eXRNR2hJNW93ZUp4R094VFYzN3RLNmZ4c0N2TXF1aUUwV25vVkgxaDlueVRKaG5EUnZ3dDQ5dkxHQ1BZUlVfNHMySThnSThVdXg3Nk01c1V4R2NTWE1uLXpSbFFRc0MtLUTSAbwBQVVfeXFMUEp6UmNGczE0Vk1aOE9CaG5xb3QyTHJxNjNIOUtFWWVtc1VYX0F2ay1TSGtIRm5WTDloanh3endjMVBPWkNveC1YZ0wwRUtjUnlkZ0ZLNi1jOUFTQ1NoamlSNnNwejJqaUIxQndoTVBEQy1RSW5XU1JiQnZjSmgzcXpPVDdZOEdaOXlBVmYteXE4bGlObTlHT3dkNzBOQW5HeTdFYUllVDUyZnIyRExaU0RobEdfSkVJRGV1LVI?oc=5",
+      "title": "JPMorgan Chase & Co. (JPM): Billionaire Rob Citrone Likes This Banking Stock - Insider Monkey",
+      "body": "JPMorgan Chase & Co. (JPM): Billionaire Rob Citrone Likes This Banking Stock Insider Monkey",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "insidermonkey.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Insider Monkey",
+        "source_domain": "insidermonkey.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "935db160-7605-51c2-8645-056467888b94",
+      "timestamp_utc": "2026-04-01T20:16:51+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORUlzallxQ0x1clZkUEFpQk44am9fNU5ZdXdhbXBXcHFRTzhOdmtuSXZHcUtTMnRyajVjeHJnUy1HdHFyeFVvSmVZa1VZZFYxQi1mQjgtYVlpUmYtbGV6R2twLXZhc1NmdDBIUE9PdVRsV0hQdk43WjZGbmZBUFdzYVl4YTVvNVNwNUp4bWVid0tYSm9zd0dQV2tSZGlYX3BSMkYwWHZ6OUpBdklFaHB3?oc=5",
+      "title": "Director Melody Hobson (NYSE: JPM) defers retainer into JPM stock award - Stock Titan",
+      "body": "Director Melody Hobson (NYSE: JPM) defers retainer into JPM stock award Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "183bcbb5-f73f-54d2-bf6e-0d11264d53ea",
+      "timestamp_utc": "2026-04-01T18:48:20+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-given-buy-rating-at-barclays-2026-04-01/",
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Given \"Buy\" Rating at Barclays - MarketBeat",
+      "body": "JPMorgan Chase & Co. (NYSE:JPM) Given \"Buy\" Rating at Barclays MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6157d831-3cbc-5c61-baed-211450ff2557",
+      "timestamp_utc": "2026-04-02T09:14:49+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-bought-by-lvw-advisors-llc-2026-04-02/",
+      "title": "JPMorgan Chase & Co. $JPM Shares Bought by LVW Advisors LLC - MarketBeat",
+      "body": "JPMorgan Chase & Co. $JPM Shares Bought by LVW Advisors LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "02bbb89f-3e3a-5245-87cd-6481fad8a554",
+      "timestamp_utc": "2026-04-01T18:48:17+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/hsbc-has-lowered-expectations-for-jpmorgan-chase-co-nysejpm-stock-price-2026-04-01/",
+      "title": "HSBC Has Lowered Expectations for JPMorgan Chase & Co. (NYSE:JPM) Stock Price - MarketBeat",
+      "body": "HSBC Has Lowered Expectations for JPMorgan Chase & Co. (NYSE:JPM) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fb4a40a5-2f7d-5193-b2c5-c69b00a999fd",
+      "timestamp_utc": "2026-04-01T13:58:50+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/JPM/earnings",
+      "title": "JPM Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "JPM Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "d7a4b1a6-dbb9-512c-a13b-18788d855c44",
+      "timestamp_utc": "2026-04-01T16:10:02+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-co-jpm-beat-161002319.html",
+      "title": "Will JPMorgan Chase & Co. (JPM) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
+      "body": "Will JPMorgan Chase & Co. (JPM) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a31327dd-ef3a-5cf1-9b82-5c097b47397b",
+      "timestamp_utc": "2026-04-01T15:38:50+00:00",
+      "source": "insider_monkey",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTmFseWRTUEh3STN5Smx4Tlp5RXNBR29UdFFMallERlFPRmdHWUI5RHJLZVRUbEstZVQwbUpwbW9fdTRlT1VDUzBxLTNxbmNiaDY0eXRNR2hJNW93ZUp4R094VFYzN3RLNmZ4c0N2TXF1aUUwV25vVkgxaDlueVRKaG5EUnZ3dDQ5dkxHQ1BZUlVfNHMySThnSThVdXg3Nk01c1V4R2NTWE1uLXpSbFFRc0MtLUTSAbwBQVVfeXFMUEp6UmNGczE0Vk1aOE9CaG5xb3QyTHJxNjNIOUtFWWVtc1VYX0F2ay1TSGtIRm5WTDloanh3endjMVBPWkNveC1YZ0wwRUtjUnlkZ0ZLNi1jOUFTQ1NoamlSNnNwejJqaUIxQndoTVBEQy1RSW5XU1JiQnZjSmgzcXpPVDdZOEdaOXlBVmYteXE4bGlObTlHT3dkNzBOQW5HeTdFYUllVDUyZnIyRExaU0RobEdfSkVJRGV1LVI?oc=5",
+      "title": "JPMorgan Chase & Co. (JPM): Billionaire Rob Citrone Likes This Banking Stock - Insider Monkey",
+      "body": "JPMorgan Chase & Co. (JPM): Billionaire Rob Citrone Likes This Banking Stock Insider Monkey",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "insidermonkey.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Insider Monkey",
+        "source_domain": "insidermonkey.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "935db160-7605-51c2-8645-056467888b94",
+      "timestamp_utc": "2026-04-01T20:16:51+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORUlzallxQ0x1clZkUEFpQk44am9fNU5ZdXdhbXBXcHFRTzhOdmtuSXZHcUtTMnRyajVjeHJnUy1HdHFyeFVvSmVZa1VZZFYxQi1mQjgtYVlpUmYtbGV6R2twLXZhc1NmdDBIUE9PdVRsV0hQdk43WjZGbmZBUFdzYVl4YTVvNVNwNUp4bWVid0tYSm9zd0dQV2tSZGlYX3BSMkYwWHZ6OUpBdklFaHB3?oc=5",
+      "title": "Director Melody Hobson (NYSE: JPM) defers retainer into JPM stock award - Stock Titan",
+      "body": "Director Melody Hobson (NYSE: JPM) defers retainer into JPM stock award Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "183bcbb5-f73f-54d2-bf6e-0d11264d53ea",
+      "timestamp_utc": "2026-04-01T18:48:20+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-given-buy-rating-at-barclays-2026-04-01/",
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Given \"Buy\" Rating at Barclays - MarketBeat",
+      "body": "JPMorgan Chase & Co. (NYSE:JPM) Given \"Buy\" Rating at Barclays MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6157d831-3cbc-5c61-baed-211450ff2557",
+      "timestamp_utc": "2026-04-02T09:14:49+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-bought-by-lvw-advisors-llc-2026-04-02/",
+      "title": "JPMorgan Chase & Co. $JPM Shares Bought by LVW Advisors LLC - MarketBeat",
+      "body": "JPMorgan Chase & Co. $JPM Shares Bought by LVW Advisors LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "02bbb89f-3e3a-5245-87cd-6481fad8a554",
+      "timestamp_utc": "2026-04-01T18:48:17+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/hsbc-has-lowered-expectations-for-jpmorgan-chase-co-nysejpm-stock-price-2026-04-01/",
+      "title": "HSBC Has Lowered Expectations for JPMorgan Chase & Co. (NYSE:JPM) Stock Price - MarketBeat",
+      "body": "HSBC Has Lowered Expectations for JPMorgan Chase & Co. (NYSE:JPM) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fb4a40a5-2f7d-5193-b2c5-c69b00a999fd",
+      "timestamp_utc": "2026-04-01T13:58:50+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/JPM/earnings",
+      "title": "JPM Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "JPM Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

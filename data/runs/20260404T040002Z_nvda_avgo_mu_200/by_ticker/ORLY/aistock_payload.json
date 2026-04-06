@@ -1,0 +1,130 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "03dfe01b-326e-5f22-866f-5f17aa54b431",
+      "timestamp_utc": "2026-04-03T20:51:47+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zbnpkQnFJM0JvalJsT2tjdTZzWVhXUDVHZGZ4Ql9Gb0xRUWlyRkViTHNIY3UyaC1BcUNRUGI3b3E1SlVBTmZOdTZrQlFHc0RSNTlVMmpMRUVfeGVyREJUQXdTcTgyZw?oc=5",
+      "title": "ORLY Jun 2026 70.000 call (ORLY260618C00070000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "ORLY Jun 2026 70.000 call (ORLY260618C00070000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "ORLY",
+      "tickers_hint": [
+        "ORLY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORLY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9205e671-8135-5018-94d6-c8653a50fb92",
+      "timestamp_utc": "2026-04-02T18:49:03+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TY21UX0hjYXB3cU5vYUZfV2JLX0JTVFhUZ0g0MlBVU2VDSWFPV3RhTmkzS2w2cTRIMW9iQVBTM2pyMl9WMUExQ29ZLWxxS3U2cWc?oc=5",
+      "title": "O'Reilly Automotive, Inc. (ORLY) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "O'Reilly Automotive, Inc. (ORLY) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "ORLY",
+      "tickers_hint": [
+        "ORLY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORLY"
+        ],
+        "alt_sources": [
+          "Yahoo Finance UK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "03dfe01b-326e-5f22-866f-5f17aa54b431",
+      "timestamp_utc": "2026-04-03T20:51:47+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zbnpkQnFJM0JvalJsT2tjdTZzWVhXUDVHZGZ4Ql9Gb0xRUWlyRkViTHNIY3UyaC1BcUNRUGI3b3E1SlVBTmZOdTZrQlFHc0RSNTlVMmpMRUVfeGVyREJUQXdTcTgyZw?oc=5",
+      "title": "ORLY Jun 2026 70.000 call (ORLY260618C00070000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "ORLY Jun 2026 70.000 call (ORLY260618C00070000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "ORLY",
+      "tickers_hint": [
+        "ORLY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORLY"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "9205e671-8135-5018-94d6-c8653a50fb92",
+      "timestamp_utc": "2026-04-02T18:49:03+00:00",
+      "source": "yahoo_finance_uk",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TY21UX0hjYXB3cU5vYUZfV2JLX0JTVFhUZ0g0MlBVU2VDSWFPV3RhTmkzS2w2cTRIMW9iQVBTM2pyMl9WMUExQ29ZLWxxS3U2cWc?oc=5",
+      "title": "O'Reilly Automotive, Inc. (ORLY) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "O'Reilly Automotive, Inc. (ORLY) stock price, news, quote and history Yahoo Finance UK",
+      "author": null,
+      "language": "en",
+      "ticker": "ORLY",
+      "tickers_hint": [
+        "ORLY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance uk",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "yahoofinanceuk.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ORLY"
+        ],
+        "alt_sources": [
+          "Yahoo Finance UK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

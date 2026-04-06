@@ -1,0 +1,89 @@
+[
+  {
+    "id": "4c137451-6271-5823-94f3-ee010f9dcd8a",
+    "timestamp_utc": "2026-04-02T15:39:53+00:00",
+    "source": "seeking_alpha",
+    "url": "https://seekingalpha.com/news/4572227-sa-analyst-upgrades-downgrades-mu-nem-lng-msft",
+    "title": "SA analyst upgrades/downgrades: MU, NEM, LNG, MSFT - Seeking Alpha",
+    "body": "Microsoft (MSFT) and Newmont (NEM) have received upgrades, with Envision Research seeing an attractive entry point for Microsoft at its current P/E levels, while JR Research identifies a compelling buying opportunity in Newmont following a selloff in gold mining",
+    "author": null,
+    "language": "en",
+    "ticker": "NEM",
+    "tickers_hint": [
+      "NEM"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "seekingalpha.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Seeking Alpha",
+      "source_domain": "seekingalpha.com",
+      "trust_tier": 3,
+      "relevance": 0.65,
+      "event_origin": "news",
+      "query_tickers": [
+        "NEM"
+      ],
+      "body_kind": "article_text"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "b403df40-8863-517d-a818-64686edf5872",
+    "timestamp_utc": "2026-04-01T16:10:05+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/newmont-nem-beat-estimates-again-161005841.html",
+    "title": "Will Newmont (NEM) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
+    "body": "Will Newmont (NEM) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "NEM",
+    "tickers_hint": [
+      "NEM"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "NEM"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "9329b78f-dadf-5d63-82c6-3b247b479164",
+    "timestamp_utc": "2026-04-01T15:30:33+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUkVtbzRUS01fcmhsMDVXUWppMnRpSUxLejJhR0hqd0FOWmJHYjNmX0ZiemhybHRoZ2oycUlibm9xaFMySlp6S0N4WDFwai03MXJEV0ZEWnZlUUM3YUVDWmc0d002ajctcXcxSF85TW4tQTlvRzR1a1R0NjBpNXhpc1dZdHJ6LUVpUVhhMmYzUWJSNzJKRFE?oc=5",
+    "title": "3,000-share insider sale at NEM (NYSE: NEM) reported in Form 144 - Stock Titan",
+    "body": "3,000-share insider sale at NEM (NYSE: NEM) reported in Form 144 Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "NEM",
+    "tickers_hint": [
+      "NEM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "NEM"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

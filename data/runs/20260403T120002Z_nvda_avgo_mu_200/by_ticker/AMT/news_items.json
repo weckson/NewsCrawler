@@ -1,0 +1,31 @@
+[
+  {
+    "id": "caedc0d1-a3c0-5be4-a54b-f877935848c8",
+    "timestamp_utc": "2026-04-02T05:38:26+00:00",
+    "source": "defenseworld.net",
+    "url": "https://www.defenseworld.net/2026/04/02/american-tower-nyseamt-upgraded-at-truist-financial.html",
+    "title": "American Tower (NYSE:AMT) Upgraded at Truist Financial - defenseworld.net",
+    "body": "Air Armament Engines Fighter Aircraft Helicopters Land Armored Vehicles and Tanks Ordinance and Artillery Personnel Equipment Small Arms Missiles and Space Air Defense Military Satellites Missile Technology Naval Civil Aviation Accidents Airlines Engines Manufacturers MRO Economy Management Appointments Market Trends and Finance Mergers and Acquisitions Companies",
+    "author": null,
+    "language": "en",
+    "ticker": "AMT",
+    "tickers_hint": [
+      "AMT"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "defenseworld.net",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "defenseworld.net",
+      "source_domain": "defenseworldnet.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "AMT"
+      ],
+      "body_kind": "article_text"
+    },
+    "stream_type": "soft"
+  }
+]
