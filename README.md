@@ -1,385 +1,216 @@
 # NewsCrawler — Financial News Ingestion System
 
-Production-grade financial-news crawling system. Includes **Benzinga** and explicitly **excludes** sources already in `weckson/AIStock` (Polygon, SEC/EDGAR, FINRA, Finnhub, Reddit, FRED, yfinance).
+Quality-filtered financial news crawler for US equities. No API key required.
+Produces per-ticker JSON exports consumed by [`D:\AIStock`](../AIStock) as a curated news data source.
 
-The `data/aistock/` export in this repo is produced specifically to serve `D:\AIStock` as a local news-input source. AIStock reads these snapshots as an auxiliary curated news feed; this repo is the upstream producer for that data contract.
+**Explicitly excludes** sources already in AIStock (Polygon, SEC/EDGAR, FINRA, Finnhub, Reddit, FRED, yfinance).
 
 ## Sources
 
-| Priority | Source | Method |
-|---|---|---|
-| 1 | Benzinga (News API + Press Releases) | Licensed API + delta pulls |
-| 2 | Reuters via LSEG/RDP | Vendor feed adapter (stub — requires entitlement) |
-| 3 | Company IR RSS | RSS polling |
-| 4 | PR Newswire RSS | RSS polling |
-| 5 | Business Wire RSS | RSS polling |
-| 6 | ASX ComNews / announcements | Licensed or web |
-| 7 | ASIC newsroom | RSS / low-frequency web |
+| Channel | Method | Volume |
+|---------|--------|--------|
+| Benzinga RSS (`/feed`, `/news/feed`) | Public RSS, no CF block | ~10–15 articles |
+| Google News → Benzinga (`site:benzinga.com`) | Google News RSS filtered to BZ | ~100 articles |
+| Google News broad (`{ticker} stock news`) | All sources, quality-scored | variable |
+| Company IR RSS | RSS polling | per-company |
+
+No direct HTML scraping — all feeds are structured RSS, no Cloudflare challenge.
 
 ## Quick Start
 
-### 1. Install dependencies
-
 ```bash
-python -m venv .venv
-.venv\Scripts\activate
+# Install
 pip install -e ".[dev]"
-```
 
-### 2. Prepare config
-
-PowerShell:
-
-```powershell
-Copy-Item sample.env .env
-Copy-Item config\sources.example.yaml config\sources.yaml
-```
-
-Bash:
-
-```bash
-cp sample.env .env
-cp config/sources.example.yaml config/sources.yaml
-```
-
-Then edit `.env`.
-
-Minimum settings for the scheduler:
-
-```env
-BENZINGA_API_KEY=your_key_here
-DATABASE_URL=postgresql://crawler:crawler@localhost:5432/newscrawler
-OBJECT_STORE_BUCKET=./data/raw
-```
-
-### 3. Start PostgreSQL
-
-```bash
-docker-compose up -d db
-```
-
-Apply the schema if your database is empty:
-
-```bash
-psql postgresql://crawler:crawler@localhost:5432/newscrawler -f migrations/001_initial.sql
-```
-
-## How To Run
-
-This repo has two runnable entry points.
-
-### Option A: Main scheduler
-
-Use this for the full configurable crawler under `crawler/`.
-
-Run one pass:
-
-```bash
-python -m crawler --once
-```
-
-Run one source only:
-
-```bash
-python -m crawler --once --source benzinga_news_api
-```
-
-Run continuously:
-
-```bash
-python -m crawler
-```
-
-Installed script `newscrawler` is equivalent to `python -m crawler`.
-
-Useful flags:
-
-```text
---config config/sources.yaml
---once
---source <source_key>
-```
-
-### Option B: Standalone multi-ticker news crawler
-
-`crawl_news.py` is the generic SQLite-based crawler. It does not require PostgreSQL or a Benzinga API key.
-Its default data paths are resolved relative to the repo, so `python /opt/NewsCrawler/crawl_news.py`
-works from Linux cron, systemd, or any other working directory.
-
-Default run:
-
-```bash
+# Default run: reads AIStock watchlist (config/default.json), last 48h
 python crawl_news.py
-```
 
-This defaults to the built-in `aistock500` preset.
-
-Single ticker:
-
-```bash
-python crawl_news.py --ticker NVDA
-```
-
-Small watchlist:
-
-```bash
-python crawl_news.py --tickers AMD,NVDA,AVGO
-```
-
-Built-in watchlists:
-
-```bash
-python crawl_news.py --ticker-set semis20
+# 200-ticker preset
 python crawl_news.py --ticker-set aistock200
-python crawl_news.py --ticker-set aistock500
+
+# Single ticker
+python crawl_news.py --ticker NVDA
+
+# Custom tickers
+python crawl_news.py --tickers NVDA,AMD,MSFT
+
+# Human-readable report
+python crawl_news.py --ticker NVDA --output pretty
+
+# Custom data directory (Linux/cron)
+python crawl_news.py --data-dir /var/lib/newscrawler
+
+# Tests
+pytest tests/ -q
 ```
 
-`mega_watchlist` remains available as a backward-compatible alias for `aistock500`.
-`aistock200` is the legacy 203-ticker core watchlist with the noisiest single-letter symbols `A`, `C`, and `T` removed.
+## Watchlist & Ticker Sets
 
-Full-text modes:
+| Preset | Source | Count |
+|--------|--------|-------|
+| `aistock` **(default)** | Reads `D:\AIStock\config\default.json` live | matches AIStock exactly |
+| `aistock500` | Hardcoded fallback (used if AIStock repo not found) | 500 |
+| `aistock200` | Legacy core watchlist (noisy single-letter symbols removed) | ~200 |
+| `semis20` | Semiconductor focus | 20 |
 
-```bash
-python crawl_news.py --ticker-set aistock500 --fulltext-mode off
-python crawl_news.py --ticker-set aistock500 --fulltext-mode high-value
-python crawl_news.py --ticker-set aistock500 --fulltext-mode all
+The default `aistock` preset reads AIStock's watchlist at runtime so crawl tickers always stay in sync — no manual list maintenance needed.
+
+## CLI Flags
+
+```
+--ticker NVDA                  Single ticker
+--tickers NVDA,AMD,MSFT        Comma-separated list
+--ticker-set aistock200        Built-in preset (see table above)
+--hours 48                     Look-back window in hours (default: 48)
+--fulltext-mode high-value     off | high-value | all (default: high-value)
+--fulltext-max-articles 8      Per-ticker cap for full-text fetch
+--output newsitem-json         newsitem-json (default, for piping) | pretty
+--data-dir /path/to/data       Override base data directory
 ```
 
-Pretty console report:
+## Output Layout
 
-```bash
-python crawl_news.py --ticker-set aistock500 --output pretty
+```
+data/
+  news.db                        SQLite article store (dedup by URL)
+  aistock/
+    latest_news_items.json       Flat list of all NewsItems (all tickers)
+    latest_payload.json          AIStock payload envelope
+    by_ticker/
+      NVDA/
+        latest_news_items.json   NewsItems for NVDA only  ← read by AIStock
+        latest_articles.json     Raw filtered articles
+        latest_payload.json      Payload envelope
+        latest_summary.json      Counts / metadata
+      AMD/
+        ...
+  raw/                           Raw RSS XML payloads (debug)
+  runs/
+    20260406T120000Z_nvda_3/     Per-run artifacts
+      run.log
+      summary.json
+      filtered_articles.json
+      news_items.json
+      by_ticker/
 ```
 
-Legacy entry point:
+**AIStock reads** `data/aistock/by_ticker/{TICKER}/latest_news_items.json` per requested ticker
+(configured via `crawler_news_by_ticker_dir` in AIStock `config/default.json`).
 
-```bash
-python crawl_amd.py --ticker-set aistock500
-```
+## NewsItem Schema
 
-Custom data root:
-
-```bash
-python crawl_news.py --ticker NVDA --data-dir /var/lib/newscrawler
-```
-
-Useful flags:
-
-```text
---ticker <symbol>
---tickers AMD,NVDA,...
---ticker-set semis20|aistock200|core200|aistock500|mega_watchlist
---hours 48
---fulltext-mode off|high-value|all
---fulltext-max-articles 8
---output newsitem-json|pretty
---data-dir /path/to/runtime-data
-```
-
-Primary outputs:
-
-- Runs: `data/runs/<run_id>/`
-- SQLite: `data/news.db`
-- AIStock-compatible exports: `data/aistock/`
-
-## How To View Data
-
-### 1. Check the latest run output
-
-PowerShell:
-
-```powershell
-Get-ChildItem data\runs | Sort-Object Name -Descending | Select-Object -First 3 Name, FullName
-```
-
-Each run directory contains:
-
-- `summary.json`
-- `filtered_articles.json`
-- `news_items.json`
-- `aistock_payload.json`
-- `by_ticker/`
-- `report.txt`
-- `run.log`
-
-### 2. Open the SQLite database
-
-If `sqlite3.exe` is on your machine:
-
-```powershell
-sqlite3 data\news.db
-```
-
-If your local path is `D:\SQL\sqlite3.exe`:
-
-```powershell
-D:\SQL\sqlite3.exe D:\NewsCrawler\data\news.db
-```
-
-### 3. AIStock-compatible exports
-
-Stable aggregate files:
-
-- `data/aistock/latest_news_items.json`
-- `data/aistock/latest_payload.json`
-
-These files are intended for direct consumption by `D:\AIStock`. If you change their schema or path layout, update AIStock's local crawler connector at the same time.
-
-Stable per-ticker files:
-
-- `data/aistock/by_ticker/NVDA/latest_news_items.json`
-- `data/aistock/by_ticker/NVDA/latest_payload.json`
-- `data/aistock/by_ticker/NVDA/latest_summary.json`
-
-`latest_payload.json` matches AIStock collector-style keys:
+Each item in `latest_news_items.json` follows the AIStock `NewsItem` contract:
 
 ```json
 {
-  "hard_event_news": [],
-  "soft_event_news": [...],
-  "alt_sentiment_news": [],
-  "news": [...]
+  "id":             "uuid-v5",
+  "timestamp_utc":  "2026-04-06T12:00:00+00:00",
+  "source":         "yahoo_finance",
+  "url":            "https://...",
+  "title":          "Article headline",
+  "body":           "Full text or summary snippet (nullable)",
+  "author":         null,
+  "language":       "en",
+  "ticker":         "NVDA",
+  "tickers_hint":   ["NVDA", "AMD"],
+  "source_quality": "high",
+  "publisher_raw":  "finance.yahoo.com",
+  "trust_tier":     3,
+  "body_kind":      "article_text",
+  "ingest_source":  "newscrawler_local",
+  "meta": {
+    "source_name":   "Yahoo Finance",
+    "source_domain": "finance.yahoo.com",
+    "event_origin":  "news",
+    "relevance":     0.75,
+    "_channel":      "google_broad"
+  }
 }
 ```
 
-### 4. Common SQL queries
+| Field | Values | Description |
+|-------|--------|-------------|
+| `trust_tier` | 3 / 2 / 1 / 0 | 3=TOP (WSJ/Bloomberg), 2=OK (Yahoo/SA), 1=low, 0=blocked |
+| `body_kind` | `article_text` / `summary_snippet` | Full text fetched vs RSS excerpt |
+| `ingest_source` | `newscrawler_local` | Fixed marker; AIStock scorer applies 15% discount to snippets |
+| `source_quality` | `high` / `medium` / `low` | Derived from trust_tier |
 
-Show tables:
-
-```sql
-.tables
-```
-
-Inspect schema:
-
-```sql
-.schema news
-```
-
-Count all news rows:
-
-```sql
-select count(*) from news;
-```
-
-Count rows with full text:
-
-```sql
-select count(*) from news where body is not null and trim(body) <> '';
-```
-
-View latest 20 rows:
-
-```sql
-select title, tickers, published
-from news
-order by published desc
-limit 20;
-```
-
-View latest rows for one ticker:
-
-```sql
-select title, tickers, published, url
-from news
-where tickers like '%NVDA%'
-order by published desc
-limit 20;
-```
-
-View only rows with full text:
-
-```sql
-select title, tickers, substr(body, 1, 200)
-from news
-where body is not null and trim(body) <> ''
-order by published desc
-limit 20;
-```
-
-## Project Structure
+## Quality Pipeline
 
 ```
-crawler/
-  scheduler.py          # cron-like planner + CLI entry point
-  fetcher.py            # async HTTP, rate limiting, backoff, conditional requests
-  parsers/
-    benzinga.py         # Benzinga News API JSON parser
-    rss.py              # RSS/Atom parser (PR Newswire, Business Wire, IR, ASIC)
-    html.py             # minimal HTML parser (ASX, web sources)
-  dedupe/
-    canonical.py        # URL normalisation + stable fingerprints
-    simhash.py          # near-duplicate detection (64-bit SimHash)
-  storage/
-    postgres.py         # async psycopg3 data access
-    object_store.py     # S3-compatible or local filesystem raw payload store
-  compliance/
-    robots.py           # robots.txt fetch + cache (RFC 9309)
-    policy.py           # per-source licensing + redistribution flags
-    captcha.py          # CAPTCHA detection + stop-and-escalate (NO solving)
-  alerts/
-    rules.py            # alert rule evaluation (keyword/ticker/source/topic)
-    dispatcher.py       # Slack/email/webhook dispatch
-migrations/
-  001_initial.sql       # PostgreSQL DDL (5 tables)
-tests/                  # unit + integration tests
-config/
-  sources.example.yaml  # source configuration template
+Raw RSS articles
+  → Time recency  (cutoff = now - hours)
+  → Trust filter  (blocked sources dropped)
+  → Relevance     (ticker mention density ≥ 0.15)
+  → Junk filter   (listicles, sponsored content)
+  → Weak-signal   (holdings / profile fluff)
+  → SimHash dedup (Hamming ≤ 3 = same article)
+  → Sort: trust_tier ↓  relevance ↓  newest first
+  → [optional] Full-text fetch for high-value articles
 ```
-
-## Compliance Policy
-
-- **No CAPTCHA solving.** On detection: stop the domain, log an incident, escalate to operator.
-- **No paywall bypassing.** Use licensed API feeds; not scraped logged-in pages.
-- **Full text** stored only when `store_full_text: true` in source config (API licence required).
-- **Redistribution** blocked by default (`no_redistribution` compliance flag).
-- **robots.txt** honoured per RFC 9309.
-- **API keys** stored via environment variables only; never in source code or logs.
-
-## Excluded Sources
-
-The following are **NOT** implemented here (already in `weckson/AIStock`):
-
-- Polygon (including Polygon News)
-- SEC/EDGAR
-- FINRA
-- Finnhub
-- Reddit
-- FRED
-- yfinance / Yahoo Finance
 
 ## Environment Variables
 
-| Variable | Required | Description |
-|---|---|---|
-| `BENZINGA_API_KEY` | Yes | Benzinga Cloud API key |
-| `DATABASE_URL` | Yes | PostgreSQL connection URL |
-| `OBJECT_STORE_BUCKET` | Yes | S3 bucket name or local path (e.g., `./data/raw`) |
-| `SLACK_WEBHOOK_URL` | No | Slack incoming webhook for alerts |
-| `ALERT_EMAIL` | No | Email address for regulatory alerts |
-| `METRICS_PORT` | No | Prometheus metrics port (default: 9090) |
-| `RDP_CLIENT_ID` | No | Reuters/RDP OAuth client ID (future adapter) |
+| Variable | Default | Description |
+|----------|---------|-------------|
+| `NEWSCRAWLER_DATA_DIR` | `./data` | Base data directory |
+| `NEWSCRAWLER_DB_PATH` | `{DATA_DIR}/news.db` | SQLite database path |
+| `NEWSCRAWLER_RAW_DIR` | `{DATA_DIR}/raw` | Raw RSS payloads |
+| `NEWSCRAWLER_RUNS_DIR` | `{DATA_DIR}/runs` | Per-run artifact directories |
+| `NEWSCRAWLER_AISTOCK_EXPORT_DIR` | `{DATA_DIR}/aistock` | AIStock export root |
+| `NEWSCRAWLER_TICKER_EXPORTS_DIR` | `{AISTOCK_DIR}/by_ticker` | Per-ticker exports |
+| `NEWSCRAWLER_SNAPSHOT_PATH` | *(from config)* | Override flat snapshot path |
+| `NEWSCRAWLER_BY_TICKER_DIR` | *(from config)* | Override per-ticker dir path |
 
-## Metrics (Prometheus `/metrics`)
+All relative paths resolve from the script location (`PROJECT_ROOT`), so
+`python /opt/NewsCrawler/crawl_news.py` works correctly from any working directory.
 
-| Metric | Description |
-|---|---|
-| `crawler_fetch_total` | Total HTTP fetches by source + status |
-| `crawler_fetch_latency_seconds` | Fetch latency histogram |
-| `crawler_rate_limit_total` | 429/503 rate-limit events |
-| `crawler_detection_total` | CAPTCHA/403 detection events |
-| `crawler_sources_active` | Number of enabled sources |
-| `crawler_items_ingested_total` | Items ingested per source |
-
-## Running Tests
+## Viewing Data
 
 ```bash
-pytest tests/ -v
+# Latest run artifacts
+ls data/runs/ | sort -r | head -3
+
+# Per-ticker news for NVDA
+cat data/aistock/by_ticker/NVDA/latest_news_items.json | python -m json.tool | head -60
+
+# SQLite queries
+sqlite3 data/news.db "select title, tickers, published from news order by published desc limit 20;"
+sqlite3 data/news.db "select count(*) from news where tickers like '%NVDA%';"
+sqlite3 data/news.db "select count(*) from news where body is not null and trim(body) <> '';"
 ```
 
-All 5 acceptance tests from the design doc are implemented:
-1. **Benzinga delta ingest** — `test_benzinga_parser.py`
-2. **Retry-After test** — `test_fetcher.py::test_retry_after_respected`
-3. **Conditional GET test** — `test_fetcher.py::test_conditional_get_etag`
-4. **Dedupe test** — `test_dedupe.py::test_near_duplicate_items_share_cluster`
-5. **Forbidden sources audit** — `test_compliance.py::test_no_forbidden_sources_in_config`
+## Integration with AIStock
+
+```
+crawl_news.py
+  └─ writes → data/aistock/by_ticker/{TICKER}/latest_news_items.json
+                        ↓
+  D:\AIStock\data_sources\connectors\crawler_news_source.py
+    reads per-ticker files → normalizes → trust-tier filter → stream routing
+                        ↓
+  soft_event_stream (trust_tier ≥ 2)  or  alt_sentiment (if route_low_quality_to_alt)
+                        ↓
+  Event Engine → Sentiment Engine → Orchestrator → DecisionCards
+```
+
+AIStock config keys (`config/default.json`):
+
+```json
+"crawler_news_enabled": true,
+"crawler_news_by_ticker_dir": "../NewsCrawler/data/aistock/by_ticker",
+"crawler_news_path": "../NewsCrawler/data/aistock/latest_news_items.json",
+"crawler_news_min_trust_tier": 2,
+"crawler_news_allow_article_text_override": false,
+"crawler_news_route_low_quality_to_alt": false
+```
+
+## Tests
+
+```bash
+pytest tests/ -q
+```
+
+| Test file | Coverage |
+|-----------|---------|
+| `tests/test_crawl_news_paths.py` | Path resolution, env var overrides, relative path scoping |
