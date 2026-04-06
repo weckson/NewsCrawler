@@ -1,18 +1,14 @@
-# Python
+# Python compiled
 __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
+
+# Build / packaging
 *.egg-info/
 *.egg
 dist/
 build/
-
-# Virtual environments
-.venv/
-venv/
-env/
-ENV/
 
 # IDE
 .idea/
@@ -23,9 +19,3 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
-
-# Project-specific
-data/news.db
-data/amd_news.db
-data/raw/
-data/runs/
