@@ -129,7 +129,7 @@ def configure_runtime_paths(*, data_dir: str | Path | None = None) -> dict[str, 
 configure_runtime_paths()
 DEFAULT_TICKER = "AMD"
 DEFAULT_HOURS = 48
-DEFAULT_TICKER_SET = "aistock500"
+DEFAULT_TICKER_SET = "aistock"  # reads from sibling AIStock repo; falls back to aistock500
 ARTICLE_FETCH_CONCURRENCY = 6
 ARTICLE_MAX_BODY_CHARS = 20000
 DEFAULT_FULLTEXT_MODE = "high-value"
@@ -201,11 +201,12 @@ AISTOCK200_TICKERS = [ticker for ticker in LEGACY_203_TICKERS if ticker not in {
 # Backward-compatible alias for earlier naming.
 MEGA_WATCHLIST_TICKERS = AISTOCK500_TICKERS
 
-BUILTIN_TICKER_SETS: dict[str, list[str]] = {
-    "semis20": SEMICONDUCTOR_TICKERS,
+BUILTIN_TICKER_SETS: dict[str, list[str] | None] = {
+    "aistock": None,           # dynamically loaded from sibling AIStock repo (see _load_aistock_watchlist)
+    "aistock500": AISTOCK500_TICKERS,
     "aistock200": AISTOCK200_TICKERS,
     "core200": AISTOCK200_TICKERS,
-    "aistock500": AISTOCK500_TICKERS,
+    "semis20": SEMICONDUCTOR_TICKERS,
     "mega_watchlist": AISTOCK500_TICKERS,
 }
 
@@ -652,8 +653,37 @@ def is_weak_signal(title: str, source_domain: str) -> bool:
     return False
 
 
+def _load_aistock_watchlist() -> list[str]:
+    """Load the ticker watchlist from the sibling AIStock repo's config/default.json.
+
+    Returns the same list that AIStock uses so crawls stay in sync.
+    Falls back to an empty list if the repo or config is not found.
+    """
+    aistock_config = PROJECT_ROOT.parent / "AIStock" / "config" / "default.json"
+    if not aistock_config.exists():
+        log.warning("aistock_watchlist_not_found", path=str(aistock_config))
+        return []
+    try:
+        data = json.loads(aistock_config.read_text(encoding="utf-8"))
+        raw = [t for t in data.get("watchlist", []) if isinstance(t, str) and t.strip() and not t.startswith("_")]
+        tickers = list(dict.fromkeys(raw))  # dedup, preserve order
+        max_t = int(data.get("max_tickers", 500))
+        result = tickers[:max_t]
+        log.info("aistock_watchlist_loaded", path=str(aistock_config), count=len(result))
+        return result
+    except Exception as exc:
+        log.warning("aistock_watchlist_load_error", error=str(exc))
+        return []
+
+
 def parse_tickers(value: str | None, preset: str | None = None) -> list[str]:
     if preset:
+        if preset == "aistock":
+            tickers = _load_aistock_watchlist()
+            if tickers:
+                return tickers
+            log.warning("aistock_watchlist_unavailable", fallback="aistock500")
+            return AISTOCK500_TICKERS[:]
         preset_tickers = BUILTIN_TICKER_SETS.get(preset)
         if preset_tickers:
             return preset_tickers[:]
@@ -1753,7 +1783,11 @@ async def main():
         "--ticker-set",
         choices=tuple(BUILTIN_TICKER_SETS),
         default=None,
-        help=f"Built-in watchlist preset ({', '.join(BUILTIN_TICKER_SETS)}). Default run uses {DEFAULT_TICKER_SET}.",
+        help=(
+            "Watchlist preset. 'aistock' (default) reads the live watchlist from the sibling "
+            "AIStock repo (config/default.json) so crawl tickers always match AIStock exactly. "
+            f"Other options: {', '.join(k for k in BUILTIN_TICKER_SETS if k != 'aistock')}."
+        ),
     )
     parser.add_argument("--hours", type=int, default=DEFAULT_HOURS, help="Look-back hours (default: 48)")
     parser.add_argument(
