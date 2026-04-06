@@ -33,6 +33,7 @@ import os
 import re
 import sqlite3
 import struct
+import sys
 import uuid
 from collections import defaultdict
 from contextlib import redirect_stdout
@@ -49,7 +50,7 @@ import structlog
 structlog.configure(
     processors=[
         structlog.stdlib.add_log_level,
-        structlog.processors.TimeStamper(fmt="iso"),
+        structlog.processors.TimeStamper(fmt="%H:%M:%S"),
         structlog.dev.ConsoleRenderer(),
     ],
     wrapper_class=structlog.stdlib.BoundLogger,
@@ -57,6 +58,14 @@ structlog.configure(
 )
 log = structlog.get_logger(__name__)
 _RUN_FILE_HANDLER: logging.Handler | None = None
+
+# Route all log output to stderr so that JSON stdout output stays clean
+# for piping / redirection. This handler is set up once at module load.
+_stderr_handler = logging.StreamHandler(sys.stderr)
+_stderr_handler.setLevel(logging.DEBUG)
+_stderr_handler.setFormatter(logging.Formatter("%(message)s"))
+logging.getLogger().addHandler(_stderr_handler)
+logging.getLogger().setLevel(logging.INFO)
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
@@ -707,6 +716,13 @@ def teardown_run_logging() -> None:
 
 def write_json(path: Path, data) -> None:
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2, default=_json_default), encoding="utf-8")
+
+
+def _progress(msg: str, **kw) -> None:
+    """Print a human-readable progress line to stderr (separate from JSON stdout)."""
+    ts = datetime.now().strftime("%H:%M:%S")
+    extras = "  " + "  ".join(f"{k}={v}" for k, v in kw.items()) if kw else ""
+    print(f"[{ts}] {msg}{extras}", file=sys.stderr, flush=True)
 
 
 def _canonical_news_source(article: dict) -> tuple[str, str]:
@@ -1408,24 +1424,29 @@ async def crawl(
     all_raw: list[dict] = []
     channel_stats: dict[str, int] = defaultdict(int)
 
+    _progress(f"▶ [{ticker}] fetching {len(sources)} channel(s)")
     connector = aiohttp.TCPConnector(limit=5, ttl_dns_cache=300)
     async with aiohttp.ClientSession(connector=connector) as session:
-        for source in sources:
+        for i, source in enumerate(sources, 1):
             tag = source["tag"]
             log.info("crawling", channel=source["name"], tag=tag)
             for url in source["urls"]:
                 await asyncio.sleep(2)  # polite delay
                 body = await fetch_url(session, url)
                 if body is None:
+                    _progress(f"  [{ticker}] {i}/{len(sources)} {source['name']} — no response")
                     continue
                 save_raw(body, tag)
                 articles = parse_rss(body, tag, ticker)
                 channel_stats[tag] += len(articles)
                 all_raw.extend(articles)
+                _progress(f"  [{ticker}] {i}/{len(sources)} {source['name']}", raw=len(articles))
                 log.info("parsed", channel=tag, raw=len(articles))
 
     # Quality pipeline
+    _progress(f"  [{ticker}] quality filter", raw=len(all_raw))
     filtered = quality_filter(all_raw, ticker, hours)
+    _progress(f"  [{ticker}] quality filter done", passed=len(filtered))
 
     # Count Benzinga articles
     bz_count = sum(1 for a in filtered if "benzinga" in a.get("_source_domain", ""))
@@ -1435,6 +1456,7 @@ async def crawl(
         for a in filtered:
             if save_article(conn, a):
                 new_count += 1
+        _progress(f"  [{ticker}] saved to DB", new=new_count, total=len(filtered))
 
     fulltext_candidates = select_articles_for_fulltext(
         filtered,
@@ -1449,6 +1471,7 @@ async def crawl(
         filtered=len(filtered),
     )
     if fulltext_candidates:
+        _progress(f"  [{ticker}] fetching full text", articles=len(fulltext_candidates))
         await enrich_articles_with_bodies(fulltext_candidates)
         filtered = merge_articles_by_url(filtered)
         if save_results:
@@ -1504,7 +1527,8 @@ async def crawl_watchlist(
     per_ticker_stats: dict[str, int] = {}
     total_new_count = 0
 
-    for ticker in tickers:
+    for idx, ticker in enumerate(tickers, 1):
+        _progress(f"── ticker {idx}/{len(tickers)}: {ticker}")
         filtered, raw, stats, _, _ = await crawl(
             ticker,
             hours,
@@ -1519,11 +1543,13 @@ async def crawl_watchlist(
         for channel, count in stats.items():
             channel_stats[channel] += count
 
+    _progress(f"── merging & dedup across {len(tickers)} tickers", total_raw=len(all_filtered))
     merged_articles = merge_articles_by_url(all_filtered)
     bz_count = sum(1 for article in merged_articles if "benzinga" in article.get("_source_domain", ""))
     for article in merged_articles:
         if save_article(conn, article):
             total_new_count += 1
+    _progress(f"── saved to DB", new=total_new_count, merged=len(merged_articles))
     conn.close()
     return merged_articles, all_raw, channel_stats, total_new_count, bz_count, per_ticker_stats
 
@@ -1556,28 +1582,34 @@ def _to_timestamp_utc(value: str | None) -> str:
 
 
 def to_news_item(article: dict) -> dict:
+    """Build an AIStock-compatible news item from a raw crawled article.
+
+    Top-level schema (matches AIStock shared/models.py NewsItem):
+      id, timestamp_utc, source, url, title, body, author, language,
+      ticker (primary), tickers_hint (all), source_quality, publisher_raw,
+      trust_tier, body_kind, ingest_source
+    meta contains supplementary info (source_name, source_domain, relevance,
+      event_origin) plus internal crawl fields prefixed with "_".
+    """
     summary = article.get("summary") or None
     body = article.get("body") or summary
     tickers = sorted(set(article.get("_tickers") or ([article.get("_ticker")] if article.get("_ticker") else [])))
     source, publisher_raw = _canonical_news_source(article)
     source_quality = _source_quality(article)
     primary_ticker = tickers[0] if tickers else None
+    trust_tier = article.get("_trust")
+    body_kind = ("article_text" if article.get("body") else "summary_snippet") if body else None
 
-    meta = {
-        "channel": article.get("_channel"),
+    meta: dict = {
         "source_name": article.get("_source_name"),
         "source_domain": article.get("_source_domain"),
-        "trust_tier": article.get("_trust"),
-        "relevance": article.get("_relevance"),
         "event_origin": "news",
+        "relevance": article.get("_relevance"),
+        "_channel": article.get("_channel"),
     }
-    if tickers:
-        meta["query_tickers"] = tickers
     alt_sources = article.get("_alt_sources") or []
     if alt_sources:
-        meta["alt_sources"] = alt_sources
-    if body:
-        meta["body_kind"] = "article_text" if article.get("body") else "summary_snippet"
+        meta["_alt_sources"] = alt_sources
 
     return {
         "id": article.get("id") or str(uuid.uuid5(uuid.NAMESPACE_URL, article.get("url") or article.get("title", ""))),
@@ -1592,8 +1624,10 @@ def to_news_item(article: dict) -> dict:
         "tickers_hint": tickers,
         "source_quality": source_quality,
         "publisher_raw": publisher_raw,
+        "trust_tier": trust_tier,
+        "body_kind": body_kind,
+        "ingest_source": "newscrawler_local",
         "meta": {k: v for k, v in meta.items() if v is not None},
-        "stream_type": "soft",
     }
 
 
@@ -1761,6 +1795,13 @@ async def main():
 
     run_dir = make_run_dir(f"{'_'.join(tickers[:3])}_{len(tickers)}")
     log_path = setup_run_logging(run_dir)
+
+    _progress("=" * 60)
+    _progress(f"NewsCrawler  tickers={len(tickers)}  hours={hours}h  fulltext={args.fulltext_mode}")
+    _progress(f"data_dir  = {runtime_paths['DATA_DIR']}")
+    _progress(f"run_dir   = {run_dir}")
+    _progress(f"log       = {log_path}")
+    _progress("=" * 60)
     log.info("run_start", run_dir=str(run_dir), data_dir=str(runtime_paths["DATA_DIR"]), tickers=tickers, hours=hours)
 
     if len(tickers) == 1:
@@ -1813,6 +1854,20 @@ async def main():
         filtered=len(articles),
         news_items=len(news_items),
     )
+
+    # ── Summary banner ──────────────────────────────────────────────────────
+    trust_counts: dict[str, int] = {}
+    for a in articles:
+        label = TRUST_LABEL.get(a.get("_trust", 1), "???")
+        trust_counts[label] = trust_counts.get(label, 0) + 1
+    trust_str = "  ".join(f"{k}:{v}" for k, v in sorted(trust_counts.items()))
+    _progress("=" * 60)
+    _progress(f"DONE  {run_label}")
+    _progress(f"  raw={len(raw)}  filtered={len(articles)}  news_items={len(news_items)}  new_to_db={new_count}")
+    _progress(f"  trust  {trust_str}")
+    _progress(f"  bz={bz_count}  log={log_path}")
+    _progress("=" * 60)
+
     if args.output == "pretty":
         print(f"\n[*] Crawling {run_label} news — quality-filtered, no API key\n")
         print(report_text, end="")
