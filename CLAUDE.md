@@ -1,48 +1,96 @@
 # NewsCrawler — Financial News Ingestion System
 
-Quality-filtered financial news crawler producing AIStock-compatible exports.
-No Benzinga API key required. Sources: Benzinga RSS, Google News RSS, company IR feeds.
+Quality-filtered financial news crawler producing AIStock-compatible per-ticker exports.
+No API key required. Sources: Benzinga RSS, Google News RSS, company IR feeds.
+Single-file design — everything lives in `crawl_news.py`.
 
 ## Quick Start
 
 ```bash
-# Default run: aistock500 watchlist (500 tickers), last 48h
+# Default: reads AIStock watchlist live, last 48h
 python crawl_news.py
+
+# 200-ticker preset
+python crawl_news.py --ticker-set aistock200
 
 # Single ticker
 python crawl_news.py --ticker NVDA
 
-# Custom tickers
+# Custom list
 python crawl_news.py --tickers NVDA,AMD,MSFT --hours 24
 
-# Built-in presets: semis20 | aistock200 | aistock500
-python crawl_news.py --ticker-set semis20
-
-# Custom data directory (for Linux deployment)
-python crawl_news.py --data-dir /var/lib/newscrawler
-
-# Human-readable output
+# Human-readable terminal report
 python crawl_news.py --ticker NVDA --output pretty
+
+# Custom data root (Linux/cron)
+python crawl_news.py --data-dir /var/lib/newscrawler
 
 # Tests
 pytest tests/ -q
 ```
 
-## Output & Data Contract with AIStock
+## Ticker Presets
 
-### Primary exports (read by D:\AIStock)
+| Preset | Source | Count |
+|--------|--------|-------|
+| `aistock` **(default)** | Reads `D:\AIStock\config\default.json` at runtime | matches AIStock exactly |
+| `aistock500` | Hardcoded fallback (used if AIStock repo not found) | 500 |
+| `aistock200` | Legacy core watchlist | ~200 |
+| `semis20` | Semiconductor focus | 20 |
 
-| Path | Description |
-|------|-------------|
-| `data/aistock/latest_news_items.json` | Flat list of all NewsItems from last run |
-| `data/aistock/latest_articles.json` | Raw filtered articles |
-| `data/aistock/latest_payload.json` | Envelope with metadata |
-| `data/aistock/by_ticker/{TICKER}/latest_news_items.json` | Per-ticker split |
+`_load_aistock_watchlist()` reads `PROJECT_ROOT/../AIStock/config/default.json` — `watchlist` array
+filtered by `max_tickers`. Falls back to `aistock500` if file not found.
 
-AIStock reads `data/aistock/latest_news_items.json` via `crawler_news_source.py`.
-Config key in AIStock: `"crawler_news_path": "../NewsCrawler/data/aistock/latest_news_items.json"`.
+## CLI Flags
 
-### NewsItem schema (top-level fields)
+```
+--ticker NVDA                   Single ticker
+--tickers NVDA,AMD,MSFT         Comma-separated list
+--ticker-set aistock200         Preset (aistock | aistock500 | aistock200 | semis20)
+--hours 48                      Look-back window (default: 48)
+--fulltext-mode high-value      off | high-value | all (default: high-value)
+--fulltext-max-articles 8       Per-ticker full-text cap (default: 8)
+--output newsitem-json          newsitem-json (default, stdout) | pretty (stderr report)
+--data-dir /path/to/data        Override base data directory
+```
+
+## Data Contract with AIStock
+
+### How AIStock reads news
+
+**Primary (per-ticker mode):**
+```
+data/aistock/by_ticker/{TICKER}/latest_news_items.json
+```
+AIStock reads each requested ticker's file individually via `_fetch_by_ticker_dir()`.
+Config key: `"crawler_news_by_ticker_dir": "../NewsCrawler/data/aistock/by_ticker"`.
+
+**Fallback (flat mode):**
+```
+data/aistock/latest_news_items.json
+```
+Used when `crawler_news_by_ticker_dir` is not configured or the directory is missing.
+Config key: `"crawler_news_path": "../NewsCrawler/data/aistock/latest_news_items.json"`.
+
+### Full export layout
+
+```
+data/aistock/
+  latest_news_items.json         All tickers flat list
+  latest_payload.json            AIStock payload envelope
+  by_ticker/
+    NVDA/
+      latest_news_items.json     ← primary read target for AIStock
+      latest_articles.json
+      latest_payload.json
+      latest_summary.json
+    AMD/
+      ...
+```
+
+### NewsItem schema
+
+Top-level fields (match `shared/models.py NewsItem` in AIStock):
 
 ```json
 {
@@ -71,38 +119,30 @@ Config key in AIStock: `"crawler_news_path": "../NewsCrawler/data/aistock/latest
 }
 ```
 
-**Key fields for AIStock:**
-- `trust_tier` — `3`=top (WSJ/Bloomberg/Reuters), `2`=ok (Yahoo/Seeking Alpha), `1`=low, `0`=blocked
-- `body_kind` — `"article_text"` (full body fetched) or `"summary_snippet"` (RSS excerpt only)
-- `ingest_source` — always `"newscrawler_local"` — used by AIStock scorer for 15% discount on snippets
-- `tickers_hint` — all tickers the article is relevant to; used for routing in AIStock event engine
-- `source_quality` — `"high"` / `"medium"` / `"low"` (derived from trust_tier)
+| Field | Values | Notes |
+|-------|--------|-------|
+| `trust_tier` | 3/2/1/0 | 3=TOP (WSJ/Bloomberg), 2=OK (Yahoo/SA), 1=low, 0=blocked |
+| `body_kind` | `article_text` / `summary_snippet` | Snippets get 15% scorer discount in AIStock |
+| `ingest_source` | `newscrawler_local` | Fixed; used by AIStock validator and scorer |
+| `tickers_hint` | list[str] | All relevant tickers; drives routing + entity linking |
+| `source_quality` | `high`/`medium`/`low` | Derived from trust_tier |
 
-AIStock filters: items with `trust_tier < 2` AND `source_quality == "low"` are dropped
-(configurable via `crawler_news_min_trust_tier` in AIStock `config/default.json`).
+AIStock drops items where `trust_tier < min_trust_tier` (default 2) AND `source_quality == "low"`.
 
-## Quality Pipeline
+## Key Functions
 
-```
-Raw RSS articles
-  → Time recency (cutoff = now - hours)
-  → Trust tier filter (blocked sources dropped)
-  → Relevance score (ticker mention density, ≥0.15 pass)
-  → Junk title filter
-  → Weak-signal filter (holdings/profile content)
-  → SimHash near-dedup (Hamming distance ≤ 3 = same article)
-  → Sort: trust_tier desc → relevance desc → newest first
-  → [optional] Full-text fetch for high-value articles
-```
-
-## Trust Tier Reference
-
-| Tier | Label | Examples |
-|------|-------|---------|
-| 3 | TOP | WSJ, Bloomberg, Reuters, CNBC, FT |
-| 2 | OK  | Yahoo Finance, Seeking Alpha, Barron's, MarketWatch |
-| 1 | low | Unknown/generic sources |
-| 0 | BLK | Spam/blocked domains |
+| Function | Location | Purpose |
+|----------|----------|---------|
+| `_load_aistock_watchlist()` | line ~655 | Read ticker list from AIStock config |
+| `parse_tickers()` | line ~676 | Resolve preset / comma-list / default |
+| `build_runtime_paths()` | line ~73 | Resolve all data paths from env/args |
+| `configure_runtime_paths()` | line ~114 | Apply resolved paths to module globals |
+| `crawl()` | line ~1410 | Fetch + filter single ticker |
+| `crawl_watchlist()` | line ~1510 | Loop tickers, merge, save |
+| `quality_filter()` | line ~924 | Full quality pipeline |
+| `to_news_item()` | line ~1570 | Raw article → AIStock NewsItem |
+| `export_articles_by_ticker()` | line ~773 | Write stable per-ticker files |
+| `persist_run_artifacts()` | line ~838 | Write run dir + stable exports |
 
 ## Environment Variables
 
@@ -113,49 +153,42 @@ Raw RSS articles
 | `NEWSCRAWLER_RAW_DIR` | `{DATA_DIR}/raw` | Raw RSS payloads |
 | `NEWSCRAWLER_RUNS_DIR` | `{DATA_DIR}/runs` | Per-run artifact directories |
 | `NEWSCRAWLER_AISTOCK_EXPORT_DIR` | `{DATA_DIR}/aistock` | AIStock export root |
-| `NEWSCRAWLER_TICKER_EXPORTS_DIR` | `{AISTOCK_DIR}/by_ticker` | Per-ticker exports |
+| `NEWSCRAWLER_TICKER_EXPORTS_DIR` | `{AISTOCK_DIR}/by_ticker` | Per-ticker export dir |
+| `NEWSCRAWLER_SNAPSHOT_PATH` | *(config)* | Override flat snapshot path |
+| `NEWSCRAWLER_BY_TICKER_DIR` | *(config)* | Override per-ticker dir path |
 
-All paths resolve relative to the script location (`PROJECT_ROOT`) when given as relative paths.
-This means `python /opt/NewsCrawler/crawl_news.py` works correctly from Linux cron/systemd.
+All relative paths resolve from `PROJECT_ROOT` (script location).
+`python /opt/NewsCrawler/crawl_news.py` works correctly from any cwd.
 
-## CLI Flags
+## Terminal Output
 
-```
---ticker NVDA                  Single ticker
---tickers NVDA,AMD,MSFT        Comma-separated list
---ticker-set aistock500        Built-in preset (semis20 | aistock200 | aistock500)
---hours 48                     Look-back window in hours (default: 48)
---fulltext-mode high-value     off | high-value | all (default: high-value)
---fulltext-max-articles 8      Per-ticker cap for full-text fetch
---output newsitem-json         newsitem-json (default) | pretty
---data-dir /path/to/data       Override base data directory
-```
-
-## Run Artifacts
-
-Each run creates `data/runs/{timestamp}_{label}/`:
-- `run.log` — structured log of the full run
-- `summary.json` — metadata (tickers, counts, timing)
-
-## Files
+Logs go to **stderr**; JSON output goes to **stdout** (safe to pipe).
 
 ```
-crawl_news.py              Main crawler (single-file, no submodules)
-tests/
-  test_crawl_news_paths.py Path resolution unit tests
-data/
-  news.db                  SQLite article store
-  aistock/                 AIStock export (consumed by D:\AIStock)
-  raw/                     Raw RSS XML payloads (debug)
-  runs/                    Per-run artifacts
+[12:00:01] ============================================================
+[12:00:01] NewsCrawler  tickers=500  hours=48h  fulltext=high-value
+[12:00:01] data_dir  = D:\NewsCrawler\data
+[12:00:01] run_dir   = D:\NewsCrawler\data\runs\20260406T120001Z_nvda_3_500
+[12:00:02] ── ticker 1/500: NVDA
+[12:00:02]   [NVDA] fetching 3 channel(s)
+[12:00:04]   [NVDA] 1/3 Benzinga RSS  raw=12
+[12:00:06]   [NVDA] 2/3 Google→BZ    raw=47
+[12:00:08]   [NVDA] 3/3 Google broad  raw=23
+[12:00:08]   [NVDA] quality filter  raw=82
+[12:00:08]   [NVDA] quality filter done  passed=14
+[12:00:08]   [NVDA] saved to DB  new=3  total=14
+...
+[12:05:00] DONE  500-ticker watchlist
+[12:05:00]   raw=12400  filtered=2800  news_items=2800  new_to_db=340
+[12:05:00]   trust  BLK:12  OK:1800  TOP:900  low:88
 ```
 
 ## Architecture Notes
 
-- **Single-file design**: everything in `crawl_news.py` — no submodules.
-- **No API key**: uses public RSS feeds only (Benzinga RSS, Google News RSS).
-- **No JS rendering**: avoids Cloudflare-blocked HTML scraping.
-- **Polite crawling**: 2s delay between requests, conditional GET headers.
-- **SQLite dedup**: articles stored with URL as key; re-runs skip already-saved items.
-- **Async I/O**: `aiohttp` for concurrent fetching, `asyncio` event loop.
-- **Logs to stderr**: structured logs go to stderr; stdout is pure JSON for piping.
+- **Single-file**: all logic in `crawl_news.py`, no submodules
+- **No API key**: public RSS only — Benzinga RSS, Google News RSS
+- **No JS rendering**: RSS feeds bypass Cloudflare challenge
+- **Polite crawling**: 2s delay between requests
+- **SQLite dedup**: articles keyed by URL; re-runs are fast
+- **Async I/O**: `aiohttp` + `asyncio`
+- **Structured logging**: `structlog` → stderr; stdout = pure JSON
