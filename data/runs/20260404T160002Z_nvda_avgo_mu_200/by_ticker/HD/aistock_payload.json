@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "13be707e-0169-51bb-ad58-bc91dcb3700a",
+      "timestamp_utc": "2026-04-02T21:45:06+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcFk5WW5mRmRsTlFxU2U4SFJvQ1BLOG1CR1lpTWlnOWd0YnNDN01uYlpWamR6SkNtbnF6RHJ4YnlHQVdkOTFMaWdzNng1Rm11RndsTlh2MXZpeDVqb3VFQmZxN0xEVWExemdrYzJVR1NzclIycTgyZ1VDVEVDTndNNEVWNVI1SHdzMVpSU3hoTFJ2UDZj?oc=5",
+      "title": "Home Depot (HD) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+      "body": "Home Depot (HD) Stock Sinks As Market Gains: Here's Why Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "HD",
+      "tickers_hint": [
+        "HD"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0808508e-8543-5729-a74d-74a68d3e13e9",
+      "timestamp_utc": "2026-04-04T08:26:49+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-home-depot-inc-hd-stock-holdings-lessened-by-beaumont-financial-advisors-llc-2026-04-04/",
+      "title": "The Home Depot, Inc. $HD Stock Holdings Lessened by Beaumont Financial Advisors LLC - MarketBeat",
+      "body": "The Home Depot, Inc. $HD Stock Holdings Lessened by Beaumont Financial Advisors LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "HD",
+      "tickers_hint": [
+        "HD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "13be707e-0169-51bb-ad58-bc91dcb3700a",
+      "timestamp_utc": "2026-04-02T21:45:06+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcFk5WW5mRmRsTlFxU2U4SFJvQ1BLOG1CR1lpTWlnOWd0YnNDN01uYlpWamR6SkNtbnF6RHJ4YnlHQVdkOTFMaWdzNng1Rm11RndsTlh2MXZpeDVqb3VFQmZxN0xEVWExemdrYzJVR1NzclIycTgyZ1VDVEVDTndNNEVWNVI1SHdzMVpSU3hoTFJ2UDZj?oc=5",
+      "title": "Home Depot (HD) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+      "body": "Home Depot (HD) Stock Sinks As Market Gains: Here's Why Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "HD",
+      "tickers_hint": [
+        "HD"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "HD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0808508e-8543-5729-a74d-74a68d3e13e9",
+      "timestamp_utc": "2026-04-04T08:26:49+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-home-depot-inc-hd-stock-holdings-lessened-by-beaumont-financial-advisors-llc-2026-04-04/",
+      "title": "The Home Depot, Inc. $HD Stock Holdings Lessened by Beaumont Financial Advisors LLC - MarketBeat",
+      "body": "The Home Depot, Inc. $HD Stock Holdings Lessened by Beaumont Financial Advisors LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "HD",
+      "tickers_hint": [
+        "HD"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "HD"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

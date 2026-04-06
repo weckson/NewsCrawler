@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "daa49740-0642-5f58-9ea3-3096db4c7c38",
+      "timestamp_utc": "2026-04-03T20:32:50+00:00",
+      "source": "stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSEhNTmtCLUVIZGlWTGdFQ2ZZV0FFa2hfaGV1Vkc1R3QwS3Z0RVZYUVpUb2NuNlZFZ3hMeTBPWk9tVWt1M19rbTdYN0hBZUY3M2tIVnVxRzFvNDJHVUpBVkhnZ0FhWW5yMmVhT0FVRkxldUNwUGRETjRoMkd3R19MM1NlSnM3WmVTS2xnZTIyaElLVUlJZW1CNEdtT082WlBHR1lzSldER1YwelhPRDdBWEg2R3Q?oc=5",
+      "title": "Director Krishnan Ramkumar takes Tractor Supply (TSCO) fees in stock - stocktitan.net",
+      "body": "Director Krishnan Ramkumar takes Tractor Supply (TSCO) fees in stock stocktitan.net",
+      "author": null,
+      "language": "en",
+      "ticker": "TSCO",
+      "tickers_hint": [
+        "TSCO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktitan.net",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "stocktitan.net",
+        "source_domain": "stocktitannet.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSCO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "daa49740-0642-5f58-9ea3-3096db4c7c38",
+      "timestamp_utc": "2026-04-03T20:32:50+00:00",
+      "source": "stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSEhNTmtCLUVIZGlWTGdFQ2ZZV0FFa2hfaGV1Vkc1R3QwS3Z0RVZYUVpUb2NuNlZFZ3hMeTBPWk9tVWt1M19rbTdYN0hBZUY3M2tIVnVxRzFvNDJHVUpBVkhnZ0FhWW5yMmVhT0FVRkxldUNwUGRETjRoMkd3R19MM1NlSnM3WmVTS2xnZTIyaElLVUlJZW1CNEdtT082WlBHR1lzSldER1YwelhPRDdBWEg2R3Q?oc=5",
+      "title": "Director Krishnan Ramkumar takes Tractor Supply (TSCO) fees in stock - stocktitan.net",
+      "body": "Director Krishnan Ramkumar takes Tractor Supply (TSCO) fees in stock stocktitan.net",
+      "author": null,
+      "language": "en",
+      "ticker": "TSCO",
+      "tickers_hint": [
+        "TSCO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktitan.net",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "stocktitan.net",
+        "source_domain": "stocktitannet.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TSCO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

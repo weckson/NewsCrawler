@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "e4f881ab-7442-5459-aa4d-e3b9f5e38af0",
-      "timestamp_utc": "2026-04-01T12:28:43+00:00",
-      "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8765865/wmb-scotiabank-maintains-rating-raises-price-target-to-85-wmb-stock-news",
-      "title": "WMB: Scotiabank Maintains Rating, Raises Price Target to $85 | W - GuruFocus",
-      "body": "WMB: Scotiabank Maintains Rating, Raises Price Target to $85 | W GuruFocus",
+      "id": "16b674c5-746d-5b6d-ad57-be914e4c33c6",
+      "timestamp_utc": "2026-04-03T20:53:26+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFYTRVelgwa2ZQQ1NhLTZZS3ZnbEl1VklRV01hVXFqQ3JzSnJRaWRoNS1sX3NLM25FUjVzanRoTHRWcGdCSjNNLUV5djkyU1d1Z3VtNWZEbzNBX293WHY2VWdoeEk?oc=5",
+      "title": "WMB Apr 2026 86.000 call (WMB260417C00086000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "WMB Apr 2026 86.000 call (WMB260417C00086000) Stock Price, News, Quote & History Yahoo! Finance Canada",
       "author": null,
       "language": "en",
       "ticker": "WMB",
@@ -15,42 +15,13 @@
         "WMB"
       ],
       "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
+      "publisher_raw": "yahoo! finance canada",
       "meta": {
         "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
         "trust_tier": 1,
-        "relevance": 0.6,
-        "event_origin": "news",
-        "query_tickers": [
-          "WMB"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "2415a7e5-2656-57b9-b9cd-aaee1f2d79c9",
-      "timestamp_utc": "2026-04-01T10:15:11+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/williams-companies-nysewmb-stock-price-expected-to-rise-scotiabank-analyst-says-2026-04-01/",
-      "title": "Williams Companies (NYSE:WMB) Stock Price Expected to Rise, Scotiabank Analyst Says - MarketBeat",
-      "body": "Williams Companies (NYSE:WMB) Stock Price Expected to Rise, Scotiabank Analyst Says MarketBeat",
-      "author": null,
-      "language": "en",
-      "ticker": "WMB",
-      "tickers_hint": [
-        "WMB"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6,
+        "relevance": 0.5,
         "event_origin": "news",
         "query_tickers": [
           "WMB"
@@ -63,12 +34,12 @@
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "e4f881ab-7442-5459-aa4d-e3b9f5e38af0",
-      "timestamp_utc": "2026-04-01T12:28:43+00:00",
-      "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8765865/wmb-scotiabank-maintains-rating-raises-price-target-to-85-wmb-stock-news",
-      "title": "WMB: Scotiabank Maintains Rating, Raises Price Target to $85 | W - GuruFocus",
-      "body": "WMB: Scotiabank Maintains Rating, Raises Price Target to $85 | W GuruFocus",
+      "id": "16b674c5-746d-5b6d-ad57-be914e4c33c6",
+      "timestamp_utc": "2026-04-03T20:53:26+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFYTRVelgwa2ZQQ1NhLTZZS3ZnbEl1VklRV01hVXFqQ3JzSnJRaWRoNS1sX3NLM25FUjVzanRoTHRWcGdCSjNNLUV5djkyU1d1Z3VtNWZEbzNBX293WHY2VWdoeEk?oc=5",
+      "title": "WMB Apr 2026 86.000 call (WMB260417C00086000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "WMB Apr 2026 86.000 call (WMB260417C00086000) Stock Price, News, Quote & History Yahoo! Finance Canada",
       "author": null,
       "language": "en",
       "ticker": "WMB",
@@ -76,42 +47,13 @@
         "WMB"
       ],
       "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
+      "publisher_raw": "yahoo! finance canada",
       "meta": {
         "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
         "trust_tier": 1,
-        "relevance": 0.6,
-        "event_origin": "news",
-        "query_tickers": [
-          "WMB"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "2415a7e5-2656-57b9-b9cd-aaee1f2d79c9",
-      "timestamp_utc": "2026-04-01T10:15:11+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/williams-companies-nysewmb-stock-price-expected-to-rise-scotiabank-analyst-says-2026-04-01/",
-      "title": "Williams Companies (NYSE:WMB) Stock Price Expected to Rise, Scotiabank Analyst Says - MarketBeat",
-      "body": "Williams Companies (NYSE:WMB) Stock Price Expected to Rise, Scotiabank Analyst Says MarketBeat",
-      "author": null,
-      "language": "en",
-      "ticker": "WMB",
-      "tickers_hint": [
-        "WMB"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6,
+        "relevance": 0.5,
         "event_origin": "news",
         "query_tickers": [
           "WMB"

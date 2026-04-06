@@ -1,24 +1,82 @@
 [
   {
-    "id": "8a7eb9ac-3709-5aab-bb3d-c81face10614",
-    "timestamp_utc": "2026-04-01T05:32:37+00:00",
-    "source": "insider_monkey",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNkZkVmV1VURjenJmVUZxQlRKdzU0X05xZUlBMlpvbE8xbFllZmpGcVR0M1FIMjVNa2dURDRGRVpjSHNlRW9rekZZQ1ZFcWJmcVd4ME14XzJwX0xWcjItXzdvVXhGQnQ0ZU5vbU9zTFVKaFRWZl91dnFVcUZnWUEwRnRRWEdVemNfVUNpSmpqQVVvbTVaOVRIZmdJU1J6UDFmc192OHRRdW5FUnh2OTZ2dGh3anpuZ0pLMk9Ybkh0TkZjak9lU3fSAcYBQVVfeXFMTzZGZFZldVVEY3pyZlVGcUJUSnc1NF9OcWVJQTJab2xPMWxZZWZqRnFUdDNRSDI1TWtnVEQ0RkVaY0hzZUVva3pGWUNWRXFiZnFXeDBNeF8ycF9MVnIyLV83b1V4RkJ0NGVOb21Pc0xVSmhUVmZfdXZxVXFGZ1lBMEZ0UVhHVXpjX1VDaUpqakFVb201WjlUSGZnSVNSelAxZnNfdjh0UXVuRVJ4djk2dnRod2p6bmdKSzJPWG5IdE5GY2pPZVN3?oc=5",
-    "title": "Las Vegas Sands Corp. (LVS): Billionaire Paul Tudor Jones More Than Doubles Stake - Insider Monkey",
-    "body": "Las Vegas Sands Corp. (LVS): Billionaire Paul Tudor Jones More Than Doubles Stake Insider Monkey",
+    "id": "91250e74-913f-5871-b40e-bf8ef1e52c27",
+    "timestamp_utc": "2026-04-03T16:10:03+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/las-vegas-sands-lvs-beat-161003579.html",
+    "title": "Will Las Vegas Sands (LVS) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
+    "body": "Will Las Vegas Sands (LVS) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance",
     "author": null,
     "language": "en",
     "ticker": "LVS",
     "tickers_hint": [
       "LVS"
     ],
-    "source_quality": "medium",
-    "publisher_raw": "insidermonkey.com",
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
     "meta": {
       "channel": "google_broad",
-      "source_name": "Insider Monkey",
-      "source_domain": "insidermonkey.com",
-      "trust_tier": 2,
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "LVS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "19b50e85-cc53-5611-95ed-1996d6bf3c74",
+    "timestamp_utc": "2026-04-04T01:40:11+00:00",
+    "source": "yahoo_finance_singapore",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jMFFvMU9GM19sbnpTRllVYVdNNHEtdkswdW04ZkxNLUVHbU5zb3ZQNWcxYzZtTjJzN09GTFFQbnM5NGt5cWdFMG5sdkZ5YVlRa0czLU56Z3RIc2hYV2JoQ2g4Ul8?oc=5",
+    "title": "LVS Apr 2026 69.000 put (LVS260410P00069000) stock price, news, quote and history - Yahoo Finance Singapore",
+    "body": "LVS Apr 2026 69.000 put (LVS260410P00069000) stock price, news, quote and history Yahoo Finance Singapore",
+    "author": null,
+    "language": "en",
+    "ticker": "LVS",
+    "tickers_hint": [
+      "LVS"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo finance singapore",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance Singapore",
+      "source_domain": "yahoofinancesingapore.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "LVS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "472303ea-2926-5750-819f-b6d5ff2c6c13",
+    "timestamp_utc": "2026-04-03T21:40:37+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzbmNPWlM1MU5XUDVDcThqVVpmZmZMSThuX1FUbHVCbl9MSXhiaEhwc3VpZS1Kbm9lR1c3akhYTUtUdzVGc2hfQjRwZnM2Vkljc3QybHoxdmhOVndnYjNQam1VOHI?oc=5",
+    "title": "LVS Mar 2027 62.500 call (LVS270319C00062500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "body": "LVS Mar 2027 62.500 call (LVS270319C00062500) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "author": null,
+    "language": "en",
+    "ticker": "LVS",
+    "tickers_hint": [
+      "LVS"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo! finance canada",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
+      "trust_tier": 1,
       "relevance": 0.5,
       "event_origin": "news",
       "query_tickers": [

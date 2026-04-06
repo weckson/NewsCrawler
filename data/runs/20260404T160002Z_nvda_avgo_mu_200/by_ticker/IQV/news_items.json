@@ -1,0 +1,60 @@
+[
+  {
+    "id": "f770d5c0-c203-5ecc-b785-fc36880a7a9e",
+    "timestamp_utc": "2026-04-03T15:39:10+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tU2lUSTJzbS1qVWpfYTEyd25VUW9LRDhCdVUtOXlGODZoeUR3M1ZpQ2hKS0MxeGliVU52TmdQWGVucER5MlFHbFZVSTFNcTBs?oc=5",
+    "title": "IQVIA Holdings Inc. (IQV) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "body": "IQVIA Holdings Inc. (IQV) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "author": null,
+    "language": "en",
+    "ticker": "IQV",
+    "tickers_hint": [
+      "IQV"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo! finance canada",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "IQV"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "245b9e73-a3ac-5e60-ab1b-b1369b3e41eb",
+    "timestamp_utc": "2026-04-03T14:14:40+00:00",
+    "source": "yahoo_finance_uk",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yS2NPamtmb2JEUjNUYlJRVGZoVVM4Nk5rcDZIZllpTDB6WnlwTTUtbDRrRGlOeWpVdkZweGYtd2oxbFdyVktmU0doTHN6aUpaUTBnTmNJRQ?oc=5",
+    "title": "IQVIA Holdings Inc. (IQV) latest stock news and headlines - Yahoo Finance UK",
+    "body": "IQVIA Holdings Inc. (IQV) latest stock news and headlines Yahoo Finance UK",
+    "author": null,
+    "language": "en",
+    "ticker": "IQV",
+    "tickers_hint": [
+      "IQV"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo finance uk",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance UK",
+      "source_domain": "yahoofinanceuk.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "IQV"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

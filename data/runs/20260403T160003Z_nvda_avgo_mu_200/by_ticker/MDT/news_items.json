@@ -1,0 +1,89 @@
+[
+  {
+    "id": "4858122c-6615-5448-9c75-50e6f49e5f85",
+    "timestamp_utc": "2026-04-01T20:31:20+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8765778/mdt-analyst-update-barclays-raises-price-target-to-120-mdt-stock-news?mobile=true",
+    "title": "MDT Analyst Update: Barclays Raises Price Target to $120 | MDT S - GuruFocus",
+    "body": "MDT Analyst Update: Barclays Raises Price Target to $120 | MDT S GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "MDT",
+    "tickers_hint": [
+      "MDT"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.7000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "MDT"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "09c94f75-ae28-5ea8-8701-f5027b1c4cf8",
+    "timestamp_utc": "2026-04-03T11:20:20+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-genesis-financial-group-llc-acquires-shares-of-48805-medtronic-plc-mdt-2026-04-03/",
+    "title": "Genesis Financial Group LLC Acquires Shares of 48,805 Medtronic PLC $MDT - MarketBeat",
+    "body": "Genesis Financial Group LLC Acquires Shares of 48,805 Medtronic PLC $MDT MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "MDT",
+    "tickers_hint": [
+      "MDT"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "MDT"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "62e5d51d-8629-5c1f-96d9-8d8aa151533f",
+    "timestamp_utc": "2026-04-01T18:24:07+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/piper-sandler-has-lowered-expectations-for-medtronic-nysemdt-stock-price-2026-04-01/",
+    "title": "Piper Sandler Has Lowered Expectations for Medtronic (NYSE:MDT) Stock Price - MarketBeat",
+    "body": "Piper Sandler Has Lowered Expectations for Medtronic (NYSE:MDT) Stock Price MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "MDT",
+    "tickers_hint": [
+      "MDT"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "MDT"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

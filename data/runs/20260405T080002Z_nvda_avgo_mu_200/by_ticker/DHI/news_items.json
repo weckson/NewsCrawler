@@ -1,0 +1,31 @@
+[
+  {
+    "id": "e2761414-05ab-53dd-a388-5ef272a0627e",
+    "timestamp_utc": "2026-04-03T15:40:03+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbDlUY2VKLU5BSDRzRXRWdXdKYWlPNno4UUIyS0FVNXlyZUpib1ljWWI5b3lYeDdBbW1hcndRMjAwRl9yQU53eUhjNUxmczFGNjMxZ3Nzd2xTZG4xZF9NNzIwLTBjLXdkXzBWSlR5NlBWUmw1VlBIenVteUJmSkJfRE9MZ0k2bnpWdzduaVdvUnhIQQ?oc=5",
+    "title": "DHI vs. NVR: Which Stock Is the Better Value Option? - Yahoo Finance",
+    "body": "DHI vs. NVR: Which Stock Is the Better Value Option? Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "DHI",
+    "tickers_hint": [
+      "DHI"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "DHI"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

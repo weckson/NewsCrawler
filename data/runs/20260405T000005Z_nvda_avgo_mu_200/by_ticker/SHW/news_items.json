@@ -1,0 +1,31 @@
+[
+  {
+    "id": "9a8f24ac-184b-5f72-a20e-94422ac4acbd",
+    "timestamp_utc": "2026-04-03T23:33:56+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HVFBsZXA0S3Jac3ItUnZxRGp1V2FpLTRJc2lRTE9RWDE3eXRZM014cVh2TTBjaUdVRXlPUnhnbmt0Tm5UenJrU2ZqQmh4NS1VbTJhUFVFY3VfcGJ5UDN3cQ?oc=5",
+    "title": "The Sherwin-Williams Company (SHW) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "body": "The Sherwin-Williams Company (SHW) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "author": null,
+    "language": "en",
+    "ticker": "SHW",
+    "tickers_hint": [
+      "SHW"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo! finance canada",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "SHW"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

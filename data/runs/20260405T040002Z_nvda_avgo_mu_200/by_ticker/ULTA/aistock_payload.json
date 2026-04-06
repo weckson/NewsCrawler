@@ -1,0 +1,246 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "a3bb6a65-8273-57b4-a81c-2e37966ffa3e",
+      "timestamp_utc": "2026-04-03T22:41:14+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONkpXc0tMc3ZKdmpUbEQyZ2tmUEFsY2tPZlJBeWk1ZV9HYlVyR2hkWUZYSVdmZHFpaHl6ZEtSMWN3ODRZQ0lhS3VJU1h2TFJkRFJLV25YbWQxdk5ja2t3bnVSYlExekJjZUpEdU1KalM4Q0drZV9MRFlXT1AxQmRiWHJ0MkM?oc=5",
+      "title": "Video of Ulta Beauty store theft in Albuquerque - Yahoo",
+      "body": "Video of Ulta Beauty store theft in Albuquerque Yahoo",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo",
+        "source_domain": "yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3e2e99a9-5f0d-530f-9047-f429a55b6a54",
+      "timestamp_utc": "2026-04-03T15:01:07+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTml0UGRkX3pDNzJjZHJlckhxMVhwYjEwQnFGQTh4allIUHBSTTlOWlFCYkRWSXZ6bXk0bVZtajB4cEVJOENnZl94d3BvQmZhME9aQ0tZM0MxZ1U2cmxqVTYwSlhVd0k3ejN2bi1id0FwZVdSaU1aamw4M3pDRUlhb2R2aFpZWFBmX2pUZWswNm9lbW5PZDJRUjY4VXlOU2d1dHMtcjdQbFdwZnJLWnVjRnF3RGZvcXRfa2RFU0hsdjZqX3dfcF9zOHF4REdFQXdVVUtIOXNmbXU3S1A4VGo5YTBB?oc=5",
+      "title": "Strategic Move: Christopher Lialios Enhances Portfolio With Ulta Beauty Stock Options Worth $11K - Benzinga",
+      "body": "Strategic Move: Christopher Lialios Enhances Portfolio With Ulta Beauty Stock Options Worth $11K Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d3c05470-01dc-5b82-b8ab-4366347afdd3",
+      "timestamp_utc": "2026-04-04T22:34:15+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/ULTA/earnings",
+      "title": "ULTA Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "ULTA Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d2481490-e684-587b-9488-dae10c3802a7",
+      "timestamp_utc": "2026-04-03T22:43:00+00:00",
+      "source": "koat",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGhYYk84V2NmSDU1MGtaQmpUSHo4eXFMb001TTRYMko4ZUVsYldTSG1DODZURUVCQ3JRdUxRYkRxTHA1MVZUQmhrUEF3bUdsT2VBLUxYMXVYcXVHQVZta3RyQm9pNWZkSnRady04MWQwb0VxR2ZESms2UkFUN2V3WnhmOS1xUXEw?oc=5",
+      "title": "Video shows Ulta Beauty store theft in Albuquerque - KOAT",
+      "body": "Video shows Ulta Beauty store theft in Albuquerque KOAT",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "koat",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "KOAT",
+        "source_domain": "koat.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "a3bb6a65-8273-57b4-a81c-2e37966ffa3e",
+      "timestamp_utc": "2026-04-03T22:41:14+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONkpXc0tMc3ZKdmpUbEQyZ2tmUEFsY2tPZlJBeWk1ZV9HYlVyR2hkWUZYSVdmZHFpaHl6ZEtSMWN3ODRZQ0lhS3VJU1h2TFJkRFJLV25YbWQxdk5ja2t3bnVSYlExekJjZUpEdU1KalM4Q0drZV9MRFlXT1AxQmRiWHJ0MkM?oc=5",
+      "title": "Video of Ulta Beauty store theft in Albuquerque - Yahoo",
+      "body": "Video of Ulta Beauty store theft in Albuquerque Yahoo",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo",
+        "source_domain": "yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3e2e99a9-5f0d-530f-9047-f429a55b6a54",
+      "timestamp_utc": "2026-04-03T15:01:07+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTml0UGRkX3pDNzJjZHJlckhxMVhwYjEwQnFGQTh4allIUHBSTTlOWlFCYkRWSXZ6bXk0bVZtajB4cEVJOENnZl94d3BvQmZhME9aQ0tZM0MxZ1U2cmxqVTYwSlhVd0k3ejN2bi1id0FwZVdSaU1aamw4M3pDRUlhb2R2aFpZWFBmX2pUZWswNm9lbW5PZDJRUjY4VXlOU2d1dHMtcjdQbFdwZnJLWnVjRnF3RGZvcXRfa2RFU0hsdjZqX3dfcF9zOHF4REdFQXdVVUtIOXNmbXU3S1A4VGo5YTBB?oc=5",
+      "title": "Strategic Move: Christopher Lialios Enhances Portfolio With Ulta Beauty Stock Options Worth $11K - Benzinga",
+      "body": "Strategic Move: Christopher Lialios Enhances Portfolio With Ulta Beauty Stock Options Worth $11K Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d3c05470-01dc-5b82-b8ab-4366347afdd3",
+      "timestamp_utc": "2026-04-04T22:34:15+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/ULTA/earnings",
+      "title": "ULTA Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "ULTA Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d2481490-e684-587b-9488-dae10c3802a7",
+      "timestamp_utc": "2026-04-03T22:43:00+00:00",
+      "source": "koat",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGhYYk84V2NmSDU1MGtaQmpUSHo4eXFMb001TTRYMko4ZUVsYldTSG1DODZURUVCQ3JRdUxRYkRxTHA1MVZUQmhrUEF3bUdsT2VBLUxYMXVYcXVHQVZta3RyQm9pNWZkSnRady04MWQwb0VxR2ZESms2UkFUN2V3WnhmOS1xUXEw?oc=5",
+      "title": "Video shows Ulta Beauty store theft in Albuquerque - KOAT",
+      "body": "Video shows Ulta Beauty store theft in Albuquerque KOAT",
+      "author": null,
+      "language": "en",
+      "ticker": "ULTA",
+      "tickers_hint": [
+        "ULTA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "koat",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "KOAT",
+        "source_domain": "koat.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ULTA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

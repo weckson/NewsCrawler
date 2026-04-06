@@ -2,44 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "22cbbc92-a077-5459-89aa-ecba14570131",
-      "timestamp_utc": "2026-04-01T00:44:36+00:00",
-      "source": "benzinga",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZDNteUVwWExoUGRzdGJxQWVPV3hQWGhLMjVRREVWSnJkQ0xFdUd5UWNVQ1FlRlUybGw3Q1hheGNIbFFTa1dEMk9GX3d5X3FhWmlPcUxScm40M3lOU2REem5vR1BFa0UxMTJRSGkwaXEyY3hKX2tzZExfTkRvaFNVa2NJVzkyWldOUFJiNU9aOVNyNVRwZjA3X2duZjl6ME13aHo0WmhYWm5OSmo0Q3Y5WVNUV3J4bWM?oc=5",
-      "title": "What's Going On With Coca-Cola Stock Wednesday? - Coca-Cola (NYSE:KO) - Benzinga",
-      "body": "What's Going On With Coca-Cola Stock Wednesday? - Coca-Cola (NYSE:KO) Benzinga",
-      "author": null,
-      "language": "en",
-      "ticker": "KO",
-      "tickers_hint": [
-        "KO"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "benzinga.com",
-      "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "KO"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "c4bdda75-e07c-5829-8f4e-4c537760c74f",
-      "timestamp_utc": "2026-04-01T08:20:30+00:00",
-      "source": "msn.com",
-      "url": "https://www.msn.com/en-us/money/topstocks/will-coca-cola-ko-beat-estimates-again-in-its-next-earnings-report/ar-AA1ZVLAc",
-      "title": "Will Coca-Cola (KO) beat estimates again in its next earnings report? - msn.com",
-      "body": "Will Coca-Cola (KO) beat estimates again in its next earnings report? msn.com",
+      "id": "129c5f5a-f3f2-5653-a07e-3b6c27459947",
+      "timestamp_utc": "2026-04-03T17:22:49+00:00",
+      "source": "stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWkpPeVFHbV8zZFlRR1gyUTZJaUtyRmZMS3F4U2hoVkExVHFIc1pGT3B2SExKUVpqZU9pcXJLem41Um9TSTIwTUpVOC1vRVo0YmxubkREZXZBZ1hwbGhkdmFhd2RZUVJRYWJYYTRHUmZadkg1WHRQQlN2NnBiNDRkUGRhZWhpWld2WGt0OHFlZzhnNkJwRkF3MUVjbE85Ukw0ZHU2aG42QQ?oc=5",
+      "title": "Coca-Cola (KO) director Caroline Tsay receives 3,825 Phantom Share Units as 2026 pay - stocktitan.net",
+      "body": "Coca-Cola (KO) director Caroline Tsay receives 3,825 Phantom Share Units as 2026 pay stocktitan.net",
       "author": null,
       "language": "en",
       "ticker": "KO",
@@ -47,13 +15,42 @@
         "KO"
       ],
       "source_quality": "low",
-      "publisher_raw": "msn.com",
+      "publisher_raw": "stocktitan.net",
       "meta": {
         "channel": "google_broad",
-        "source_name": "msn.com",
-        "source_domain": "msncom.com",
+        "source_name": "stocktitan.net",
+        "source_domain": "stocktitannet.com",
         "trust_tier": 1,
-        "relevance": 0.6,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2348c673-2120-53f0-9edd-c4769909d0f2",
+      "timestamp_utc": "2026-04-03T17:08:32+00:00",
+      "source": "stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR2k4Nk8wRWJXbGlLc09BWkFIa2d1SURQdFFBSU43cV9TYm45dm9MTGhBQ3BrZHFfWklTanVfM24xY1VxOTVQc0ZqRmdTcjBrelpuRGVwcnBCbUp0LXBPV0ZVWVNva0Rycm5GZDVNdGRKR0o4SThpRENfZklwcXBpelY5eFpVaHE4OGItNEQzRTZQTkRha0NhMWpscE1RU0N4MDVGZzhjNA?oc=5",
+      "title": "Max Levchin (KO) awarded phantom share units as Coca-Cola board pay - stocktitan.net",
+      "body": "Max Levchin (KO) awarded phantom share units as Coca-Cola board pay stocktitan.net",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktitan.net",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "stocktitan.net",
+        "source_domain": "stocktitannet.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
         "event_origin": "news",
         "query_tickers": [
           "KO"
@@ -66,44 +63,12 @@
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "22cbbc92-a077-5459-89aa-ecba14570131",
-      "timestamp_utc": "2026-04-01T00:44:36+00:00",
-      "source": "benzinga",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZDNteUVwWExoUGRzdGJxQWVPV3hQWGhLMjVRREVWSnJkQ0xFdUd5UWNVQ1FlRlUybGw3Q1hheGNIbFFTa1dEMk9GX3d5X3FhWmlPcUxScm40M3lOU2REem5vR1BFa0UxMTJRSGkwaXEyY3hKX2tzZExfTkRvaFNVa2NJVzkyWldOUFJiNU9aOVNyNVRwZjA3X2duZjl6ME13aHo0WmhYWm5OSmo0Q3Y5WVNUV3J4bWM?oc=5",
-      "title": "What's Going On With Coca-Cola Stock Wednesday? - Coca-Cola (NYSE:KO) - Benzinga",
-      "body": "What's Going On With Coca-Cola Stock Wednesday? - Coca-Cola (NYSE:KO) Benzinga",
-      "author": null,
-      "language": "en",
-      "ticker": "KO",
-      "tickers_hint": [
-        "KO"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "benzinga.com",
-      "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "KO"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "c4bdda75-e07c-5829-8f4e-4c537760c74f",
-      "timestamp_utc": "2026-04-01T08:20:30+00:00",
-      "source": "msn.com",
-      "url": "https://www.msn.com/en-us/money/topstocks/will-coca-cola-ko-beat-estimates-again-in-its-next-earnings-report/ar-AA1ZVLAc",
-      "title": "Will Coca-Cola (KO) beat estimates again in its next earnings report? - msn.com",
-      "body": "Will Coca-Cola (KO) beat estimates again in its next earnings report? msn.com",
+      "id": "129c5f5a-f3f2-5653-a07e-3b6c27459947",
+      "timestamp_utc": "2026-04-03T17:22:49+00:00",
+      "source": "stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWkpPeVFHbV8zZFlRR1gyUTZJaUtyRmZMS3F4U2hoVkExVHFIc1pGT3B2SExKUVpqZU9pcXJLem41Um9TSTIwTUpVOC1vRVo0YmxubkREZXZBZ1hwbGhkdmFhd2RZUVJRYWJYYTRHUmZadkg1WHRQQlN2NnBiNDRkUGRhZWhpWld2WGt0OHFlZzhnNkJwRkF3MUVjbE85Ukw0ZHU2aG42QQ?oc=5",
+      "title": "Coca-Cola (KO) director Caroline Tsay receives 3,825 Phantom Share Units as 2026 pay - stocktitan.net",
+      "body": "Coca-Cola (KO) director Caroline Tsay receives 3,825 Phantom Share Units as 2026 pay stocktitan.net",
       "author": null,
       "language": "en",
       "ticker": "KO",
@@ -111,13 +76,42 @@
         "KO"
       ],
       "source_quality": "low",
-      "publisher_raw": "msn.com",
+      "publisher_raw": "stocktitan.net",
       "meta": {
         "channel": "google_broad",
-        "source_name": "msn.com",
-        "source_domain": "msncom.com",
+        "source_name": "stocktitan.net",
+        "source_domain": "stocktitannet.com",
         "trust_tier": 1,
-        "relevance": 0.6,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2348c673-2120-53f0-9edd-c4769909d0f2",
+      "timestamp_utc": "2026-04-03T17:08:32+00:00",
+      "source": "stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR2k4Nk8wRWJXbGlLc09BWkFIa2d1SURQdFFBSU43cV9TYm45dm9MTGhBQ3BrZHFfWklTanVfM24xY1VxOTVQc0ZqRmdTcjBrelpuRGVwcnBCbUp0LXBPV0ZVWVNva0Rycm5GZDVNdGRKR0o4SThpRENfZklwcXBpelY5eFpVaHE4OGItNEQzRTZQTkRha0NhMWpscE1RU0N4MDVGZzhjNA?oc=5",
+      "title": "Max Levchin (KO) awarded phantom share units as Coca-Cola board pay - stocktitan.net",
+      "body": "Max Levchin (KO) awarded phantom share units as Coca-Cola board pay stocktitan.net",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktitan.net",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "stocktitan.net",
+        "source_domain": "stocktitannet.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
         "event_origin": "news",
         "query_tickers": [
           "KO"

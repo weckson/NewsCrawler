@@ -1,0 +1,118 @@
+[
+  {
+    "id": "b74b6979-3d75-5e66-a932-4ffb2936d0e6",
+    "timestamp_utc": "2026-04-02T21:50:02+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZnVJbWtickgyY3NFUWxwRUZycHZEdDBPY05KOXNkQVhqLU1oT3MzYXp5MXp2WXRyMWl4bWN0TGFBRFhDcFhzbkhBa3lwbldUclJtUDFaWDFPMlljc1ZzdUxpMUppb05ZNHBsLVJMejJlSWducF9FY282SjNvZ1c2NHBmNDJNdTlkdU1LakwxUDR0eXM0Vy1WWWpYT1Q?oc=5",
+    "title": "Amgen (AMGN) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
+    "body": "Amgen (AMGN) Stock Declines While Market Improves: Some Information for Investors Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "AMGN",
+    "tickers_hint": [
+      "AMGN"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "AMGN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "5b7d26e4-bf13-51c9-8c3d-23f1f8ffb822",
+    "timestamp_utc": "2026-04-02T14:53:50+00:00",
+    "source": "insider_monkey",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT3FGWDQzc2pybklmVHl6aFRZVXU3d3FrSWhqdHhRbGFKemJzSHl3dE41bjRSb0ZuT1lnYkw1RFdBYjRna1Vralpuemx6UGloM2ltemo3c2oxOWdHQjd1NWZPSXVONkd6NnpMN1JpdVM2UFk0QUZfZzdaMm9RZ1Y4T1VIcERoekw5TFlmMXF2UUZyYVpFY0hxS21lN3JkQkM0cEY3cjlvNTc2UHo40gG0AUFVX3lxTE9uN0Z2OThNVGhnYURkZGtVaHFMbHdYZVd5Y3cxSEpsQnY5VGpmcnI5VVhrVVI4ZGEwZkR6Y1RmUzlrX2JrRV9PUVFQS21xMDFfaDJFYUxoczRCcHNnUHFNdXZVM0N6YjQ2bEFCaUZFMEk1RXZCbUd0ZmN3dk5CTkZjSFdBR1lkaEljam5SWVZaUnBFa21qZHpNUlVZUW9HXzNQQi1uTGdudmI0dXhxbFpYdUZyVg?oc=5",
+    "title": "Is Amgen Inc. (AMGN) One of the Best Pharma Stocks to Invest in Now? - Insider Monkey",
+    "body": "Is Amgen Inc. (AMGN) One of the Best Pharma Stocks to Invest in Now? Insider Monkey",
+    "author": null,
+    "language": "en",
+    "ticker": "AMGN",
+    "tickers_hint": [
+      "AMGN"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "insidermonkey.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Insider Monkey",
+      "source_domain": "insidermonkey.com",
+      "trust_tier": 2,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "AMGN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "161ad56c-3407-5bb9-8c15-9becf68caee2",
+    "timestamp_utc": "2026-04-03T08:17:49+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-dorato-capital-management-invests-158-million-in-amgen-inc-amgn-2026-04-03/",
+    "title": "Dorato Capital Management Invests $1.58 Million in Amgen Inc. $AMGN - MarketBeat",
+    "body": "Dorato Capital Management Invests $1.58 Million in Amgen Inc. $AMGN MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "AMGN",
+    "tickers_hint": [
+      "AMGN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "AMGN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "9a144106-a41d-59d5-9050-01a012b0e238",
+    "timestamp_utc": "2026-04-02T11:15:09+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-hf-advisory-group-llc-buys-7548-shares-of-amgen-inc-amgn-2026-04-02/",
+    "title": "HF Advisory Group LLC Buys 7,548 Shares of Amgen Inc. $AMGN - MarketBeat",
+    "body": "HF Advisory Group LLC Buys 7,548 Shares of Amgen Inc. $AMGN MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "AMGN",
+    "tickers_hint": [
+      "AMGN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "AMGN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

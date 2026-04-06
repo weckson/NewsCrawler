@@ -1,0 +1,31 @@
+[
+  {
+    "id": "7169f8b2-e262-5d6a-91be-098d5091c258",
+    "timestamp_utc": "2026-04-02T20:15:20+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUkZWbkRheHVmQlMwdTJFbXZyTm5RNGE5V3ZFS1A3OXAzNnZWUTRJMXRBdHZRUDFXTzBXRFVPT0tDaTJlbm1ISEUySGQ5bldGUm11QUw2a3BmQlBaakFCNkRucUo0RVd4NTA5LTNibjNzOXhybFNxYW1qRjNqQ0NiMW9OVVJiSWlzUV9mZ3RsM3hycmJUOUFISVZVSDVoc0I1LVZOR2g0TTM1WTE0a1lsSjRMRFdkdHR0eXpPckZNVTk?oc=5",
+    "title": "Liberty Broadband cuts Charter (NASDAQ: CHTR) stake by 643K shares - Stock Titan",
+    "body": "Liberty Broadband cuts Charter (NASDAQ: CHTR) stake by 643K shares Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "CHTR",
+    "tickers_hint": [
+      "CHTR"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "CHTR"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

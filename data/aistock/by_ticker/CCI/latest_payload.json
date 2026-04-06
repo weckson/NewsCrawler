@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "6f91a178-135c-5979-a7de-b3c50c6b244a",
-      "timestamp_utc": "2026-03-31T06:18:45+00:00",
-      "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8761604/truist-securities-initiates-coverage-on-cci-with-hold-rating-cci-stock-news?mobile=true",
-      "title": "Truist Securities Initiates Coverage on CCI with \"Hold\" Rating | - GuruFocus",
-      "body": "Truist Securities Initiates Coverage on CCI with \"Hold\" Rating | GuruFocus",
+      "id": "c5f0cadd-6e9e-5bc8-81fe-473a8ff02e78",
+      "timestamp_utc": "2026-04-03T21:43:04+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5RDVXekgzUkFHcnJONUY5TFBCaFR5VlNiemRHTXdFYmNGc2ZjZTA5RE44c3QzaElIaEVfT2U1cVNOWmNVZWp6cndiNTY5YjhJUGd1eDBGUXg?oc=5",
+      "title": "Crown Castle Inc. (CCI) interactive stock chart - Yahoo Finance Singapore",
+      "body": "Crown Castle Inc. (CCI) interactive stock chart Yahoo Finance Singapore",
       "author": null,
       "language": "en",
       "ticker": "CCI",
@@ -15,13 +15,42 @@
         "CCI"
       ],
       "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
+      "publisher_raw": "yahoo finance singapore",
       "meta": {
         "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
         "trust_tier": 1,
-        "relevance": 0.55,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CCI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "53b23c57-b50f-5b59-89bd-90470206792e",
+      "timestamp_utc": "2026-04-03T20:55:16+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YZmZUandhMmNLR3A0TEh6dndKMDExemNOeDNTWGJjU2h6QnpHVnlQc1plVEE5aHNBR3I2bERKNTlOOHlTZXpLMDFwNE5sSWVNdElXLWsycVFMQnpYX1gzX0lmaUw?oc=5",
+      "title": "CCI Oct 2026 110.000 call (CCI261016C00110000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "CCI Oct 2026 110.000 call (CCI261016C00110000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "CCI",
+      "tickers_hint": [
+        "CCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
         "event_origin": "news",
         "query_tickers": [
           "CCI"
@@ -34,12 +63,12 @@
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "6f91a178-135c-5979-a7de-b3c50c6b244a",
-      "timestamp_utc": "2026-03-31T06:18:45+00:00",
-      "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8761604/truist-securities-initiates-coverage-on-cci-with-hold-rating-cci-stock-news?mobile=true",
-      "title": "Truist Securities Initiates Coverage on CCI with \"Hold\" Rating | - GuruFocus",
-      "body": "Truist Securities Initiates Coverage on CCI with \"Hold\" Rating | GuruFocus",
+      "id": "c5f0cadd-6e9e-5bc8-81fe-473a8ff02e78",
+      "timestamp_utc": "2026-04-03T21:43:04+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5RDVXekgzUkFHcnJONUY5TFBCaFR5VlNiemRHTXdFYmNGc2ZjZTA5RE44c3QzaElIaEVfT2U1cVNOWmNVZWp6cndiNTY5YjhJUGd1eDBGUXg?oc=5",
+      "title": "Crown Castle Inc. (CCI) interactive stock chart - Yahoo Finance Singapore",
+      "body": "Crown Castle Inc. (CCI) interactive stock chart Yahoo Finance Singapore",
       "author": null,
       "language": "en",
       "ticker": "CCI",
@@ -47,13 +76,42 @@
         "CCI"
       ],
       "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
+      "publisher_raw": "yahoo finance singapore",
       "meta": {
         "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
         "trust_tier": 1,
-        "relevance": 0.55,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CCI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "53b23c57-b50f-5b59-89bd-90470206792e",
+      "timestamp_utc": "2026-04-03T20:55:16+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YZmZUandhMmNLR3A0TEh6dndKMDExemNOeDNTWGJjU2h6QnpHVnlQc1plVEE5aHNBR3I2bERKNTlOOHlTZXpLMDFwNE5sSWVNdElXLWsycVFMQnpYX1gzX0lmaUw?oc=5",
+      "title": "CCI Oct 2026 110.000 call (CCI261016C00110000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "CCI Oct 2026 110.000 call (CCI261016C00110000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "CCI",
+      "tickers_hint": [
+        "CCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
         "event_origin": "news",
         "query_tickers": [
           "CCI"

@@ -1,0 +1,424 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "7de9a347-2c6c-5898-8aa6-7bfcbbb15699",
+      "timestamp_utc": "2026-04-02T14:07:45+00:00",
+      "source": "coincentral",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWXlpd3FLY1FQTXFXWW5JNjFWaGdwcEdZNGxHaE9fZTRQaWpSRnNsbjFKdFU2OHhzN1NMck5Qd1hIbmR6SEU4M2VMSnlsUTVkWWU1eWl5SXk0NDEwbDhDd1A1UVBfaVhvanZRemVaWEpEZnNoUEMwZzdYb0QxUDJZTHUzSnBMQVZwQnVGSjBxNjR6YUI0dzFLM05JVkJCQnM4WFhTSU91UQ?oc=5",
+      "title": "Broadcom (AVGO) and Applied Materials (AMAT) Added to Deutsche Bank’s Top Tech Picks - CoinCentral",
+      "body": "Broadcom (AVGO) and Applied Materials (AMAT) Added to Deutsche Bank’s Top Tech Picks CoinCentral",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT",
+        "AVGO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "coincentral",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "CoinCentral",
+        "source_domain": "coincentral.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMAT",
+          "AVGO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8fd556d7-7bb7-57ea-a667-211be131a08e",
+      "timestamp_utc": "2026-04-01T14:27:00+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNczZTNnZFbnNsZnJRSGhhQUx3VnlRYUtNNk5vWnhpWHFCRGhOcUg0Mmg4TGVoS25NTzV5UnY0eEJuQ3VaUVBmWEx0WTZEVGV3MFRabWJLR3lqN1czUXVkX1FsdVRuUHJpRDdtSXRURXFDMU9kX1NhcnZDdDBnemwyMjJadTJ5T0JaeURKOXg4andVSzlxSi1iaTJfZDI0bF91ZFRzbml2LVNFSkhRek9raEo1U2RWaU1JNEE?oc=5",
+      "title": "Applied Materials Stock Climbs 33% YTD: Time to Buy, Sell or Hold? - TradingView",
+      "body": "Applied Materials Stock Climbs 33% YTD: Time to Buy, Sell or Hold? TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMAT"
+        ],
+        "alt_sources": [
+          "TradingView"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3d2380a7-7bcb-5190-8a17-4a26efcca96e",
+      "timestamp_utc": "2026-04-01T10:58:56+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-my-personal-cfo-llc-makes-new-investment-in-applied-materials-inc-amat-2026-04-01/",
+      "title": "My Personal CFO LLC Makes New Investment in Applied Materials, Inc. $AMAT - MarketBeat",
+      "body": "My Personal CFO LLC Makes New Investment in Applied Materials, Inc. $AMAT MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1ed87a09-9ab0-51f2-9a3c-5486149079c4",
+      "timestamp_utc": "2026-04-02T10:23:07+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-applied-materials-inc-amat-stock-holdings-increased-by-tema-etfs-llc-2026-04-02/",
+      "title": "Applied Materials, Inc. $AMAT Stock Holdings Increased by Tema Etfs LLC - MarketBeat",
+      "body": "Applied Materials, Inc. $AMAT Stock Holdings Increased by Tema Etfs LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "faa6e85f-ce69-5e19-9362-00ef9e4b42b6",
+      "timestamp_utc": "2026-04-02T10:13:27+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-3434-shares-in-applied-materials-inc-amat-acquired-by-retireful-llc-2026-04-02/",
+      "title": "3,434 Shares in Applied Materials, Inc. $AMAT Acquired by Retireful LLC - MarketBeat",
+      "body": "3,434 Shares in Applied Materials, Inc. $AMAT Acquired by Retireful LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "030cfd28-5dad-58eb-8360-b372bbd9275b",
+      "timestamp_utc": "2026-04-02T22:44:21+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVi00Q2pRSDJ2dUZ1V1AwN2RISDZ3dG1rLUstcVNPd1gtaEZrTGZGWTJ1NzVKNUQ5cnVSOUdLY2txWjhsbDlwZzhxb05ndG81aW1rdjdLaVhiWFhzaGdvNm5KeWhTOG1LdTZlNGdBYksxQmZ3eFVqR0NYdFdxTDZwVWNpYXpydnJMTWJPbUcyZUdSNlVsUmNlcXVXUE5rQldyTUpnRE53MkZtYW1tQXlKXzFSaDlnbkNjOXc?oc=5",
+      "title": "AMAT (AMAT) CAO reports 125-share tax withholding, holds 4,548 units - Stock Titan",
+      "body": "AMAT (AMAT) CAO reports 125-share tax withholding, holds 4,548 units Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7e2b7526-a87a-5b23-8b8b-c1a4c527cb84",
+      "timestamp_utc": "2026-04-02T08:35:00+00:00",
+      "source": "qz.com",
+      "url": "https://qz.com/can-global-memory-chip-shortage-drive-applied-materials-growth",
+      "title": "Can Global Memory Chip Shortage Drive Applied Materials' Growth? - qz.com",
+      "body": "Can Global Memory Chip Shortage Drive Applied Materials' Growth? qz.com",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "qz.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "qz.com",
+        "source_domain": "qzcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "7de9a347-2c6c-5898-8aa6-7bfcbbb15699",
+      "timestamp_utc": "2026-04-02T14:07:45+00:00",
+      "source": "coincentral",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWXlpd3FLY1FQTXFXWW5JNjFWaGdwcEdZNGxHaE9fZTRQaWpSRnNsbjFKdFU2OHhzN1NMck5Qd1hIbmR6SEU4M2VMSnlsUTVkWWU1eWl5SXk0NDEwbDhDd1A1UVBfaVhvanZRemVaWEpEZnNoUEMwZzdYb0QxUDJZTHUzSnBMQVZwQnVGSjBxNjR6YUI0dzFLM05JVkJCQnM4WFhTSU91UQ?oc=5",
+      "title": "Broadcom (AVGO) and Applied Materials (AMAT) Added to Deutsche Bank’s Top Tech Picks - CoinCentral",
+      "body": "Broadcom (AVGO) and Applied Materials (AMAT) Added to Deutsche Bank’s Top Tech Picks CoinCentral",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT",
+        "AVGO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "coincentral",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "CoinCentral",
+        "source_domain": "coincentral.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMAT",
+          "AVGO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8fd556d7-7bb7-57ea-a667-211be131a08e",
+      "timestamp_utc": "2026-04-01T14:27:00+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNczZTNnZFbnNsZnJRSGhhQUx3VnlRYUtNNk5vWnhpWHFCRGhOcUg0Mmg4TGVoS25NTzV5UnY0eEJuQ3VaUVBmWEx0WTZEVGV3MFRabWJLR3lqN1czUXVkX1FsdVRuUHJpRDdtSXRURXFDMU9kX1NhcnZDdDBnemwyMjJadTJ5T0JaeURKOXg4andVSzlxSi1iaTJfZDI0bF91ZFRzbml2LVNFSkhRek9raEo1U2RWaU1JNEE?oc=5",
+      "title": "Applied Materials Stock Climbs 33% YTD: Time to Buy, Sell or Hold? - TradingView",
+      "body": "Applied Materials Stock Climbs 33% YTD: Time to Buy, Sell or Hold? TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMAT"
+        ],
+        "alt_sources": [
+          "TradingView"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3d2380a7-7bcb-5190-8a17-4a26efcca96e",
+      "timestamp_utc": "2026-04-01T10:58:56+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-my-personal-cfo-llc-makes-new-investment-in-applied-materials-inc-amat-2026-04-01/",
+      "title": "My Personal CFO LLC Makes New Investment in Applied Materials, Inc. $AMAT - MarketBeat",
+      "body": "My Personal CFO LLC Makes New Investment in Applied Materials, Inc. $AMAT MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1ed87a09-9ab0-51f2-9a3c-5486149079c4",
+      "timestamp_utc": "2026-04-02T10:23:07+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-applied-materials-inc-amat-stock-holdings-increased-by-tema-etfs-llc-2026-04-02/",
+      "title": "Applied Materials, Inc. $AMAT Stock Holdings Increased by Tema Etfs LLC - MarketBeat",
+      "body": "Applied Materials, Inc. $AMAT Stock Holdings Increased by Tema Etfs LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "faa6e85f-ce69-5e19-9362-00ef9e4b42b6",
+      "timestamp_utc": "2026-04-02T10:13:27+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-3434-shares-in-applied-materials-inc-amat-acquired-by-retireful-llc-2026-04-02/",
+      "title": "3,434 Shares in Applied Materials, Inc. $AMAT Acquired by Retireful LLC - MarketBeat",
+      "body": "3,434 Shares in Applied Materials, Inc. $AMAT Acquired by Retireful LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "030cfd28-5dad-58eb-8360-b372bbd9275b",
+      "timestamp_utc": "2026-04-02T22:44:21+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVi00Q2pRSDJ2dUZ1V1AwN2RISDZ3dG1rLUstcVNPd1gtaEZrTGZGWTJ1NzVKNUQ5cnVSOUdLY2txWjhsbDlwZzhxb05ndG81aW1rdjdLaVhiWFhzaGdvNm5KeWhTOG1LdTZlNGdBYksxQmZ3eFVqR0NYdFdxTDZwVWNpYXpydnJMTWJPbUcyZUdSNlVsUmNlcXVXUE5rQldyTUpnRE53MkZtYW1tQXlKXzFSaDlnbkNjOXc?oc=5",
+      "title": "AMAT (AMAT) CAO reports 125-share tax withholding, holds 4,548 units - Stock Titan",
+      "body": "AMAT (AMAT) CAO reports 125-share tax withholding, holds 4,548 units Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7e2b7526-a87a-5b23-8b8b-c1a4c527cb84",
+      "timestamp_utc": "2026-04-02T08:35:00+00:00",
+      "source": "qz.com",
+      "url": "https://qz.com/can-global-memory-chip-shortage-drive-applied-materials-growth",
+      "title": "Can Global Memory Chip Shortage Drive Applied Materials' Growth? - qz.com",
+      "body": "Can Global Memory Chip Shortage Drive Applied Materials' Growth? qz.com",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "qz.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "qz.com",
+        "source_domain": "qzcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMAT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

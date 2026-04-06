@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "b6b3cc60-fd13-54a5-b842-06131be69e92",
+      "timestamp_utc": "2026-04-02T15:30:05+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ross-stores-rost-3-since-153005864.html",
+      "title": "Ross Stores (ROST) Up 3% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
+      "body": "Ross Stores (ROST) Up 3% Since Last Earnings Report: Can It Continue? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "ROST",
+      "tickers_hint": [
+        "ROST"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ROST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0a853c48-8f94-57d2-8506-d3db6298fd82",
+      "timestamp_utc": "2026-04-02T20:22:32+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQclN5SnZsWVBaTF9jb3RveGl3MnF4S1Z6LXdGbnJweXNBTjF2Q3NCbmdWOTV2akpMR3QteHZ0Zmg2NEZ4bjJiR1RQUXc4bFVyTTJuRDFVeEc1azFTSExBTnJkUFJPNW50YXFGbXl1UHFlWk9qOHdXNUhtSUo4d2MwLXQwdjYzUEt2Y2phZnNKXy1GZnYzSFBV?oc=5",
+      "title": "ROST (NASDAQ: ROST) insider 10b5-1 sales: 51,868 shares over March–April - Stock Titan",
+      "body": "ROST (NASDAQ: ROST) insider 10b5-1 sales: 51,868 shares over March–April Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ROST",
+      "tickers_hint": [
+        "ROST"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ROST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "71869332-7d04-5e6c-9725-8af207d0fb13",
+      "timestamp_utc": "2026-04-01T20:13:44+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN01Dc01kVmZmNVhZOGlMYTZXUmh4Z0ZldDR1NzRndWFaVVowRXFzY3lPUGpHcFNPSVo3bFJjX0JBQUdoR09JTkhoZEhJS0YyWEtpQ20zdjhvWFdRWU11UlFtR1N2N3pIS2dlMFBIYUNyQWJWNmxTUG5mZnk4ZTVQNExfSUJNNENfR0Nodm5ESHFnLXgxeUtj?oc=5",
+      "title": "Michael Balmuth sells ROST shares on 03/23–03/24 (NASDAQ: ROST) - Stock Titan",
+      "body": "Michael Balmuth sells ROST shares on 03/23–03/24 (NASDAQ: ROST) Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ROST",
+      "tickers_hint": [
+        "ROST"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ROST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "b6b3cc60-fd13-54a5-b842-06131be69e92",
+      "timestamp_utc": "2026-04-02T15:30:05+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ross-stores-rost-3-since-153005864.html",
+      "title": "Ross Stores (ROST) Up 3% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
+      "body": "Ross Stores (ROST) Up 3% Since Last Earnings Report: Can It Continue? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "ROST",
+      "tickers_hint": [
+        "ROST"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ROST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0a853c48-8f94-57d2-8506-d3db6298fd82",
+      "timestamp_utc": "2026-04-02T20:22:32+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQclN5SnZsWVBaTF9jb3RveGl3MnF4S1Z6LXdGbnJweXNBTjF2Q3NCbmdWOTV2akpMR3QteHZ0Zmg2NEZ4bjJiR1RQUXc4bFVyTTJuRDFVeEc1azFTSExBTnJkUFJPNW50YXFGbXl1UHFlWk9qOHdXNUhtSUo4d2MwLXQwdjYzUEt2Y2phZnNKXy1GZnYzSFBV?oc=5",
+      "title": "ROST (NASDAQ: ROST) insider 10b5-1 sales: 51,868 shares over March–April - Stock Titan",
+      "body": "ROST (NASDAQ: ROST) insider 10b5-1 sales: 51,868 shares over March–April Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ROST",
+      "tickers_hint": [
+        "ROST"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ROST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "71869332-7d04-5e6c-9725-8af207d0fb13",
+      "timestamp_utc": "2026-04-01T20:13:44+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN01Dc01kVmZmNVhZOGlMYTZXUmh4Z0ZldDR1NzRndWFaVVowRXFzY3lPUGpHcFNPSVo3bFJjX0JBQUdoR09JTkhoZEhJS0YyWEtpQ20zdjhvWFdRWU11UlFtR1N2N3pIS2dlMFBIYUNyQWJWNmxTUG5mZnk4ZTVQNExfSUJNNENfR0Nodm5ESHFnLXgxeUtj?oc=5",
+      "title": "Michael Balmuth sells ROST shares on 03/23–03/24 (NASDAQ: ROST) - Stock Titan",
+      "body": "Michael Balmuth sells ROST shares on 03/23–03/24 (NASDAQ: ROST) Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ROST",
+      "tickers_hint": [
+        "ROST"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "ROST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

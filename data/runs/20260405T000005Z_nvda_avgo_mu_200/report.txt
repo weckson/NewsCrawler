@@ -1,0 +1,3293 @@
+
+============================================================================================
+  200-ticker watchlist NEWS REPORT — Quality Filtered, 2026-04-05 00:38
+============================================================================================
+
+  CRAWL STATS:
+  Channel                      Raw Description
+  ------------------------- ------ ----------------------------------------
+  BZ-via-Google              23320 Google News filtered to site:benzinga.com
+  Google-broad               30920 Google News all financial sources
+  AMD-IR                        10 Official AMD Investor Relations press releases RSS
+  TOTAL                      54250
+
+  QUALITY PIPELINE:
+    Raw articles:       54250
+    After quality filter:  510  (removed 53740 junk/irrelevant/dupes)
+    New saved to DB:     510
+    Benzinga articles:     6  (direct Benzinga coverage)
+    Watchlist tickers:   200
+
+  TICKER COVERAGE:
+    HBAN     22
+    FE       11
+    HSY      11
+    INTC     11
+    MET      11
+    AVGO     10
+    HPE      10
+    MU       10
+    AAPL      9
+    CVS       9
+    WTW       9
+    AMD       8
+    EBAY      8
+    MCHP      8
+    ADI       7
+    CVNA      7
+    TER       7
+    DG        6
+    MPWR      6
+    MRSH      6
+    NFLX      6
+    NVDA      6
+    PPG       6
+    PPL       6
+    ALL       5
+    ANET      5
+    BX        5
+    DAL       5
+    JPM       5
+    KDP       5
+    KO        5
+    LOW       5
+    MDLZ      5
+    CIEN      4
+    CL        4
+    HAL       4
+    HCA       4
+    IRM       4
+    ITW       4
+    JNJ       4
+    PLD       4
+    PSA       4
+    SCHW      4
+    SPG       4
+    TEL       4
+    USB       4
+    VTR       4
+    WELL      4
+    YUM       4
+    ZTS       4
+    CCI       3
+    CSCO      3
+    ELV       3
+    EQIX      3
+    EXR       3
+    F         3
+    FICO      3
+    LEN       3
+    LVS       3
+    MNST      3
+    OTIS      3
+    PAYX      3
+    QCOM      3
+    STX       3
+    TJX       3
+    TTWO      3
+    TXN       3
+    UNH       3
+    ACN       2
+    AFL       2
+    AIG       2
+    AMAT      2
+    AMT       2
+    APD       2
+    APH       2
+    BIIB      2
+    CBRE      2
+    CHTR      2
+    CRH       2
+    CTVA      2
+    DTE       2
+    ED        2
+    FITB      2
+    JBL       2
+    LIN       2
+    LYV       2
+    MCD       2
+    MCK       2
+    MDT       2
+    MMM       2
+    MRK       2
+    MTB       2
+    MTD       2
+    NEM       2
+    ORLY      2
+    PNC       2
+    PRU       2
+    RJF       2
+    RMD       2
+    SNDK      2
+    SRE       2
+    TGT       2
+    TPL       2
+    TPR       2
+    ULTA      2
+    VICI      2
+    WDC       2
+    WMT       2
+    ABT       1
+    ADM       1
+    ADP       1
+    ADSK      1
+    AJG       1
+    AME       1
+    AMGN      1
+    AMP       1
+    AON       1
+    BAC       1
+    BRK.B     1
+    CB        1
+    CDNS      1
+    CI        1
+    CMCSA     1
+    COF       1
+    COST      1
+    CPRT      1
+    CTSH      1
+    DHI       1
+    EMR       1
+    EW        1
+    FDX       1
+    GEHC      1
+    GRMN      1
+    GWW       1
+    HD        1
+    HIG       1
+    HON       1
+    IR        1
+    JCI       1
+    KEYS      1
+    KHC       1
+    KLAC      1
+    KMB       1
+    LRCX      1
+    NXPI      1
+    O         1
+    PEP       1
+    PFE       1
+    PGR       1
+    SBUX      1
+    SHW       1
+    SNPS      1
+    STZ       1
+    TDY       1
+    TFC       1
+    TMUS      1
+    TSCO      1
+    VZ        1
+    WAT       1
+    WBD       1
+    WDAY      1
+    WMB       1
+    XYL       1
+    ABBV      0
+    ACGL      0
+    AZO       0
+    BDX       0
+    BMY       0
+    CAH       0
+    CARR      0
+    COR       0
+    DIS       0
+    DLR       0
+    DOV       0
+    EA        0
+    ECL       0
+    EL        0
+    GILD      0
+    GLW       0
+    GM        0
+    GS        0
+    IQV       0
+    KR        0
+    KVUE      0
+    MO        0
+    MS        0
+    NKE       0
+    ON        0
+    PG        0
+    PM        0
+    ROL       0
+    ROP       0
+    ROST      0
+    STT       0
+    SYY       0
+    TDG       0
+    TRV       0
+    UAL       0
+    UPS       0
+    WFC       0
+
+  ANTI-SCRAPE STRATEGY:
+    - Benzinga HTML: SKIPPED (Cloudflare JS challenge blocks simple HTTP)
+    - Benzinga RSS:  /feed + /news/feed (no CF, structured XML)
+    - Google->BZ:    site:benzinga.com (Google already crawled, no CF)
+    - Polite crawl:  2s delay, standard UA, no JS execution needed
+
+  ── BENZINGA ARTICLES (6) ──
+
+    1. [TOP] [04-03 20:31] [rel:0.55] [BZ-via-Google]
+       'Every Industrial Company Will Become A Robotics Company,' Nvidia CEO Jensen Huang Says
+       Source: Benzinga
+       > 'Every Industrial Company Will Become A Robotics Company,' Nvidia CEO Jensen Huang Says Benzinga
+       https://www.benzinga.com/news/topics/26/04/51647827/every-industrial-company-will-become-a-robotics-company-nvidia-ceo-j
+
+    2. [TOP] [04-04 12:31] [rel:0.50] [BZ-via-Google]
+       Rocket Lab, Beyond Meat, Micron Technology And More: 5 Stocks Investors Couldn't Stop Buzzing About This Week
+       Source: Benzinga  (also: Benzinga)
+       > Rocket Lab, Beyond Meat, Micron Technology And More: 5 Stocks Investors Couldn't Stop Buzzing About This Week Benzinga
+       https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcDNrZnQtOW9zVE5Ea0tRSGdNcnRRaldiTXpJNjFtdVhSOEhyTFNPUkRhcE9CTHJ6c3J
+
+    3. [TOP] [04-03 01:34] [rel:0.50] [BZ-via-Google]
+       SRE Investors Have Opportunity to Join Sempra Fraud Investigation with the Schall Law Firm - Benzinga
+       Source: Benzinga  (also: Benzinga)
+       > SRE Investors Have Opportunity to Join Sempra Fraud Investigation with the Schall Law Firm - Benzinga Benzinga
+       https://news.google.com/rss/articles/CBMi3gFBVV95cUxNM0JKa1c3OHZrbDNxTXkwcVBwVEFUYmhzUVlOblc4ZE8zRnFnUmVFeG5odmNxYWtoNTQ
+
+    4. [TOP] [04-03 00:57] [rel:0.65] [BZ-via-Google]
+       Carvana Analyst Ratings and Price Targets | NYSE:CVNA
+       Source: Benzinga  (also: Benzinga)
+       > Carvana Analyst Ratings and Price Targets | NYSE:CVNA Benzinga
+       https://www.benzinga.com/quote/CVNA/analyst-ratings
+
+    5. [TOP] [04-04 11:58] [rel:0.50] [BZ-via-Google]
+       Latest Carvana Stock News | NYSE:CVNA
+       Source: Benzinga  (also: Benzinga)
+       > Latest Carvana Stock News | NYSE:CVNA Benzinga
+       https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nNDBhbm9KYkpkMlB0eG0tZ1ZhRmxaNGRyZmRUbjdFYjBPdTAtMXIxNzdFczhHb3V4UDl
+
+    6. [TOP] [04-03 15:01] [rel:0.50] [BZ-via-Google]
+       Strategic Move: Christopher Lialios Enhances Portfolio With Ulta Beauty Stock Options Worth $11K
+       Source: Benzinga  (also: Benzinga)
+       > Strategic Move: Christopher Lialios Enhances Portfolio With Ulta Beauty Stock Options Worth $11K Benzinga
+       https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTml0UGRkX3pDNzJjZHJlckhxMVhwYjEwQnFGQTh4allIUHBSTTlOWlFCYkRWSXZ6bXk
+
+  ── OTHER SOURCES (504) ──
+
+    1. [TOP] [04-04 10:09] [rel:0.70] [Google-broad]
+       5-Star Analyst Raises Nvidia Stock (NVDA) Forecast as Demand for ‘Hopper and Blackwell AI-Chips Likely to Outstrip Supply’
+       Source: Yahoo Finance
+       > 5-Star Analyst Raises Nvidia Stock (NVDA) Forecast as Demand for ‘Hopper and Blackwell AI-Chips Likely to Outstrip Supply’ Yahoo Finance
+       https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-raises-nvidia-100927506.html
+
+    2. [TOP] [04-03 02:15] [rel:0.65] [Google-broad]
+       Nvidia's Blackwell and Rubin Chips Will Have $1 Trillion in Lifetime Sales. What Does That Mean for Nvidia's Stock?
+       Source: The Motley Fool
+       > Nvidia's Blackwell and Rubin Chips Will Have $1 Trillion in Lifetime Sales. What Does That Mean for Nvidia's Stock? The Motley Fool
+       https://www.fool.com/investing/2026/04/02/nvidias-blackwell-and-rubin-chips-will-have-1-tril/
+
+    3. [low] [04-04 20:30] [rel:0.70] [Google-broad]
+       Can NVIDIA’s $1 Trillion AI Chip Outlook Push NVDA Stock to New Highs by 2027?
+       Source: Analytics Insight
+       > Can NVIDIA’s $1 Trillion AI Chip Outlook Push NVDA Stock to New Highs by 2027? Analytics Insight
+       https://www.analyticsinsight.net/news/can-nvidias-1-trillion-ai-chip-outlook-push-nvda-stock-to-new-highs-by-2027
+
+    4. [low] [04-03 13:47] [rel:0.60] [Google-broad]
+       Nvidia Stock Forecast — How High or Low Can NVDA Stock Go?
+       Source: tipranks.com
+       > Nvidia Stock Forecast — How High or Low Can NVDA Stock Go? tipranks.com
+       https://news.google.com/rss/articles/CBMijgFBVV95cUxOaU5aMmZnZXdSZlNXQWUxeTlvQm9iZmNEaUNwTTlVVUJHamJiYTRURjhncFpfclIyVl9
+
+    5. [low] [04-03 02:03] [rel:0.50] [Google-broad]
+       NVIDIA Stock Rallied 8%, But 3 Signals Point to a Reversal
+       Source: Mitrade
+       > NVIDIA Stock Rallied 8%, But 3 Signals Point to a Reversal Mitrade
+       https://news.google.com/rss/articles/CBMikwFBVV95cUxOaUUxbXQxR1RjM0llTGV5OGVUcEV6bWh2UVZGQ1d5bHp4bk1PN1ZZb2VqVkttbVhpaXd
+
+    6. [TOP] [04-04 16:30] [rel:0.65] [Google-broad]
+       Broadcom: The AI Plumber Set For A Massive Explosion (NASDAQ:AVGO)
+       Source: Seeking Alpha
+       > Broadcom: The AI Plumber Set For A Massive Explosion (NASDAQ:AVGO) Seeking Alpha
+       https://seekingalpha.com/article/4888432-broadcom-the-ai-plumber-set-for-massive-explosion
+
+    7. [TOP] [04-04 13:30] [rel:0.65] [Google-broad]
+       Broadcom: $3T Market Cap Possible - AI Monetization Deepens (NASDAQ:AVGO)
+       Source: Seeking Alpha
+       > Broadcom: $3T Market Cap Possible - AI Monetization Deepens (NASDAQ:AVGO) Seeking Alpha
+       https://seekingalpha.com/article/4888363-broadcom-3t-market-cap-possible-ai-monetization-deepens
+
+    8. [TOP] [04-03 15:30] [rel:0.65] [Google-broad]
+       Broadcom Inc. (AVGO) Down 5.5% Since Last Earnings Report: Can It Rebound?
+       Source: Yahoo Finance
+       > Broadcom Inc. (AVGO) Down 5.5% Since Last Earnings Report: Can It Rebound? Yahoo Finance
+       https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-down-5-153003917.html
+
+    9. [TOP] [04-03 21:42] [rel:0.60] [Google-broad]
+       Broadcom Inc. (AVGO): Billionaire Steve Cohen Almost Doubles Stake
+       Source: Yahoo Finance
+       > Broadcom Inc. (AVGO): Billionaire Steve Cohen Almost Doubles Stake Yahoo Finance
+       https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-billionaire-steve-214258758.html
+
+   10. [OK ] [04-03 13:07] [rel:0.55] [Google-broad]
+       Broadcom Stock In Spotlight -- Names Alphabet's Top Accounting Leader for CFO Role
+       Source: TradingView
+       > Broadcom Stock In Spotlight -- Names Alphabet's Top Accounting Leader for CFO Role TradingView
+       https://www.tradingview.com/news/gurufocus:505f0949d094b:0-broadcom-stock-in-spotlight-names-alphabet-s-top-accounting-l
+
+   11. [low] [04-03 09:39] [rel:0.70] [Google-broad]
+       Broadcom (AVGO) or Marvell (MRVL)? Top Analyst Picks the Better Chip Stock
+       Source: tipranks.com
+       > Broadcom (AVGO) or Marvell (MRVL)? Top Analyst Picks the Better Chip Stock tipranks.com
+       https://www.tipranks.com/news/broadcom-avgo-or-marvell-mrvl-top-analyst-picks-the-better-chip-stock
+
+   12. [low] [04-03 12:23] [rel:0.65] [Google-broad]
+       Broadcom (AVGO) Stock — New CFO Named, Alphabet’s Amie Thuener Takes the Role
+       Source: CoinCentral
+       > Broadcom (AVGO) Stock — New CFO Named, Alphabet’s Amie Thuener Takes the Role CoinCentral
+       https://coincentral.com/broadcom-avgo-stock-new-cfo-named-alphabets-amie-thuener-takes-the-role/
+
+   13. [low] [04-03 01:33] [rel:0.65] [Google-broad]
+       Broadcom Inc. (AVGO) Drops 5.5% Following Recent Earnings Release: Is a Recovery Possible?
+       Source: Bitget
+       > Broadcom Inc. (AVGO) Drops 5.5% Following Recent Earnings Release: Is a Recovery Possible? Bitget
+       https://www.bitget.com/news/detail/12560605335269
+
+   14. [low] [04-04 12:11] [rel:0.60] [Google-broad]
+       Broadcom Inc. (NASDAQ:AVGO) Passes the "Caviar Cruise" Quality Investing Screen
+       Source: ChartMill
+       > Broadcom Inc. (NASDAQ:AVGO) Passes the "Caviar Cruise" Quality Investing Screen ChartMill
+       https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2dIaG9JdlRhZUJFT09FQThPMldkU1N6Q0JwMDcxekxXLWtiU3pZemNtbFRzbFBQQ3l
+
+   15. [low] [04-03 11:07] [rel:0.55] [Google-broad]
+       $1,000 of AVGO stock from 2016 is worth this much with dividends
+       Source: thestreet.com
+       > $1,000 of AVGO stock from 2016 is worth this much with dividends thestreet.com
+       https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMEtpTG9XLV9JcDNnSWtUTDJJazEtTFIxeUZZOEJsdnBfS292V0x3TnZfVmE1Y2g4a20
+
+   16. [TOP] [04-04 02:12] [rel:0.70] [Google-broad]
+       Will Micron's (MU) Long-Dated Debt Buyback and AI Capex Push Change Its Investment Narrative?
+       Source: Yahoo Finance
+       > Will Micron's (MU) Long-Dated Debt Buyback and AI Capex Push Change Its Investment Narrative? Yahoo Finance
+       https://finance.yahoo.com/markets/stocks/articles/microns-mu-long-dated-debt-021216688.html
+
+   17. [TOP] [04-04 05:14] [rel:0.60] [Google-broad]
+       Micron Stock Could Be The Next Intel (NASDAQ:MU)
+       Source: Seeking Alpha
+       > Micron Stock Could Be The Next Intel (NASDAQ:MU) Seeking Alpha
+       https://seekingalpha.com/article/4888354-micron-could-be-next-intel
+
+   18. [TOP] [04-04 20:17] [rel:0.50] [Google-broad]
+       SA Asks: With shares down around 20%, what's next for Micron?
+       Source: Seeking Alpha
+       > SA Asks: With shares down around 20%, what's next for Micron? Seeking Alpha
+       https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0FzQjlRa3FfSHVabUJDZHQzU0w0Q01NcWY3SWZWRWFncUw1TXJfbVdwYS1pbm1mNG1
+
+   19. [TOP] [04-03 18:23] [rel:0.50] [Google-broad]
+       Why Micron Stock Slumped 18% in March
+       Source: The Motley Fool
+       > Why Micron Stock Slumped 18% in March The Motley Fool
+       https://news.google.com/rss/articles/CBMihgFBVV95cUxNakotYUFrdW9XSkFOeHNiM3JUeUdWUWR0aGs0aWFHRGpMYjRCLTdIcjg0a1kyYUxVd2l
+
+   20. [OK ] [04-03 16:08] [rel:0.50] [Google-broad]
+       Micron Stock: Buy, Sell, or Hold?
+       Source: The Globe and Mail
+       > Micron Stock: Buy, Sell, or Hold? The Globe and Mail
+       https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3JLYVBEWWNtZVBnVGxCb194SzhtVTFuSE5CUXJGZmxxLWZNN1hHazlodXNPeGw5VGJ
+
+   21. [low] [04-04 00:37] [rel:0.70] [Google-broad]
+       Micron Technology (NASDAQ:MU) EVP April Arnzen Sells 40,000 Shares
+       Source: MarketBeat
+       > Micron Technology (NASDAQ:MU) EVP April Arnzen Sells 40,000 Shares MarketBeat
+       https://www.marketbeat.com/instant-alerts/micron-technology-nasdaqmu-evp-april-arnzen-sells-40000-shares-2026-04-03/
+
+   22. [low] [04-03 12:41] [rel:0.65] [Google-broad]
+       Can Micron Stock (MU) Continue its Strong Run on Memory Demand? Analysts Weigh in
+       Source: tipranks.com
+       > Can Micron Stock (MU) Continue its Strong Run on Memory Demand? Analysts Weigh in tipranks.com
+       https://www.tipranks.com/news/can-micron-stock-mu-continue-its-strong-run-on-memory-demand-analysts-weigh-in
+
+   23. [low] [04-03 12:11] [rel:0.65] [Google-broad]
+       Micron Technology, Inc. $MU Shares Bought by Vanguard Capital Wealth Advisors
+       Source: MarketBeat
+       > Micron Technology, Inc. $MU Shares Bought by Vanguard Capital Wealth Advisors MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-micron-technology-inc-mu-shares-bought-by-vanguard-capital-wealth-advis
+
+   24. [low] [04-03 13:00] [rel:0.60] [Google-broad]
+       Micron Technology, Inc. (MU) is Attracting Investor Attention: Here is What You Should Know
+       Source: Yahoo Finance Australia
+       > Micron Technology, Inc. (MU) is Attracting Investor Attention: Here is What You Should Know Yahoo Finance Australia
+       https://news.google.com/rss/articles/CBMijAFBVV95cUxPMnpEaXM5Yno2aEktOGtsVzAxZnFmSnlaSldOV0pOOFRhVTVneENuSzY1YlFkTDUzd1V
+
+   25. [TOP] [04-03 23:25] [rel:0.55] [Google-broad]
+       AMD vs. Nvidia: The AI Supercycle Is Big Enough for Both. Here's the Better Buy.
+       Source: The Motley Fool
+       > AMD vs. Nvidia: The AI Supercycle Is Big Enough for Both. Here's the Better Buy. The Motley Fool
+       https://www.fool.com/investing/2026/04/03/amd-vs-nvidia-the-ai-supercycle-is-big-enough-for/
+
+   26. [low] [04-03 14:14] [rel:0.70] [Google-broad]
+       Advanced Micro Devices, Inc. stock: 3.5% Surge on Upgrade — Buy Now?
+       Source: AD HOC NEWS
+       > Advanced Micro Devices, Inc. stock: 3.5% Surge on Upgrade — Buy Now? AD HOC NEWS
+       https://www.ad-hoc-news.de/boerse/ueberblick/advanced-micro-devices-inc-stock-3-5-percent-surge-on-upgrade-buy/69065245
+
+   27. [low] [04-04 12:30] [rel:0.65] [Google-broad]
+       Whalen Wealth Management Inc. Buys Shares of 6,126 Advanced Micro Devices, Inc. $AMD
+       Source: MarketBeat
+       > Whalen Wealth Management Inc. Buys Shares of 6,126 Advanced Micro Devices, Inc. $AMD MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-whalen-wealth-management-inc-buys-shares-of-6126-advanced-micro-devices
+
+   28. [low] [04-04 11:32] [rel:0.65] [Google-broad]
+       SS&H Financial Advisors Inc. Buys 4,000 Shares of Advanced Micro Devices, Inc. $AMD
+       Source: MarketBeat
+       > SS&H Financial Advisors Inc. Buys 4,000 Shares of Advanced Micro Devices, Inc. $AMD MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-ssh-financial-advisors-inc-buys-4000-shares-of-advanced-micro-devices-i
+
+   29. [low] [04-04 11:24] [rel:0.65] [Google-broad]
+       Advanced Micro Devices, Inc. $AMD Shares Purchased by Stratos Wealth Partners LTD.
+       Source: MarketBeat
+       > Advanced Micro Devices, Inc. $AMD Shares Purchased by Stratos Wealth Partners LTD. MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-advanced-micro-devices-inc-amd-shares-purchased-by-stratos-wealth-partn
+
+   30. [low] [04-03 10:39] [rel:0.65] [Google-broad]
+       Formidable Asset Management LLC Has $5.66 Million Stock Position in Advanced Micro Devices, Inc. $AMD
+       Source: MarketBeat
+       > Formidable Asset Management LLC Has $5.66 Million Stock Position in Advanced Micro Devices, Inc. $AMD MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-formidable-asset-management-llc-has-566-million-stock-position-in-advan
+
+   31. [low] [04-03 07:17] [rel:0.65] [Google-broad]
+       Aberdeen Group plc Grows Stock Position in Advanced Micro Devices, Inc. $AMD
+       Source: MarketBeat
+       > Aberdeen Group plc Grows Stock Position in Advanced Micro Devices, Inc. $AMD MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-aberdeen-group-plc-grows-stock-position-in-advanced-micro-devices-inc-a
+
+   32. [low] [04-03 18:28] [rel:0.60] [Google-broad]
+       Advanced Micro Devices, Inc. (AMD0.F) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > Advanced Micro Devices, Inc. (AMD0.F) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCRFVCZG5uRV94bDhab0dvUjlEWXd2S2V5T1J4bTd6WC0tQzdDanZIazlsZlI4ZjFyMEx
+
+   33. [low] [04-03 08:17] [rel:0.65] [Google-broad]
+       6,788 Shares in Applied Materials, Inc. $AMAT Acquired by Dorato Capital Management
+       Source: MarketBeat
+       > 6,788 Shares in Applied Materials, Inc. $AMAT Acquired by Dorato Capital Management MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-6788-shares-in-applied-materials-inc-amat-acquired-by-dorato-capital-ma
+
+   34. [low] [04-03 02:03] [rel:0.60] [Google-broad]
+       Applied Materials (AMAT) Raised to Strong Buy: What Could This Mean for the Stock?
+       Source: Bitget
+       > Applied Materials (AMAT) Raised to Strong Buy: What Could This Mean for the Stock? Bitget
+       https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nQzA1MzVVZlpHcTJJZm1xdEl1b0VXQjM3QzZ2NzRUUWlxVnJ4SDIxWmt5R1U2RUwzMnJ
+
+   35. [low] [04-04 12:30] [rel:0.65] [Google-broad]
+       Whalen Wealth Management Inc. Makes New $1.42 Million Investment in Lam Research Corporation $LRCX
+       Source: MarketBeat
+       > Whalen Wealth Management Inc. Makes New $1.42 Million Investment in Lam Research Corporation $LRCX MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-whalen-wealth-management-inc-makes-new-142-million-investment-in-lam-re
+
+   36. [low] [04-04 15:50] [rel:0.50] [Google-broad]
+       KLAC Earning Date, Earning Analysis and Earning Prediction
+       Source: intellectia.ai
+       > KLAC Earning Date, Earning Analysis and Earning Prediction intellectia.ai
+       https://intellectia.ai/en/stock/KLAC/earnings
+
+   37. [low] [04-03 08:51] [rel:0.65] [Google-broad]
+       Eldred Rock Partners LLC Decreases Stake in Texas Instruments Incorporated $TXN
+       Source: MarketBeat
+       > Eldred Rock Partners LLC Decreases Stake in Texas Instruments Incorporated $TXN MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-eldred-rock-partners-llc-decreases-stake-in-texas-instruments-incorpora
+
+   38. [low] [04-03 04:01] [rel:0.55] [Google-broad]
+       Earnings preview: What to expect from Texas Instruments' report
+       Source: MSN
+       > Earnings preview: What to expect from Texas Instruments' report MSN
+       https://www.msn.com/en-us/money/topstocks/earnings-preview-what-to-expect-from-texas-instruments-report/ar-AA1ZyhOX
+
+   39. [low] [04-03 02:40] [rel:0.50] [Google-broad]
+       Texas Instruments Fell 8% Over the Past 30 Days. Here’s Why Slowing Industrial Demand Is Weighing on the Stock
+       Source: TIKR.com
+       > Texas Instruments Fell 8% Over the Past 30 Days. Here’s Why Slowing Industrial Demand Is Weighing on the Stock TIKR.com
+       https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ1JCVWVFNVp6QTA0anRkOFFtZUVDUW80VENFdWg0UEhTbGJHdE9yczZ1dU9QQlBDTFV
+
+   40. [OK ] [04-03 20:37] [rel:0.55] [Google-broad]
+       Roche Vincent, Analog Devices chair & CEO, sells $3.18 million in stock
+       Source: investing.com
+       > Roche Vincent, Analog Devices chair & CEO, sells $3.18 million in stock investing.com
+       https://www.investing.com/news/insider-trading-news/roche-vincent-analog-devices-chair--ceo-sells-318-million-in-stock-9
+
+   41. [low] [04-03 22:39] [rel:0.70] [Google-broad]
+       Analog Devices (NASDAQ:ADI) CEO Sells $3,181,400.00 in Stock
+       Source: MarketBeat
+       > Analog Devices (NASDAQ:ADI) CEO Sells $3,181,400.00 in Stock MarketBeat
+       https://www.marketbeat.com/instant-alerts/analog-devices-nasdaqadi-ceo-sells-318140000-in-stock-2026-04-03/
+
+   42. [low] [04-04 12:06] [rel:0.65] [Google-broad]
+       Tritonpoint Wealth LLC Cuts Stock Position in Analog Devices, Inc. $ADI
+       Source: MarketBeat
+       > Tritonpoint Wealth LLC Cuts Stock Position in Analog Devices, Inc. $ADI MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-tritonpoint-wealth-llc-cuts-stock-position-in-analog-devices-inc-adi-20
+
+   43. [low] [04-04 10:34] [rel:0.65] [Google-broad]
+       Analog Devices, Inc. $ADI Shares Purchased by Thurston Springer Miller Herd & Titak Inc.
+       Source: MarketBeat
+       > Analog Devices, Inc. $ADI Shares Purchased by Thurston Springer Miller Herd & Titak Inc. MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-analog-devices-inc-adi-shares-purchased-by-thurston-springer-miller-her
+
+   44. [low] [04-03 20:13] [rel:0.65] [Google-broad]
+       Analog Devices (ADI) CEO sells 10K shares after option exercise
+       Source: Stock Titan
+       > Analog Devices (ADI) CEO sells 10K shares after option exercise Stock Titan
+       https://www.stocktitan.net/sec-filings/ADI/form-4-analog-devices-inc-insider-trading-activity-860d4df55a28.html
+
+   45. [low] [04-03 07:17] [rel:0.65] [Google-broad]
+       Aberdeen Group plc Has $222.02 Million Position in Analog Devices, Inc. $ADI
+       Source: MarketBeat
+       > Aberdeen Group plc Has $222.02 Million Position in Analog Devices, Inc. $ADI MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-aberdeen-group-plc-has-22202-million-position-in-analog-devices-inc-adi
+
+   46. [low] [04-03 19:07] [rel:0.50] [Google-broad]
+       ANALOG DEVICES INC. R (ANL.DE) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > ANALOG DEVICES INC. R (ANL.DE) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTE94WFJSN0tlTVNOZ2dEeEFkN3g1X2lsWXFmVk42Sng0MHJCZEVMSFpVR1BUUVJYOGhxaEZ
+
+   47. [TOP] [04-03 21:54] [rel:0.55] [Google-broad]
+       Arista Networks, Inc. (ANET): Billionaire Steve Cohen Admires This AI Stock
+       Source: Yahoo Finance
+       > Arista Networks, Inc. (ANET): Billionaire Steve Cohen Admires This AI Stock Yahoo Finance
+       https://finance.yahoo.com/markets/stocks/articles/arista-networks-inc-anet-billionaire-215457017.html
+
+   48. [low] [04-03 11:02] [rel:0.65] [Google-broad]
+       Arista Networks (NYSE:ANET) Stock Rating Upgraded by Susquehanna
+       Source: MarketBeat
+       > Arista Networks (NYSE:ANET) Stock Rating Upgraded by Susquehanna MarketBeat
+       https://www.marketbeat.com/instant-alerts/arista-networks-nyseanet-stock-rating-upgraded-by-susquehanna-2026-04-03/
+
+   49. [low] [04-04 09:53] [rel:0.55] [Google-broad]
+       Arista Networks, Inc. $ANET Stock Holdings Lifted by Perigon Wealth Management LLC
+       Source: MarketBeat
+       > Arista Networks, Inc. $ANET Stock Holdings Lifted by Perigon Wealth Management LLC MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-arista-networks-inc-anet-stock-holdings-lifted-by-perigon-wealth-manage
+
+   50. [low] [04-04 00:19] [rel:0.55] [Google-broad]
+       Arista Networks (NYSE:ANET) Director Sells $1,007,600.00 in Stock
+       Source: MarketBeat
+       > Arista Networks (NYSE:ANET) Director Sells $1,007,600.00 in Stock MarketBeat
+       https://www.marketbeat.com/instant-alerts/arista-networks-nyseanet-director-sells-100760000-in-stock-2026-04-03/
+
+   51. [low] [04-03 22:31] [rel:0.50] [Google-broad]
+       Director’s family trust trims Arista (NYSE: ANET) stake
+       Source: Stock Titan
+       > Director’s family trust trims Arista (NYSE: ANET) stake Stock Titan
+       https://news.google.com/rss/articles/CBMiswFBVV95cUxOMW9Lcl9QTEhnZU1jVVkxWDNuMjZ3bE9ESlFzSjM1c1hLQThUcXBnNlR0SFNrY0JRRGV
+
+   52. [low] [04-04 11:24] [rel:0.65] [Google-broad]
+       Stratos Wealth Partners LTD. Decreases Stake in Qualcomm Incorporated $QCOM
+       Source: MarketBeat
+       > Stratos Wealth Partners LTD. Decreases Stake in Qualcomm Incorporated $QCOM MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-stratos-wealth-partners-ltd-decreases-stake-in-qualcomm-incorporated-qc
+
+   53. [low] [04-04 10:17] [rel:0.65] [Google-broad]
+       Qualcomm Incorporated $QCOM Shares Purchased by SteelPeak Wealth LLC
+       Source: MarketBeat
+       > Qualcomm Incorporated $QCOM Shares Purchased by SteelPeak Wealth LLC MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-qualcomm-incorporated-qcom-shares-purchased-by-steelpeak-wealth-llc-202
+
+   54. [low] [04-03 12:24] [rel:0.65] [Google-broad]
+       Westwood Wealth Management Buys Shares of 4,910 Qualcomm Incorporated $QCOM
+       Source: MarketBeat
+       > Westwood Wealth Management Buys Shares of 4,910 Qualcomm Incorporated $QCOM MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-westwood-wealth-management-buys-shares-of-4910-qualcomm-incorporated-qc
+
+   55. [low] [04-03 18:14] [rel:0.65] [Google-broad]
+       Western Digital (WDC) Valuation Check As AI Storage Optimism And Q3 2026 Earnings Expectations Build
+       Source: Yahoo! Finance Canada
+       > Western Digital (WDC) Valuation Check As AI Storage Optimism And Q3 2026 Earnings Expectations Build Yahoo! Finance Canada
+       https://ca.finance.yahoo.com/news/western-digital-wdc-valuation-check-181436630.html
+
+   56. [low] [04-04 06:01] [rel:0.60] [Google-broad]
+       Western Digital (NASDAQ:WDC) Raised to "Buy" at Wall Street Zen
+       Source: MarketBeat
+       > Western Digital (NASDAQ:WDC) Raised to "Buy" at Wall Street Zen MarketBeat
+       https://www.marketbeat.com/instant-alerts/western-digital-nasdaqwdc-raised-to-buy-at-wall-street-zen-2026-04-04/
+
+   57. [TOP] [04-03 07:12] [rel:0.55] [Google-broad]
+       Why I Am Rating SanDisk A Strong Buy (NASDAQ:SNDK)
+       Source: Seeking Alpha
+       > Why I Am Rating SanDisk A Strong Buy (NASDAQ:SNDK) Seeking Alpha
+       https://seekingalpha.com/article/4888260-sandisk-stock-surging-ai-cloud-driven-nand-demand-strong-buy
+
+   58. [low] [04-03 12:36] [rel:0.50] [Google-broad]
+       SanDisk (SNDK) Stock Drops on Google News — Bernstein Says Buy the Dip
+       Source: CoinCentral
+       > SanDisk (SNDK) Stock Drops on Google News — Bernstein Says Buy the Dip CoinCentral
+       https://news.google.com/rss/articles/CBMilgFBVV95cUxQWlV4X2RhMjFVVnhMQlFDaUxaWU1QWlZXVWM4Z3dNRERKbU9GdU5mWWN5VzM3bV93MnF
+
+   59. [low] [04-03 21:08] [rel:0.50] [Google-broad]
+       STX Mar 2027 240.000 call (STX270319C00240000) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > STX Mar 2027 240.000 call (STX270319C00240000) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2NEpZMGFlbmRsTFAtOVA4c1lkWEtpa2tlb3dJZHlJdGdLOEM4SGhuX1h3bmRsMGJWRDB
+
+   60. [low] [04-03 20:03] [rel:0.50] [Google-broad]
+       STX OPT.POLAND GR EUR (ST0C.Z) Latest Stock News & Headlines
+       Source: Yahoo! Finance Canada
+       > STX OPT.POLAND GR EUR (ST0C.Z) Latest Stock News & Headlines Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KeXFLUGsxb1JvR0k3ZjlTZTY1MDZwMkx5cGZtSGN0T0R2ZHY1ZC01UXJCa1dubkoza3l
+
+   61. [low] [04-03 11:11] [rel:0.50] [Google-broad]
+       Seagate Technology Holdings (NASDAQ:STX) Fits Minervini's Trend Template with Strong Growth Momentum
+       Source: ChartMill
+       > Seagate Technology Holdings (NASDAQ:STX) Fits Minervini's Trend Template with Strong Growth Momentum ChartMill
+       https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUWd0XzVWV2w5TnUtSUZTaUNaN1NoTXIwUzlabHdZZmNyNjY5N1BpenhQOWVGTDM4QXp
+
+   62. [low] [04-03 19:15] [rel:0.50] [Google-broad]
+       Cadence (NASDAQ: CDNS) SVP sells 1,000 shares under 10b5-1 plan
+       Source: Stock Titan
+       > Cadence (NASDAQ: CDNS) SVP sells 1,000 shares under 10b5-1 plan Stock Titan
+       https://news.google.com/rss/articles/CBMivAFBVV95cUxQX2swSnFFd2F3SEEta2xqaWdRNXEzc1p0N0F5ZkxfU3d2dGJsNHNFNUJ4WjNsSkc4ODh
+
+   63. [low] [04-03 23:53] [rel:0.50] [Google-broad]
+       SNPS Apr 2026 437.500 call (SNPS260410C00437500) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > SNPS Apr 2026 437.500 call (SNPS260410C00437500) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZkFVX3lxTE11MmZnT3YtWl9hbHo1MEdkU09CbURLeG1vNEpqM1laV095QjZsaEdqR2hTck9OQnNXRmJ
+
+   64. [low] [04-03 00:54] [rel:0.55] [Google-broad]
+       Here's what to expect from NXP Semiconductors' next earnings report
+       Source: MSN
+       > Here's what to expect from NXP Semiconductors' next earnings report MSN
+       https://www.msn.com/en-us/money/topstocks/here-s-what-to-expect-from-nxp-semiconductors-next-earnings-report/ar-AA2013Po
+
+   65. [low] [04-03 22:56] [rel:0.65] [Google-broad]
+       Monolithic Power Systems (NASDAQ:MPWR) EVP Sells $1,586,928.00 in Stock
+       Source: MarketBeat
+       > Monolithic Power Systems (NASDAQ:MPWR) EVP Sells $1,586,928.00 in Stock MarketBeat
+       https://www.marketbeat.com/instant-alerts/monolithic-power-systems-nasdaqmpwr-evp-sells-158692800-in-stock-2026-04-03/
+
+   66. [low] [04-03 06:11] [rel:0.65] [Google-broad]
+       Monolithic Power Systems, Inc. (NASDAQ:MPWR) Given Average Recommendation of "Moderate Buy" by Brokerages
+       Source: MarketBeat
+       > Monolithic Power Systems, Inc. (NASDAQ:MPWR) Given Average Recommendation of "Moderate Buy" by Brokerages MarketBeat
+       https://www.marketbeat.com/instant-alerts/monolithic-power-systems-inc-nasdaqmpwr-given-average-recommendation-of-modera
+
+   67. [low] [04-04 03:10] [rel:0.60] [Google-broad]
+       Tseng, Monolithic Power Systems EVP, sells $1.58 million in MPWR stock By Investing.com
+       Source: za.investing.com
+       > Tseng, Monolithic Power Systems EVP, sells $1.58 million in MPWR stock By Investing.com za.investing.com
+       https://news.google.com/rss/articles/CBMiygFBVV95cUxPUENqUjJvTVpDR0JNekRLeGlJU3Jjb1hwV3JyZkk5ZDFFSC01eW9YN3FBZjN5dnJsdXp
+
+   68. [low] [04-03 21:36] [rel:0.60] [Google-broad]
+       Monolithic Power (NASDAQ: MPWR) EVP sells 1,400 shares in 10b5-1 trades
+       Source: Stock Titan
+       > Monolithic Power (NASDAQ: MPWR) EVP sells 1,400 shares in 10b5-1 trades Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxORFFxbFlrX3RReGs1bngxc1R3amdLZ2lpSGdGWjZZWFRQWnZlN3MxcUp6Z2U4ekh4d28
+
+   69. [low] [04-03 21:00] [rel:0.60] [Google-broad]
+       Monolithic Power EVP Sciammas sells $33k in MPWR stock By Investing.com
+       Source: Investing.com Australia
+       > Monolithic Power EVP Sciammas sells $33k in MPWR stock By Investing.com Investing.com Australia
+       https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ1FkOTI5WXVfTlI2QVQzNWVkOFliNnp0am1yWmwyRmVycEVzU0NxcWtMNlVwRUdnMXV
+
+   70. [low] [04-03 19:58] [rel:0.60] [Google-broad]
+       EVP at Monolithic Power (MPWR) sells 30 shares under 10b5-1 plan
+       Source: Stock Titan
+       > EVP at Monolithic Power (MPWR) sells 30 shares under 10b5-1 plan Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxNNWNmeEVueTM4OW1kcllnOERod2g5cVVObmJtY2dEODlQc1ExVGMxRzVDY2xRT2ViaUd
+
+   71. [low] [04-03 16:11] [rel:0.75] [Google-broad]
+       Teradyne (TER) Stock Surges 271% Ahead of Q1 Earnings: What Investors Should Watch
+       Source: MEXC
+       > Teradyne (TER) Stock Surges 271% Ahead of Q1 Earnings: What Investors Should Watch MEXC
+       https://www.mexc.com/news/1003126
+
+   72. [low] [04-03 13:53] [rel:0.75] [Google-broad]
+       Teradyne (TER) Stock Surges 271% Ahead of Crucial Q1 2026 Earnings Report
+       Source: MoneyCheck
+       > Teradyne (TER) Stock Surges 271% Ahead of Crucial Q1 2026 Earnings Report MoneyCheck
+       https://moneycheck.com/teradyne-ter-stock-surges-271-ahead-of-crucial-q1-2026-earnings-report/
+
+   73. [low] [04-03 13:40] [rel:0.65] [Google-broad]
+       Teradyne (TER) Stock: Everything You Need to Know Before April Earnings
+       Source: CoinCentral
+       > Teradyne (TER) Stock: Everything You Need to Know Before April Earnings CoinCentral
+       https://coincentral.com/teradyne-ter-stock-everything-you-need-to-know-before-april-earnings/
+
+   74. [low] [04-03 19:06] [rel:0.60] [Google-broad]
+       Teradyne (TER) executive uses 1,162 shares to cover RSU taxes
+       Source: Stock Titan
+       > Teradyne (TER) executive uses 1,162 shares to cover RSU taxes Stock Titan
+       https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM3BGQ1RqOXdROVNpdXZHVTZqeWs3a2JQS1lNbGJtelJoZHVuWnhieFFscHZPVS14NXB
+
+   75. [low] [04-04 11:19] [rel:0.60] [Google-broad]
+       What to expect from Teradyne's Q1 2026 earnings report
+       Source: MSN
+       > What to expect from Teradyne's Q1 2026 earnings report MSN
+       https://www.msn.com/en-us/money/topstocks/what-to-expect-from-teradyne-s-q1-2026-earnings-report/ar-AA201MY8
+
+   76. [low] [04-04 16:50] [rel:0.50] [Google-broad]
+       TER Earning Date, Earning Analysis and Earning Prediction
+       Source: intellectia.ai
+       > TER Earning Date, Earning Analysis and Earning Prediction intellectia.ai
+       https://intellectia.ai/en/stock/TER/earnings
+
+   77. [low] [04-03 10:02] [rel:0.50] [Google-broad]
+       AI, Robotics Keep Teradyne Shares in Demand
+       Source: FXEmpire
+       > AI, Robotics Keep Teradyne Shares in Demand FXEmpire
+       https://news.google.com/rss/articles/CBMimAFBVV95cUxOd1lJNUV2WW0zY1gwdGNyZEJENmdnYkx0ZlNmZG10RTdsTHJFX1djcEwtVkp6SU9Uajg
+
+   78. [low] [04-04 11:11] [rel:0.70] [Google-broad]
+       Perpetual Ltd Grows Position in Microchip Technology Incorporated $MCHP
+       Source: MarketBeat
+       > Perpetual Ltd Grows Position in Microchip Technology Incorporated $MCHP MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-perpetual-ltd-grows-position-in-microchip-technology-incorporated-mchp-
+
+   79. [low] [04-03 21:33] [rel:0.70] [Google-broad]
+       Microchip (MCHP) CEO receives new RSU and PSU stock awards
+       Source: Stock Titan
+       > Microchip (MCHP) CEO receives new RSU and PSU stock awards Stock Titan
+       https://www.stocktitan.net/sec-filings/MCHP/form-4-microchip-technology-inc-insider-trading-activity-48f1e016ec9f.html
+
+   80. [low] [04-03 21:29] [rel:0.70] [Google-broad]
+       Microchip (MCHP) CFO receives 58,500 RSU and PSU stock unit grants
+       Source: Stock Titan
+       > Microchip (MCHP) CFO receives 58,500 RSU and PSU stock unit grants Stock Titan
+       https://www.stocktitan.net/sec-filings/MCHP/form-4-microchip-technology-inc-insider-trading-activity-4f60d68b3aac.html
+
+   81. [low] [04-03 21:34] [rel:0.65] [Google-broad]
+       Microchip Technology (MCHP) COO receives stock unit grants and adjusts holdings
+       Source: Stock Titan
+       > Microchip Technology (MCHP) COO receives stock unit grants and adjusts holdings Stock Titan
+       https://www.stocktitan.net/sec-filings/MCHP/form-4-microchip-technology-inc-insider-trading-activity-7758fc2a38ed.html
+
+   82. [low] [04-03 21:32] [rel:0.65] [Google-broad]
+       Microchip (MCHP) SVP receives time- and performance-based stock unit grants
+       Source: Stock Titan
+       > Microchip (MCHP) SVP receives time- and performance-based stock unit grants Stock Titan
+       https://www.stocktitan.net/sec-filings/MCHP/form-4-microchip-technology-inc-insider-trading-activity-b5436c02295c.html
+
+   83. [low] [04-03 21:31] [rel:0.65] [Google-broad]
+       Microchip (NASDAQ: MCHP) awards new RSUs and PSUs to SVP
+       Source: Stock Titan
+       > Microchip (NASDAQ: MCHP) awards new RSUs and PSUs to SVP Stock Titan
+       https://www.stocktitan.net/sec-filings/MCHP/form-4-microchip-technology-inc-insider-trading-activity-2ebb8b09339c.html
+
+   84. [low] [04-03 21:06] [rel:0.55] [Google-broad]
+       MCHP Stock News Today | Earnings, Events & Price Alerts
+       Source: intellectia.ai  (also: intellectia.ai)
+       > MCHP Stock News Today | Earnings, Events & Price Alerts intellectia.ai
+       https://intellectia.ai/en/stock/MCHP/news
+
+   85. [low] [04-04 16:37] [rel:0.50] [Google-broad]
+       MCHP Earning Date, Earning Analysis and Earning Prediction
+       Source: intellectia.ai
+       > MCHP Earning Date, Earning Analysis and Earning Prediction intellectia.ai
+       https://intellectia.ai/en/stock/MCHP/earnings
+
+   86. [low] [04-04 14:04] [rel:0.70] [Google-broad]
+       Apple Stock (AAPL) Opinions on Recent Q1 Earnings
+       Source: quiverquant.com
+       > Apple Stock (AAPL) Opinions on Recent Q1 Earnings quiverquant.com
+       https://www.quiverquant.com/news/Apple+Stock+%28AAPL%29+Opinions+on+Recent+Q1+Earnings
+
+   87. [low] [04-04 00:41] [rel:0.70] [Google-broad]
+       Apple (NASDAQ:AAPL) CEO Timothy Cook Sells 64,949 Shares
+       Source: MarketBeat
+       > Apple (NASDAQ:AAPL) CEO Timothy Cook Sells 64,949 Shares MarketBeat
+       https://www.marketbeat.com/instant-alerts/apple-nasdaqaapl-ceo-timothy-cook-sells-64949-shares-2026-04-03/
+
+   88. [low] [04-04 09:19] [rel:0.65] [Google-broad]
+       Norden Group LLC Buys 44,107 Shares of Apple Inc. $AAPL
+       Source: MarketBeat
+       > Norden Group LLC Buys 44,107 Shares of Apple Inc. $AAPL MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-norden-group-llc-buys-44107-shares-of-apple-inc-aapl-2026-04-04/
+
+   89. [low] [04-04 09:07] [rel:0.65] [Google-broad]
+       Apple Inc. $AAPL Stock Holdings Reduced by Spring Capital Management LLC
+       Source: MarketBeat
+       > Apple Inc. $AAPL Stock Holdings Reduced by Spring Capital Management LLC MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-apple-inc-aapl-stock-holdings-reduced-by-spring-capital-management-llc-
+
+   90. [low] [04-04 08:04] [rel:0.65] [Google-broad]
+       Apple Inc. $AAPL Shares Purchased by Compton Wealth Advisory Group LLC
+       Source: MarketBeat
+       > Apple Inc. $AAPL Shares Purchased by Compton Wealth Advisory Group LLC MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-apple-inc-aapl-shares-purchased-by-compton-wealth-advisory-group-llc-20
+
+   91. [low] [04-03 23:31] [rel:0.65] [Google-broad]
+       Apple CEO Tim Cook sells $16.5 million in AAPL stock By Investing.com
+       Source: Investing.com Australia
+       > Apple CEO Tim Cook sells $16.5 million in AAPL stock By Investing.com Investing.com Australia
+       https://au.investing.com/news/insider-trading-news/apple-ceo-tim-cook-sells-165-million-in-aapl-stock-93CH-4346551
+
+   92. [low] [04-03 22:30] [rel:0.60] [Google-broad]
+       Apple (NASDAQ: AAPL) COO Sabih Khan receives RSU shares, pays taxes in stock
+       Source: Stock Titan
+       > Apple (NASDAQ: AAPL) COO Sabih Khan receives RSU shares, pays taxes in stock Stock Titan
+       https://news.google.com/rss/articles/CBMipgFBVV95cUxNcmFzejcwby15RkR3V1FkVzU0Yl9xSUptY2xvcVR0WWFzVVNfZmVQRTI1MHNoT1N6ZzF
+
+   93. [low] [04-03 13:00] [rel:0.60] [Google-broad]
+       Is Trending Stock Apple Inc. (AAPL) a Buy Now?
+       Source: Yahoo Finance Singapore
+       > Is Trending Stock Apple Inc. (AAPL) a Buy Now? Yahoo Finance Singapore
+       https://news.google.com/rss/articles/CBMihAFBVV95cUxPanRzTG41bFM1MTNVWVdKMi1uUnk2WjZhX1dlRmJIY0Z2eEVVaUlHbkFVQTNlMGZxczJ
+
+   94. [low] [04-03 09:41] [rel:0.60] [Google-broad]
+       Apple Inc. $AAPL is Perkins Coie Trust Co's 4th Largest Position
+       Source: nationaltoday.com
+       > Apple Inc. $AAPL is Perkins Coie Trust Co's 4th Largest Position nationaltoday.com
+       https://news.google.com/rss/articles/CBMivAFBVV95cUxOcFR2MjFsRWl5ckZsQVNma2VBUHhKYy1jMUJIR3RzTzllVGlGYkNjR1NnYW16Rk82SVI
+
+   95. [low] [04-03 18:41] [rel:0.50] [Google-broad]
+       Berkshire Hathaway (BRK.B) Insures Ships Traveling Through the Strait of Hormuz
+       Source: tipranks.com
+       > Berkshire Hathaway (BRK.B) Insures Ships Traveling Through the Strait of Hormuz tipranks.com
+       https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3RoRFNWUFpuZFBtcTlmXzBfa1NDaWVOU2t3QmliOExhMG01aS00NUMyQ0JuOENZbWt
+
+   96. [low] [04-03 12:29] [rel:0.55] [Google-broad]
+       Walmart to pay 2026’s second dividend in April; Here’s how much 100 WMT shares will earn
+       Source: Finbold
+       > Walmart to pay 2026’s second dividend in April; Here’s how much 100 WMT shares will earn Finbold
+       https://finbold.com/walmart-to-pay-2026s-second-dividend-in-april-heres-how-much-100-wmt-shares-will-earn/
+
+   97. [low] [04-03 08:05] [rel:0.55] [Google-broad]
+       Walmart Inc. $WMT Shares Purchased by Compagnie Lombard Odier SCmA
+       Source: MarketBeat
+       > Walmart Inc. $WMT Shares Purchased by Compagnie Lombard Odier SCmA MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-walmart-inc-wmt-shares-purchased-by-compagnie-lombard-odier-scma-2026-0
+
+   98. [low] [04-04 09:19] [rel:0.55] [Google-broad]
+       Sjbenen Advisory LLC Buys Shares of 9,118 JPMorgan Chase & Co. $JPM
+       Source: MarketBeat
+       > Sjbenen Advisory LLC Buys Shares of 9,118 JPMorgan Chase & Co. $JPM MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-sjbenen-advisory-llc-buys-shares-of-9118-jpmorgan-chase-co-jpm-2026-04-
+
+   99. [low] [04-04 09:19] [rel:0.55] [Google-broad]
+       Mn Services Vermogensbeheer B.V. Has $203.68 Million Stock Position in JPMorgan Chase & Co. $JPM
+       Source: MarketBeat
+       > Mn Services Vermogensbeheer B.V. Has $203.68 Million Stock Position in JPMorgan Chase & Co. $JPM MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-mn-services-vermogensbeheer-bv-has-20368-million-stock-position-in-jpmo
+
+  100. [low] [04-04 09:19] [rel:0.55] [Google-broad]
+       Retirement Systems of Alabama Has $303.61 Million Position in JPMorgan Chase & Co. $JPM
+       Source: MarketBeat
+       > Retirement Systems of Alabama Has $303.61 Million Position in JPMorgan Chase & Co. $JPM MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-retirement-systems-of-alabama-has-30361-million-position-in-jpmorgan-ch
+
+  101. [low] [04-04 08:04] [rel:0.55] [Google-broad]
+       Financial Planning Hawaii Inc. Acquires Shares of 4,769 JPMorgan Chase & Co. $JPM
+       Source: MarketBeat
+       > Financial Planning Hawaii Inc. Acquires Shares of 4,769 JPMorgan Chase & Co. $JPM MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-financial-planning-hawaii-inc-acquires-shares-of-4769-jpmorgan-chase-co
+
+  102. [low] [04-03 12:31] [rel:0.55] [Google-broad]
+       JPMorgan Stock (JPM) Looks Undervalued Despite AI and Apple Card Tailwinds
+       Source: tipranks.com
+       > JPMorgan Stock (JPM) Looks Undervalued Despite AI and Apple Card Tailwinds tipranks.com
+       https://www.tipranks.com/news/jpmorgan-stock-jpm-looks-undervalued-despite-ai-and-apple-card-tailwinds
+
+  103. [low] [04-04 11:40] [rel:0.55] [Google-broad]
+       Triad Investment Management Invests $1.05 Million in Johnson & Johnson $JNJ
+       Source: MarketBeat
+       > Triad Investment Management Invests $1.05 Million in Johnson & Johnson $JNJ MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-triad-investment-management-invests-105-million-in-johnson-johnson-jnj-
+
+  104. [low] [04-04 09:27] [rel:0.55] [Google-broad]
+       PineStone Asset Management Inc. Reduces Stake in Johnson & Johnson $JNJ
+       Source: MarketBeat
+       > PineStone Asset Management Inc. Reduces Stake in Johnson & Johnson $JNJ MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-pinestone-asset-management-inc-reduces-stake-in-johnson-johnson-jnj-202
+
+  105. [low] [04-03 09:40] [rel:0.55] [Google-broad]
+       Johnson & Johnson $JNJ Stock Holdings Lifted by Royal Fund Management LLC
+       Source: MarketBeat
+       > Johnson & Johnson $JNJ Stock Holdings Lifted by Royal Fund Management LLC MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-johnson-johnson-jnj-stock-holdings-lifted-by-royal-fund-management-llc-
+
+  106. [low] [04-03 09:40] [rel:0.55] [Google-broad]
+       Shrier Wealth Management LLC Acquires Shares of 12,462 Johnson & Johnson $JNJ
+       Source: MarketBeat
+       > Shrier Wealth Management LLC Acquires Shares of 12,462 Johnson & Johnson $JNJ MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-shrier-wealth-management-llc-acquires-shares-of-12462-johnson-johnson-j
+
+  107. [low] [04-03 12:16] [rel:0.55] [Google-broad]
+       Costco Stock (COST): Analyst Flags “Growth Runway for Another 50+ Years”
+       Source: tipranks.com
+       > Costco Stock (COST): Analyst Flags “Growth Runway for Another 50+ Years” tipranks.com
+       https://www.tipranks.com/news/costco-stock-cost-pops-on-significant-growth-runway-for-another-50-years
+
+  108. [OK ] [04-03 20:31] [rel:0.55] [Google-broad]
+       Neumann, Netflix CFO, sells $2.8m in NFLX stock
+       Source: investing.com
+       > Neumann, Netflix CFO, sells $2.8m in NFLX stock investing.com
+       https://www.investing.com/news/insider-trading-news/neumann-netflix-cfo-sells-28m-in-nflx-stock-93CH-4597263
+
+  109. [low] [04-04 07:48] [rel:0.55] [Google-broad]
+       Netflix, Inc. $NFLX Shares Acquired by Balboa Wealth Partners
+       Source: MarketBeat
+       > Netflix, Inc. $NFLX Shares Acquired by Balboa Wealth Partners MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-netflix-inc-nflx-shares-acquired-by-balboa-wealth-partners-2026-04-04/
+
+  110. [low] [04-03 20:07] [rel:0.55] [Google-broad]
+       Netflix (NFLX) CFO sells 28,630 shares under 10b5-1 plan
+       Source: Stock Titan
+       > Netflix (NFLX) CFO sells 28,630 shares under 10b5-1 plan Stock Titan
+       https://www.stocktitan.net/sec-filings/NFLX/form-4-netflix-inc-insider-trading-activity-9ffbc29cd809.html
+
+  111. [low] [04-03 15:53] [rel:0.55] [Google-broad]
+       Netflix (NFLX) Stock: Why Is Co-Founder Reed Hastings Selling $40M in Shares?
+       Source: CoinCentral
+       > Netflix (NFLX) Stock: Why Is Co-Founder Reed Hastings Selling $40M in Shares? CoinCentral
+       https://coincentral.com/netflix-nflx-stock-why-is-co-founder-reed-hastings-selling-40m-in-shares/
+
+  112. [low] [04-03 18:30] [rel:0.50] [Google-broad]
+       Netflix (NFLX) Co-Founder Reed Hastings Just Sold $40 Million of Company Stock
+       Source: tipranks.com
+       > Netflix (NFLX) Co-Founder Reed Hastings Just Sold $40 Million of Company Stock tipranks.com
+       https://news.google.com/rss/articles/CBMiqAFBVV95cUxPektNcmEySVJkUG9XQXlpMkN3M01VOTBZY3lfYU02NU9rTmJ1MXpGZGtGMUFEN0JyMmh
+
+  113. [low] [04-03 16:58] [rel:0.50] [Google-broad]
+       Netflix (NFLX) Stock: Italian Court Orders Refunds Over Illegal Price Hikes
+       Source: CoinCentral
+       > Netflix (NFLX) Stock: Italian Court Orders Refunds Over Illegal Price Hikes CoinCentral
+       https://news.google.com/rss/articles/CBMingFBVV95cUxNcE16UVdsNm5WTEQzTG03TnZCVmg5WGlZb3RBR3FtbkQ4b3U0STFYMnRzaHJ2NFhCeG1
+
+  114. [low] [04-04 08:41] [rel:0.55] [Google-broad]
+       The Home Depot, Inc. $HD Stock Holdings Lessened by Beaumont Financial Advisors LLC
+       Source: MarketBeat
+       > The Home Depot, Inc. $HD Stock Holdings Lessened by Beaumont Financial Advisors LLC MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-the-home-depot-inc-hd-stock-holdings-lessened-by-beaumont-financial-adv
+
+  115. [low] [04-04 10:17] [rel:0.55] [Google-broad]
+       Bank of America Corporation $BAC Stock Holdings Increased by SteelPeak Wealth LLC
+       Source: MarketBeat
+       > Bank of America Corporation $BAC Stock Holdings Increased by SteelPeak Wealth LLC MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-stock-holdings-increased-by-steelpeak-w
+
+  116. [low] [04-03 19:43] [rel:0.50] [Google-broad]
+       Coca-Cola (KO) director awarded 4,173 phantom share units in 2026 compensation plan
+       Source: Stock Titan
+       > Coca-Cola (KO) director awarded 4,173 phantom share units in 2026 compensation plan Stock Titan
+       https://news.google.com/rss/articles/CBMipwFBVV95cUxQVmxyYUd1NG1pcm1qLUk2QnNRTEpTXzVtdTNoQlV1cnFKVHRFcGJ6NWd0YS1Qa2dBSjA
+
+  117. [low] [04-03 19:29] [rel:0.50] [Google-broad]
+       Coca-Cola (NYSE: KO) director awarded 1,121 phantom units
+       Source: Stock Titan
+       > Coca-Cola (NYSE: KO) director awarded 1,121 phantom units Stock Titan
+       https://news.google.com/rss/articles/CBMipwFBVV95cUxNRnFYYWZRYTlEU1RKRE5RclZKTnN1d3JXaVdRSDljV1BnT09tLWtrOHRNc1lGbWRRaVB
+
+  118. [low] [04-03 17:22] [rel:0.50] [Google-broad]
+       Coca-Cola (KO) director Caroline Tsay receives 3,825 Phantom Share Units as 2026 pay
+       Source: Stock Titan
+       > Coca-Cola (KO) director Caroline Tsay receives 3,825 Phantom Share Units as 2026 pay Stock Titan
+       https://news.google.com/rss/articles/CBMipwFBVV95cUxPWkpPeVFHbV8zZFlRR1gyUTZJaUtyRmZMS3F4U2hoVkExVHFIc1pGT3B2SExKUVpqZU9
+
+  119. [low] [04-03 17:08] [rel:0.50] [Google-broad]
+       Max Levchin (KO) awarded phantom share units as Coca-Cola board pay
+       Source: Stock Titan
+       > Max Levchin (KO) awarded phantom share units as Coca-Cola board pay Stock Titan
+       https://news.google.com/rss/articles/CBMipwFBVV95cUxPR2k4Nk8wRWJXbGlLc09BWkFIa2d1SURQdFFBSU43cV9TYm45dm9MTGhBQ3BrZHFfWkl
+
+  120. [low] [04-03 17:06] [rel:0.50] [Google-broad]
+       Coca-Cola (NYSE: KO) director receives 4,089 phantom units as 2026 board pay
+       Source: Stock Titan
+       > Coca-Cola (NYSE: KO) director receives 4,089 phantom units as 2026 board pay Stock Titan
+       https://news.google.com/rss/articles/CBMipwFBVV95cUxPbDJKaWZkeFF4TXZJRXk3Sm5McFl0X1FYSmZ5S2pIZzR0V3Fqcm5lNFpJa1hyYnhiTzB
+
+  121. [TOP] [04-03 13:00] [rel:0.50] [Google-broad]
+       Is Trending Stock Cisco Systems, Inc. (CSCO) a Buy Now?
+       Source: Yahoo Finance
+       > Is Trending Stock Cisco Systems, Inc. (CSCO) a Buy Now? Yahoo Finance
+       https://news.google.com/rss/articles/CBMingFBVV95cUxPcXBpdHZ4VWpqUTVEdUtjeURwTXZhS0VEdHMzQm5UR2t3dWVfbDI4WnNxRGJfSWZVcUp
+
+  122. [low] [04-04 10:44] [rel:0.55] [Google-broad]
+       Cisco Systems, Inc. $CSCO Stock Holdings Lowered by SteelPeak Wealth LLC
+       Source: MarketBeat
+       > Cisco Systems, Inc. $CSCO Stock Holdings Lowered by SteelPeak Wealth LLC MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-cisco-systems-inc-csco-stock-holdings-lowered-by-steelpeak-wealth-llc-2
+
+  123. [low] [04-04 07:48] [rel:0.55] [Google-broad]
+       Aspiriant LLC Has $2.66 Million Stock Position in Cisco Systems, Inc. $CSCO
+       Source: MarketBeat
+       > Aspiriant LLC Has $2.66 Million Stock Position in Cisco Systems, Inc. $CSCO MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-aspiriant-llc-has-266-million-stock-position-in-cisco-systems-inc-csco-
+
+  124. [low] [04-04 10:03] [rel:0.55] [Google-broad]
+       Merck & Co., Inc. $MRK Shares Purchased by Quintet Private Bank Europe S.A.
+       Source: MarketBeat
+       > Merck & Co., Inc. $MRK Shares Purchased by Quintet Private Bank Europe S.A. MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-merck-co-inc-mrk-shares-purchased-by-quintet-private-bank-europe-sa-202
+
+  125. [low] [04-03 07:17] [rel:0.55] [Google-broad]
+       Merck & Co., Inc. $MRK Shares Bought by Aberdeen Group plc
+       Source: MarketBeat
+       > Merck & Co., Inc. $MRK Shares Bought by Aberdeen Group plc MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-merck-co-inc-mrk-shares-bought-by-aberdeen-group-plc-2026-04-03/
+
+  126. [TOP] [04-03 12:22] [rel:0.50] [Google-broad]
+       Self-Inflicted Operational Issues Pressured UnitedHealth Group (UNH) In 2025
+       Source: Yahoo Finance
+       > Self-Inflicted Operational Issues Pressured UnitedHealth Group (UNH) In 2025 Yahoo Finance
+       https://news.google.com/rss/articles/CBMirAFBVV95cUxNTWdneGNXbUMxVFZGZkhRVEh0a0dyRnRGWWlrZTROeXd2Tmt1R2JwS3EwVFFaMi1DTUJ
+
+  127. [OK ] [04-04 20:37] [rel:0.50] [Google-broad]
+       Is UnitedHealth Group (UNH) The Best Healthcare Stock to Buy According to Billionaire Ken Griffin?
+       Source: Insider Monkey
+       > Is UnitedHealth Group (UNH) The Best Healthcare Stock to Buy According to Billionaire Ken Griffin? Insider Monkey
+       https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc0psbzVFV2h3TmhEWXIwUWp4WTFoZF9OUTNscmJNbWFOcnFDeDJ6QWJ0VTQzOTF1Q0h
+
+  128. [OK ] [04-03 03:19] [rel:0.50] [Google-broad]
+       Here’s What United Health’s (UNH) New Avery Assistant System Means For The Stock
+       Source: Insider Monkey
+       > Here’s What United Health’s (UNH) New Avery Assistant System Means For The Stock Insider Monkey
+       https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGNxaDg0d3NzNmRTRkVXRmpTVEtuZmlkS2RpLU02QVhPZmotMmlpbjZiUDlpSmNSb0F
+
+  129. [low] [04-04 10:34] [rel:0.55] [Google-broad]
+       Thurston Springer Miller Herd & Titak Inc. Buys 4,647 Shares of McDonald's Corporation $MCD
+       Source: MarketBeat
+       > Thurston Springer Miller Herd & Titak Inc. Buys 4,647 Shares of McDonald's Corporation $MCD MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-thurston-springer-miller-herd-titak-inc-buys-4647-shares-of-mcdonalds-c
+
+  130. [low] [04-03 07:17] [rel:0.55] [Google-broad]
+       Aberdeen Group plc Trims Stake in McDonald's Corporation $MCD
+       Source: MarketBeat
+       > Aberdeen Group plc Trims Stake in McDonald's Corporation $MCD MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-aberdeen-group-plc-trims-stake-in-mcdonalds-corporation-mcd-2026-04-03/
+
+  131. [low] [04-04 02:37] [rel:0.50] [Google-broad]
+       TMUS Apr 2026 200.000 put (TMUS260424P00200000) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > TMUS Apr 2026 200.000 put (TMUS260424P00200000) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zX19oaHp3ZjZyWEt2SUlNSDlheUxVS2JINzl2cjJnV09aNVZWc3hIUHgzTUc0WFlzeXF
+
+  132. [low] [04-03 17:12] [rel:0.50] [Google-broad]
+       Linde (LIN) director adds deferred and restricted stock unit holdings
+       Source: Stock Titan
+       > Linde (LIN) director adds deferred and restricted stock unit holdings Stock Titan
+       https://news.google.com/rss/articles/CBMipAFBVV95cUxPaUhBMG42OWVvNzdCaXphUVl5RXdneDR6VmlEbHMwc1piT0k1SncweGh2b2h2ZEc2aDR
+
+  133. [low] [04-03 17:11] [rel:0.50] [Google-broad]
+       Linde (LIN) director Hugh Grant granted deferred and restricted stock units
+       Source: Stock Titan
+       > Linde (LIN) director Hugh Grant granted deferred and restricted stock units Stock Titan
+       https://news.google.com/rss/articles/CBMipAFBVV95cUxNY0F6dGYyLU5VRXFCREFWY3MwVWtJVldiVklEUXBRVXhERkR0dmNGb1AxampXVWFGZmR
+
+  134. [low] [04-04 15:54] [rel:0.50] [Google-broad]
+       PEP Earning Date, Earning Analysis and Earning Prediction
+       Source: intellectia.ai
+       > PEP Earning Date, Earning Analysis and Earning Prediction intellectia.ai
+       https://intellectia.ai/en/stock/PEP/earnings
+
+  135. [TOP] [04-04 19:07] [rel:0.55] [Google-broad]
+       Why Intel Stock Surged This Week
+       Source: The Motley Fool
+       > Why Intel Stock Surged This Week The Motley Fool
+       https://www.fool.com/investing/2026/04/04/why-intel-stock-is-up-this-week/
+
+  136. [TOP] [04-04 02:28] [rel:0.50] [Google-broad]
+       Massive News for Intel Stock Investors
+       Source: The Motley Fool
+       > Massive News for Intel Stock Investors The Motley Fool
+       https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX2NZZEF0bThXcHF3YVNMd2YxUnU4S2tIUVVRU1hJVm9sNGpNQUlhQlVfWXJqWWgzdjA
+
+  137. [OK ] [04-04 18:33] [rel:0.65] [Google-broad]
+       Jim Cramer Praises Intel’s (INTC) CEO Lip-Bu Tan Once Again
+       Source: Insider Monkey
+       > Jim Cramer Praises Intel’s (INTC) CEO Lip-Bu Tan Once Again Insider Monkey
+       https://www.insidermonkey.com/blog/jim-cramer-praises-intels-intc-ceo-lip-bu-tan-once-again-1732165/
+
+  138. [OK ] [04-03 20:17] [rel:0.65] [Google-broad]
+       Erste Group Keeps Their Hold Rating on Intel (INTC)
+       Source: The Globe and Mail
+       > Erste Group Keeps Their Hold Rating on Intel (INTC) The Globe and Mail
+       https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/1139751/erste-group-keeps-their-hold-rating-
+
+  139. [OK ] [04-04 14:15] [rel:0.55] [Google-broad]
+       Intel’s Panther Lake Chip is Seriously Impressive. It’s Time to Buy the Stock
+       Source: 24/7 Wall St.
+       > Intel’s Panther Lake Chip is Seriously Impressive. It’s Time to Buy the Stock 24/7 Wall St.
+       https://247wallst.com/investing/2026/04/04/intels-panther-lake-chip-is-seriously-impressive-its-time-to-buy-the-stock/
+
+  140. [OK ] [04-03 13:36] [rel:0.55] [Google-broad]
+       Intel Stock Jumps as $14.2 Billion Apollo Deal Fuels 2027 Outlook
+       Source: TradingView
+       > Intel Stock Jumps as $14.2 Billion Apollo Deal Fuels 2027 Outlook TradingView
+       https://www.tradingview.com/news/gurufocus:e1502fe34094b:0-intel-stock-jumps-as-14-2-billion-apollo-deal-fuels-2027-outl
+
+  141. [low] [04-04 10:03] [rel:0.65] [Google-broad]
+       Quintet Private Bank Europe S.A. Trims Stock Position in Intel Corporation $INTC
+       Source: MarketBeat
+       > Quintet Private Bank Europe S.A. Trims Stock Position in Intel Corporation $INTC MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-quintet-private-bank-europe-sa-trims-stock-position-in-intel-corporatio
+
+  142. [low] [04-03 08:49] [rel:0.65] [Google-broad]
+       Dorato Capital Management Takes Position in Intel Corporation $INTC
+       Source: MarketBeat
+       > Dorato Capital Management Takes Position in Intel Corporation $INTC MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-dorato-capital-management-takes-position-in-intel-corporation-intc-2026
+
+  143. [low] [04-04 22:10] [rel:0.60] [Google-broad]
+       Assessing Intel (INTC) Valuation After A Strong Run In Share Price Momentum
+       Source: finance.yahoo.com
+       > Assessing Intel (INTC) Valuation After A Strong Run In Share Price Momentum finance.yahoo.com
+       https://news.google.com/rss/articles/CBMipAFBVV95cUxPSW9EbzhIWndjcm54M05ySEJwXzJKZk5lb3VGcDU0dG9hRy1ndHUzb21iVi1wS0N2WFF
+
+  144. [low] [04-04 12:28] [rel:0.60] [Google-broad]
+       Intel stock is up again - here's what this INTC stock analysis shows to watch next
+       Source: investingLive  (also: investingLive)
+       > Intel stock is up again - here's what this INTC stock analysis shows to watch next investingLive
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxOUWgtQ1hfODcwY0N4VHhSRzE5OVQ2QlBPOWpDcGw2NHNiS0Njb2JoQUNRRXM1ZmxfN3F
+
+  145. [low] [04-04 03:33] [rel:0.60] [Google-broad]
+       Can Intel Stock INTC Reach New Highs Above $70 Soon As Investments Fuel Optimism?
+       Source: fxleaders.com
+       > Can Intel Stock INTC Reach New Highs Above $70 Soon As Investments Fuel Optimism? fxleaders.com
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxOTktzNGtTdnJtNWl0S0o0QjJneDlrOE5OaTkycVJUN0thSUtHb1VuS25XOVRSajlDSGZ
+
+  146. [low] [04-03 11:02] [rel:0.65] [Google-broad]
+       Verizon Communications (NYSE:VZ) Stock Rating Upgraded by Erste Group Bank
+       Source: MarketBeat
+       > Verizon Communications (NYSE:VZ) Stock Rating Upgraded by Erste Group Bank MarketBeat
+       https://www.marketbeat.com/instant-alerts/verizon-communications-nysevz-stock-rating-upgraded-by-erste-group-bank-2026-0
+
+  147. [low] [04-03 08:17] [rel:0.55] [Google-broad]
+       Dorato Capital Management Invests $1.58 Million in Amgen Inc. $AMGN
+       Source: MarketBeat
+       > Dorato Capital Management Invests $1.58 Million in Amgen Inc. $AMGN MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-dorato-capital-management-invests-158-million-in-amgen-inc-amgn-2026-04
+
+  148. [low] [04-04 08:58] [rel:0.50] [Google-broad]
+       ABT SEC Filings - Abbott Labs 10-K, 10-Q, 8-K Forms
+       Source: Stock Titan
+       > ABT SEC Filings - Abbott Labs 10-K, 10-Q, 8-K Forms Stock Titan
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTE45NjlNT2tOS1BSdHNkY3A5NTl6MVBKMERCSGNVNmFIOFU5TThrS2E0eWMxSFNlZ1gtMUR
+
+  149. [low] [04-03 07:07] [rel:0.55] [Google-broad]
+       Amphenol Corporation $APH Shares Bought by Aberdeen Group plc
+       Source: MarketBeat
+       > Amphenol Corporation $APH Shares Bought by Aberdeen Group plc MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-amphenol-corporation-aph-shares-bought-by-aberdeen-group-plc-2026-04-03
+
+  150. [low] [04-03 20:06] [rel:0.50] [Google-broad]
+       APH Jul 2026 145.000 put (APH260717P00145000) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > APH Jul 2026 145.000 put (APH260717P00145000) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qbDZrQUJlclEybFlQa3h0bzdJTFJCVjJSTXdDQ3RFYmI1Mm92QVAyVElEaHo5U0l4V3N
+
+  151. [low] [04-04 04:23] [rel:0.70] [Google-broad]
+       Why is TJX (TJX) down 0.7% since last earnings report?
+       Source: MSN
+       > Why is TJX (TJX) down 0.7% since last earnings report? MSN
+       https://www.msn.com/en-us/money/topstocks/why-is-tjx-tjx-down-0-7-since-last-earnings-report/ar-AA1ZxU70
+
+  152. [low] [04-03 16:24] [rel:0.60] [Google-broad]
+       TJX SEC Filings - Tjx Companies Inc 10-K, 10-Q, 8-K Forms
+       Source: Stock Titan
+       > TJX SEC Filings - Tjx Companies Inc 10-K, 10-Q, 8-K Forms Stock Titan
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BYW9iOG1mYnFwSzFHQU5hUWlud1dVOVBCNjkzOUtZYm5zTUpfRU0tN041VmhVdHh2ckN
+
+  153. [low] [04-03 03:12] [rel:0.60] [Google-broad]
+       The TJX Companies, Inc. (TJX) stock price, news, quote and history
+       Source: Yahoo Finance Singapore
+       > The TJX Companies, Inc. (TJX) stock price, news, quote and history Yahoo Finance Singapore
+       https://news.google.com/rss/articles/CBMiYEFVX3lxTE45WWcxdDA4RUt2TkFvbE1GOVBTcEpiQUdIWkozUm5zeERLaUMtdFByWjV2MUZFdW54Mmt
+
+  154. [low] [04-03 02:13] [rel:0.50] [Google-broad]
+       Schwab (SCHW) director granted 1,286 nonqualified stock options as board fees
+       Source: Stock Titan
+       > Schwab (SCHW) director granted 1,286 nonqualified stock options as board fees Stock Titan
+       https://news.google.com/rss/articles/CBMiswFBVV95cUxNdXVEUUlWbjFsd3ptNTc0TnJRNVl1d0hxOU5ZY0ltVjZwcWhFX244UkY2clJfMWlmakl
+
+  155. [low] [04-03 02:13] [rel:0.50] [Google-broad]
+       Schwab (SCHW) director takes 434 RSUs instead of cash board fees
+       Source: Stock Titan
+       > Schwab (SCHW) director takes 434 RSUs instead of cash board fees Stock Titan
+       https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlNZTnJnRE9ieUhjUTc5MEtRYkEyekNGbDVGRFpwczhKd1NHUUo5V1lYdzdZVmNueUZ
+
+  156. [low] [04-03 01:30] [rel:0.50] [Google-broad]
+       Director at Schwab (SCHW) granted 393 RSUs in lieu of cash fees
+       Source: Stock Titan
+       > Director at Schwab (SCHW) granted 393 RSUs in lieu of cash fees Stock Titan
+       https://news.google.com/rss/articles/CBMiswFBVV95cUxPUmhnZ096OTJ2QngwTTdwN2h4Yjh5aDJubDZEOVNGV0c3ZnVJdi11ajBvUmNiN09qRWN
+
+  157. [low] [04-03 01:30] [rel:0.50] [Google-broad]
+       Schwab (SCHW) director Herringer receives 474 RSUs in lieu of cash fees
+       Source: Stock Titan
+       > Schwab (SCHW) director Herringer receives 474 RSUs in lieu of cash fees Stock Titan
+       https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2RyRDN6S3FPOGZtaFBCdTdJT21OWGVsb1FBRkZZV01aOEJsNVdCdXgzSlFUUnN1aEx
+
+  158. [low] [04-03 08:35] [rel:0.55] [Google-broad]
+       Pfizer Inc. $PFE Stock Position Reduced by First Pacific Financial
+       Source: MarketBeat
+       > Pfizer Inc. $PFE Stock Position Reduced by First Pacific Financial MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-pfizer-inc-pfe-stock-position-reduced-by-first-pacific-financial-2026-0
+
+  159. [low] [04-04 12:18] [rel:0.50] [Google-broad]
+       HON Earning Date, Earning Analysis and Earning Prediction
+       Source: intellectia.ai
+       > HON Earning Date, Earning Analysis and Earning Prediction intellectia.ai
+       https://intellectia.ai/en/stock/HON/earnings
+
+  160. [low] [04-03 21:44] [rel:0.50] [Google-broad]
+       Bharat Petroleum Corp Ltd stock: Low P/ E signals value amid oil volatility
+       Source: AD HOC NEWS
+       > Bharat Petroleum Corp Ltd stock: Low P/ E signals value amid oil volatility AD HOC NEWS
+       https://news.google.com/rss/articles/CBMixgFBVV95cUxNSVhhWmtQdnVoUHVudl8zZk9SZjR1THgxSmJldUFJekFPcko1OTJsV2V3OVk2NHU0aVJ
+
+  161. [low] [04-03 17:12] [rel:0.50] [Google-broad]
+       Cardinal Energy stock: Low-decline assets in a volatile oil market
+       Source: AD HOC NEWS
+       > Cardinal Energy stock: Low-decline assets in a volatile oil market AD HOC NEWS
+       https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQjRFbWxCalB2Z1N5NXE3eVJ1UFZkblREcjV6ZzdNQ2dOM3dBUF9wRUdLSlFkWWJxdkV
+
+  162. [low] [04-03 12:16] [rel:0.50] [Google-broad]
+       The Home Depot, Inc. stock: Hits 52-Week Low – Buy Opportunity?
+       Source: AD HOC NEWS
+       > The Home Depot, Inc. stock: Hits 52-Week Low – Buy Opportunity? AD HOC NEWS
+       https://news.google.com/rss/articles/CBMisAFBVV95cUxONDRVZE9IenNURzE3WXU1Q2pXR3pDY1FzY1BMMzAzeEwyZUh0VFE3ZXZfMUx2cnRKYTQ
+
+  163. [low] [04-03 09:40] [rel:0.50] [Google-broad]
+       Blue Owl Stock Hits Record Low as Redemption Pressure Mounts
+       Source: BeInCrypto
+       > Blue Owl Stock Hits Record Low as Redemption Pressure Mounts BeInCrypto
+       https://news.google.com/rss/articles/CBMidEFVX3lxTE55cXV4ZHQxX3h1OXBIcWs1WWYydUVNQmNmRlh6RElPdjQwNkl2RkhwQ2NheVZsdFFGb18
+
+  164. [TOP] [04-03 14:36] [rel:0.50] [Google-broad]
+       Why the Stock Market Has Held Up So Well Despite the Spike in Oil Prices
+       Source: Barron's
+       > Why the Stock Market Has Held Up So Well Despite the Spike in Oil Prices Barron's
+       https://news.google.com/rss/articles/CBMihwNBVV95cUxPdUxKTDVtSk8tdmNfOEJfX2tQai1zZ0d0NVJhemxWdllWcTdMOEtjb0FtY1hMVnY2X0c
+
+  165. [low] [04-03 17:44] [rel:0.60] [Google-broad]
+       WELL Health Technologies Corp. (WELL.TO) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada  (also: Yahoo Finance UK)
+       > WELL Health Technologies Corp. (WELL.TO) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NSXowaWdQQUptVk9zMTJyR0J3M053UGp6Y0I5cDk4clRJb3BtcnNtV0lxQm12bUs1U0V
+
+  166. [low] [04-04 07:40] [rel:0.55] [Google-broad]
+       Welltower Inc. $WELL Stock Position Increased by American National Bank & Trust
+       Source: MarketBeat
+       > Welltower Inc. $WELL Stock Position Increased by American National Bank & Trust MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-welltower-inc-well-stock-position-increased-by-american-national-bank-t
+
+  167. [low] [04-03 14:54] [rel:0.50] [Google-broad]
+       U.S. Senators Demand Insider Stock & Derivatives Trading Probe Over Well-Timed Bets Ahead of Trump Policy Moves
+       Source: Tekedia
+       > U.S. Senators Demand Insider Stock & Derivatives Trading Probe Over Well-Timed Bets Ahead of Trump Policy Moves Tekedia
+       https://news.google.com/rss/articles/CBMizgFBVV95cUxOUUlGSEJaa0NBZTVOX2g2N3BZclcyV041THZGbTJKellKeHpXNGU5am1GYk54MjE5VjM
+
+  168. [low] [04-03 20:31] [rel:0.50] [Google-broad]
+       Newmont (NEM) EVP Peter Toth sells 3,000 shares under Rule 10b5-1 plan
+       Source: Stock Titan
+       > Newmont (NEM) EVP Peter Toth sells 3,000 shares under Rule 10b5-1 plan Stock Titan
+       https://news.google.com/rss/articles/CBMirAFBVV95cUxNXzAyTlNGbDJvTGtFVWdoTVU2cGZnY2Jjc2FCUXFIX1FJLTVXOHMyS3U3OUdjRWdRMm1
+
+  169. [low] [04-03 13:00] [rel:0.50] [Google-broad]
+       Newmont Corporation (NEM) Is a Trending Stock: Facts to Know Before Betting on It
+       Source: Yahoo Finance Singapore
+       > Newmont Corporation (NEM) Is a Trending Stock: Facts to Know Before Betting on It Yahoo Finance Singapore
+       https://news.google.com/rss/articles/CBMikAFBVV95cUxOMWFHRUxKXzFBR3JkbUdtekM2UUtaWXJnbmJVdnM3a0lhMUxVMTBZdVJKT3ZwWW5IOGl
+
+  170. [low] [04-04 21:26] [rel:0.55] [Google-broad]
+       Chubb Ltd ($CB) CEO 2025 Pay Revealed
+       Source: quiverquant.com
+       > Chubb Ltd ($CB) CEO 2025 Pay Revealed quiverquant.com
+       https://www.quiverquant.com/news/Chubb+Ltd+%28%24CB%29+CEO+2025+Pay+Revealed
+
+  171. [low] [04-04 15:12] [rel:0.50] [Google-broad]
+       PLD Earning Date, Earning Analysis and Earning Prediction
+       Source: intellectia.ai
+       > PLD Earning Date, Earning Analysis and Earning Prediction intellectia.ai
+       https://intellectia.ai/en/stock/PLD/earnings
+
+  172. [low] [04-04 12:40] [rel:0.50] [Google-broad]
+       Prologis, Inc. (PLD) stock price, news, quote and history
+       Source: Yahoo Finance UK  (also: Yahoo Finance Australia, Yahoo Finance UK, Yahoo Finance Singapore)
+       > Prologis, Inc. (PLD) stock price, news, quote and history Yahoo Finance UK
+       https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HYkM4Y3RBbVM3NWt1ZllvZnhBQU9sZjZuLWxaQm5UZ2xmZkRQU1ZuaGFhZU5pOFZyVVJ
+
+  173. [low] [04-03 21:21] [rel:0.50] [Google-broad]
+       Prologis (NYSE: PLD) CAO details RSUs, LTIP units and stock stake
+       Source: Stock Titan
+       > Prologis (NYSE: PLD) CAO details RSUs, LTIP units and stock stake Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxPbzYtekRqelJEWm1FdEdjeUxrTnlSZ2lobWVPbWYzb0lFT0pRN3NCclNQUmd6a0QxV3R
+
+  174. [low] [04-03 02:04] [rel:0.50] [Google-broad]
+       Prologis (PLD) Raised to Buy: Important Details You Need to Know
+       Source: Bitget
+       > Prologis (PLD) Raised to Buy: Important Details You Need to Know Bitget
+       https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QUVBHVi1qT1NfcHp2QjQ5NmdzTGt0TVVVVFpWVl9ib1Q3X3EyQVp4ZV85N2t2c2l4cE9
+
+  175. [low] [04-03 23:50] [rel:0.50] [Google-broad]
+       ACCENTURE PLC CEDEAR EACH 75 RE (ACN.BA) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > ACCENTURE PLC CEDEAR EACH 75 RE (ACN.BA) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyMEIwbVh0WUhjZ25ZOHFRbHBYM0FqVU9tSkpEUEtSNml6ZFE2N1dHTlpRSnlwSmdWRHl
+
+  176. [low] [04-03 22:06] [rel:0.50] [Google-broad]
+       Accenture plc (ACN) latest stock news and headlines
+       Source: Yahoo Finance Singapore
+       > Accenture plc (ACN) latest stock news and headlines Yahoo Finance Singapore
+       https://news.google.com/rss/articles/CBMiV0FVX3lxTE45Z29OSGdLa3U2bzF5Y3JZRUNfZWhqeG5FRHpGeU00b21tNTFYa3BkNmJTQ0ZuTDVDWGl
+
+  177. [low] [04-03 10:44] [rel:0.55] [Google-broad]
+       Genesis Financial Group LLC Acquires Shares of 48,805 Medtronic PLC $MDT
+       Source: MarketBeat
+       > Genesis Financial Group LLC Acquires Shares of 48,805 Medtronic PLC $MDT MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-genesis-financial-group-llc-acquires-shares-of-48805-medtronic-plc-mdt-
+
+  178. [low] [04-03 03:15] [rel:0.50] [Google-broad]
+       Is It Time To Reconsider Medtronic (MDT) After Recent Share Price Weakness?
+       Source: finance.yahoo.com
+       > Is It Time To Reconsider Medtronic (MDT) After Recent Share Price Weakness? finance.yahoo.com
+       https://news.google.com/rss/articles/CBMiowFBVV95cUxPV183Q0dhWlZIRWthNDR5ZEdaZlYyUGNpa1d2TDFFVmRQRjU0YkJoVWdReVY4TFlSQTZ
+
+  179. [low] [04-03 09:06] [rel:0.50] [Google-broad]
+       The Progressive Corporation (PGR) latest stock news and headlines
+       Source: Yahoo Finance Singapore
+       > The Progressive Corporation (PGR) latest stock news and headlines Yahoo Finance Singapore
+       https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XMkZJQXVDWlZVb1l2MHNHb2d1Y25ScXBxXzltRks4SExtLWpnclI1UDg3eUdlQWE4UlF
+
+  180. [low] [04-03 20:56] [rel:0.50] [Google-broad]
+       Capital One (COF) banking president sells 1,692 shares via 10b5-1 plan
+       Source: Stock Titan
+       > Capital One (COF) banking president sells 1,692 shares via 10b5-1 plan Stock Titan
+       https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMWloOFd1T3pWdmNxWm5sMlN1dm9qclVxLTJNU1ZxZ0d5SkptdkR1Q1JXWm5wYk56NmV
+
+  181. [low] [04-04 13:41] [rel:0.50] [Google-broad]
+       MCK Earning Date, Earning Analysis and Earning Prediction
+       Source: intellectia.ai
+       > MCK Earning Date, Earning Analysis and Earning Prediction intellectia.ai
+       https://intellectia.ai/en/stock/MCK/earnings
+
+  182. [low] [04-03 20:02] [rel:0.50] [Google-broad]
+       MCK Apr 2026 1020.000 call (MCK260417C01020000) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > MCK Apr 2026 1020.000 call (MCK260417C01020000) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTE83OWdEQ29sbDZEY25YemlzUFJ5VVY1cktUOFZWN19xa2V3N0hoMllIVGgtbURvTnViN2R
+
+  183. [OK ] [04-04 04:34] [rel:0.55] [Google-broad]
+       Cantor Fitzgerald reiterates HCA Healthcare stock Overweight rating
+       Source: investing.com
+       > Cantor Fitzgerald reiterates HCA Healthcare stock Overweight rating investing.com
+       https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-hca-healthcare-stock-overweight-rating-93CH-
+
+  184. [low] [04-04 09:23] [rel:0.55] [Google-broad]
+       HCA Stock News Today | Earnings, Events & Price Alerts
+       Source: intellectia.ai
+       > HCA Stock News Today | Earnings, Events & Price Alerts intellectia.ai
+       https://intellectia.ai/en/stock/HCA/news
+
+  185. [low] [04-03 18:19] [rel:0.55] [Google-broad]
+       'AI Winner' HCA, Stock Of The Day, Gets Healthy With Palantir
+       Source: Investor's Business Daily
+       > 'AI Winner' HCA, Stock Of The Day, Gets Healthy With Palantir Investor's Business Daily
+       https://www.investors.com/research/ibd-stock-of-the-day/hca-stock-of-the-day-ai-winner-palantir/
+
+  186. [low] [04-03 18:34] [rel:0.50] [Google-broad]
+       HCA Healthcare stock: Strong growth outlook amid healthcare shifts
+       Source: AD HOC NEWS
+       > HCA Healthcare stock: Strong growth outlook amid healthcare shifts AD HOC NEWS
+       https://news.google.com/rss/articles/CBMiuwFBVV95cUxPallqeHhfTHFRUWUyX0sxODBMOXlkSkpuRE44aVA1aVRPY094Ujh3bFE2cHJFS0Y4UlB
+
+  187. [low] [04-03 12:16] [rel:0.55] [Google-broad]
+       Starbucks (SBUX) Stock Unmoved as China Deal and Bonus Plan Land on Same Day
+       Source: CoinCentral
+       > Starbucks (SBUX) Stock Unmoved as China Deal and Bonus Plan Land on Same Day CoinCentral
+       https://coincentral.com/starbucks-sbux-stock-unmoved-as-china-deal-and-bonus-plan-land-on-same-day/
+
+  188. [low] [04-04 13:49] [rel:0.50] [Google-broad]
+       CMCSA Earning Date, Earning Analysis and Earning Prediction
+       Source: intellectia.ai
+       > CMCSA Earning Date, Earning Analysis and Earning Prediction intellectia.ai
+       https://intellectia.ai/en/stock/CMCSA/earnings
+
+  189. [TOP] [04-04 21:36] [rel:0.60] [Google-broad]
+       If You'd Invested $100 in CVS Health (CVS) Stock 5 Years Ago, Here's How Much You'd Have Today (Spoiler: You Wouldn't Have Lost Money)
+       Source: The Motley Fool
+       > If You'd Invested $100 in CVS Health (CVS) Stock 5 Years Ago, Here's How Much You'd Have Today (Spoiler: You Wouldn't Have Lost Money) The Motley Fool
+       https://www.fool.com/investing/2026/04/04/if-invest-100-cvs-health-cvs-stock-lost-money/
+
+  190. [OK ] [04-03 07:00] [rel:0.55] [Google-broad]
+       Truist Securities reiterates Buy rating on CVS Health stock at $98
+       Source: investing.com
+       > Truist Securities reiterates Buy rating on CVS Health stock at $98 investing.com
+       https://www.investing.com/news/analyst-ratings/truist-securities-reiterates-buy-rating-on-cvs-health-stock-at-98-93CH-45
+
+  191. [low] [04-04 21:26] [rel:0.65] [Google-broad]
+       CVS HEALTH Corp ($CVS) CEO 2025 Pay Revealed
+       Source: quiverquant.com
+       > CVS HEALTH Corp ($CVS) CEO 2025 Pay Revealed quiverquant.com
+       https://www.quiverquant.com/news/CVS+HEALTH+Corp+%28%24CVS%29+CEO+2025+Pay+Revealed
+
+  192. [low] [04-04 11:57] [rel:0.65] [Google-broad]
+       Toth Financial Advisory Corp Boosts Stock Position in CVS Health Corporation $CVS
+       Source: MarketBeat
+       > Toth Financial Advisory Corp Boosts Stock Position in CVS Health Corporation $CVS MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-toth-financial-advisory-corp-boosts-stock-position-in-cvs-health-corpor
+
+  193. [low] [04-03 09:08] [rel:0.65] [Google-broad]
+       Aberdeen Group plc Lowers Stake in CVS Health Corporation $CVS
+       Source: MarketBeat
+       > Aberdeen Group plc Lowers Stake in CVS Health Corporation $CVS MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-aberdeen-group-plc-lowers-stake-in-cvs-health-corporation-cvs-2026-04-0
+
+  194. [low] [04-03 11:22] [rel:0.60] [Google-broad]
+       CVS Health Corporation (CVS) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada  (also: Yahoo Finance Singapore)
+       > CVS Health Corporation (CVS) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JajZBWWlBZzd5Z0d3TTdkeXJlV25PbmF5V29EUXkxTG4xeEFTUkNHOTlCemo0emtnZHB
+
+  195. [low] [04-04 15:53] [rel:0.50] [Google-broad]
+       CVS Earning Date, Earning Analysis and Earning Prediction
+       Source: intellectia.ai
+       > CVS Earning Date, Earning Analysis and Earning Prediction intellectia.ai
+       https://intellectia.ai/en/stock/CVS/earnings
+
+  196. [low] [04-03 20:06] [rel:0.50] [Google-broad]
+       [ARS] CVS HEALTH Corp SEC Filing
+       Source: Stock Titan
+       > [ARS] CVS HEALTH Corp SEC Filing Stock Titan
+       https://news.google.com/rss/articles/CBMilgFBVV95cUxPQk9jMmZ0cDFKQzViY19EbVlfUEtzZ2FpSTA0UkJPeFZpMFRQX3Y2d2p0bEZFWEhOWEl
+
+  197. [low] [04-03 13:00] [rel:0.50] [Google-broad]
+       ⚠️ HEALTH WARNING: The recall includes products sold at major retailers like Walgreens and CVS.
+       Source: facebook.com
+       > ⚠️ HEALTH WARNING: The recall includes products sold at major retailers like Walgreens and CVS. facebook.com
+       https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZEJ5NC0xVEtINXBaYXh6OXdqNXBKc25ra1p5UzdJblN1MVBHX1AxdTJNY3BEMGFoeVJ
+
+  198. [low] [04-03 06:59] [rel:0.55] [Google-broad]
+       EQIX Stock News Today | Earnings, Events & Price Alerts
+       Source: intellectia.ai
+       > EQIX Stock News Today | Earnings, Events & Price Alerts intellectia.ai
+       https://intellectia.ai/en/stock/EQIX/news
+
+  199. [low] [04-04 12:11] [rel:0.50] [Google-broad]
+       EQIX Earning Date, Earning Analysis and Earning Prediction
+       Source: intellectia.ai
+       > EQIX Earning Date, Earning Analysis and Earning Prediction intellectia.ai
+       https://intellectia.ai/en/stock/EQIX/earnings
+
+  200. [low] [04-04 08:31] [rel:0.50] [Google-broad]
+       Equinix, Inc. (EQIX) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada  (also: Yahoo Finance Australia)
+       > Equinix, Inc. (EQIX) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LTVA2TVhWNlJYXzNQQVlrNnBoSDZ5VHI0ZFpfMTNYTW1hYzc0R3JlRHBVWVViMEpDaGl
+
+  201. [low] [04-03 20:53] [rel:0.50] [Google-broad]
+       WMB Apr 2026 86.000 call (WMB260417C00086000) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > WMB Apr 2026 86.000 call (WMB260417C00086000) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFYTRVelgwa2ZQQ1NhLTZZS3ZnbEl1VklRV01hVXFqQ3JzSnJRaWRoNS1sX3NLM25FUjV
+
+  202. [low] [04-04 09:05] [rel:0.50] [Google-broad]
+       FedEx Corporation (FDX) stock price, news, quote and history
+       Source: Yahoo Finance Singapore
+       > FedEx Corporation (FDX) stock price, news, quote and history Yahoo Finance Singapore
+       https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DR3dEUzlONTNxaE9WanRsbTh6cjJSZEtLNTBXdHk1NF9YOUdfS29yV3c0b1NwUll3Vkd
+
+  203. [low] [04-04 09:01] [rel:0.55] [Google-broad]
+       Spire Wealth Management Has $154,000 Stake in Marsh & McLennan Companies, Inc. $MRSH
+       Source: MarketBeat
+       > Spire Wealth Management Has $154,000 Stake in Marsh & McLennan Companies, Inc. $MRSH MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-spire-wealth-management-has-154000-stake-in-marsh-mclennan-companies-in
+
+  204. [low] [04-03 23:58] [rel:0.55] [Google-broad]
+       Marsh & McLennan Companies, Inc. (MRSH) target lowered by Barclays as AI selloff seen overdone
+       Source: MSN
+       > Marsh & McLennan Companies, Inc. (MRSH) target lowered by Barclays as AI selloff seen overdone MSN
+       https://www.msn.com/en-us/money/savingandinvesting/marsh-mclennan-companies-inc-mrsh-target-lowered-by-barclays-as-ai-se
+
+  205. [low] [04-03 12:08] [rel:0.55] [Google-broad]
+       How The Investment Story Is Shifting For Marsh McLennan (MRSH) As Analyst Views Diverge
+       Source: finance.yahoo.com
+       > How The Investment Story Is Shifting For Marsh McLennan (MRSH) As Analyst Views Diverge finance.yahoo.com
+       https://finance.yahoo.com/markets/stocks/articles/investment-story-shifting-marsh-mclennan-120803038.html
+
+  206. [low] [04-04 16:41] [rel:0.50] [Google-broad]
+       MRSH Earning Date, Earning Analysis and Earning Prediction
+       Source: intellectia.ai
+       > MRSH Earning Date, Earning Analysis and Earning Prediction intellectia.ai
+       https://intellectia.ai/en/stock/MRSH/earnings
+
+  207. [low] [04-03 19:07] [rel:0.50] [Google-broad]
+       Is Marsh & McLennan (MRSH) Offering Value After A 27.5% One Year Share Price Slide?
+       Source: finance.yahoo.com
+       > Is Marsh & McLennan (MRSH) Offering Value After A 27.5% One Year Share Price Slide? finance.yahoo.com
+       https://news.google.com/rss/articles/CBMioAFBVV95cUxOdTc3aFFmcE41b0FlenJxWi16b0ZGX1Rtb083dFFCbkUtNEg2ZDFEYnRsUGRsRVdhSnJ
+
+  208. [low] [04-03 07:55] [rel:0.50] [Google-broad]
+       MRSH: A Tactical Buy on Underpriced Leadership Stability and Strategic Nuclear Catalysts
+       Source: Bitget
+       > MRSH: A Tactical Buy on Underpriced Leadership Stability and Strategic Nuclear Catalysts Bitget
+       https://news.google.com/rss/articles/CBMiXkFVX3lxTE82SkRERTh0bXpvYUdsTnZHbl9NeEZGdVpaemJXcGJzWk9GVVdKUkhleVVveDZ2TXZEakx
+
+  209. [low] [04-03 23:33] [rel:0.50] [Google-broad]
+       The Sherwin-Williams Company (SHW) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > The Sherwin-Williams Company (SHW) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HVFBsZXA0S3Jac3ItUnZxRGp1V2FpLTRJc2lRTE9RWDE3eXRZM014cVh2TTBjaUdVRXl
+
+  210. [low] [04-04 12:52] [rel:0.50] [Google-broad]
+       AMT Apr 2026 250.000 put (AMT260417P00250000) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > AMT Apr 2026 250.000 put (AMT260417P00250000) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTE81TEd5ajdFeDlQbjNBaFVhTXpVTkt4WlYyU0hrV1E1U05ocXVudGJnZ3ZFbVFWTHRPT2F
+
+  211. [low] [04-03 18:11] [rel:0.50] [Google-broad]
+       AMT Apr 2026 135.000 put (AMT260417P00135000) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > AMT Apr 2026 135.000 put (AMT260417P00135000) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xaDRSc3BfeHpMM1NpS0NmSlVhYzdUclFlMzRXaVYtVkxCRjZYcUJ4eFZfeTJ0M0NBUW9
+
+  212. [low] [04-03 21:36] [rel:0.55] [Google-broad]
+       Blackstone (BX) CFO Michael Chae receives 152,667-share deferred stock award
+       Source: Stock Titan
+       > Blackstone (BX) CFO Michael Chae receives 152,667-share deferred stock award Stock Titan
+       https://www.stocktitan.net/sec-filings/BX/form-4-blackstone-inc-insider-trading-activity-0e27ba838e55.html
+
+  213. [low] [04-03 21:42] [rel:0.50] [Google-broad]
+       Stock grant boosts Blackstone (NYSE: BX) director Rochelle Lazarus’s holdings
+       Source: Stock Titan
+       > Stock grant boosts Blackstone (NYSE: BX) director Rochelle Lazarus’s holdings Stock Titan
+       https://news.google.com/rss/articles/CBMiqgFBVV95cUxONHF0UVM3dGVTdHZ5QjlBa1lmVzY4LWg5UnhQckFSZWdOQXFCeUVJNlR6ODN0X2p6QTh
+
+  214. [low] [04-03 21:39] [rel:0.50] [Google-broad]
+       Director at Blackstone (NYSE: BX) awarded 2,048 deferred shares
+       Source: Stock Titan
+       > Director at Blackstone (NYSE: BX) awarded 2,048 deferred shares Stock Titan
+       https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYmxUeFVmVlotZjVLa3hwbmxaNEpUNVhULUhXYzVVTDZJU1BwT2F3YUdnMGFCdDhDX3p
+
+  215. [low] [04-03 21:39] [rel:0.50] [Google-broad]
+       Board member at Blackstone (NYSE: BX) granted 1,961 deferred shares
+       Source: Stock Titan
+       > Board member at Blackstone (NYSE: BX) granted 1,961 deferred shares Stock Titan
+       https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbzV2dlBZMl9sSmprdnJxSE9hMnZXcFNIT0lMbUllY2ZYLUR5U2ZYM2hheVYyVXZWNHF
+
+  216. [low] [04-03 21:32] [rel:0.50] [Google-broad]
+       Director at Blackstone (NYSE: BX) receives 1,961 deferred shares
+       Source: Stock Titan
+       > Director at Blackstone (NYSE: BX) receives 1,961 deferred shares Stock Titan
+       https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR0pvX0h5Y3RaT2xScUYtdlFwSEZ2Ty1tMjJmc2VjV2thYV9OU2lfVXl6UHRJSUxOSzh
+
+  217. [low] [04-03 21:03] [rel:0.50] [Google-broad]
+       JCI Dec 2026 125.000 put (JCI261218P00125000) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > JCI Dec 2026 125.000 put (JCI261218P00125000) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTE50QVNLM3JuU1E0b2tJWERNdGktN1lNMllPNmRTUEQ5MXVJQ0tzQmhBQXNQVVpWd19Va01
+
+  218. [low] [04-04 06:17] [rel:0.55] [Google-broad]
+       3M (NYSE:MMM) Stock Unloaded Sen. Tina Smith
+       Source: MarketBeat
+       > 3M (NYSE:MMM) Stock Unloaded Sen. Tina Smith MarketBeat
+       https://www.marketbeat.com/instant-alerts/3m-nysemmm-stock-unloaded-sen-tina-smith-2026-04-04/
+
+  219. [low] [04-03 12:57] [rel:0.50] [Google-broad]
+       3M Company (MMM) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > 3M Company (MMM) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2Y1dkSFJlaUw4SXg0SWctYk1UVG9renpEekFUUkxNWU85SjJSd0lQZzBISGs2QkthXy1
+
+  220. [low] [04-03 16:02] [rel:0.50] [Google-broad]
+       Cogent, ADP, Barrett, Brink's, and Equifax stocks trade down, what you need to know
+       Source: MSN
+       > Cogent, ADP, Barrett, Brink's, and Equifax stocks trade down, what you need to know MSN
+       https://news.google.com/rss/articles/CBMiygFBVV95cUxNbUh6WS1IYm5oODZQV2ZMak1tUk9jR0I0TE9KUDhDMEdaWV9JR3hzS2VacHlXdG54Nm1
+
+  221. [low] [04-03 19:28] [rel:0.70] [Google-broad]
+       Will The PNC Financial Services Group (PNC) Beat Estimates Again in Its Next Earnings Report?
+       Source: sharewise.com
+       > Will The PNC Financial Services Group (PNC) Beat Estimates Again in Its Next Earnings Report? sharewise.com
+       https://www.sharewise.com/de/news_articles/Will_The_PNC_Financial_Services_Group_PNC_Beat_Estimates_Again_in_Its_Next_Ea
+
+  222. [low] [04-04 03:22] [rel:0.60] [Google-broad]
+       PNC SEC Filings - PNC Financial Services Group 10-K, 10-Q, 8-K Forms
+       Source: Stock Titan
+       > PNC SEC Filings - PNC Financial Services Group 10-K, 10-Q, 8-K Forms Stock Titan
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZMi1TQURIOXFtRjYtRXpHeUIwXzlZVEJnZWFOaVFzczVhdWZva3FrUDZLRGZOY2ZXZC1
+
+  223. [low] [04-04 06:06] [rel:0.60] [Google-broad]
+       Will US Bancorp (USB) beat estimates again in its next earnings report?
+       Source: MSN
+       > Will US Bancorp (USB) beat estimates again in its next earnings report? MSN
+       https://www.msn.com/en-us/money/topstocks/will-us-bancorp-usb-beat-estimates-again-in-its-next-earnings-report/ar-AA205N
+
+  224. [low] [04-03 19:28] [rel:0.60] [Google-broad]
+       Will U.S. Bancorp (USB) Beat Estimates Again in Its Next Earnings Report?
+       Source: sharewise.com
+       > Will U.S. Bancorp (USB) Beat Estimates Again in Its Next Earnings Report? sharewise.com
+       https://www.sharewise.com/de/news_articles/Will_US_Bancorp_USB_Beat_Estimates_Again_in_Its_Next_Earnings_Report_Zacks_20
+
+  225. [low] [04-04 15:44] [rel:0.50] [Google-broad]
+       USB Earning Date, Earning Analysis and Earning Prediction
+       Source: intellectia.ai
+       > USB Earning Date, Earning Analysis and Earning Prediction intellectia.ai
+       https://intellectia.ai/en/stock/USB/earnings
+
+  226. [low] [04-03 20:07] [rel:0.50] [Google-broad]
+       USB May 2026 42.000 put (USB260501P00042000) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > USB May 2026 42.000 put (USB260501P00042000) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VanotUlBzMmg5VFlhV0RTY1FjczlvRDBCQzh2eE9NM1k3ZEpBUnVoY3B1czlFUnQ0eU1
+
+  227. [low] [04-04 13:44] [rel:0.50] [Google-broad]
+       EMR Technical Analysis & Stock Price Forecast
+       Source: intellectia.ai
+       > EMR Technical Analysis & Stock Price Forecast intellectia.ai
+       https://intellectia.ai/en/stock/EMR/technical
+
+  228. [low] [04-04 07:15] [rel:0.55] [Google-broad]
+       Illinois Tool Works Inc. $ITW Position Boosted by Aberdeen Group plc
+       Source: MarketBeat
+       > Illinois Tool Works Inc. $ITW Position Boosted by Aberdeen Group plc MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-illinois-tool-works-inc-itw-position-boosted-by-aberdeen-group-plc-2026
+
+  229. [low] [04-04 22:40] [rel:0.50] [Google-broad]
+       ITW's 2026 Outlook Encounters Internal and Institutional Sell-Offs as Savvy Investors Pull Back
+       Source: Bitget
+       > ITW's 2026 Outlook Encounters Internal and Institutional Sell-Offs as Savvy Investors Pull Back Bitget
+       https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zZU56eVFCMHBYZ09nUm1EWXBPVFdtR3BQLXlJRHJSYy1kUWRPVF9EOU9HOU42dGMtazd
+
+  230. [low] [04-04 03:47] [rel:0.50] [Google-broad]
+       Illinois Tool Works Inc. (ITW) stock price, news, quote and history
+       Source: Yahoo Finance Singapore  (also: Yahoo Finance Singapore)
+       > Illinois Tool Works Inc. (ITW) stock price, news, quote and history Yahoo Finance Singapore
+       https://news.google.com/rss/articles/CBMiUEFVX3lxTE02aEgwZ2tzLWFOcnpjcVc4bFZ3cWs5NTRpdkFPZDFrRGRWZDM0QU9SVGRyYTNLN0dZNjl
+
+  231. [low] [04-03 08:54] [rel:0.50] [Google-broad]
+       Dorato Capital Management Buys Shares of 2,065 Illinois Tool Works Inc. $ITW
+       Source: Defense World
+       > Dorato Capital Management Buys Shares of 2,065 Illinois Tool Works Inc. $ITW Defense World
+       https://news.google.com/rss/articles/CBMiugFBVV95cUxQaWR3ODNBa2lSYS1LVlF5bkpBc0FlenduZnVLZTBZWnZKRlpWMWlJYTdUTFZHMmRGX0Z
+
+  232. [low] [04-04 08:06] [rel:0.50] [Google-broad]
+       Brookstone Capital Management Buys Shares of 17,720 Monster Beverage Corporation $MNST
+       Source: Defense World
+       > Brookstone Capital Management Buys Shares of 17,720 Monster Beverage Corporation $MNST Defense World
+       https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaEtSUm9DLWZqVXhCYVhqb2xOcnhqN3A1b3BJTDRYNy1mc3E4U1FuUWcxcFZRY3F6YjR
+
+  233. [low] [04-03 16:52] [rel:0.50] [Google-broad]
+       KDP or MNST: Which Stock Offers Superior Value?
+       Source: Bitget
+       > KDP or MNST: Which Stock Offers Superior Value? Bitget
+       https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uODZPQTVvT0doX1JObG9WYVZkYTVVTlJwWmZCWFMwRl9kbWh5U3BiOWpTRURSQXBzaUl
+
+  234. [low] [04-03 15:40] [rel:0.50] [Google-broad]
+       KDP vs. MNST: Which Stock Is the Better Value Option?
+       Source: finance.yahoo.com
+       > KDP vs. MNST: Which Stock Is the Better Value Option? finance.yahoo.com
+       https://news.google.com/rss/articles/CBMikwFBVV95cUxQTS1YQmc1TGxEbEZiTUl2SU1sWUtUSHFZeUhsdUlxYTFtZW1rX1FBYm9XeG80MjFSN29
+
+  235. [low] [04-04 10:10] [rel:0.50] [Google-broad]
+       CRH Earning Date, Earning Analysis and Earning Prediction
+       Source: intellectia.ai
+       > CRH Earning Date, Earning Analysis and Earning Prediction intellectia.ai
+       https://intellectia.ai/en/stock/CRH/earnings
+
+  236. [low] [04-03 20:58] [rel:0.50] [Google-broad]
+       CRH Jan 2028 155.000 call (CRH280121C00155000) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > CRH Jan 2028 155.000 call (CRH280121C00155000) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkZDAwUXA3NHNsa3hUN2ZRTUw5cjNBV1ZQWjJIQzlCTUp1YU1rSXd5RmZlaVpEZHExSEd
+
+  237. [low] [04-03 08:05] [rel:0.65] [Google-broad]
+       Compagnie Lombard Odier SCmA Trims Stake in Colgate-Palmolive Company $CL
+       Source: MarketBeat
+       > Compagnie Lombard Odier SCmA Trims Stake in Colgate-Palmolive Company $CL MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-compagnie-lombard-odier-scma-trims-stake-in-colgate-palmolive-company-c
+
+  238. [low] [04-03 20:07] [rel:0.60] [Google-broad]
+       Colgate-Palmolive (CL) director Norrington defers retainer into 294-share award
+       Source: Stock Titan
+       > Colgate-Palmolive (CL) director Norrington defers retainer into 294-share award Stock Titan
+       https://news.google.com/rss/articles/CBMisgFBVV95cUxOR2JwOGcxY1lrclhPdVYzSFVwNHhheTdqbnhUc1hjelNMMzdDVUVQQl9JdEE2cDZoQk4
+
+  239. [low] [04-03 20:05] [rel:0.60] [Google-broad]
+       Colgate-Palmolive (CL) director defers retainer into 210-share stock grant
+       Source: Stock Titan
+       > Colgate-Palmolive (CL) director defers retainer into 210-share stock grant Stock Titan
+       https://news.google.com/rss/articles/CBMisgFBVV95cUxNTnhkUGFSaURRd3lNamI5TE01MFlXRFgtQXM1Vjh2ZWd1ZDkxd20ydkprQXVsQ1JhNVU
+
+  240. [low] [04-03 20:04] [rel:0.60] [Google-broad]
+       Colgate (NYSE: CL) director defers retainer into 266 stock units
+       Source: Stock Titan
+       > Colgate (NYSE: CL) director defers retainer into 266 stock units Stock Titan
+       https://news.google.com/rss/articles/CBMisgFBVV95cUxQc052OEhSV1lJZ3Z4blhfZ2FrT1VBVFBJbVB1Z2NNdTFhV2JObnlFb1VHZGRBVllaZUF
+
+  241. [low] [04-04 00:33] [rel:0.50] [Google-broad]
+       ORLY Dec 2026 45.000 put (ORLY261218P00045000) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > ORLY Dec 2026 45.000 put (ORLY261218P00045000) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZkFVX3lxTE80WldwcW40NmNKU3IxZndwRl9BNWFmZDByVGhKYUJwM3JKYTB0cFBwb3pnWGhtZE02SWd
+
+  242. [low] [04-03 20:51] [rel:0.50] [Google-broad]
+       ORLY Jun 2026 70.000 call (ORLY260618C00070000) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > ORLY Jun 2026 70.000 call (ORLY260618C00070000) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zbnpkQnFJM0JvalJsT2tjdTZzWVhXUDVHZGZ4Ql9Gb0xRUWlyRkViTHNIY3UyaC1BcUN
+
+  243. [low] [04-04 21:26] [rel:0.55] [Google-broad]
+       Mondelez International, Inc. ($MDLZ) Chair & CEO 2025 Pay Revealed
+       Source: quiverquant.com
+       > Mondelez International, Inc. ($MDLZ) Chair & CEO 2025 Pay Revealed quiverquant.com
+       https://www.quiverquant.com/news/Mondelez+International%2C+Inc.+%28%24MDLZ%29+Chair+%26+CEO+2025+Pay+Revealed
+
+  244. [low] [04-03 23:38] [rel:0.50] [Google-broad]
+       MONDELEZ INTER-A (MDLZ.SW) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > MONDELEZ INTER-A (MDLZ.SW) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiakFVX3lxTFBSZzdCbm5PNEd3V3JrNFJmNmI5bWp3b1FYMFU3WjlxNzBXb2loME1DajRtRVRVOUF1OGh
+
+  245. [low] [04-03 22:21] [rel:0.50] [Google-broad]
+       MDLZ Apr 2026 80.000 call (MDLZ260402C00080000) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > MDLZ Apr 2026 80.000 call (MDLZ260402C00080000) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4aW5NdkxWR3c5aHNiMm82a1JjaVFCSndnSVRWYmI5VnV2MWtVUmlGbzBMTDJYQ1ViNzJ
+
+  246. [low] [04-03 20:11] [rel:0.50] [Google-broad]
+       Mondelez (MDLZ) HR chief has 3,218 shares withheld for tax obligations
+       Source: Stock Titan
+       > Mondelez (MDLZ) HR chief has 3,218 shares withheld for tax obligations Stock Titan
+       https://news.google.com/rss/articles/CBMivAFBVV95cUxOOFNFYVVHR1FBSkZTYThISk5nZHpBcnduU0ttWDBtMWN1SjJGRW4yUnFVeEpTdVZSTnY
+
+  247. [low] [04-03 20:11] [rel:0.50] [Google-broad]
+       Mondelez (MDLZ) Europe EVP has 90 shares withheld for taxes after RSU vesting
+       Source: Stock Titan
+       > Mondelez (MDLZ) Europe EVP has 90 shares withheld for taxes after RSU vesting Stock Titan
+       https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnM4Y0lhYVI5a3RXTGxoWmdDelhBQ21GejIwcXphWmpMbEZqOFdLeHI4ZVpPb1JzTGZ
+
+  248. [low] [04-03 21:13] [rel:0.60] [Google-broad]
+       Cigna (NYSE: CI) EVP details stock and option holdings
+       Source: Stock Titan
+       > Cigna (NYSE: CI) EVP details stock and option holdings Stock Titan
+       https://news.google.com/rss/articles/CBMivAFBVV95cUxNbGVab29UcE9ZNEZhT0I5YV9VMWQyQ2dzNHVOUHpSelE0d0ZuS1o0YVE1d2g4cXUwUmU
+
+  249. [low] [04-03 12:12] [rel:0.75] [Google-broad]
+       Aon’s Earnings Precision Play: Miss Revenue, Trigger Fresh Sell-Off — Or Beat, and Force a Re-Rating
+       Source: Bitget
+       > Aon’s Earnings Precision Play: Miss Revenue, Trigger Fresh Sell-Off — Or Beat, and Force a Re-Rating Bitget
+       https://www.bitget.com/news/detail/12560605335581
+
+  250. [low] [04-04 03:36] [rel:0.60] [Google-broad]
+       Will Elevance Health (ELV) beat estimates again in its next earnings report?
+       Source: MSN  (also: sharewise.com)
+       > Will Elevance Health (ELV) beat estimates again in its next earnings report? MSN
+       https://www.msn.com/en-us/health/other/will-elevance-health-elv-beat-estimates-again-in-its-next-earnings-report/ar-AA20
+
+  251. [low] [04-04 04:40] [rel:0.50] [Google-broad]
+       Elevance Health, Inc. (ELV) latest stock news and headlines
+       Source: Yahoo Finance Singapore
+       > Elevance Health, Inc. (ELV) latest stock news and headlines Yahoo Finance Singapore
+       https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSUjYzM1l6SWFheVRqQUIyZDRFaHF3Z3lCTDhUZDlOdDBuSTY1MlhjaWZkUjZ2MGxDTmV
+
+  252. [low] [04-03 23:33] [rel:0.50] [Google-broad]
+       Elevance Health, Inc. (ELV) stock price, news, quote and history
+       Source: Yahoo Finance Australia
+       > Elevance Health, Inc. (ELV) stock price, news, quote and history Yahoo Finance Australia
+       https://news.google.com/rss/articles/CBMiYEFVX3lxTE9idG5CM0s2ODd2NUJYckRPV293V1ZtamprNEhPUXVvX3JxRjdPTW1SWGhaUU4xNkdQU2J
+
+  253. [low] [04-03 23:48] [rel:0.50] [Google-broad]
+       Warner Bros. Discovery, Inc. (WBD) stock price, news, quote and history
+       Source: Yahoo Finance Singapore
+       > Warner Bros. Discovery, Inc. (WBD) stock price, news, quote and history Yahoo Finance Singapore
+       https://news.google.com/rss/articles/CBMiUEFVX3lxTE52SE5jVUQzZy1fMWlxV1VMUlBLU3Fad3p5S25LU2RERXBQVWh1bjF0Tm9MZDRpM05mR2R
+
+  254. [low] [04-04 10:11] [rel:0.55] [Google-broad]
+       TE Connectivity PLC (NYSE:TEL) Presents a Compelling Case for Dividend Investors
+       Source: ChartMill
+       > TE Connectivity PLC (NYSE:TEL) Presents a Compelling Case for Dividend Investors ChartMill
+       https://www.chartmill.com/news/TEL/Chartmill-45003-TE-Connectivity-PLC-NYSETEL-Presents-a-Compelling-Case-for-Dividend-I
+
+  255. [low] [04-04 09:19] [rel:0.55] [Google-broad]
+       TE Connectivity Ltd. $TEL Stock Holdings Lessened by J. Safra Sarasin Holding AG
+       Source: MarketBeat
+       > TE Connectivity Ltd. $TEL Stock Holdings Lessened by J. Safra Sarasin Holding AG MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-te-connectivity-ltd-tel-stock-holdings-lessened-by-j-safra-sarasin-hold
+
+  256. [low] [04-03 20:07] [rel:0.50] [Google-broad]
+       TEL Dec 2026 140.000 put (TEL261218P00140000) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > TEL Dec 2026 140.000 put (TEL261218P00140000) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0ZFRsenVoRkZ0djVYOHRPTlM5Z3BXaDlocmw2TEFIYzh2WnRBR2xQT3M3am5HcGltSUM
+
+  257. [low] [04-03 08:23] [rel:0.50] [Google-broad]
+       Dorato Capital Management Invests $586,000 in TE Connectivity Ltd. $TEL
+       Source: Defense World
+       > Dorato Capital Management Invests $586,000 in TE Connectivity Ltd. $TEL Defense World
+       https://news.google.com/rss/articles/CBMisgFBVV95cUxQV3ozb1JqQmR0NGxIWUlTMUd1T1NCU21OZG4xR2VtazY2WWJwdHNpMVBOODQ5SGpna1Z
+
+  258. [low] [04-04 21:35] [rel:0.55] [Google-broad]
+       SPG Financials: Revenue Breakdown, Margins & Competitor Comparison
+       Source: intellectia.ai
+       > SPG Financials: Revenue Breakdown, Margins & Competitor Comparison intellectia.ai
+       https://intellectia.ai/en/stock/SPG/financials
+
+  259. [low] [04-03 07:07] [rel:0.55] [Google-broad]
+       Aberdeen Group plc Trims Stock Position in Simon Property Group, Inc. $SPG
+       Source: MarketBeat
+       > Aberdeen Group plc Trims Stock Position in Simon Property Group, Inc. $SPG MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-aberdeen-group-plc-trims-stock-position-in-simon-property-group-inc-spg
+
+  260. [low] [04-04 15:09] [rel:0.50] [Google-broad]
+       SPG Technical Analysis & Stock Price Forecast
+       Source: intellectia.ai
+       > SPG Technical Analysis & Stock Price Forecast intellectia.ai
+       https://intellectia.ai/en/stock/SPG/technical
+
+  261. [low] [04-04 08:50] [rel:0.50] [Google-broad]
+       SPG Oct 2026 185.000 call (SPG261016C00185000) stock price, news, quote and history
+       Source: Yahoo Finance Singapore
+       > SPG Oct 2026 185.000 call (SPG261016C00185000) stock price, news, quote and history Yahoo Finance Singapore
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZSm9Hcnd5TXdMbnE0UDhNU0JRdHhZQ0F6bnJYcm1kQjBfOEVlcWF0TXotaHVTWGd2emh
+
+  262. [low] [04-04 16:19] [rel:0.50] [Google-broad]
+       Sempra (SRE) stock price, news, quote and history
+       Source: Yahoo Finance Singapore
+       > Sempra (SRE) stock price, news, quote and history Yahoo Finance Singapore
+       https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YQUt4aWNyX2diaGdfR1dGc3VIVGg1MFhsaWl3blpUVUttTEZBYkJqcTdiTE1qVHlPSjd
+
+  263. [low] [04-03 23:04] [rel:0.50] [Google-broad]
+       TFC Dec 2028 75.000 put (TFC281215P00075000) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > TFC Dec 2028 75.000 put (TFC281215P00075000) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uQVNyUzNvTXBRQkJXdGhPbmpFSmF0VmZsNFJtRzJTd3dSVjNzRXR3YlRVcjhRYk5fUkJ
+
+  264. [low] [04-03 01:51] [rel:0.50] [Google-broad]
+       Realty income EVP Bushore sells $461k in stock By Investing.com
+       Source: za.investing.com
+       > Realty income EVP Bushore sells $461k in stock By Investing.com za.investing.com
+       https://news.google.com/rss/articles/CBMirgFBVV95cUxQOTRYUmhsUWRWSUtUalJGbU5iYk1EclVLMUxNYnhndU5JaVpiSEd1cmxCeFM5a0VpcmI
+
+  265. [low] [04-04 12:14] [rel:0.50] [Google-broad]
+       APD Technical Analysis & Stock Price Forecast
+       Source: intellectia.ai
+       > APD Technical Analysis & Stock Price Forecast intellectia.ai
+       https://intellectia.ai/en/stock/APD/technical
+
+  266. [low] [04-03 19:56] [rel:0.50] [Google-broad]
+       Air Products and Chemicals, Inc. (APD) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > Air Products and Chemicals, Inc. (APD) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NX0lpZ19LWTZzYUVJMlNnZUFsWXloVUNwVkxmcmM4c0JzVjFlUkIwakRQWEQtaE01Ujd
+
+  267. [low] [04-04 13:45] [rel:0.50] [Google-broad]
+       AJG Earning Date, Earning Analysis and Earning Prediction
+       Source: intellectia.ai
+       > AJG Earning Date, Earning Analysis and Earning Prediction intellectia.ai
+       https://intellectia.ai/en/stock/AJG/earnings
+
+  268. [low] [04-03 13:34] [rel:0.50] [Google-broad]
+       Japan Post-related trust cuts AFLAC (NYSE: AFL) holding by 19,600 shares
+       Source: Stock Titan
+       > Japan Post-related trust cuts AFLAC (NYSE: AFL) holding by 19,600 shares Stock Titan
+       https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1VjUzE4dWVJTVlxSjFKSE1HQzhDaUNCRWVmY0NVc1ZxRjYzS2FhdHluWG96cS12eTN
+
+  269. [low] [04-03 05:39] [rel:0.50] [Google-broad]
+       Aflac Incorporated (AFL) stock price, news, quote and history
+       Source: Yahoo Finance Australia
+       > Aflac Incorporated (AFL) stock price, news, quote and history Yahoo Finance Australia
+       https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zU3hKQlFET1lKVEUtYU5mVjAyWlVZR0lwa3BaREtXRFUwdWFJRHVWcGdhcF8wakxKNnZ
+
+  270. [OK ] [04-03 14:54] [rel:0.65] [Google-broad]
+       Ford Motor Reports First-Quarter 2026 U.S. Vehicle Sales
+       Source: The Globe and Mail
+       > Ford Motor Reports First-Quarter 2026 U.S. Vehicle Sales The Globe and Mail
+       https://www.theglobeandmail.com/investing/markets/stocks/F/pressreleases/1136413/ford-motor-reports-first-quarter-2026-u
+
+  271. [low] [04-03 13:24] [rel:0.60] [Google-broad]
+       Ford Motor Company (FMC.F) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > Ford Motor Company (FMC.F) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MSXh5blJCNHBSdzhTNzJ2bVlKSGgtT1JoRGNoMnJ3RHVlX3l4RjZQSkRYblZGOEI0SVZ
+
+  272. [low] [04-03 13:00] [rel:0.60] [Google-broad]
+       Is Trending Stock Ford Motor Company (F) a Buy Now?
+       Source: Yahoo Finance Singapore
+       > Is Trending Stock Ford Motor Company (F) a Buy Now? Yahoo Finance Singapore
+       https://news.google.com/rss/articles/CBMiigFBVV95cUxNUUFJa1JPdWRtMjNqZ1JJUGFiTnJwZG9VMy11b0RCcldkOExadEZZRU9oNlhlRGhES0t
+
+  273. [TOP] [04-04 13:08] [rel:0.50] [Google-broad]
+       Allstate Has Weathered The Insurance Storm In 2025, As Its Umbrella Remains Strong
+       Source: Seeking Alpha
+       > Allstate Has Weathered The Insurance Storm In 2025, As Its Umbrella Remains Strong Seeking Alpha
+       https://news.google.com/rss/articles/CBMitgFBVV95cUxNUkdFckFtcE5WcVVKellEMkFCcWxiOWJvcDVvQXhMNlU4SHJuMUR1T2pmRmRUODVUWFd
+
+  274. [low] [04-04 08:41] [rel:0.65] [Google-broad]
+       The Allstate Corporation (NYSE:ALL) Given Average Rating of “Moderate Buy” by Brokerages
+       Source: Defense World
+       > The Allstate Corporation (NYSE:ALL) Given Average Rating of “Moderate Buy” by Brokerages Defense World
+       https://www.defenseworld.net/2026/04/04/the-allstate-corporation-nyseall-given-average-rating-of-moderate-buy-by-brokera
+
+  275. [low] [04-04 07:25] [rel:0.65] [Google-broad]
+       The Allstate Corporation $ALL Shares Purchased by Aberdeen Group plc
+       Source: MarketBeat
+       > The Allstate Corporation $ALL Shares Purchased by Aberdeen Group plc MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-the-allstate-corporation-all-shares-purchased-by-aberdeen-group-plc-202
+
+  276. [low] [04-03 07:13] [rel:0.60] [Google-broad]
+       Allspring Global Investments Holdings LLC Increases Position in The Allstate Corporation $ALL
+       Source: Defense World
+       > Allspring Global Investments Holdings LLC Increases Position in The Allstate Corporation $ALL Defense World
+       https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd0JVNlgxVFJQaU96Ul95MVcwYTNwYklxb3J4SzE2WWNNbkFpdUFVQVpmVFBnOWx2aTR
+
+  277. [low] [04-03 03:42] [rel:0.50] [Google-broad]
+       ALLSTATE CORP., THE R (ALS.DE) stock price, news, quote and history
+       Source: Yahoo Finance Singapore
+       > ALLSTATE CORP., THE R (ALS.DE) stock price, news, quote and history Yahoo Finance Singapore
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4OHRnNFhMd3NzSjh2c2FTb2JJcVdBZWZIdEZYeXc5c2pzOUhFRlViQ2VuLXM1RTNxVUV
+
+  278. [TOP] [04-04 12:00] [rel:0.50] [Google-broad]
+       Zoetis Stock: Deep Value Persists (NYSE:ZTS)
+       Source: Seeking Alpha
+       > Zoetis Stock: Deep Value Persists (NYSE:ZTS) Seeking Alpha
+       https://news.google.com/rss/articles/CBMidkFVX3lxTE5LalVzUlFOVW8xNkczdm1MWFBHcHVFMmhwckVxZ3pmU2M2V203ZjJ5OTFPSDV5RmNWb21
+
+  279. [low] [04-03 09:50] [rel:0.55] [Google-broad]
+       Nilsine Partners LLC Decreases Stock Position in Zoetis Inc. $ZTS
+       Source: MarketBeat
+       > Nilsine Partners LLC Decreases Stock Position in Zoetis Inc. $ZTS MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-nilsine-partners-llc-decreases-stock-position-in-zoetis-inc-zts-2026-04
+
+  280. [low] [04-03 23:11] [rel:0.50] [Google-broad]
+       Zoetis Inc. (ZTS) stock price, news, quote and history
+       Source: Yahoo Finance UK  (also: Yahoo Finance Singapore)
+       > Zoetis Inc. (ZTS) stock price, news, quote and history Yahoo Finance UK
+       https://news.google.com/rss/articles/CBMiUEFVX3lxTE90NUc1UHNlYnYtMWFJYnVWXzlKODFoZ0pXYms5SGVCX1pFYkVUbTQ1TVl4ZTNoMWFCdmp
+
+  281. [low] [04-03 20:07] [rel:0.50] [Google-broad]
+       ZTS Mar 2027 150.000 call (ZTS270319C00150000) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > ZTS Mar 2027 150.000 call (ZTS270319C00150000) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PUEd0YnV1eXplTVJiSzhpSmw2bHUtTkQxc1JicU1JNlhVSUFyS2tMYmhpaHdPaGNZUDV
+
+  282. [low] [04-03 20:04] [rel:0.50] [Google-broad]
+       Abacus Mining & Exploration Corporation (AME.V) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > Abacus Mining & Exploration Corporation (AME.V) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QUVJZbnE2T0ZrQnhFN0FwMFpwWGdtLVJHU1QzaUVURmdxQmxXNmhmbmRVcGJLOG1Kc1R
+
+  283. [low] [04-03 21:52] [rel:0.50] [Google-broad]
+       W.W. Grainger, Inc. (GWW) latest stock news and headlines
+       Source: Yahoo Finance UK  (also: Yahoo Finance UK)
+       > W.W. Grainger, Inc. (GWW) latest stock news and headlines Yahoo Finance UK
+       https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TRldWZzFiblhnZHk3TE8zdm96LUdMMVdfMnZRSFpKNUtuWkg0OEVlLTI2WEVyV0FaNFU
+
+  284. [low] [04-04 11:15] [rel:0.55] [Google-broad]
+       Perpetual Ltd Buys 3,848 Shares of Public Storage $PSA
+       Source: MarketBeat
+       > Perpetual Ltd Buys 3,848 Shares of Public Storage $PSA MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-perpetual-ltd-buys-3848-shares-of-public-storage-psa-2026-04-04/
+
+  285. [low] [04-03 21:28] [rel:0.50] [Google-broad]
+       PSA Jun 2026 160.000 call (PSA260618C00160000) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > PSA Jun 2026 160.000 call (PSA260618C00160000) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JaXFWYmVUSE1ZSWRCWXA2Y1NhNmNHUHFucFM1NktXWE5OYWgtSmJ3RFUxMl9yc2pGZjZ
+
+  286. [low] [04-03 20:12] [rel:0.50] [Google-broad]
+       Public Storage (PSA-PS) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > Public Storage (PSA-PS) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DLV9FUWZzMG05UG5qTDdpdjFCZmpPbHRlbWREQkt0ZnlDeVlpWkJKaDVBUTZ6X1NZbnk
+
+  287. [low] [04-03 16:40] [rel:0.50] [Google-broad]
+       Public Storage (PSA) director delivers 266 shares to cover tax liability
+       Source: Stock Titan
+       > Public Storage (PSA) director delivers 266 shares to cover tax liability Stock Titan
+       https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOG13UWxVbjIzdURYZVpRM0VEZjNZbFpkZnVPYXpWQXQ1dk11VVNHeXZ0eWRtdHc4Rk5
+
+  288. [low] [04-04 01:21] [rel:0.50] [Google-broad]
+       CTVA SEC Filings - Corteva Inc 10-K, 10-Q, 8-K Forms
+       Source: Stock Titan
+       > CTVA SEC Filings - Corteva Inc 10-K, 10-Q, 8-K Forms Stock Titan
+       https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OVmdLNlpldTJTNXNXS3lWLVpFMGVodkliWWZDcXNyMHh0dTdMNlJabmlMOWlNbl9ld0h
+
+  289. [low] [04-03 19:19] [rel:0.50] [Google-broad]
+       Corteva, Inc. (CTVA) stock price, news, quote and history
+       Source: Yahoo Finance UK
+       > Corteva, Inc. (CTVA) stock price, news, quote and history Yahoo Finance UK
+       https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IUGl4OUNqZy1XMnNlY0Q2OHFLMUpLcjVxWXpNanU2b0lTeGhod2U1QnJkbWhtcDlQTUd
+
+  290. [low] [04-03 09:28] [rel:0.55] [Google-broad]
+       KEYS Stock News Today | Earnings, Events & Price Alerts
+       Source: intellectia.ai
+       > KEYS Stock News Today | Earnings, Events & Price Alerts intellectia.ai
+       https://intellectia.ai/en/stock/KEYS/news
+
+  291. [low] [04-04 15:05] [rel:0.50] [Google-broad]
+       ADSK Earning Date, Earning Analysis and Earning Prediction
+       Source: intellectia.ai
+       > ADSK Earning Date, Earning Analysis and Earning Prediction intellectia.ai
+       https://intellectia.ai/en/stock/ADSK/earnings
+
+  292. [low] [04-03 23:34] [rel:0.50] [Google-broad]
+       Target Corporation (TGT) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > Target Corporation (TGT) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiUEFVX3lxTE44VW1tak5aNkVzSlU2VWN2QVdzX0FQeklLbVh4eERTd0x6SzdhdDRRams3aVB0ZW1XYUR
+
+  293. [low] [04-03 20:05] [rel:0.50] [Google-broad]
+       Target Corp (TGT) director Stephen Bratspies files Form 3 insider report
+       Source: Stock Titan
+       > Target Corp (TGT) director Stephen Bratspies files Form 3 insider report Stock Titan
+       https://news.google.com/rss/articles/CBMivgFBVV95cUxPekxwVnByZHB1aGg0ek8wdVRoWXYybDJJdVBjRm5ZLVJIdzNVY2g3VGhPcy1Ocm42WGF
+
+  294. [low] [04-03 06:02] [rel:0.50] [Google-broad]
+       Edwards Lifesciences Corporation (EW) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > Edwards Lifesciences Corporation (EW) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFeVhWc0EzOG1XdEJPUDZfODM2bExlOTVCZUxjeDc5Z19OS1c3YkxkNjhobjkyenhOQlZ
+
+  295. [OK ] [04-03 18:28] [rel:0.50] [Google-broad]
+       Kosaraju Sheela, Ciena SVP, sells $808k in CIEN stock
+       Source: investing.com
+       > Kosaraju Sheela, Ciena SVP, sells $808k in CIEN stock investing.com
+       https://news.google.com/rss/articles/CBMitgFBVV95cUxPVC1xcjVJa21hbV9QdENDYnVDU2ljNEVDQ2YwcHNjQm1zdms4MmxRWmZodkZ3VGVCcjR
+
+  296. [low] [04-03 17:43] [rel:0.55] [Google-broad]
+       CIENA (CIEN) CEO Gary Smith sells 2,952 shares in pre-set 10b5-1 trade
+       Source: Stock Titan
+       > CIENA (CIEN) CEO Gary Smith sells 2,952 shares in pre-set 10b5-1 trade Stock Titan
+       https://www.stocktitan.net/sec-filings/CIEN/form-4-ciena-corp-insider-trading-activity-eb76840a371e.html
+
+  297. [low] [04-03 23:46] [rel:0.50] [Google-broad]
+       CIENA (CIEN) SVP Jason Phipps sells 22,014 shares under 10b5-1 plan
+       Source: Stock Titan
+       > CIENA (CIEN) SVP Jason Phipps sells 22,014 shares under 10b5-1 plan Stock Titan
+       https://news.google.com/rss/articles/CBMipwFBVV95cUxNSHhKbTNPNzRvVFhOMEJYWEhZSXVfVnpob0tZRWswdGxmMFRDaUpyVWtkazkyWDRfZWt
+
+  298. [low] [04-03 18:04] [rel:0.50] [Google-broad]
+       CIENA (CIEN) SVP and General Counsel Kosaraju sells 2,012 shares
+       Source: Stock Titan
+       > CIENA (CIEN) SVP and General Counsel Kosaraju sells 2,012 shares Stock Titan
+       https://news.google.com/rss/articles/CBMipwFBVV95cUxNWWFDZHM1VUpOa0hJTmhLdFpMSlAwejIzbDJUdWN3d19ZUnd1V0NONEN6SWlIZmwxSVU
+
+  299. [low] [04-03 22:16] [rel:0.50] [Google-broad]
+       Garmin Ltd. (GRMN) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > Garmin Ltd. (GRMN) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KTzVUTkItRW5MeEJKMk05ODlsLXVTSVNqVFFyN2V1NWJnTUtoMEgtRGF2c3padFRJTzR
+
+  300. [low] [04-04 01:52] [rel:0.50] [Google-broad]
+       HSY Apr 2026 210.000 call (HSY260410C00210000) stock price, news, quote and history
+       Source: Yahoo Finance Singapore
+       > HSY Apr 2026 210.000 call (HSY260410C00210000) stock price, news, quote and history Yahoo Finance Singapore
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nUjd3REVwZE1McXBYaUV4d3I0T0ZVWWUzM0FGZTBBU005c0lsZFZRS2VSX2prOW92Y09
+
+  301. [low] [04-03 21:00] [rel:0.50] [Google-broad]
+       Hershey (NYSE: HSY) director sells 129 shares under Rule 10b5-1 plan
+       Source: Stock Titan
+       > Hershey (NYSE: HSY) director sells 129 shares under Rule 10b5-1 plan Stock Titan
+       https://news.google.com/rss/articles/CBMipgFBVV95cUxOWWFzWnJ6NG5weWJjU3JLbENoSnlxRVphZERqdTd2aTYtWnM0dDhBZDJiTnMwSHUzcTh
+
+  302. [low] [04-03 20:54] [rel:0.50] [Google-broad]
+       Director Robbin-Coker Cordel (HSY) receives new stock grant
+       Source: Stock Titan
+       > Director Robbin-Coker Cordel (HSY) receives new stock grant Stock Titan
+       https://news.google.com/rss/articles/CBMipgFBVV95cUxNUThNUFFJQUpTeDRKN21lRU5lRkFnWGVsNGRRZWhKWUdWeWkzX0puOWI1QWpvMmpHUTl
+
+  303. [low] [04-03 20:48] [rel:0.50] [Google-broad]
+       Director Harold Singleton III adds Hershey (NYSE: HSY) shares
+       Source: Stock Titan
+       > Director Harold Singleton III adds Hershey (NYSE: HSY) shares Stock Titan
+       https://news.google.com/rss/articles/CBMipgFBVV95cUxPU1IwWE9kMUZ1cVd6RGpSaXZkVS1MU2haS1h2bVQwcEpFTFg4b0pZN3UzampxVHdBVV9
+
+  304. [low] [04-03 20:45] [rel:0.50] [Google-broad]
+       Hershey (HSY) director gets 221.795-share stock grant, now holds 1,102.731
+       Source: Stock Titan
+       > Hershey (HSY) director gets 221.795-share stock grant, now holds 1,102.731 Stock Titan
+       https://news.google.com/rss/articles/CBMipgFBVV95cUxQSzJVdzduaDJSdTVFYmdIS2JUZ0JlSUoxaW4wbnUyTUFmOEtxa0MzNWR3VjV1dk5NYnQ
+
+  305. [low] [04-03 20:43] [rel:0.50] [Google-broad]
+       Director Kevin Ozan receives Hershey (HSY) stock award grant
+       Source: Stock Titan
+       > Director Kevin Ozan receives Hershey (HSY) stock award grant Stock Titan
+       https://news.google.com/rss/articles/CBMipgFBVV95cUxNZkRNYmF2T2sySmtJSGNwZmo2TU4zeE5SNC11eWxBRERzd2dEckpHcVh3ZzRYelEzTVV
+
+  306. [low] [04-03 20:40] [rel:0.50] [Google-broad]
+       Hershey (HSY) director Nalebuff receives 221.795-share stock award
+       Source: Stock Titan
+       > Hershey (HSY) director Nalebuff receives 221.795-share stock award Stock Titan
+       https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUZqZUR2T0pOVjdQMDdweTNrbVVqaU5nVWVqbmVpNDhhLUY0ZWlWbFBXclBELXlYOXp
+
+  307. [low] [04-03 20:29] [rel:0.50] [Google-broad]
+       Hershey (NYSE: HSY) director granted additional common shares
+       Source: Stock Titan
+       > Hershey (NYSE: HSY) director granted additional common shares Stock Titan
+       https://news.google.com/rss/articles/CBMipgFBVV95cUxNZVVZd3Y1bDF6MF9vUTlPQl9rX05UVWZOR3lMLWdIZkxuMXhmSk1ZaUxBUDUwbGIwWHN
+
+  308. [low] [04-03 20:26] [rel:0.50] [Google-broad]
+       Hershey (NYSE: HSY) director Maria Kraus reports new stock grant
+       Source: Stock Titan
+       > Hershey (NYSE: HSY) director Maria Kraus reports new stock grant Stock Titan
+       https://news.google.com/rss/articles/CBMipgFBVV95cUxNVzhPaWFqY3BNVWY0THdEcVh2MkhUQUZoYXRGTjEwNnViTDczdW1UWk4wcmlJbEN0eFl
+
+  309. [low] [04-03 20:19] [rel:0.50] [Google-broad]
+       Hershey (HSY) director Curoe receives stock grant, lifts holdings to 1,600.9 shares
+       Source: Stock Titan
+       > Hershey (HSY) director Curoe receives stock grant, lifts holdings to 1,600.9 shares Stock Titan
+       https://news.google.com/rss/articles/CBMipgFBVV95cUxOMVBnX2NMUm1SOVlRTFhVM25NYXJuX3ZvUlBNdDR2VmlVWkNfNWotd0lHWHA4Tk9mNFN
+
+  310. [low] [04-03 20:15] [rel:0.50] [Google-broad]
+       Hershey (NYSE: HSY) director receives 221.795-share stock grant
+       Source: Stock Titan
+       > Hershey (NYSE: HSY) director receives 221.795-share stock grant Stock Titan
+       https://news.google.com/rss/articles/CBMipgFBVV95cUxOTklwSXVZNFFnOU85M1AxbzRWcW5HTjdCNzhKNDRNNFI3OWdhUWlMS1NKMmpMSGpWMm5
+
+  311. [low] [04-03 16:40] [rel:0.60] [Google-broad]
+       Why is Carvana (CVNA) down 11.6% since last earnings report?
+       Source: MSN
+       > Why is Carvana (CVNA) down 11.6% since last earnings report? MSN
+       https://www.msn.com/en-us/money/topstocks/why-is-carvana-cvna-down-11-6-since-last-earnings-report/ar-AA1Z4bv3
+
+  312. [low] [04-04 16:30] [rel:0.55] [Google-broad]
+       CVNA Stock News Today | Earnings, Events & Price Alerts
+       Source: intellectia.ai  (also: intellectia.ai)
+       > CVNA Stock News Today | Earnings, Events & Price Alerts intellectia.ai
+       https://intellectia.ai/en/stock/CVNA/news
+
+  313. [low] [04-03 20:29] [rel:0.50] [Google-broad]
+       Carvana (NYSE: CVNA) officer has 2,870 shares withheld for RSU taxes
+       Source: Stock Titan
+       > Carvana (NYSE: CVNA) officer has 2,870 shares withheld for RSU taxes Stock Titan
+       https://news.google.com/rss/articles/CBMipwFBVV95cUxNWDdkeHpsbkNJLTIwNThUSTFzb3VPeDhkMnFGbVR4LTJVVEVEdjlCWGtiVy1zWmtOX3B
+
+  314. [low] [04-03 20:28] [rel:0.50] [Google-broad]
+       Carvana (NYSE: CVNA) VP sells shares under Rule 10b5-1 trading plan
+       Source: Stock Titan
+       > Carvana (NYSE: CVNA) VP sells shares under Rule 10b5-1 trading plan Stock Titan
+       https://news.google.com/rss/articles/CBMipwFBVV95cUxPa0Q0WnRJdExuWktNUTBwdFJyUm5NMlVkQVNTdDI0UEFvRGxObkV1M3daQmVCZjRXTVA
+
+  315. [low] [04-03 20:28] [rel:0.50] [Google-broad]
+       Carvana (NYSE: CVNA) COO sells 10K shares after option exercise
+       Source: Stock Titan
+       > Carvana (NYSE: CVNA) COO sells 10K shares after option exercise Stock Titan
+       https://news.google.com/rss/articles/CBMipwFBVV95cUxOM1QyX05HX0l4OVFYNWQza01BZXAwalZsYXF4bWNTU0FBRWdhRElnd2F4b29ZcE5UazN
+
+  316. [low] [04-04 14:43] [rel:0.50] [Google-broad]
+       MET Earning Date, Earning Analysis and Earning Prediction
+       Source: intellectia.ai
+       > MET Earning Date, Earning Analysis and Earning Prediction intellectia.ai
+       https://intellectia.ai/en/stock/MET/earnings
+
+  317. [low] [04-03 20:05] [rel:0.50] [Google-broad]
+       MetLife (NYSE: MET) director receives 721 deferred stock shares
+       Source: Stock Titan
+       > MetLife (NYSE: MET) director receives 721 deferred stock shares Stock Titan
+       https://news.google.com/rss/articles/CBMipwFBVV95cUxNbUxXLXJjVjJLc1NUVUwyOTZuUlRnVTFrbkw2T2J3WDA1cmV2TXhvVGg2TUFRb1RVUkR
+
+  318. [low] [04-03 20:05] [rel:0.50] [Google-broad]
+       Director William Kennard receives 721-share stock grant at MetLife (NYSE: MET)
+       Source: Stock Titan
+       > Director William Kennard receives 721-share stock grant at MetLife (NYSE: MET) Stock Titan
+       https://news.google.com/rss/articles/CBMipwFBVV95cUxObGUyNGg4UmJ2R1hFaDdSWVpKLTJxZDVKR1BORG85SXpaU2pNWFZpVkU3MXVYcU9HTFJ
+
+  319. [low] [04-03 20:05] [rel:0.50] [Google-broad]
+       MetLife (NYSE: MET) director granted 1,248 deferred shares as fees
+       Source: Stock Titan
+       > MetLife (NYSE: MET) director granted 1,248 deferred shares as fees Stock Titan
+       https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWUxVk1hbE1HQ05QRW5ZekhPcXBmbHBfYl9samVjQU82X0lCUVBvdU9TRHlyZ0FJQTV
+
+  320. [low] [04-03 20:04] [rel:0.50] [Google-broad]
+       MetLife (MET) director receives 721-share stock grant as deferred board fees
+       Source: Stock Titan
+       > MetLife (MET) director receives 721-share stock grant as deferred board fees Stock Titan
+       https://news.google.com/rss/articles/CBMipwFBVV95cUxOaUpKNU5RRm5OWUxHdUNyYUZDRWZnZGlOT2dXb1RNN1ViSEtDOTJEUzVCb2dudEZyZW9
+
+  321. [low] [04-03 20:04] [rel:0.50] [Google-broad]
+       MetLife (MET) director Laura J. Hay granted 721 deferred shares as board fees
+       Source: Stock Titan
+       > MetLife (MET) director Laura J. Hay granted 721 deferred shares as board fees Stock Titan
+       https://news.google.com/rss/articles/CBMipwFBVV95cUxQb290bnRRbVBoWWpsX0VwdE5rWE9NeWc3RndlMF82QkNKcjNXVTRqRDkzMnB5akJscU5
+
+  322. [low] [04-03 20:04] [rel:0.50] [Google-broad]
+       MetLife director awarded 721 deferred shares | MET Insider Trading
+       Source: Stock Titan
+       > MetLife director awarded 721 deferred shares | MET Insider Trading Stock Titan
+       https://news.google.com/rss/articles/CBMipwFBVV95cUxNVWQ3OG9YNFMxVVNxVFVYWGsxdWtVZW1WX1hVWDZhVjNtd2ExUTRMZTdCX1FIOWdvdm0
+
+  323. [low] [04-03 20:04] [rel:0.50] [Google-broad]
+       MetLife (MET) director Daniel Glaser receives 721-share equity grant and defers payout
+       Source: Stock Titan
+       > MetLife (MET) director Daniel Glaser receives 721-share equity grant and defers payout Stock Titan
+       https://news.google.com/rss/articles/CBMipwFBVV95cUxONHVRU2hDdDRScFZhU2hWQzFOSTlJNFhHYS1zejhYTUJZZk9BT1ZIeVpxdk11ZHZsemZ
+
+  324. [low] [04-03 20:04] [rel:0.50] [Google-broad]
+       MetLife (NYSE: MET) director awarded 721 shares as board pay
+       Source: Stock Titan
+       > MetLife (NYSE: MET) director awarded 721 shares as board pay Stock Titan
+       https://news.google.com/rss/articles/CBMipwFBVV95cUxQWFpzRzY2dlVjMF9Ha2NKMkFKSURSYTVKcEsybXNYakNyU1Z1WTVXWGhFUkhOQ2RRR3Z
+
+  325. [low] [04-03 20:04] [rel:0.50] [Google-broad]
+       MetLife (MET) director Mark A. Weinberger receives 721-share stock grant
+       Source: Stock Titan  (also: Stock Titan)
+       > MetLife (MET) director Mark A. Weinberger receives 721-share stock grant Stock Titan
+       https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3dEZ2JtdjBFQjFnY0pyWXc1X2d6aUVhMnEwSjhTUWlaZEZNaHFSeHZwcUl1NDltRUU
+
+  326. [low] [04-03 20:04] [rel:0.50] [Google-broad]
+       MetLife (MET) director Jeh C. Johnson granted 721 deferred shares as board pay
+       Source: Stock Titan
+       > MetLife (MET) director Jeh C. Johnson granted 721 deferred shares as board pay Stock Titan
+       https://news.google.com/rss/articles/CBMipwFBVV95cUxQUng2d1hLckcwRmVnc3E2S0FTdXBnWjhJdEMwMFkzR3NVc25DTXplTjI4UGlqV2pHeUJ
+
+  327. [low] [04-03 06:06] [rel:0.65] [Google-broad]
+       Yum! Brands' Revenue Beat Hides Margin Squeeze as Expansion Costs Outpace Profits
+       Source: Bitget
+       > Yum! Brands' Revenue Beat Hides Margin Squeeze as Expansion Costs Outpace Profits Bitget
+       https://www.bitget.com/news/detail/12560605335654
+
+  328. [low] [04-03 20:00] [rel:0.60] [Google-broad]
+       YUM Brands (NYSE: YUM) 2026 proxy pits board against 10% special-meeting push
+       Source: Stock Titan
+       > YUM Brands (NYSE: YUM) 2026 proxy pits board against 10% special-meeting push Stock Titan
+       https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0lsSjF1LWtSclRHdXRmWTNLYUdrQXc4U05vMFp0LVRaWXNSS1JHMHdEaVFDeFBJYll
+
+  329. [low] [04-04 03:12] [rel:0.50] [Google-broad]
+       KFC Bucket: The Iconic Fried Chicken Offering Driving Yum! Brands' Global Sales Growth in North Amer
+       Source: AD HOC NEWS
+       > KFC Bucket: The Iconic Fried Chicken Offering Driving Yum! Brands' Global Sales Growth in North Amer AD HOC NEWS
+       https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZlhkWHFVdkI4blRaN2hjXzZtbGtHYjFCUTM3RlhkSERyQzdPRTBsUER6YlFpcnhsQVd
+
+  330. [low] [04-03 20:10] [rel:0.50] [Google-broad]
+       [ARS] YUM BRANDS INC SEC Filing
+       Source: Stock Titan
+       > [ARS] YUM BRANDS INC SEC Filing Stock Titan
+       https://news.google.com/rss/articles/CBMilAFBVV95cUxPeDdOWGVpeTY3c2p1UHpDUVhBdUY1V1ZBc2VHUllaNDBDNFROWUN4SlBPdGJuenRPVDJ
+
+  331. [low] [04-03 10:40] [rel:0.50] [Google-broad]
+       DHI vs. NVR: Which Stock Is the Better Value Option?
+       Source: qz.com
+       > DHI vs. NVR: Which Stock Is the Better Value Option? qz.com
+       https://news.google.com/rss/articles/CBMickFVX3lxTE55dVJ4NzM4QjR6ZU1xUkVJN3g5Q3lyWTdaT1VvOXFzcXR4S1pTWkJRalVvNVBPWTdxWWV
+
+  332. [low] [04-03 10:04] [rel:0.55] [Google-broad]
+       Regional Banks Stocks Q4 Recap: Benchmarking Fifth Third Bancorp (NASDAQ:FITB)
+       Source: finance.yahoo.com  (also: StockStory)
+       > Regional Banks Stocks Q4 Recap: Benchmarking Fifth Third Bancorp (NASDAQ:FITB) finance.yahoo.com
+       https://finance.yahoo.com/markets/stocks/articles/regional-banks-stocks-q4-recap-100450372.html
+
+  333. [low] [04-04 00:06] [rel:0.50] [Google-broad]
+       Fifth Third Bancorp (FITB) stock price, news, quote and history
+       Source: Yahoo Finance UK  (also: Yahoo Finance UK)
+       > Fifth Third Bancorp (FITB) stock price, news, quote and history Yahoo Finance UK
+       https://news.google.com/rss/articles/CBMiUkFVX3lxTE54WGx3WUNVTk1GRWJiUWs0eV9BdTEwTkE4V1hxZ0hSR0lvMzR3cURJdEJ4dFpIaWU3bkF
+
+  334. [low] [04-03 21:34] [rel:0.65] [Google-broad]
+       CBRE Group Inc. stock: Q1 Beat and FY Guidance Spark Long-Term Buzz
+       Source: AD HOC NEWS
+       > CBRE Group Inc. stock: Q1 Beat and FY Guidance Spark Long-Term Buzz AD HOC NEWS
+       https://www.ad-hoc-news.de/boerse/ueberblick/cbre-group-inc-stock-q1-beat-and-fy-guidance-spark-long-term-buzz/69067576
+
+  335. [low] [04-03 10:21] [rel:0.60] [Google-broad]
+       CBRE Group Inc (NYSE:CBRE) Shows Growth Fundamentals and Technical Breakout Potential
+       Source: ChartMill
+       > CBRE Group Inc (NYSE:CBRE) Shows Growth Fundamentals and Technical Breakout Potential ChartMill
+       https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ3lUSXducUlYX2N0QllKWDdVSlRIOXB4ajYwZFJMeERpUDZhcFJlQzlQYzVZY2wxYWl
+
+  336. [TOP] [04-04 22:34] [rel:0.50] [Google-broad]
+       1 Stock That's a Big Opportunity: AIG
+       Source: Yahoo
+       > 1 Stock That's a Big Opportunity: AIG Yahoo
+       https://news.google.com/rss/articles/CBMifkFVX3lxTFBDVTdVd0E2Z2xDQkZ2R2c3SlU0dllObW5XSDU4N0VkazFIRWhqNDVhRFVMZ1kzOTVMeDY
+
+  337. [low] [04-04 00:11] [rel:0.50] [Google-broad]
+       AIG SEC Filings - American Intl Group Inc 10-K, 10-Q, 8-K Forms
+       Source: Stock Titan
+       > AIG SEC Filings - American Intl Group Inc 10-K, 10-Q, 8-K Forms Stock Titan
+       https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kZm1JS0lIUjVaU19KTHVFQV9HVGh2bUFudlZTa3BmUzJoOXZSQkdMY2Jqbk80amxVRHB
+
+  338. [low] [04-04 08:10] [rel:0.55] [Google-broad]
+       AMP Stock News Today | Earnings, Events & Price Alerts
+       Source: intellectia.ai  (also: intellectia.ai)
+       > AMP Stock News Today | Earnings, Events & Price Alerts intellectia.ai
+       https://intellectia.ai/en/stock/AMP/news
+
+  339. [low] [04-03 21:30] [rel:0.55] [Google-broad]
+       Delta Air Lines (DAL) grants CFO 7,400 restricted shares
+       Source: Stock Titan
+       > Delta Air Lines (DAL) grants CFO 7,400 restricted shares Stock Titan
+       https://www.stocktitan.net/sec-filings/DAL/form-4-delta-air-lines-inc-insider-trading-activity-0e649daa2211.html
+
+  340. [low] [04-03 02:06] [rel:0.55] [Google-broad]
+       Earnings Preview: DAL to Report Financial Results on April 08
+       Source: Moomoo
+       > Earnings Preview: DAL to Report Financial Results on April 08 Moomoo
+       https://www.moomoo.com/news/post/67868319/earnings-preview-dal-to-report-financial-results-on-april-08
+
+  341. [low] [04-03 21:30] [rel:0.50] [Google-broad]
+       Delta Air Lines (DAL) COO Daniel Janki receives 5,550-share restricted stock grant
+       Source: Stock Titan
+       > Delta Air Lines (DAL) COO Daniel Janki receives 5,550-share restricted stock grant Stock Titan
+       https://news.google.com/rss/articles/CBMisgFBVV95cUxQT0pReG01N0YwNzZBNlA3Q2JfcHFlR3RzaXB5N0JWVmRycmxSNVY2LUE0OFVobU1vaVh
+
+  342. [low] [04-03 21:30] [rel:0.50] [Google-broad]
+       Delta Air Lines (NYSE: DAL) grants 2,470 restricted shares to EVP
+       Source: Stock Titan
+       > Delta Air Lines (NYSE: DAL) grants 2,470 restricted shares to EVP Stock Titan
+       https://news.google.com/rss/articles/CBMisgFBVV95cUxQREs5MGUtdE9hU3ZRZDhiVEN2d1JiQkRvQXEtY2JnUkJURTFxdUxYVUJ2Z1ZHTUR3NUl
+
+  343. [low] [04-03 21:30] [rel:0.50] [Google-broad]
+       Delta Air Lines (DAL) president receives 2,960 restricted shares in 2026 incentive grant
+       Source: Stock Titan
+       > Delta Air Lines (DAL) president receives 2,960 restricted shares in 2026 incentive grant Stock Titan
+       https://news.google.com/rss/articles/CBMisgFBVV95cUxNM1pVTjRQTmRCZ2M1TFJndnQ3bXF6VFpDZTZBYkpDcGtXVTNhdk1Zd2VERGxWOVlkOWJ
+
+  344. [low] [04-04 13:43] [rel:0.55] [Google-broad]
+       KDP Stock News Today | Earnings, Events & Price Alerts
+       Source: intellectia.ai  (also: intellectia.ai)
+       > KDP Stock News Today | Earnings, Events & Price Alerts intellectia.ai
+       https://intellectia.ai/en/stock/KDP/news
+
+  345. [low] [04-04 00:02] [rel:0.55] [Google-broad]
+       Keurig Dr Pepper (KDP) down 12.5% since last earnings report: Can it rebound?
+       Source: MSN
+       > Keurig Dr Pepper (KDP) down 12.5% since last earnings report: Can it rebound? MSN
+       https://www.msn.com/en-us/money/topstocks/keurig-dr-pepper-kdp-down-125-since-last-earnings-report-can-it-rebound/ar-AA1
+
+  346. [low] [04-03 10:40] [rel:0.50] [Google-broad]
+       KDP vs. MNST: Which Stock Is the Better Value Option?
+       Source: qz.com
+       > KDP vs. MNST: Which Stock Is the Better Value Option? qz.com
+       https://news.google.com/rss/articles/CBMic0FVX3lxTE5FSUxlQlg2UTVOQ19kNk1EVktlZXVCSHBYUk9JNk5HRTE1YTJYeGNSZThfdU50aDJqV2F
+
+  347. [low] [04-03 05:46] [rel:0.50] [Google-broad]
+       Keurig Dr Pepper (KDP) Drops 11% Over the Past Month—Is a Turnaround Imminent?
+       Source: Bitget
+       > Keurig Dr Pepper (KDP) Drops 11% Over the Past Month—Is a Turnaround Imminent? Bitget
+       https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vcm1ZWjhMeXdjVWRUZG9Dc1VoLXBOd3llMWRwdldLSXMzOHpBSE1sVWRwRzFoM25nQlI
+
+  348. [low] [04-03 20:05] [rel:0.50] [Google-broad]
+       Director Maurice S. Smith receives 457 Ventas (NYSE: VTR) stock units as fees
+       Source: Stock Titan
+       > Director Maurice S. Smith receives 457 Ventas (NYSE: VTR) stock units as fees Stock Titan
+       https://news.google.com/rss/articles/CBMipgFBVV95cUxQdlhJWDBrZldhdDdWQy1sa3gzSUlwa3YtbjVab05XNnBmdGE3SjRTZEJBeER0WUtwWFl
+
+  349. [low] [04-03 20:05] [rel:0.50] [Google-broad]
+       Ventas (NYSE: VTR) director awarded 381 shares under fee deferral plan
+       Source: Stock Titan
+       > Ventas (NYSE: VTR) director awarded 381 shares under fee deferral plan Stock Titan
+       https://news.google.com/rss/articles/CBMipgFBVV95cUxPSmFNWk95QUlkRWNZTjR3RlFjcmJmckZhMjRhYXYzVVhQOFUxREVGSkJsWXRkeHVKSUt
+
+  350. [low] [04-03 20:05] [rel:0.50] [Google-broad]
+       Ventas (VTR) director converts deferred board fees into 396 stock units
+       Source: Stock Titan
+       > Ventas (VTR) director converts deferred board fees into 396 stock units Stock Titan
+       https://news.google.com/rss/articles/CBMipgFBVV95cUxOc0xJalRZM2xERVRXVmhERmJOUFdNRGhJbV9XVEE1Sjd6M0s2RHZickZDODNIR0dmckt
+
+  351. [low] [04-03 20:05] [rel:0.50] [Google-broad]
+       Roxanne Martino adds Ventas (VTR) shares through director fee grant
+       Source: Stock Titan
+       > Roxanne Martino adds Ventas (VTR) shares through director fee grant Stock Titan
+       https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGFpYWc3Q1ZMUWhiaHNtMWM3LXVYV3ZxX050NjA1RXRHc1lqRzEyQ1pSRzlrM0NnSkt
+
+  352. [low] [04-03 20:22] [rel:0.70] [Google-broad]
+       eBay (EBAY) CEO receives 118,424 RSUs vesting quarterly from 2026
+       Source: Stock Titan
+       > eBay (EBAY) CEO receives 118,424 RSUs vesting quarterly from 2026 Stock Titan
+       https://www.stocktitan.net/sec-filings/EBAY/form-4-ebay-inc-insider-trading-activity-54a35873c150.html
+
+  353. [low] [04-03 20:19] [rel:0.65] [Google-broad]
+       eBay (EBAY) growth chief receives 33,992 RSUs vesting quarterly
+       Source: Stock Titan
+       > eBay (EBAY) growth chief receives 33,992 RSUs vesting quarterly Stock Titan
+       https://www.stocktitan.net/sec-filings/EBAY/form-4-ebay-inc-insider-trading-activity-c31465422d16.html
+
+  354. [low] [04-03 20:11] [rel:0.65] [Google-broad]
+       CFO at eBay (NASDAQ: EBAY) receives 39,475 RSU equity award
+       Source: Stock Titan
+       > CFO at eBay (NASDAQ: EBAY) receives 39,475 RSU equity award Stock Titan
+       https://www.stocktitan.net/sec-filings/EBAY/form-4-ebay-inc-insider-trading-activity-2cdeb7350f5d.html
+
+  355. [low] [04-03 20:23] [rel:0.60] [Google-broad]
+       Executive at eBay (EBAY) receives 12,611 RSUs in new stock awards
+       Source: Stock Titan
+       > Executive at eBay (EBAY) receives 12,611 RSUs in new stock awards Stock Titan
+       https://news.google.com/rss/articles/CBMipAFBVV95cUxQVjhxcng5Q2RZQURHYjBLQUtRYWh1YkVJMnl5amM2NV9PMVlHaUllZ1Jnc2Z2UFRmbnQ
+
+  356. [low] [04-03 20:21] [rel:0.60] [Google-broad]
+       EBAY (EBAY) chief commercial officer awarded 52,633 restricted stock units
+       Source: Stock Titan
+       > EBAY (EBAY) chief commercial officer awarded 52,633 restricted stock units Stock Titan
+       https://news.google.com/rss/articles/CBMipAFBVV95cUxQaDBabk03cEhFMHg1SkpLZjJyRXY5RGNEYUFvWnhmQzNsbEJmRHh2OGM2eFRPZl85WGp
+
+  357. [low] [04-03 20:15] [rel:0.60] [Google-broad]
+       eBay (NASDAQ: EBAY) CLO awarded 24,124 restricted stock units
+       Source: Stock Titan
+       > eBay (NASDAQ: EBAY) CLO awarded 24,124 restricted stock units Stock Titan
+       https://news.google.com/rss/articles/CBMipAFBVV95cUxQdld6MS1zbE1qY29TMGk0dTMwbTk4SFBhT1RuMXdKR2pTcGJROHNnTm9Xa1RFbU9BaTc
+
+  358. [low] [04-03 20:13] [rel:0.60] [Google-broad]
+       Ebay (NASDAQ: EBAY) grants SVP 27,413 RSUs vesting from 2026
+       Source: Stock Titan
+       > Ebay (NASDAQ: EBAY) grants SVP 27,413 RSUs vesting from 2026 Stock Titan
+       https://news.google.com/rss/articles/CBMipAFBVV95cUxOYUlZdFdlYjllODNJYy1OdGNhUGROcFJWYWo2Nm5lVWVDRXllaEhET083cUs4Rlh3Xzd
+
+  359. [low] [04-03 20:17] [rel:0.55] [Google-broad]
+       CTO Mazen Rawashdeh (NASDAQ: EBAY) receives 33,992 RSUs
+       Source: Stock Titan
+       > CTO Mazen Rawashdeh (NASDAQ: EBAY) receives 33,992 RSUs Stock Titan
+       https://www.stocktitan.net/sec-filings/EBAY/form-4-ebay-inc-insider-trading-activity-1cd5ecf47b51.html
+
+  360. [low] [04-04 06:53] [rel:0.65] [Google-broad]
+       Consolidated Edison Inc (NYSE:ED) Receives Consensus Recommendation of "Reduce" from Brokerages
+       Source: MarketBeat
+       > Consolidated Edison Inc (NYSE:ED) Receives Consensus Recommendation of "Reduce" from Brokerages MarketBeat
+       https://www.marketbeat.com/instant-alerts/consolidated-edison-inc-nyseed-receives-consensus-recommendation-of-reduce-fro
+
+  361. [low] [04-03 07:43] [rel:0.65] [Google-broad]
+       Exchange Traded Concepts LLC Cuts Stake in Consolidated Edison Inc $ED
+       Source: MarketBeat
+       > Exchange Traded Concepts LLC Cuts Stake in Consolidated Edison Inc $ED MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-exchange-traded-concepts-llc-cuts-stake-in-consolidated-edison-inc-ed-2
+
+  362. [low] [04-03 07:09] [rel:0.55] [Google-broad]
+       Take-Two Interactive Software, Inc. $TTWO Stock Holdings Decreased by Allspring Global Investments Holdings LLC
+       Source: MarketBeat
+       > Take-Two Interactive Software, Inc. $TTWO Stock Holdings Decreased by Allspring Global Investments Holdings LLC MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-take-two-interactive-software-inc-ttwo-stock-holdings-decreased-by-alls
+
+  363. [low] [04-04 09:11] [rel:0.50] [Google-broad]
+       TTWO Earning Date, Earning Analysis and Earning Prediction
+       Source: intellectia.ai
+       > TTWO Earning Date, Earning Analysis and Earning Prediction intellectia.ai
+       https://intellectia.ai/en/stock/TTWO/earnings
+
+  364. [low] [04-04 04:30] [rel:0.50] [Google-broad]
+       Take-Two Interactive Software, Inc. (TTWO) stock price, news, quote and history
+       Source: Yahoo Finance UK  (also: Yahoo Finance Singapore)
+       > Take-Two Interactive Software, Inc. (TTWO) stock price, news, quote and history Yahoo Finance UK
+       https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aVUZHZTdGNHl0MXZ4b0toZDBtZFRJUXYzZmNEZ3RfWlNXNTkwU3gyRF90TXFFSXBSNkh
+
+  365. [low] [04-03 21:43] [rel:0.50] [Google-broad]
+       Crown Castle Inc. (CCI) interactive stock chart
+       Source: Yahoo Finance Singapore
+       > Crown Castle Inc. (CCI) interactive stock chart Yahoo Finance Singapore
+       https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5RDVXekgzUkFHcnJONUY5TFBCaFR5VlNiemRHTXdFYmNGc2ZjZTA5RE44c3QzaElIaEV
+
+  366. [low] [04-03 20:55] [rel:0.50] [Google-broad]
+       CCI Oct 2026 110.000 call (CCI261016C00110000) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > CCI Oct 2026 110.000 call (CCI261016C00110000) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YZmZUandhMmNLR3A0TEh6dndKMDExemNOeDNTWGJjU2h6QnpHVnlQc1plVEE5aHNBR3I
+
+  367. [low] [04-03 18:41] [rel:0.50] [Google-broad]
+       Crown Castle Inc. (CCI) stock price, news, quote and history
+       Source: Yahoo Finance Singapore  (also: Yahoo Finance Singapore)
+       > Crown Castle Inc. (CCI) stock price, news, quote and history Yahoo Finance Singapore
+       https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iSDR6QkdQZkQ4dXV5TW5vcEtpd3VleTJRV2h3OGYweWRNQ3VJczRBMGtURjAyYlpTSjF
+
+  368. [low] [04-04 15:06] [rel:0.50] [Google-broad]
+       HIG Earning Date, Earning Analysis and Earning Prediction
+       Source: intellectia.ai
+       > HIG Earning Date, Earning Analysis and Earning Prediction intellectia.ai
+       https://intellectia.ai/en/stock/HIG/earnings
+
+  369. [low] [04-04 11:44] [rel:0.55] [Google-broad]
+       Perpetual Ltd Buys Shares of 459,112 GE HealthCare Technologies Inc. $GEHC
+       Source: MarketBeat
+       > Perpetual Ltd Buys Shares of 459,112 GE HealthCare Technologies Inc. $GEHC MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-perpetual-ltd-buys-shares-of-459112-ge-healthcare-technologies-inc-gehc
+
+  370. [TOP] [04-03 16:10] [rel:0.60] [Google-broad]
+       Will Las Vegas Sands (LVS) Beat Estimates Again in Its Next Earnings Report?
+       Source: Yahoo Finance
+       > Will Las Vegas Sands (LVS) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance
+       https://finance.yahoo.com/markets/stocks/articles/las-vegas-sands-lvs-beat-161003579.html
+
+  371. [low] [04-04 01:40] [rel:0.50] [Google-broad]
+       LVS Apr 2026 69.000 put (LVS260410P00069000) stock price, news, quote and history
+       Source: Yahoo Finance Singapore
+       > LVS Apr 2026 69.000 put (LVS260410P00069000) stock price, news, quote and history Yahoo Finance Singapore
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jMFFvMU9GM19sbnpTRllVYVdNNHEtdkswdW04ZkxNLUVHbU5zb3ZQNWcxYzZtTjJzN09
+
+  372. [low] [04-03 21:40] [rel:0.50] [Google-broad]
+       LVS Mar 2027 62.500 call (LVS270319C00062500) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > LVS Mar 2027 62.500 call (LVS270319C00062500) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzbmNPWlM1MU5XUDVDcThqVVpmZmZMSThuX1FUbHVCbl9MSXhiaEhwc3VpZS1Kbm9lR1c
+
+  373. [low] [04-03 02:37] [rel:0.55] [Google-broad]
+       Live Nation Entertainment (LYV): Wells Fargo Lowers Price Target
+       Source: GuruFocus
+       > Live Nation Entertainment (LYV): Wells Fargo Lowers Price Target GuruFocus
+       https://www.gurufocus.com/news/8768419/live-nation-entertainment-lyv-wells-fargo-lowers-price-target-lyv-stock-news?mobi
+
+  374. [low] [04-04 08:16] [rel:0.50] [Google-broad]
+       Wells Fargo & Company Has Lowered Expectations for Live Nation Entertainment (NYSE:LYV) Stock Price
+       Source: Defense World
+       > Wells Fargo & Company Has Lowered Expectations for Live Nation Entertainment (NYSE:LYV) Stock Price Defense World
+       https://news.google.com/rss/articles/CBMi1gFBVV95cUxPenZHa3JYbWR4ZU9zVDNJeTRTUUI1eUZDTzh5SUQxczdtMXpRRk8zSTN1Z1d4OVRxejg
+
+  375. [low] [04-03 11:29] [rel:0.55] [Google-broad]
+       ResMed (RMD) CFO Sandercock sells 1,000 shares in open market trade
+       Source: Stock Titan
+       > ResMed (RMD) CFO Sandercock sells 1,000 shares in open market trade Stock Titan
+       https://www.stocktitan.net/sec-filings/RMD/form-4-resmed-inc-insider-trading-activity-1428fc2131ca.html
+
+  376. [low] [04-04 08:45] [rel:0.50] [Google-broad]
+       RMD Earning Date, Earning Analysis and Earning Prediction
+       Source: intellectia.ai
+       > RMD Earning Date, Earning Analysis and Earning Prediction intellectia.ai
+       https://intellectia.ai/en/stock/RMD/earnings
+
+  377. [low] [04-03 20:45] [rel:0.50] [Google-broad]
+       KMB Jun 2026 195.000 call (KMB260618C00195000) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > KMB Jun 2026 195.000 call (KMB260618C00195000) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsZlgzN0RkUzJPc1FkaG5XdUo1dHpLcUJCQkZSajBheFlxM2Rvd1pPM0YwVXBCVnpCOUZ
+
+  378. [low] [04-03 03:52] [rel:0.50] [Google-broad]
+       Copart, Inc. (CPRT) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada  (also: Yahoo! Finance Canada)
+       > Copart, Inc. (CPRT) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVQXdGaEhiUHFjV1o5SVJOaTZSVTF3YUNTWkNpVk1HUHFMZHFrdVRYbmFMTHdvR2kxN2g
+
+  379. [TOP] [04-03 13:48] [rel:0.70] [Google-broad]
+       Q4 Earnings Highs And Lows: Ingersoll Rand (NYSE:IR) Vs The Rest Of The Gas and Liquid Handling Stocks
+       Source: Yahoo Finance  (also: Yahoo Finance)
+       > Q4 Earnings Highs And Lows: Ingersoll Rand (NYSE:IR) Vs The Rest Of The Gas and Liquid Handling Stocks Yahoo Finance
+       https://finance.yahoo.com/markets/stocks/articles/q4-earnings-highs-lows-ingersoll-134850684.html
+
+  380. [OK ] [04-03 07:00] [rel:0.50] [Google-broad]
+       Horizon Kinetics buys Texas Pacific Land (TPL) share worth $522
+       Source: investing.com
+       > Horizon Kinetics buys Texas Pacific Land (TPL) share worth $522 investing.com
+       https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQTVVUTQtdUVVRkFQM01YdXB6cnczdUhOZjlSUUxvUjVxbXRHcmZxNzE3alBPRFF4ajR
+
+  381. [low] [04-04 07:21] [rel:0.50] [Google-broad]
+       Texas Pacific Land Corporation $TPL Shares Bought by 1900 Wealth Management LLC
+       Source: Defense World
+       > Texas Pacific Land Corporation $TPL Shares Bought by 1900 Wealth Management LLC Defense World
+       https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQTdZTWN6ZjZtV1VkQmNMNEROZk5uVW1EZTBsSHdadG15eURkX2htaFBOSGlLcmt0TWN
+
+  382. [TOP] [04-04 14:07] [rel:0.60] [Google-broad]
+       Is It Time To Reconsider Otis Worldwide (OTIS) After The Recent Share Price Slide?
+       Source: Yahoo Finance
+       > Is It Time To Reconsider Otis Worldwide (OTIS) After The Recent Share Price Slide? Yahoo Finance
+       https://finance.yahoo.com/markets/stocks/articles/time-reconsider-otis-worldwide-otis-140701681.html
+
+  383. [low] [04-03 05:38] [rel:0.60] [Google-broad]
+       Barclays Issues Pessimistic Forecast for Otis Worldwide (NYSE:OTIS) Stock Price
+       Source: Defense World  (also: Defense World)
+       > Barclays Issues Pessimistic Forecast for Otis Worldwide (NYSE:OTIS) Stock Price Defense World
+       https://news.google.com/rss/articles/CBMivgFBVV95cUxQY19zVldxejFNMGRJbUVRRGhfYllDZFNfMzlHOGR0X0ZWWWs3ZEhrM29Kc25VWXV0MVp
+
+  384. [low] [04-03 21:42] [rel:0.50] [Google-broad]
+       OTIS Sep 2026 100.000 call (OTIS260918C00100000) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > OTIS Sep 2026 100.000 call (OTIS260918C00100000) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JRlVRSHBRancxRWFQaDlKZTVNb2dOMFUtc2ZqNGxJRjV4azhvT1VFeVlpRXZpZF9QTU5
+
+  385. [low] [04-03 11:31] [rel:0.50] [Google-broad]
+       Workday Inc-Class A (NASDAQ:WDAY) Fits the "Affordable Growth" Investment Strategy
+       Source: ChartMill
+       > Workday Inc-Class A (NASDAQ:WDAY) Fits the "Affordable Growth" Investment Strategy ChartMill
+       https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMEljbGIwdkhRTjVmYUJaMV9QYV9KcEFwakR0RzA4a01wUmFsVURBeFFrMU9ETkxQRXQ
+
+  386. [OK ] [04-03 09:02] [rel:0.65] [Google-broad]
+       RBC Capital Sticks to Its Buy Rating for Dollar General (DG)
+       Source: The Globe and Mail
+       > RBC Capital Sticks to Its Buy Rating for Dollar General (DG) The Globe and Mail
+       https://www.theglobeandmail.com/investing/markets/stocks/DG/pressreleases/1131497/rbc-capital-sticks-to-its-buy-rating-f
+
+  387. [low] [04-03 07:17] [rel:0.65] [Google-broad]
+       Allspring Global Investments Holdings LLC Buys 209,167 Shares of Dollar General Corporation $DG
+       Source: MarketBeat
+       > Allspring Global Investments Holdings LLC Buys 209,167 Shares of Dollar General Corporation $DG MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-allspring-global-investments-holdings-llc-buys-209167-shares-of-dollar-
+
+  388. [low] [04-04 05:32] [rel:0.65] [Google-broad]
+       Wall Street Zen Downgrades Dollar General Stock Rating
+       Source: National Today
+       > Wall Street Zen Downgrades Dollar General Stock Rating National Today
+       https://nationaltoday.com/us/tn/nashville/news/2026/04/04/wall-street-zen-downgrades-dollar-general-stock-rating/
+
+  389. [low] [04-03 14:33] [rel:0.60] [Google-broad]
+       Dollar General (DG) EVP surrenders 902 shares to cover tax on vesting awards
+       Source: Stock Titan
+       > Dollar General (DG) EVP surrenders 902 shares to cover tax on vesting awards Stock Titan
+       https://news.google.com/rss/articles/CBMisAFBVV95cUxOVG9YTzRuWDRlSHdMZkQtMDBGX2ZUcWp6UWpRYUZsdE5ldmZjek1jZGY4dWZ3c1JSYUN
+
+  390. [low] [04-03 14:32] [rel:0.60] [Google-broad]
+       Dollar General (DG) EVP surrenders 8,017 shares to cover tax obligations
+       Source: Stock Titan
+       > Dollar General (DG) EVP surrenders 8,017 shares to cover tax obligations Stock Titan
+       https://news.google.com/rss/articles/CBMisAFBVV95cUxOdzJuc0kwRkdWODExMDh3S1BwRy1MaG5hbG9hU09mQVVQNG93LTJBeUJFS2tDblRVY1N
+
+  391. [low] [04-03 14:29] [rel:0.60] [Google-broad]
+       Dollar General (NYSE: DG) EVP uses 7,938 shares to cover tax on vested awards
+       Source: Stock Titan
+       > Dollar General (NYSE: DG) EVP uses 7,938 shares to cover tax on vested awards Stock Titan
+       https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVJHSXFWdXVOVTI1aEhqaS16YUpqaktYbHpsS0NoRmlVU2NoSzQtcWptb2VzRUhzOEl
+
+  392. [low] [04-04 15:06] [rel:0.50] [Google-broad]
+       PRU Earning Date, Earning Analysis and Earning Prediction
+       Source: intellectia.ai
+       > PRU Earning Date, Earning Analysis and Earning Prediction intellectia.ai
+       https://intellectia.ai/en/stock/PRU/earnings
+
+  393. [low] [04-03 18:48] [rel:0.50] [Google-broad]
+       ICICI Pru Blended A Div (103028.BO) Latest Stock News & Headlines
+       Source: Yahoo! Finance Canada
+       > ICICI Pru Blended A Div (103028.BO) Latest Stock News & Headlines Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4S1dtdVU4czhLdGp5cUkxdVBsbVV2ajhvcEtLU2Y3UklYOW5odWZRZzEwYWttdk1SVm9
+
+  394. [OK ] [04-04 04:58] [rel:0.50] [Google-broad]
+       Morgan Stanley Cuts Huntington Bancshares (HBAN) Target as Bank Stocks Face Macro Pressure
+       Source: Insider Monkey
+       > Morgan Stanley Cuts Huntington Bancshares (HBAN) Target as Bank Stocks Face Macro Pressure Insider Monkey
+       https://news.google.com/rss/articles/CBMizAFBVV95cUxPcFlmVFA1dXQ5MktZMVU3ZVpFajdMWFRkMFRtQkg0SFR5d0tKQlotY0tIMFFKQnZFbzV
+
+  395. [low] [04-03 17:22] [rel:0.60] [Google-broad]
+       HBAN (HBAN) EVP and Controller receives 1.6K-share stock grant
+       Source: Stock Titan
+       > HBAN (HBAN) EVP and Controller receives 1.6K-share stock grant Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ3k1eE4xbVUxdnBQRjZ5cElOOXY1dlUtdzRlSG1mYld2b2lPNU9LSUJBMGsxV3g1Zl9
+
+  396. [low] [04-03 18:45] [rel:0.55] [Google-broad]
+       Huntington Bancshares (HBAN) CEO receives new stock awards
+       Source: Stock Titan
+       > Huntington Bancshares (HBAN) CEO receives new stock awards Stock Titan
+       https://www.stocktitan.net/sec-filings/HBAN/form-4-huntington-bancshares-inc-md-insider-trading-activity-3ebe4f84859a.ht
+
+  397. [low] [04-03 18:45] [rel:0.50] [Google-broad]
+       Huntington Bancshares (HBAN) SVP awarded 6,229 stock units
+       Source: Stock Titan
+       > Huntington Bancshares (HBAN) SVP awarded 6,229 stock units Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxQdG53OU43U2RsNFBJLUZoRGJGbGJVb0hmbFJuMkdBaE5wMEgwSndwQ2NrQlF0alRMX2t
+
+  398. [low] [04-03 18:45] [rel:0.50] [Google-broad]
+       Huntington Bancshares (HBAN) DEI chief receives new stock awards
+       Source: Stock Titan
+       > Huntington Bancshares (HBAN) DEI chief receives new stock awards Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEM1dENtNXlva0FEZl9RdmRaOGl5ajFHQkk5TDJPalh5OEhpcUdXWENtME8wT0ZwU3h
+
+  399. [low] [04-03 17:22] [rel:0.50] [Google-broad]
+       Huntington Bancshares (HBAN) director Jeffrey Tate receives new stock awards
+       Source: Stock Titan  (also: Stock Titan)
+       > Huntington Bancshares (HBAN) director Jeffrey Tate receives new stock awards Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxOSjlXSGR1WUZaTkFvVFZCNFlUYVp5ZGJ0Zk9UUHhuNzROeG13WnpxM2p4RGZ3eV9lcks
+
+  400. [low] [04-03 17:22] [rel:0.50] [Google-broad]
+       Huntington Bancshares SVP granted 2,929.854 shares | HBAN Insider Trading
+       Source: Stock Titan
+       > Huntington Bancshares SVP granted 2,929.854 shares | HBAN Insider Trading Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxNZURRcjVVNFIwa3ZKRUJiQWQ3RFp3SXV5OVJYZkdKMW5ab2kxblhvTmR5bFNKUVlCYWp
+
+  401. [low] [04-03 17:22] [rel:0.50] [Google-broad]
+       Director at Huntington Bancshares (HBAN) granted new stock awards
+       Source: Stock Titan
+       > Director at Huntington Bancshares (HBAN) granted new stock awards Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ2F1RmtQckxnQks1ekQ0YWZ1cWMyMVhpQlNYajRmUHdrbnlyMmd0RXhhcldJdHVTaDV
+
+  402. [low] [04-03 17:22] [rel:0.50] [Google-broad]
+       Stock awards increase Huntington Bancshares (HBAN) director Teresa Shea’s holdings
+       Source: Stock Titan
+       > Stock awards increase Huntington Bancshares (HBAN) director Teresa Shea’s holdings Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxQUmpBejJ2VVd5UThibGplUWEycHh4ZnlKVFNHOVpSOUJEeGpTYXJvRzctek9oak5ibUd
+
+  403. [low] [04-03 17:22] [rel:0.50] [Google-broad]
+       Huntington (NASDAQ: HBAN) director adds stock via compensation grants
+       Source: Stock Titan
+       > Huntington (NASDAQ: HBAN) director adds stock via compensation grants Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxQMUk2S3FDZy1wcDV4YlliX21Ec1diY1JLNEhsTlBNUWNzN05ZWXhTV3BKU1h0WERWbHl
+
+  404. [low] [04-03 17:22] [rel:0.50] [Google-broad]
+       Huntington Bancshares (HBAN) operations chief gets 536-share stock grant
+       Source: Stock Titan
+       > Huntington Bancshares (HBAN) operations chief gets 536-share stock grant Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxQRV9yN1h2R3ZVcXE2cjFiT01aaExmTllqY2pqWDFtV3ZldWpoZUZ2T2pyOEhzWEM2Qzk
+
+  405. [low] [04-03 17:22] [rel:0.50] [Google-broad]
+       Huntington Bancshares (HBAN) CIO reports new stock awards and plan shares
+       Source: Stock Titan
+       > Huntington Bancshares (HBAN) CIO reports new stock awards and plan shares Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxQb2w2a0U5b0FveloycnFZUmdjWTJUcWpXaXlLMUlZOU9tQm5hM0laT29DRzl3NjRnZ2E
+
+  406. [low] [04-03 17:22] [rel:0.50] [Google-broad]
+       Huntington Bancshares (HBAN) payments chief receives stock awards and boosts holdings
+       Source: Stock Titan
+       > Huntington Bancshares (HBAN) payments chief receives stock awards and boosts holdings Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxQTHZ6N1dSODVHLW55M09GeEcyb1d1NlpuN2hqb3hzV2lLV29kdmpGVlNVV1c2a2FMNnB
+
+  407. [low] [04-03 17:22] [rel:0.50] [Google-broad]
+       Huntington Bancshares (HBAN) EVP granted 723 shares in stock award
+       Source: Stock Titan
+       > Huntington Bancshares (HBAN) EVP granted 723 shares in stock award Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxQaTc0SUotdEp6bjFSazFnTmJRS2xzbFYwM0lMclZfdVFmNWRZSlFZT1k3SURqdHI3Qjl
+
+  408. [low] [04-03 17:22] [rel:0.50] [Google-broad]
+       Huntington Bancshares (HBAN) risk chief gets 800.397-share stock grant
+       Source: Stock Titan
+       > Huntington Bancshares (HBAN) risk chief gets 800.397-share stock grant Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxNczJWLWtKMFprWXF0bmstR0VOUU9aTTV0THg1bUhoQTYtVjBnQWtZZTd4TURNaHo0V2Z
+
+  409. [low] [04-03 17:22] [rel:0.50] [Google-broad]
+       Stock awards lift Huntington Bancshares (HBAN) director holdings
+       Source: Stock Titan
+       > Stock awards lift Huntington Bancshares (HBAN) director holdings Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxPOUNQUVFDbF9tTW5tTUxSRzJfbUJPeUxkOXZuNy0wdWoxcnRQTGNaTWc0OFZ0dnhRWEd
+
+  410. [low] [04-03 17:22] [rel:0.50] [Google-broad]
+       Huntington Bancshares (HBAN) EVP and CCO receives 428-share stock award
+       Source: Stock Titan
+       > Huntington Bancshares (HBAN) EVP and CCO receives 428-share stock award Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxQbWNHQVM4RWJneGxYaXNqT0dkMXdtWXRnMjVoWTN5ZElycmhPY09QdkNoN1hNRGV3M3p
+
+  411. [low] [04-03 17:22] [rel:0.50] [Google-broad]
+       Huntington Bancshares (HBAN) director awarded additional common stock
+       Source: Stock Titan
+       > Huntington Bancshares (HBAN) director awarded additional common stock Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxPUlNid3ZRbEU2QllabEFBSU43ZDZFdHdlNEhVZkU5M0dEWjhnR3c3QWpSdDUzWFF5a3p
+
+  412. [low] [04-03 17:22] [rel:0.50] [Google-broad]
+       Executive stock grant at Huntington Bancshares (HBAN) adds 1,814 shares
+       Source: Stock Titan
+       > Executive stock grant at Huntington Bancshares (HBAN) adds 1,814 shares Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxPeDJsYXQ0NEMtWE9UX2I1UHZnODJ4M3F3MXVWbHJkTHo1dnRBWFh1LWsxOFExYnA5SEZ
+
+  413. [low] [04-03 17:22] [rel:0.50] [Google-broad]
+       Huntington Bancshares (NASDAQ: HBAN) director receives stock awards
+       Source: Stock Titan
+       > Huntington Bancshares (NASDAQ: HBAN) director receives stock awards Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxQMzZzdjVXX1lYb3F0T25FQzFPd3FqaDR4TC10by1qbi1CMXREX2lfUnRvanVPOGRLWTZ
+
+  414. [low] [04-03 17:22] [rel:0.50] [Google-broad]
+       Huntington Bancshares (HBAN) general counsel receives 2.1K share grant
+       Source: Stock Titan
+       > Huntington Bancshares (HBAN) general counsel receives 2.1K share grant Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxPWkJDYXZCT085RmRQbDJzeTV4cFJIeEl3d3JJVUNkVEhDbS1xZjZycmZDajRXTktFTV9
+
+  415. [low] [04-03 17:22] [rel:0.50] [Google-broad]
+       Director Ann B. Crane granted Huntington Bancshares (HBAN) stock units
+       Source: Stock Titan
+       > Director Ann B. Crane granted Huntington Bancshares (HBAN) stock units Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxNNER3cHY1UVEwZGRlanNTMGRuM3ZiS0RjM24wRjlWNWVVRWNsbVVjVWNUd3k4Vzl6Y0N
+
+  416. [low] [04-04 17:34] [rel:0.55] [Google-broad]
+       PAYX Stock News Today | Earnings, Events & Price Alerts
+       Source: intellectia.ai  (also: intellectia.ai)
+       > PAYX Stock News Today | Earnings, Events & Price Alerts intellectia.ai
+       https://intellectia.ai/en/stock/PAYX/news
+
+  417. [low] [04-03 20:00] [rel:0.50] [Google-broad]
+       PAYCHEX (PAYX) senior VP has 2,249 shares withheld for taxes, holds options
+       Source: Stock Titan
+       > PAYCHEX (PAYX) senior VP has 2,249 shares withheld for taxes, holds options Stock Titan
+       https://news.google.com/rss/articles/CBMiqAFBVV95cUxPem93OTdwTzZ3cHY2Z0hTUXM1SWdIeVkwMWcxSWN5MU9uTGU2VU9NZV9pY3kxalY2Sm9
+
+  418. [low] [04-03 20:00] [rel:0.50] [Google-broad]
+       Paychex (PAYX) CPO covers RSU taxes with 1,374 withheld shares
+       Source: Stock Titan
+       > Paychex (PAYX) CPO covers RSU taxes with 1,374 withheld shares Stock Titan
+       https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ29GN1V4Tkt0dUhyZmhsbm9TNXliV0lyekJETDdad0tCajNGLW55Vm5vWmN4MUU5dWd
+
+  419. [low] [04-03 10:22] [rel:0.55] [Google-broad]
+       Q4 Rundown: Fair Isaac Corporation (NYSE:FICO) Vs Other Data & Business Process Services Stocks
+       Source: StockStory
+       > Q4 Rundown: Fair Isaac Corporation (NYSE:FICO) Vs Other Data & Business Process Services Stocks StockStory
+       https://stockstory.org/us/stocks/nyse/fico/news/earnings/q4-rundown-fair-isaac-corporation-nysefico-vs-other-data-and-bu
+
+  420. [low] [04-04 14:16] [rel:0.50] [Google-broad]
+       Fair Isaac Corporation (FICO) stock price, news, quote and history
+       Source: Yahoo Finance UK  (also: Yahoo Finance UK)
+       > Fair Isaac Corporation (FICO) stock price, news, quote and history Yahoo Finance UK
+       https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DV3N2YWFaSlBVN0pYdGhMVC1TZDluWF8zelhsTElMeGtaVi1YcXAzcnUzay05bGt4UzQ
+
+  421. [low] [04-03 19:57] [rel:0.50] [Google-broad]
+       FICO Dec 2026 2300.000 call (FICO261218C02300000) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > FICO Dec 2026 2300.000 call (FICO261218C02300000) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oeEVoTXRrS3NrRzNwVVJueUtOdFZwTHp1eEZIMWZxNkF3R3ZiS2t5ck1LX0FxZi1oSUN
+
+  422. [low] [04-03 12:01] [rel:0.50] [Google-broad]
+       Admiral Group plc (ADM.L) stock price, news, quote and history
+       Source: Yahoo Finance UK
+       > Admiral Group plc (ADM.L) stock price, news, quote and history Yahoo Finance UK
+       https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HTUlra05sWXJtUlFRT0FMRXk3VW9XLWw2UzRGWmMtY2tnMGpJeTlrQVJIMHBiMFNlU2h
+
+  423. [low] [04-04 13:43] [rel:0.50] [Google-broad]
+       MTB Technical Analysis & Stock Price Forecast
+       Source: intellectia.ai
+       > MTB Technical Analysis & Stock Price Forecast intellectia.ai
+       https://intellectia.ai/en/stock/MTB/technical
+
+  424. [low] [04-03 10:47] [rel:0.50] [Google-broad]
+       MTB Earning Date, Earning Analysis and Earning Prediction
+       Source: intellectia.ai
+       > MTB Earning Date, Earning Analysis and Earning Prediction intellectia.ai
+       https://intellectia.ai/en/stock/MTB/earnings
+
+  425. [TOP] [04-04 11:00] [rel:0.50] [Google-broad]
+       From the Strip to the suburbs: VICI expands its Las Vegas footprint (MGM:NYSE)
+       Source: Seeking Alpha
+       > From the Strip to the suburbs: VICI expands its Las Vegas footprint (MGM:NYSE) Seeking Alpha
+       https://news.google.com/rss/articles/CBMipwFBVV95cUxNcnYyR1NpUElQamhNbFlET0k3OHY1WFQ0ZXFiQk1GTXFvWkNTcFNKcGlmbnRRd3JQM3F
+
+  426. [low] [04-04 01:09] [rel:0.65] [Google-broad]
+       Is VICI Properties (VICI) one of the most undervalued stocks to buy according to analysts?
+       Source: MSN
+       > Is VICI Properties (VICI) one of the most undervalued stocks to buy according to analysts? MSN
+       https://www.msn.com/en-us/money/topstocks/is-vici-properties-vici-one-of-the-most-undervalued-stocks-to-buy-according-to
+
+  427. [low] [04-04 15:25] [rel:0.55] [Google-broad]
+       IRM Financials: Revenue Breakdown, Margins & Competitor Comparison
+       Source: intellectia.ai
+       > IRM Financials: Revenue Breakdown, Margins & Competitor Comparison intellectia.ai
+       https://intellectia.ai/en/stock/IRM/financials
+
+  428. [low] [04-04 11:06] [rel:0.50] [Google-broad]
+       IRM Apr 2026 125.000 call (IRM260410C00125000) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > IRM Apr 2026 125.000 call (IRM260410C00125000) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTFBubFI4bzFGdHAwalViNmRkNUxMOHJDcUZmd0pKWjR4MzJScnNOX2dXVWxCMVBmSjR1d3Q
+
+  429. [low] [04-04 02:45] [rel:0.50] [Google-broad]
+       IRM Apr 2026 95.000 put (IRM260410P00095000) stock price, news, quote and history
+       Source: Yahoo Finance Singapore
+       > IRM Apr 2026 95.000 put (IRM260410P00095000) stock price, news, quote and history Yahoo Finance Singapore
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTE03eE9JRGpsSVczeGN6Ry1XVE1sTVctd2ZpczdBeDNVUHZTaGtBWGl1X2RDNVhYMFBRTUN
+
+  430. [low] [04-03 18:43] [rel:0.50] [Google-broad]
+       IRM Energy Ltd Stock Falls to 52-Week Low of Rs.198.15
+       Source: Markets Mojo
+       > IRM Energy Ltd Stock Falls to 52-Week Low of Rs.198.15 Markets Mojo
+       https://news.google.com/rss/articles/CBMirwFBVV95cUxPY1FVMWpMcTQwbEY1X1dNcjQtRF93b19DRHdJOUQ5V04zWEgyRWJ4TUg0bWNmcFNoZUR
+
+  431. [low] [04-03 18:23] [rel:0.55] [Google-broad]
+       Tax withholding trims Extra Space (NYSE: EXR) CFO stake by 375 shares
+       Source: Stock Titan
+       > Tax withholding trims Extra Space (NYSE: EXR) CFO stake by 375 shares Stock Titan
+       https://www.stocktitan.net/sec-filings/EXR/form-4-extra-space-storage-inc-insider-trading-activity-1967b8da9173.html
+
+  432. [low] [04-04 14:43] [rel:0.50] [Google-broad]
+       EXR Technical Analysis & Stock Price Forecast
+       Source: intellectia.ai
+       > EXR Technical Analysis & Stock Price Forecast intellectia.ai
+       https://intellectia.ai/en/stock/EXR/technical
+
+  433. [low] [04-03 18:27] [rel:0.50] [Google-broad]
+       Tax withholding trims Extra Space (EXR) CAO stake to 14,646 shares
+       Source: Stock Titan
+       > Tax withholding trims Extra Space (EXR) CAO stake to 14,646 shares Stock Titan
+       https://news.google.com/rss/articles/CBMitwFBVV95cUxNVjZEcC1JWGtZclcwUEl2aVhBTHoxcFBudk00dERrUzBBTTI5b09ic05YX1NBY1N6T0d
+
+  434. [TOP] [04-04 21:12] [rel:0.50] [Google-broad]
+       Is Xylem (XYL) Offering Value After Recent Water Technology Spotlight And Mixed Returns
+       Source: Yahoo Finance
+       > Is Xylem (XYL) Offering Value After Recent Water Technology Spotlight And Mixed Returns Yahoo Finance
+       https://news.google.com/rss/articles/CBMinAFBVV95cUxPTUdIc2hXX3RCdXc5U3oxQTc0Yl9LUWJ0YkJDUHhVOVc5cGdIcmZQVVBPTkFYdVo2LXZ
+
+  435. [low] [04-04 15:26] [rel:0.50] [Google-broad]
+       TDY Earning Date, Earning Analysis and Earning Prediction
+       Source: intellectia.ai
+       > TDY Earning Date, Earning Analysis and Earning Prediction intellectia.ai
+       https://intellectia.ai/en/stock/TDY/earnings
+
+  436. [low] [04-03 22:52] [rel:0.50] [Google-broad]
+       Tapestry, Inc. (TPR) latest stock news and headlines
+       Source: Yahoo Finance Singapore
+       > Tapestry, Inc. (TPR) latest stock news and headlines Yahoo Finance Singapore
+       https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRa3JINVhtRzIwdXp1UEtyYWdJX3pnUURSVTdIMXdIRDQ3dDFHU0ZaMDFkbk9KY1JDMmt
+
+  437. [low] [04-03 22:02] [rel:0.50] [Google-broad]
+       Tapestry, Inc. (TPR) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada  (also: Yahoo Finance UK, Yahoo Finance Singapore)
+       > Tapestry, Inc. (TPR) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zRE1uR2hiOXFOeF9pXzRUZ2ZJZ3dXVnJjOWJVcUIycFc2dEdoc0taOUkyampHZUJJbE1
+
+  438. [low] [04-03 05:24] [rel:0.50] [Google-broad]
+       Waters Corporation (WAT) stock price, news, quote and history
+       Source: Yahoo Finance UK  (also: Yahoo! Finance Canada, Yahoo Finance UK)
+       > Waters Corporation (WAT) stock price, news, quote and history Yahoo Finance UK
+       https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LSTR5c1ZpUWtRaTdLczlHSW5sNklkNGtPS2RmU2d0a0JuN0FRcDlzUmFwVXI5NnhyRHl
+
+  439. [low] [04-03 20:14] [rel:0.50] [Google-broad]
+       Cognizant (CTSH) SVP Kerdman sells 194 shares after RSU vesting and tax withholding
+       Source: Stock Titan
+       > Cognizant (CTSH) SVP Kerdman sells 194 shares after RSU vesting and tax withholding Stock Titan
+       https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNEo1dklObkRaNmJKSVU3NDJfdUtKSGt4WjBWdjVqd2ozZW95YmZuZWI5eWJzREY5LS1
+
+  440. [low] [04-03 18:11] [rel:0.60] [Google-broad]
+       DTE Energy Company (DTE) stock price, news, quote and history
+       Source: Yahoo Finance Singapore
+       > DTE Energy Company (DTE) stock price, news, quote and history Yahoo Finance Singapore
+       https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EM1UxTkNlY1lRaURWYnlxaWlMLWo4ZUxqU3BOdTlkZDBtbXpxT2gzM1JoSTU5eDVCWGE
+
+  441. [low] [04-04 17:15] [rel:0.50] [Google-broad]
+       DTE Earning Date, Earning Analysis and Earning Prediction
+       Source: intellectia.ai
+       > DTE Earning Date, Earning Analysis and Earning Prediction intellectia.ai
+       https://intellectia.ai/en/stock/DTE/earnings
+
+  442. [low] [04-03 22:43] [rel:0.50] [Google-broad]
+       Video shows Ulta Beauty store theft in Albuquerque
+       Source: KOAT
+       > Video shows Ulta Beauty store theft in Albuquerque KOAT
+       https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGhYYk84V2NmSDU1MGtaQmpUSHo4eXFMb001TTRYMko4ZUVsYldTSG1DODZURUVCQ3J
+
+  443. [low] [04-03 01:06] [rel:0.65] [Google-broad]
+       Raymond James Financial, Inc. (RJF) Expected to Beat Earnings Estimates: What to Know Ahead of Q1 Release
+       Source: Eastern Progress
+       > Raymond James Financial, Inc. (RJF) Expected to Beat Earnings Estimates: What to Know Ahead of Q1 Release Eastern Progress
+       https://www.easternprogress.com/raymond-james-financial-inc-rjf-expected-to-beat-earnings-estimates-what-to-know-ahead-o
+
+  444. [low] [04-04 15:10] [rel:0.50] [Google-broad]
+       RJF Technical Analysis & Stock Price Forecast
+       Source: intellectia.ai
+       > RJF Technical Analysis & Stock Price Forecast intellectia.ai
+       https://intellectia.ai/en/stock/RJF/technical
+
+  445. [low] [04-04 13:46] [rel:0.50] [Google-broad]
+       HAL Earning Date, Earning Analysis and Earning Prediction
+       Source: intellectia.ai
+       > HAL Earning Date, Earning Analysis and Earning Prediction intellectia.ai
+       https://intellectia.ai/en/stock/HAL/earnings
+
+  446. [low] [04-04 06:00] [rel:0.50] [Google-broad]
+       HAL, BDL, GRSE, Mazagon Dock Shipbuilders to BEL: Which defence stock to buy amid US-Iran war?
+       Source: Mint
+       > HAL, BDL, GRSE, Mazagon Dock Shipbuilders to BEL: Which defence stock to buy amid US-Iran war? Mint
+       https://news.google.com/rss/articles/CBMi8AFBVV95cUxObUZWdDFmT2pJUExyeHRHOXB6UFhHVzlNaW1wbV9XZ3o4aUh5TXREZ0dINnJUUEJGODU
+
+  447. [low] [04-03 21:43] [rel:0.50] [Google-broad]
+       HAL Trust (HALA.XD) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > HAL Trust (HALA.XD) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiVkFVX3lxTE41Y3BsM1FIZ3paakMwRndveWFGTzFpb1VVaU5RQ2VhRS03Mm9wVDBhUzlmX3NPZ2pfLXF
+
+  448. [low] [04-03 05:55] [rel:0.50] [Google-broad]
+       HAL penalises GE Aerospace as engine delays stall Tejas Mk-1A deliveries
+       Source: Business Standard
+       > HAL penalises GE Aerospace as engine delays stall Tejas Mk-1A deliveries Business Standard
+       https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRHlwb2hzTmUzd1ZONnlfbFB1T1B5dnVzUDdOSmRfS3Y2WTdMNVVCYTc5eUhwSDQzQ1p
+
+  449. [low] [04-04 00:16] [rel:0.50] [Google-broad]
+       Charter Communications (NASDAQ: CHTR) sees $965M exchangeable debt repaid in cash
+       Source: Stock Titan
+       > Charter Communications (NASDAQ: CHTR) sees $965M exchangeable debt repaid in cash Stock Titan
+       https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaDIzVkpiWFVfYV9YdTJncEdId2VacmNvblNDQVBuTWtnSUpuVEtRaVFiQ2JnM05UQ1Z
+
+  450. [low] [04-03 17:39] [rel:0.50] [Google-broad]
+       Charter Communications, Inc. (CHTR) latest stock news and headlines
+       Source: Yahoo Finance Singapore
+       > Charter Communications, Inc. (CHTR) latest stock news and headlines Yahoo Finance Singapore
+       https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tMEVudm95bTdHZkcyV2FreHRMYTd3RUR0YldDejN5emViQVJvOUtkSGk5MjlYWTdQV2l
+
+  451. [low] [04-04 08:10] [rel:0.70] [Google-broad]
+       FirstEnergy Corporation (NYSE:FE) Given Consensus Rating of "Moderate Buy" by Brokerages
+       Source: MarketBeat  (also: MarketBeat)
+       > FirstEnergy Corporation (NYSE:FE) Given Consensus Rating of "Moderate Buy" by Brokerages MarketBeat
+       https://www.marketbeat.com/instant-alerts/firstenergy-corporation-nysefe-given-consensus-rating-of-moderate-buy-by-broke
+
+  452. [low] [04-04 07:25] [rel:0.65] [Google-broad]
+       FirstEnergy Corporation $FE Position Boosted by Aberdeen Group plc
+       Source: MarketBeat
+       > FirstEnergy Corporation $FE Position Boosted by Aberdeen Group plc MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-firstenergy-corporation-fe-position-boosted-by-aberdeen-group-plc-2026-
+
+  453. [low] [04-03 20:49] [rel:0.65] [Google-broad]
+       Director at FirstEnergy (NYSE: FE) receives 837-share quarterly stock award
+       Source: Stock Titan
+       > Director at FirstEnergy (NYSE: FE) receives 837-share quarterly stock award Stock Titan
+       https://www.stocktitan.net/sec-filings/FE/form-4-firstenergy-corp-insider-trading-activity-8593b4552fd1.html
+
+  454. [low] [04-03 20:40] [rel:0.65] [Google-broad]
+       FirstEnergy (FE) director granted 837 phantom stock units as quarterly board compensation
+       Source: Stock Titan
+       > FirstEnergy (FE) director granted 837 phantom stock units as quarterly board compensation Stock Titan
+       https://www.stocktitan.net/sec-filings/FE/form-4-firstenergy-corp-insider-trading-activity-4247ec6a530c.html
+
+  455. [low] [04-04 01:33] [rel:0.60] [Google-broad]
+       FirstEnergy Corp. (FE) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada  (also: Yahoo Finance UK, Yahoo! Finance Canada)
+       > FirstEnergy Corp. (FE) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzWWVCOEd5Z09NUHl0TXNialNNYTc1d2QxWkEycXdZeHhLS1ZWeEJPdzlWNWlxRGhUei0
+
+  456. [low] [04-03 20:54] [rel:0.60] [Google-broad]
+       FirstEnergy (FE) director receives 837 phantom stock units as deferred board pay
+       Source: Stock Titan
+       > FirstEnergy (FE) director receives 837 phantom stock units as deferred board pay Stock Titan
+       https://news.google.com/rss/articles/CBMirAFBVV95cUxNc1piZzdBNEFHMndCTnYzTXFjV1hudjRiZlAtZl9BWFFpUTR4OUpnY2o2d3pvN3lzdmZ
+
+  457. [low] [04-03 20:51] [rel:0.60] [Google-broad]
+       FirstEnergy (NYSE: FE) director gets 837 phantom stock units as pay
+       Source: Stock Titan
+       > FirstEnergy (NYSE: FE) director gets 837 phantom stock units as pay Stock Titan
+       https://news.google.com/rss/articles/CBMirAFBVV95cUxPWWZtNDhTelVlZ1gtVlljSWV0MXlBWkRpaXQwd2VJWGpqVl9ucmVQS0tzVUM4dDlCQVl
+
+  458. [low] [04-03 20:47] [rel:0.60] [Google-broad]
+       Director James F. O'Neil receives 837 phantom stock units at FirstEnergy (NYSE: FE)
+       Source: Stock Titan
+       > Director James F. O'Neil receives 837 phantom stock units at FirstEnergy (NYSE: FE) Stock Titan
+       https://news.google.com/rss/articles/CBMirAFBVV95cUxQRFhmcmktM0hPNmxrUnZPRFZLVzlLaVdfNzlsLUZOSnphaEF0V01VZUtsdVVpWjFTRmd
+
+  459. [low] [04-03 20:44] [rel:0.60] [Google-broad]
+       FirstEnergy (NYSE: FE) director receives 837 phantom stock units as deferred pay
+       Source: Stock Titan
+       > FirstEnergy (NYSE: FE) director receives 837 phantom stock units as deferred pay Stock Titan
+       https://news.google.com/rss/articles/CBMirAFBVV95cUxPb2pWYVllOUE2eG9FSEVpd3BvN19kVFRjLVhVREhJUGF0My0tdGN0dHZYSGxUM2gxelJ
+
+  460. [low] [04-03 20:42] [rel:0.60] [Google-broad]
+       FirstEnergy (FE) director Hicks granted 837 phantom stock units as deferred pay
+       Source: Stock Titan
+       > FirstEnergy (FE) director Hicks granted 837 phantom stock units as deferred pay Stock Titan
+       https://news.google.com/rss/articles/CBMirAFBVV95cUxNeF84QTF6Vy1pcVYyNWlKbzVTeDdGSEY4dVpyOFZqWHpTa2FORUQ5OUtLN0kzMUU5cW5
+
+  461. [low] [04-03 20:36] [rel:0.60] [Google-broad]
+       FirstEnergy (NYSE: FE) director awarded 837 phantom stock units as deferred pay
+       Source: Stock Titan
+       > FirstEnergy (NYSE: FE) director awarded 837 phantom stock units as deferred pay Stock Titan
+       https://news.google.com/rss/articles/CBMirAFBVV95cUxOTHRrdWdWeXV3bDN3cTNaYVR4UTlQeHN4OHFmZ2IweE9OR1ljUXFwbk9mMktEc2k3aS1
+
+  462. [low] [04-03 12:00] [rel:0.60] [Google-broad]
+       PPL Corp (PPL) Stock Price, Trades & News
+       Source: GuruFocus
+       > PPL Corp (PPL) Stock Price, Trades & News GuruFocus
+       https://news.google.com/rss/articles/CBMibkFVX3lxTFBqUGNEYjZXcmRoSkpILTF4Q3FUQk56T0tjUUFWcWZNUy1GZjd5dlhXcmtJMzdpRVRtVTV
+
+  463. [low] [04-03 04:50] [rel:0.60] [Google-broad]
+       PPL Corporation (PPL) stock price, news, quote and history
+       Source: Yahoo Finance UK  (also: Yahoo! Finance Canada)
+       > PPL Corporation (PPL) stock price, news, quote and history Yahoo Finance UK
+       https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ydGVCdThhWkEzaDVjanpyQzctcWNMZHBDOGt5WktxcUxHWDlaYUpwdkdqY2NkZlBjMVJ
+
+  464. [low] [04-03 04:54] [rel:0.55] [Google-broad]
+       9-Day Rally Sends PPL Stock Up 5.7%
+       Source: Trefis
+       > 9-Day Rally Sends PPL Stock Up 5.7% Trefis
+       https://www.trefis.com/data/companies/PPL/no-login-required/5a1oe1mo/9-Day-Rally-Sends-PPL-Stock-Up-5-7-
+
+  465. [low] [04-04 02:47] [rel:0.50] [Google-broad]
+       PPL Jul 2026 35.000 call (PPL260717C00035000) stock price, news, quote and history
+       Source: Yahoo Finance Singapore
+       > PPL Jul 2026 35.000 call (PPL260717C00035000) stock price, news, quote and history Yahoo Finance Singapore
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTE90TG1OdUg5MVRCMUxUNElnY2pQZjZuUDVQWFlQbGRNSzk5cTctLVhfWjlFWW80aHhqcjB
+
+  466. [low] [04-03 21:48] [rel:0.50] [Google-broad]
+       PEMBINA PIPELINE CORPORATION (PPL)
+       Source: MSN
+       > PEMBINA PIPELINE CORPORATION (PPL) MSN
+       https://news.google.com/rss/articles/CBMigAFBVV95cUxONndiTU9JQmVTeXhIVVVCLXRjc1lKbWt1R3RyNkEzbXd5aXJRZTJDSkRLTWs4TW5IalR
+
+  467. [low] [04-03 04:48] [rel:0.50] [Google-broad]
+       PPL Stock 9-Day Winning Spree: Stock Climbs 5.7%
+       Source: Trefis
+       > PPL Stock 9-Day Winning Spree: Stock Climbs 5.7% Trefis
+       https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVWNWaDFnc1A1azZOV1o4dGg3dWVsTzB2R3dzV2R0UEFYOG1YNGFmdWZ3V1pOSTB1VWV
+
+  468. [low] [04-04 08:16] [rel:0.50] [Google-broad]
+       The Kraft Heinz Company (KHC) stock price, news, quote and history
+       Source: Yahoo Finance Singapore
+       > The Kraft Heinz Company (KHC) stock price, news, quote and history Yahoo Finance Singapore
+       https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkcmtQMXM0MHdUSlk3UHEwejA5OWt6WDM4WWktVWpkYWdpVkVCSktjRWNUY0FsTXluYkl
+
+  469. [low] [04-03 23:11] [rel:0.65] [Google-broad]
+       WTW (NASDAQ: WTW) CFO uses 4,584 shares to cover RSU taxes
+       Source: Stock Titan
+       > WTW (NASDAQ: WTW) CFO uses 4,584 shares to cover RSU taxes Stock Titan
+       https://www.stocktitan.net/sec-filings/WTW/form-4-willis-towers-watson-plc-insider-trading-activity-832ad571f74e.html
+
+  470. [low] [04-03 22:25] [rel:0.60] [Google-broad]
+       WTW (WTW) executive has shares withheld to cover RSU tax bill
+       Source: Stock Titan
+       > WTW (WTW) executive has shares withheld to cover RSU tax bill Stock Titan
+       https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcUJ6SnJYUGNGMlV5bjVVQ0pBTXdTYy1OWUF2RTZlVmtma25VWUhoNXQxeEIxV0NYOWR
+
+  471. [low] [04-03 22:22] [rel:0.55] [Google-broad]
+       Willis Towers Watson (WTW) CEO covers RSU taxes with 31,149 shares
+       Source: Stock Titan
+       > Willis Towers Watson (WTW) CEO covers RSU taxes with 31,149 shares Stock Titan
+       https://www.stocktitan.net/sec-filings/WTW/form-4-willis-towers-watson-plc-insider-trading-activity-8e0ba8f8902b.html
+
+  472. [low] [04-03 22:29] [rel:0.50] [Google-broad]
+       Willis Towers Watson (WTW) exec details tax-related share withholding
+       Source: Stock Titan
+       > Willis Towers Watson (WTW) exec details tax-related share withholding Stock Titan
+       https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMldlZjVfMWVTbDJNZzR3REs4V0pRSHFOT1M1SkJLTGRPcHFSU3Z3UTR0TG04djVwckN
+
+  473. [low] [04-03 22:28] [rel:0.50] [Google-broad]
+       Willis Towers Watson (WTW) COO reports RSU tax-withholding of 2,073 shares
+       Source: Stock Titan
+       > Willis Towers Watson (WTW) COO reports RSU tax-withholding of 2,073 shares Stock Titan
+       https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeGloRF83Wmw0bEJzMTJJZUkyWkoySEVQNnluRUZOckJGVnp5aFU1aHlVYUNoOVNJR2l
+
+  474. [low] [04-03 22:27] [rel:0.50] [Google-broad]
+       Willis Towers Watson (WTW) GC has 3,458 shares withheld for RSU taxes
+       Source: Stock Titan
+       > Willis Towers Watson (WTW) GC has 3,458 shares withheld for RSU taxes Stock Titan
+       https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaFFvY1p6V0NmMUZZbDVxa0gtVWdZZmdjMTBPSmxZV29uU2V0c3BfUzhYSF9nTjhfWGw
+
+  475. [low] [04-03 22:26] [rel:0.50] [Google-broad]
+       Willis Towers Watson (WTW) officer reports 248-share tax withholding, holds 1,603 shares
+       Source: Stock Titan
+       > Willis Towers Watson (WTW) officer reports 248-share tax withholding, holds 1,603 shares Stock Titan
+       https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWkNZQ3Eyalo5ZExQd3FJdUNlbUtuU1RqQnJDZFloUmQyclI5Z1o3QkdMQ2JJT3kwMjg
+
+  476. [low] [04-03 22:24] [rel:0.50] [Google-broad]
+       RSU tax withholding trims Willis Towers Watson (WTW) insider stake
+       Source: Stock Titan
+       > RSU tax withholding trims Willis Towers Watson (WTW) insider stake Stock Titan
+       https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRjNuVnZWaEljNFJvZzVOelBjYkJtU216UTdlcUx1Umh4N3hsbUI0VUNGRjMxNmNVQUR
+
+  477. [low] [04-03 22:21] [rel:0.50] [Google-broad]
+       Willis Towers Watson (WTW) CHRO has 2,538 shares withheld for RSU taxes
+       Source: Stock Titan
+       > Willis Towers Watson (WTW) CHRO has 2,538 shares withheld for RSU taxes Stock Titan
+       https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdVBhUjI0WjlhQjJpT1lZenlXZWhQanVGTDNwZ19XTXB0STRFMi1fTzk2aHlNeFZwSG8
+
+  478. [low] [04-03 21:09] [rel:0.60] [Google-broad]
+       Patricia Russo (HPE: HPE) defers 14.5K vested RSUs into HPE shares
+       Source: Stock Titan
+       > Patricia Russo (HPE: HPE) defers 14.5K vested RSUs into HPE shares Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxOc0hsMThWaDR0SXlnQ2xYbjdqVGEtenZsOHNrMlJ2TnZIelFIcHZlREc2di1oX2ExeUV
+
+  479. [low] [04-03 21:04] [rel:0.60] [Google-broad]
+       HPE (NYSE: HPE) director converts 14,500 RSUs into common stock holdings
+       Source: Stock Titan  (also: Stock Titan)
+       > HPE (NYSE: HPE) director converts 14,500 RSUs into common stock holdings Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxNZWRseHVDYjh1X0NHSDBfTXJpUmo5bFc5My1nWURPSkJib2tfcnVNY0laZG1iVlhoZFh
+
+  480. [low] [04-03 20:51] [rel:0.60] [Google-broad]
+       Calderoni acquires 8,008 HPE (NYSE: HPE) shares through RSU vesting
+       Source: Stock Titan
+       > Calderoni acquires 8,008 HPE (NYSE: HPE) shares through RSU vesting Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxQX0FIZ3AzZkdldHgydENsYlZxRTJTWENLU0FtZmJCRWRGTmgzcHE4c1dGME1jakkxaDA
+
+  481. [low] [04-03 21:00] [rel:0.50] [Google-broad]
+       Hewlett Packard Enterprise (HPE) director defers 14.5K RSUs into stock
+       Source: Stock Titan  (also: Stock Titan)
+       > Hewlett Packard Enterprise (HPE) director defers 14.5K RSUs into stock Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxPdGU5SmdiOUFJRHEwZEM4VGRwcXk1OGl1R1FucE5fdVl3YnVHSFJSaGpDeHRFeWdsNjh
+
+  482. [low] [04-03 20:58] [rel:0.50] [Google-broad]
+       Frank A. D’Amelio of Hewlett Packard Enterprise (HPE) exercises 14.5K RSUs
+       Source: Stock Titan
+       > Frank A. D’Amelio of Hewlett Packard Enterprise (HPE) exercises 14.5K RSUs Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxPWU5CMWFfcnpqN1BPdmNLQm9HVVlDcjgyY3F4bExFLTlIeXNjY2ZoWWR2Ml9PSFNvSG9
+
+  483. [low] [04-03 20:49] [rel:0.50] [Google-broad]
+       Hewlett Packard Enterprise (HPE) director exercises 14,500 RSUs into stock
+       Source: Stock Titan
+       > Hewlett Packard Enterprise (HPE) director exercises 14,500 RSUs into stock Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxPYVNJSksyUEFMUm11Zm1tMzBFUDk4RnhpTk5yMmFzM2owY19ZNkdJVWdJbXhRVjZrYzd
+
+  484. [low] [04-03 20:46] [rel:0.50] [Google-broad]
+       Bethany Mayer (HPE) converts 14,500 RSUs to stock, holds added shares
+       Source: Stock Titan
+       > Bethany Mayer (HPE) converts 14,500 RSUs to stock, holds added shares Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxNZGMwZ3BBeHppOV9RLUNTMmVzNlpGNnMwN050TUlPR0FwdTFsMFk5TEdaczVZS19nR1l
+
+  485. [low] [04-03 20:44] [rel:0.50] [Google-broad]
+       Hewlett Packard Enterprise (HPE) director converts 14,500 RSUs into common stock
+       Source: Stock Titan  (also: Stock Titan)
+       > Hewlett Packard Enterprise (HPE) director converts 14,500 RSUs into common stock Stock Titan
+       https://news.google.com/rss/articles/CBMivwFBVV95cUxPak5GNU14T0ZGa2V4TVZpOGF4ZTVsX2VkUDdoVWFoNmFDWkNjWlVxdjNkcVRnbTJQOG5
+
+  486. [low] [04-03 15:38] [rel:0.50] [Google-broad]
+       Hewlett Packard Enterprise (HPE) Expands Stock Incentive Plan wi
+       Source: GuruFocus
+       > Hewlett Packard Enterprise (HPE) Expands Stock Incentive Plan wi GuruFocus
+       https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNmw3LXl6WkVmUU9KeHhzSU5FY2JQaGZ5LWxBd3lpNldObkVRTHkwUXFVWWVFZWJuRl9
+
+  487. [low] [04-03 13:50] [rel:0.50] [Google-broad]
+       Shareholders at Hewlett Packard Enterprise (NYSE: HPE) back stock plan boost
+       Source: Stock Titan
+       > Shareholders at Hewlett Packard Enterprise (NYSE: HPE) back stock plan boost Stock Titan
+       https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVERDWTk5Z0VkVFNaM3RIMHFISC1rc25wam5pd1kzT1NfZ2hUQTM5UmJkR1hzN254THZ
+
+  488. [low] [04-03 15:29] [rel:0.70] [Google-broad]
+       Lennar (LEN) Stock Down 25% As Earnings Miss and Analyst Downgrades Mount
+       Source: CoinCentral
+       > Lennar (LEN) Stock Down 25% As Earnings Miss and Analyst Downgrades Mount CoinCentral
+       https://coincentral.com/lennar-len-stock-down-25-as-earnings-miss-and-analyst-downgrades-mount/
+
+  489. [low] [04-03 16:03] [rel:0.65] [Google-broad]
+       Lennar (LEN) Stock Plunges 25% Amid Earnings Shortfall and Downgrades
+       Source: MoneyCheck
+       > Lennar (LEN) Stock Plunges 25% Amid Earnings Shortfall and Downgrades MoneyCheck
+       https://moneycheck.com/lennar-len-stock-plunges-25-amid-earnings-shortfall-and-downgrades/
+
+  490. [low] [04-03 15:47] [rel:0.65] [Google-broad]
+       Lennar (LEN) Stock Plummets 25% Amid Earnings Shortfall and Widespread Analyst Downgrades
+       Source: parameter.io
+       > Lennar (LEN) Stock Plummets 25% Amid Earnings Shortfall and Widespread Analyst Downgrades parameter.io
+       https://parameter.io/lennar-len-stock-plummets-25-amid-earnings-shortfall-and-widespread-analyst-downgrades/
+
+  491. [low] [04-04 08:36] [rel:0.55] [Google-broad]
+       15,051 Shares in Biogen Inc. $BIIB Bought by Element Squared LLC
+       Source: MarketBeat
+       > 15,051 Shares in Biogen Inc. $BIIB Bought by Element Squared LLC MarketBeat
+       https://www.marketbeat.com/instant-alerts/filing-15051-shares-in-biogen-inc-biib-bought-by-element-squared-llc-2026-04-0
+
+  492. [low] [04-03 20:05] [rel:0.50] [Google-broad]
+       Biogen (BIIB) CAO Sean Godbout nets shares from RSU vesting and tax withholding
+       Source: Stock Titan
+       > Biogen (BIIB) CAO Sean Godbout nets shares from RSU vesting and tax withholding Stock Titan
+       https://news.google.com/rss/articles/CBMipwFBVV95cUxQYzlpM3BhR3BOYVB4dTF0dUF6XzBXZmcycWxGSjRwZ0VqcjlEYkdaZUpfc0ZPR3gwazc
+
+  493. [OK ] [04-03 09:03] [rel:0.50] [Google-broad]
+       Gary K. Schick, Jabil SVP, CHRO, sells $102,871 in JBL stock
+       Source: Investing.com
+       > Gary K. Schick, Jabil SVP, CHRO, sells $102,871 in JBL stock Investing.com
+       https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSmVEYXVLLWVNNnBILTh2NVJGS3R0b0dGc2txc2gzUGs0ZnBVcHM4cEZ1NzB5OGxwUEd
+
+  494. [low] [04-03 19:20] [rel:0.50] [Google-broad]
+       JBL Sep 2026 370.000 call (JBL260918C00370000) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > JBL Sep 2026 370.000 call (JBL260918C00370000) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5X1ctaHAzZ1lONFZvY21zVVE1SGVtMU5LSWVvTi0wVVVHLUFMOHNoZVN6MndKb21VbEU
+
+  495. [low] [04-03 19:25] [rel:0.50] [Google-broad]
+       MTD Jul 2026 1800.000 call (MTD260717C01800000) Interactive Stock Chart
+       Source: Yahoo! Finance Canada
+       > MTD Jul 2026 1800.000 call (MTD260717C01800000) Interactive Stock Chart Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMibEFVX3lxTFBvRE01QWI5eFpkOFBIbWU1aEZlMmpHUUFxN3hPUGtVZnp2MTctUWQwRHBJNzByQTRkWjJ
+
+  496. [low] [04-03 18:36] [rel:0.50] [Google-broad]
+       MTD Apr 2026 1120.000 put (MTD260417P01120000) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > MTD Apr 2026 1120.000 put (MTD260417P01120000) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GMnVkak95UV9fdlMyWWFkblBCMlZpaVJVbkwyb1N1ZG9pQ0xaQWQ5czNVWGtLdnYzaHp
+
+  497. [low] [04-03 06:28] [rel:0.65] [Google-broad]
+       Citigroup Reiterates “Neutral” Rating for PPG Industries (NYSE:PPG)
+       Source: Defense World
+       > Citigroup Reiterates “Neutral” Rating for PPG Industries (NYSE:PPG) Defense World
+       https://www.defenseworld.net/2026/04/03/citigroup-reiterates-neutral-rating-for-ppg-industries-nyseppg.html
+
+  498. [low] [04-03 22:46] [rel:0.60] [Google-broad]
+       PPG Industries, Inc. (PPG) stock price, news, quote and history
+       Source: Yahoo Finance UK  (also: Yahoo! Finance Canada)
+       > PPG Industries, Inc. (PPG) stock price, news, quote and history Yahoo Finance UK
+       https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HcENELXhmdlhQS0JrdWtOaXM4S0tjTUpMdEZ2Z2Y1WWxUUF9lTXZwdkFMdnJCZ3lwdnh
+
+  499. [low] [04-04 20:16] [rel:0.50] [Google-broad]
+       PPG Technical Analysis & Stock Price Forecast
+       Source: intellectia.ai
+       > PPG Technical Analysis & Stock Price Forecast intellectia.ai
+       https://intellectia.ai/en/stock/PPG/technical
+
+  500. [low] [04-03 23:49] [rel:0.50] [Google-broad]
+       PPG Jun 2026 165.000 call (PPG260618C00165000) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > PPG Jun 2026 165.000 call (PPG260618C00165000) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqb1dhejNseVhjYTQ5VmlKTHFIZXpwVUxsMGh1Z2p2WXVzbXhEcUZ5b0VpaWN2NWxNTnl
+
+  501. [low] [04-03 19:47] [rel:0.50] [Google-broad]
+       PPG Apr 2026 110.000 put (PPG260410P00110000) Stock Price, News, Quote & History
+       Source: Yahoo! Finance Canada
+       > PPG Apr 2026 110.000 put (PPG260410P00110000) Stock Price, News, Quote & History Yahoo! Finance Canada
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTE10UTVhZ0FTLW03YWlFSE1KdjR6Q2lheVhrQ1g1aFJHZGZHclBLcG1IOW5fUV9kZ2hRVWY
+
+  502. [low] [04-03 16:32] [rel:0.50] [Google-broad]
+       Pro-Pac Packaging Limited (PPG.AX) stock price, news, quote and history
+       Source: Yahoo Finance UK
+       > Pro-Pac Packaging Limited (PPG.AX) stock price, news, quote and history Yahoo Finance UK
+       https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RM1hVZTFaZjBpaC0wLXdGYXZtWnNRZ1hvWFBTMjl5UHQ5bWEyMkxtQlgzZUFpQWE0Vk1
+
+  503. [low] [04-03 20:32] [rel:0.50] [Google-broad]
+       Director Krishnan Ramkumar takes Tractor Supply (TSCO) fees in stock
+       Source: Stock Titan
+       > Director Krishnan Ramkumar takes Tractor Supply (TSCO) fees in stock Stock Titan
+       https://news.google.com/rss/articles/CBMitAFBVV95cUxNSEhNTmtCLUVIZGlWTGdFQ2ZZV0FFa2hfaGV1Vkc1R3QwS3Z0RVZYUVpUb2NuNlZFZ3h
+
+  504. [low] [04-03 18:30] [rel:0.60] [Google-broad]
+       Will Constellation Brands (STZ) beat estimates again in its next earnings report?
+       Source: MSN  (also: sharewise.com)
+       > Will Constellation Brands (STZ) beat estimates again in its next earnings report? MSN
+       https://www.msn.com/en-us/money/topstocks/will-constellation-brands-stz-beat-estimates-again-in-its-next-earnings-report
+
+============================================================================================

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "c992682a-f52c-51d7-960a-c1a5b442aad2",
+    "timestamp_utc": "2026-04-02T13:08:27+00:00",
+    "source": "tempo.co_english",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR2UwZVMxYVVrSXF6d2lMWUtybmU0cFBVNWtPOThLRVRYdUk1dGVmRDNhT21ZcS1Fai1uUm9sRHZoM0lMTy1LWDM2UjlvQ0VzaWE0cmFxN3k3cnl6MV9zUTJOV3dZN3JFS2IxUkRvS1NoWTM5blJvS1Z3aTlianphWmNaU0FRZ3NTM21DRUFMdWVmWmlL?oc=5",
+    "title": "JCI Drops 2.19% as Trump Speech Sparks Middle East Jitters - Tempo.co English",
+    "body": "JCI Drops 2.19% as Trump Speech Sparks Middle East Jitters Tempo.co English",
+    "author": null,
+    "language": "en",
+    "ticker": "JCI",
+    "tickers_hint": [
+      "JCI"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "tempo.co english",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Tempo.co English",
+      "source_domain": "tempocoenglish.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "JCI"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

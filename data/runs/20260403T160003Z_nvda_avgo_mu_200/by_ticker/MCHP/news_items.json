@@ -1,0 +1,89 @@
+[
+  {
+    "id": "84a05d1c-7e83-5895-afe4-cf3f433e5a35",
+    "timestamp_utc": "2026-04-03T08:10:17+00:00",
+    "source": "msn.com",
+    "url": "https://www.msn.com/en-us/news/technology/microchip-technology-mchp-launches-a-new-system-in-package-for-automotive-human-machine-interfaces/ar-AA1ZFK5Q?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "title": "Microchip Technology (MCHP) launches a new system-in-package for automotive human-machine interfaces - msn.com",
+    "body": "Microchip Technology (MCHP) launches a new system-in-package for automotive human-machine interfaces msn.com",
+    "author": null,
+    "language": "en",
+    "ticker": "MCHP",
+    "tickers_hint": [
+      "MCHP"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "msn.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "msn.com",
+      "source_domain": "msncom.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "MCHP"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "f9a9c439-3c95-5de5-86ce-7be20e5fc8e1",
+    "timestamp_utc": "2026-04-01T20:44:31+00:00",
+    "source": "msn.com",
+    "url": "https://www.msn.com/en-us/money/technologyinvesting/microchip-technology-mchp-will-address-emerging-cybersecurity-requirements-with-its-new-trust-platform/ar-AA1Z2ePl",
+    "title": "Microchip Technology (MCHP) will address emerging cybersecurity requirements with its new trust platform - msn.com",
+    "body": "Microchip Technology (MCHP) will address emerging cybersecurity requirements with its new trust platform msn.com",
+    "author": null,
+    "language": "en",
+    "ticker": "MCHP",
+    "tickers_hint": [
+      "MCHP"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "msn.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "msn.com",
+      "source_domain": "msncom.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "MCHP"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "a6ed293e-4bca-5e87-a926-9a027909980c",
+    "timestamp_utc": "2026-04-02T11:06:00+00:00",
+    "source": "stock_titan",
+    "url": "https://www.stocktitan.net/news/MCHP/microchip-technology-earns-iec-62443-4-1-ml2-industrial-automation-qhymiru6rhxf.html",
+    "title": "Microchip security certification helps customers prepare for EU cyber rules - Stock Titan",
+    "body": "NASDAQ:MCHP View MCHP Stock Overview → MCHP Rankings #399 Ranked by Market Cap N/A Ranked by Dividends MCHP Latest News Mar 24, 2026 Introducing Automotive-Qualified System-in-Package Hybrid MCU for Automotive and E-Mobility Human-Machine Interface Applications Mar 19, 2026 New BZPACK mSiC® Power Modules Are Designed for Demanding Applications in Harsh Environments Mar 17, 2026 Mythic® Selects memBrain™ Technology from Silicon Storage Technology® for its Next Generation of Ultra-Low-Power Analog Processing Units Mar 10, 2026 Microchip Expands Security Services in the Trust Platform to Help Manufacturers Meet Cybersecurity Regulations Mar 9, 2026 Microchip Technology to Present at the Cantor Global Technology & Industrial Growth Conference MCHP Latest SEC Filings Mar 27, 2026 [SCHEDULE 13G/A] MICROCHIP TECHNOLOGY INC Amended Passive Investment Disclosure Mar 4, 2026 [Form 4] MICROCHIP TECHNOLOGY INC Insider Trading Activity Mar 4, 2026 [Form 4] MICROCHIP TECHNOLOGY INC Insider Trading Activity Mar 4, 2026 [Form 4] MICROCHIP TECHNOLOGY INC Insider Trading Activity Mar 4, 2026 [Form 4] MICROCHIP TECHNOLOGY INC Insider Trading Activity MCHP Stock Data Market Cap 35.38B Float 529.82M Industry Semiconductors Sector Semiconductors & Related Devices Website Link Country United States City CHANDLER",
+    "author": null,
+    "language": "en",
+    "ticker": "MCHP",
+    "tickers_hint": [
+      "MCHP"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "MCHP"
+      ],
+      "body_kind": "article_text"
+    },
+    "stream_type": "soft"
+  }
+]

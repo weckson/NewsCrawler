@@ -1,0 +1,188 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "6cfaa351-bdca-5466-afc4-c9c93cbbe9d0",
+      "timestamp_utc": "2026-04-01T20:22:34+00:00",
+      "source": "firstenergy",
+      "url": "https://www.firstenergycorp.com/newsroom/news_articles/fe-to-webcast-first-quarter-2026-earnings-teleconference.html",
+      "title": "FirstEnergy to Webcast First Quarter Earnings Teleconference - FirstEnergy",
+      "body": "FirstEnergy to Webcast First Quarter Earnings Teleconference FirstEnergy",
+      "author": null,
+      "language": "en",
+      "ticker": "FE",
+      "tickers_hint": [
+        "FE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "firstenergy",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "FirstEnergy",
+        "source_domain": "firstenergy.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "FE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "afee6fa2-3849-59d5-8d6e-0d458f3e146a",
+      "timestamp_utc": "2026-04-01T20:20:00+00:00",
+      "source": "stock_titan",
+      "url": "https://www.stocktitan.net/news/FE/first-energy-to-webcast-first-quarter-earnings-88bwwdsl1yvc.html",
+      "title": "FirstEnergy to post Q1 results April 28, webcast call next day - Stock Titan",
+      "body": "Firstenergy Corp NYSE:FE View FE Stock Overview → FE Rankings #455 Ranked by Market Cap #704 Ranked by Dividends #737 52-Week Gainer #441 YTD Gainer #799 Monthly Gainer #1758 Ranked by Short %Change FE Latest News Mar 31, 2026 Potomac Edison Takes Next Step with Power Line Upgrades to Benefit Frederick and Montgomery County Customers Mar 24, 2026 Struggling with Seasonal Energy Bills?\n\nMon Power and Potomac Edison Can Help Mar 24, 2026 FirstEnergy Pennsylvania Customers Can Get Help with Seasonal Energy Bills Mar 24, 2026 Potomac Edison Maryland Customers Can Get Help with Seasonal Energy Costs Mar 24, 2026 FirstEnergy Ohio Customers Can Get Assistance with Electric Bills FE Latest SEC Filings Apr 1, 2026 [ARS] FIRSTENERGY CORP SEC Filing Apr 1, 2026 [DEF 14A] FIRSTENERGY CORP Definitive Proxy Statement Mar 26, 2026 [SCHEDULE 13G/A] FIRSTENERGY CORP Amended Passive Investment Disclosure Mar 13, 2026 [Form 4] FIRSTENERGY CORP Insider Trading Activity Mar 12, 2026 [Form 4] FIRSTENERGY CORP Insider Trading Activity FE Stock Data Market Cap 29.45B Float 547.91M Industry Utilities - Regulated Electric Sector Electric Services Website Link Country United States City AKRON",
+      "author": null,
+      "language": "en",
+      "ticker": "FE",
+      "tickers_hint": [
+        "FE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "FE"
+        ],
+        "alt_sources": [
+          "Stock Titan"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a7572f6f-539d-5d3c-9efd-d54df6f2c070",
+      "timestamp_utc": "2026-04-01T20:50:03+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOakhmUzU4cWZSMmlYeG00TG1SRVkxSTA1c2EyRGlPd1hRcGNmTVpxLWU0NGVOTnc3ZGVwSWExUThKRy14SGMxY1dwWkNjQVNFbm1ZdkNYN04xU3hZcUVCa0V1T0x1WFdOSGJkVk1GNV9KNEJmaEFuS1M1LTZJdkdUSGk2TnlyRXRwN1NmbndjZTAxd25jblE?oc=5",
+      "title": "[ARS] FIRSTENERGY CORP SEC Filing - Stock Titan",
+      "body": "[ARS] FIRSTENERGY CORP SEC Filing Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "FE",
+      "tickers_hint": [
+        "FE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "FE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "6cfaa351-bdca-5466-afc4-c9c93cbbe9d0",
+      "timestamp_utc": "2026-04-01T20:22:34+00:00",
+      "source": "firstenergy",
+      "url": "https://www.firstenergycorp.com/newsroom/news_articles/fe-to-webcast-first-quarter-2026-earnings-teleconference.html",
+      "title": "FirstEnergy to Webcast First Quarter Earnings Teleconference - FirstEnergy",
+      "body": "FirstEnergy to Webcast First Quarter Earnings Teleconference FirstEnergy",
+      "author": null,
+      "language": "en",
+      "ticker": "FE",
+      "tickers_hint": [
+        "FE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "firstenergy",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "FirstEnergy",
+        "source_domain": "firstenergy.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "FE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "afee6fa2-3849-59d5-8d6e-0d458f3e146a",
+      "timestamp_utc": "2026-04-01T20:20:00+00:00",
+      "source": "stock_titan",
+      "url": "https://www.stocktitan.net/news/FE/first-energy-to-webcast-first-quarter-earnings-88bwwdsl1yvc.html",
+      "title": "FirstEnergy to post Q1 results April 28, webcast call next day - Stock Titan",
+      "body": "Firstenergy Corp NYSE:FE View FE Stock Overview → FE Rankings #455 Ranked by Market Cap #704 Ranked by Dividends #737 52-Week Gainer #441 YTD Gainer #799 Monthly Gainer #1758 Ranked by Short %Change FE Latest News Mar 31, 2026 Potomac Edison Takes Next Step with Power Line Upgrades to Benefit Frederick and Montgomery County Customers Mar 24, 2026 Struggling with Seasonal Energy Bills?\n\nMon Power and Potomac Edison Can Help Mar 24, 2026 FirstEnergy Pennsylvania Customers Can Get Help with Seasonal Energy Bills Mar 24, 2026 Potomac Edison Maryland Customers Can Get Help with Seasonal Energy Costs Mar 24, 2026 FirstEnergy Ohio Customers Can Get Assistance with Electric Bills FE Latest SEC Filings Apr 1, 2026 [ARS] FIRSTENERGY CORP SEC Filing Apr 1, 2026 [DEF 14A] FIRSTENERGY CORP Definitive Proxy Statement Mar 26, 2026 [SCHEDULE 13G/A] FIRSTENERGY CORP Amended Passive Investment Disclosure Mar 13, 2026 [Form 4] FIRSTENERGY CORP Insider Trading Activity Mar 12, 2026 [Form 4] FIRSTENERGY CORP Insider Trading Activity FE Stock Data Market Cap 29.45B Float 547.91M Industry Utilities - Regulated Electric Sector Electric Services Website Link Country United States City AKRON",
+      "author": null,
+      "language": "en",
+      "ticker": "FE",
+      "tickers_hint": [
+        "FE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "FE"
+        ],
+        "alt_sources": [
+          "Stock Titan"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "a7572f6f-539d-5d3c-9efd-d54df6f2c070",
+      "timestamp_utc": "2026-04-01T20:50:03+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOakhmUzU4cWZSMmlYeG00TG1SRVkxSTA1c2EyRGlPd1hRcGNmTVpxLWU0NGVOTnc3ZGVwSWExUThKRy14SGMxY1dwWkNjQVNFbm1ZdkNYN04xU3hZcUVCa0V1T0x1WFdOSGJkVk1GNV9KNEJmaEFuS1M1LTZJdkdUSGk2TnlyRXRwN1NmbndjZTAxd25jblE?oc=5",
+      "title": "[ARS] FIRSTENERGY CORP SEC Filing - Stock Titan",
+      "body": "[ARS] FIRSTENERGY CORP SEC Filing Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "FE",
+      "tickers_hint": [
+        "FE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "FE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

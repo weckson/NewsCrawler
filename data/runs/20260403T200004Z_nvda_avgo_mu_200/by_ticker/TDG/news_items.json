@@ -1,0 +1,31 @@
+[
+  {
+    "id": "6b220583-6429-50d2-99f8-4eb1b69237a9",
+    "timestamp_utc": "2026-04-02T04:07:30+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8765364/transdigm-group-tdg-wells-fargo-initiates-coverage-with-equalweight-rating-tdg-stock-news?mobile=true",
+    "title": "TransDigm Group (TDG): Wells Fargo Initiates Coverage with Equal-Weight Rating | TDG Stock News - GuruFocus",
+    "body": "TransDigm Group (TDG): Wells Fargo Initiates Coverage with Equal-Weight Rating | TDG Stock News GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "TDG",
+    "tickers_hint": [
+      "TDG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "TDG"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

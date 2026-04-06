@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "d14b3a86-713b-551a-96e8-62d5aa91be1f",
-      "timestamp_utc": "2026-03-31T17:36:48+00:00",
-      "source": "bitget",
-      "url": "https://www.bitget.com/news/detail/12560605327870",
-      "title": "PEP Traders Take Note: Call Options Surge Between $160 and $162.5 as Pepsico Beats Earnings Expectations and Targets a $2.4 Billion Purchase - Bitget",
-      "body": "PEP Traders Take Note: Call Options Surge Between $160 and $162.5 as Pepsico Beats Earnings Expectations and Targets a $2.4 Billion Purchase Bitget",
+      "id": "7c95eb47-10a5-5e4f-9931-7db27d29a090",
+      "timestamp_utc": "2026-04-03T13:16:54+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/will-pepsico-pep-beat-estimates-again-in-its-next-earnings-report/ar-AA1ZVVpg",
+      "title": "Will PepsiCo (PEP) beat estimates again in its next earnings report? - MSN",
+      "body": "Will PepsiCo (PEP) beat estimates again in its next earnings report? MSN",
       "author": null,
       "language": "en",
       "ticker": "PEP",
@@ -15,13 +15,13 @@
         "PEP"
       ],
       "source_quality": "low",
-      "publisher_raw": "bitget",
+      "publisher_raw": "msn",
       "meta": {
         "channel": "google_broad",
-        "source_name": "Bitget",
-        "source_domain": "bitget.com",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
         "trust_tier": 1,
-        "relevance": 0.65,
+        "relevance": 0.6,
         "event_origin": "news",
         "query_tickers": [
           "PEP"
@@ -31,12 +31,12 @@
       "stream_type": "soft"
     },
     {
-      "id": "4436a961-b75f-5702-b521-352732e6659e",
-      "timestamp_utc": "2026-04-01T06:10:05+00:00",
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pepsico-pep-beat-estimates-again-161005773.html",
-      "title": "Will PepsiCo (PEP) Beat Estimates Again in Its Next Earnings Report? - finance.yahoo.com",
-      "body": "Will PepsiCo (PEP) Beat Estimates Again in Its Next Earnings Report? finance.yahoo.com",
+      "id": "cf64435f-4256-50c0-9fad-b8368ae98196",
+      "timestamp_utc": "2026-04-04T15:54:12+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/PEP/earnings",
+      "title": "PEP Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "PEP Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
       "author": null,
       "language": "en",
       "ticker": "PEP",
@@ -44,13 +44,13 @@
         "PEP"
       ],
       "source_quality": "low",
-      "publisher_raw": "finance.yahoo.com",
+      "publisher_raw": "intellectia ai",
       "meta": {
         "channel": "google_broad",
-        "source_name": "finance.yahoo.com",
-        "source_domain": "financeyahoocom.com",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
         "trust_tier": 1,
-        "relevance": 0.6,
+        "relevance": 0.5,
         "event_origin": "news",
         "query_tickers": [
           "PEP"
@@ -63,12 +63,12 @@
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "d14b3a86-713b-551a-96e8-62d5aa91be1f",
-      "timestamp_utc": "2026-03-31T17:36:48+00:00",
-      "source": "bitget",
-      "url": "https://www.bitget.com/news/detail/12560605327870",
-      "title": "PEP Traders Take Note: Call Options Surge Between $160 and $162.5 as Pepsico Beats Earnings Expectations and Targets a $2.4 Billion Purchase - Bitget",
-      "body": "PEP Traders Take Note: Call Options Surge Between $160 and $162.5 as Pepsico Beats Earnings Expectations and Targets a $2.4 Billion Purchase Bitget",
+      "id": "7c95eb47-10a5-5e4f-9931-7db27d29a090",
+      "timestamp_utc": "2026-04-03T13:16:54+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/will-pepsico-pep-beat-estimates-again-in-its-next-earnings-report/ar-AA1ZVVpg",
+      "title": "Will PepsiCo (PEP) beat estimates again in its next earnings report? - MSN",
+      "body": "Will PepsiCo (PEP) beat estimates again in its next earnings report? MSN",
       "author": null,
       "language": "en",
       "ticker": "PEP",
@@ -76,13 +76,13 @@
         "PEP"
       ],
       "source_quality": "low",
-      "publisher_raw": "bitget",
+      "publisher_raw": "msn",
       "meta": {
         "channel": "google_broad",
-        "source_name": "Bitget",
-        "source_domain": "bitget.com",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
         "trust_tier": 1,
-        "relevance": 0.65,
+        "relevance": 0.6,
         "event_origin": "news",
         "query_tickers": [
           "PEP"
@@ -92,12 +92,12 @@
       "stream_type": "soft"
     },
     {
-      "id": "4436a961-b75f-5702-b521-352732e6659e",
-      "timestamp_utc": "2026-04-01T06:10:05+00:00",
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pepsico-pep-beat-estimates-again-161005773.html",
-      "title": "Will PepsiCo (PEP) Beat Estimates Again in Its Next Earnings Report? - finance.yahoo.com",
-      "body": "Will PepsiCo (PEP) Beat Estimates Again in Its Next Earnings Report? finance.yahoo.com",
+      "id": "cf64435f-4256-50c0-9fad-b8368ae98196",
+      "timestamp_utc": "2026-04-04T15:54:12+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/PEP/earnings",
+      "title": "PEP Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "PEP Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
       "author": null,
       "language": "en",
       "ticker": "PEP",
@@ -105,13 +105,13 @@
         "PEP"
       ],
       "source_quality": "low",
-      "publisher_raw": "finance.yahoo.com",
+      "publisher_raw": "intellectia ai",
       "meta": {
         "channel": "google_broad",
-        "source_name": "finance.yahoo.com",
-        "source_domain": "financeyahoocom.com",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
         "trust_tier": 1,
-        "relevance": 0.6,
+        "relevance": 0.5,
         "event_origin": "news",
         "query_tickers": [
           "PEP"

@@ -1,11 +1,11 @@
 [
   {
-    "id": "ba98ceb4-756b-5227-9959-ec304bbdbe39",
-    "timestamp_utc": "2026-04-01T00:40:48+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-nisa-investment-advisors-llc-cuts-stock-position-in-amphenol-corporation-aph-2026-04-01/",
-    "title": "Nisa Investment Advisors LLC Cuts Stock Position in Amphenol Corporation $APH - MarketBeat",
-    "body": "Nisa Investment Advisors LLC Cuts Stock Position in Amphenol Corporation $APH MarketBeat",
+    "id": "e7d6f54f-3f03-5a1e-8c22-2dba403c0b54",
+    "timestamp_utc": "2026-04-03T20:06:26+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qbDZrQUJlclEybFlQa3h0bzdJTFJCVjJSTXdDQ3RFYmI1Mm92QVAyVElEaHo5U0l4V3NiTWQzeGNnXy1XMVdWdGxKUlBVVGlqR3FncE1PS3QtdDB3a3dFX2pkX00?oc=5",
+    "title": "APH Jul 2026 145.000 put (APH260717P00145000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "body": "APH Jul 2026 145.000 put (APH260717P00145000) Stock Price, News, Quote & History Yahoo! Finance Canada",
     "author": null,
     "language": "en",
     "ticker": "APH",
@@ -13,13 +13,13 @@
       "APH"
     ],
     "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
+    "publisher_raw": "yahoo! finance canada",
     "meta": {
       "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
       "trust_tier": 1,
-      "relevance": 0.55,
+      "relevance": 0.5,
       "event_origin": "news",
       "query_tickers": [
         "APH"

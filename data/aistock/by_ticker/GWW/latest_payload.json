@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "f63a6054-d020-57ce-a635-bb6feef922f9",
+      "timestamp_utc": "2026-04-04T15:24:27+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/GWW/financials",
+      "title": "GWW Financials: Revenue Breakdown, Margins & Competitor Comparison - Intellectia AI",
+      "body": "GWW Financials: Revenue Breakdown, Margins & Competitor Comparison Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "GWW",
+      "tickers_hint": [
+        "GWW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "GWW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "f63a6054-d020-57ce-a635-bb6feef922f9",
+      "timestamp_utc": "2026-04-04T15:24:27+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/GWW/financials",
+      "title": "GWW Financials: Revenue Breakdown, Margins & Competitor Comparison - Intellectia AI",
+      "body": "GWW Financials: Revenue Breakdown, Margins & Competitor Comparison Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "GWW",
+      "tickers_hint": [
+        "GWW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "GWW"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

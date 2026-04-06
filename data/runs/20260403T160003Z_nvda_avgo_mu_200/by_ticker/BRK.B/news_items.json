@@ -1,0 +1,31 @@
+[
+  {
+    "id": "3103edc0-2aa8-58b6-bc1c-4f41a5efe131",
+    "timestamp_utc": "2026-04-03T04:22:01+00:00",
+    "source": "stock_traders_daily",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZnhnbzd0UnJ4YlFsbXozV2JLUDlhZ1UzWllXVk9RNUFndnhGZVNiajJnaXViNGJsMkhzc2NKN2RtanJ1VmVKanE2QjNqWXNJaVU1RHFBWVdEOFNxc3MtYWlhQlVPVm5faDlSQXRyUzRhcGM2eWNIUTNMRGlwMUJ5QmlLdzZxc0pITFdiNjFaUDJPajE0dXZYV3E1eTVmU3NiLXYzclFoOGsxZWFvUFZ4YzJSb1I0SGkyNzRINW9qQjZyYTFIa05aUzNqZ3Q3Zw?oc=5",
+    "title": "Behavioral Patterns of BRK.B and Institutional Flows - Stock Traders Daily",
+    "body": "Behavioral Patterns of BRK.B and Institutional Flows Stock Traders Daily",
+    "author": null,
+    "language": "en",
+    "ticker": "BRK.B",
+    "tickers_hint": [
+      "BRK.B"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock traders daily",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Traders Daily",
+      "source_domain": "stocktradersdaily.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "BRK.B"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

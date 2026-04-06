@@ -1,0 +1,60 @@
+[
+  {
+    "id": "2fd8793d-cb45-54e0-a792-7e3d91c8112c",
+    "timestamp_utc": "2026-04-03T16:10:04+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-brands-stz-beat-estimates-161004236.html",
+    "title": "Will Constellation Brands (STZ) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
+    "body": "Will Constellation Brands (STZ) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "STZ",
+    "tickers_hint": [
+      "STZ"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "STZ"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "81592cb1-caa6-50de-bdf9-8e02e80c9788",
+    "timestamp_utc": "2026-04-04T22:38:58+00:00",
+    "source": "intellectia_ai",
+    "url": "https://intellectia.ai/en/stock/STZ/earnings",
+    "title": "STZ Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+    "body": "STZ Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+    "author": null,
+    "language": "en",
+    "ticker": "STZ",
+    "tickers_hint": [
+      "STZ"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "intellectia ai",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Intellectia AI",
+      "source_domain": "intellectiaai.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "STZ"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

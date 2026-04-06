@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "d2cdbd9e-f2c5-527b-8f4f-ce4cfc22a56d",
+      "timestamp_utc": "2026-04-04T12:52:25+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81TEd5ajdFeDlQbjNBaFVhTXpVTkt4WlYyU0hrV1E1U05ocXVudGJnZ3ZFbVFWTHRPT2FDeFk4YS1oWHRiUkpuVVZJWjJGcmZXMWtjMjhyLVE4OU52M3ZHbGtmY2w?oc=5",
+      "title": "AMT Apr 2026 250.000 put (AMT260417P00250000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "AMT Apr 2026 250.000 put (AMT260417P00250000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "AMT",
+      "tickers_hint": [
+        "AMT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6f3fd557-2944-56a6-9b8e-f318510f5f37",
+      "timestamp_utc": "2026-04-03T18:11:34+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xaDRSc3BfeHpMM1NpS0NmSlVhYzdUclFlMzRXaVYtVkxCRjZYcUJ4eFZfeTJ0M0NBUW9Qb2d0aEVQc3B6RG91all4ZzBhUU03RTliLVVZUlFHYXJFS25TRTFBd3Q?oc=5",
+      "title": "AMT Apr 2026 135.000 put (AMT260417P00135000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "AMT Apr 2026 135.000 put (AMT260417P00135000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "AMT",
+      "tickers_hint": [
+        "AMT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "d2cdbd9e-f2c5-527b-8f4f-ce4cfc22a56d",
+      "timestamp_utc": "2026-04-04T12:52:25+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81TEd5ajdFeDlQbjNBaFVhTXpVTkt4WlYyU0hrV1E1U05ocXVudGJnZ3ZFbVFWTHRPT2FDeFk4YS1oWHRiUkpuVVZJWjJGcmZXMWtjMjhyLVE4OU52M3ZHbGtmY2w?oc=5",
+      "title": "AMT Apr 2026 250.000 put (AMT260417P00250000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "AMT Apr 2026 250.000 put (AMT260417P00250000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "AMT",
+      "tickers_hint": [
+        "AMT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "6f3fd557-2944-56a6-9b8e-f318510f5f37",
+      "timestamp_utc": "2026-04-03T18:11:34+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xaDRSc3BfeHpMM1NpS0NmSlVhYzdUclFlMzRXaVYtVkxCRjZYcUJ4eFZfeTJ0M0NBUW9Qb2d0aEVQc3B6RG91all4ZzBhUU03RTliLVVZUlFHYXJFS25TRTFBd3Q?oc=5",
+      "title": "AMT Apr 2026 135.000 put (AMT260417P00135000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "AMT Apr 2026 135.000 put (AMT260417P00135000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "AMT",
+      "tickers_hint": [
+        "AMT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMT"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

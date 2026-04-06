@@ -1,0 +1,60 @@
+[
+  {
+    "id": "b7d270bc-ddd8-56bf-89aa-56fd3b60058a",
+    "timestamp_utc": "2026-04-04T10:34:13+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-thurston-springer-miller-herd-titak-inc-buys-4647-shares-of-mcdonalds-corporation-mcd-2026-04-04/",
+    "title": "Thurston Springer Miller Herd & Titak Inc. Buys 4,647 Shares of McDonald's Corporation $MCD - MarketBeat",
+    "body": "Thurston Springer Miller Herd & Titak Inc. Buys 4,647 Shares of McDonald's Corporation $MCD MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "MCD",
+    "tickers_hint": [
+      "MCD"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "MCD"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "0fba25e1-6170-553f-bf37-6fd6070ada88",
+    "timestamp_utc": "2026-04-03T07:17:36+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-aberdeen-group-plc-trims-stake-in-mcdonalds-corporation-mcd-2026-04-03/",
+    "title": "Aberdeen Group plc Trims Stake in McDonald's Corporation $MCD - MarketBeat",
+    "body": "Aberdeen Group plc Trims Stake in McDonald's Corporation $MCD MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "MCD",
+    "tickers_hint": [
+      "MCD"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "MCD"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

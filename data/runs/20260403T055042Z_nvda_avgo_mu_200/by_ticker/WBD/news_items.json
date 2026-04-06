@@ -1,0 +1,60 @@
+[
+  {
+    "id": "62a21cd7-1853-57ba-9c7b-64d4948543fa",
+    "timestamp_utc": "2026-04-02T10:35:07+00:00",
+    "source": "marketbeat.com",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-325574-shares-in-warner-bros-discovery-inc-wbd-acquired-by-triad-investment-management-2026-04-02/",
+    "title": "325,574 Shares in Warner Bros. Discovery, Inc. $WBD Acquired by Triad Investment Management - marketbeat.com",
+    "body": "325,574 Shares in Warner Bros. Discovery, Inc. $WBD Acquired by Triad Investment Management marketbeat.com",
+    "author": null,
+    "language": "en",
+    "ticker": "WBD",
+    "tickers_hint": [
+      "WBD"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "marketbeat.com",
+      "source_domain": "marketbeatcom.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "WBD"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "021a8a60-3873-546b-9c49-0f7453c3c5b9",
+    "timestamp_utc": "2026-04-01T09:32:08+00:00",
+    "source": "marketbeat.com",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-warner-bros-discovery-inc-wbd-shares-purchased-by-mn-services-vermogensbeheer-bv-2026-04-01/",
+    "title": "Warner Bros. Discovery, Inc. $WBD Shares Purchased by Mn Services Vermogensbeheer B.V. - marketbeat.com",
+    "body": "Warner Bros. Discovery, Inc. $WBD Shares Purchased by Mn Services Vermogensbeheer B.V. marketbeat.com",
+    "author": null,
+    "language": "en",
+    "ticker": "WBD",
+    "tickers_hint": [
+      "WBD"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "marketbeat.com",
+      "source_domain": "marketbeatcom.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "WBD"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

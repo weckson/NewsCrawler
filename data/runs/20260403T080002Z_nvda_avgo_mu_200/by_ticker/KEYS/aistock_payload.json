@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "5f5b805e-c264-59bb-9c23-a079bed6c0bc",
+      "timestamp_utc": "2026-04-01T10:54:57+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUWFncTVZVXp5T1A3YWdweURReE5qV2J1VTJFaUcwT0M1SENEVk40Nk1zMHBQR1Z4dVZobktFbmtzRlZjaDhBXy1MZ2NRQzllcVJpdGJKMWFWR0FfZG5idEF0aFdoSVlVSkEwemNhNkZ3c3I3TzZXRjVFM2g0ZTBVMEwxdWxZbUM0V3NRRHVyTEw2bWlYT0VTMEs1aDJSNHlHbUw4NFRVRmR4d3UwSlYwakVMNjluUFBzMnNN?oc=5",
+      "title": "Keysight (NYSE: KEYS) director sells 870 shares, keeps over 42K - Stock Titan",
+      "body": "Keysight (NYSE: KEYS) director sells 870 shares, keeps over 42K Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "KEYS",
+      "tickers_hint": [
+        "KEYS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KEYS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "5f5b805e-c264-59bb-9c23-a079bed6c0bc",
+      "timestamp_utc": "2026-04-01T10:54:57+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUWFncTVZVXp5T1A3YWdweURReE5qV2J1VTJFaUcwT0M1SENEVk40Nk1zMHBQR1Z4dVZobktFbmtzRlZjaDhBXy1MZ2NRQzllcVJpdGJKMWFWR0FfZG5idEF0aFdoSVlVSkEwemNhNkZ3c3I3TzZXRjVFM2g0ZTBVMEwxdWxZbUM0V3NRRHVyTEw2bWlYT0VTMEs1aDJSNHlHbUw4NFRVRmR4d3UwSlYwakVMNjluUFBzMnNN?oc=5",
+      "title": "Keysight (NYSE: KEYS) director sells 870 shares, keeps over 42K - Stock Titan",
+      "body": "Keysight (NYSE: KEYS) director sells 870 shares, keeps over 42K Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "KEYS",
+      "tickers_hint": [
+        "KEYS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KEYS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

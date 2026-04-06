@@ -1,0 +1,93 @@
+[
+  {
+    "id": "ddbc8093-9e8e-5f85-a22e-c062c9588068",
+    "timestamp_utc": "2026-04-04T07:48:30+00:00",
+    "source": "marketbeat.com",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-crown-castle-inc-cci-shares-bought-by-aberdeen-group-plc-2026-04-04/",
+    "title": "Crown Castle Inc. $CCI Shares Bought by Aberdeen Group plc - marketbeat.com",
+    "body": "Crown Castle Inc. $CCI Shares Bought by Aberdeen Group plc marketbeat.com",
+    "author": null,
+    "language": "en",
+    "ticker": "CCI",
+    "tickers_hint": [
+      "CCI"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "marketbeat.com",
+      "source_domain": "marketbeatcom.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "CCI"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "c5f0cadd-6e9e-5bc8-81fe-473a8ff02e78",
+    "timestamp_utc": "2026-04-03T21:43:04+00:00",
+    "source": "yahoo_finance_singapore",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5RDVXekgzUkFHcnJONUY5TFBCaFR5VlNiemRHTXdFYmNGc2ZjZTA5RE44c3QzaElIaEVfT2U1cVNOWmNVZWp6cndiNTY5YjhJUGd1eDBGUXg?oc=5",
+    "title": "Crown Castle Inc. (CCI) interactive stock chart - Yahoo Finance Singapore",
+    "body": "Crown Castle Inc. (CCI) interactive stock chart Yahoo Finance Singapore",
+    "author": null,
+    "language": "en",
+    "ticker": "CCI",
+    "tickers_hint": [
+      "CCI"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo finance singapore",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance Singapore",
+      "source_domain": "yahoofinancesingapore.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "CCI"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "321865a4-c696-513d-b035-23b33b149ffd",
+    "timestamp_utc": "2026-04-03T18:41:47+00:00",
+    "source": "yahoo_finance_singapore",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iSDR6QkdQZkQ4dXV5TW5vcEtpd3VleTJRV2h3OGYweWRNQ3VJczRBMGtURjAyYlpTSjFhVEdKRXFXZENRaFN3WUtSWU1CNkRf?oc=5",
+    "title": "Crown Castle Inc. (CCI) stock price, news, quote and history - Yahoo Finance Singapore",
+    "body": "Crown Castle Inc. (CCI) stock price, news, quote and history Yahoo Finance Singapore",
+    "author": null,
+    "language": "en",
+    "ticker": "CCI",
+    "tickers_hint": [
+      "CCI"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo finance singapore",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance Singapore",
+      "source_domain": "yahoofinancesingapore.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "CCI"
+      ],
+      "alt_sources": [
+        "Yahoo Finance UK",
+        "Yahoo Finance Singapore"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

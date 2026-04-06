@@ -1,0 +1,34 @@
+[
+  {
+    "id": "5435050f-1d73-5e6d-a5c6-bf094adbb43f",
+    "timestamp_utc": "2026-04-03T13:48:50+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/q4-earnings-highs-lows-ingersoll-134850684.html",
+    "title": "Q4 Earnings Highs And Lows: Ingersoll Rand (NYSE:IR) Vs The Rest Of The Gas and Liquid Handling Stocks - Yahoo Finance",
+    "body": "Q4 Earnings Highs And Lows: Ingersoll Rand (NYSE:IR) Vs The Rest Of The Gas and Liquid Handling Stocks Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "IR",
+    "tickers_hint": [
+      "IR"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.7000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "IR"
+      ],
+      "alt_sources": [
+        "Yahoo Finance"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

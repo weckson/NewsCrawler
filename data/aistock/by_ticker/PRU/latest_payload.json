@@ -2,26 +2,26 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "7aef5e88-33d3-5aea-8884-d690dc4b286b",
-      "timestamp_utc": "2026-03-31T20:53:34+00:00",
-      "source": "tipranks",
-      "url": "https://www.tipranks.com/news/company-announcements/prudential-cancels-385403-shares-after-latest-buyback-transaction",
-      "title": "Prudential Cancels 385,403 Shares After Latest Buyback Transaction - TipRanks",
-      "body": "Prudential Cancels 385,403 Shares After Latest Buyback Transaction TipRanks",
+      "id": "fc84a5c0-e2d3-57aa-800a-d6205f71183e",
+      "timestamp_utc": "2026-04-04T15:06:08+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/PRU/earnings",
+      "title": "PRU Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "PRU Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
       "author": null,
       "language": "en",
       "ticker": "PRU",
       "tickers_hint": [
         "PRU"
       ],
-      "source_quality": "high",
-      "publisher_raw": "tipranks.com",
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
       "meta": {
         "channel": "google_broad",
-        "source_name": "TipRanks",
-        "source_domain": "tipranks.com",
-        "trust_tier": 3,
-        "relevance": 0.55,
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
         "event_origin": "news",
         "query_tickers": [
           "PRU"
@@ -34,26 +34,26 @@
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "7aef5e88-33d3-5aea-8884-d690dc4b286b",
-      "timestamp_utc": "2026-03-31T20:53:34+00:00",
-      "source": "tipranks",
-      "url": "https://www.tipranks.com/news/company-announcements/prudential-cancels-385403-shares-after-latest-buyback-transaction",
-      "title": "Prudential Cancels 385,403 Shares After Latest Buyback Transaction - TipRanks",
-      "body": "Prudential Cancels 385,403 Shares After Latest Buyback Transaction TipRanks",
+      "id": "fc84a5c0-e2d3-57aa-800a-d6205f71183e",
+      "timestamp_utc": "2026-04-04T15:06:08+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/PRU/earnings",
+      "title": "PRU Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "PRU Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
       "author": null,
       "language": "en",
       "ticker": "PRU",
       "tickers_hint": [
         "PRU"
       ],
-      "source_quality": "high",
-      "publisher_raw": "tipranks.com",
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
       "meta": {
         "channel": "google_broad",
-        "source_name": "TipRanks",
-        "source_domain": "tipranks.com",
-        "trust_tier": 3,
-        "relevance": 0.55,
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
         "event_origin": "news",
         "query_tickers": [
           "PRU"

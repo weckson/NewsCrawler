@@ -1,0 +1,70 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "aaf909d2-e496-5da6-a245-2d3ef629bfda",
+      "timestamp_utc": "2026-04-03T15:40:03+00:00",
+      "source": "yahoo_finance_australia",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsSEhtd2xUQkg5QmRZWW51c1NkVFF4TWxvYktHbHZJVVB3NElQX3ZvOHp4NFhrOGx4cjNjM2NaVVpKN2hpUlczeHE1WC1IMWFPVzJJSnNOa2Uydnk2MXZDRjJHLV9lc2ZuYWtPb0liQ1Bqc0dJbUpfc1RpWjVQUQ?oc=5",
+      "title": "KDP vs. MNST: Which Stock Is the Better Value Option? - Yahoo Finance Australia",
+      "body": "KDP vs. MNST: Which Stock Is the Better Value Option? Yahoo Finance Australia",
+      "author": null,
+      "language": "en",
+      "ticker": "KDP",
+      "tickers_hint": [
+        "KDP",
+        "MNST"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance australia",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Australia",
+        "source_domain": "yahoofinanceaustralia.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KDP",
+          "MNST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "aaf909d2-e496-5da6-a245-2d3ef629bfda",
+      "timestamp_utc": "2026-04-03T15:40:03+00:00",
+      "source": "yahoo_finance_australia",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsSEhtd2xUQkg5QmRZWW51c1NkVFF4TWxvYktHbHZJVVB3NElQX3ZvOHp4NFhrOGx4cjNjM2NaVVpKN2hpUlczeHE1WC1IMWFPVzJJSnNOa2Uydnk2MXZDRjJHLV9lc2ZuYWtPb0liQ1Bqc0dJbUpfc1RpWjVQUQ?oc=5",
+      "title": "KDP vs. MNST: Which Stock Is the Better Value Option? - Yahoo Finance Australia",
+      "body": "KDP vs. MNST: Which Stock Is the Better Value Option? Yahoo Finance Australia",
+      "author": null,
+      "language": "en",
+      "ticker": "KDP",
+      "tickers_hint": [
+        "KDP",
+        "MNST"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance australia",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Australia",
+        "source_domain": "yahoofinanceaustralia.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KDP",
+          "MNST"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

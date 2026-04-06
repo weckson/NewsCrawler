@@ -1,11 +1,11 @@
 [
   {
-    "id": "9329b78f-dadf-5d63-82c6-3b247b479164",
-    "timestamp_utc": "2026-04-01T05:30:33+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUkVtbzRUS01fcmhsMDVXUWppMnRpSUxLejJhR0hqd0FOWmJHYjNmX0ZiemhybHRoZ2oycUlibm9xaFMySlp6S0N4WDFwai03MXJEV0ZEWnZlUUM3YUVDWmc0d002ajctcXcxSF85TW4tQTlvRzR1a1R0NjBpNXhpc1dZdHJ6LUVpUVhhMmYzUWJSNzJKRFE?oc=5",
-    "title": "3,000-share insider sale at NEM (NYSE: NEM) reported in Form 144 - Stock Titan",
-    "body": "3,000-share insider sale at NEM (NYSE: NEM) reported in Form 144 Stock Titan",
+    "id": "16fba4a2-ac56-5cb4-9b84-65c66c1a4f97",
+    "timestamp_utc": "2026-04-03T20:31:23+00:00",
+    "source": "stocktitan.net",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNXzAyTlNGbDJvTGtFVWdoTVU2cGZnY2Jjc2FCUXFIX1FJLTVXOHMyS3U3OUdjRWdRMm1fMkdDZ2RQMkczdTNpbXctTkVVVWZSN0VnaVVtX2hJNU5mVDZmYjhGcmFkQUIzUnBfdVRtVFZGMkFjWmY5czY4SUR1ejQzd2JoYnplak1maU55dVFkVS1US1A0dlFFWWVENG1DbFFTbW5IdXR1QWRJbGVX?oc=5",
+    "title": "Newmont (NEM) EVP Peter Toth sells 3,000 shares under Rule 10b5-1 plan - stocktitan.net",
+    "body": "Newmont (NEM) EVP Peter Toth sells 3,000 shares under Rule 10b5-1 plan stocktitan.net",
     "author": null,
     "language": "en",
     "ticker": "NEM",
@@ -13,13 +13,13 @@
       "NEM"
     ],
     "source_quality": "low",
-    "publisher_raw": "stock titan",
+    "publisher_raw": "stocktitan.net",
     "meta": {
       "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
+      "source_name": "stocktitan.net",
+      "source_domain": "stocktitannet.com",
       "trust_tier": 1,
-      "relevance": 0.6000000000000001,
+      "relevance": 0.5,
       "event_origin": "news",
       "query_tickers": [
         "NEM"
@@ -29,12 +29,12 @@
     "stream_type": "soft"
   },
   {
-    "id": "b403df40-8863-517d-a818-64686edf5872",
-    "timestamp_utc": "2026-04-01T06:10:05+00:00",
-    "source": "finance.yahoo.com",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/newmont-nem-beat-estimates-again-161005841.html",
-    "title": "Will Newmont (NEM) Beat Estimates Again in Its Next Earnings Report? - finance.yahoo.com",
-    "body": "Will Newmont (NEM) Beat Estimates Again in Its Next Earnings Report? finance.yahoo.com",
+    "id": "a9c073e2-dc92-547c-815e-9330885897a6",
+    "timestamp_utc": "2026-04-03T13:00:06+00:00",
+    "source": "yahoo_finance_singapore",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMWFHRUxKXzFBR3JkbUdtekM2UUtaWXJnbmJVdnM3a0lhMUxVMTBZdVJKT3ZwWW5IOGlkVzRMcWJ0R1RNM3lpU2FFcUpOWWo0Ynh3SW9kUGh0Q3R5M0JmU1BsX0pCUkpJWjJYU1JQZGRld2VCU1JEbEJjLU5TLXhxSHhrYm1RWTg0THkxc0pSdUk?oc=5",
+    "title": "Newmont Corporation (NEM) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance Singapore",
+    "body": "Newmont Corporation (NEM) Is a Trending Stock: Facts to Know Before Betting on It Yahoo Finance Singapore",
     "author": null,
     "language": "en",
     "ticker": "NEM",
@@ -42,42 +42,13 @@
       "NEM"
     ],
     "source_quality": "low",
-    "publisher_raw": "finance.yahoo.com",
+    "publisher_raw": "yahoo finance singapore",
     "meta": {
       "channel": "google_broad",
-      "source_name": "finance.yahoo.com",
-      "source_domain": "financeyahoocom.com",
+      "source_name": "Yahoo Finance Singapore",
+      "source_domain": "yahoofinancesingapore.com",
       "trust_tier": 1,
-      "relevance": 0.6,
-      "event_origin": "news",
-      "query_tickers": [
-        "NEM"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "c1bef259-d8e2-50a4-bb88-a6da4a798422",
-    "timestamp_utc": "2026-03-31T22:30:09+00:00",
-    "source": "yahoo_finance_uk",
-    "url": "https://uk.finance.yahoo.com/news/nemetscheks-etr-nem-earnings-more-083009399.html",
-    "title": "We Like Nemetschek's (ETR:NEM) Earnings For More Than Just Statutory Profit - Yahoo Finance UK",
-    "body": "We Like Nemetschek's (ETR:NEM) Earnings For More Than Just Statutory Profit Yahoo Finance UK",
-    "author": null,
-    "language": "en",
-    "ticker": "NEM",
-    "tickers_hint": [
-      "NEM"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "yahoo finance uk",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance UK",
-      "source_domain": "yahoofinanceuk.com",
-      "trust_tier": 1,
-      "relevance": 0.6,
+      "relevance": 0.5,
       "event_origin": "news",
       "query_tickers": [
         "NEM"

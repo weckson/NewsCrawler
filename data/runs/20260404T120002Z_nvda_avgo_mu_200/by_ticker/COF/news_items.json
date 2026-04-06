@@ -1,0 +1,60 @@
+[
+  {
+    "id": "d842edc8-aac7-5cc6-881e-d9dfead86316",
+    "timestamp_utc": "2026-04-02T14:10:32+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa2Y5Q1FfcjZxM1dUOTBvUW9pVzkwYllhci16WVN4R0MwMVBKeW1vWVVpX0I1WXZzTFpIb3ZSZmx0VTAwMjUzbDhXb1EyLWlTUDFMdmZNb0UzalJ1ZjZlcFA4cjlMdS1VejFSLS1GOUM3NWZ1RWdoMEJoNjZEMkh5TFM5SmlBTEYyR3lKWi03UDZyLUVDeFYxRGNGVUwzdm9KeEZUeg?oc=5",
+    "title": "Capital One Financial (COF): Billionaire Rob Citrone Continues Buying This Stock - Yahoo Finance",
+    "body": "Capital One Financial (COF): Billionaire Rob Citrone Continues Buying This Stock Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "COF",
+    "tickers_hint": [
+      "COF"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "COF"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "979bd87f-8f9a-5fc1-928a-f393e5c49783",
+    "timestamp_utc": "2026-04-03T20:56:53+00:00",
+    "source": "stocktitan.net",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMWloOFd1T3pWdmNxWm5sMlN1dm9qclVxLTJNU1ZxZ0d5SkptdkR1Q1JXWm5wYk56NmVxYzJUSEtfZmx2Nm9sdVBOaXVfOFJBWUNUWTVwZXVhMjgxS2hrMTFYQ0c3TTktV0F2MFJGNThxNThQSmFNRjNHblpTTW91R0o2Y3JBNy1UOUpjSHZ5X2NTa0I0OFJTYVlCRkJHT21OLVp2aG1PRUhsRUsxSjdPQnpwTWZrZlZ5U1FZ?oc=5",
+    "title": "Capital One (COF) banking president sells 1,692 shares via 10b5-1 plan - stocktitan.net",
+    "body": "Capital One (COF) banking president sells 1,692 shares via 10b5-1 plan stocktitan.net",
+    "author": null,
+    "language": "en",
+    "ticker": "COF",
+    "tickers_hint": [
+      "COF"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stocktitan.net",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "stocktitan.net",
+      "source_domain": "stocktitannet.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "COF"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

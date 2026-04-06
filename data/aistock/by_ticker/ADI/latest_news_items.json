@@ -1,11 +1,69 @@
 [
   {
-    "id": "d80df421-e52b-5108-af0a-46750662462b",
-    "timestamp_utc": "2026-04-01T22:34:45+00:00",
+    "id": "df740d4f-acdb-5e8f-bad6-b98067a21a5e",
+    "timestamp_utc": "2026-04-03T20:37:01+00:00",
+    "source": "investing.com",
+    "url": "https://www.investing.com/news/insider-trading-news/roche-vincent-analog-devices-chair--ceo-sells-318-million-in-stock-93CH-4597265",
+    "title": "Roche Vincent, Analog Devices chair & CEO, sells $3.18 million in stock - Investing.com",
+    "body": "Roche Vincent, Analog Devices chair & CEO, sells $3.18 million in stock Investing.com",
+    "author": null,
+    "language": "en",
+    "ticker": "ADI",
+    "tickers_hint": [
+      "ADI"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "investing.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Investing.com",
+      "source_domain": "investing.com",
+      "trust_tier": 2,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "ADI"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "7a9a7813-78ef-5906-a531-4d7da57b8b6b",
+    "timestamp_utc": "2026-04-03T22:39:54+00:00",
     "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-empirical-financial-services-llc-dba-empirical-wealth-management-lowers-stake-in-analog-devices-inc-adi-2026-04-02/",
-    "title": "Empirical Financial Services LLC d.b.a. Empirical Wealth Management Lowers Stake in Analog Devices, Inc. $ADI - MarketBeat",
-    "body": "Empirical Financial Services LLC d.b.a. Empirical Wealth Management Lowers Stake in Analog Devices, Inc. $ADI MarketBeat",
+    "url": "https://www.marketbeat.com/instant-alerts/analog-devices-nasdaqadi-ceo-sells-318140000-in-stock-2026-04-03/",
+    "title": "Analog Devices (NASDAQ:ADI) CEO Sells $3,181,400.00 in Stock - MarketBeat",
+    "body": "Analog Devices (NASDAQ:ADI) CEO Sells $3,181,400.00 in Stock MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "ADI",
+    "tickers_hint": [
+      "ADI"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.7000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "ADI"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "11fed2a0-ced3-5508-aeb8-ffecc9199377",
+    "timestamp_utc": "2026-04-04T12:06:54+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-tritonpoint-wealth-llc-cuts-stock-position-in-analog-devices-inc-adi-2026-04-04/",
+    "title": "Tritonpoint Wealth LLC Cuts Stock Position in Analog Devices, Inc. $ADI - MarketBeat",
+    "body": "Tritonpoint Wealth LLC Cuts Stock Position in Analog Devices, Inc. $ADI MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "ADI",
@@ -29,12 +87,12 @@
     "stream_type": "soft"
   },
   {
-    "id": "af39d85b-a87a-5a01-abd3-1f4c4101b0df",
-    "timestamp_utc": "2026-04-01T10:17:34+00:00",
-    "source": "stock_titan",
-    "url": "https://www.stocktitan.net/sec-filings/ADI/form-4-analog-devices-inc-insider-trading-activity-a90664de3d03.html",
-    "title": "Analog Devices (ADI) CEO has shares withheld to cover RSU taxes - Stock Titan",
-    "body": "⛶ Fullscreen SEC Form 4 FORM 4UNITED STATES SECURITIES AND EXCHANGE COMMISSIONWashington, D.C.\n\n20549STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIPFiled pursuant to Section 16(a) of the Securities Exchange Act of 1934or Section 30(h) of the Investment Company Act of 1940OMB APPROVALOMB Number:3235-0287Estimated average burdenhours per response:0.5 Check this box if no longer subject to Section 16.\n\nCheck this box to indicate that a transaction was made pursuant to a contract, instruction or written plan for the purchase or sale of equity securities of the issuer that is intended to satisfy the affirmative defense conditions of Rule 10b5-1(c).\n\nName and Address of Reporting Person*ROCHE VINCENT(Last)(First)(Middle)ONE ANALOG WAY(Street)WILMINGTON MASSACHUSETTS 01887(City)(State)(Zip)UNITED STATES(Country)2.\n\nIssuer Name and Ticker or Trading Symbol ANALOG DEVICES INC [ ADI ] 5.\n\nRelationship of Reporting Person(s) to Issuer (Check all applicable)XDirector10% OwnerXOfficer (give title below)Other (specify below)Chair & CEO2a.\n\nIndividual or Joint/Group Filing (Check Applicable Line) XForm filed by One Reporting PersonForm filed by More than One Reporting Person4.\n\nIf Amendment, Date of Original Filed (Month/Day/Year)Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned1.\n\nAmount of Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeVAmount(A) or (D)PriceComm Stock - $.16-2/3 value03/30/2026F27,027.168(1)D$303.1167,825.875DComm Stock-$.16-2/3 value23,515I(2)Vincent Roche 2024 Grantor Retained Annuity TrustTable II - Derivative Securities Acquired, Disposed of, or Beneficially Owned(e.g., puts, calls, warrants, options, convertible securities)1.\n\nNumber of Derivative Securities Acquired (A) or Disposed of (D) (Instr.\n\nTitle and Amount of Securities Underlying Derivative Security (Instr.\n\nNumber of derivative Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeV(A)(D)Date ExercisableExpiration DateTitleAmount or Number of SharesExplanation of Responses:1.\n\nRepresents shares withheld to satisfy tax withholding obligations for 55,899 Performance-Based Restricted Stock Units that vested on March 30, 2026.2.\n\nShares held by the Vincent Roche 2024 Grantor Retained Annuity Trust dated October 3, 2024.Remarks:/s/ Shelly Shaw, General Counsel, by Power of Attorney04/01/2026** Signature of Reporting PersonDateReminder: Report on a separate line for each class of securities beneficially owned directly or indirectly.* If the form is filed by more than one reporting person, see Instruction 4 (b)(v).** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C.\n\n78ff(a).Note: File three copies of this Form, one of which must be manually signed.\n\nIf space is insufficient, see Instruction 6 for procedure.Persons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB Number.* Form 4: SEC 1474 (03-26)",
+    "id": "2cbb0b20-6658-5201-84eb-9f10a0d84cb1",
+    "timestamp_utc": "2026-04-04T10:34:05+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-analog-devices-inc-adi-shares-purchased-by-thurston-springer-miller-herd-titak-inc-2026-04-04/",
+    "title": "Analog Devices, Inc. $ADI Shares Purchased by Thurston Springer Miller Herd & Titak Inc. - MarketBeat",
+    "body": "Analog Devices, Inc. $ADI Shares Purchased by Thurston Springer Miller Herd & Titak Inc. MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "ADI",
@@ -42,11 +100,40 @@
       "ADI"
     ],
     "source_quality": "low",
-    "publisher_raw": "stock titan",
+    "publisher_raw": "marketbeat.com",
     "meta": {
       "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "ADI"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "5e18d7d3-2f48-5a3d-af3d-fb9fb2934c89",
+    "timestamp_utc": "2026-04-03T20:13:27+00:00",
+    "source": "stocktitan.net",
+    "url": "https://www.stocktitan.net/sec-filings/ADI/form-4-analog-devices-inc-insider-trading-activity-860d4df55a28.html",
+    "title": "Analog Devices (ADI) CEO sells 10K shares after option exercise - stocktitan.net",
+    "body": "⛶ Fullscreen SEC Form 4 FORM 4UNITED STATES SECURITIES AND EXCHANGE COMMISSIONWashington, D.C.\n\n20549STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIPFiled pursuant to Section 16(a) of the Securities Exchange Act of 1934or Section 30(h) of the Investment Company Act of 1940OMB APPROVALOMB Number:3235-0287Estimated average burdenhours per response:0.5 Check this box if no longer subject to Section 16.\n\nSee Instruction 1(b).XCheck this box to indicate that a transaction was made pursuant to a contract, instruction or written plan for the purchase or sale of equity securities of the issuer that is intended to satisfy the affirmative defense conditions of Rule 10b5-1(c).\n\nName and Address of Reporting Person*ROCHE VINCENT(Last)(First)(Middle)ONE ANALOG WAY(Street)WILMINGTON MASSACHUSETTS 01887(City)(State)(Zip)UNITED STATES(Country)2.\n\nIssuer Name and Ticker or Trading Symbol ANALOG DEVICES INC [ ADI ] 5.\n\nRelationship of Reporting Person(s) to Issuer (Check all applicable)XDirector10% OwnerXOfficer (give title below)Other (specify below)Chair & CEO2a.\n\nIndividual or Joint/Group Filing (Check Applicable Line) XForm filed by One Reporting PersonForm filed by More than One Reporting Person4.\n\nIf Amendment, Date of Original Filed (Month/Day/Year)Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned1.\n\nAmount of Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeVAmount(A) or (D)PriceComm Stock - $.16-2/3 value04/01/2026M10,000A$94.41177,825.875DComm Stock - $.16-2/3 value04/01/2026S10,000(1)D$318.14167,825.875DComm Stock-$.16-2/3 value23,515I(2)Vincent Roche 2024 Grantor Retained Annuity TrustTable II - Derivative Securities Acquired, Disposed of, or Beneficially Owned(e.g., puts, calls, warrants, options, convertible securities)1.\n\nNumber of Derivative Securities Acquired (A) or Disposed of (D) (Instr.\n\nTitle and Amount of Securities Underlying Derivative Security (Instr.\n\nNumber of derivative Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeV(A)(D)Date ExercisableExpiration DateTitleAmount or Number of SharesNon-Qualified Stock Option (right to buy)$94.4104/01/2026M10,000 (3)03/11/2030Comm Stock - $.16-2/3 value10,000$94.4124,637DExplanation of Responses:1.\n\nThese shares were sold pursuant to a 10b5-1 plan adopted by the reporting person on May 23, 2025.2.\n\nShares held by the Vincent Roche 2024 Grantor Retained Annuity Trust dated October 3, 2024.3.\n\nThis option is fully vested.Remarks:/s/ Shelly Shaw, General Counsel, by Power of Attorney04/03/2026** Signature of Reporting PersonDateReminder: Report on a separate line for each class of securities beneficially owned directly or indirectly.* If the form is filed by more than one reporting person, see Instruction 4 (b)(v).** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C.\n\n78ff(a).Note: File three copies of this Form, one of which must be manually signed.\n\nIf space is insufficient, see Instruction 6 for procedure.Persons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB Number.* Form 4: SEC 1474 (03-26)",
+    "author": null,
+    "language": "en",
+    "ticker": "ADI",
+    "tickers_hint": [
+      "ADI"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stocktitan.net",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "stocktitan.net",
+      "source_domain": "stocktitannet.com",
       "trust_tier": 1,
       "relevance": 0.6500000000000001,
       "event_origin": "news",
@@ -58,12 +145,12 @@
     "stream_type": "soft"
   },
   {
-    "id": "1047b522-dd47-5b3d-9333-e603c03eb3fb",
-    "timestamp_utc": "2026-04-01T01:27:07+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-gunderson-capital-management-inc-acquires-shares-of-7750-analog-devices-inc-adi-2026-04-01/",
-    "title": "Gunderson Capital Management Inc. Acquires Shares of 7,750 Analog Devices, Inc. $ADI - MarketBeat",
-    "body": "Gunderson Capital Management Inc. Acquires Shares of 7,750 Analog Devices, Inc. $ADI MarketBeat",
+    "id": "6570b92c-a2bb-53f3-ad4a-ceb226772b86",
+    "timestamp_utc": "2026-04-03T19:07:26+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94WFJSN0tlTVNOZ2dEeEFkN3g1X2lsWXFmVk42Sng0MHJCZEVMSFpVR1BUUVJYOGhxaEZoWEpHSnM4UXJuY1NfWmk5Wk9DaExWbWtuTVNyWFVWOTF5US1DaDhWcXc?oc=5",
+    "title": "ANALOG DEVICES INC. R (ANL.DE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "body": "ANALOG DEVICES INC. R (ANL.DE) Stock Price, News, Quote & History Yahoo! Finance Canada",
     "author": null,
     "language": "en",
     "ticker": "ADI",
@@ -71,187 +158,13 @@
       "ADI"
     ],
     "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
+    "publisher_raw": "yahoo! finance canada",
     "meta": {
       "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
       "trust_tier": 1,
-      "relevance": 0.6500000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "ADI"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "02b744ee-11af-527e-a306-f059012e9a6a",
-    "timestamp_utc": "2026-04-01T00:44:42+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-nisa-investment-advisors-llc-boosts-stock-position-in-analog-devices-inc-adi-2026-04-01/",
-    "title": "Nisa Investment Advisors LLC Boosts Stock Position in Analog Devices, Inc. $ADI - MarketBeat",
-    "body": "Nisa Investment Advisors LLC Boosts Stock Position in Analog Devices, Inc. $ADI MarketBeat",
-    "author": null,
-    "language": "en",
-    "ticker": "ADI",
-    "tickers_hint": [
-      "ADI"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.6500000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "ADI"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "132a7ecf-5b06-5f3f-8d1e-63e16cca077c",
-    "timestamp_utc": "2026-04-01T10:18:07+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTlNWVkJ4OVZsdWpKQ0g0S0xlU2x1MnNFU3pmSDhlcnUwdkVmOXVvTmZKUTExYk55eklBQUM5SUhUMFE1a0hxaUlFXzl5YWpmOHRTcm9ISW10Tlhmd0ZJUFZNYzRvZkNpeXBoSkc4RDZLOWprWkdvRGdoaERJbk5aTXpIQXpINHBxREpvTUZnOEhMQ0UyaUw0c0dXa0hzRHAtalFjQXdDUndkQzZvWGF0Sg?oc=5",
-    "title": "Analog Devices (NASDAQ: ADI) CAO reports tax withholding on vested performance RSUs - Stock Titan",
-    "body": "Analog Devices (NASDAQ: ADI) CAO reports tax withholding on vested performance RSUs Stock Titan",
-    "author": null,
-    "language": "en",
-    "ticker": "ADI",
-    "tickers_hint": [
-      "ADI"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.6000000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "ADI"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "07bc927a-87cb-59e9-aec7-a7ffb511f443",
-    "timestamp_utc": "2026-04-01T10:16:42+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWh5dW9QX0Q5Y3YtdS1FUG03YnFOWTVlcGRaOXdOV1lYbEpPZm5nbnpXS240TUlfVENxTmF0VjZxWE9pbzMxQnFSOEgtV1dJRkx2MWxMdWw3ZFpHcUR3ZnMwTERrazdIeDE3NTRnQVkzbjRnV1J0SWQ3eHZSelI0LTMyOHQ3RzVyYVR0VVZzWl9RYUFBeHlLS3Jpamdfb3BXdmtNTkVJUEdnc1FpVzEweg?oc=5",
-    "title": "Analog Devices (ADI) SVP settles RSU taxes with 120.901 shares withheld - Stock Titan",
-    "body": "Analog Devices (ADI) SVP settles RSU taxes with 120.901 shares withheld Stock Titan",
-    "author": null,
-    "language": "en",
-    "ticker": "ADI",
-    "tickers_hint": [
-      "ADI"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.6000000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "ADI"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "f960d6db-a170-54df-ae59-fc261d9888b5",
-    "timestamp_utc": "2026-04-01T10:16:09+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSHhMT2d5VU1yVlNzdTlkWVdXYnlRMnllWGljYzAyclZMMEc3a0VQcFozbzZDVEkwd3RhY3FBVzNicE4yVzdMVmtwOW01LW54NGFXcEh3UGRnX1E5V1k0OEdCbVR1SUQwa3R1cURmd0NEU0ZBekhlNTg4T1ZPaVUyYmlJRlkzZU5jR01YSWp5T0ZOb01nVWNNYU5fMUJHV3lpdGdUOHFmUVFGRTJ0RHFMQw?oc=5",
-    "title": "Analog Devices (NASDAQ: ADI) EVP withholds shares to cover RSU taxes - Stock Titan",
-    "body": "Analog Devices (NASDAQ: ADI) EVP withholds shares to cover RSU taxes Stock Titan",
-    "author": null,
-    "language": "en",
-    "ticker": "ADI",
-    "tickers_hint": [
-      "ADI"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.6000000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "ADI"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "48e62093-6b52-5d1a-ae2b-34bed38af89e",
-    "timestamp_utc": "2026-04-01T10:15:31+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRm9vNXpGRDMxRTkxMGxWNUhkQTh1OWVJampfaUMzbEUyamFLVG5GeFp4NVllTjRoRmRNaUNldFZVZjhsMlJQQ1Y0bS1BTTNPcE93amYyZHo0ZmtLR2VkU2tzWUxLcGNnYnNHTktYUDYxb0tSMmRkUXNLdkoxUXAyVFJMTmZXYm9TZTFBV3g3X1dXeC1fWFVfeVNuNWtGeWF3dC1CWWk1NWtQQnFMeGN4Ng?oc=5",
-    "title": "Analog Devices (NASDAQ: ADI) SVP has 3,880 shares withheld for taxes - Stock Titan",
-    "body": "Analog Devices (NASDAQ: ADI) SVP has 3,880 shares withheld for taxes Stock Titan",
-    "author": null,
-    "language": "en",
-    "ticker": "ADI",
-    "tickers_hint": [
-      "ADI"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.6000000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "ADI"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "22f1bb21-ffa6-5ec1-a77f-9561c9b0b0a6",
-    "timestamp_utc": "2026-04-01T05:22:13+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYmxuSEJrUjNqNlpKVVZ4bnJiMkh3NU1fVW1DY2V2RGgzblVqMmVDUzJnZk92cFc5WVhYM21IT3ZLdl9UZU8zYlRPSGxUQ0RzcUU0azFOcnZQdEFJWTdGdVNFbzhudFhXY1RNS2FpOGJObWtaYnhPejJSNjY0RzdJTDZOSlowcjA1T0pIdmtCRlNkU0YxY1dhWnpR?oc=5",
-    "title": "ADI (NASDAQ: ADI) insider plans 10,000-share sale; prior Roche sales listed - Stock Titan",
-    "body": "ADI (NASDAQ: ADI) insider plans 10,000-share sale; prior Roche sales listed Stock Titan",
-    "author": null,
-    "language": "en",
-    "ticker": "ADI",
-    "tickers_hint": [
-      "ADI"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.6000000000000001,
+      "relevance": 0.5,
       "event_origin": "news",
       "query_tickers": [
         "ADI"

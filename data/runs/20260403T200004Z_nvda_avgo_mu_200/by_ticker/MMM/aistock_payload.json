@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "412d1c76-2ca8-50d7-a38f-cef87cbde334",
+      "timestamp_utc": "2026-04-02T06:22:30+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765793/3m-mmm-analyst-rating-update-barclays-lowers-price-target-mmm-stock-news?mobile=true",
+      "title": "3M (MMM) Analyst Rating Update: Barclays Lowers Price Target | M - GuruFocus",
+      "body": "3M (MMM) Analyst Rating Update: Barclays Lowers Price Target | M GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "MMM",
+      "tickers_hint": [
+        "MMM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "MMM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5f977841-3d67-5773-bf7a-6ca8a2b81b62",
+      "timestamp_utc": "2026-04-01T21:33:57+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765558/3m-mmm-wells-fargo-maintains-rating-but-lowers-price-target-mmm-stock-news?mobile=true",
+      "title": "3M (MMM): Wells Fargo Maintains Rating but Lowers Price Target | - GuruFocus",
+      "body": "3M (MMM): Wells Fargo Maintains Rating but Lowers Price Target | GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "MMM",
+      "tickers_hint": [
+        "MMM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "MMM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0f5c74cf-c597-5212-b8b3-94c6c2838c76",
+      "timestamp_utc": "2026-04-02T20:06:31+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2FCLURuMnphUDIzdG9mckVORlhVOEpYVVEtNVdtUTVGdzhrRUU4NXd0ZExtM3dqcmhuTkhBTUZsbFZldFE1dnRVZThiWlNmcUhtaTZ1N09Qakh2Y1QyeGxqbTVMR1Z6eERzVWFlLTEyME9LNmUzQTRJR0hrMGZCdGZlcTVXNEJWWGJETjZlWmpscmVTRTBvaUxPdmFCNWM?oc=5",
+      "title": "3M (NYSE: MMM) HR chief exercises 984 RSUs, 449 shares withheld - Stock Titan",
+      "body": "3M (NYSE: MMM) HR chief exercises 984 RSUs, 449 shares withheld Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "MMM",
+      "tickers_hint": [
+        "MMM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MMM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "412d1c76-2ca8-50d7-a38f-cef87cbde334",
+      "timestamp_utc": "2026-04-02T06:22:30+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765793/3m-mmm-analyst-rating-update-barclays-lowers-price-target-mmm-stock-news?mobile=true",
+      "title": "3M (MMM) Analyst Rating Update: Barclays Lowers Price Target | M - GuruFocus",
+      "body": "3M (MMM) Analyst Rating Update: Barclays Lowers Price Target | M GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "MMM",
+      "tickers_hint": [
+        "MMM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "MMM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5f977841-3d67-5773-bf7a-6ca8a2b81b62",
+      "timestamp_utc": "2026-04-01T21:33:57+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8765558/3m-mmm-wells-fargo-maintains-rating-but-lowers-price-target-mmm-stock-news?mobile=true",
+      "title": "3M (MMM): Wells Fargo Maintains Rating but Lowers Price Target | - GuruFocus",
+      "body": "3M (MMM): Wells Fargo Maintains Rating but Lowers Price Target | GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "MMM",
+      "tickers_hint": [
+        "MMM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "MMM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0f5c74cf-c597-5212-b8b3-94c6c2838c76",
+      "timestamp_utc": "2026-04-02T20:06:31+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2FCLURuMnphUDIzdG9mckVORlhVOEpYVVEtNVdtUTVGdzhrRUU4NXd0ZExtM3dqcmhuTkhBTUZsbFZldFE1dnRVZThiWlNmcUhtaTZ1N09Qakh2Y1QyeGxqbTVMR1Z6eERzVWFlLTEyME9LNmUzQTRJR0hrMGZCdGZlcTVXNEJWWGJETjZlWmpscmVTRTBvaUxPdmFCNWM?oc=5",
+      "title": "3M (NYSE: MMM) HR chief exercises 984 RSUs, 449 shares withheld - Stock Titan",
+      "body": "3M (NYSE: MMM) HR chief exercises 984 RSUs, 449 shares withheld Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "MMM",
+      "tickers_hint": [
+        "MMM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MMM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

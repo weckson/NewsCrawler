@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "c1fb267c-fbf3-5f85-8721-b8f626fd4d2a",
+      "timestamp_utc": "2026-04-03T09:46:50+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/why-arch-capital-acgl-is-poised-to-beat-earnings-estimates-again/ar-AA2013I7",
+      "title": "Why Arch Capital (ACGL) is poised to beat earnings estimates again - MSN",
+      "body": "Why Arch Capital (ACGL) is poised to beat earnings estimates again MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "ACGL",
+      "tickers_hint": [
+        "ACGL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "ACGL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "c1fb267c-fbf3-5f85-8721-b8f626fd4d2a",
+      "timestamp_utc": "2026-04-03T09:46:50+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/why-arch-capital-acgl-is-poised-to-beat-earnings-estimates-again/ar-AA2013I7",
+      "title": "Why Arch Capital (ACGL) is poised to beat earnings estimates again - MSN",
+      "body": "Why Arch Capital (ACGL) is poised to beat earnings estimates again MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "ACGL",
+      "tickers_hint": [
+        "ACGL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "ACGL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

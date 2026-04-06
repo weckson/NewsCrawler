@@ -1,0 +1,31 @@
+[
+  {
+    "id": "98c450cc-9be7-5491-a72e-c47a952a8b3d",
+    "timestamp_utc": "2026-04-04T18:22:56+00:00",
+    "source": "yahoo_finance_australia",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MVHphY3ZDcERvTng1WXpiYnRKZ1VHTFh0X21MRkg1U29Da0hMU2pLaHE0Z2gwTm84WGJ0X0ZBR1AzT2hEYUFkX3A3VHNqN1Fma2ZjeHlCUktQc0JMb1pZ?oc=5",
+    "title": "The Kroger Co. (KR) stock price, news, quote and history - Yahoo Finance Australia",
+    "body": "The Kroger Co. (KR) stock price, news, quote and history Yahoo Finance Australia",
+    "author": null,
+    "language": "en",
+    "ticker": "KR",
+    "tickers_hint": [
+      "KR"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo finance australia",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance Australia",
+      "source_domain": "yahoofinanceaustralia.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "KR"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

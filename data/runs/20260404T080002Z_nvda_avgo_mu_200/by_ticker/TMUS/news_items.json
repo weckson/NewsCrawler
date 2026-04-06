@@ -1,0 +1,31 @@
+[
+  {
+    "id": "8ee4ce30-972d-52a1-9277-082df8941535",
+    "timestamp_utc": "2026-04-02T19:21:55+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xbXBjVzdmeUxVNkVFM0VkeXIwNkZzSlU1dGxVV2VQTTcyUFJQNlJjb0FSOGtyeUFNdzhpRXluNmFpT2wxejB3SktVcjJRLXMxRE8teExiUkc4UGVlTWJvb1Fmd0UwUQ?oc=5",
+    "title": "TMUS Apr 2026 200.000 put (TMUS260417P00200000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "body": "TMUS Apr 2026 200.000 put (TMUS260417P00200000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "author": null,
+    "language": "en",
+    "ticker": "TMUS",
+    "tickers_hint": [
+      "TMUS"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo! finance canada",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "TMUS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "1cd1f040-fb3f-5197-9ade-78d30acbaef8",
+    "timestamp_utc": "2026-04-03T01:24:45+00:00",
+    "source": "investing.com",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmdRX0VyRTdGb1dLdk9KcGNnUmNjaFJWSkF0Z2pfYXpFMU54TWs0bFBDVXRMek9vcFRMdXRVZ2U5WXBQa3p3T2JYcm8zRzhheFpRRVBLZ3ZzYk11aFctSllhcV9YYUM0cnNrX3F2Mm9PNjlROHlOSXNRV1ByU05PZk1DbDFLeFBWdF9Od2JjZkxGVjdVNEFTT21iTXZQSmR0UEZBZmZzSnR1YV9fa3dJ?oc=5",
+    "title": "Realty income EVP Bushore sells $461k in stock - investing.com",
+    "body": "Realty income EVP Bushore sells $461k in stock investing.com",
+    "author": null,
+    "language": "en",
+    "ticker": "O",
+    "tickers_hint": [
+      "O"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "investing.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "investing.com",
+      "source_domain": "investing.com",
+      "trust_tier": 2,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "O"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "2486041b-0962-541a-a045-bad76cedf686",
+    "timestamp_utc": "2026-04-03T20:54:27+00:00",
+    "source": "yahoo_finance_singapore",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yRWRDd3Z2X0hteUpMSUFTd1JSWlk5dGtQTzV0aGpIXzRSQzZ3SkVXNGNnR3d4QmxLWVhQaEpXNTRWc2VwSmlyQXUyNWpOejlycFhVNw?oc=5",
+    "title": "Realty Income Corporation (O) latest stock news and headlines - Yahoo Finance Singapore",
+    "body": "Realty Income Corporation (O) latest stock news and headlines Yahoo Finance Singapore",
+    "author": null,
+    "language": "en",
+    "ticker": "O",
+    "tickers_hint": [
+      "O"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo finance singapore",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance Singapore",
+      "source_domain": "yahoofinancesingapore.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "O"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

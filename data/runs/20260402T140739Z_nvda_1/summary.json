@@ -1,0 +1,27 @@
+{
+  "run_label": "NVDA",
+  "ticker_codes": [
+    "NVDA"
+  ],
+  "hours": 1,
+  "raw_count": 425,
+  "filtered_count": 0,
+  "news_item_count": 0,
+  "db_write_count": 0,
+  "benzinga_count": 0,
+  "channel_stats": {
+    "benzinga_rss": 25,
+    "google_benzinga": 200,
+    "google_broad": 200
+  },
+  "per_ticker_stats": {},
+  "artifacts": {
+    "raw_articles": "raw_articles.json",
+    "filtered_articles": "filtered_articles.json",
+    "news_items": "news_items.json",
+    "aistock_payload": "aistock_payload.json",
+    "by_ticker": "by_ticker/",
+    "report": "report.txt",
+    "log": "run.log"
+  }
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "0961e913-7fa8-51bb-9add-2183341507a5",
+    "timestamp_utc": "2026-04-04T05:17:08+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/estee-lauder-companies-nyseel-rating-lowered-to-hold-at-wall-street-zen-2026-04-04/",
+    "title": "Estee Lauder Companies (NYSE:EL) Rating Lowered to \"Hold\" at Wall Street Zen - MarketBeat",
+    "body": "Estee Lauder Companies (NYSE:EL) Rating Lowered to \"Hold\" at Wall Street Zen MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "EL",
+    "tickers_hint": [
+      "EL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.7500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "EL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

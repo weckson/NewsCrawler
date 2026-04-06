@@ -1,11 +1,11 @@
 [
   {
-    "id": "7743697b-2ec5-5cc4-b6f8-c8aa5abf5833",
-    "timestamp_utc": "2026-04-01T00:00:16+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-roper-technologies-inc-rop-shares-acquired-by-rockland-trust-co-2026-04-01/",
-    "title": "Roper Technologies, Inc. $ROP Shares Acquired by Rockland Trust Co. - MarketBeat",
-    "body": "Roper Technologies, Inc. $ROP Shares Acquired by Rockland Trust Co. MarketBeat",
+    "id": "75e05edd-89e8-508d-a774-fc8747df1f48",
+    "timestamp_utc": "2026-04-04T21:10:20+00:00",
+    "source": "intellectia_ai",
+    "url": "https://intellectia.ai/en/stock/ROP/earnings",
+    "title": "ROP Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+    "body": "ROP Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
     "author": null,
     "language": "en",
     "ticker": "ROP",
@@ -13,13 +13,13 @@
       "ROP"
     ],
     "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
+    "publisher_raw": "intellectia ai",
     "meta": {
       "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
+      "source_name": "Intellectia AI",
+      "source_domain": "intellectiaai.com",
       "trust_tier": 1,
-      "relevance": 0.55,
+      "relevance": 0.5,
       "event_origin": "news",
       "query_tickers": [
         "ROP"

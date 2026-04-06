@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "4cbde442-8784-526f-9e77-c864e7f6c53b",
+      "timestamp_utc": "2026-04-04T14:15:59+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/TRV/earnings",
+      "title": "TRV Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "TRV Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "TRV",
+      "tickers_hint": [
+        "TRV"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TRV"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "4cbde442-8784-526f-9e77-c864e7f6c53b",
+      "timestamp_utc": "2026-04-04T14:15:59+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/TRV/earnings",
+      "title": "TRV Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+      "body": "TRV Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "TRV",
+      "tickers_hint": [
+        "TRV"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TRV"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

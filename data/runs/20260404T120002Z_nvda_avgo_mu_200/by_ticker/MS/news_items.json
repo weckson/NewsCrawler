@@ -1,0 +1,31 @@
+[
+  {
+    "id": "eb2b5c82-585f-571f-9076-5cde4c4aa52e",
+    "timestamp_utc": "2026-04-02T16:10:02+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-ms-beat-estimates-161002057.html",
+    "title": "Will Morgan Stanley (MS) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
+    "body": "Will Morgan Stanley (MS) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "MS",
+    "tickers_hint": [
+      "MS"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "trust_tier": 3,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "MS"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

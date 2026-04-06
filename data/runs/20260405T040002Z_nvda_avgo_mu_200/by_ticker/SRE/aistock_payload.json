@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "9b3f5db2-caa5-5267-b9b1-d045593d7c4a",
+      "timestamp_utc": "2026-04-04T16:17:42+00:00",
+      "source": "yahoo_finance_australia",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ldzROTFJuMm5UUk1HbTdwVl9KZDNvT2w2N3o1eGhjLWNBcUt0aGZ2a2VCUlpIOGJXcU9wOTAzVHBtZ1hLMVlKRUlNc0NWOGpp?oc=5",
+      "title": "Sempra (SRE) stock price, news, quote and history - Yahoo Finance Australia",
+      "body": "Sempra (SRE) stock price, news, quote and history Yahoo Finance Australia",
+      "author": null,
+      "language": "en",
+      "ticker": "SRE",
+      "tickers_hint": [
+        "SRE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance australia",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Australia",
+        "source_domain": "yahoofinanceaustralia.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "SRE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "9b3f5db2-caa5-5267-b9b1-d045593d7c4a",
+      "timestamp_utc": "2026-04-04T16:17:42+00:00",
+      "source": "yahoo_finance_australia",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ldzROTFJuMm5UUk1HbTdwVl9KZDNvT2w2N3o1eGhjLWNBcUt0aGZ2a2VCUlpIOGJXcU9wOTAzVHBtZ1hLMVlKRUlNc0NWOGpp?oc=5",
+      "title": "Sempra (SRE) stock price, news, quote and history - Yahoo Finance Australia",
+      "body": "Sempra (SRE) stock price, news, quote and history Yahoo Finance Australia",
+      "author": null,
+      "language": "en",
+      "ticker": "SRE",
+      "tickers_hint": [
+        "SRE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance australia",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Australia",
+        "source_domain": "yahoofinanceaustralia.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "SRE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

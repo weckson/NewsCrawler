@@ -1,0 +1,31 @@
+[
+  {
+    "id": "0913c298-1326-5f34-a6ca-b48f147d1593",
+    "timestamp_utc": "2026-04-03T22:16:46+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KTzVUTkItRW5MeEJKMk05ODlsLXVTSVNqVFFyN2V1NWJnTUtoMEgtRGF2c3padFRJTzR5MVY2MWJsbTV4LTJIdWEyV2s5ZE1xSGR5RnM1ZENPcFFOM0I2YU93?oc=5",
+    "title": "Garmin Ltd. (GRMN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "body": "Garmin Ltd. (GRMN) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "author": null,
+    "language": "en",
+    "ticker": "GRMN",
+    "tickers_hint": [
+      "GRMN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo! finance canada",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "GRMN"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

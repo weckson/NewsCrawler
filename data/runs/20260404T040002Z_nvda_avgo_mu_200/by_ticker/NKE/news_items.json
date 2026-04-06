@@ -1,0 +1,92 @@
+[
+  {
+    "id": "98233276-f4d2-5def-90fe-d261ef5c62f3",
+    "timestamp_utc": "2026-04-02T14:43:04+00:00",
+    "source": "benzinga",
+    "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/04/51627838/stock-of-the-day-will-nike-remember-what-to-do",
+    "title": "Nike Technical Analysis: Will NKE Remember What To Do? - Nike (NYSE:NKE) - Benzinga",
+    "body": "Nike Technical Analysis: Will NKE Remember What To Do? - Nike (NYSE:NKE) Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "NKE",
+    "tickers_hint": [
+      "NKE"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "meta": {
+      "channel": "google_benzinga",
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
+      "trust_tier": 3,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "NKE"
+      ],
+      "alt_sources": [
+        "Benzinga"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "91d94271-4bef-5f58-8e3b-530a69358f68",
+    "timestamp_utc": "2026-04-02T20:37:30+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8769041/nke-downgraded-by-goldman-sachs-target-price-lowered-to-52-nke-stock-news",
+    "title": "NKE Downgraded by Goldman Sachs, Target Price Lowered to $52 | N - GuruFocus",
+    "body": "NKE Downgraded by Goldman Sachs, Target Price Lowered to $52 | N GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "NKE",
+    "tickers_hint": [
+      "NKE"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "NKE"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "049bcab2-c421-5a90-83f4-8ed83b50f532",
+    "timestamp_utc": "2026-04-02T13:45:31+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/china-renaissance-issues-pessimistic-forecast-for-nike-nysenke-stock-price-2026-04-02/",
+    "title": "China Renaissance Issues Pessimistic Forecast for NIKE (NYSE:NKE) Stock Price - MarketBeat",
+    "body": "China Renaissance Issues Pessimistic Forecast for NIKE (NYSE:NKE) Stock Price MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "NKE",
+    "tickers_hint": [
+      "NKE"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "NKE"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "a1620489-efeb-5721-8fb0-522437cfe3d8",
+    "timestamp_utc": "2026-04-02T04:25:49+00:00",
+    "source": "benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc1dPZjJpc0hXVTZOU1o0NV93RFJtNVNtY1lFXzVra3dYT1hPNlBCQVVNYU1mRjVacmdCTXFrZ2xnMk5sdV9RVnUzbzBlNEJSQTVWQjRLM0VMWlpGX2laeEhJYmptT0RkNXFSMzFVZzBRMTR3YW9nc1JOQTJLTnpoNl8ybXhBVnp3TWQzR05PTVByTUZMVkFydVJjdW5Fa3RpNUlBRS16aTl6Q3NyeDFXdUt0S29YMXlRdFgyVmdadng4b29pdUJwMUw1cw?oc=5",
+    "title": "AFL and Inligo Partner to Advance Fibre Manufacturing for Unite Cable System - Benzinga - Benzinga",
+    "body": "AFL and Inligo Partner to Advance Fibre Manufacturing for Unite Cable System - Benzinga Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "AFL",
+    "tickers_hint": [
+      "AFL"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "meta": {
+      "channel": "google_benzinga",
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "AFL"
+      ],
+      "alt_sources": [
+        "Benzinga"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "4e1aa204-bc9f-514b-b2f1-6c2a5e927f73",
+    "timestamp_utc": "2026-04-03T00:07:15+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPOG16R3FIZFRaMFkyODVLWEd4MHhDdGZGSWZMWUlyWnVzdnRoeVMzMWpkZUJTNWthQ2FMTmExVE4wVkVid0FmclpjS2lDdURwM1ZIazdUT0N3aGlTWVhvNDVBWHc?oc=5",
+    "title": "AFL SEC Filings - Aflac Inc 10-K, 10-Q, 8-K Forms - Stock Titan",
+    "body": "AFL SEC Filings - Aflac Inc 10-K, 10-Q, 8-K Forms Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "AFL",
+    "tickers_hint": [
+      "AFL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "AFL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "65505b92-d39e-53ed-88d1-44e4b012c30f",
+    "timestamp_utc": "2026-04-01T13:36:12+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNamg1MWFDYmtxdGdlckxkd0xZTDBrM1ROeC1BX3Q0M2lEazcySWllb3ZINUFDUG4yYmV3aHJoamdqb3JOTVVEZjViRS0yU043bDVXNlN3TElLUzkyeks4T3BQRzBXX2ZpczZjTVFvNHJZZXlwQjU5V1puWmV0M0dSX0VZWVYtLXhfWW5ObjdVM2NFTVFGX2JGSGN5UzJFNG9qM0pCaQ?oc=5",
+    "title": "Japan Post (NYSE: AFL) trims AFLAC stake with 14,700-share sale - Stock Titan",
+    "body": "Japan Post (NYSE: AFL) trims AFLAC stake with 14,700-share sale Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "AFL",
+    "tickers_hint": [
+      "AFL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "AFL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

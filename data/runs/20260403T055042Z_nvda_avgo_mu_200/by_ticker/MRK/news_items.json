@@ -1,0 +1,92 @@
+[
+  {
+    "id": "b6433ee8-d423-534b-91cb-c884c14b54de",
+    "timestamp_utc": "2026-04-01T13:26:24+00:00",
+    "source": "benzinga",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSjYwWFpnSGtJcjlGZzgyV2lqTF9DNmNGMEZqek5xY2MzX0lodTk5cFBBS1daa216eWVCZzBDcGY3T0dRMDlUS3puNHRMRDZmNVVoYnhwMGlqUmhhOFZYdUQwNjZsRlc2aEdJOEFJa2pyOVd4NTB5XzRZMG1XUG1mdjhXQmpkUUJaZ1MySXVBWjZkdnl1VkE1ZjhwODd3emhJOGU4TUtxdklfaWhOQ29zRDVZeEV3QzVTMC1sREVR?oc=5",
+    "title": "What's Going On With Merck Stock Wednesday? - Merck & Co (NYSE:MRK) - Benzinga",
+    "body": "What's Going On With Merck Stock Wednesday? - Merck & Co (NYSE:MRK) Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "MRK",
+    "tickers_hint": [
+      "MRK"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "meta": {
+      "channel": "google_benzinga",
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "MRK"
+      ],
+      "alt_sources": [
+        "Benzinga"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "a4ca1d12-ae38-5f9a-8c7c-5a6bb512726e",
+    "timestamp_utc": "2026-04-02T08:36:44+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-merck-co-inc-mrk-shares-purchased-by-compagnie-lombard-odier-scma-2026-04-02/",
+    "title": "Merck & Co., Inc. $MRK Shares Purchased by Compagnie Lombard Odier SCmA - MarketBeat",
+    "body": "Merck & Co., Inc. $MRK Shares Purchased by Compagnie Lombard Odier SCmA MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "MRK",
+    "tickers_hint": [
+      "MRK"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "MRK"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "be4c4975-61aa-53fb-a37e-967d8a5fb92d",
+    "timestamp_utc": "2026-04-01T10:28:40+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-merck-co-inc-mrk-shares-bought-by-moody-lynn-lieberson-llc-2026-04-01/",
+    "title": "Merck & Co., Inc. $MRK Shares Bought by Moody Lynn & Lieberson LLC - MarketBeat",
+    "body": "Merck & Co., Inc. $MRK Shares Bought by Moody Lynn & Lieberson LLC MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "MRK",
+    "tickers_hint": [
+      "MRK"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "MRK"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

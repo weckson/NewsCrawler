@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "16b674c5-746d-5b6d-ad57-be914e4c33c6",
+      "timestamp_utc": "2026-04-03T20:53:26+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFYTRVelgwa2ZQQ1NhLTZZS3ZnbEl1VklRV01hVXFqQ3JzSnJRaWRoNS1sX3NLM25FUjVzanRoTHRWcGdCSjNNLUV5djkyU1d1Z3VtNWZEbzNBX293WHY2VWdoeEk?oc=5",
+      "title": "WMB Apr 2026 86.000 call (WMB260417C00086000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "WMB Apr 2026 86.000 call (WMB260417C00086000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "WMB",
+      "tickers_hint": [
+        "WMB"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WMB"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "4d5c4ef3-fd79-5759-8fd9-9d7c5036bed4",
+      "timestamp_utc": "2026-04-02T16:29:34+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMDU0SnFsWHJVblZLekZZaFJiX2xUcDlDV0JCNW1OSE1TdjVwVk83aU5HX3lCMHZsWl9iTUJWU0JoYXpEZmQ3cENGQWd3aTl6LVpYV1hvU3pFOGpOUmF0MUhNcndWQ3I2bGpIOGJzNEhvRW9tQ083YnBaY09HRHFmTnhveXk1eE1ncXZISksyWDJ1d1I5ai1vRUZpSnR6TnVfTERRek1uRU5VVlIyeGV0bWNpNzA2UQ?oc=5",
+      "title": "Williams Companies (NYSE: WMB) SVP sells 2,000 shares via 10b5-1 plan - Stock Titan",
+      "body": "Williams Companies (NYSE: WMB) SVP sells 2,000 shares via 10b5-1 plan Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "WMB",
+      "tickers_hint": [
+        "WMB"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WMB"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "16b674c5-746d-5b6d-ad57-be914e4c33c6",
+      "timestamp_utc": "2026-04-03T20:53:26+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFYTRVelgwa2ZQQ1NhLTZZS3ZnbEl1VklRV01hVXFqQ3JzSnJRaWRoNS1sX3NLM25FUjVzanRoTHRWcGdCSjNNLUV5djkyU1d1Z3VtNWZEbzNBX293WHY2VWdoeEk?oc=5",
+      "title": "WMB Apr 2026 86.000 call (WMB260417C00086000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "WMB Apr 2026 86.000 call (WMB260417C00086000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "WMB",
+      "tickers_hint": [
+        "WMB"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WMB"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "4d5c4ef3-fd79-5759-8fd9-9d7c5036bed4",
+      "timestamp_utc": "2026-04-02T16:29:34+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMDU0SnFsWHJVblZLekZZaFJiX2xUcDlDV0JCNW1OSE1TdjVwVk83aU5HX3lCMHZsWl9iTUJWU0JoYXpEZmQ3cENGQWd3aTl6LVpYV1hvU3pFOGpOUmF0MUhNcndWQ3I2bGpIOGJzNEhvRW9tQ083YnBaY09HRHFmTnhveXk1eE1ncXZISksyWDJ1d1I5ai1vRUZpSnR6TnVfTERRek1uRU5VVlIyeGV0bWNpNzA2UQ?oc=5",
+      "title": "Williams Companies (NYSE: WMB) SVP sells 2,000 shares via 10b5-1 plan - Stock Titan",
+      "body": "Williams Companies (NYSE: WMB) SVP sells 2,000 shares via 10b5-1 plan Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "WMB",
+      "tickers_hint": [
+        "WMB"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "WMB"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "8659e62b-3892-5061-8239-3310304337b5",
+      "timestamp_utc": "2026-04-02T19:42:00+00:00",
+      "source": "the_globe_and_mail",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcFpvUEp6NDZMMW1LRnpkNmdQVDVuQjBKcGhqdDYtcVE3VEVQQXlSUV9velRXOEZRSThYWEx2SGFadkdDY2h2TlIzLTRiOVQtOVlEVUZELW5pQjhycWEzN0xwdUdwYURDUzdiUnFCSmtTSl90VXB1NzlWcUdBMWVReEtmaktZTzRvOFoxRS1KbWNmOV9ma2NET0dwdGRVa3ptY3ZlSnJibFljZ3BMMVAwc1NmRVRrX05ocENXSVZITEQ2R3R1X2Z5MXVfX0IwLVNzbExhYXFwbXlNa3U1X2c?oc=5",
+      "title": "TDG Gold Extends 4300 Zone Discovery Beneath Historic Anyox Mine - The Globe and Mail",
+      "body": "TDG Gold Extends 4300 Zone Discovery Beneath Historic Anyox Mine The Globe and Mail",
+      "author": null,
+      "language": "en",
+      "ticker": "TDG",
+      "tickers_hint": [
+        "TDG"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "theglobeandmail.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Globe and Mail",
+        "source_domain": "theglobeandmail.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TDG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "8659e62b-3892-5061-8239-3310304337b5",
+      "timestamp_utc": "2026-04-02T19:42:00+00:00",
+      "source": "the_globe_and_mail",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcFpvUEp6NDZMMW1LRnpkNmdQVDVuQjBKcGhqdDYtcVE3VEVQQXlSUV9velRXOEZRSThYWEx2SGFadkdDY2h2TlIzLTRiOVQtOVlEVUZELW5pQjhycWEzN0xwdUdwYURDUzdiUnFCSmtTSl90VXB1NzlWcUdBMWVReEtmaktZTzRvOFoxRS1KbWNmOV9ma2NET0dwdGRVa3ptY3ZlSnJibFljZ3BMMVAwc1NmRVRrX05ocENXSVZITEQ2R3R1X2Z5MXVfX0IwLVNzbExhYXFwbXlNa3U1X2c?oc=5",
+      "title": "TDG Gold Extends 4300 Zone Discovery Beneath Historic Anyox Mine - The Globe and Mail",
+      "body": "TDG Gold Extends 4300 Zone Discovery Beneath Historic Anyox Mine The Globe and Mail",
+      "author": null,
+      "language": "en",
+      "ticker": "TDG",
+      "tickers_hint": [
+        "TDG"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "theglobeandmail.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Globe and Mail",
+        "source_domain": "theglobeandmail.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TDG"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "762c39f6-8de6-5310-acd6-21cbf097af13",
+      "timestamp_utc": "2026-04-04T06:17:30+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/3m-nysemmm-stock-unloaded-sen-tina-smith-2026-04-04/",
+      "title": "3M (NYSE:MMM) Stock Unloaded Sen. Tina Smith - MarketBeat",
+      "body": "3M (NYSE:MMM) Stock Unloaded Sen. Tina Smith MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MMM",
+      "tickers_hint": [
+        "MMM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MMM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0f5c74cf-c597-5212-b8b3-94c6c2838c76",
+      "timestamp_utc": "2026-04-02T20:06:31+00:00",
+      "source": "stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2FCLURuMnphUDIzdG9mckVORlhVOEpYVVEtNVdtUTVGdzhrRUU4NXd0ZExtM3dqcmhuTkhBTUZsbFZldFE1dnRVZThiWlNmcUhtaTZ1N09Qakh2Y1QyeGxqbTVMR1Z6eERzVWFlLTEyME9LNmUzQTRJR0hrMGZCdGZlcTVXNEJWWGJETjZlWmpscmVTRTBvaUxPdmFCNWM?oc=5",
+      "title": "3M (NYSE: MMM) HR chief exercises 984 RSUs, 449 shares withheld - stocktitan.net",
+      "body": "3M (NYSE: MMM) HR chief exercises 984 RSUs, 449 shares withheld stocktitan.net",
+      "author": null,
+      "language": "en",
+      "ticker": "MMM",
+      "tickers_hint": [
+        "MMM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktitan.net",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "stocktitan.net",
+        "source_domain": "stocktitannet.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MMM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "762c39f6-8de6-5310-acd6-21cbf097af13",
+      "timestamp_utc": "2026-04-04T06:17:30+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/3m-nysemmm-stock-unloaded-sen-tina-smith-2026-04-04/",
+      "title": "3M (NYSE:MMM) Stock Unloaded Sen. Tina Smith - MarketBeat",
+      "body": "3M (NYSE:MMM) Stock Unloaded Sen. Tina Smith MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MMM",
+      "tickers_hint": [
+        "MMM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MMM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0f5c74cf-c597-5212-b8b3-94c6c2838c76",
+      "timestamp_utc": "2026-04-02T20:06:31+00:00",
+      "source": "stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2FCLURuMnphUDIzdG9mckVORlhVOEpYVVEtNVdtUTVGdzhrRUU4NXd0ZExtM3dqcmhuTkhBTUZsbFZldFE1dnRVZThiWlNmcUhtaTZ1N09Qakh2Y1QyeGxqbTVMR1Z6eERzVWFlLTEyME9LNmUzQTRJR0hrMGZCdGZlcTVXNEJWWGJETjZlWmpscmVTRTBvaUxPdmFCNWM?oc=5",
+      "title": "3M (NYSE: MMM) HR chief exercises 984 RSUs, 449 shares withheld - stocktitan.net",
+      "body": "3M (NYSE: MMM) HR chief exercises 984 RSUs, 449 shares withheld stocktitan.net",
+      "author": null,
+      "language": "en",
+      "ticker": "MMM",
+      "tickers_hint": [
+        "MMM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktitan.net",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "stocktitan.net",
+        "source_domain": "stocktitannet.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "MMM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

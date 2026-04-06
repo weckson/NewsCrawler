@@ -1,0 +1,89 @@
+[
+  {
+    "id": "09c94f75-ae28-5ea8-8701-f5027b1c4cf8",
+    "timestamp_utc": "2026-04-03T10:44:26+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-genesis-financial-group-llc-acquires-shares-of-48805-medtronic-plc-mdt-2026-04-03/",
+    "title": "Genesis Financial Group LLC Acquires Shares of 48,805 Medtronic PLC $MDT - MarketBeat",
+    "body": "Genesis Financial Group LLC Acquires Shares of 48,805 Medtronic PLC $MDT MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "MDT",
+    "tickers_hint": [
+      "MDT"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "MDT"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "ec90fb93-cb9d-5398-97be-259695e45880",
+    "timestamp_utc": "2026-04-04T21:03:34+00:00",
+    "source": "intellectia_ai",
+    "url": "https://intellectia.ai/en/stock/MDT/earnings",
+    "title": "MDT Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
+    "body": "MDT Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+    "author": null,
+    "language": "en",
+    "ticker": "MDT",
+    "tickers_hint": [
+      "MDT"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "intellectia ai",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Intellectia AI",
+      "source_domain": "intellectiaai.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "MDT"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "c8ecad16-ab61-55a4-8d02-228652e6d388",
+    "timestamp_utc": "2026-04-04T02:21:26+00:00",
+    "source": "yahoo_finance_uk",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PNXF1NDJzSzFXbzRib1ZrMjB0Vlp5UEFBMzFHMHNKLXVBMl9RLTJvS3ZMUGxGOTM3bno4YUFjYTFqdkU5WUNjSEJRTWJTSDBz?oc=5",
+    "title": "Medtronic plc (MDT) stock price, news, quote and history - Yahoo Finance UK",
+    "body": "Medtronic plc (MDT) stock price, news, quote and history Yahoo Finance UK",
+    "author": null,
+    "language": "en",
+    "ticker": "MDT",
+    "tickers_hint": [
+      "MDT"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo finance uk",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance UK",
+      "source_domain": "yahoofinanceuk.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "MDT"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

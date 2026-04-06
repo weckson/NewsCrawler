@@ -1,0 +1,89 @@
+[
+  {
+    "id": "9a4c8c22-bfbc-5beb-8932-1c5b8191a93d",
+    "timestamp_utc": "2026-04-02T15:03:00+00:00",
+    "source": "tradingview",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3g3NlM5bG04M1NnTXgzQlZvcVBsUlN1My1lY2xtNDBwWl9iOWNpTUJKRjFOajVkTVRQakJ3eWxzZTdLM245TVh4YURrX2tCTnp0YU5yNkE2WW1jMnc3SVJuVGZUM1hoMkN6ZzFmb3dUMVZ0cGE1UGNNZDRSc1pXN1V0RXhiRmVONk9qOE94UFlSbDQwVVNyc2tmUS1CYmFWQlYtenJuRkFWZlZIR2xQcElQemEyR21oVWhfOA?oc=5",
+    "title": "Can Qualcomm's Snapdragon Innovations for Wearables Drive Growth? - TradingView",
+    "body": "Can Qualcomm's Snapdragon Innovations for Wearables Drive Growth? TradingView",
+    "author": null,
+    "language": "en",
+    "ticker": "QCOM",
+    "tickers_hint": [
+      "QCOM"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "tradingview.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "TradingView",
+      "source_domain": "tradingview.com",
+      "trust_tier": 2,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "QCOM"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "f73670e7-d843-5216-a2e2-c1ca0f0a6bf4",
+    "timestamp_utc": "2026-04-03T12:24:58+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-westwood-wealth-management-buys-shares-of-4910-qualcomm-incorporated-qcom-2026-04-03/",
+    "title": "Westwood Wealth Management Buys Shares of 4,910 Qualcomm Incorporated $QCOM - MarketBeat",
+    "body": "Westwood Wealth Management Buys Shares of 4,910 Qualcomm Incorporated $QCOM MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "QCOM",
+    "tickers_hint": [
+      "QCOM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "QCOM"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "5ce0f719-355e-5861-be71-bace4437dd4c",
+    "timestamp_utc": "2026-04-02T07:14:08+00:00",
+    "source": "coincentral",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSUNJMUE0c0JHYjdxRG44WDh3UjJUd3lxV2dvS2UweE1kUzVaOFpZRkV3akNZdDd5ZkV2NXJSNENjMV9HR20wZFF6dTlrbndDOFNJY09wenNPSklTWVZDZGVsSHVQZ0ZyZDBualZRazVyYkw0Z3hfNFdEV09icGVncFBtZWI2cXhnRW1nNEhKbmd0SDJqWm9JbnZwYw?oc=5",
+    "title": "Qualcomm (QCOM) Stock: Dips Slightly Despite Expanding South Korea Startup Pilot Program Push - CoinCentral",
+    "body": "Qualcomm (QCOM) Stock: Dips Slightly Despite Expanding South Korea Startup Pilot Program Push CoinCentral",
+    "author": null,
+    "language": "en",
+    "ticker": "QCOM",
+    "tickers_hint": [
+      "QCOM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "coincentral",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "CoinCentral",
+      "source_domain": "coincentral.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "QCOM"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

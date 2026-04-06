@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "07d60a9b-adf1-5f95-9c05-33269600e0cd",
+      "timestamp_utc": "2026-04-02T19:16:12+00:00",
+      "source": "tradingkey.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR1pSWlJkVmZFNDZSVzVRX0dZWm9sQlZndHJRc1g5dWRfREVETzhMa1RDSVNnczctajhkV0pxNkJ4SVJRY0ZiYVJhTmJRRnp5U2hva1BwRGF5WlZZdldQb1pvejV1SjZzX2JDbHVxTXotaFFWd1IxVWhxc2YxTjYtRS1CSDZROTB3a2c?oc=5",
+      "title": "Crown Castle Inc Stock (CCI) Moved Up by 7.14% on Apr 2: What Signal Does It Send? - tradingkey.com",
+      "body": "Crown Castle Inc Stock (CCI) Moved Up by 7.14% on Apr 2: What Signal Does It Send? tradingkey.com",
+      "author": null,
+      "language": "en",
+      "ticker": "CCI",
+      "tickers_hint": [
+        "CCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "tradingkey.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "tradingkey.com",
+        "source_domain": "tradingkeycom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CCI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "07d60a9b-adf1-5f95-9c05-33269600e0cd",
+      "timestamp_utc": "2026-04-02T19:16:12+00:00",
+      "source": "tradingkey.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR1pSWlJkVmZFNDZSVzVRX0dZWm9sQlZndHJRc1g5dWRfREVETzhMa1RDSVNnczctajhkV0pxNkJ4SVJRY0ZiYVJhTmJRRnp5U2hva1BwRGF5WlZZdldQb1pvejV1SjZzX2JDbHVxTXotaFFWd1IxVWhxc2YxTjYtRS1CSDZROTB3a2c?oc=5",
+      "title": "Crown Castle Inc Stock (CCI) Moved Up by 7.14% on Apr 2: What Signal Does It Send? - tradingkey.com",
+      "body": "Crown Castle Inc Stock (CCI) Moved Up by 7.14% on Apr 2: What Signal Does It Send? tradingkey.com",
+      "author": null,
+      "language": "en",
+      "ticker": "CCI",
+      "tickers_hint": [
+        "CCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "tradingkey.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "tradingkey.com",
+        "source_domain": "tradingkeycom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CCI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

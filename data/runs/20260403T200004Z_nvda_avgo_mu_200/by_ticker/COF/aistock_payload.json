@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "528ed966-15f0-54fd-b7b7-1e2961b417eb",
+      "timestamp_utc": "2026-04-02T14:18:50+00:00",
+      "source": "insider_monkey",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWEdmWnFaSnRfZkJwWkdKSkI5d3pqdmZTSWJlV2pLOTByM3pib2RMLVFCazVveHk2UVV2M28yVzlvMEtteHp2YjMydzZ4eFNlem1ZU0l0d0dfQzAzTFdfMFc1WHZXck1oUUxkY05ZYVR0LXY3TmZ4VWtiaXNVM3ZvZ3FfV0sxZ1pldGZ3WDktX3d6bW5zR3NsME96X3VqMzJCQUg5V0JwcHVQUlhpNWJOVTdLVWxnN0pCeWExSVNB0gHGAUFVX3lxTE1nMG91VUpQcnFSMXNWbjRodFlFc0hCVFhaLU1vUkxXcF81WnFCYVVXRU9ETklINGp1X19BLVcwckJ4eld1WlFqSXN6Yjl5SUFTSl9tTTdlZGdRSUkza3lQcjd5bWtEVUUwWHg5ZldJbTR5bVlKb2tNSFN3VVc4dUxkLWs0UkNJc1JUVXBkNG1uOF82VC1xN1BJUlhYOGZjVzluT3N3a1c4c3huVDN2VXB3bVl5ai1xWUpOcEttMDVlMW02RXNWZw?oc=5",
+      "title": "Capital One Financial (COF): Billionaire Rob Citrone Continues Buying This Stock - Insider Monkey",
+      "body": "Capital One Financial (COF): Billionaire Rob Citrone Continues Buying This Stock Insider Monkey",
+      "author": null,
+      "language": "en",
+      "ticker": "COF",
+      "tickers_hint": [
+        "COF"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "insidermonkey.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Insider Monkey",
+        "source_domain": "insidermonkey.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "COF"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "528ed966-15f0-54fd-b7b7-1e2961b417eb",
+      "timestamp_utc": "2026-04-02T14:18:50+00:00",
+      "source": "insider_monkey",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWEdmWnFaSnRfZkJwWkdKSkI5d3pqdmZTSWJlV2pLOTByM3pib2RMLVFCazVveHk2UVV2M28yVzlvMEtteHp2YjMydzZ4eFNlem1ZU0l0d0dfQzAzTFdfMFc1WHZXck1oUUxkY05ZYVR0LXY3TmZ4VWtiaXNVM3ZvZ3FfV0sxZ1pldGZ3WDktX3d6bW5zR3NsME96X3VqMzJCQUg5V0JwcHVQUlhpNWJOVTdLVWxnN0pCeWExSVNB0gHGAUFVX3lxTE1nMG91VUpQcnFSMXNWbjRodFlFc0hCVFhaLU1vUkxXcF81WnFCYVVXRU9ETklINGp1X19BLVcwckJ4eld1WlFqSXN6Yjl5SUFTSl9tTTdlZGdRSUkza3lQcjd5bWtEVUUwWHg5ZldJbTR5bVlKb2tNSFN3VVc4dUxkLWs0UkNJc1JUVXBkNG1uOF82VC1xN1BJUlhYOGZjVzluT3N3a1c4c3huVDN2VXB3bVl5ai1xWUpOcEttMDVlMW02RXNWZw?oc=5",
+      "title": "Capital One Financial (COF): Billionaire Rob Citrone Continues Buying This Stock - Insider Monkey",
+      "body": "Capital One Financial (COF): Billionaire Rob Citrone Continues Buying This Stock Insider Monkey",
+      "author": null,
+      "language": "en",
+      "ticker": "COF",
+      "tickers_hint": [
+        "COF"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "insidermonkey.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Insider Monkey",
+        "source_domain": "insidermonkey.com",
+        "trust_tier": 2,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "COF"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

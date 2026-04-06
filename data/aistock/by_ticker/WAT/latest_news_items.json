@@ -1,11 +1,11 @@
 [
   {
-    "id": "8b5631f1-538d-5ee2-9246-544350eb8ec7",
-    "timestamp_utc": "2026-04-01T07:19:34+00:00",
-    "source": "gurufocus",
-    "url": "https://www.gurufocus.com/news/8763560/goldman-sachs-reinstates-buy-rating-on-waters-wat-stock?mobile=true",
-    "title": "Goldman Sachs Reinstates Buy Rating on Waters (WAT) Stock - GuruFocus",
-    "body": "Goldman Sachs Reinstates Buy Rating on Waters (WAT) Stock GuruFocus",
+    "id": "c7d41a22-68a7-5cb8-b293-058abd5ad3c9",
+    "timestamp_utc": "2026-04-03T05:24:48+00:00",
+    "source": "yahoo_finance_uk",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LSTR5c1ZpUWtRaTdLczlHSW5sNklkNGtPS2RmU2d0a0JuN0FRcDlzUmFwVXI5NnhyRHlyOEdtYVJDM2xHSWtiY3p6ZzU5dTd5?oc=5",
+    "title": "Waters Corporation (WAT) stock price, news, quote and history - Yahoo Finance UK",
+    "body": "Waters Corporation (WAT) stock price, news, quote and history Yahoo Finance UK",
     "author": null,
     "language": "en",
     "ticker": "WAT",
@@ -13,16 +13,20 @@
       "WAT"
     ],
     "source_quality": "low",
-    "publisher_raw": "gurufocus.com",
+    "publisher_raw": "yahoo finance uk",
     "meta": {
       "channel": "google_broad",
-      "source_name": "GuruFocus",
-      "source_domain": "gurufocus.com",
+      "source_name": "Yahoo Finance UK",
+      "source_domain": "yahoofinanceuk.com",
       "trust_tier": 1,
-      "relevance": 0.55,
+      "relevance": 0.5,
       "event_origin": "news",
       "query_tickers": [
         "WAT"
+      ],
+      "alt_sources": [
+        "Yahoo! Finance Canada",
+        "Yahoo Finance UK"
       ],
       "body_kind": "summary_snippet"
     },

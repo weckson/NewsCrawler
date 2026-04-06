@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "c992682a-f52c-51d7-960a-c1a5b442aad2",
+      "timestamp_utc": "2026-04-02T13:08:27+00:00",
+      "source": "tempo.co_english",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR2UwZVMxYVVrSXF6d2lMWUtybmU0cFBVNWtPOThLRVRYdUk1dGVmRDNhT21ZcS1Fai1uUm9sRHZoM0lMTy1LWDM2UjlvQ0VzaWE0cmFxN3k3cnl6MV9zUTJOV3dZN3JFS2IxUkRvS1NoWTM5blJvS1Z3aTlianphWmNaU0FRZ3NTM21DRUFMdWVmWmlL?oc=5",
+      "title": "JCI Drops 2.19% as Trump Speech Sparks Middle East Jitters - Tempo.co English",
+      "body": "JCI Drops 2.19% as Trump Speech Sparks Middle East Jitters Tempo.co English",
+      "author": null,
+      "language": "en",
+      "ticker": "JCI",
+      "tickers_hint": [
+        "JCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "tempo.co english",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Tempo.co English",
+        "source_domain": "tempocoenglish.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JCI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f44dacd0-a39d-53fa-8c84-6ca51982f0b5",
+      "timestamp_utc": "2026-04-02T00:07:00+00:00",
+      "source": "voi.id",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5nekdiSlZBQUd6SnR3MzhDc3hnLXBmVE5OMG9ETmE4aFNQcjF4azFReUREQVFEa3BzMmc1TVhyNDRzQkg2UnFN0gFCQVVfeXFMTjVQc1E0bHFCSXBBWTVaTmFXeW9iYXhQMXo3cVVVU1dwX0g0QUVSSE9hbG1UbnJZNW1ncDRGYnlUNk9B?oc=5",
+      "title": "JCI Thursday Has the Opportunity to Continue to Strengthen, Check its Stock Recommendations - voi.id",
+      "body": "JCI Thursday Has the Opportunity to Continue to Strengthen, Check its Stock Recommendations voi.id",
+      "author": null,
+      "language": "en",
+      "ticker": "JCI",
+      "tickers_hint": [
+        "JCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "voi.id",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "voi.id",
+        "source_domain": "voiid.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JCI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "c992682a-f52c-51d7-960a-c1a5b442aad2",
+      "timestamp_utc": "2026-04-02T13:08:27+00:00",
+      "source": "tempo.co_english",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR2UwZVMxYVVrSXF6d2lMWUtybmU0cFBVNWtPOThLRVRYdUk1dGVmRDNhT21ZcS1Fai1uUm9sRHZoM0lMTy1LWDM2UjlvQ0VzaWE0cmFxN3k3cnl6MV9zUTJOV3dZN3JFS2IxUkRvS1NoWTM5blJvS1Z3aTlianphWmNaU0FRZ3NTM21DRUFMdWVmWmlL?oc=5",
+      "title": "JCI Drops 2.19% as Trump Speech Sparks Middle East Jitters - Tempo.co English",
+      "body": "JCI Drops 2.19% as Trump Speech Sparks Middle East Jitters Tempo.co English",
+      "author": null,
+      "language": "en",
+      "ticker": "JCI",
+      "tickers_hint": [
+        "JCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "tempo.co english",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Tempo.co English",
+        "source_domain": "tempocoenglish.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JCI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f44dacd0-a39d-53fa-8c84-6ca51982f0b5",
+      "timestamp_utc": "2026-04-02T00:07:00+00:00",
+      "source": "voi.id",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5nekdiSlZBQUd6SnR3MzhDc3hnLXBmVE5OMG9ETmE4aFNQcjF4azFReUREQVFEa3BzMmc1TVhyNDRzQkg2UnFN0gFCQVVfeXFMTjVQc1E0bHFCSXBBWTVaTmFXeW9iYXhQMXo3cVVVU1dwX0g0QUVSSE9hbG1UbnJZNW1ncDRGYnlUNk9B?oc=5",
+      "title": "JCI Thursday Has the Opportunity to Continue to Strengthen, Check its Stock Recommendations - voi.id",
+      "body": "JCI Thursday Has the Opportunity to Continue to Strengthen, Check its Stock Recommendations voi.id",
+      "author": null,
+      "language": "en",
+      "ticker": "JCI",
+      "tickers_hint": [
+        "JCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "voi.id",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "voi.id",
+        "source_domain": "voiid.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JCI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

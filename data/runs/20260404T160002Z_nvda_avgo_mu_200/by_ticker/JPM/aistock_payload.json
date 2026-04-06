@@ -1,0 +1,298 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "22c4172d-72bb-5d07-abf5-fbe723592604",
+      "timestamp_utc": "2026-04-03T12:31:50+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/jpmorgan-stock-jpm-looks-undervalued-despite-ai-and-apple-card-tailwinds",
+      "title": "JPMorgan Stock (JPM) Looks Undervalued Despite AI and Apple Card Tailwinds - TipRanks",
+      "body": "JPMorgan Stock (JPM) Looks Undervalued Despite AI and Apple Card Tailwinds TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2b243b3a-d95b-5efc-aa8c-4f743bf80694",
+      "timestamp_utc": "2026-04-04T09:19:25+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-sjbenen-advisory-llc-buys-shares-of-9118-jpmorgan-chase-co-jpm-2026-04-04/",
+      "title": "Sjbenen Advisory LLC Buys Shares of 9,118 JPMorgan Chase & Co. $JPM - MarketBeat",
+      "body": "Sjbenen Advisory LLC Buys Shares of 9,118 JPMorgan Chase & Co. $JPM MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "4ec2f57f-a48c-559e-aff9-51b8af02ebc7",
+      "timestamp_utc": "2026-04-04T09:19:24+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mn-services-vermogensbeheer-bv-has-20368-million-stock-position-in-jpmorgan-chase-co-jpm-2026-04-04/",
+      "title": "Mn Services Vermogensbeheer B.V. Has $203.68 Million Stock Position in JPMorgan Chase & Co. $JPM - MarketBeat",
+      "body": "Mn Services Vermogensbeheer B.V. Has $203.68 Million Stock Position in JPMorgan Chase & Co. $JPM MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fa3f9765-0d47-5889-a4d7-33828defbb22",
+      "timestamp_utc": "2026-04-04T09:19:24+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-retirement-systems-of-alabama-has-30361-million-position-in-jpmorgan-chase-co-jpm-2026-04-04/",
+      "title": "Retirement Systems of Alabama Has $303.61 Million Position in JPMorgan Chase & Co. $JPM - MarketBeat",
+      "body": "Retirement Systems of Alabama Has $303.61 Million Position in JPMorgan Chase & Co. $JPM MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0b52575f-c817-5c29-9275-efa3f18a1775",
+      "timestamp_utc": "2026-04-04T08:04:22+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-financial-planning-hawaii-inc-acquires-shares-of-4769-jpmorgan-chase-co-jpm-2026-04-04/",
+      "title": "Financial Planning Hawaii Inc. Acquires Shares of 4,769 JPMorgan Chase & Co. $JPM - MarketBeat",
+      "body": "Financial Planning Hawaii Inc. Acquires Shares of 4,769 JPMorgan Chase & Co. $JPM MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "22c4172d-72bb-5d07-abf5-fbe723592604",
+      "timestamp_utc": "2026-04-03T12:31:50+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/jpmorgan-stock-jpm-looks-undervalued-despite-ai-and-apple-card-tailwinds",
+      "title": "JPMorgan Stock (JPM) Looks Undervalued Despite AI and Apple Card Tailwinds - TipRanks",
+      "body": "JPMorgan Stock (JPM) Looks Undervalued Despite AI and Apple Card Tailwinds TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2b243b3a-d95b-5efc-aa8c-4f743bf80694",
+      "timestamp_utc": "2026-04-04T09:19:25+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-sjbenen-advisory-llc-buys-shares-of-9118-jpmorgan-chase-co-jpm-2026-04-04/",
+      "title": "Sjbenen Advisory LLC Buys Shares of 9,118 JPMorgan Chase & Co. $JPM - MarketBeat",
+      "body": "Sjbenen Advisory LLC Buys Shares of 9,118 JPMorgan Chase & Co. $JPM MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "4ec2f57f-a48c-559e-aff9-51b8af02ebc7",
+      "timestamp_utc": "2026-04-04T09:19:24+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mn-services-vermogensbeheer-bv-has-20368-million-stock-position-in-jpmorgan-chase-co-jpm-2026-04-04/",
+      "title": "Mn Services Vermogensbeheer B.V. Has $203.68 Million Stock Position in JPMorgan Chase & Co. $JPM - MarketBeat",
+      "body": "Mn Services Vermogensbeheer B.V. Has $203.68 Million Stock Position in JPMorgan Chase & Co. $JPM MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "fa3f9765-0d47-5889-a4d7-33828defbb22",
+      "timestamp_utc": "2026-04-04T09:19:24+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-retirement-systems-of-alabama-has-30361-million-position-in-jpmorgan-chase-co-jpm-2026-04-04/",
+      "title": "Retirement Systems of Alabama Has $303.61 Million Position in JPMorgan Chase & Co. $JPM - MarketBeat",
+      "body": "Retirement Systems of Alabama Has $303.61 Million Position in JPMorgan Chase & Co. $JPM MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0b52575f-c817-5c29-9275-efa3f18a1775",
+      "timestamp_utc": "2026-04-04T08:04:22+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-financial-planning-hawaii-inc-acquires-shares-of-4769-jpmorgan-chase-co-jpm-2026-04-04/",
+      "title": "Financial Planning Hawaii Inc. Acquires Shares of 4,769 JPMorgan Chase & Co. $JPM - MarketBeat",
+      "body": "Financial Planning Hawaii Inc. Acquires Shares of 4,769 JPMorgan Chase & Co. $JPM MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JPM",
+      "tickers_hint": [
+        "JPM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "JPM"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

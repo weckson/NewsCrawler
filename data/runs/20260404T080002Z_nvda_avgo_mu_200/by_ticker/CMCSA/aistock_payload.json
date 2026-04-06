@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "9832bb43-1bec-56e8-b63b-9dec11c32563",
+      "timestamp_utc": "2026-04-02T10:47:21+00:00",
+      "source": "marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-matrix-asset-advisors-inc-ny-lowers-stake-in-comcast-corporation-cmcsa-2026-04-02/",
+      "title": "Matrix Asset Advisors Inc. NY Lowers Stake in Comcast Corporation $CMCSA - marketbeat.com",
+      "body": "Matrix Asset Advisors Inc. NY Lowers Stake in Comcast Corporation $CMCSA marketbeat.com",
+      "author": null,
+      "language": "en",
+      "ticker": "CMCSA",
+      "tickers_hint": [
+        "CMCSA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "marketbeat.com",
+        "source_domain": "marketbeatcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "CMCSA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "532063c6-c92f-5675-a1d8-bc8df40a20f4",
+      "timestamp_utc": "2026-04-02T20:26:30+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaWE1TmxaekZnOXdlbzMxbWUtNDhXWFdfVUlmeVBwQlc4QnZZbVk2OGQ1Q3dmdUdhM2VyNktIS20ySFpTLXZMcURlQ2VpdS1GcVMwSHlKSWxFdG1zcjhvUXZCMXF3V3Y4SF9RLU15U0wxb1E4R29vem9JVUNmRE5iVko1YURVZGQtZkxSQjgzZ3RTV0o2dGJXQVM2SF8wNHFYdHppQWMxT2g?oc=5",
+      "title": "Comcast (NASDAQ: CMCSA) director receives 1,524-share equity grant - Stock Titan",
+      "body": "Comcast (NASDAQ: CMCSA) director receives 1,524-share equity grant Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "CMCSA",
+      "tickers_hint": [
+        "CMCSA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CMCSA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "9832bb43-1bec-56e8-b63b-9dec11c32563",
+      "timestamp_utc": "2026-04-02T10:47:21+00:00",
+      "source": "marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-matrix-asset-advisors-inc-ny-lowers-stake-in-comcast-corporation-cmcsa-2026-04-02/",
+      "title": "Matrix Asset Advisors Inc. NY Lowers Stake in Comcast Corporation $CMCSA - marketbeat.com",
+      "body": "Matrix Asset Advisors Inc. NY Lowers Stake in Comcast Corporation $CMCSA marketbeat.com",
+      "author": null,
+      "language": "en",
+      "ticker": "CMCSA",
+      "tickers_hint": [
+        "CMCSA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "marketbeat.com",
+        "source_domain": "marketbeatcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "CMCSA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "532063c6-c92f-5675-a1d8-bc8df40a20f4",
+      "timestamp_utc": "2026-04-02T20:26:30+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaWE1TmxaekZnOXdlbzMxbWUtNDhXWFdfVUlmeVBwQlc4QnZZbVk2OGQ1Q3dmdUdhM2VyNktIS20ySFpTLXZMcURlQ2VpdS1GcVMwSHlKSWxFdG1zcjhvUXZCMXF3V3Y4SF9RLU15U0wxb1E4R29vem9JVUNmRE5iVko1YURVZGQtZkxSQjgzZ3RTV0o2dGJXQVM2SF8wNHFYdHppQWMxT2g?oc=5",
+      "title": "Comcast (NASDAQ: CMCSA) director receives 1,524-share equity grant - Stock Titan",
+      "body": "Comcast (NASDAQ: CMCSA) director receives 1,524-share equity grant Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "CMCSA",
+      "tickers_hint": [
+        "CMCSA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "CMCSA"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

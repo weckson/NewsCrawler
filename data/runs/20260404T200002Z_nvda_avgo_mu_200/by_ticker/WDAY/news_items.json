@@ -1,0 +1,31 @@
+[
+  {
+    "id": "807c774d-6649-552e-b301-15cc155af728",
+    "timestamp_utc": "2026-04-03T11:31:10+00:00",
+    "source": "chartmill",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMEljbGIwdkhRTjVmYUJaMV9QYV9KcEFwakR0RzA4a01wUmFsVURBeFFrMU9ETkxQRXQzTHBEZkVkbmU3d25kTlpkN3MyT25UV2hvY01XV3hSQ010VFlMMlNzd1QtVk9reVcxbU51U21WY1VLV3MxUS1YV1NTNWt0QmdoVUk5RGhNS2Y0QjdCZDZIQkdFQllLSnhPeGEyWk8xaTBuZ1JUbjFWR3VUUW0wSjhOVDhJWjkzM2VXTVBKNno2OTVaajNzYw?oc=5",
+    "title": "Workday Inc-Class A (NASDAQ:WDAY) Fits the \"Affordable Growth\" Investment Strategy - ChartMill",
+    "body": "Workday Inc-Class A (NASDAQ:WDAY) Fits the \"Affordable Growth\" Investment Strategy ChartMill",
+    "author": null,
+    "language": "en",
+    "ticker": "WDAY",
+    "tickers_hint": [
+      "WDAY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "chartmill",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "ChartMill",
+      "source_domain": "chartmill.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "WDAY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

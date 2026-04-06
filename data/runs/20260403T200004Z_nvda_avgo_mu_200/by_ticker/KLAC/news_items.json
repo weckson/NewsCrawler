@@ -1,0 +1,31 @@
+[
+  {
+    "id": "71a79843-fc82-51f4-a24f-929870ff3b24",
+    "timestamp_utc": "2026-04-03T11:35:28+00:00",
+    "source": "msn",
+    "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOVlJkcU81am5BaENPNzY3QW9mMTJ4eHp0c1ZnMU44bFNLUlgzcHZoMEZtcXVUdGxlYWRHeG1Fc0xFa0xXWHlOcmFmUnRzRkd3WUtMa3Y0OGJ1U3lhTHh1a2lON1hsWWNnSU1nWlFkUmppVW13VFNYVW96T3Y2cTI2UzAtNm1xQkFxMThyYy1wSWZyUWtmQk43OGFqR0R2TVJ3alZRWV94QnJxX3JDQ1RTUV9KZ0ZpY3RmelRIWEJUZWJ0anF1UUVwbnNYSHExTTlTeDhyOEpjcTFxakRmNUdMTld0NV9laGluS3F5Z25nTU1GM2x2MXlrMkdnTGNFYkJCM0VpQ2hIUzRla1p4OElYejNTb1RUSl94ZFprX1hLUUtsR1I1QXZIQUZHYm1KOXotNlBNT3NSSU80LUVCTEE?oc=5",
+    "title": "Why KLA Corporation (KLAC) stock is trading up today - MSN",
+    "body": "Why KLA Corporation (KLAC) stock is trading up today MSN",
+    "author": null,
+    "language": "en",
+    "ticker": "KLAC",
+    "tickers_hint": [
+      "KLAC"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "msn",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MSN",
+      "source_domain": "msn.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "KLAC"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

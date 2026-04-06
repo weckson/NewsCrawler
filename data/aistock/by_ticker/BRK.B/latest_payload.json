@@ -2,12 +2,41 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "32fd2cd3-71d9-585a-b70b-28f700304197",
-      "timestamp_utc": "2026-04-01T03:00:05+00:00",
-      "source": "finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTnhTSDRJNDhWVWRlTHhya09sTHVpbk9nbGFPUTRic1k4b1dwYzZZQVgwM1dVeGNCdF9JeXpFYW9SRUtiY3NrZnBBR1drc21ERUl1Z3FiR2hnNkRLY2lwMDJFUGpHcUNQX3hFYVR2UG1fZWlQaVg0dkRVZG10SmdUbGRKa2ZsX1FjTURwazFlem56OFVPTnlpMG9DdjVxSHkx?oc=5",
-      "title": "Here is What to Know Beyond Why Berkshire Hathaway Inc. (BRK.B) is a Trending Stock - finance.yahoo.com",
-      "body": "Here is What to Know Beyond Why Berkshire Hathaway Inc. (BRK.B) is a Trending Stock finance.yahoo.com",
+      "id": "587a069f-f0c8-5bed-906a-57c0ca5428a9",
+      "timestamp_utc": "2026-04-03T18:41:27+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3RoRFNWUFpuZFBtcTlmXzBfa1NDaWVOU2t3QmliOExhMG01aS00NUMyQ0JuOENZbWtMZjJYMFd3RVd6eXhfVVprQ2ZRWFdLcm9vYVFaM1YzX0FicklhYzN1SWNObWNBN1QwNmtyWDlJUWZ1Y3o3djItdW9SQ3hwR25MYW1MZ3hqblZhSlZ0a3ZQTHZlYkRUM09BXzF2TEY5elYydEJYNUVwTzQ?oc=5",
+      "title": "Berkshire Hathaway (BRK.B) Insures Ships Traveling Through the Strait of Hormuz - TipRanks",
+      "body": "Berkshire Hathaway (BRK.B) Insures Ships Traveling Through the Strait of Hormuz TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "BRK.B",
+      "tickers_hint": [
+        "BRK.B"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BRK.B"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2910d4fa-d688-5201-a04e-b38ae46569f5",
+      "timestamp_utc": "2026-04-05T05:11:00+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOUVqbVdTVXJnN0lBQkxwdENHT1FEbk1XdmJwU1VDdE5wUGtRN1RtdHk4YjdkZTV3N1NLNVFpVFhBTFI3Q1NaV0pjVzJoYlZSVHQ4NGlnWXJhaVlNc1VYZFF0RzgxYm1WVDh3Z050VEJPSXhEVXhsWjdiYW92U3dtRkRmT0g?oc=5",
+      "title": "Does Berkshire Hathaway (BRK.B) Offer Value After Recent Share Price Softness? - Yahoo Finance Singapore",
+      "body": "Does Berkshire Hathaway (BRK.B) Offer Value After Recent Share Price Softness? Yahoo Finance Singapore",
       "author": null,
       "language": "en",
       "ticker": "BRK.B",
@@ -15,11 +44,11 @@
         "BRK.B"
       ],
       "source_quality": "low",
-      "publisher_raw": "finance.yahoo.com",
+      "publisher_raw": "yahoo finance singapore",
       "meta": {
         "channel": "google_broad",
-        "source_name": "finance.yahoo.com",
-        "source_domain": "financeyahoocom.com",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
         "trust_tier": 1,
         "relevance": 0.5,
         "event_origin": "news",
@@ -34,12 +63,41 @@
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "32fd2cd3-71d9-585a-b70b-28f700304197",
-      "timestamp_utc": "2026-04-01T03:00:05+00:00",
-      "source": "finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTnhTSDRJNDhWVWRlTHhya09sTHVpbk9nbGFPUTRic1k4b1dwYzZZQVgwM1dVeGNCdF9JeXpFYW9SRUtiY3NrZnBBR1drc21ERUl1Z3FiR2hnNkRLY2lwMDJFUGpHcUNQX3hFYVR2UG1fZWlQaVg0dkRVZG10SmdUbGRKa2ZsX1FjTURwazFlem56OFVPTnlpMG9DdjVxSHkx?oc=5",
-      "title": "Here is What to Know Beyond Why Berkshire Hathaway Inc. (BRK.B) is a Trending Stock - finance.yahoo.com",
-      "body": "Here is What to Know Beyond Why Berkshire Hathaway Inc. (BRK.B) is a Trending Stock finance.yahoo.com",
+      "id": "587a069f-f0c8-5bed-906a-57c0ca5428a9",
+      "timestamp_utc": "2026-04-03T18:41:27+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3RoRFNWUFpuZFBtcTlmXzBfa1NDaWVOU2t3QmliOExhMG01aS00NUMyQ0JuOENZbWtMZjJYMFd3RVd6eXhfVVprQ2ZRWFdLcm9vYVFaM1YzX0FicklhYzN1SWNObWNBN1QwNmtyWDlJUWZ1Y3o3djItdW9SQ3hwR25MYW1MZ3hqblZhSlZ0a3ZQTHZlYkRUM09BXzF2TEY5elYydEJYNUVwTzQ?oc=5",
+      "title": "Berkshire Hathaway (BRK.B) Insures Ships Traveling Through the Strait of Hormuz - TipRanks",
+      "body": "Berkshire Hathaway (BRK.B) Insures Ships Traveling Through the Strait of Hormuz TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "BRK.B",
+      "tickers_hint": [
+        "BRK.B"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BRK.B"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "2910d4fa-d688-5201-a04e-b38ae46569f5",
+      "timestamp_utc": "2026-04-05T05:11:00+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOUVqbVdTVXJnN0lBQkxwdENHT1FEbk1XdmJwU1VDdE5wUGtRN1RtdHk4YjdkZTV3N1NLNVFpVFhBTFI3Q1NaV0pjVzJoYlZSVHQ4NGlnWXJhaVlNc1VYZFF0RzgxYm1WVDh3Z050VEJPSXhEVXhsWjdiYW92U3dtRkRmT0g?oc=5",
+      "title": "Does Berkshire Hathaway (BRK.B) Offer Value After Recent Share Price Softness? - Yahoo Finance Singapore",
+      "body": "Does Berkshire Hathaway (BRK.B) Offer Value After Recent Share Price Softness? Yahoo Finance Singapore",
       "author": null,
       "language": "en",
       "ticker": "BRK.B",
@@ -47,11 +105,11 @@
         "BRK.B"
       ],
       "source_quality": "low",
-      "publisher_raw": "finance.yahoo.com",
+      "publisher_raw": "yahoo finance singapore",
       "meta": {
         "channel": "google_broad",
-        "source_name": "finance.yahoo.com",
-        "source_domain": "financeyahoocom.com",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
         "trust_tier": 1,
         "relevance": 0.5,
         "event_origin": "news",

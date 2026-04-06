@@ -1,0 +1,31 @@
+[
+  {
+    "id": "68f245c4-0c9a-5aba-88a2-e97030e37fa1",
+    "timestamp_utc": "2026-04-04T01:25:41+00:00",
+    "source": "yahoo_finance_uk",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BUUlwQm1rdXFsUEthaW5xaXZQNmNBU3NjTFQ2d2JyOE1iLWItUWtNRXRlekZWSURUbnRNVzNacFZETExPY0RFNW10TE1kNWFI?oc=5",
+    "title": "FedEx Corporation (FDX) stock price, news, quote and history - Yahoo Finance UK",
+    "body": "FedEx Corporation (FDX) stock price, news, quote and history Yahoo Finance UK",
+    "author": null,
+    "language": "en",
+    "ticker": "FDX",
+    "tickers_hint": [
+      "FDX"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo finance uk",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance UK",
+      "source_domain": "yahoofinanceuk.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "FDX"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

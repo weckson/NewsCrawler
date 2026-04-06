@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "290f2f6f-de76-5da3-b28a-01f4aae55192",
+      "timestamp_utc": "2026-04-03T21:03:48+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50QVNLM3JuU1E0b2tJWERNdGktN1lNMllPNmRTUEQ5MXVJQ0tzQmhBQXNQVVpWd19Va01hand5YUlXU3MtNFh6M2JVNjFRYjBmM2xRVy1GU3MxQmJvaWNGY0wwY1Y?oc=5",
+      "title": "JCI Dec 2026 125.000 put (JCI261218P00125000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "JCI Dec 2026 125.000 put (JCI261218P00125000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "JCI",
+      "tickers_hint": [
+        "JCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JCI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "290f2f6f-de76-5da3-b28a-01f4aae55192",
+      "timestamp_utc": "2026-04-03T21:03:48+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50QVNLM3JuU1E0b2tJWERNdGktN1lNMllPNmRTUEQ5MXVJQ0tzQmhBQXNQVVpWd19Va01hand5YUlXU3MtNFh6M2JVNjFRYjBmM2xRVy1GU3MxQmJvaWNGY0wwY1Y?oc=5",
+      "title": "JCI Dec 2026 125.000 put (JCI261218P00125000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "JCI Dec 2026 125.000 put (JCI261218P00125000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "JCI",
+      "tickers_hint": [
+        "JCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "JCI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

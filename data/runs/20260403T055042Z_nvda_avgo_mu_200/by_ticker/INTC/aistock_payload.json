@@ -1,0 +1,1184 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "0038e5b6-dc75-58a5-a9eb-0be6dda40577",
+      "timestamp_utc": "2026-04-01T15:48:54+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdl9jUkFhVHZsblpBWHpBMzBWN0lEbnhzbnRDS1RjZFB3N3drMU5CbGp6Wlh2MHo0Y0FBa1ZJdmQ5OE90SHVmT0ZpUnZCNXd6VWdRZFk5dV9NWmZ0VXZKNE5MWFNmZzJlc25iMGZ1MW5NSnMwLThfeS01aEZhOVpkRUItOVhwOWFTZ3NwaWMwWUdRQW5NTHIwSWI4TU81ajMxam5JOUxVYmRFNTVmT3c?oc=5",
+      "title": "PVH, Micron, Intel And Other Big Stocks Moving Higher On Wednesday - Benzinga",
+      "body": "PVH, Micron, Intel And Other Big Stocks Moving Higher On Wednesday Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC",
+        "MU"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC",
+          "MU"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b22df7dc-270e-583f-bee2-a651baf0e2d3",
+      "timestamp_utc": "2026-04-02T19:06:58+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/intel-plans-to-ramp-up-relationship-with-sambanova-intel-stock-nasdaqintc-surges",
+      "title": "Intel Plans to Ramp Up Relationship With SambaNova, Intel Stock (NASDAQ:INTC) Surges - TipRanks",
+      "body": "Intel Plans to Ramp Up Relationship With SambaNova, Intel Stock (NASDAQ:INTC) Surges TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d0ea20e9-54f8-5304-98de-911e7bd0d60e",
+      "timestamp_utc": "2026-04-01T19:02:03+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/plan-to-buy-back-chip-facility-interest-sends-intel-stock-nasdaqintc-racing-up",
+      "title": "Plan to Buy Back Chip Facility Interest Sends Intel Stock (NASDAQ:INTC) Racing Up - TipRanks",
+      "body": "Plan to Buy Back Chip Facility Interest Sends Intel Stock (NASDAQ:INTC) Racing Up TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8932c179-89ff-53fa-b6a4-2e3a055e6d5c",
+      "timestamp_utc": "2026-04-02T22:40:20+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-stock-trades-why-224020029.html",
+      "title": "Intel (INTC) Stock Trades Up, Here Is Why - Yahoo Finance",
+      "body": "Intel (INTC) Stock Trades Up, Here Is Why Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "bd33c86d-a909-5abc-b655-db397b232ff3",
+      "timestamp_utc": "2026-04-02T19:36:19+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/article/4888174-intel-the-easy-money-is-gone",
+      "title": "Intel: The Easy Money Is Gone (NASDAQ:INTC) - Seeking Alpha",
+      "body": "FinkAvenue/iStock Editorial via Getty Images\n\nIntel Corporation (INTC) is back in the headlines this week on news that the company is repurchasing 49% equity interest in its Ireland fab 34 joint venture from Apollo Global (\n\nDon’t just invest—dominate with Tech Contrarians' realized return on closed positions of 65.8% since inception. You’ll get exclusive insights into high-focus stocks, curated watchlists, one-on-one portfolio consultations, and everything from live portfolio tracking to earnings updates on 50+ companies.\n\nAnalyst’s Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "141ad73f-1b78-573b-b960-2e8576c761ce",
+      "timestamp_utc": "2026-04-01T21:58:27+00:00",
+      "source": "motley_fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/04/01/stock-market-today-april-1-intel-surges-on-142-billion-fab-buyback/",
+      "title": "Stock Market Today, April 1: Intel Surges on $14.2 Billion Fab Buyback - The Motley Fool",
+      "body": "Stock Market Today, April 1: Intel Surges on $14.2 Billion Fab Buyback The Motley Fool",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "fool.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Motley Fool",
+        "source_domain": "fool.com",
+        "trust_tier": 3,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "699bd092-510a-551b-95c3-d4deabad65e4",
+      "timestamp_utc": "2026-04-02T21:07:00+00:00",
+      "source": "marketwatch",
+      "url": "https://www.marketwatch.com/story/intels-stock-has-been-climbing-and-this-could-be-its-next-big-catalyst-adc95a17?gaa_at=eafs&gaa_n=AWEtsqfkjSNSaGlG8fdvEDFw18YUYJyUSQC4k6KVQn4ft8m8ozIQQtN2D99j&gaa_ts=69cf5afc&gaa_sig=T6qSsDYqS-3DYkJfGJolefya3NQtwDU1MlUSia7LxPIxMT8DSK0QuWlJS4s-f9267FIGOIEdBDKTbk1k7NqxVQ%3D%3D",
+      "title": "Intel’s stock has been climbing — and this could be its next big catalyst - MarketWatch",
+      "body": "Intel’s stock has been climbing — and this could be its next big catalyst MarketWatch",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "marketwatch.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketWatch",
+        "source_domain": "marketwatch.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0c48a77a-8b6c-5284-ba36-dc6de46900b4",
+      "timestamp_utc": "2026-04-02T16:50:48+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVHFnd1NfcTJqZGM0bENtLU5tcHU2LXdObWsyN0g2Y1ZxWXkyMEdneE13bmFwM2pla0c5aXF4U3R1cUdBY2dFbFZVT1RGRTlfUF9yNVdDQmZoMF9lMkxORk1aMDhnc2M1WjIxTUlsOU9hWVZsX05TX0RmT0s5a2d3WkdFdWtQMDZPRklsdUMtWDNHS25iWnhPOW1uZ2lKVzh3U0E0?oc=5",
+      "title": "What's Going On With Intel Stock Thursday? - Benzinga",
+      "body": "What's Going On With Intel Stock Thursday? Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ec850a44-6c6e-501f-97a7-47a020689b0b",
+      "timestamp_utc": "2026-04-02T01:53:00+00:00",
+      "source": "motley_fool",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05Y3prbTVGeEQ5NVVmQ1JTLU1ZWlhzUG90a2h3bE9OelZuOHJLRWw5UUxUQ0xBVm1vaUgwbGhsLW91RGd2NnFmQjRYMmpPYVpkcnIxUnRQSVhoMERMNjJyOVhSTVFPRWhoN3ZWV1NIVzM4d0xxa1NoWlhB?oc=5",
+      "title": "Why Intel Stock Popped Today - The Motley Fool",
+      "body": "Why Intel Stock Popped Today The Motley Fool",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "fool.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Motley Fool",
+        "source_domain": "fool.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "17fca475-5e57-5f9d-884c-407ab7bf96b4",
+      "timestamp_utc": "2026-04-01T15:52:30+00:00",
+      "source": "cnbc",
+      "url": "https://www.cnbc.com/2026/04/01/stocks-making-the-biggest-moves-midday-lly-has-pm-intc-mu.html",
+      "title": "Stocks making the biggest moves midday: Eli Lilly, Hasbro, Philip Morris, Intel, Micron & more - CNBC",
+      "body": "Check out the companies making the biggest moves in midday trading: Eli Lilly — The Food and Drug Administration approved Foundayo , the company's once-daily GLP-1 pill to treat obesity.\n\nHasbro — The toymaker fell more than 4% after it disclosed a cybersecurity incident where there was unauthorized access to the company's network.\n\nHasbro has taken certain systems offline and is currently conducting an investigation to discover the full impact of the incident and solve it.\n\nThe company also said it will take on additional measures to protect its business as needed.\n\nPhilip Morris International — The international tobacco firm saw shares dropping more than 5% after Reuters reported the FDA delayed authorization for sales of nicotine pouch products as agency scientists grew concerned about potential risks to new ‌users, including children.\n\nIntel — Shares popped 9% after the semiconductor manufacturer announced it will repurchase a 49% stake in its Ireland Fab 34 joint venture from Apollo Global Management for $14.2 billion.\n\nThe Ireland Fab 34 facility produces chips using Intel's latest process technologies, Intel 3 and Intel 4.\n\nThe move will be funded through a mix of cash on hand and roughly $6.5 billion in new debt.\n\nCal-Maine — The egg producer gained 5.8% following its beat on both the top and bottom lines.\n\nCal-Maine's third-quarter earnings came in at $1.06 per share, beating the 70 cents expected from analysts polled by FactSet.\n\nRevenue was $667 million, versus the $642.5 million consensus estimate.\n\nMemory stocks — Investors' favorite group in 2026 continued their rebound on Wednesday after a hefty sell-off that lasted through Monday trading.\n\nA number of Wall Street firms issued fresh notes on the group.\n\nSeagate Technology gained more than 8% and Lam Research jumped nearly 5%.\n\nMicron added 10% as Cantor Fitzgerald touted the stock as a top pick.\n\nNike — The athletic apparel stock slumped 14% after its North American revenue came in at $5.03 billion, while analysts surveyed by LSEG had expected $5.04 billion.\n\nHowever, Nike posted fiscal third-quarter earnings of 35 cents per share and $11.28 billion in revenue.\n\nThat exceeded the expected earnings of 28 cents per share and the anticipated $11.24 billion in revenue.\n\nThe stock also was pressured by downgrades from JPMorgan, Bank of America and Goldman Sachs.\n\nDave & Buster's Entertainment — Shares rose 20% after management said the company expects an increase in same-store sales, revenue and adjusted earnings before interest, taxes, depreciation and amortization during 2026.\n\nDave & Buster's posted a fourth-quarter adjusted loss of 35 cents per share and revenue of $529.6 million.\n\nAnalysts polled by FactSet had expected a profit of 39 cents per share and $555.9 million in revenue.\n\nPVH — The clothing company, which owns brands Tommy Hilfiger and Calvin Klein, added 9% after posting fourth-quarter adjusted earnings of $3.82 per share and revenue of $2.51 billion.\n\nAnalysts had expected earnings of $3.31 per share and $2.43 billion in revenue, according to FactSet.\n\nRH said it sees full-year revenue growth ranging from 4% to 8%, missing the Street's estimate of 8.8%.\n\nFourth-quarter adjusted earnings came in at $1.53 per share and revenue was $843 million.\n\nThe LSEG consensus forecast had called for earnings of $2.22 per share and revenue of $873 million.\n\nNCino — Shares surged 12% after the cloud-based software company reported first-quarter revenue guidance of $154.5 million to $156.4 million, topping the FactSet consensus of $152.7 million.\n\nFourth-quarter revenue also surpassed expectations, landing at $149.7 million, versus the $147.9 million analysts had anticipated.\n\nOil stocks — Energy companies came under pressure as Western Texas Intermediate Crude futures once again fell below $100 on renewed investor hopes that an end to the Iran war is near.\n\nConocoPhillips and EOG Resources both fell more than 3%, while Occidental Petroleum declined over 4%.\n\nNewmont — The gold miner jumped 6% as gold prices rebounded to start April after its worst month since 2013.\n\nGold was up more than 2%, and earlier in the session traded at levels it hadn't hit since March 20.\n\nAres Management — Shares fell 1% after the company revised down its first-quarter net performance income guidance on Tuesday.\n\nAres expects that figure to be around $75 million instead of the previously forecasted $100 million.\n\n— CNBC's Christina Cheddar Berk, Michelle Fox, and Yun Li contributed to this report.",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "cnbc.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "CNBC",
+        "source_domain": "cnbc.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "102b3174-6fb5-5048-9d65-dd2126ec8ad5",
+      "timestamp_utc": "2026-04-02T19:17:54+00:00",
+      "source": "247_wall_st",
+      "url": "https://247wallst.com/investing/2026/04/02/intel-climbs-4-as-ai-hardware-momentum-and-fab-buyback-make-the-bull-case-hard-to-dismiss/",
+      "title": "Intel Climbs 4% as AI Hardware Momentum and Fab Buyback Make the Bull Case Hard to Dismiss - 24/7 Wall St.",
+      "body": "Intel Corporation (NASDAQ:INTC) stock is up 4% in Thursday trading, changing hands at nearly $50 after opening at $48.03. The move extends a strong run that has INTC stock up 35% year-to-date and 126% over the past year. Today is the last session before Good Friday, so some of the momentum may reflect pre-holiday position-squaring alongside genuine fundamental conviction.\n\nTwo catalysts are doing the heavy lifting: Intel’s $14.2 billion buyback of Apollo Global Management’s 49% stake in Fab 34 in Ireland, announced April 1, and mounting evidence that Intel’s AI hardware business is gaining real traction. Together, they’re building a bull case that’s getting harder to wave away, even for skeptics.\n\nApollo Global Management (NYSE:APO) had originally acquired the 49% stake in 2022 for $11.2 billion to help fund facility expansion at a time when Intel needed outside capital. Intel’s decision to buy it back for $14.2 billion, funded through cash on hand and roughly $6.5 billion in new debt, management believes the balance sheet can now support full ownership of one of its most strategic fabs.\n\nThe transaction is expected to be accretive to EPS and strengthen Intel’s credit profile from 2027 onwards. Northland Capital Markets called the deal bullish, anticipating improved financial health and operational autonomy for Intel, particularly given a looming global shortage of 3nm capacity. New Street Research responded by raising its INTC stock price target from $40 to $50.\n\nIntel CFO David Zinsner offered useful balance sheet context on the Q4 earnings call:\n\n“We exit 2025 with $37.4 billion of cash and short-term investments, bolstered by further monetization of Mobileye, the completion of our stake sale of Altera to Silver Lake, accelerated funding from the U.S. government, and investments by the SoftBank Group and NVIDIA.”\n\nThat’s the financial footing that makes a deal of this size possible.\n\nIntel’s Data Center and AI Group delivered Q4 2025 revenue up 15% sequentially, which Zinsner described on the earnings call as “the fastest sequential growth this decade.” He added that Intel’s revenue “would have been meaningfully higher if we had more supply,” a supply constraint that also reflects genuine demand strength.\n\nIntel’s Xeon 6 CPUs and Arc Pro B-Series GPUs have demonstrated up to 1.8x faster AI inference performance, enhancing scalability and enterprise features. Moreover, the Terafab chip factory project with SpaceX and xAI in Austin, Texas adds further long-term manufacturing optionality.\n\nIntel CEO Lip-Bu Tan was direct about where hyperscaler demand is pointing: “Their first choice is the CPU from Intel. And that is a very clear message from them. They will try to get as much as we can give them.” For a company that spent years losing data center share, that’s a meaningful shift in tone, and it’s backed by sequential revenue data.\n\nIntel’s Core Ultra Series 3 commercial PCs, built on the company’s 18A process, represent the client side of the same AI compute story. For a deeper look at how Intel stacks up against the competition, our recent analysis lays out the challenging landscape heading into the rest of 2026.\n\nGranted, the bull case has real counterweights. Intel’s gross margin stands at 34.77% and operating margin remains negative at -4.19%, reflecting a manufacturing base still in transition. The analyst consensus for INTC stock, per FactSet, remains “Reduce” with an average price target of $45.74, which is below where Intel shares trade currently.\n\nThere’s also a geopolitical wrinkle. Iran’s Islamic Revolutionary Guard Corps named Intel on a list of U.S. companies with Gulf operations it threatened, a risk that’s been compartmentalized by markets so far but bears watching. Competition from Intel’s peers in AI silicon remains intense on every front.\n\nNo matter how you slice it, INTC stock has moved from a turnaround story that required faith to one increasingly supported by data. Watch for whether today’s gains hold into the close and whether supply improvements in Q2, flagged explicitly in guidance, start showing up in the next earnings print.",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "247wallst.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "24/7 Wall St.",
+        "source_domain": "247wallst.com",
+        "trust_tier": 2,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "075eefa7-371f-57ca-8f24-ba0a5754593e",
+      "timestamp_utc": "2026-04-02T14:40:00+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd25OYnB5UUxMbTA0TE9BR0hSMTg1VUxOQVJQOEtCSFlCMWRJbjR5ODFRaHNPRU52S0RZRnJoMlRwaUlGMkgzMmpwQ2d5TThGTkFEczBZNWxGTnVoNjRPbnFWV1otSVRaXy10VTdUemN5N0NLYXRHRHA3a3V3akJJel9RUVk5QXo4bVZqZk5QXzhySkJ3YkZCLUR3QmdJcXZWM01ma20xZC1NQ0czRk0tdHEweWk5QmQ3V3FYVmtkRGM?oc=5",
+      "title": "Can INTC's Advancements in AI Inference Bolster Its Market Position? - TradingView",
+      "body": "Can INTC's Advancements in AI Inference Bolster Its Market Position? TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "576833c4-5d2b-5e5d-8139-cf7147f66fc3",
+      "timestamp_utc": "2026-04-02T20:33:40+00:00",
+      "source": "fxleaders",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNXJiMU55SV8zdFRLTXRiVlNvZ0JCWmkwU3Y4QkhxQUVKWXdaYWE4NGtybjBBd1dUOWpuNVNpWklQMTRHRk96cXlaT21vN29oc1FpeE03b3E2SWdNb2xiQ1BtNmp5UjlZNnV1aHNFM2VIMFZJZHdlbmFjQ3FRd21maDY3Z0pIUlRMalJ4bmxmSm5XNGlZMGlQWksxc1hkSTNPX2hkdGg2REp3b3FvTkNwSW00S0dFX0E?oc=5",
+      "title": "Intel’s Irish Chip Fac. Buyback Fuels INTC Stock Surge Above $50 – Can It Hold? - FXLeaders",
+      "body": "Intel’s Irish Chip Fac. Buyback Fuels INTC Stock Surge Above $50 – Can It Hold? FXLeaders",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "fxleaders",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "FXLeaders",
+        "source_domain": "fxleaders.com",
+        "trust_tier": 1,
+        "relevance": 0.7500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "49132acd-6085-5e9f-beb7-68275a6f2bb5",
+      "timestamp_utc": "2026-04-02T09:10:13+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONXNzcjlWYWd2SnVtX0tIZ3RaRGFjUlhDZjdUSUpiTE9UdnQyb3lzbVhKYmY0QkNqcVlJSkdVdlZ0ckpFMjhWalJaMlZVcllpR0UyYTk5ZXpxWUg2OVdKYkFRVDFUNVhqMndOU2hqZlo1bGJFXzJXS2dIcUs0b2hUT1E1a01YSHpuVTVaVTlwdTBTU1VxMWVXRmg1Qy1OUGJGNWZpMEJLNGZjQUFmWmZFenN3T0hDMFlJTTdsd0FJZFZGc2dBWkctanc0MC1vVTg?oc=5",
+      "title": "Crew Capital Management Ltd Invests $1.59 Million in Intel Corporation $INTC - MarketBeat",
+      "body": "Crew Capital Management Ltd Invests $1.59 Million in Intel Corporation $INTC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ace65af8-a908-584e-8c4b-c2b2a5855f10",
+      "timestamp_utc": "2026-04-01T09:46:14+00:00",
+      "source": "techi.com",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE80Njk3YVBRbUJTajNYTFp4a2NqZ28tVFBnUTFvN3VEeS1IeWZPTHJGSU81QUhILV9Zd01BbWt2OEZHZjQ3eDhZMkZ3?oc=5",
+      "title": "Intel Stock (INTC): Complete Analysis, Foundry Update & Forecast 2026 - techi.com",
+      "body": "Intel Stock (INTC): Complete Analysis, Foundry Update & Forecast 2026 techi.com",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "techi.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "techi.com",
+        "source_domain": "techicom.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "44aebc29-4a47-5406-a9ff-7d0984734cdf",
+      "timestamp_utc": "2026-04-01T17:55:11+00:00",
+      "source": "investopedia.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSEhrU3paVHJscy1jVE4tU0d0WTFtRThKLURnOGl6czFybXRISGM0U0pUWm9hVXZYcE9yOXZETDA1Q0loVnFpQXVjU0ZQUC1YeklwRXRXVjVzWkJFZmFPMUdpX2pRT0xTVUF0NjhFQ0lXdlE1N293M1hpb0M3Yl9ZTjJQQmZQdnRuT1NONU1RVUZaaTN4V0RjdlhFUWdRRFVVT29hNEZaUHVXNzYzYkdGamFXbzUzbHRJOTdIZ3p2Rm5fMU9lSDJ5MExHOTFkNnZFejRIcnZwSnBDRURna1hjcXRpYklVZEZ2NWxJ?oc=5",
+      "title": "Intel Leads Wednesday's Chip Stock Rally. It's Paying $14 Billion To Buy Back a 49% Stake in Its Ireland Chip Plant. - investopedia.com",
+      "body": "Intel Leads Wednesday's Chip Stock Rally. It's Paying $14 Billion To Buy Back a 49% Stake in Its Ireland Chip Plant. investopedia.com",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "investopedia.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "investopedia.com",
+        "source_domain": "investopediacom.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f94b2d80-1bc2-547e-939b-5661e6cb7152",
+      "timestamp_utc": "2026-04-02T11:50:23+00:00",
+      "source": "tikr.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMXIwYk5iSS11QmxPY2xYakpDcTY1VnNaVVhxWmRYQTVaemVvREU0bk54Ni1RcGNCb1liVnRDakJqTFdzaU8zLVBWamRMeFVheXZDY0R1ZmV4bUI2RUhBR2Znd0xkMVBTVFhlZzRaUDJGX0pURGpDQ2l3azVTOXJVc3Z3ZHltX1FfVGwyTWxCR2tFbVExaFprdktLb05VUjQ2SHk1VWotZ1pXV2hCOWV2NHcwMnZwWkU?oc=5",
+      "title": "Intel Stock Pops 9% After Chipmaker Buys Back Ireland Factory Stake From Apollo - TIKR.com",
+      "body": "Intel Stock Pops 9% After Chipmaker Buys Back Ireland Factory Stake From Apollo TIKR.com",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "tikr.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TIKR.com",
+        "source_domain": "tikrcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5bd362bf-a90a-5b7c-a0a9-31a0fc26b5e1",
+      "timestamp_utc": "2026-04-02T05:49:29+00:00",
+      "source": "cdn4.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZTVxUUQyVnJrZkFGUUdYTDFYNmdsaGRGcjN2dXVzeC1LYmdHZG4zRlctVHc1T2hPT3k4eU9UdDlmTGthS2dpWkt5U0lDeXQxNjZjdzhjTVJhUDNxMzBGUGRLZzVlTXhuSHhYa21YcVhiWm1QVzA5OHZyVFQySEl0TzM1emo0MzlKUy1MU2xWMzVFdWdMekVmb3ZNUm15VVNobXFJcnlwYy1Fa1pBSk12RHdB?oc=5",
+      "title": "Intel Deepens SambaNova Bet With Fresh $15 Million Investment, Raising Stake As CEO Lip-Bu Tan's Startup Ties Spark Conflict Concerns: Report - cdn4.benzinga.com",
+      "body": "Intel Deepens SambaNova Bet With Fresh $15 Million Investment, Raising Stake As CEO Lip-Bu Tan's Startup Ties Spark Conflict Concerns: Report cdn4.benzinga.com",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "cdn4.benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "cdn4.benzinga.com",
+        "source_domain": "cdn4benzingacom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "dd3d2004-af42-5560-ab61-114231fbb7d6",
+      "timestamp_utc": "2026-04-02T20:05:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUVBoVUFkX2tOcmcwU0x2Tmd5aXlIZzlvdEVNYWRFR01DTHRIS1BUUmNwX3BBV0R0Tk1nTWJyTTJaVHFObmxJZXFGODBJeEN2aE5rMHhtWDhyaHctZHc1enBGVHZHOE9JS1hERHhlbnR5dGh6c2J5ZXAwYW41ODlWLWJZZHZmbkp1WGgySzJCbnRNYlNhZEozZEo1VE0zamc2VWViN3JEYm5FZ1VIdEM0SzVkc3JOcTJDcWlR?oc=5",
+      "title": "Intel taps Zoom's Aparna Bawa to run legal and people teams - Stock Titan",
+      "body": "Intel taps Zoom's Aparna Bawa to run legal and people teams Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "077c48ee-4294-5d42-8d03-9600d1fbb9dd",
+      "timestamp_utc": "2026-04-02T00:29:00+00:00",
+      "source": "thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOTlvU09wQmJHVnJzUXJ1OUhlYUtWSTNHWTZiMWZ4S2ZUMGhRWllXQU55aVF4d0xnVE9SU0U2SGYwZUdhZ2hZUFdWNnZmTjR2dTljckhrc1NaZG9Bai10SEN3a0ZOaFpLWnp6SjZyMWtKMWRWMjNzTWloaVBma0F6UWhwN1JTR3RiaVFZTEczS2Z2NE5v?oc=5",
+      "title": "Intel makes major fab decision amid uncertainty - thestreet.com",
+      "body": "Intel makes major fab decision amid uncertainty thestreet.com",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "thestreet.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "thestreet.com",
+        "source_domain": "thestreetcom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "0038e5b6-dc75-58a5-a9eb-0be6dda40577",
+      "timestamp_utc": "2026-04-01T15:48:54+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdl9jUkFhVHZsblpBWHpBMzBWN0lEbnhzbnRDS1RjZFB3N3drMU5CbGp6Wlh2MHo0Y0FBa1ZJdmQ5OE90SHVmT0ZpUnZCNXd6VWdRZFk5dV9NWmZ0VXZKNE5MWFNmZzJlc25iMGZ1MW5NSnMwLThfeS01aEZhOVpkRUItOVhwOWFTZ3NwaWMwWUdRQW5NTHIwSWI4TU81ajMxam5JOUxVYmRFNTVmT3c?oc=5",
+      "title": "PVH, Micron, Intel And Other Big Stocks Moving Higher On Wednesday - Benzinga",
+      "body": "PVH, Micron, Intel And Other Big Stocks Moving Higher On Wednesday Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC",
+        "MU"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC",
+          "MU"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "b22df7dc-270e-583f-bee2-a651baf0e2d3",
+      "timestamp_utc": "2026-04-02T19:06:58+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/intel-plans-to-ramp-up-relationship-with-sambanova-intel-stock-nasdaqintc-surges",
+      "title": "Intel Plans to Ramp Up Relationship With SambaNova, Intel Stock (NASDAQ:INTC) Surges - TipRanks",
+      "body": "Intel Plans to Ramp Up Relationship With SambaNova, Intel Stock (NASDAQ:INTC) Surges TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d0ea20e9-54f8-5304-98de-911e7bd0d60e",
+      "timestamp_utc": "2026-04-01T19:02:03+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/plan-to-buy-back-chip-facility-interest-sends-intel-stock-nasdaqintc-racing-up",
+      "title": "Plan to Buy Back Chip Facility Interest Sends Intel Stock (NASDAQ:INTC) Racing Up - TipRanks",
+      "body": "Plan to Buy Back Chip Facility Interest Sends Intel Stock (NASDAQ:INTC) Racing Up TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "8932c179-89ff-53fa-b6a4-2e3a055e6d5c",
+      "timestamp_utc": "2026-04-02T22:40:20+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-stock-trades-why-224020029.html",
+      "title": "Intel (INTC) Stock Trades Up, Here Is Why - Yahoo Finance",
+      "body": "Intel (INTC) Stock Trades Up, Here Is Why Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "bd33c86d-a909-5abc-b655-db397b232ff3",
+      "timestamp_utc": "2026-04-02T19:36:19+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/article/4888174-intel-the-easy-money-is-gone",
+      "title": "Intel: The Easy Money Is Gone (NASDAQ:INTC) - Seeking Alpha",
+      "body": "FinkAvenue/iStock Editorial via Getty Images\n\nIntel Corporation (INTC) is back in the headlines this week on news that the company is repurchasing 49% equity interest in its Ireland fab 34 joint venture from Apollo Global (\n\nDon’t just invest—dominate with Tech Contrarians' realized return on closed positions of 65.8% since inception. You’ll get exclusive insights into high-focus stocks, curated watchlists, one-on-one portfolio consultations, and everything from live portfolio tracking to earnings updates on 50+ companies.\n\nAnalyst’s Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "trust_tier": 3,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "141ad73f-1b78-573b-b960-2e8576c761ce",
+      "timestamp_utc": "2026-04-01T21:58:27+00:00",
+      "source": "motley_fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/04/01/stock-market-today-april-1-intel-surges-on-142-billion-fab-buyback/",
+      "title": "Stock Market Today, April 1: Intel Surges on $14.2 Billion Fab Buyback - The Motley Fool",
+      "body": "Stock Market Today, April 1: Intel Surges on $14.2 Billion Fab Buyback The Motley Fool",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "fool.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Motley Fool",
+        "source_domain": "fool.com",
+        "trust_tier": 3,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "699bd092-510a-551b-95c3-d4deabad65e4",
+      "timestamp_utc": "2026-04-02T21:07:00+00:00",
+      "source": "marketwatch",
+      "url": "https://www.marketwatch.com/story/intels-stock-has-been-climbing-and-this-could-be-its-next-big-catalyst-adc95a17?gaa_at=eafs&gaa_n=AWEtsqfkjSNSaGlG8fdvEDFw18YUYJyUSQC4k6KVQn4ft8m8ozIQQtN2D99j&gaa_ts=69cf5afc&gaa_sig=T6qSsDYqS-3DYkJfGJolefya3NQtwDU1MlUSia7LxPIxMT8DSK0QuWlJS4s-f9267FIGOIEdBDKTbk1k7NqxVQ%3D%3D",
+      "title": "Intel’s stock has been climbing — and this could be its next big catalyst - MarketWatch",
+      "body": "Intel’s stock has been climbing — and this could be its next big catalyst MarketWatch",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "marketwatch.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketWatch",
+        "source_domain": "marketwatch.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0c48a77a-8b6c-5284-ba36-dc6de46900b4",
+      "timestamp_utc": "2026-04-02T16:50:48+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVHFnd1NfcTJqZGM0bENtLU5tcHU2LXdObWsyN0g2Y1ZxWXkyMEdneE13bmFwM2pla0c5aXF4U3R1cUdBY2dFbFZVT1RGRTlfUF9yNVdDQmZoMF9lMkxORk1aMDhnc2M1WjIxTUlsOU9hWVZsX05TX0RmT0s5a2d3WkdFdWtQMDZPRklsdUMtWDNHS25iWnhPOW1uZ2lKVzh3U0E0?oc=5",
+      "title": "What's Going On With Intel Stock Thursday? - Benzinga",
+      "body": "What's Going On With Intel Stock Thursday? Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ec850a44-6c6e-501f-97a7-47a020689b0b",
+      "timestamp_utc": "2026-04-02T01:53:00+00:00",
+      "source": "motley_fool",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05Y3prbTVGeEQ5NVVmQ1JTLU1ZWlhzUG90a2h3bE9OelZuOHJLRWw5UUxUQ0xBVm1vaUgwbGhsLW91RGd2NnFmQjRYMmpPYVpkcnIxUnRQSVhoMERMNjJyOVhSTVFPRWhoN3ZWV1NIVzM4d0xxa1NoWlhB?oc=5",
+      "title": "Why Intel Stock Popped Today - The Motley Fool",
+      "body": "Why Intel Stock Popped Today The Motley Fool",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "fool.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "The Motley Fool",
+        "source_domain": "fool.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "17fca475-5e57-5f9d-884c-407ab7bf96b4",
+      "timestamp_utc": "2026-04-01T15:52:30+00:00",
+      "source": "cnbc",
+      "url": "https://www.cnbc.com/2026/04/01/stocks-making-the-biggest-moves-midday-lly-has-pm-intc-mu.html",
+      "title": "Stocks making the biggest moves midday: Eli Lilly, Hasbro, Philip Morris, Intel, Micron & more - CNBC",
+      "body": "Check out the companies making the biggest moves in midday trading: Eli Lilly — The Food and Drug Administration approved Foundayo , the company's once-daily GLP-1 pill to treat obesity.\n\nHasbro — The toymaker fell more than 4% after it disclosed a cybersecurity incident where there was unauthorized access to the company's network.\n\nHasbro has taken certain systems offline and is currently conducting an investigation to discover the full impact of the incident and solve it.\n\nThe company also said it will take on additional measures to protect its business as needed.\n\nPhilip Morris International — The international tobacco firm saw shares dropping more than 5% after Reuters reported the FDA delayed authorization for sales of nicotine pouch products as agency scientists grew concerned about potential risks to new ‌users, including children.\n\nIntel — Shares popped 9% after the semiconductor manufacturer announced it will repurchase a 49% stake in its Ireland Fab 34 joint venture from Apollo Global Management for $14.2 billion.\n\nThe Ireland Fab 34 facility produces chips using Intel's latest process technologies, Intel 3 and Intel 4.\n\nThe move will be funded through a mix of cash on hand and roughly $6.5 billion in new debt.\n\nCal-Maine — The egg producer gained 5.8% following its beat on both the top and bottom lines.\n\nCal-Maine's third-quarter earnings came in at $1.06 per share, beating the 70 cents expected from analysts polled by FactSet.\n\nRevenue was $667 million, versus the $642.5 million consensus estimate.\n\nMemory stocks — Investors' favorite group in 2026 continued their rebound on Wednesday after a hefty sell-off that lasted through Monday trading.\n\nA number of Wall Street firms issued fresh notes on the group.\n\nSeagate Technology gained more than 8% and Lam Research jumped nearly 5%.\n\nMicron added 10% as Cantor Fitzgerald touted the stock as a top pick.\n\nNike — The athletic apparel stock slumped 14% after its North American revenue came in at $5.03 billion, while analysts surveyed by LSEG had expected $5.04 billion.\n\nHowever, Nike posted fiscal third-quarter earnings of 35 cents per share and $11.28 billion in revenue.\n\nThat exceeded the expected earnings of 28 cents per share and the anticipated $11.24 billion in revenue.\n\nThe stock also was pressured by downgrades from JPMorgan, Bank of America and Goldman Sachs.\n\nDave & Buster's Entertainment — Shares rose 20% after management said the company expects an increase in same-store sales, revenue and adjusted earnings before interest, taxes, depreciation and amortization during 2026.\n\nDave & Buster's posted a fourth-quarter adjusted loss of 35 cents per share and revenue of $529.6 million.\n\nAnalysts polled by FactSet had expected a profit of 39 cents per share and $555.9 million in revenue.\n\nPVH — The clothing company, which owns brands Tommy Hilfiger and Calvin Klein, added 9% after posting fourth-quarter adjusted earnings of $3.82 per share and revenue of $2.51 billion.\n\nAnalysts had expected earnings of $3.31 per share and $2.43 billion in revenue, according to FactSet.\n\nRH said it sees full-year revenue growth ranging from 4% to 8%, missing the Street's estimate of 8.8%.\n\nFourth-quarter adjusted earnings came in at $1.53 per share and revenue was $843 million.\n\nThe LSEG consensus forecast had called for earnings of $2.22 per share and revenue of $873 million.\n\nNCino — Shares surged 12% after the cloud-based software company reported first-quarter revenue guidance of $154.5 million to $156.4 million, topping the FactSet consensus of $152.7 million.\n\nFourth-quarter revenue also surpassed expectations, landing at $149.7 million, versus the $147.9 million analysts had anticipated.\n\nOil stocks — Energy companies came under pressure as Western Texas Intermediate Crude futures once again fell below $100 on renewed investor hopes that an end to the Iran war is near.\n\nConocoPhillips and EOG Resources both fell more than 3%, while Occidental Petroleum declined over 4%.\n\nNewmont — The gold miner jumped 6% as gold prices rebounded to start April after its worst month since 2013.\n\nGold was up more than 2%, and earlier in the session traded at levels it hadn't hit since March 20.\n\nAres Management — Shares fell 1% after the company revised down its first-quarter net performance income guidance on Tuesday.\n\nAres expects that figure to be around $75 million instead of the previously forecasted $100 million.\n\n— CNBC's Christina Cheddar Berk, Michelle Fox, and Yun Li contributed to this report.",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "cnbc.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "CNBC",
+        "source_domain": "cnbc.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "102b3174-6fb5-5048-9d65-dd2126ec8ad5",
+      "timestamp_utc": "2026-04-02T19:17:54+00:00",
+      "source": "247_wall_st",
+      "url": "https://247wallst.com/investing/2026/04/02/intel-climbs-4-as-ai-hardware-momentum-and-fab-buyback-make-the-bull-case-hard-to-dismiss/",
+      "title": "Intel Climbs 4% as AI Hardware Momentum and Fab Buyback Make the Bull Case Hard to Dismiss - 24/7 Wall St.",
+      "body": "Intel Corporation (NASDAQ:INTC) stock is up 4% in Thursday trading, changing hands at nearly $50 after opening at $48.03. The move extends a strong run that has INTC stock up 35% year-to-date and 126% over the past year. Today is the last session before Good Friday, so some of the momentum may reflect pre-holiday position-squaring alongside genuine fundamental conviction.\n\nTwo catalysts are doing the heavy lifting: Intel’s $14.2 billion buyback of Apollo Global Management’s 49% stake in Fab 34 in Ireland, announced April 1, and mounting evidence that Intel’s AI hardware business is gaining real traction. Together, they’re building a bull case that’s getting harder to wave away, even for skeptics.\n\nApollo Global Management (NYSE:APO) had originally acquired the 49% stake in 2022 for $11.2 billion to help fund facility expansion at a time when Intel needed outside capital. Intel’s decision to buy it back for $14.2 billion, funded through cash on hand and roughly $6.5 billion in new debt, management believes the balance sheet can now support full ownership of one of its most strategic fabs.\n\nThe transaction is expected to be accretive to EPS and strengthen Intel’s credit profile from 2027 onwards. Northland Capital Markets called the deal bullish, anticipating improved financial health and operational autonomy for Intel, particularly given a looming global shortage of 3nm capacity. New Street Research responded by raising its INTC stock price target from $40 to $50.\n\nIntel CFO David Zinsner offered useful balance sheet context on the Q4 earnings call:\n\n“We exit 2025 with $37.4 billion of cash and short-term investments, bolstered by further monetization of Mobileye, the completion of our stake sale of Altera to Silver Lake, accelerated funding from the U.S. government, and investments by the SoftBank Group and NVIDIA.”\n\nThat’s the financial footing that makes a deal of this size possible.\n\nIntel’s Data Center and AI Group delivered Q4 2025 revenue up 15% sequentially, which Zinsner described on the earnings call as “the fastest sequential growth this decade.” He added that Intel’s revenue “would have been meaningfully higher if we had more supply,” a supply constraint that also reflects genuine demand strength.\n\nIntel’s Xeon 6 CPUs and Arc Pro B-Series GPUs have demonstrated up to 1.8x faster AI inference performance, enhancing scalability and enterprise features. Moreover, the Terafab chip factory project with SpaceX and xAI in Austin, Texas adds further long-term manufacturing optionality.\n\nIntel CEO Lip-Bu Tan was direct about where hyperscaler demand is pointing: “Their first choice is the CPU from Intel. And that is a very clear message from them. They will try to get as much as we can give them.” For a company that spent years losing data center share, that’s a meaningful shift in tone, and it’s backed by sequential revenue data.\n\nIntel’s Core Ultra Series 3 commercial PCs, built on the company’s 18A process, represent the client side of the same AI compute story. For a deeper look at how Intel stacks up against the competition, our recent analysis lays out the challenging landscape heading into the rest of 2026.\n\nGranted, the bull case has real counterweights. Intel’s gross margin stands at 34.77% and operating margin remains negative at -4.19%, reflecting a manufacturing base still in transition. The analyst consensus for INTC stock, per FactSet, remains “Reduce” with an average price target of $45.74, which is below where Intel shares trade currently.\n\nThere’s also a geopolitical wrinkle. Iran’s Islamic Revolutionary Guard Corps named Intel on a list of U.S. companies with Gulf operations it threatened, a risk that’s been compartmentalized by markets so far but bears watching. Competition from Intel’s peers in AI silicon remains intense on every front.\n\nNo matter how you slice it, INTC stock has moved from a turnaround story that required faith to one increasingly supported by data. Watch for whether today’s gains hold into the close and whether supply improvements in Q2, flagged explicitly in guidance, start showing up in the next earnings print.",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "247wallst.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "24/7 Wall St.",
+        "source_domain": "247wallst.com",
+        "trust_tier": 2,
+        "relevance": 0.65,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "075eefa7-371f-57ca-8f24-ba0a5754593e",
+      "timestamp_utc": "2026-04-02T14:40:00+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd25OYnB5UUxMbTA0TE9BR0hSMTg1VUxOQVJQOEtCSFlCMWRJbjR5ODFRaHNPRU52S0RZRnJoMlRwaUlGMkgzMmpwQ2d5TThGTkFEczBZNWxGTnVoNjRPbnFWV1otSVRaXy10VTdUemN5N0NLYXRHRHA3a3V3akJJel9RUVk5QXo4bVZqZk5QXzhySkJ3YkZCLUR3QmdJcXZWM01ma20xZC1NQ0czRk0tdHEweWk5QmQ3V3FYVmtkRGM?oc=5",
+      "title": "Can INTC's Advancements in AI Inference Bolster Its Market Position? - TradingView",
+      "body": "Can INTC's Advancements in AI Inference Bolster Its Market Position? TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "576833c4-5d2b-5e5d-8139-cf7147f66fc3",
+      "timestamp_utc": "2026-04-02T20:33:40+00:00",
+      "source": "fxleaders",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNXJiMU55SV8zdFRLTXRiVlNvZ0JCWmkwU3Y4QkhxQUVKWXdaYWE4NGtybjBBd1dUOWpuNVNpWklQMTRHRk96cXlaT21vN29oc1FpeE03b3E2SWdNb2xiQ1BtNmp5UjlZNnV1aHNFM2VIMFZJZHdlbmFjQ3FRd21maDY3Z0pIUlRMalJ4bmxmSm5XNGlZMGlQWksxc1hkSTNPX2hkdGg2REp3b3FvTkNwSW00S0dFX0E?oc=5",
+      "title": "Intel’s Irish Chip Fac. Buyback Fuels INTC Stock Surge Above $50 – Can It Hold? - FXLeaders",
+      "body": "Intel’s Irish Chip Fac. Buyback Fuels INTC Stock Surge Above $50 – Can It Hold? FXLeaders",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "fxleaders",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "FXLeaders",
+        "source_domain": "fxleaders.com",
+        "trust_tier": 1,
+        "relevance": 0.7500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "49132acd-6085-5e9f-beb7-68275a6f2bb5",
+      "timestamp_utc": "2026-04-02T09:10:13+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONXNzcjlWYWd2SnVtX0tIZ3RaRGFjUlhDZjdUSUpiTE9UdnQyb3lzbVhKYmY0QkNqcVlJSkdVdlZ0ckpFMjhWalJaMlZVcllpR0UyYTk5ZXpxWUg2OVdKYkFRVDFUNVhqMndOU2hqZlo1bGJFXzJXS2dIcUs0b2hUT1E1a01YSHpuVTVaVTlwdTBTU1VxMWVXRmg1Qy1OUGJGNWZpMEJLNGZjQUFmWmZFenN3T0hDMFlJTTdsd0FJZFZGc2dBWkctanc0MC1vVTg?oc=5",
+      "title": "Crew Capital Management Ltd Invests $1.59 Million in Intel Corporation $INTC - MarketBeat",
+      "body": "Crew Capital Management Ltd Invests $1.59 Million in Intel Corporation $INTC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.6500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "ace65af8-a908-584e-8c4b-c2b2a5855f10",
+      "timestamp_utc": "2026-04-01T09:46:14+00:00",
+      "source": "techi.com",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE80Njk3YVBRbUJTajNYTFp4a2NqZ28tVFBnUTFvN3VEeS1IeWZPTHJGSU81QUhILV9Zd01BbWt2OEZHZjQ3eDhZMkZ3?oc=5",
+      "title": "Intel Stock (INTC): Complete Analysis, Foundry Update & Forecast 2026 - techi.com",
+      "body": "Intel Stock (INTC): Complete Analysis, Foundry Update & Forecast 2026 techi.com",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "techi.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "techi.com",
+        "source_domain": "techicom.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "44aebc29-4a47-5406-a9ff-7d0984734cdf",
+      "timestamp_utc": "2026-04-01T17:55:11+00:00",
+      "source": "investopedia.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSEhrU3paVHJscy1jVE4tU0d0WTFtRThKLURnOGl6czFybXRISGM0U0pUWm9hVXZYcE9yOXZETDA1Q0loVnFpQXVjU0ZQUC1YeklwRXRXVjVzWkJFZmFPMUdpX2pRT0xTVUF0NjhFQ0lXdlE1N293M1hpb0M3Yl9ZTjJQQmZQdnRuT1NONU1RVUZaaTN4V0RjdlhFUWdRRFVVT29hNEZaUHVXNzYzYkdGamFXbzUzbHRJOTdIZ3p2Rm5fMU9lSDJ5MExHOTFkNnZFejRIcnZwSnBDRURna1hjcXRpYklVZEZ2NWxJ?oc=5",
+      "title": "Intel Leads Wednesday's Chip Stock Rally. It's Paying $14 Billion To Buy Back a 49% Stake in Its Ireland Chip Plant. - investopedia.com",
+      "body": "Intel Leads Wednesday's Chip Stock Rally. It's Paying $14 Billion To Buy Back a 49% Stake in Its Ireland Chip Plant. investopedia.com",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "investopedia.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "investopedia.com",
+        "source_domain": "investopediacom.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "f94b2d80-1bc2-547e-939b-5661e6cb7152",
+      "timestamp_utc": "2026-04-02T11:50:23+00:00",
+      "source": "tikr.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMXIwYk5iSS11QmxPY2xYakpDcTY1VnNaVVhxWmRYQTVaemVvREU0bk54Ni1RcGNCb1liVnRDakJqTFdzaU8zLVBWamRMeFVheXZDY0R1ZmV4bUI2RUhBR2Znd0xkMVBTVFhlZzRaUDJGX0pURGpDQ2l3azVTOXJVc3Z3ZHltX1FfVGwyTWxCR2tFbVExaFprdktLb05VUjQ2SHk1VWotZ1pXV2hCOWV2NHcwMnZwWkU?oc=5",
+      "title": "Intel Stock Pops 9% After Chipmaker Buys Back Ireland Factory Stake From Apollo - TIKR.com",
+      "body": "Intel Stock Pops 9% After Chipmaker Buys Back Ireland Factory Stake From Apollo TIKR.com",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "tikr.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TIKR.com",
+        "source_domain": "tikrcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "5bd362bf-a90a-5b7c-a0a9-31a0fc26b5e1",
+      "timestamp_utc": "2026-04-02T05:49:29+00:00",
+      "source": "cdn4.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZTVxUUQyVnJrZkFGUUdYTDFYNmdsaGRGcjN2dXVzeC1LYmdHZG4zRlctVHc1T2hPT3k4eU9UdDlmTGthS2dpWkt5U0lDeXQxNjZjdzhjTVJhUDNxMzBGUGRLZzVlTXhuSHhYa21YcVhiWm1QVzA5OHZyVFQySEl0TzM1emo0MzlKUy1MU2xWMzVFdWdMekVmb3ZNUm15VVNobXFJcnlwYy1Fa1pBSk12RHdB?oc=5",
+      "title": "Intel Deepens SambaNova Bet With Fresh $15 Million Investment, Raising Stake As CEO Lip-Bu Tan's Startup Ties Spark Conflict Concerns: Report - cdn4.benzinga.com",
+      "body": "Intel Deepens SambaNova Bet With Fresh $15 Million Investment, Raising Stake As CEO Lip-Bu Tan's Startup Ties Spark Conflict Concerns: Report cdn4.benzinga.com",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "cdn4.benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "cdn4.benzinga.com",
+        "source_domain": "cdn4benzingacom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "dd3d2004-af42-5560-ab61-114231fbb7d6",
+      "timestamp_utc": "2026-04-02T20:05:00+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUVBoVUFkX2tOcmcwU0x2Tmd5aXlIZzlvdEVNYWRFR01DTHRIS1BUUmNwX3BBV0R0Tk1nTWJyTTJaVHFObmxJZXFGODBJeEN2aE5rMHhtWDhyaHctZHc1enBGVHZHOE9JS1hERHhlbnR5dGh6c2J5ZXAwYW41ODlWLWJZZHZmbkp1WGgySzJCbnRNYlNhZEozZEo1VE0zamc2VWViN3JEYm5FZ1VIdEM0SzVkc3JOcTJDcWlR?oc=5",
+      "title": "Intel taps Zoom's Aparna Bawa to run legal and people teams - Stock Titan",
+      "body": "Intel taps Zoom's Aparna Bawa to run legal and people teams Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "077c48ee-4294-5d42-8d03-9600d1fbb9dd",
+      "timestamp_utc": "2026-04-02T00:29:00+00:00",
+      "source": "thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOTlvU09wQmJHVnJzUXJ1OUhlYUtWSTNHWTZiMWZ4S2ZUMGhRWllXQU55aVF4d0xnVE9SU0U2SGYwZUdhZ2hZUFdWNnZmTjR2dTljckhrc1NaZG9Bai10SEN3a0ZOaFpLWnp6SjZyMWtKMWRWMjNzTWloaVBma0F6UWhwN1JTR3RiaVFZTEczS2Z2NE5v?oc=5",
+      "title": "Intel makes major fab decision amid uncertainty - thestreet.com",
+      "body": "Intel makes major fab decision amid uncertainty thestreet.com",
+      "author": null,
+      "language": "en",
+      "ticker": "INTC",
+      "tickers_hint": [
+        "INTC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "thestreet.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "thestreet.com",
+        "source_domain": "thestreetcom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "INTC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

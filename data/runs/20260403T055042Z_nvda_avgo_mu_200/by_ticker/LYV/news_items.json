@@ -1,0 +1,60 @@
+[
+  {
+    "id": "7f539252-3ca8-577c-9261-7143434daf2d",
+    "timestamp_utc": "2026-04-03T02:37:30+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8768419/live-nation-entertainment-lyv-wells-fargo-lowers-price-target-lyv-stock-news?mobile=true",
+    "title": "Live Nation Entertainment (LYV): Wells Fargo Lowers Price Target - GuruFocus",
+    "body": "Live Nation Entertainment (LYV): Wells Fargo Lowers Price Target GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "LYV",
+    "tickers_hint": [
+      "LYV"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "LYV"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "aa955db8-ba83-52f3-b02e-de8b80d038db",
+    "timestamp_utc": "2026-04-01T07:11:10+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-live-nation-entertainment-inc-lyv-shares-bought-by-allspring-global-investments-holdings-llc-2026-04-01/",
+    "title": "Live Nation Entertainment, Inc. $LYV Shares Bought by Allspring Global Investments Holdings LLC - MarketBeat",
+    "body": "Live Nation Entertainment, Inc. $LYV Shares Bought by Allspring Global Investments Holdings LLC MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "LYV",
+    "tickers_hint": [
+      "LYV"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "LYV"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

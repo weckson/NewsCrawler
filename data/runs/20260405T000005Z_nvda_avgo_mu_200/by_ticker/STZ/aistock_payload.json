@@ -1,0 +1,72 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "0615b213-4ce7-5c59-a35c-48f3cd57192a",
+      "timestamp_utc": "2026-04-03T18:30:25+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/will-constellation-brands-stz-beat-estimates-again-in-its-next-earnings-report/ar-AA206rdd",
+      "title": "Will Constellation Brands (STZ) beat estimates again in its next earnings report? - MSN",
+      "body": "Will Constellation Brands (STZ) beat estimates again in its next earnings report? MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "STZ"
+        ],
+        "alt_sources": [
+          "sharewise.com"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "0615b213-4ce7-5c59-a35c-48f3cd57192a",
+      "timestamp_utc": "2026-04-03T18:30:25+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/will-constellation-brands-stz-beat-estimates-again-in-its-next-earnings-report/ar-AA206rdd",
+      "title": "Will Constellation Brands (STZ) beat estimates again in its next earnings report? - MSN",
+      "body": "Will Constellation Brands (STZ) beat estimates again in its next earnings report? MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "STZ"
+        ],
+        "alt_sources": [
+          "sharewise.com"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

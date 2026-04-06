@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "17a98338-d5c4-545e-88d9-7b71bc57d99c",
-      "timestamp_utc": "2026-04-01T06:38:57+00:00",
-      "source": "msn",
-      "url": "https://www.msn.com/en-us/money/topstocks/why-is-workday-wday-down-46-since-last-earnings-report/ar-AA1Zt9dT",
-      "title": "Why is Workday (WDAY) down 4.6% since last earnings report? - MSN",
-      "body": "Why is Workday (WDAY) down 4.6% since last earnings report? MSN",
+      "id": "807c774d-6649-552e-b301-15cc155af728",
+      "timestamp_utc": "2026-04-03T11:31:10+00:00",
+      "source": "chartmill.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMEljbGIwdkhRTjVmYUJaMV9QYV9KcEFwakR0RzA4a01wUmFsVURBeFFrMU9ETkxQRXQzTHBEZkVkbmU3d25kTlpkN3MyT25UV2hvY01XV3hSQ010VFlMMlNzd1QtVk9reVcxbU51U21WY1VLV3MxUS1YV1NTNWt0QmdoVUk5RGhNS2Y0QjdCZDZIQkdFQllLSnhPeGEyWk8xaTBuZ1JUbjFWR3VUUW0wSjhOVDhJWjkzM2VXTVBKNno2OTVaajNzYw?oc=5",
+      "title": "Workday Inc-Class A (NASDAQ:WDAY) Fits the \"Affordable Growth\" Investment Strategy - chartmill.com",
+      "body": "Workday Inc-Class A (NASDAQ:WDAY) Fits the \"Affordable Growth\" Investment Strategy chartmill.com",
       "author": null,
       "language": "en",
       "ticker": "WDAY",
@@ -15,13 +15,13 @@
         "WDAY"
       ],
       "source_quality": "low",
-      "publisher_raw": "msn",
+      "publisher_raw": "chartmill.com",
       "meta": {
         "channel": "google_broad",
-        "source_name": "MSN",
-        "source_domain": "msn.com",
+        "source_name": "chartmill.com",
+        "source_domain": "chartmillcom.com",
         "trust_tier": 1,
-        "relevance": 0.6,
+        "relevance": 0.5,
         "event_origin": "news",
         "query_tickers": [
           "WDAY"
@@ -34,12 +34,12 @@
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "17a98338-d5c4-545e-88d9-7b71bc57d99c",
-      "timestamp_utc": "2026-04-01T06:38:57+00:00",
-      "source": "msn",
-      "url": "https://www.msn.com/en-us/money/topstocks/why-is-workday-wday-down-46-since-last-earnings-report/ar-AA1Zt9dT",
-      "title": "Why is Workday (WDAY) down 4.6% since last earnings report? - MSN",
-      "body": "Why is Workday (WDAY) down 4.6% since last earnings report? MSN",
+      "id": "807c774d-6649-552e-b301-15cc155af728",
+      "timestamp_utc": "2026-04-03T11:31:10+00:00",
+      "source": "chartmill.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMEljbGIwdkhRTjVmYUJaMV9QYV9KcEFwakR0RzA4a01wUmFsVURBeFFrMU9ETkxQRXQzTHBEZkVkbmU3d25kTlpkN3MyT25UV2hvY01XV3hSQ010VFlMMlNzd1QtVk9reVcxbU51U21WY1VLV3MxUS1YV1NTNWt0QmdoVUk5RGhNS2Y0QjdCZDZIQkdFQllLSnhPeGEyWk8xaTBuZ1JUbjFWR3VUUW0wSjhOVDhJWjkzM2VXTVBKNno2OTVaajNzYw?oc=5",
+      "title": "Workday Inc-Class A (NASDAQ:WDAY) Fits the \"Affordable Growth\" Investment Strategy - chartmill.com",
+      "body": "Workday Inc-Class A (NASDAQ:WDAY) Fits the \"Affordable Growth\" Investment Strategy chartmill.com",
       "author": null,
       "language": "en",
       "ticker": "WDAY",
@@ -47,13 +47,13 @@
         "WDAY"
       ],
       "source_quality": "low",
-      "publisher_raw": "msn",
+      "publisher_raw": "chartmill.com",
       "meta": {
         "channel": "google_broad",
-        "source_name": "MSN",
-        "source_domain": "msn.com",
+        "source_name": "chartmill.com",
+        "source_domain": "chartmillcom.com",
         "trust_tier": 1,
-        "relevance": 0.6,
+        "relevance": 0.5,
         "event_origin": "news",
         "query_tickers": [
           "WDAY"

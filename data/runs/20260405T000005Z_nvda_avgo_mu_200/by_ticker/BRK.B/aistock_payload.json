@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "587a069f-f0c8-5bed-906a-57c0ca5428a9",
+      "timestamp_utc": "2026-04-03T18:41:27+00:00",
+      "source": "tipranks.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3RoRFNWUFpuZFBtcTlmXzBfa1NDaWVOU2t3QmliOExhMG01aS00NUMyQ0JuOENZbWtMZjJYMFd3RVd6eXhfVVprQ2ZRWFdLcm9vYVFaM1YzX0FicklhYzN1SWNObWNBN1QwNmtyWDlJUWZ1Y3o3djItdW9SQ3hwR25MYW1MZ3hqblZhSlZ0a3ZQTHZlYkRUM09BXzF2TEY5elYydEJYNUVwTzQ?oc=5",
+      "title": "Berkshire Hathaway (BRK.B) Insures Ships Traveling Through the Strait of Hormuz - tipranks.com",
+      "body": "Berkshire Hathaway (BRK.B) Insures Ships Traveling Through the Strait of Hormuz tipranks.com",
+      "author": null,
+      "language": "en",
+      "ticker": "BRK.B",
+      "tickers_hint": [
+        "BRK.B"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "tipranks.com",
+        "source_domain": "tiprankscom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BRK.B"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "587a069f-f0c8-5bed-906a-57c0ca5428a9",
+      "timestamp_utc": "2026-04-03T18:41:27+00:00",
+      "source": "tipranks.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3RoRFNWUFpuZFBtcTlmXzBfa1NDaWVOU2t3QmliOExhMG01aS00NUMyQ0JuOENZbWtMZjJYMFd3RVd6eXhfVVprQ2ZRWFdLcm9vYVFaM1YzX0FicklhYzN1SWNObWNBN1QwNmtyWDlJUWZ1Y3o3djItdW9SQ3hwR25MYW1MZ3hqblZhSlZ0a3ZQTHZlYkRUM09BXzF2TEY5elYydEJYNUVwTzQ?oc=5",
+      "title": "Berkshire Hathaway (BRK.B) Insures Ships Traveling Through the Strait of Hormuz - tipranks.com",
+      "body": "Berkshire Hathaway (BRK.B) Insures Ships Traveling Through the Strait of Hormuz tipranks.com",
+      "author": null,
+      "language": "en",
+      "ticker": "BRK.B",
+      "tickers_hint": [
+        "BRK.B"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "tipranks.com",
+        "source_domain": "tiprankscom.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BRK.B"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

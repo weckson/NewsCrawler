@@ -1,0 +1,89 @@
+[
+  {
+    "id": "e732f4d8-a245-549a-8983-fd90db14bc74",
+    "timestamp_utc": "2026-04-01T20:51:00+00:00",
+    "source": "marketwatch",
+    "url": "https://www.marketwatch.com/data-news/ebay-inc-stock-outperforms-competitors-on-strong-trading-day-2893aeea-fbe035ef6f46?gaa_at=eafs&gaa_n=AWEtsqeXVtNPXqnofsUYUOBqH3OZqQmVdm7icRkIyXXWlQXOK0qNp52c6WSE&gaa_ts=69cfee7d&gaa_sig=mKrha7UZinXSYFO6e8M6lLK1T57H_yzwlGGN2j0Vt-cp6oZ7u04JMnzqo1v4CCiHKjiagNTouWu1ozVr5tzfPA%3D%3D",
+    "title": "eBay Inc. stock outperforms competitors on strong trading day - MarketWatch",
+    "body": "eBay Inc. stock outperforms competitors on strong trading day MarketWatch",
+    "author": null,
+    "language": "en",
+    "ticker": "EBAY",
+    "tickers_hint": [
+      "EBAY"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "marketwatch.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketWatch",
+      "source_domain": "marketwatch.com",
+      "trust_tier": 3,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "EBAY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "dac4499b-f00d-5054-9c9b-4cc7ffa8e0c2",
+    "timestamp_utc": "2026-04-03T11:16:07+00:00",
+    "source": "msn",
+    "url": "https://www.msn.com/en-us/money/companies/why-is-ebay-ebay-up-7-1-since-last-earnings-report/ar-AA1Z4jtD",
+    "title": "Why is eBay (EBAY) up 7.1% since last earnings report? - MSN",
+    "body": "Why is eBay (EBAY) up 7.1% since last earnings report? MSN",
+    "author": null,
+    "language": "en",
+    "ticker": "EBAY",
+    "tickers_hint": [
+      "EBAY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "msn",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MSN",
+      "source_domain": "msn.com",
+      "trust_tier": 1,
+      "relevance": 0.7000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "EBAY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "727cfeba-e550-55ba-8383-1e5f3701c827",
+    "timestamp_utc": "2026-04-02T11:17:15+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-ebay-inc-ebay-shares-purchased-by-hf-advisory-group-llc-2026-04-02/",
+    "title": "eBay Inc. $EBAY Shares Purchased by HF Advisory Group LLC - MarketBeat",
+    "body": "eBay Inc. $EBAY Shares Purchased by HF Advisory Group LLC MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "EBAY",
+    "tickers_hint": [
+      "EBAY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "EBAY"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "8db58e0b-4ff2-57f9-a3a1-87d10044b26f",
-      "timestamp_utc": "2026-04-01T01:01:15+00:00",
+      "id": "31b9a5df-f262-59eb-a763-66a976600fb3",
+      "timestamp_utc": "2026-04-04T08:10:37+00:00",
       "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/AMP/earnings",
-      "title": "AMP Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "AMP Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "url": "https://intellectia.ai/en/stock/AMP/news",
+      "title": "AMP Stock News Today | Earnings, Events & Price Alerts - Intellectia AI",
+      "body": "AMP Stock News Today | Earnings, Events & Price Alerts Intellectia AI",
       "author": null,
       "language": "en",
       "ticker": "AMP",
@@ -21,10 +21,13 @@
         "source_name": "Intellectia AI",
         "source_domain": "intellectiaai.com",
         "trust_tier": 1,
-        "relevance": 0.5,
+        "relevance": 0.55,
         "event_origin": "news",
         "query_tickers": [
           "AMP"
+        ],
+        "alt_sources": [
+          "Intellectia AI"
         ],
         "body_kind": "summary_snippet"
       },
@@ -34,12 +37,12 @@
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "8db58e0b-4ff2-57f9-a3a1-87d10044b26f",
-      "timestamp_utc": "2026-04-01T01:01:15+00:00",
+      "id": "31b9a5df-f262-59eb-a763-66a976600fb3",
+      "timestamp_utc": "2026-04-04T08:10:37+00:00",
       "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/AMP/earnings",
-      "title": "AMP Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "AMP Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "url": "https://intellectia.ai/en/stock/AMP/news",
+      "title": "AMP Stock News Today | Earnings, Events & Price Alerts - Intellectia AI",
+      "body": "AMP Stock News Today | Earnings, Events & Price Alerts Intellectia AI",
       "author": null,
       "language": "en",
       "ticker": "AMP",
@@ -53,10 +56,13 @@
         "source_name": "Intellectia AI",
         "source_domain": "intellectiaai.com",
         "trust_tier": 1,
-        "relevance": 0.5,
+        "relevance": 0.55,
         "event_origin": "news",
         "query_tickers": [
           "AMP"
+        ],
+        "alt_sources": [
+          "Intellectia AI"
         ],
         "body_kind": "summary_snippet"
       },

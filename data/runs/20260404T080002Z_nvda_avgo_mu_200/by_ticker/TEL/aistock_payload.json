@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "70c4ffb5-cc62-5b62-9a45-dafe8fadf08a",
+      "timestamp_utc": "2026-04-04T07:17:09+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbFNnMHZPUUxlOEhEU19uSmk1VGpoV1VFSVVac2FKTWZUTUxtbVBzVjhqLVhYdFBqbFZpSndIRGc1aUFVeHY4WEFjcGlvOXZBYjBsV2QtWURTMXc3RGlXeFFBdGl1QWcyRE9MU2gtZVUyem55TUpkRk53Qk1vRnhzY0NZeEVCR1Vuc1U4VmtMcGMwaTJPVEl5bHAzYTBGMEhCOUJmNmFVY3BtS0dnNmoxS1h3?oc=5",
+      "title": "Aberdeen Group plc Raises Stock Position in TE Connectivity Ltd. $TEL - Defense World",
+      "body": "Aberdeen Group plc Raises Stock Position in TE Connectivity Ltd. $TEL Defense World",
+      "author": null,
+      "language": "en",
+      "ticker": "TEL",
+      "tickers_hint": [
+        "TEL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TEL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "cfff5973-8cef-5fdc-a2fe-5586fe99007d",
+      "timestamp_utc": "2026-04-03T08:23:49+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV3ozb1JqQmR0NGxIWUlTMUd1T1NCU21OZG4xR2VtazY2WWJwdHNpMVBOODQ5SGpna1ZBdmIxZTdkekl3Y1dxVHBnWVQxaHNKdlcxQkVfMzBhUzFhRVpUTFAwdWgzenpwME5TNGNFaFJqajJxMXpTamV3UWw5Nl8td1pYQmRySXlJc1M2OEE1SnZ5a0pBekw1UDlyNDlmdDUyYVM3RmJBcF84R29pa19uQzVB?oc=5",
+      "title": "Dorato Capital Management Invests $586,000 in TE Connectivity Ltd. $TEL - Defense World",
+      "body": "Dorato Capital Management Invests $586,000 in TE Connectivity Ltd. $TEL Defense World",
+      "author": null,
+      "language": "en",
+      "ticker": "TEL",
+      "tickers_hint": [
+        "TEL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TEL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "cb07a2a9-5ed6-5615-b799-daa956f661fd",
+      "timestamp_utc": "2026-04-02T18:17:19+00:00",
+      "source": "גלובס",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNmJXalBNelo0akdEVVRfTS10YWpIVWFsR29tUXhQNmpjR2V1NFJQRndrdVgtUkx0RUhxLW40M0NUNlNnUDZCNndVbVM1TEtDRnB0dUtBVnJ3bUlIVFhrdGtpWjgxdE0xZXo1enFiSzhUUDNDVVYzR2FZbHlYQ0I5QWhHbUpOSlJTb0lUMmMySjRadXd0VlM0UFNrcmE3Rm4tS0gwTHFOMGJidXQtUHZHMg?oc=5",
+      "title": "Globes Online – Israel business news – Israel economic news – Israel banks – Tel Aviv Stock Exchange – Israel stocks –Israel shares – bonds – shekel - Israeli companies – Israel capital market - DLR-C0310.0M609 Shekel/dollar option - גלובס",
+      "body": "Globes Online – Israel business news – Israel economic news – Israel banks – Tel Aviv Stock Exchange – Israel stocks –Israel shares – bonds – shekel - Israeli companies – Israel capital market - DLR-C0310.0M609 Shekel/dollar option גלובס",
+      "author": null,
+      "language": "en",
+      "ticker": "TEL",
+      "tickers_hint": [
+        "TEL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "גלובס",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "גלובס",
+        "source_domain": ".com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TEL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "70c4ffb5-cc62-5b62-9a45-dafe8fadf08a",
+      "timestamp_utc": "2026-04-04T07:17:09+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbFNnMHZPUUxlOEhEU19uSmk1VGpoV1VFSVVac2FKTWZUTUxtbVBzVjhqLVhYdFBqbFZpSndIRGc1aUFVeHY4WEFjcGlvOXZBYjBsV2QtWURTMXc3RGlXeFFBdGl1QWcyRE9MU2gtZVUyem55TUpkRk53Qk1vRnhzY0NZeEVCR1Vuc1U4VmtMcGMwaTJPVEl5bHAzYTBGMEhCOUJmNmFVY3BtS0dnNmoxS1h3?oc=5",
+      "title": "Aberdeen Group plc Raises Stock Position in TE Connectivity Ltd. $TEL - Defense World",
+      "body": "Aberdeen Group plc Raises Stock Position in TE Connectivity Ltd. $TEL Defense World",
+      "author": null,
+      "language": "en",
+      "ticker": "TEL",
+      "tickers_hint": [
+        "TEL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TEL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "cfff5973-8cef-5fdc-a2fe-5586fe99007d",
+      "timestamp_utc": "2026-04-03T08:23:49+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV3ozb1JqQmR0NGxIWUlTMUd1T1NCU21OZG4xR2VtazY2WWJwdHNpMVBOODQ5SGpna1ZBdmIxZTdkekl3Y1dxVHBnWVQxaHNKdlcxQkVfMzBhUzFhRVpUTFAwdWgzenpwME5TNGNFaFJqajJxMXpTamV3UWw5Nl8td1pYQmRySXlJc1M2OEE1SnZ5a0pBekw1UDlyNDlmdDUyYVM3RmJBcF84R29pa19uQzVB?oc=5",
+      "title": "Dorato Capital Management Invests $586,000 in TE Connectivity Ltd. $TEL - Defense World",
+      "body": "Dorato Capital Management Invests $586,000 in TE Connectivity Ltd. $TEL Defense World",
+      "author": null,
+      "language": "en",
+      "ticker": "TEL",
+      "tickers_hint": [
+        "TEL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TEL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "cb07a2a9-5ed6-5615-b799-daa956f661fd",
+      "timestamp_utc": "2026-04-02T18:17:19+00:00",
+      "source": "גלובס",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNmJXalBNelo0akdEVVRfTS10YWpIVWFsR29tUXhQNmpjR2V1NFJQRndrdVgtUkx0RUhxLW40M0NUNlNnUDZCNndVbVM1TEtDRnB0dUtBVnJ3bUlIVFhrdGtpWjgxdE0xZXo1enFiSzhUUDNDVVYzR2FZbHlYQ0I5QWhHbUpOSlJTb0lUMmMySjRadXd0VlM0UFNrcmE3Rm4tS0gwTHFOMGJidXQtUHZHMg?oc=5",
+      "title": "Globes Online – Israel business news – Israel economic news – Israel banks – Tel Aviv Stock Exchange – Israel stocks –Israel shares – bonds – shekel - Israeli companies – Israel capital market - DLR-C0310.0M609 Shekel/dollar option - גלובס",
+      "body": "Globes Online – Israel business news – Israel economic news – Israel banks – Tel Aviv Stock Exchange – Israel stocks –Israel shares – bonds – shekel - Israeli companies – Israel capital market - DLR-C0310.0M609 Shekel/dollar option גלובס",
+      "author": null,
+      "language": "en",
+      "ticker": "TEL",
+      "tickers_hint": [
+        "TEL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "גלובס",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "גלובס",
+        "source_domain": ".com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "TEL"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

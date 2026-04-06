@@ -1,0 +1,89 @@
+[
+  {
+    "id": "b00c9c7f-9b76-537f-82f8-e59c20f7ad7c",
+    "timestamp_utc": "2026-04-03T07:17:36+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-merck-co-inc-mrk-shares-bought-by-aberdeen-group-plc-2026-04-03/",
+    "title": "Merck & Co., Inc. $MRK Shares Bought by Aberdeen Group plc - MarketBeat",
+    "body": "Merck & Co., Inc. $MRK Shares Bought by Aberdeen Group plc MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "MRK",
+    "tickers_hint": [
+      "MRK"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "MRK"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "a4ca1d12-ae38-5f9a-8c7c-5a6bb512726e",
+    "timestamp_utc": "2026-04-02T08:36:44+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-merck-co-inc-mrk-shares-purchased-by-compagnie-lombard-odier-scma-2026-04-02/",
+    "title": "Merck & Co., Inc. $MRK Shares Purchased by Compagnie Lombard Odier SCmA - MarketBeat",
+    "body": "Merck & Co., Inc. $MRK Shares Purchased by Compagnie Lombard Odier SCmA MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "MRK",
+    "tickers_hint": [
+      "MRK"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "MRK"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "9ca8690c-ddfa-5817-bedd-b145e3efb590",
+    "timestamp_utc": "2026-04-01T17:44:39+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaWVIeDA5UENtb2FxeW5aWUpYci1odWtsNkhxT21qVkpwZVBkUkZwSE1Ja28wb0NNZE02WW1sTlJTSDdmNWp4WDk2UHFteEZZRVg2NDFQMDVRN2Y5cUJOSGhweGs5bjIxR3QzeVJnbi1DQTJQS2dxMHA5RTdKbVpSRU5tN0d2U2M3VWIzMFpVdEtJNFc2R3RRSE8yX3RpcHAxNWl2bU9oRDc?oc=5",
+    "title": "Merck (MRK) director Glocer granted 405 phantom stock units, holds 5,100 shares - Stock Titan",
+    "body": "Merck (MRK) director Glocer granted 405 phantom stock units, holds 5,100 shares Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "MRK",
+    "tickers_hint": [
+      "MRK"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "MRK"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

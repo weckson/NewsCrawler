@@ -1,0 +1,89 @@
+[
+  {
+    "id": "98b7dad8-c222-5cbf-b862-576fd62ad6f0",
+    "timestamp_utc": "2026-04-01T12:20:31+00:00",
+    "source": "investing.com",
+    "url": "https://www.investing.com/news/analyst-ratings/argus-raises-consolidated-edison-stock-price-target-on-regulatory-rate-increases-93CH-4592897",
+    "title": "Argus raises Consolidated Edison stock price target on regulatory rate increases - Investing.com",
+    "body": "Argus raises Consolidated Edison stock price target on regulatory rate increases Investing.com",
+    "author": null,
+    "language": "en",
+    "ticker": "ED",
+    "tickers_hint": [
+      "ED"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "investing.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Investing.com",
+      "source_domain": "investing.com",
+      "trust_tier": 2,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "ED"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "78503ba8-f890-5bdf-b86f-501c6006777d",
+    "timestamp_utc": "2026-04-03T07:43:35+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-exchange-traded-concepts-llc-cuts-stake-in-consolidated-edison-inc-ed-2026-04-03/",
+    "title": "Exchange Traded Concepts LLC Cuts Stake in Consolidated Edison Inc $ED - MarketBeat",
+    "body": "Exchange Traded Concepts LLC Cuts Stake in Consolidated Edison Inc $ED MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "ED",
+    "tickers_hint": [
+      "ED"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.6500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "ED"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "aef8b02a-beb0-514c-b26f-dc46370e49ab",
+    "timestamp_utc": "2026-04-01T20:03:38+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ0dMMDEzVVVrQThBQjBPNk95c1M5WmN0T0NTakVNblhzbDg1cFU2Q0Z3OGM3Mi1uZjB3aW9SNndoMksxRjFXT3Qxb2NTM29QUUNEVHp3VXUyWUR2WWhUOXNoMmlVODJpRVVLY0dwVWJDTnZZQ1hsSWNrdFFZXzNENlNuaWx0dFNZc0tmZGlaUDBVUVA5SDZ5ai1TU3NQRVRzdWRiLVowVGRxa2xuY1pNXzN0YUUxUQ?oc=5",
+    "title": "Consolidated Edison (NYSE: ED) director receives stock units as board fee - Stock Titan",
+    "body": "Consolidated Edison (NYSE: ED) director receives stock units as board fee Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "ED",
+    "tickers_hint": [
+      "ED"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "ED"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

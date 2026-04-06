@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "de682db7-55c4-5c2a-8b5b-afafc769ba4f",
+      "timestamp_utc": "2026-04-01T07:06:02+00:00",
+      "source": "msn",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNelpmeXU1N3pWRHNXRThDd3AtcjdDbFlhQkFSQjVoUU5QcVhJQzI0bEJpa04ySGszWGZjcFNRcEJDRm93Nkd2a0dETzgtb0ZfanFvak9jWjhNdE1JOENnNHJjQlM4bWdMbUZKaUhIYXBvNjdfOXFudlBnaGt6ekJNTXpPZnhiMnRqMUtLMnAzVU1nZHdOaFdMT0dhaVB6ejZlZGc0S080bnp6ckY2SkRIMnBWZFlnUVVaMXFVWU9IcEhhT2REVktuTXFZN19XdXlOZXNzaXhORWY3RFZDa0RJMy0yN1VHQmZadTVINE05Sk9Wejlhb1ZNb1BiQ1N1ckJ5WXJrV1FyUFBtTEVkdXloX3hJV0FtS1d5ZzlKdnFLRXBTckRXSlgxMkQxVTBIWEJ3TV9BV3paRW95V0MxX19yaURGaXFBS1kzbEV2VVdLTElsLUcteFdOTFRXNEVSMWt6VGc?oc=5",
+      "title": "DR Horton (DHI) stock moves -1.30%: What you should know - MSN",
+      "body": "DR Horton (DHI) stock moves -1.30%: What you should know MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "DHI",
+      "tickers_hint": [
+        "DHI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "DHI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "de682db7-55c4-5c2a-8b5b-afafc769ba4f",
+      "timestamp_utc": "2026-04-01T07:06:02+00:00",
+      "source": "msn",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNelpmeXU1N3pWRHNXRThDd3AtcjdDbFlhQkFSQjVoUU5QcVhJQzI0bEJpa04ySGszWGZjcFNRcEJDRm93Nkd2a0dETzgtb0ZfanFvak9jWjhNdE1JOENnNHJjQlM4bWdMbUZKaUhIYXBvNjdfOXFudlBnaGt6ekJNTXpPZnhiMnRqMUtLMnAzVU1nZHdOaFdMT0dhaVB6ejZlZGc0S080bnp6ckY2SkRIMnBWZFlnUVVaMXFVWU9IcEhhT2REVktuTXFZN19XdXlOZXNzaXhORWY3RFZDa0RJMy0yN1VHQmZadTVINE05Sk9Wejlhb1ZNb1BiQ1N1ckJ5WXJrV1FyUFBtTEVkdXloX3hJV0FtS1d5ZzlKdnFLRXBTckRXSlgxMkQxVTBIWEJ3TV9BV3paRW95V0MxX19yaURGaXFBS1kzbEV2VVdLTElsLUcteFdOTFRXNEVSMWt6VGc?oc=5",
+      "title": "DR Horton (DHI) stock moves -1.30%: What you should know - MSN",
+      "body": "DR Horton (DHI) stock moves -1.30%: What you should know MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "DHI",
+      "tickers_hint": [
+        "DHI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "DHI"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "553d070c-f295-5c5e-af7f-815fdf4c11a8",
+    "timestamp_utc": "2026-04-02T05:12:03+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/johnson-controls-international-sees-unusually-large-options-volume-nysejci-2026-04-02/",
+    "title": "Johnson Controls International Sees Unusually Large Options Volume (NYSE:JCI) - MarketBeat",
+    "body": "Johnson Controls International Sees Unusually Large Options Volume (NYSE:JCI) MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "JCI",
+    "tickers_hint": [
+      "JCI"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "JCI"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

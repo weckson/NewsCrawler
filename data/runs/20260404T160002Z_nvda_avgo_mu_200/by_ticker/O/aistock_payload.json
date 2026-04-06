@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "6fd15c7c-cb66-5552-8139-d5715decdbba",
+      "timestamp_utc": "2026-04-03T00:58:19+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb0daMlVzaUtuZ284NE9mVlVObFgtclhKT1hsTlVxUk02RklydEI4ZnU0VHBlT2NjQXRVOG1fNXJJck9rZ0FfdWRVNHZmTnlKcERWSFVySjZ1VE94amx4Y3dCVTdBSDdCbUV5UW5QeHlta2hQd2Nvdm9fY2l4WWVFZHI3WkVnY3dmdDlhT0cwMmMwX2loNmstS0dOQUN4am4xN2cxT1FFQXdwZmFWTWc?oc=5",
+      "title": "Realty Income (O) executive sells 7,400 shares at $62.42 average - Stock Titan",
+      "body": "Realty Income (O) executive sells 7,400 shares at $62.42 average Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "O",
+      "tickers_hint": [
+        "O"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "O"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7603be3f-f6fc-5806-8719-5b39226eff84",
+      "timestamp_utc": "2026-04-03T01:51:54+00:00",
+      "source": "investing.com_south_africa",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOTRYUmhsUWRWSUtUalJGbU5iYk1EclVLMUxNYnhndU5JaVpiSEd1cmxCeFM5a0VpcmI3WnhCai1qRVI5OXhYWXJVaXMzYW1ZdXR5RFFiZnUydFBEQTctUENMRWFBRzdWZjBibEpvOFdidm9TODZPeUlsbDZfSk02SlllSFgtTVowekVwd05EbDQtQlJndWVXRHZ3cmNSeXBmb2MwUW96Y2Frb2RrakE?oc=5",
+      "title": "Realty income EVP Bushore sells $461k in stock By Investing.com - Investing.com South Africa",
+      "body": "Realty income EVP Bushore sells $461k in stock By Investing.com Investing.com South Africa",
+      "author": null,
+      "language": "en",
+      "ticker": "O",
+      "tickers_hint": [
+        "O"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "investing.com south africa",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com South Africa",
+        "source_domain": "investingcomsouthafrica.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "O"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "81a5616a-8b0e-5d06-af88-3b6a33a93ea0",
+      "timestamp_utc": "2026-04-02T21:07:50+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTkdLRDlnRFREX3JvTngzeGlpVWFKakdWVVZBS2syOGstYjdud1BEYncwRFBYcm0waW04cjlabUZHSW5lU2c2RUw5alNSbl9FR2d1eE9XVlFQalNYSmF3aHBoakQ4Q19uYVBEdERrWlJQOVZKZVU3WENIMWl4Y1NfVklMLUluNGNIVmVySDMxTl9vNFlCU2ZR?oc=5",
+      "title": "[144] REALTY INCOME CORP SEC Filing - Stock Titan",
+      "body": "[144] REALTY INCOME CORP SEC Filing Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "O",
+      "tickers_hint": [
+        "O"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "O"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "6fd15c7c-cb66-5552-8139-d5715decdbba",
+      "timestamp_utc": "2026-04-03T00:58:19+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb0daMlVzaUtuZ284NE9mVlVObFgtclhKT1hsTlVxUk02RklydEI4ZnU0VHBlT2NjQXRVOG1fNXJJck9rZ0FfdWRVNHZmTnlKcERWSFVySjZ1VE94amx4Y3dCVTdBSDdCbUV5UW5QeHlta2hQd2Nvdm9fY2l4WWVFZHI3WkVnY3dmdDlhT0cwMmMwX2loNmstS0dOQUN4am4xN2cxT1FFQXdwZmFWTWc?oc=5",
+      "title": "Realty Income (O) executive sells 7,400 shares at $62.42 average - Stock Titan",
+      "body": "Realty Income (O) executive sells 7,400 shares at $62.42 average Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "O",
+      "tickers_hint": [
+        "O"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "O"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7603be3f-f6fc-5806-8719-5b39226eff84",
+      "timestamp_utc": "2026-04-03T01:51:54+00:00",
+      "source": "investing.com_south_africa",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOTRYUmhsUWRWSUtUalJGbU5iYk1EclVLMUxNYnhndU5JaVpiSEd1cmxCeFM5a0VpcmI3WnhCai1qRVI5OXhYWXJVaXMzYW1ZdXR5RFFiZnUydFBEQTctUENMRWFBRzdWZjBibEpvOFdidm9TODZPeUlsbDZfSk02SlllSFgtTVowekVwd05EbDQtQlJndWVXRHZ3cmNSeXBmb2MwUW96Y2Frb2RrakE?oc=5",
+      "title": "Realty income EVP Bushore sells $461k in stock By Investing.com - Investing.com South Africa",
+      "body": "Realty income EVP Bushore sells $461k in stock By Investing.com Investing.com South Africa",
+      "author": null,
+      "language": "en",
+      "ticker": "O",
+      "tickers_hint": [
+        "O"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "investing.com south africa",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com South Africa",
+        "source_domain": "investingcomsouthafrica.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "O"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "81a5616a-8b0e-5d06-af88-3b6a33a93ea0",
+      "timestamp_utc": "2026-04-02T21:07:50+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTkdLRDlnRFREX3JvTngzeGlpVWFKakdWVVZBS2syOGstYjdud1BEYncwRFBYcm0waW04cjlabUZHSW5lU2c2RUw5alNSbl9FR2d1eE9XVlFQalNYSmF3aHBoakQ4Q19uYVBEdERrWlJQOVZKZVU3WENIMWl4Y1NfVklMLUluNGNIVmVySDMxTl9vNFlCU2ZR?oc=5",
+      "title": "[144] REALTY INCOME CORP SEC Filing - Stock Titan",
+      "body": "[144] REALTY INCOME CORP SEC Filing Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "O",
+      "tickers_hint": [
+        "O"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "O"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

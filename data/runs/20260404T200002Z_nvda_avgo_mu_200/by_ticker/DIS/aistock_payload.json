@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "e67fcf05-ec0a-520c-9a76-329afb8351ac",
+      "timestamp_utc": "2026-04-02T22:01:51+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMkt6bURQNEJDQ3owLURvaE5LZEZRaTgxdEtDdTdTbmpXWVdOdnBwSlNRMk1uY0I5RnpoNllPUUpsQTlEbE5zMC0zcUZwbmZGY1pORmc2aWp0SEJxUGk1Y0Z3NHBGMEZBSmduNGp6MldXZTdQcmZmeDhmN08wakRVd0g2SkxfUXA0b05SOGF2WXAxd056Ui1CTDA5X2JySk5WX1N6TEVUbkhhaUE?oc=5",
+      "title": "Disney (NYSE: DIS) director Carolyn Everson granted 1,064.7 shares in award - Stock Titan",
+      "body": "Disney (NYSE: DIS) director Carolyn Everson granted 1,064.7 shares in award Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "DIS",
+      "tickers_hint": [
+        "DIS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "DIS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "e67fcf05-ec0a-520c-9a76-329afb8351ac",
+      "timestamp_utc": "2026-04-02T22:01:51+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMkt6bURQNEJDQ3owLURvaE5LZEZRaTgxdEtDdTdTbmpXWVdOdnBwSlNRMk1uY0I5RnpoNllPUUpsQTlEbE5zMC0zcUZwbmZGY1pORmc2aWp0SEJxUGk1Y0Z3NHBGMEZBSmduNGp6MldXZTdQcmZmeDhmN08wakRVd0g2SkxfUXA0b05SOGF2WXAxd056Ui1CTDA5X2JySk5WX1N6TEVUbkhhaUE?oc=5",
+      "title": "Disney (NYSE: DIS) director Carolyn Everson granted 1,064.7 shares in award - Stock Titan",
+      "body": "Disney (NYSE: DIS) director Carolyn Everson granted 1,064.7 shares in award Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "DIS",
+      "tickers_hint": [
+        "DIS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "DIS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

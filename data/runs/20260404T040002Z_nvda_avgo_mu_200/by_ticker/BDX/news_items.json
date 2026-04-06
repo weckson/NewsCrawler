@@ -1,0 +1,31 @@
+[
+  {
+    "id": "026be676-8979-5e1c-b7f9-0a1a87f12869",
+    "timestamp_utc": "2026-04-02T23:00:37+00:00",
+    "source": "yahoo_finance_uk",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hcHlXc2ZOeDVEWVBXdEU1ampHNkJ1LXpCMUpjZUt6bmV4UFZFUGY3d3pCZ2hoMnVLVWFJVjZLMDVPdXp1T1laRVhGUU9tWkpW?oc=5",
+    "title": "Becton, Dickinson and Company (BDX) stock price, news, quote and history - Yahoo Finance UK",
+    "body": "Becton, Dickinson and Company (BDX) stock price, news, quote and history Yahoo Finance UK",
+    "author": null,
+    "language": "en",
+    "ticker": "BDX",
+    "tickers_hint": [
+      "BDX"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo finance uk",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo Finance UK",
+      "source_domain": "yahoofinanceuk.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "BDX"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

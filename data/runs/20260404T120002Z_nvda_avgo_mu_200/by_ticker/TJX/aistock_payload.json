@@ -1,0 +1,304 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "3183112c-221b-510b-8248-5d86ca60bdc7",
+      "timestamp_utc": "2026-04-02T23:10:45+00:00",
+      "source": "investing.com",
+      "url": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-tjx-stock-buy-rating-on-market-share-gains-outlook-93CH-4541600",
+      "title": "UBS reiterates TJX stock Buy rating on market share gains outlook - investing.com",
+      "body": "UBS reiterates TJX stock Buy rating on market share gains outlook investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "TJX",
+      "tickers_hint": [
+        "TJX"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "TJX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c477e493-89e6-59ad-9008-f2805cb7de69",
+      "timestamp_utc": "2026-04-04T04:23:51+00:00",
+      "source": "msn.com",
+      "url": "https://www.msn.com/en-us/money/topstocks/why-is-tjx-tjx-down-0-7-since-last-earnings-report/ar-AA1ZxU70",
+      "title": "Why is TJX (TJX) down 0.7% since last earnings report? - msn.com",
+      "body": "Why is TJX (TJX) down 0.7% since last earnings report? msn.com",
+      "author": null,
+      "language": "en",
+      "ticker": "TJX",
+      "tickers_hint": [
+        "TJX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "msn.com",
+        "source_domain": "msncom.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TJX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "cf8f5c4d-b305-55a1-86cb-78b93288432b",
+      "timestamp_utc": "2026-04-04T08:50:55+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BeGhGTGJEUUFNVi1GUGZlWDZmUm44QnNHWFBsX3ZFZXYwOTZHUHlOTmM5Mk9yVVZmU210Qlc0LUY2ODF0Yl9ldGlqcEMwTFZN?oc=5",
+      "title": "The TJX Companies, Inc. (TJX) stock price, news, quote and history - Yahoo Finance Singapore",
+      "body": "The TJX Companies, Inc. (TJX) stock price, news, quote and history Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "TJX",
+      "tickers_hint": [
+        "TJX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TJX"
+        ],
+        "alt_sources": [
+          "Yahoo Finance Singapore"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d1d944f0-614f-5d33-a029-381bada01caf",
+      "timestamp_utc": "2026-04-04T08:13:42+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44Y1psdGxEY2pxeDVSWXZ5TzhCV0cxVm9GQnljQXREQ0xTUVJ4MlBRTldiRmgxcV9oNk5NRVc2OGVEalR4cWl6a29WX3BQTWc2dC1MUkRLQQ?oc=5",
+      "title": "The TJX Companies, Inc. (TJX) latest stock news and headlines - Yahoo Finance Singapore",
+      "body": "The TJX Companies, Inc. (TJX) latest stock news and headlines Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "TJX",
+      "tickers_hint": [
+        "TJX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TJX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1ad51cd1-56de-59f1-b271-27ae6624c54f",
+      "timestamp_utc": "2026-04-03T16:24:38+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BYW9iOG1mYnFwSzFHQU5hUWlud1dVOVBCNjkzOUtZYm5zTUpfRU0tN041VmhVdHh2ckNHNTFEcWlQdWpwWDI4dlBoVVd5SVQzOVBhN3hNNmk4TDU4NWgzTkt1RGc?oc=5",
+      "title": "TJX SEC Filings - Tjx Companies Inc 10-K, 10-Q, 8-K Forms - Stock Titan",
+      "body": "TJX SEC Filings - Tjx Companies Inc 10-K, 10-Q, 8-K Forms Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "TJX",
+      "tickers_hint": [
+        "TJX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TJX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "3183112c-221b-510b-8248-5d86ca60bdc7",
+      "timestamp_utc": "2026-04-02T23:10:45+00:00",
+      "source": "investing.com",
+      "url": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-tjx-stock-buy-rating-on-market-share-gains-outlook-93CH-4541600",
+      "title": "UBS reiterates TJX stock Buy rating on market share gains outlook - investing.com",
+      "body": "UBS reiterates TJX stock Buy rating on market share gains outlook investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "TJX",
+      "tickers_hint": [
+        "TJX"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "TJX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "c477e493-89e6-59ad-9008-f2805cb7de69",
+      "timestamp_utc": "2026-04-04T04:23:51+00:00",
+      "source": "msn.com",
+      "url": "https://www.msn.com/en-us/money/topstocks/why-is-tjx-tjx-down-0-7-since-last-earnings-report/ar-AA1ZxU70",
+      "title": "Why is TJX (TJX) down 0.7% since last earnings report? - msn.com",
+      "body": "Why is TJX (TJX) down 0.7% since last earnings report? msn.com",
+      "author": null,
+      "language": "en",
+      "ticker": "TJX",
+      "tickers_hint": [
+        "TJX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "msn.com",
+        "source_domain": "msncom.com",
+        "trust_tier": 1,
+        "relevance": 0.7000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TJX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "cf8f5c4d-b305-55a1-86cb-78b93288432b",
+      "timestamp_utc": "2026-04-04T08:50:55+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BeGhGTGJEUUFNVi1GUGZlWDZmUm44QnNHWFBsX3ZFZXYwOTZHUHlOTmM5Mk9yVVZmU210Qlc0LUY2ODF0Yl9ldGlqcEMwTFZN?oc=5",
+      "title": "The TJX Companies, Inc. (TJX) stock price, news, quote and history - Yahoo Finance Singapore",
+      "body": "The TJX Companies, Inc. (TJX) stock price, news, quote and history Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "TJX",
+      "tickers_hint": [
+        "TJX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TJX"
+        ],
+        "alt_sources": [
+          "Yahoo Finance Singapore"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d1d944f0-614f-5d33-a029-381bada01caf",
+      "timestamp_utc": "2026-04-04T08:13:42+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44Y1psdGxEY2pxeDVSWXZ5TzhCV0cxVm9GQnljQXREQ0xTUVJ4MlBRTldiRmgxcV9oNk5NRVc2OGVEalR4cWl6a29WX3BQTWc2dC1MUkRLQQ?oc=5",
+      "title": "The TJX Companies, Inc. (TJX) latest stock news and headlines - Yahoo Finance Singapore",
+      "body": "The TJX Companies, Inc. (TJX) latest stock news and headlines Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "TJX",
+      "tickers_hint": [
+        "TJX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TJX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1ad51cd1-56de-59f1-b271-27ae6624c54f",
+      "timestamp_utc": "2026-04-03T16:24:38+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BYW9iOG1mYnFwSzFHQU5hUWlud1dVOVBCNjkzOUtZYm5zTUpfRU0tN041VmhVdHh2ckNHNTFEcWlQdWpwWDI4dlBoVVd5SVQzOVBhN3hNNmk4TDU4NWgzTkt1RGc?oc=5",
+      "title": "TJX SEC Filings - Tjx Companies Inc 10-K, 10-Q, 8-K Forms - Stock Titan",
+      "body": "TJX SEC Filings - Tjx Companies Inc 10-K, 10-Q, 8-K Forms Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "TJX",
+      "tickers_hint": [
+        "TJX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.6000000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "TJX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "70896b49-4c24-5153-8b93-5a333d4bdd7c",
+      "timestamp_utc": "2026-04-01T19:52:30+00:00",
+      "source": "bitget.com",
+      "url": "https://www.bitget.com/amp/news/detail/12560605327627",
+      "title": "Why Bank of America (BAC) is Likely to Surpass Earnings Expectations Once More - bitget.com",
+      "body": "Why Bank of America (BAC) is Likely to Surpass Earnings Expectations Once More bitget.com",
+      "author": null,
+      "language": "en",
+      "ticker": "BAC",
+      "tickers_hint": [
+        "BAC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "bitget.com",
+        "source_domain": "bitgetcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "BAC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "70896b49-4c24-5153-8b93-5a333d4bdd7c",
+      "timestamp_utc": "2026-04-01T19:52:30+00:00",
+      "source": "bitget.com",
+      "url": "https://www.bitget.com/amp/news/detail/12560605327627",
+      "title": "Why Bank of America (BAC) is Likely to Surpass Earnings Expectations Once More - bitget.com",
+      "body": "Why Bank of America (BAC) is Likely to Surpass Earnings Expectations Once More bitget.com",
+      "author": null,
+      "language": "en",
+      "ticker": "BAC",
+      "tickers_hint": [
+        "BAC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "bitget.com",
+        "source_domain": "bitgetcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "BAC"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

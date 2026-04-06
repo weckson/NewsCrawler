@@ -1,0 +1,252 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "b0e8663b-c085-5b62-8680-29ff2edcac70",
+      "timestamp_utc": "2026-04-01T16:10:04+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-ko-beat-estimates-161004259.html",
+      "title": "Will Coca-Cola (KO) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
+      "body": "Will Coca-Cola (KO) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0620b2bc-8c2b-5f34-8d8d-802142d4eb05",
+      "timestamp_utc": "2026-04-02T22:49:55+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQVpVSmpoeFhYTWcxQ2IyNHN0TGJJb19lWTMwT0J2NzVoYlBfdjEyNXl6dkFJelhhTi01dk93MGhvT1g1d3ZTUDJkUXB5T2dGY19tUXlTcnBGNUVENUx0NW11cC1jTFMtSHJMTmFTQldYY1ViZmMtUklhUW9aUFFEYlVIV0tSbXF4R081Z25B?oc=5",
+      "title": "Coca-Cola Stock (KO) Rises as New Ad Campaign Is Launched - TipRanks",
+      "body": "Coca-Cola Stock (KO) Rises as New Ad Campaign Is Launched TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "186a8d9c-b4c7-5399-8a2a-07eb8614c3e1",
+      "timestamp_utc": "2026-04-01T11:10:53+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9XU3lSQVRZVTIxemdocjNxOEVSc0ZNakczaldZazhkS3pTZzFUTU02WHpQQlJnOG1weDI4OGdfVWlIcFZoZGRzNw?oc=5",
+      "title": "Coca-Cola Co (KO) Stock Price, Quote, News & History - Benzinga",
+      "body": "Coca-Cola Co (KO) Stock Price, Quote, News & History Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "22cbbc92-a077-5459-89aa-ecba14570131",
+      "timestamp_utc": "2026-04-01T10:44:36+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZDNteUVwWExoUGRzdGJxQWVPV3hQWGhLMjVRREVWSnJkQ0xFdUd5UWNVQ1FlRlUybGw3Q1hheGNIbFFTa1dEMk9GX3d5X3FhWmlPcUxScm40M3lOU2REem5vR1BFa0UxMTJRSGkwaXEyY3hKX2tzZExfTkRvaFNVa2NJVzkyWldOUFJiNU9aOVNyNVRwZjA3X2duZjl6ME13aHo0WmhYWm5OSmo0Q3Y5WVNUV3J4bWM?oc=5",
+      "title": "What's Going On With Coca-Cola Stock Wednesday? - Coca-Cola (NYSE:KO) - Benzinga",
+      "body": "What's Going On With Coca-Cola Stock Wednesday? - Coca-Cola (NYSE:KO) Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "b0e8663b-c085-5b62-8680-29ff2edcac70",
+      "timestamp_utc": "2026-04-01T16:10:04+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-ko-beat-estimates-161004259.html",
+      "title": "Will Coca-Cola (KO) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
+      "body": "Will Coca-Cola (KO) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "trust_tier": 3,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "0620b2bc-8c2b-5f34-8d8d-802142d4eb05",
+      "timestamp_utc": "2026-04-02T22:49:55+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQVpVSmpoeFhYTWcxQ2IyNHN0TGJJb19lWTMwT0J2NzVoYlBfdjEyNXl6dkFJelhhTi01dk93MGhvT1g1d3ZTUDJkUXB5T2dGY19tUXlTcnBGNUVENUx0NW11cC1jTFMtSHJMTmFTQldYY1ViZmMtUklhUW9aUFFEYlVIV0tSbXF4R081Z25B?oc=5",
+      "title": "Coca-Cola Stock (KO) Rises as New Ad Campaign Is Launched - TipRanks",
+      "body": "Coca-Cola Stock (KO) Rises as New Ad Campaign Is Launched TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "186a8d9c-b4c7-5399-8a2a-07eb8614c3e1",
+      "timestamp_utc": "2026-04-01T11:10:53+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9XU3lSQVRZVTIxemdocjNxOEVSc0ZNakczaldZazhkS3pTZzFUTU02WHpQQlJnOG1weDI4OGdfVWlIcFZoZGRzNw?oc=5",
+      "title": "Coca-Cola Co (KO) Stock Price, Quote, News & History - Benzinga",
+      "body": "Coca-Cola Co (KO) Stock Price, Quote, News & History Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "22cbbc92-a077-5459-89aa-ecba14570131",
+      "timestamp_utc": "2026-04-01T10:44:36+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZDNteUVwWExoUGRzdGJxQWVPV3hQWGhLMjVRREVWSnJkQ0xFdUd5UWNVQ1FlRlUybGw3Q1hheGNIbFFTa1dEMk9GX3d5X3FhWmlPcUxScm40M3lOU2REem5vR1BFa0UxMTJRSGkwaXEyY3hKX2tzZExfTkRvaFNVa2NJVzkyWldOUFJiNU9aOVNyNVRwZjA3X2duZjl6ME13aHo0WmhYWm5OSmo0Q3Y5WVNUV3J4bWM?oc=5",
+      "title": "What's Going On With Coca-Cola Stock Wednesday? - Coca-Cola (NYSE:KO) - Benzinga",
+      "body": "What's Going On With Coca-Cola Stock Wednesday? - Coca-Cola (NYSE:KO) Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "KO",
+      "tickers_hint": [
+        "KO"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "meta": {
+        "channel": "google_benzinga",
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KO"
+        ],
+        "alt_sources": [
+          "Benzinga"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

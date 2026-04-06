@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "ccace25a-30e1-59e1-8f8b-b9871bdc8d31",
+      "timestamp_utc": "2026-04-03T08:35:52+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pfizer-inc-pfe-stock-position-reduced-by-first-pacific-financial-2026-04-03/",
+      "title": "Pfizer Inc. $PFE Stock Position Reduced by First Pacific Financial - MarketBeat",
+      "body": "Pfizer Inc. $PFE Stock Position Reduced by First Pacific Financial MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "PFE",
+      "tickers_hint": [
+        "PFE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "PFE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "ccace25a-30e1-59e1-8f8b-b9871bdc8d31",
+      "timestamp_utc": "2026-04-03T08:35:52+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pfizer-inc-pfe-stock-position-reduced-by-first-pacific-financial-2026-04-03/",
+      "title": "Pfizer Inc. $PFE Stock Position Reduced by First Pacific Financial - MarketBeat",
+      "body": "Pfizer Inc. $PFE Stock Position Reduced by First Pacific Financial MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "PFE",
+      "tickers_hint": [
+        "PFE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "PFE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

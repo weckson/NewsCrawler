@@ -1,0 +1,72 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "31b9a5df-f262-59eb-a763-66a976600fb3",
+      "timestamp_utc": "2026-04-04T08:10:37+00:00",
+      "source": "intellectia.ai",
+      "url": "https://intellectia.ai/en/stock/AMP/news",
+      "title": "AMP Stock News Today | Earnings, Events & Price Alerts - intellectia.ai",
+      "body": "AMP Stock News Today | Earnings, Events & Price Alerts intellectia.ai",
+      "author": null,
+      "language": "en",
+      "ticker": "AMP",
+      "tickers_hint": [
+        "AMP"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia.ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "intellectia.ai",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMP"
+        ],
+        "alt_sources": [
+          "intellectia.ai"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "31b9a5df-f262-59eb-a763-66a976600fb3",
+      "timestamp_utc": "2026-04-04T08:10:37+00:00",
+      "source": "intellectia.ai",
+      "url": "https://intellectia.ai/en/stock/AMP/news",
+      "title": "AMP Stock News Today | Earnings, Events & Price Alerts - intellectia.ai",
+      "body": "AMP Stock News Today | Earnings, Events & Price Alerts intellectia.ai",
+      "author": null,
+      "language": "en",
+      "ticker": "AMP",
+      "tickers_hint": [
+        "AMP"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia.ai",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "intellectia.ai",
+        "source_domain": "intellectiaai.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "AMP"
+        ],
+        "alt_sources": [
+          "intellectia.ai"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

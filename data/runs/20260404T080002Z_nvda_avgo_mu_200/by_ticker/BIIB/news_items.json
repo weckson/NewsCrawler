@@ -1,0 +1,89 @@
+[
+  {
+    "id": "9943e4b2-6922-5b21-8682-dbd4427b15e7",
+    "timestamp_utc": "2026-04-02T11:48:45+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8766885/biib-analyst-rating-hc-wainwright-co-raises-price-target-to-237-biib-stock-news?mobile=true",
+    "title": "BIIB Analyst Rating: HC Wainwright & Co. Raises Price Target to $237 | BIIB Stock News - GuruFocus",
+    "body": "BIIB Analyst Rating: HC Wainwright & Co. Raises Price Target to $237 | BIIB Stock News GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "BIIB",
+    "tickers_hint": [
+      "BIIB"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.7500000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "BIIB"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "b624e397-3925-54c7-a2de-58b0fe04ec6d",
+    "timestamp_utc": "2026-04-02T12:19:20+00:00",
+    "source": "marketbeat.com",
+    "url": "https://www.marketbeat.com/instant-alerts/biogen-nasdaqbiib-price-target-raised-to-23700-2026-04-02/",
+    "title": "Biogen (NASDAQ:BIIB) Price Target Raised to $237.00 - marketbeat.com",
+    "body": "Biogen (NASDAQ:BIIB) Price Target Raised to $237.00 marketbeat.com",
+    "author": null,
+    "language": "en",
+    "ticker": "BIIB",
+    "tickers_hint": [
+      "BIIB"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "marketbeat.com",
+      "source_domain": "marketbeatcom.com",
+      "trust_tier": 1,
+      "relevance": 0.6,
+      "event_origin": "news",
+      "query_tickers": [
+        "BIIB"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "def964f6-be8f-509e-89e7-70e9fb2141d7",
+    "timestamp_utc": "2026-04-03T20:05:27+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYzlpM3BhR3BOYVB4dTF0dUF6XzBXZmcycWxGSjRwZ0VqcjlEYkdaZUpfc0ZPR3gwazcwNjZZWE81WmhGZl92TkhhS1M5UEh4NEVOMk81OXdSY3VjR0lmYmhhZ2hjVXVNUWxpNnJIbGIySHdSV1poNHI1SFBILTk4Q1dYYjNncWRtUE5iWThvQ2lZMXNWQlFzMUJSM0RCbXBacXNRdnk1bw?oc=5",
+    "title": "Biogen (BIIB) CAO Sean Godbout nets shares from RSU vesting and tax withholding - Stock Titan",
+    "body": "Biogen (BIIB) CAO Sean Godbout nets shares from RSU vesting and tax withholding Stock Titan",
+    "author": null,
+    "language": "en",
+    "ticker": "BIIB",
+    "tickers_hint": [
+      "BIIB"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "BIIB"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

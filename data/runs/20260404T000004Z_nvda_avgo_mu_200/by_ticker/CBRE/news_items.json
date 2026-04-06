@@ -1,0 +1,60 @@
+[
+  {
+    "id": "a085907f-0000-58bc-9173-e747030a42de",
+    "timestamp_utc": "2026-04-03T10:21:09+00:00",
+    "source": "chartmill",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ3lUSXducUlYX2N0QllKWDdVSlRIOXB4ajYwZFJMeERpUDZhcFJlQzlQYzVZY2wxYWlCVnlRQVRwYl9iT2FsbGYzSlRjZGZ0dkp2TDYyM0RNZFVGVWxjVGdQa1J3TUQwejlpTHpPT3NONW03OE05Ri03RUY3ZF9pbFFQSmc0emlyWmJURVh1dlhqYjVEVWFiTW5ucm83WnZVRXRmTWtKNUd1QTZCRDMwMDhZOUNZTllzLXNxcWpqZ2syR1BFUTFsTGZtams0WFE?oc=5",
+    "title": "CBRE Group Inc (NYSE:CBRE) Shows Growth Fundamentals and Technical Breakout Potential - ChartMill",
+    "body": "CBRE Group Inc (NYSE:CBRE) Shows Growth Fundamentals and Technical Breakout Potential ChartMill",
+    "author": null,
+    "language": "en",
+    "ticker": "CBRE",
+    "tickers_hint": [
+      "CBRE"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "chartmill",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "ChartMill",
+      "source_domain": "chartmill.com",
+      "trust_tier": 1,
+      "relevance": 0.6000000000000001,
+      "event_origin": "news",
+      "query_tickers": [
+        "CBRE"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "54216767-105a-5f1c-a29b-a7eb108b3471",
+    "timestamp_utc": "2026-04-02T03:24:59+00:00",
+    "source": "bitget",
+    "url": "https://www.bitget.com/news/detail/12560605332314",
+    "title": "CBRE Encounters \"Sell the News\" Threat as Strong Earnings Could Be Reflected in Current Price - Bitget",
+    "body": "CBRE Encounters \"Sell the News\" Threat as Strong Earnings Could Be Reflected in Current Price Bitget",
+    "author": null,
+    "language": "en",
+    "ticker": "CBRE",
+    "tickers_hint": [
+      "CBRE"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "bitget",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Bitget",
+      "source_domain": "bitget.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "CBRE"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

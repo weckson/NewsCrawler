@@ -1,0 +1,130 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "f9eb911b-ccd4-5a79-acf8-f8dc1afed19f",
+      "timestamp_utc": "2026-04-03T20:04:08+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QUVJZbnE2T0ZrQnhFN0FwMFpwWGdtLVJHU1QzaUVURmdxQmxXNmhmbmRVcGJLOG1Kc1RTWXhkcXBVN0JEaHJpMk5WRjZCRnI0RzFTMHluakFQeVZTS21GNW9n?oc=5",
+      "title": "Abacus Mining & Exploration Corporation (AME.V) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Abacus Mining & Exploration Corporation (AME.V) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "AME",
+      "tickers_hint": [
+        "AME"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AME"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e74b2d38-540a-501d-8ce3-7dc22a279a5e",
+      "timestamp_utc": "2026-04-03T05:29:58+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DUWlnRXlrX2JyRHZZVVZyR0ZWV0hQRWFIcjlUenRyV194cWwyMThrSnFvTkRSNFZLWmhIRWFlYVNzNVN2R3hjSzhuazZjQl9m?oc=5",
+      "title": "AMETEK, Inc. (AME) stock price, news, quote and history - Yahoo Finance Singapore",
+      "body": "AMETEK, Inc. (AME) stock price, news, quote and history Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "AME",
+      "tickers_hint": [
+        "AME"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AME"
+        ],
+        "alt_sources": [
+          "Yahoo Finance Singapore"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "f9eb911b-ccd4-5a79-acf8-f8dc1afed19f",
+      "timestamp_utc": "2026-04-03T20:04:08+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QUVJZbnE2T0ZrQnhFN0FwMFpwWGdtLVJHU1QzaUVURmdxQmxXNmhmbmRVcGJLOG1Kc1RTWXhkcXBVN0JEaHJpMk5WRjZCRnI0RzFTMHluakFQeVZTS21GNW9n?oc=5",
+      "title": "Abacus Mining & Exploration Corporation (AME.V) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Abacus Mining & Exploration Corporation (AME.V) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "AME",
+      "tickers_hint": [
+        "AME"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AME"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "e74b2d38-540a-501d-8ce3-7dc22a279a5e",
+      "timestamp_utc": "2026-04-03T05:29:58+00:00",
+      "source": "yahoo_finance_singapore",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DUWlnRXlrX2JyRHZZVVZyR0ZWV0hQRWFIcjlUenRyV194cWwyMThrSnFvTkRSNFZLWmhIRWFlYVNzNVN2R3hjSzhuazZjQl9m?oc=5",
+      "title": "AMETEK, Inc. (AME) stock price, news, quote and history - Yahoo Finance Singapore",
+      "body": "AMETEK, Inc. (AME) stock price, news, quote and history Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "AME",
+      "tickers_hint": [
+        "AME"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance singapore",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "yahoofinancesingapore.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "AME"
+        ],
+        "alt_sources": [
+          "Yahoo Finance Singapore"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

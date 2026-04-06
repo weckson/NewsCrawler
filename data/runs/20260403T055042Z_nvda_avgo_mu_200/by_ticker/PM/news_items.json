@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1169851a-a467-5ccd-bb38-719f4520ddb0",
+    "timestamp_utc": "2026-04-01T18:49:20+00:00",
+    "source": "gurufocus",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWnU3azZnV3pmNXh3Tjh6X3pWQzZpbzByOU1KQ2pQa1k2ejlRX3YyLU9IcmdpcV90Y0s4ZkVWMTdSMVo2dWNEZVdZNU1lekpqeGsxUTl1Q0puYm1CM0x1T2tyV3Q5bTNoT3FYM2xfUmZ2R1NpN1R1NFJjYVVmc2RIWmhPX0xvM3liQ2FXekdObExqdlA0MDZpWlBHYlI0dlU0c3Z1eDZkdWVOVkJTV19BZ2xOQm1qQQ?oc=5",
+    "title": "Philip Morris International Inc (PM) Stock Price Down 5.85% on A - GuruFocus",
+    "body": "Philip Morris International Inc (PM) Stock Price Down 5.85% on A GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "PM",
+    "tickers_hint": [
+      "PM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "PM"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

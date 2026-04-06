@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "7725f584-c814-5042-ad83-a155c5014df6",
+      "timestamp_utc": "2026-04-01T06:46:05+00:00",
+      "source": "bitget",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3N0ZfVnYwNHdJdGo0ZEtBZmM4ZjBDQUlaazllak1HNm1leTVwXzA3c1JSUWt5TnFOOE9qRy15SHFrcndFOTJhYWFPSE5VMkFjYVNGQkRheFFOQ0Y0NFHSAWNBVV95cUxQeVpBMVRpa1Ayb1ZHbmZBV3Y4cDQ1MUNfVVdVRk9sOXk1NGFJSW9yeE1rTk9VNUlHNTVlTXVPcFFPUkkxNkNDRUJVQkt2YXNfRnRnZVhHMUFtMHNtbmFWdlZtX1k?oc=5",
+      "title": "Here’s Why U.S. Bancorp (USB) Stands Out as a Top Value Stock - Bitget",
+      "body": "Here’s Why U.S. Bancorp (USB) Stands Out as a Top Value Stock Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "USB",
+      "tickers_hint": [
+        "USB"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "USB"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "7725f584-c814-5042-ad83-a155c5014df6",
+      "timestamp_utc": "2026-04-01T06:46:05+00:00",
+      "source": "bitget",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3N0ZfVnYwNHdJdGo0ZEtBZmM4ZjBDQUlaazllak1HNm1leTVwXzA3c1JSUWt5TnFOOE9qRy15SHFrcndFOTJhYWFPSE5VMkFjYVNGQkRheFFOQ0Y0NFHSAWNBVV95cUxQeVpBMVRpa1Ayb1ZHbmZBV3Y4cDQ1MUNfVVdVRk9sOXk1NGFJSW9yeE1rTk9VNUlHNTVlTXVPcFFPUkkxNkNDRUJVQkt2YXNfRnRnZVhHMUFtMHNtbmFWdlZtX1k?oc=5",
+      "title": "Here’s Why U.S. Bancorp (USB) Stands Out as a Top Value Stock - Bitget",
+      "body": "Here’s Why U.S. Bancorp (USB) Stands Out as a Top Value Stock Bitget",
+      "author": null,
+      "language": "en",
+      "ticker": "USB",
+      "tickers_hint": [
+        "USB"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "bitget",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Bitget",
+        "source_domain": "bitget.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "USB"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

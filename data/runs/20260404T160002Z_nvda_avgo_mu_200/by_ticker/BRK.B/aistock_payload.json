@@ -1,0 +1,182 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "587a069f-f0c8-5bed-906a-57c0ca5428a9",
+      "timestamp_utc": "2026-04-03T18:41:27+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3RoRFNWUFpuZFBtcTlmXzBfa1NDaWVOU2t3QmliOExhMG01aS00NUMyQ0JuOENZbWtMZjJYMFd3RVd6eXhfVVprQ2ZRWFdLcm9vYVFaM1YzX0FicklhYzN1SWNObWNBN1QwNmtyWDlJUWZ1Y3o3djItdW9SQ3hwR25MYW1MZ3hqblZhSlZ0a3ZQTHZlYkRUM09BXzF2TEY5elYydEJYNUVwTzQ?oc=5",
+      "title": "Berkshire Hathaway (BRK.B) Insures Ships Traveling Through the Strait of Hormuz - TipRanks",
+      "body": "Berkshire Hathaway (BRK.B) Insures Ships Traveling Through the Strait of Hormuz TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "BRK.B",
+      "tickers_hint": [
+        "BRK.B"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BRK.B"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3103edc0-2aa8-58b6-bc1c-4f41a5efe131",
+      "timestamp_utc": "2026-04-03T04:22:01+00:00",
+      "source": "stock_traders_daily",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZnhnbzd0UnJ4YlFsbXozV2JLUDlhZ1UzWllXVk9RNUFndnhGZVNiajJnaXViNGJsMkhzc2NKN2RtanJ1VmVKanE2QjNqWXNJaVU1RHFBWVdEOFNxc3MtYWlhQlVPVm5faDlSQXRyUzRhcGM2eWNIUTNMRGlwMUJ5QmlLdzZxc0pITFdiNjFaUDJPajE0dXZYV3E1eTVmU3NiLXYzclFoOGsxZWFvUFZ4YzJSb1I0SGkyNzRINW9qQjZyYTFIa05aUzNqZ3Q3Zw?oc=5",
+      "title": "Behavioral Patterns of BRK.B and Institutional Flows - Stock Traders Daily",
+      "body": "Behavioral Patterns of BRK.B and Institutional Flows Stock Traders Daily",
+      "author": null,
+      "language": "en",
+      "ticker": "BRK.B",
+      "tickers_hint": [
+        "BRK.B"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock traders daily",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Traders Daily",
+        "source_domain": "stocktradersdaily.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BRK.B"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1cae558c-ef6a-59c6-9156-4d24c1b9022a",
+      "timestamp_utc": "2026-04-02T20:15:21+00:00",
+      "source": "cnn",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jUG9rWXlya1pnYW1EdjFfUFRtNTJTMXppWEhpRE45U0Z2cXZtRUUtdHhoZVM4ZzlGZ1NDNVlheUs0Zlp6THFpY01FOWFQanhwbmc?oc=5",
+      "title": "BRK.B Stock Quote Price and Forecast - CNN",
+      "body": "BRK.B Stock Quote Price and Forecast CNN",
+      "author": null,
+      "language": "en",
+      "ticker": "BRK.B",
+      "tickers_hint": [
+        "BRK.B"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "cnn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "CNN",
+        "source_domain": "cnn.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BRK.B"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "587a069f-f0c8-5bed-906a-57c0ca5428a9",
+      "timestamp_utc": "2026-04-03T18:41:27+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3RoRFNWUFpuZFBtcTlmXzBfa1NDaWVOU2t3QmliOExhMG01aS00NUMyQ0JuOENZbWtMZjJYMFd3RVd6eXhfVVprQ2ZRWFdLcm9vYVFaM1YzX0FicklhYzN1SWNObWNBN1QwNmtyWDlJUWZ1Y3o3djItdW9SQ3hwR25MYW1MZ3hqblZhSlZ0a3ZQTHZlYkRUM09BXzF2TEY5elYydEJYNUVwTzQ?oc=5",
+      "title": "Berkshire Hathaway (BRK.B) Insures Ships Traveling Through the Strait of Hormuz - TipRanks",
+      "body": "Berkshire Hathaway (BRK.B) Insures Ships Traveling Through the Strait of Hormuz TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "BRK.B",
+      "tickers_hint": [
+        "BRK.B"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BRK.B"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "3103edc0-2aa8-58b6-bc1c-4f41a5efe131",
+      "timestamp_utc": "2026-04-03T04:22:01+00:00",
+      "source": "stock_traders_daily",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZnhnbzd0UnJ4YlFsbXozV2JLUDlhZ1UzWllXVk9RNUFndnhGZVNiajJnaXViNGJsMkhzc2NKN2RtanJ1VmVKanE2QjNqWXNJaVU1RHFBWVdEOFNxc3MtYWlhQlVPVm5faDlSQXRyUzRhcGM2eWNIUTNMRGlwMUJ5QmlLdzZxc0pITFdiNjFaUDJPajE0dXZYV3E1eTVmU3NiLXYzclFoOGsxZWFvUFZ4YzJSb1I0SGkyNzRINW9qQjZyYTFIa05aUzNqZ3Q3Zw?oc=5",
+      "title": "Behavioral Patterns of BRK.B and Institutional Flows - Stock Traders Daily",
+      "body": "Behavioral Patterns of BRK.B and Institutional Flows Stock Traders Daily",
+      "author": null,
+      "language": "en",
+      "ticker": "BRK.B",
+      "tickers_hint": [
+        "BRK.B"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock traders daily",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Traders Daily",
+        "source_domain": "stocktradersdaily.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BRK.B"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "1cae558c-ef6a-59c6-9156-4d24c1b9022a",
+      "timestamp_utc": "2026-04-02T20:15:21+00:00",
+      "source": "cnn",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jUG9rWXlya1pnYW1EdjFfUFRtNTJTMXppWEhpRE45U0Z2cXZtRUUtdHhoZVM4ZzlGZ1NDNVlheUs0Zlp6THFpY01FOWFQanhwbmc?oc=5",
+      "title": "BRK.B Stock Quote Price and Forecast - CNN",
+      "body": "BRK.B Stock Quote Price and Forecast CNN",
+      "author": null,
+      "language": "en",
+      "ticker": "BRK.B",
+      "tickers_hint": [
+        "BRK.B"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "cnn",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "CNN",
+        "source_domain": "cnn.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "BRK.B"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

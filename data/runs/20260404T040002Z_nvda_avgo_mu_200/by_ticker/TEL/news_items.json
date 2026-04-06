@@ -1,0 +1,60 @@
+[
+  {
+    "id": "cfff5973-8cef-5fdc-a2fe-5586fe99007d",
+    "timestamp_utc": "2026-04-03T08:23:49+00:00",
+    "source": "defense_world",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV3ozb1JqQmR0NGxIWUlTMUd1T1NCU21OZG4xR2VtazY2WWJwdHNpMVBOODQ5SGpna1ZBdmIxZTdkekl3Y1dxVHBnWVQxaHNKdlcxQkVfMzBhUzFhRVpUTFAwdWgzenpwME5TNGNFaFJqajJxMXpTamV3UWw5Nl8td1pYQmRySXlJc1M2OEE1SnZ5a0pBekw1UDlyNDlmdDUyYVM3RmJBcF84R29pa19uQzVB?oc=5",
+    "title": "Dorato Capital Management Invests $586,000 in TE Connectivity Ltd. $TEL - Defense World",
+    "body": "Dorato Capital Management Invests $586,000 in TE Connectivity Ltd. $TEL Defense World",
+    "author": null,
+    "language": "en",
+    "ticker": "TEL",
+    "tickers_hint": [
+      "TEL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "defense world",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Defense World",
+      "source_domain": "defenseworld.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "TEL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  },
+  {
+    "id": "df2454f7-428a-52eb-b520-1ef22f741442",
+    "timestamp_utc": "2026-04-02T18:31:11+00:00",
+    "source": "globes.co.il",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWkt1RS1MYzNEeWNVT1Q0Z1Y2eF9nUnJ0MmtxR1JrTC1zZFNDZGN2SzdPQTNUemQ5VUZEakNqeXZUN2k4dTE1X21sdWlCNmVBY05XSzk3T2lXdUN6WjljMWZfUTM3LVlvdUVjRDZiZzhKa2doeXJocjM3S09OazUwQW9EM1BDNmNROTIwQmFTOUl1YXg1c2sxR3p5bmhsSWdpQmtjaDNZU0NDMUcyVFQyWg?oc=5",
+    "title": "Globes Online – Israel business news – Israel economic news – Israel banks – Tel Aviv Stock Exchange – Israel stocks –Israel shares – bonds – shekel - Israeli companies – Israel capital market - DLR-P0312.5M605 Shekel/dollar option - globes.co.il",
+    "body": "Globes Online – Israel business news – Israel economic news – Israel banks – Tel Aviv Stock Exchange – Israel stocks –Israel shares – bonds – shekel - Israeli companies – Israel capital market - DLR-P0312.5M605 Shekel/dollar option globes.co.il",
+    "author": null,
+    "language": "en",
+    "ticker": "TEL",
+    "tickers_hint": [
+      "TEL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "globes.co.il",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "globes.co.il",
+      "source_domain": "globescoil.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "TEL"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

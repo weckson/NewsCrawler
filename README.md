@@ -103,6 +103,8 @@ Useful flags:
 ### Option B: Standalone multi-ticker news crawler
 
 `crawl_news.py` is the generic SQLite-based crawler. It does not require PostgreSQL or a Benzinga API key.
+Its default data paths are resolved relative to the repo, so `python /opt/NewsCrawler/crawl_news.py`
+works from Linux cron, systemd, or any other working directory.
 
 Default run:
 
@@ -155,6 +157,12 @@ Legacy entry point:
 python crawl_amd.py --ticker-set aistock500
 ```
 
+Custom data root:
+
+```bash
+python crawl_news.py --ticker NVDA --data-dir /var/lib/newscrawler
+```
+
 Useful flags:
 
 ```text
@@ -165,6 +173,7 @@ Useful flags:
 --fulltext-mode off|high-value|all
 --fulltext-max-articles 8
 --output newsitem-json|pretty
+--data-dir /path/to/runtime-data
 ```
 
 Primary outputs:

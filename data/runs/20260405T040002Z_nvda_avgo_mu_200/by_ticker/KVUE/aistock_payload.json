@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "e673685c-a69a-5e15-a149-8bd8573bf6b1",
+      "timestamp_utc": "2026-04-04T02:19:26+00:00",
+      "source": "yahoo_finance_australia",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HOVpKR0tQNVFzSVRya0hyNHktN2hPSjRoTV90VHdFWkVRRzdDVXo4UXRQNDdLUHdtZVhNNk9DZVduaWJRdl95WVJBX2NlR1lpYWc?oc=5",
+      "title": "Kenvue Inc. (KVUE) stock price, news, quote and history - Yahoo Finance Australia",
+      "body": "Kenvue Inc. (KVUE) stock price, news, quote and history Yahoo Finance Australia",
+      "author": null,
+      "language": "en",
+      "ticker": "KVUE",
+      "tickers_hint": [
+        "KVUE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance australia",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Australia",
+        "source_domain": "yahoofinanceaustralia.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KVUE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "e673685c-a69a-5e15-a149-8bd8573bf6b1",
+      "timestamp_utc": "2026-04-04T02:19:26+00:00",
+      "source": "yahoo_finance_australia",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HOVpKR0tQNVFzSVRya0hyNHktN2hPSjRoTV90VHdFWkVRRzdDVXo4UXRQNDdLUHdtZVhNNk9DZVduaWJRdl95WVJBX2NlR1lpYWc?oc=5",
+      "title": "Kenvue Inc. (KVUE) stock price, news, quote and history - Yahoo Finance Australia",
+      "body": "Kenvue Inc. (KVUE) stock price, news, quote and history Yahoo Finance Australia",
+      "author": null,
+      "language": "en",
+      "ticker": "KVUE",
+      "tickers_hint": [
+        "KVUE"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo finance australia",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Yahoo Finance Australia",
+        "source_domain": "yahoofinanceaustralia.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "KVUE"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

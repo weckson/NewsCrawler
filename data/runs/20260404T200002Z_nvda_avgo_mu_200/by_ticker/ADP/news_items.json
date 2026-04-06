@@ -1,0 +1,31 @@
+[
+  {
+    "id": "b61f242d-e847-549b-b6c9-86508585faa9",
+    "timestamp_utc": "2026-04-03T16:02:26+00:00",
+    "source": "msn.com",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbUh6WS1IYm5oODZQV2ZMak1tUk9jR0I0TE9KUDhDMEdaWV9JR3hzS2VacHlXdG54Nm1WRm9GdzdEVi01Ny1laEZMV3VUVlpCWWRxZ1EyV0pIb2RrUjJRaDVsOE82SkxpZXg2N21kalVQdWN1SUpMcDdXakpfUEloZFBGQkw1Ymw3ajVDME9wLTdHSkw3UTE4STc0aG1NLVd1SmhxT2J1U1FIVlBLUHhUVHRXa1VSeFpTbGRyT2d5cko1ei01Ri1OTDBn?oc=5",
+    "title": "Cogent, ADP, Barrett, Brink's, and Equifax stocks trade down, what you need to know - msn.com",
+    "body": "Cogent, ADP, Barrett, Brink's, and Equifax stocks trade down, what you need to know msn.com",
+    "author": null,
+    "language": "en",
+    "ticker": "ADP",
+    "tickers_hint": [
+      "ADP"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "msn.com",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "msn.com",
+      "source_domain": "msncom.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "ADP"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

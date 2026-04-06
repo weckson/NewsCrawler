@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "de9ec2f0-2e0b-5e17-9d05-479cd47ebf36",
+      "timestamp_utc": "2026-04-03T09:50:13+00:00",
+      "source": "marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nilsine-partners-llc-decreases-stock-position-in-zoetis-inc-zts-2026-04-03/",
+      "title": "Nilsine Partners LLC Decreases Stock Position in Zoetis Inc. $ZTS - marketbeat.com",
+      "body": "Nilsine Partners LLC Decreases Stock Position in Zoetis Inc. $ZTS marketbeat.com",
+      "author": null,
+      "language": "en",
+      "ticker": "ZTS",
+      "tickers_hint": [
+        "ZTS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "marketbeat.com",
+        "source_domain": "marketbeatcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ZTS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "de9ec2f0-2e0b-5e17-9d05-479cd47ebf36",
+      "timestamp_utc": "2026-04-03T09:50:13+00:00",
+      "source": "marketbeat.com",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nilsine-partners-llc-decreases-stock-position-in-zoetis-inc-zts-2026-04-03/",
+      "title": "Nilsine Partners LLC Decreases Stock Position in Zoetis Inc. $ZTS - marketbeat.com",
+      "body": "Nilsine Partners LLC Decreases Stock Position in Zoetis Inc. $ZTS marketbeat.com",
+      "author": null,
+      "language": "en",
+      "ticker": "ZTS",
+      "tickers_hint": [
+        "ZTS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "marketbeat.com",
+        "source_domain": "marketbeatcom.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "ZTS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

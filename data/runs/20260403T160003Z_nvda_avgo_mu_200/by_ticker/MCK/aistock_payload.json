@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "8445952e-cc00-5580-8ebc-b55d7f075a6f",
+      "timestamp_utc": "2026-04-02T11:21:11+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mckesson-corporation-mck-stock-holdings-increased-by-hf-advisory-group-llc-2026-04-02/",
+      "title": "McKesson Corporation $MCK Stock Holdings Increased by HF Advisory Group LLC - MarketBeat",
+      "body": "McKesson Corporation $MCK Stock Holdings Increased by HF Advisory Group LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MCK",
+      "tickers_hint": [
+        "MCK"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "8445952e-cc00-5580-8ebc-b55d7f075a6f",
+      "timestamp_utc": "2026-04-02T11:21:11+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mckesson-corporation-mck-stock-holdings-increased-by-hf-advisory-group-llc-2026-04-02/",
+      "title": "McKesson Corporation $MCK Stock Holdings Increased by HF Advisory Group LLC - MarketBeat",
+      "body": "McKesson Corporation $MCK Stock Holdings Increased by HF Advisory Group LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MCK",
+      "tickers_hint": [
+        "MCK"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "MCK"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

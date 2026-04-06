@@ -1,0 +1,124 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "4da9a30e-6e6e-5c15-a3d0-acf75e009e22",
+      "timestamp_utc": "2026-04-02T14:32:16+00:00",
+      "source": "investing.com",
+      "url": "https://www.investing.com/news/analyst-ratings/erste-group-downgrades-lam-research-stock-rating-to-hold-93CH-4595830",
+      "title": "Erste Group downgrades Lam Research stock rating to hold - Investing.com",
+      "body": "Erste Group downgrades Lam Research stock rating to hold Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "LRCX",
+      "tickers_hint": [
+        "LRCX"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "LRCX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d99228dc-e070-536f-9ddd-f347e324d95a",
+      "timestamp_utc": "2026-04-02T20:59:37+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/lam-research-nasdaqlrcx-stock-price-down-16-on-analyst-downgrade-2026-04-02/",
+      "title": "Lam Research (NASDAQ:LRCX) Stock Price Down 1.6% on Analyst Downgrade - MarketBeat",
+      "body": "Lam Research (NASDAQ:LRCX) Stock Price Down 1.6% on Analyst Downgrade MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "LRCX",
+      "tickers_hint": [
+        "LRCX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.7500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "LRCX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "4da9a30e-6e6e-5c15-a3d0-acf75e009e22",
+      "timestamp_utc": "2026-04-02T14:32:16+00:00",
+      "source": "investing.com",
+      "url": "https://www.investing.com/news/analyst-ratings/erste-group-downgrades-lam-research-stock-rating-to-hold-93CH-4595830",
+      "title": "Erste Group downgrades Lam Research stock rating to hold - Investing.com",
+      "body": "Erste Group downgrades Lam Research stock rating to hold Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "LRCX",
+      "tickers_hint": [
+        "LRCX"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "trust_tier": 2,
+        "relevance": 0.6,
+        "event_origin": "news",
+        "query_tickers": [
+          "LRCX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "d99228dc-e070-536f-9ddd-f347e324d95a",
+      "timestamp_utc": "2026-04-02T20:59:37+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/lam-research-nasdaqlrcx-stock-price-down-16-on-analyst-downgrade-2026-04-02/",
+      "title": "Lam Research (NASDAQ:LRCX) Stock Price Down 1.6% on Analyst Downgrade - MarketBeat",
+      "body": "Lam Research (NASDAQ:LRCX) Stock Price Down 1.6% on Analyst Downgrade MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "LRCX",
+      "tickers_hint": [
+        "LRCX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.7500000000000001,
+        "event_origin": "news",
+        "query_tickers": [
+          "LRCX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

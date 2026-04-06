@@ -1,0 +1,240 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "7ef7dfe5-70db-5409-a975-2161102e2fe1",
+      "timestamp_utc": "2026-04-02T16:40:53+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcW84SWdkbjN0MXcwMElPVjJORGtmeVJ4RUZfSEpSMVhfellXaE11X0xpM1RuaWlUN29hR1VJSHV5V0k3S0ZNNHRTNGlndXNENTJsSExja1F2M29wTzZvbl9lZTdCRmlsaDFGSGpNaWt2d1JsVWFkaVRHRDQ1cHQ2QjQ1ZzVDZjZldHk1aS1wd0VXNVZfbm1lUkdtd1p1Zw?oc=5",
+      "title": "Starbucks Turns to Tipping, Bonuses: Starbucks Stock (NASDAQ:SBUX) Slips - TipRanks",
+      "body": "Starbucks Turns to Tipping, Bonuses: Starbucks Stock (NASDAQ:SBUX) Slips TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "SBUX",
+      "tickers_hint": [
+        "SBUX"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "SBUX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "aadf727f-3873-55ec-8419-b137a336cf29",
+      "timestamp_utc": "2026-04-03T12:26:11+00:00",
+      "source": "blockonomi",
+      "url": "https://blockonomi.com/starbucks-sbux-stock-flat-despite-china-partnership-closure-and-employee-pay-boost/",
+      "title": "Starbucks (SBUX) Stock Flat Despite China Partnership Closure and Employee Pay Boost - Blockonomi",
+      "body": "Related Posts Figure Technology Solutions (FIGR) Stock Surges on Record Q1 Loan Growth and Token AdoptionApril 3, 2026 DeepSeek V4 to Power Huawei Chips as China’s Tech Titans Order Massive QuantitiesApril 3, 2026 Netflix (NFLX) Stock: Rome Court Declares Price Increases Unlawful, Mandates Customer RefundsApril 3, 2026",
+      "author": null,
+      "language": "en",
+      "ticker": "SBUX",
+      "tickers_hint": [
+        "SBUX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "blockonomi",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Blockonomi",
+        "source_domain": "blockonomi.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "SBUX"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7d235ea7-312b-5adf-8074-6d6ab151a38d",
+      "timestamp_utc": "2026-04-03T12:16:01+00:00",
+      "source": "coincentral",
+      "url": "https://coincentral.com/starbucks-sbux-stock-unmoved-as-china-deal-and-bonus-plan-land-on-same-day/",
+      "title": "Starbucks (SBUX) Stock Unmoved as China Deal and Bonus Plan Land on Same Day - CoinCentral",
+      "body": "The Best AI Stock Picking Tools in 2026: Your Complete Guide to Smarter InvestingFebruary 3, 2026 Finding The Best Crypto to Invest In: Expert Strategies for Identifying Tomorrow’s WinnersFebruary 27, 2025 Sui Blockchain Explained: How It Works and What You Need to KnowFebruary 6, 2025 Is Trump’s Memecoin Legit?\n\nHere’s What We Know About $TRUMPFebruary 1, 2025 What is Decentralized AI and Why We Need It ASAP?December 29, 2024",
+      "author": null,
+      "language": "en",
+      "ticker": "SBUX",
+      "tickers_hint": [
+        "SBUX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "coincentral",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "CoinCentral",
+        "source_domain": "coincentral.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "SBUX"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "37ea4452-8a56-54ba-aa82-e381d486fe8b",
+      "timestamp_utc": "2026-04-02T11:15:11+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-hf-advisory-group-llc-increases-position-in-starbucks-corporation-sbux-2026-04-02/",
+      "title": "HF Advisory Group LLC Increases Position in Starbucks Corporation $SBUX - MarketBeat",
+      "body": "HF Advisory Group LLC Increases Position in Starbucks Corporation $SBUX MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "SBUX",
+      "tickers_hint": [
+        "SBUX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "SBUX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "7ef7dfe5-70db-5409-a975-2161102e2fe1",
+      "timestamp_utc": "2026-04-02T16:40:53+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcW84SWdkbjN0MXcwMElPVjJORGtmeVJ4RUZfSEpSMVhfellXaE11X0xpM1RuaWlUN29hR1VJSHV5V0k3S0ZNNHRTNGlndXNENTJsSExja1F2M29wTzZvbl9lZTdCRmlsaDFGSGpNaWt2d1JsVWFkaVRHRDQ1cHQ2QjQ1ZzVDZjZldHk1aS1wd0VXNVZfbm1lUkdtd1p1Zw?oc=5",
+      "title": "Starbucks Turns to Tipping, Bonuses: Starbucks Stock (NASDAQ:SBUX) Slips - TipRanks",
+      "body": "Starbucks Turns to Tipping, Bonuses: Starbucks Stock (NASDAQ:SBUX) Slips TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "SBUX",
+      "tickers_hint": [
+        "SBUX"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "trust_tier": 3,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "SBUX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "aadf727f-3873-55ec-8419-b137a336cf29",
+      "timestamp_utc": "2026-04-03T12:26:11+00:00",
+      "source": "blockonomi",
+      "url": "https://blockonomi.com/starbucks-sbux-stock-flat-despite-china-partnership-closure-and-employee-pay-boost/",
+      "title": "Starbucks (SBUX) Stock Flat Despite China Partnership Closure and Employee Pay Boost - Blockonomi",
+      "body": "Related Posts Figure Technology Solutions (FIGR) Stock Surges on Record Q1 Loan Growth and Token AdoptionApril 3, 2026 DeepSeek V4 to Power Huawei Chips as China’s Tech Titans Order Massive QuantitiesApril 3, 2026 Netflix (NFLX) Stock: Rome Court Declares Price Increases Unlawful, Mandates Customer RefundsApril 3, 2026",
+      "author": null,
+      "language": "en",
+      "ticker": "SBUX",
+      "tickers_hint": [
+        "SBUX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "blockonomi",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Blockonomi",
+        "source_domain": "blockonomi.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "SBUX"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "7d235ea7-312b-5adf-8074-6d6ab151a38d",
+      "timestamp_utc": "2026-04-03T12:16:01+00:00",
+      "source": "coincentral",
+      "url": "https://coincentral.com/starbucks-sbux-stock-unmoved-as-china-deal-and-bonus-plan-land-on-same-day/",
+      "title": "Starbucks (SBUX) Stock Unmoved as China Deal and Bonus Plan Land on Same Day - CoinCentral",
+      "body": "The Best AI Stock Picking Tools in 2026: Your Complete Guide to Smarter InvestingFebruary 3, 2026 Finding The Best Crypto to Invest In: Expert Strategies for Identifying Tomorrow’s WinnersFebruary 27, 2025 Sui Blockchain Explained: How It Works and What You Need to KnowFebruary 6, 2025 Is Trump’s Memecoin Legit?\n\nHere’s What We Know About $TRUMPFebruary 1, 2025 What is Decentralized AI and Why We Need It ASAP?December 29, 2024",
+      "author": null,
+      "language": "en",
+      "ticker": "SBUX",
+      "tickers_hint": [
+        "SBUX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "coincentral",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "CoinCentral",
+        "source_domain": "coincentral.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "SBUX"
+        ],
+        "body_kind": "article_text"
+      },
+      "stream_type": "soft"
+    },
+    {
+      "id": "37ea4452-8a56-54ba-aa82-e381d486fe8b",
+      "timestamp_utc": "2026-04-02T11:15:11+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-hf-advisory-group-llc-increases-position-in-starbucks-corporation-sbux-2026-04-02/",
+      "title": "HF Advisory Group LLC Increases Position in Starbucks Corporation $SBUX - MarketBeat",
+      "body": "HF Advisory Group LLC Increases Position in Starbucks Corporation $SBUX MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "SBUX",
+      "tickers_hint": [
+        "SBUX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "SBUX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

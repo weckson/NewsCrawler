@@ -1,0 +1,31 @@
+[
+  {
+    "id": "7c5d80ef-14a0-5148-a7f9-f0632f8e172f",
+    "timestamp_utc": "2026-04-04T05:09:11+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwOEhzREVoTWp3Y0dROEVoRWZVRXNTbjNlZVNHWXJxSU1EYUpUQUFQQnFyeGp4ZUozcUhQaGtLTWVTWWRTMW44S1RON1l2U3c?oc=5",
+    "title": "Philip Morris International Inc. (PM) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "body": "Philip Morris International Inc. (PM) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "author": null,
+    "language": "en",
+    "ticker": "PM",
+    "tickers_hint": [
+      "PM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo! finance canada",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
+      "trust_tier": 1,
+      "relevance": 0.5,
+      "event_origin": "news",
+      "query_tickers": [
+        "PM"
+      ],
+      "body_kind": "summary_snippet"
+    },
+    "stream_type": "soft"
+  }
+]

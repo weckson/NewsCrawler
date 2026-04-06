@@ -1,0 +1,31 @@
+[
+  {
+    "id": "a6ed293e-4bca-5e87-a926-9a027909980c",
+    "timestamp_utc": "2026-04-02T11:06:00+00:00",
+    "source": "stock_titan",
+    "url": "https://www.stocktitan.net/news/MCHP/microchip-technology-earns-iec-62443-4-1-ml2-industrial-automation-qhymiru6rhxf.html",
+    "title": "Microchip security certification helps customers prepare for EU cyber rules - Stock Titan",
+    "body": "NASDAQ:MCHP View MCHP Stock Overview → MCHP Rankings #399 Ranked by Market Cap N/A Ranked by Dividends MCHP Latest News Mar 24, 2026 Introducing Automotive-Qualified System-in-Package Hybrid MCU for Automotive and E-Mobility Human-Machine Interface Applications Mar 19, 2026 New BZPACK mSiC® Power Modules Are Designed for Demanding Applications in Harsh Environments Mar 17, 2026 Mythic® Selects memBrain™ Technology from Silicon Storage Technology® for its Next Generation of Ultra-Low-Power Analog Processing Units Mar 10, 2026 Microchip Expands Security Services in the Trust Platform to Help Manufacturers Meet Cybersecurity Regulations Mar 9, 2026 Microchip Technology to Present at the Cantor Global Technology & Industrial Growth Conference MCHP Latest SEC Filings Mar 27, 2026 [SCHEDULE 13G/A] MICROCHIP TECHNOLOGY INC Amended Passive Investment Disclosure Mar 4, 2026 [Form 4] MICROCHIP TECHNOLOGY INC Insider Trading Activity Mar 4, 2026 [Form 4] MICROCHIP TECHNOLOGY INC Insider Trading Activity Mar 4, 2026 [Form 4] MICROCHIP TECHNOLOGY INC Insider Trading Activity Mar 4, 2026 [Form 4] MICROCHIP TECHNOLOGY INC Insider Trading Activity MCHP Stock Data Market Cap 35.38B Float 529.82M Industry Semiconductors Sector Semiconductors & Related Devices Website Link Country United States City CHANDLER",
+    "author": null,
+    "language": "en",
+    "ticker": "MCHP",
+    "tickers_hint": [
+      "MCHP"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock titan",
+    "meta": {
+      "channel": "google_broad",
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
+      "trust_tier": 1,
+      "relevance": 0.55,
+      "event_origin": "news",
+      "query_tickers": [
+        "MCHP"
+      ],
+      "body_kind": "article_text"
+    },
+    "stream_type": "soft"
+  }
+]

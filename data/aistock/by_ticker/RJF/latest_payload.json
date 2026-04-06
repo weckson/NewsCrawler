@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "a2fde45e-881d-5379-81d8-f3444cc66c25",
-      "timestamp_utc": "2026-03-31T23:26:41+00:00",
-      "source": "bitget",
-      "url": "https://www.bitget.com/amp/news/detail/12560605325451",
-      "title": "RJF’s Dividend Dip: 2.5 Days to Recovery, Every Time? - Bitget",
-      "body": "RJF’s Dividend Dip: 2.5 Days to Recovery, Every Time? Bitget",
+      "id": "f5be163b-adef-5139-94e6-4ba620ab5218",
+      "timestamp_utc": "2026-04-04T15:10:01+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/RJF/technical",
+      "title": "RJF Technical Analysis & Stock Price Forecast - Intellectia AI",
+      "body": "RJF Technical Analysis & Stock Price Forecast Intellectia AI",
       "author": null,
       "language": "en",
       "ticker": "RJF",
@@ -15,13 +15,13 @@
         "RJF"
       ],
       "source_quality": "low",
-      "publisher_raw": "bitget",
+      "publisher_raw": "intellectia ai",
       "meta": {
         "channel": "google_broad",
-        "source_name": "Bitget",
-        "source_domain": "bitget.com",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
         "trust_tier": 1,
-        "relevance": 0.55,
+        "relevance": 0.5,
         "event_origin": "news",
         "query_tickers": [
           "RJF"
@@ -34,12 +34,12 @@
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "a2fde45e-881d-5379-81d8-f3444cc66c25",
-      "timestamp_utc": "2026-03-31T23:26:41+00:00",
-      "source": "bitget",
-      "url": "https://www.bitget.com/amp/news/detail/12560605325451",
-      "title": "RJF’s Dividend Dip: 2.5 Days to Recovery, Every Time? - Bitget",
-      "body": "RJF’s Dividend Dip: 2.5 Days to Recovery, Every Time? Bitget",
+      "id": "f5be163b-adef-5139-94e6-4ba620ab5218",
+      "timestamp_utc": "2026-04-04T15:10:01+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/RJF/technical",
+      "title": "RJF Technical Analysis & Stock Price Forecast - Intellectia AI",
+      "body": "RJF Technical Analysis & Stock Price Forecast Intellectia AI",
       "author": null,
       "language": "en",
       "ticker": "RJF",
@@ -47,13 +47,13 @@
         "RJF"
       ],
       "source_quality": "low",
-      "publisher_raw": "bitget",
+      "publisher_raw": "intellectia ai",
       "meta": {
         "channel": "google_broad",
-        "source_name": "Bitget",
-        "source_domain": "bitget.com",
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
         "trust_tier": 1,
-        "relevance": 0.55,
+        "relevance": 0.5,
         "event_origin": "news",
         "query_tickers": [
           "RJF"

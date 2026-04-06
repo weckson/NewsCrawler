@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "ac954ea9-01f7-5a6b-a26e-2f8e2d7402ba",
+      "timestamp_utc": "2026-04-02T10:23:06+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-herbst-group-llc-acquires-shares-of-5100-fedex-corporation-fdx-2026-04-02/",
+      "title": "Herbst Group LLC Acquires Shares of 5,100 FedEx Corporation $FDX - MarketBeat",
+      "body": "Herbst Group LLC Acquires Shares of 5,100 FedEx Corporation $FDX MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "FDX",
+      "tickers_hint": [
+        "FDX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "FDX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "ac954ea9-01f7-5a6b-a26e-2f8e2d7402ba",
+      "timestamp_utc": "2026-04-02T10:23:06+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-herbst-group-llc-acquires-shares-of-5100-fedex-corporation-fdx-2026-04-02/",
+      "title": "Herbst Group LLC Acquires Shares of 5,100 FedEx Corporation $FDX - MarketBeat",
+      "body": "Herbst Group LLC Acquires Shares of 5,100 FedEx Corporation $FDX MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "FDX",
+      "tickers_hint": [
+        "FDX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "trust_tier": 1,
+        "relevance": 0.55,
+        "event_origin": "news",
+        "query_tickers": [
+          "FDX"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}

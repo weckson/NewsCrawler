@@ -1,0 +1,66 @@
+{
+  "hard_event_news": [],
+  "soft_event_news": [
+    {
+      "id": "7b23b2ee-ab1f-5fe0-9343-ba0bca7c5ba6",
+      "timestamp_utc": "2026-04-01T20:29:29+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUF8yTXhJMVhtRjYxQ2ZHVFI3QWRJSUVOb0ktRFF6Z1pEWlA5SGhFeTBzejlWbi02SWt5enBoemptcmZtOXhNaDZDVEtTZ1daWURLTnJNNTQ5UDVIM3VGMUdzdHRGdkkyTDJiUHMycFAwd0JCWTRtNEdLVmVSZzEyeXZnSUhHc0liQ2luX3MxMkk1R1QySmpoSjJwYTFYbEFTZTJYSUR3?oc=5",
+      "title": "Zoetis (ZTS) EVP nets common shares after RSU vesting and tax withholding - Stock Titan",
+      "body": "Zoetis (ZTS) EVP nets common shares after RSU vesting and tax withholding Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ZTS",
+      "tickers_hint": [
+        "ZTS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ZTS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ],
+  "alt_sentiment_news": [],
+  "news": [
+    {
+      "id": "7b23b2ee-ab1f-5fe0-9343-ba0bca7c5ba6",
+      "timestamp_utc": "2026-04-01T20:29:29+00:00",
+      "source": "stock_titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUF8yTXhJMVhtRjYxQ2ZHVFI3QWRJSUVOb0ktRFF6Z1pEWlA5SGhFeTBzejlWbi02SWt5enBoemptcmZtOXhNaDZDVEtTZ1daWURLTnJNNTQ5UDVIM3VGMUdzdHRGdkkyTDJiUHMycFAwd0JCWTRtNEdLVmVSZzEyeXZnSUhHc0liQ2luX3MxMkk1R1QySmpoSjJwYTFYbEFTZTJYSUR3?oc=5",
+      "title": "Zoetis (ZTS) EVP nets common shares after RSU vesting and tax withholding - Stock Titan",
+      "body": "Zoetis (ZTS) EVP nets common shares after RSU vesting and tax withholding Stock Titan",
+      "author": null,
+      "language": "en",
+      "ticker": "ZTS",
+      "tickers_hint": [
+        "ZTS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stock titan",
+      "meta": {
+        "channel": "google_broad",
+        "source_name": "Stock Titan",
+        "source_domain": "stocktitan.com",
+        "trust_tier": 1,
+        "relevance": 0.5,
+        "event_origin": "news",
+        "query_tickers": [
+          "ZTS"
+        ],
+        "body_kind": "summary_snippet"
+      },
+      "stream_type": "soft"
+    }
+  ]
+}
