@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "96b41d19-2418-5f1c-a416-bf822fe7c1c7",
-      "timestamp_utc": "2026-04-04T13:41:20+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/MCK/earnings",
-      "title": "MCK Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "MCK Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "db1a4e4c-7543-55c0-93ff-c568b59f9a49",
+      "timestamp_utc": "2026-04-08T08:56:15+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782018/mckesson-mck-sees-price-target-adjustment-by-evercore-isi-group-mck-stock-news?mobile=true",
+      "title": "McKesson (MCK) Sees Price Target Adjustment by Evercore ISI Grou - GuruFocus",
+      "body": "McKesson (MCK) Sees Price Target Adjustment by Evercore ISI Grou GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "MCK",
@@ -15,60 +15,29 @@
         "MCK"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "MCK"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "9f9fadc1-fc7f-5192-8a14-a1451fbd5d4c",
-      "timestamp_utc": "2026-04-03T20:02:43+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83OWdEQ29sbDZEY25YemlzUFJ5VVY1cktUOFZWN19xa2V3N0hoMllIVGgtbURvTnViN2RzNVlSSnNMUWZTOXNqYkdLZnN2NDdZcThVNVlQdmVJMDZpSVFEQktvQWI?oc=5",
-      "title": "MCK Apr 2026 1020.000 call (MCK260417C01020000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "body": "MCK Apr 2026 1020.000 call (MCK260417C01020000) Stock Price, News, Quote & History Yahoo! Finance Canada",
-      "author": null,
-      "language": "en",
-      "ticker": "MCK",
-      "tickers_hint": [
-        "MCK"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "MCK"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "96b41d19-2418-5f1c-a416-bf822fe7c1c7",
-      "timestamp_utc": "2026-04-04T13:41:20+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/MCK/earnings",
-      "title": "MCK Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "MCK Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "db1a4e4c-7543-55c0-93ff-c568b59f9a49",
+      "timestamp_utc": "2026-04-08T08:56:15+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782018/mckesson-mck-sees-price-target-adjustment-by-evercore-isi-group-mck-stock-news?mobile=true",
+      "title": "McKesson (MCK) Sees Price Target Adjustment by Evercore ISI Grou - GuruFocus",
+      "body": "McKesson (MCK) Sees Price Target Adjustment by Evercore ISI Grou GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "MCK",
@@ -76,49 +45,18 @@
         "MCK"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "MCK"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "9f9fadc1-fc7f-5192-8a14-a1451fbd5d4c",
-      "timestamp_utc": "2026-04-03T20:02:43+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83OWdEQ29sbDZEY25YemlzUFJ5VVY1cktUOFZWN19xa2V3N0hoMllIVGgtbURvTnViN2RzNVlSSnNMUWZTOXNqYkdLZnN2NDdZcThVNVlQdmVJMDZpSVFEQktvQWI?oc=5",
-      "title": "MCK Apr 2026 1020.000 call (MCK260417C01020000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "body": "MCK Apr 2026 1020.000 call (MCK260417C01020000) Stock Price, News, Quote & History Yahoo! Finance Canada",
-      "author": null,
-      "language": "en",
-      "ticker": "MCK",
-      "tickers_hint": [
-        "MCK"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "MCK"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

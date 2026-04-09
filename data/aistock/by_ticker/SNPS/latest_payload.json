@@ -2,65 +2,61 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "fcd090f6-43b2-5167-8123-21527242ee9f",
-      "timestamp_utc": "2026-04-03T23:53:51+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11MmZnT3YtWl9hbHo1MEdkU09CbURLeG1vNEpqM1laV095QjZsaEdqR2hTck9OQnNXRmJNbV9NazFnS3g5OUR4MVVESUNoOVp2RVFUTVo0cVU1TXdOaW1ZdjJsOExKdw?oc=5",
-      "title": "SNPS Apr 2026 437.500 call (SNPS260410C00437500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "body": "SNPS Apr 2026 437.500 call (SNPS260410C00437500) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "id": "5a0ddfd4-d920-5a51-b860-ba169fa7ab8a",
+      "timestamp_utc": "2026-04-06T23:18:37+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSGp0eW4wMlpYRDRpdWZwejFnYm1nQlh5Yk9fU1ZTNnB3LTZKR1BibGx4N1NqUlZtaFNjTFp4dHVVdldNcGdETVlRaElGcEdIdXJDQVJDRHpwSXNSR0ZZZ2s3bE1qanlrNkNZVC14TTFRSzJhNEFUMElsWGdQN1dKVjVuLVNSODZ3X2w0YVlaNkhDTENHWEFqdWhLcw?oc=5",
+      "title": "What Makes Synopsys Inc. (SNPS) Appear so Attractive - Yahoo Finance",
+      "body": "What Makes Synopsys Inc. (SNPS) Appear so Attractive Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "SNPS",
       "tickers_hint": [
         "SNPS"
       ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "SNPS"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.62,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "fcd090f6-43b2-5167-8123-21527242ee9f",
-      "timestamp_utc": "2026-04-03T23:53:51+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11MmZnT3YtWl9hbHo1MEdkU09CbURLeG1vNEpqM1laV095QjZsaEdqR2hTck9OQnNXRmJNbV9NazFnS3g5OUR4MVVESUNoOVp2RVFUTVo0cVU1TXdOaW1ZdjJsOExKdw?oc=5",
-      "title": "SNPS Apr 2026 437.500 call (SNPS260410C00437500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "body": "SNPS Apr 2026 437.500 call (SNPS260410C00437500) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "id": "5a0ddfd4-d920-5a51-b860-ba169fa7ab8a",
+      "timestamp_utc": "2026-04-06T23:18:37+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSGp0eW4wMlpYRDRpdWZwejFnYm1nQlh5Yk9fU1ZTNnB3LTZKR1BibGx4N1NqUlZtaFNjTFp4dHVVdldNcGdETVlRaElGcEdIdXJDQVJDRHpwSXNSR0ZZZ2s3bE1qanlrNkNZVC14TTFRSzJhNEFUMElsWGdQN1dKVjVuLVNSODZ3X2w0YVlaNkhDTENHWEFqdWhLcw?oc=5",
+      "title": "What Makes Synopsys Inc. (SNPS) Appear so Attractive - Yahoo Finance",
+      "body": "What Makes Synopsys Inc. (SNPS) Appear so Attractive Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "SNPS",
       "tickers_hint": [
         "SNPS"
       ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "SNPS"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.62,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

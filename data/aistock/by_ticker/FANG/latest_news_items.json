@@ -1,11 +1,68 @@
 [
   {
-    "id": "9bb18aac-b4a2-5090-bc53-3bbcb231d7e4",
-    "timestamp_utc": "2026-03-31T07:08:35+00:00",
-    "source": "bitget",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CeWhrY1ZxZHVqNHBlRUxnS1lRQndac3hWX3VaTE1qc2M4bm5vUWFaM3FEeWkxbmtmU0VTM2dIaGhRMkQ4c244aGlKMm9veUt5UXZyVWpxRG5OMGhGdGs0WTNhb9IBY0FVX3lxTE9CeWhrY1ZxZHVqNHBlRUxnS1lRQndac3hWX3VaTE1qc2M4bm5vUWFaM3FEeWkxbmtmU0VTM2dIaGhRMkQ4c244aGlKMm9veUt5UXZyVWpxRG5OMGhGdGs0WTNhbw?oc=5",
-    "title": "Diamondback Energy (FANG) Shows Strong Momentum: Is It Worth Investing In? - Bitget",
-    "body": "Diamondback Energy (FANG) Shows Strong Momentum: Is It Worth Investing In? Bitget",
+    "id": "e2a8e5d2-2653-5875-93de-71046e7b890e",
+    "timestamp_utc": "2026-04-08T07:31:44+00:00",
+    "source": "seeking_alpha",
+    "url": "https://seekingalpha.com/news/4573575-oil-names-downgraded-at-roth-as-crude-likely-peaked-stocks-have-run-hard",
+    "title": "Oil names downgraded at Roth as crude likely peaked, stocks have run hard (NASDAQ:FANG) - Seeking Alpha",
+    "body": "Crude oil prices likely are near the peak with an Iran ceasefire in the works, Roth Capital analysts said Wednesday, expecting front-month and longer-dated oil prices to move lower quickly on the end of the conflict and a fuller reopening of the",
+    "author": null,
+    "language": "en",
+    "ticker": "FANG",
+    "tickers_hint": [
+      "FANG"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "seekingalpha.com",
+    "trust_tier": 3,
+    "body_kind": "article_text",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Seeking Alpha",
+      "source_domain": "seekingalpha.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.6625,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "3de56456-edd7-5675-980f-ed24246e9768",
+    "timestamp_utc": "2026-04-08T12:15:03+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ2tDdkdZdWlnRzFBcGRPckNtM2s5X25GbXNpQTZnMFlUbFBEZFZEaFBOMnd0V2w0RTlvejU2QkNwdlMyejRLUEQtWHY1Wlc2RjMxWlRXOXRxMm9YOXJpQ0dRUS15T1JSb0JvMVZoaldxVnRiQTFVWW14RDBwbzhtaHh5LU9ZNlM0M0htRQ?oc=5",
+    "title": "Diamondback Energy (FANG) Stock Sinks As Market Gains: Here's Why - Yahoo Finance Singapore",
+    "body": "Diamondback Energy (FANG) Stock Sinks As Market Gains: Here's Why Yahoo Finance Singapore",
+    "author": null,
+    "language": "en",
+    "ticker": "FANG",
+    "tickers_hint": [
+      "FANG"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Yahoo Finance Singapore",
+      "source_domain": "finance.yahoo.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.63,
+      "_channel": "google_broad",
+      "_alt_sources": [
+        "Yahoo Finance Singapore"
+      ]
+    }
+  },
+  {
+    "id": "1ccf69f9-f3c3-5007-bf67-1a0486e7bf55",
+    "timestamp_utc": "2026-04-08T02:46:02+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8780419/diamondback-energy-fang-analyst-downgrade-to-neutral-price-target-raised-fang-stock-news?mobile=true",
+    "title": "Diamondback Energy (FANG): Analyst Downgrade to Neutral, Price T - GuruFocus",
+    "body": "Diamondback Energy (FANG): Analyst Downgrade to Neutral, Price T GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "FANG",
@@ -13,19 +70,44 @@
       "FANG"
     ],
     "source_quality": "low",
-    "publisher_raw": "bitget",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Bitget",
-      "source_domain": "bitget.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
       "event_origin": "news",
-      "query_tickers": [
-        "FANG"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6,
+      "quality_score": 0.465,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "e3ec4865-31e7-5c95-a693-31bf9eed677b",
+    "timestamp_utc": "2026-04-08T10:16:10+00:00",
+    "source": "moomoo",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQXoyWU1JYlZnTXc3TjVXTmZjS1VDelJwVjhOWmJWNVVBeng0bTVQZC1GeGEzdC04bFdEQlBoMFNOWXBBVGRNRktaTXZ5ZUJ2ZFd5UFNNZVZveEdUbWI5Rm1uOFoweG1QTHEyUUgzMmlJWjhkX2RNRlhPcDdSeTZXcVdxMm5CLXpGYTZxYzdONDUtSU1EYkFabURWcU1FcE54azRz?oc=5",
+    "title": "Diamondback Energy(FANG.US) Director Sells US$3.07 Million in Common Stock - Moomoo",
+    "body": "Diamondback Energy(FANG.US) Director Sells US$3.07 Million in Common Stock Moomoo",
+    "author": null,
+    "language": "en",
+    "ticker": "FANG",
+    "tickers_hint": [
+      "FANG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "moomoo",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Moomoo",
+      "source_domain": "moomoo.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.46,
+      "_channel": "google_broad"
+    }
   }
 ]

@@ -1,11 +1,11 @@
 [
   {
-    "id": "e85384ad-0359-59f0-b271-3ba8344c7ac5",
-    "timestamp_utc": "2026-04-04T10:03:34+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-merck-co-inc-mrk-shares-purchased-by-quintet-private-bank-europe-sa-2026-04-04/",
-    "title": "Merck & Co., Inc. $MRK Shares Purchased by Quintet Private Bank Europe S.A. - MarketBeat",
-    "body": "Merck & Co., Inc. $MRK Shares Purchased by Quintet Private Bank Europe S.A. MarketBeat",
+    "id": "7a2291bd-2519-5db3-93fe-84048ebae3b0",
+    "timestamp_utc": "2026-04-09T01:01:09+00:00",
+    "source": "chartmill",
+    "url": "https://www.chartmill.com/news/MRK/Chartmill-45165-Merck-Co-Inc-NYSEMRK-Offers-a-Durable-Dividend-Backed-by-Strong-Earnings",
+    "title": "Merck & Co. Inc. (NYSE:MRK) Offers a Durable Dividend Backed by Strong Earnings - ChartMill",
+    "body": "Merck & Co. Inc. (NYSE:MRK) Offers a Durable Dividend Backed by Strong Earnings ChartMill",
     "author": null,
     "language": "en",
     "ticker": "MRK",
@@ -13,19 +13,20 @@
       "MRK"
     ],
     "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
+    "publisher_raw": "chartmill",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
+      "source_name": "ChartMill",
+      "source_domain": "chartmill.com",
       "event_origin": "news",
-      "query_tickers": [
-        "MRK"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6,
+      "quality_score": 0.495,
+      "_channel": "google_broad",
+      "_alt_sources": [
+        "ChartMill"
+      ]
+    }
   }
 ]

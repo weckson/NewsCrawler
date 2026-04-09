@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "91643520-50bc-5dbc-89eb-3c5c808172d2",
-      "timestamp_utc": "2026-03-31T07:20:53+00:00",
-      "source": "tipranks",
-      "url": "https://www.tipranks.com/news/bofa-maintains-buy-call-on-uber-stock-after-strategic-blacklane-acquisition",
-      "title": "BofA Maintains Buy Call on UBER Stock After Strategic Blacklane Acquisition - TipRanks",
-      "body": "BofA Maintains Buy Call on UBER Stock After Strategic Blacklane Acquisition TipRanks",
+      "id": "5f67e963-e2d2-5856-9638-ab8598229b82",
+      "timestamp_utc": "2026-04-08T02:58:00+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/04/51697591/stock-market-today-sp-500-dow-futures-surge-as-trump-declares-ceasefire-on-iran-strikes-sofi-technologies-uber-levi-strauss-in-focus",
+      "title": "Stock Market Today: S&P 500, Nasdaq Futures Surge As Trump Declares Ceasefire On Iran Strikes— SoFi, Uber - Benzinga",
+      "body": "Stock Market Today: S&P 500, Nasdaq Futures Surge As Trump Declares Ceasefire On Iran Strikes— SoFi, Uber Benzinga",
       "author": null,
       "language": "en",
       "ticker": "UBER",
@@ -15,28 +15,56 @@
         "UBER"
       ],
       "source_quality": "high",
-      "publisher_raw": "tipranks.com",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "TipRanks",
-        "source_domain": "tipranks.com",
-        "trust_tier": 3,
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
         "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "UBER"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.6875,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
     },
     {
-      "id": "729aafc9-6c29-51c7-bb67-9d2cb36d39b6",
-      "timestamp_utc": "2026-03-31T22:35:06+00:00",
-      "source": "coincentral",
-      "url": "https://coincentral.com/uber-stock-dubai-driverless-robotaxi-launch-expansion/",
-      "title": "Uber (UBER) Stock; Moves Higher on Dubai Robotaxi Launch and Expansion Ambitions - CoinCentral",
-      "body": "The Best AI Stock Picking Tools in 2026: Your Complete Guide to Smarter InvestingFebruary 3, 2026 Finding The Best Crypto to Invest In: Expert Strategies for Identifying Tomorrow’s WinnersFebruary 27, 2025 Sui Blockchain Explained: How It Works and What You Need to KnowFebruary 6, 2025 Is Trump’s Memecoin Legit?\n\nHere’s What We Know About $TRUMPFebruary 1, 2025 What is Decentralized AI and Why We Need It ASAP?December 29, 2024",
+      "id": "365a9de5-8eca-50af-861a-174bd9fec9e7",
+      "timestamp_utc": "2026-04-08T06:20:17+00:00",
+      "source": "247_wall_st",
+      "url": "https://247wallst.com/investing/2026/04/08/uber-bears-are-missing-the-story-and-our-123-73-price-target-shows-why/",
+      "title": "Uber Bears Are Missing the Story and Our $123.73 Price Target Shows Why - 24/7 Wall St.",
+      "body": "Uber Technologies (NYSE:UBER | UBER Price Prediction) trades at $73.23 as of writing, sitting 29% below its 52-week high of $101.99 and down 11.6% year-to-date. Our price target is $123.73, roughly 71% upside over the next 12 months. The model’s recommendation signal is BUY, with a 90% confidence level.\n\nThe forward earnings picture, AV optionality, and free cash flow trajectory each contribute to the wide spread between the current price and the 24/7 Wall St. price target.\n\nUber’s stock peaked near $97.83 in September 2025 before falling sharply through year-end, hitting $70.53 in February 2026. The year-to-date decline of 11.6% contrasts with a business that delivered $52.01 billion in full-year 2025 revenue, up 18.3% year-over-year.\n\nQ4 2025 results showed $14.366 billion in revenue, up 20.1% year-over-year and a record $2.80 billion in free cash flow, up 65% year-over-year. The headline EPS miss of 8.83% was distorted by a $1.6 billion equity investment revaluation headwind, a non-cash item. Operating income expanded 130.39% year-over-year in Q4. The business is accelerating while the stock has lagged.\n\nThe bull case rests on AV monetization, delivery margin expansion, and aggressive buybacks. CEO Dara Khosrowshahi stated on the fourth quarter earnings call that “AVs will unlock a multitrillion-dollar opportunity for Uber,” and the company expects to be in 15 cities by year-end 2026.\n\nThe Rivian Automotive (NASDAQ:RIVN) partnership, involving a $1.25 billion investment for 50,000 robotaxis, adds tangible scale. Delivery Adjusted EBITDA grew 40% year-over-year in Q4 2025, and management raised its advertising penetration ceiling above the prior 2% estimate.\n\nWith 47 buy or strong-buy ratings against just 1 sell, analyst consensus firmly supports the bull case. The bull scenario targets $137.03; the five-year bull case reaches $314.78.\n\nThe bear case centers on competitive disruption and balance sheet creep. Long-term debt rose from $8.34 billion to $10.52 billion year-over-year, and insurance reserves climbed from $2.75 billion to $3.38 billion. The Freight segment posted zero growth in quarter.\n\nThe bear scenario produces a price of $103.76. The debt increase coincides with AV infrastructure commitments and the $20 billion share repurchase authorization announced in Q2 2025. The company generated $9.76 billion in free cash flow in 2025, providing ample coverage, and earnings volatility reflects non-cash equity revaluations rather than operational deterioration.\n\nOli Scarff / Getty Images News via Getty Images\n\nThe 24/7 Wall St. price target of $123.73 reflects a business growing revenue at 20% annually, generating nearly $10 billion in free cash flow, and positioned as the dominant distribution layer for autonomous vehicles. At 15x trailing earnings, the stock is priced for far less.\n\nThe valuation gap narrows if AV deployments in new cities proceed on schedule and Q1 2026 gross bookings land within the $52 billion to $53.5 billion guidance range. The key risks to monitor: worker classification legislation that materially raises driver costs, or AV partnership terms that shift economics against Uber’s take rate.\n\nThese projections assume Uber continues expanding its AV partner network and delivery margins improve toward management’s long-term targets. Faster-than-expected AV commercialization represents the primary upside catalyst; regulatory action on worker classification or weakening global rideshare demand are the key downside risks.",
+      "author": null,
+      "language": "en",
+      "ticker": "UBER",
+      "tickers_hint": [
+        "UBER"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "247wallst.com",
+      "trust_tier": 2,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "24/7 Wall St.",
+        "source_domain": "247wallst.com",
+        "event_origin": "news",
+        "relevance": 0.6,
+        "quality_score": 0.615,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "c2c6ce0d-4762-55d5-985e-f192c7f964fc",
+      "timestamp_utc": "2026-04-08T01:40:00+00:00",
+      "source": "stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOUVQeFJxU0dxMXdibnV5ZmlYcDdDMFNPSHdsbkRwbC1DNGJFV3lSd2lXTG9URkhTMVVPUnFKblVuLS13dGNQOU1WUElCZ04yNEtrOEgycm80ZlZuZHFQbzIxR0JiVUJLYjZqN2tFbnd0dC05SkFRa3J2X1Fvdnp0VmpaSllRY210RjhfbHI3dlJCeEg3UzdnNFliMjRSbS13Sm53UlpUQkRNeFRfSE1NUk5xUTg3alpTWVhOU2pQMzkyY0w2bC0w?oc=5",
+      "title": "PONY, UBER Stocks Gain Pre-Market On European Robotaxi Launch – Retail Sees UBER As ‘Undervalued Opportunity’ - Stocktwits",
+      "body": "PONY, UBER Stocks Gain Pre-Market On European Robotaxi Launch – Retail Sees UBER As ‘Undervalued Opportunity’ Stocktwits",
       "author": null,
       "language": "en",
       "ticker": "UBER",
@@ -44,60 +72,29 @@
         "UBER"
       ],
       "source_quality": "low",
-      "publisher_raw": "coincentral",
+      "publisher_raw": "stocktwits",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "CoinCentral",
-        "source_domain": "coincentral.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
+        "source_name": "Stocktwits",
+        "source_domain": "stocktwits.com",
         "event_origin": "news",
-        "query_tickers": [
-          "UBER"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "1598dd20-d093-5ab5-a84d-bc51082d0ee9",
-      "timestamp_utc": "2026-04-01T09:21:50+00:00",
-      "source": "cantech_letter",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVnM4RVQ3cVh3SFR2RmxpMTN6ZGU2cFI3WjFWV1JjaGxkNWVhY3BuWnM2aU1XQVFoUHotU1Q0MHVuR2ZMa1M1VFhSTkNwN2VpcUlFNGhqTzRiMDNyZ3p6NG5vemhYYkw2bTJvZVdoeE1velRtUTNQeVh1WGoyWTUwdW1YTHRVeUdaM3ZnaExYdkU2RmF60gGaAUFVX3lxTE9zRFhObk1GdDlPaEZZcVhUczA5R1NGM1FRWDgzT1NUcHlLR3E2U3ludVNQQXd6LU5ETlNndXBscDhNcmx6dGRhRFhOX21xUHdwajlGd2NteGhXV2xhMFoyb1Q1SWdJZ1VHX25IQURwc2RxekEwc2wxMFVHMTFnckF4THdFN2hhU1BYSzE4Ui1VNElMQmdfeGtXYmc?oc=5",
-      "title": "Uber is much more than you think, this investor says - Cantech Letter",
-      "body": "Uber is much more than you think, this investor says Cantech Letter",
-      "author": null,
-      "language": "en",
-      "ticker": "UBER",
-      "tickers_hint": [
-        "UBER"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "cantech letter",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Cantech Letter",
-        "source_domain": "cantechletter.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "UBER"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.45,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "91643520-50bc-5dbc-89eb-3c5c808172d2",
-      "timestamp_utc": "2026-03-31T07:20:53+00:00",
-      "source": "tipranks",
-      "url": "https://www.tipranks.com/news/bofa-maintains-buy-call-on-uber-stock-after-strategic-blacklane-acquisition",
-      "title": "BofA Maintains Buy Call on UBER Stock After Strategic Blacklane Acquisition - TipRanks",
-      "body": "BofA Maintains Buy Call on UBER Stock After Strategic Blacklane Acquisition TipRanks",
+      "id": "5f67e963-e2d2-5856-9638-ab8598229b82",
+      "timestamp_utc": "2026-04-08T02:58:00+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/04/51697591/stock-market-today-sp-500-dow-futures-surge-as-trump-declares-ceasefire-on-iran-strikes-sofi-technologies-uber-levi-strauss-in-focus",
+      "title": "Stock Market Today: S&P 500, Nasdaq Futures Surge As Trump Declares Ceasefire On Iran Strikes— SoFi, Uber - Benzinga",
+      "body": "Stock Market Today: S&P 500, Nasdaq Futures Surge As Trump Declares Ceasefire On Iran Strikes— SoFi, Uber Benzinga",
       "author": null,
       "language": "en",
       "ticker": "UBER",
@@ -105,28 +102,56 @@
         "UBER"
       ],
       "source_quality": "high",
-      "publisher_raw": "tipranks.com",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "TipRanks",
-        "source_domain": "tipranks.com",
-        "trust_tier": 3,
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
         "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "UBER"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.6875,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
     },
     {
-      "id": "729aafc9-6c29-51c7-bb67-9d2cb36d39b6",
-      "timestamp_utc": "2026-03-31T22:35:06+00:00",
-      "source": "coincentral",
-      "url": "https://coincentral.com/uber-stock-dubai-driverless-robotaxi-launch-expansion/",
-      "title": "Uber (UBER) Stock; Moves Higher on Dubai Robotaxi Launch and Expansion Ambitions - CoinCentral",
-      "body": "The Best AI Stock Picking Tools in 2026: Your Complete Guide to Smarter InvestingFebruary 3, 2026 Finding The Best Crypto to Invest In: Expert Strategies for Identifying Tomorrow’s WinnersFebruary 27, 2025 Sui Blockchain Explained: How It Works and What You Need to KnowFebruary 6, 2025 Is Trump’s Memecoin Legit?\n\nHere’s What We Know About $TRUMPFebruary 1, 2025 What is Decentralized AI and Why We Need It ASAP?December 29, 2024",
+      "id": "365a9de5-8eca-50af-861a-174bd9fec9e7",
+      "timestamp_utc": "2026-04-08T06:20:17+00:00",
+      "source": "247_wall_st",
+      "url": "https://247wallst.com/investing/2026/04/08/uber-bears-are-missing-the-story-and-our-123-73-price-target-shows-why/",
+      "title": "Uber Bears Are Missing the Story and Our $123.73 Price Target Shows Why - 24/7 Wall St.",
+      "body": "Uber Technologies (NYSE:UBER | UBER Price Prediction) trades at $73.23 as of writing, sitting 29% below its 52-week high of $101.99 and down 11.6% year-to-date. Our price target is $123.73, roughly 71% upside over the next 12 months. The model’s recommendation signal is BUY, with a 90% confidence level.\n\nThe forward earnings picture, AV optionality, and free cash flow trajectory each contribute to the wide spread between the current price and the 24/7 Wall St. price target.\n\nUber’s stock peaked near $97.83 in September 2025 before falling sharply through year-end, hitting $70.53 in February 2026. The year-to-date decline of 11.6% contrasts with a business that delivered $52.01 billion in full-year 2025 revenue, up 18.3% year-over-year.\n\nQ4 2025 results showed $14.366 billion in revenue, up 20.1% year-over-year and a record $2.80 billion in free cash flow, up 65% year-over-year. The headline EPS miss of 8.83% was distorted by a $1.6 billion equity investment revaluation headwind, a non-cash item. Operating income expanded 130.39% year-over-year in Q4. The business is accelerating while the stock has lagged.\n\nThe bull case rests on AV monetization, delivery margin expansion, and aggressive buybacks. CEO Dara Khosrowshahi stated on the fourth quarter earnings call that “AVs will unlock a multitrillion-dollar opportunity for Uber,” and the company expects to be in 15 cities by year-end 2026.\n\nThe Rivian Automotive (NASDAQ:RIVN) partnership, involving a $1.25 billion investment for 50,000 robotaxis, adds tangible scale. Delivery Adjusted EBITDA grew 40% year-over-year in Q4 2025, and management raised its advertising penetration ceiling above the prior 2% estimate.\n\nWith 47 buy or strong-buy ratings against just 1 sell, analyst consensus firmly supports the bull case. The bull scenario targets $137.03; the five-year bull case reaches $314.78.\n\nThe bear case centers on competitive disruption and balance sheet creep. Long-term debt rose from $8.34 billion to $10.52 billion year-over-year, and insurance reserves climbed from $2.75 billion to $3.38 billion. The Freight segment posted zero growth in quarter.\n\nThe bear scenario produces a price of $103.76. The debt increase coincides with AV infrastructure commitments and the $20 billion share repurchase authorization announced in Q2 2025. The company generated $9.76 billion in free cash flow in 2025, providing ample coverage, and earnings volatility reflects non-cash equity revaluations rather than operational deterioration.\n\nOli Scarff / Getty Images News via Getty Images\n\nThe 24/7 Wall St. price target of $123.73 reflects a business growing revenue at 20% annually, generating nearly $10 billion in free cash flow, and positioned as the dominant distribution layer for autonomous vehicles. At 15x trailing earnings, the stock is priced for far less.\n\nThe valuation gap narrows if AV deployments in new cities proceed on schedule and Q1 2026 gross bookings land within the $52 billion to $53.5 billion guidance range. The key risks to monitor: worker classification legislation that materially raises driver costs, or AV partnership terms that shift economics against Uber’s take rate.\n\nThese projections assume Uber continues expanding its AV partner network and delivery margins improve toward management’s long-term targets. Faster-than-expected AV commercialization represents the primary upside catalyst; regulatory action on worker classification or weakening global rideshare demand are the key downside risks.",
+      "author": null,
+      "language": "en",
+      "ticker": "UBER",
+      "tickers_hint": [
+        "UBER"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "247wallst.com",
+      "trust_tier": 2,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "24/7 Wall St.",
+        "source_domain": "247wallst.com",
+        "event_origin": "news",
+        "relevance": 0.6,
+        "quality_score": 0.615,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "c2c6ce0d-4762-55d5-985e-f192c7f964fc",
+      "timestamp_utc": "2026-04-08T01:40:00+00:00",
+      "source": "stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOUVQeFJxU0dxMXdibnV5ZmlYcDdDMFNPSHdsbkRwbC1DNGJFV3lSd2lXTG9URkhTMVVPUnFKblVuLS13dGNQOU1WUElCZ04yNEtrOEgycm80ZlZuZHFQbzIxR0JiVUJLYjZqN2tFbnd0dC05SkFRa3J2X1Fvdnp0VmpaSllRY210RjhfbHI3dlJCeEg3UzdnNFliMjRSbS13Sm53UlpUQkRNeFRfSE1NUk5xUTg3alpTWVhOU2pQMzkyY0w2bC0w?oc=5",
+      "title": "PONY, UBER Stocks Gain Pre-Market On European Robotaxi Launch – Retail Sees UBER As ‘Undervalued Opportunity’ - Stocktwits",
+      "body": "PONY, UBER Stocks Gain Pre-Market On European Robotaxi Launch – Retail Sees UBER As ‘Undervalued Opportunity’ Stocktwits",
       "author": null,
       "language": "en",
       "ticker": "UBER",
@@ -134,49 +159,18 @@
         "UBER"
       ],
       "source_quality": "low",
-      "publisher_raw": "coincentral",
+      "publisher_raw": "stocktwits",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "CoinCentral",
-        "source_domain": "coincentral.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
+        "source_name": "Stocktwits",
+        "source_domain": "stocktwits.com",
         "event_origin": "news",
-        "query_tickers": [
-          "UBER"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "1598dd20-d093-5ab5-a84d-bc51082d0ee9",
-      "timestamp_utc": "2026-04-01T09:21:50+00:00",
-      "source": "cantech_letter",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVnM4RVQ3cVh3SFR2RmxpMTN6ZGU2cFI3WjFWV1JjaGxkNWVhY3BuWnM2aU1XQVFoUHotU1Q0MHVuR2ZMa1M1VFhSTkNwN2VpcUlFNGhqTzRiMDNyZ3p6NG5vemhYYkw2bTJvZVdoeE1velRtUTNQeVh1WGoyWTUwdW1YTHRVeUdaM3ZnaExYdkU2RmF60gGaAUFVX3lxTE9zRFhObk1GdDlPaEZZcVhUczA5R1NGM1FRWDgzT1NUcHlLR3E2U3ludVNQQXd6LU5ETlNndXBscDhNcmx6dGRhRFhOX21xUHdwajlGd2NteGhXV2xhMFoyb1Q1SWdJZ1VHX25IQURwc2RxekEwc2wxMFVHMTFnckF4THdFN2hhU1BYSzE4Ui1VNElMQmdfeGtXYmc?oc=5",
-      "title": "Uber is much more than you think, this investor says - Cantech Letter",
-      "body": "Uber is much more than you think, this investor says Cantech Letter",
-      "author": null,
-      "language": "en",
-      "ticker": "UBER",
-      "tickers_hint": [
-        "UBER"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "cantech letter",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Cantech Letter",
-        "source_domain": "cantechletter.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "UBER"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.45,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

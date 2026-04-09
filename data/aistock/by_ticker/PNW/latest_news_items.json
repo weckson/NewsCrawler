@@ -1,11 +1,11 @@
 [
   {
-    "id": "079bfa7e-1a08-5b4a-a9fb-8095b9f5f37c",
-    "timestamp_utc": "2026-04-01T00:34:06+00:00",
+    "id": "e928ace0-72a3-5e41-9809-7c7baeb446e4",
+    "timestamp_utc": "2026-04-08T16:00:00+00:00",
     "source": "yahoo_finance",
-    "url": "https://finance.yahoo.com/quote/PNW261218C00090000/",
-    "title": "PNW Dec 2026 90.000 call (PNW261218C00090000) Stock Price, News, Quote & History - Yahoo Finance",
-    "body": "PNW Dec 2026 90.000 call (PNW261218C00090000) Stock Price, News, Quote & History Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-bumps-pinnacle-west-capital-020016902.html",
+    "title": "Analyst Bumps Pinnacle West Capital (PNW) Price Target by $4 - Yahoo Finance",
+    "body": "Analyst Bumps Pinnacle West Capital (PNW) Price Target by $4 Yahoo Finance",
     "author": null,
     "language": "en",
     "ticker": "PNW",
@@ -14,56 +14,28 @@
     ],
     "source_quality": "high",
     "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "Yahoo Finance",
       "source_domain": "finance.yahoo.com",
-      "trust_tier": 3,
-      "relevance": 0.6000000000000001,
       "event_origin": "news",
-      "query_tickers": [
-        "PNW"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "dccc9a2d-a349-5630-a702-9620f513e4e4",
-    "timestamp_utc": "2026-03-31T04:57:25+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/barclays-raises-pinnacle-west-capital-nysepnw-price-target-to-10100-2026-03-31/",
-    "title": "Barclays Raises Pinnacle West Capital (NYSE:PNW) Price Target to $101.00 - MarketBeat",
-    "body": "Barclays Raises Pinnacle West Capital (NYSE:PNW) Price Target to $101.00 MarketBeat",
-    "author": null,
-    "language": "en",
-    "ticker": "PNW",
-    "tickers_hint": [
-      "PNW"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
-      "trust_tier": 1,
       "relevance": 0.6,
-      "event_origin": "news",
-      "query_tickers": [
-        "PNW"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.735,
+      "_channel": "google_broad",
+      "_alt_sources": [
+        "Insider Monkey"
+      ]
+    }
   },
   {
-    "id": "805b82f0-3794-5fad-867d-5ca97acd2416",
-    "timestamp_utc": "2026-03-31T21:05:02+00:00",
+    "id": "974a8010-b4b8-5290-86eb-feec6d7bcca2",
+    "timestamp_utc": "2026-04-08T01:56:34+00:00",
     "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/pinnacle-west-capital-corporation-nysepnw-given-average-recommendation-of-hold-by-brokerages-2026-04-01/",
-    "title": "Pinnacle West Capital Corporation (NYSE:PNW) Given Average Recommendation of \"Hold\" by Brokerages - MarketBeat",
-    "body": "Pinnacle West Capital Corporation (NYSE:PNW) Given Average Recommendation of \"Hold\" by Brokerages MarketBeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-pinnacle-west-capital-corporation-pnw-holdings-raised-by-oak-thistle-llc-2026-04-08/",
+    "title": "Pinnacle West Capital Corporation $PNW Holdings Raised by Oak Thistle LLC - MarketBeat",
+    "body": "Pinnacle West Capital Corporation $PNW Holdings Raised by Oak Thistle LLC MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "PNW",
@@ -72,27 +44,28 @@
     ],
     "source_quality": "low",
     "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "MarketBeat",
       "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
       "event_origin": "news",
-      "query_tickers": [
-        "PNW"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4325,
+      "_channel": "google_broad",
+      "_alt_sources": [
+        "MarketBeat"
+      ]
+    }
   },
   {
-    "id": "50ba31e7-3dc5-5967-9012-1bec7bc72a0d",
-    "timestamp_utc": "2026-03-31T06:07:30+00:00",
+    "id": "cbb7d139-c0ce-577b-8753-87bd036624eb",
+    "timestamp_utc": "2026-04-08T17:02:41+00:00",
     "source": "gurufocus",
-    "url": "https://www.gurufocus.com/news/8761622/pnw-barclays-raises-price-target-to-101-maintains-equalweight-rating-pnw-stock-news?mobile=true",
-    "title": "PNW: Barclays Raises Price Target to $101, Maintains Equal-Weigh - GuruFocus",
-    "body": "PNW: Barclays Raises Price Target to $101, Maintains Equal-Weigh GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zSk5HUUZZOUN5S0VOWlV0SXZ4dlZxZE9sRG1VYjJKRy1CWTBVeXNESDEzTWhWNnRtZ3ZmbVdqc211UTFHSHQ0bkVPZG5EMnBReG96bkdCVXdpTVk?oc=5",
+    "title": "Pinnacle West Capital Corp (MEX:PNW) Stock News, Headlines & Updates - GuruFocus",
+    "body": "Pinnacle West Capital Corp (MEX:PNW) Stock News, Headlines & Updates GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "PNW",
@@ -101,18 +74,16 @@
     ],
     "source_quality": "low",
     "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "GuruFocus",
       "source_domain": "gurufocus.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
       "event_origin": "news",
-      "query_tickers": [
-        "PNW"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.43,
+      "_channel": "google_broad"
+    }
   }
 ]

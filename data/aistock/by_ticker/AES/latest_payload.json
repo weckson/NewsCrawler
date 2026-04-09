@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "489144eb-0875-5600-93d0-0806c04b5459",
-      "timestamp_utc": "2026-04-01T05:30:02+00:00",
-      "source": "yahoo_finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-aes-aes-down-0-153002281.html",
-      "title": "Why Is AES (AES) Down 0.6% Since Last Earnings Report? - Yahoo Finance",
-      "body": "Why Is AES (AES) Down 0.6% Since Last Earnings Report? Yahoo Finance",
+      "id": "3d2ef7d5-0087-5bbf-bcb4-3429eb1bf5d3",
+      "timestamp_utc": "2026-04-07T05:10:42+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/04/51681728/oracle-brings-in-schneider-electric-veteran-to-lead-finance",
+      "title": "Oracle Brings In Schneider Electric Veteran To Lead Finance - AES (NYSE:AES), iShares Expanded Tech-Softw - Benzinga",
+      "body": "Oracle Brings In Schneider Electric Veteran To Lead Finance - AES (NYSE:AES), iShares Expanded Tech-Softw Benzinga",
       "author": null,
       "language": "en",
       "ticker": "AES",
@@ -15,60 +15,32 @@
         "AES"
       ],
       "source_quality": "high",
-      "publisher_raw": "finance.yahoo.com",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
-        "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.7000000000000001,
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
         "event_origin": "news",
-        "query_tickers": [
-          "AES"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "dac36de9-1854-565b-a397-976bcdcd83f9",
-      "timestamp_utc": "2026-04-01T02:30:00+00:00",
-      "source": "stock_titan",
-      "url": "https://www.stocktitan.net/news/AES/aes-announces-successful-completion-of-consent-solicitation-for-its-ijpdcua2r5xg.html",
-      "title": "AES clears 2028 note changes, trimming merger backstop commitments - Stock Titan",
-      "body": "Aes Corp NYSE:AES View AES Stock Overview → AES Rankings #918 Ranked by Market Cap #534 Ranked by Dividends #808 52-Week Gainer #1225 YTD Gainer #592 Monthly Gainer #640 Ranked by Short %Change AES Latest News Apr 1, 2026 IPALCO Enterprises, Inc.\n\nAnnounces Extension of Expiration Time for Previously Announced Consent Solicitations Apr 1, 2026 DPL LLC Announces Extension of Expiration Time for Previously Announced Consent Solicitation Mar 30, 2026 IPALCO Enterprises, Inc.\n\nAnnounces Extension of Expiration Time for Previously Announced Consent Solicitations Mar 30, 2026 DPL LLC Announces Extension of Expiration Time for Previously Announced Consent Solicitation Mar 30, 2026 AES Announces Extension of Consent Solicitation for its 2028 Notes AES Latest SEC Filings Mar 26, 2026 [SCHEDULE 13G/A] AES CORP Amended Passive Investment Disclosure Mar 20, 2026 [ARS] AES CORP SEC Filing Mar 20, 2026 [DEF 14A] AES CORP Definitive Proxy Statement Mar 19, 2026 [8-K] AES CORP Reports Material Event Mar 2, 2026 [10-K] AES CORP Files Annual Report AES Stock Data Market Cap 10.05B Float 708.98M Industry Utilities - Diversified Sector Cogeneration Services & Small Power Producers Website Link Country United States City ARLINGTON",
-      "author": null,
-      "language": "en",
-      "ticker": "AES",
-      "tickers_hint": [
-        "AES"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "AES"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.65,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "489144eb-0875-5600-93d0-0806c04b5459",
-      "timestamp_utc": "2026-04-01T05:30:02+00:00",
-      "source": "yahoo_finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-aes-aes-down-0-153002281.html",
-      "title": "Why Is AES (AES) Down 0.6% Since Last Earnings Report? - Yahoo Finance",
-      "body": "Why Is AES (AES) Down 0.6% Since Last Earnings Report? Yahoo Finance",
+      "id": "3d2ef7d5-0087-5bbf-bcb4-3429eb1bf5d3",
+      "timestamp_utc": "2026-04-07T05:10:42+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/04/51681728/oracle-brings-in-schneider-electric-veteran-to-lead-finance",
+      "title": "Oracle Brings In Schneider Electric Veteran To Lead Finance - AES (NYSE:AES), iShares Expanded Tech-Softw - Benzinga",
+      "body": "Oracle Brings In Schneider Electric Veteran To Lead Finance - AES (NYSE:AES), iShares Expanded Tech-Softw Benzinga",
       "author": null,
       "language": "en",
       "ticker": "AES",
@@ -76,49 +48,21 @@
         "AES"
       ],
       "source_quality": "high",
-      "publisher_raw": "finance.yahoo.com",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
-        "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.7000000000000001,
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
         "event_origin": "news",
-        "query_tickers": [
-          "AES"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "dac36de9-1854-565b-a397-976bcdcd83f9",
-      "timestamp_utc": "2026-04-01T02:30:00+00:00",
-      "source": "stock_titan",
-      "url": "https://www.stocktitan.net/news/AES/aes-announces-successful-completion-of-consent-solicitation-for-its-ijpdcua2r5xg.html",
-      "title": "AES clears 2028 note changes, trimming merger backstop commitments - Stock Titan",
-      "body": "Aes Corp NYSE:AES View AES Stock Overview → AES Rankings #918 Ranked by Market Cap #534 Ranked by Dividends #808 52-Week Gainer #1225 YTD Gainer #592 Monthly Gainer #640 Ranked by Short %Change AES Latest News Apr 1, 2026 IPALCO Enterprises, Inc.\n\nAnnounces Extension of Expiration Time for Previously Announced Consent Solicitations Apr 1, 2026 DPL LLC Announces Extension of Expiration Time for Previously Announced Consent Solicitation Mar 30, 2026 IPALCO Enterprises, Inc.\n\nAnnounces Extension of Expiration Time for Previously Announced Consent Solicitations Mar 30, 2026 DPL LLC Announces Extension of Expiration Time for Previously Announced Consent Solicitation Mar 30, 2026 AES Announces Extension of Consent Solicitation for its 2028 Notes AES Latest SEC Filings Mar 26, 2026 [SCHEDULE 13G/A] AES CORP Amended Passive Investment Disclosure Mar 20, 2026 [ARS] AES CORP SEC Filing Mar 20, 2026 [DEF 14A] AES CORP Definitive Proxy Statement Mar 19, 2026 [8-K] AES CORP Reports Material Event Mar 2, 2026 [10-K] AES CORP Files Annual Report AES Stock Data Market Cap 10.05B Float 708.98M Industry Utilities - Diversified Sector Cogeneration Services & Small Power Producers Website Link Country United States City ARLINGTON",
-      "author": null,
-      "language": "en",
-      "ticker": "AES",
-      "tickers_hint": [
-        "AES"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "AES"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.65,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
     }
   ]
 }

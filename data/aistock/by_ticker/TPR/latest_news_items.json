@@ -1,11 +1,11 @@
 [
   {
-    "id": "c0d75881-6a82-5e55-8194-4416de44d056",
-    "timestamp_utc": "2026-04-03T22:52:25+00:00",
-    "source": "yahoo_finance_singapore",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRa3JINVhtRzIwdXp1UEtyYWdJX3pnUURSVTdIMXdIRDQ3dDFHU0ZaMDFkbk9KY1JDMmtMREw3dTVLVDlST2Vya3JZTVlVTWhpcjZWZ1pOVQ?oc=5",
-    "title": "Tapestry, Inc. (TPR) latest stock news and headlines - Yahoo Finance Singapore",
-    "body": "Tapestry, Inc. (TPR) latest stock news and headlines Yahoo Finance Singapore",
+    "id": "847c319d-d628-5760-97d8-2e5c83405fe6",
+    "timestamp_utc": "2026-04-06T12:23:36+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSC1SVURPUmVwajNmakIyWDNMakFvTTM1NlBEcU1EcGxWUXJjVFlSTGs4Yy1XZkU2NGFYaWZLMGtva1JXWW9DNi0xWnZFUjIwcjhWMWhYREpMUXFXNVVzcVAxSUxXSFFBMVNncmgtYWc5T0lVZGphVUFpMHNNaEkxWlcwRHI4WlVRTS1qclo3TUtEdmVwNVpQeTJRX0R4QTZURC1iX2laX3E?oc=5",
+    "title": "Director at Tapestry (NYSE: TPR) receives 1,392 RSU equity award - Stock Titan",
+    "body": "Director at Tapestry (NYSE: TPR) receives 1,392 RSU equity award Stock Titan",
     "author": null,
     "language": "en",
     "ticker": "TPR",
@@ -13,28 +13,25 @@
       "TPR"
     ],
     "source_quality": "low",
-    "publisher_raw": "yahoo finance singapore",
+    "publisher_raw": "stock titan",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance Singapore",
-      "source_domain": "yahoofinancesingapore.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
       "event_origin": "news",
-      "query_tickers": [
-        "TPR"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "f582607f-7395-51aa-9c6a-9660f5c05516",
-    "timestamp_utc": "2026-04-03T22:02:34+00:00",
-    "source": "yahoo!_finance_canada",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zRE1uR2hiOXFOeF9pXzRUZ2ZJZ3dXVnJjOWJVcUIycFc2dEdoc0taOUkyampHZUJJbE1teVR0SDJYcDhtWFU2UDQ1MU1zWXlu?oc=5",
-    "title": "Tapestry, Inc. (TPR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "body": "Tapestry, Inc. (TPR) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "id": "8c039986-bc68-509d-9810-23352ecd866a",
+    "timestamp_utc": "2026-04-06T12:17:34+00:00",
+    "source": "stock_titan",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdE9vT01WQzlVMkZHS3l1Y3ZGMS1jRWpiUk5kQ0lnX2ZtMzJsaDNPYXFlczI2cVBORkkxZURKOVJnN25PVGNBSU9pZWhJSGQyblh6NmN5bFdVLW9nRWNKQWg3Zjdkem44cnBYckJfZDFPeTNXaGNGZEtsVVR3RVQtc3pOZS1vaUxtYWY2XzhWZDNyTFlYdGZxR0RValZVdm1ZRmZUWkNRdEhhM3V2N1JqU2xRc1FXR0JHWU4zTGROcw?oc=5",
+    "title": "Tapestry (TPR) director Matthew Madrigal files initial Form 3 - Stock Titan",
+    "body": "Tapestry (TPR) director Matthew Madrigal files initial Form 3 Stock Titan",
     "author": null,
     "language": "en",
     "ticker": "TPR",
@@ -42,23 +39,16 @@
       "TPR"
     ],
     "source_quality": "low",
-    "publisher_raw": "yahoo! finance canada",
+    "publisher_raw": "stock titan",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo! Finance Canada",
-      "source_domain": "yahoofinancecanada.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "Stock Titan",
+      "source_domain": "stocktitan.com",
       "event_origin": "news",
-      "query_tickers": [
-        "TPR"
-      ],
-      "alt_sources": [
-        "Yahoo Finance UK",
-        "Yahoo Finance Singapore"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "_channel": "google_broad"
+    }
   }
 ]

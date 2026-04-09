@@ -2,539 +2,115 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "3b28b3a5-0604-5c54-b3cf-824fce2b784f",
-      "timestamp_utc": "2026-04-01T16:33:16+00:00",
-      "source": "benzinga",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNXVHRHZxancwVGgyanYxQ0s0QWJiTmhtQUVhSDFLcnBmZEdWWEV1SjZ2Zk0yemREWFAxay1oODVRZkhUazFuQXpUN1dab0dVZjdhZGVPU1J6Tlk0ODRDS3JRaFhqSUVvUUZfUExWMVhLNlZ4RW5yck9BRFhpT1VweXpvc2RGRFY5ZW43WTdOaWZ5YUk2d3JkTzVJUlRobG1zM3VqbTVPb0tta0JTb2Rad0RB?oc=5",
-      "title": "Globalstar, Exxon Mobil, Cyclerion Therapeutics, Eli Lilly And Intel: Why These 5 Stocks Are On Investors' Radars Today - Benzinga",
-      "body": "Globalstar, Exxon Mobil, Cyclerion Therapeutics, Eli Lilly And Intel: Why These 5 Stocks Are On Investors' Radars Today Benzinga",
+      "id": "e2ac43fc-7450-527e-8dc5-6788713aa58e",
+      "timestamp_utc": "2026-04-06T21:48:43+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/will-lilly-lly-beat-estimates-again-in-its-next-earnings-report/ar-AA1ZVtU3",
+      "title": "Will Lilly (LLY) beat estimates again in its next earnings report? - MSN",
+      "body": "Will Lilly (LLY) beat estimates again in its next earnings report? MSN",
       "author": null,
       "language": "en",
-      "ticker": "INTC",
+      "ticker": "LLY",
       "tickers_hint": [
-        "INTC",
         "LLY"
       ],
-      "source_quality": "high",
-      "publisher_raw": "benzinga.com",
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "event_origin": "news",
+        "relevance": 0.6,
+        "quality_score": 0.445,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "aeaa4eac-4bad-5d50-bf9a-3ab38adc0002",
+      "timestamp_utc": "2026-04-07T04:22:19+00:00",
+      "source": "coincentral.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN3ZsSnhGZmhReTFXd0R1Z1JMSWVxMmlVOUc5WVFIaS1URTQxUlhsMUFKUUhnaVhLeTcxanA3Q3B1S2FjcmZkcVlYajZfeUt3b3NKTW9GWnpKY2c0MTFxNURHR3VqRDhRR2E3QUNZSnhFa1Rtem96Y3NuX2FucXpTclJfUjZ4X1d0Z3hWSkdlS2hwaFJQb3Y0a0JHZl9GVUVGOEtiVnZKU1Rmb0k?oc=5",
+      "title": "Eli Lilly (LLY) Stock: FDA Greenlights Foundayo as GLP-1 Market Expansion Accelerates - coincentral.com",
+      "body": "Eli Lilly (LLY) Stock: FDA Greenlights Foundayo as GLP-1 Market Expansion Accelerates coincentral.com",
+      "author": null,
+      "language": "en",
+      "ticker": "LLY",
+      "tickers_hint": [
+        "LLY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "coincentral.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "coincentral.com",
+        "source_domain": "coincentralcom.com",
+        "event_origin": "news",
         "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "INTC",
-          "LLY"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "44f22bf3-de80-5ad2-9063-64ef37e753b6",
-      "timestamp_utc": "2026-04-01T07:10:31+00:00",
-      "source": "tipranks",
-      "url": "https://www.tipranks.com/news/eli-lilly-stock-lly-surges-as-fda-approves-weight-loss-pill",
-      "title": "Eli Lilly Stock (LLY) Surges as FDA Approves Weight-Loss Pill - TipRanks",
-      "body": "Eli Lilly Stock (LLY) Surges as FDA Approves Weight-Loss Pill TipRanks",
-      "author": null,
-      "language": "en",
-      "ticker": "LLY",
-      "tickers_hint": [
-        "LLY"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "tipranks.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "TipRanks",
-        "source_domain": "tipranks.com",
-        "trust_tier": 3,
-        "relevance": 0.7000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "LLY"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "48216052-180c-51a0-883f-2f37b861120f",
-      "timestamp_utc": "2026-04-01T16:07:00+00:00",
-      "source": "yahoo_finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-lly-stock-trades-020726849.html",
-      "title": "Eli Lilly (LLY) Stock Trades Up, Here Is Why - Yahoo Finance",
-      "body": "Eli Lilly (LLY) Stock Trades Up, Here Is Why Yahoo Finance",
-      "author": null,
-      "language": "en",
-      "ticker": "LLY",
-      "tickers_hint": [
-        "LLY"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "finance.yahoo.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
-        "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "LLY"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "449c5dcb-7b55-5cd6-b6c8-52f2539bf9b6",
-      "timestamp_utc": "2026-04-01T09:54:40+00:00",
-      "source": "tradingview",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZaVlqVnBGeTZsMHpfbkFBdmN0b2tXZWlGZmtPclJjdzRXV0N0SXEtOFEyRENobTZlS21YUFVSalVtNWlXdzlxUGM4MDBuUDFwWkVsaHZOMmZiZncyZzhaWGVFVmdnTUFrWlFJRDhR?oc=5",
-      "title": "Eli Lilly and Company Trade Ideas — BSESOF:LLY - TradingView",
-      "body": "Eli Lilly and Company Trade Ideas — BSESOF:LLY TradingView",
-      "author": null,
-      "language": "en",
-      "ticker": "LLY",
-      "tickers_hint": [
-        "LLY"
-      ],
-      "source_quality": "medium",
-      "publisher_raw": "tradingview.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "TradingView",
-        "source_domain": "tradingview.com",
-        "trust_tier": 2,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "LLY"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "b33a1021-e03a-5d01-aad1-d95d4ee5d3c8",
-      "timestamp_utc": "2026-04-01T04:06:00+00:00",
-      "source": "tradingview",
-      "url": "https://www.tradingview.com/news/zacks:4dcceb98d094b:0-lly-to-buy-neuroscience-biotech-centessa-pharmaceuticals-in-7-8b-deal/",
-      "title": "LLY to Buy Neuroscience Biotech Centessa Pharmaceuticals in $7.8B Deal - TradingView",
-      "body": "Eli Lilly LLY announced that it has entered into a definitive agreement to acquire U.K.-based Centessa Pharmaceuticals CNTA. Per the terms, the pharma giant will acquire all outstanding shares (including American Depositary Shares) of CNTA for $38 per share in cash, aggregating to about $6.3 billion.\n\nIn addition, Centessa’s shareholders will receive one non-tradable contingent value right (CVR) per share. This CVR entitles holders to an additional cash payment of up to $9 per share, contingent on achieving FDA approvals of either of its two pipeline drugs (cleminorexton and ORX142) across narcolepsy type II and idiopathic hypersomnia (IH) indications over the next few years. Including the CVR, the total potential deal value reaches approximately $7.8 billion.\n\nPost this acquisition, Lilly will add Centessa’s pipeline of orexin receptor 2 (OX2R) agonists for treating people with sleep-wake disorders. This includes the lead drug, cleminorexton (formerly ORX750), which is being evaluated in a mid-stage study for two types of narcolepsy (type I and II) and IH. Last year, CNTA reported initial results from this study, which Lilly describes as demonstrating “a potential best-in-class profile” for the drug.\n\nAnother drug in Centessa’s pipeline is ORX142, which is being evaluated in an early-stage study for neurological and neurodegenerative disorders. A third candidate, ORX489, is currently in preclinical development and is being developed for neuropsychiatric disorders.\n\nThe transaction, which was approved by the board of directors of both companies, is expected to be closed in the third quarter.\n\nFollowing this news on Tuesday, shares of Centessa increased 44%, while Lilly rose about 4%.\n\nYear to date, CNTA stock has risen 59%, while that of LLY has lost more than 14%. During the same time frame, the industry has gained 1%.\n\nUnlike some of its peers, such as Bristol Myers and Sanofi, which are under pressure from investors to pursue deals for new drugs, Lilly’s top line continues to reach new heights. The tremendous success of GLP-1 drugs, Mounjaro (for diabetes) and Zepbound (for obesity), has helped make it the first pharmaceutical company to reach a market capitalization of $1 trillion.\n\nThe rationale behind the deal is clear — Lilly intends to strategically diversify its pipeline across therapeutic areas. Recent approvals in immunology (Omvoh and Ebglyss), oncology (Jaypirca) and neuroscience (Kisunla) highlight Lilly’s intent to diversify beyond obesity and diabetes. A potential deal for Centessa fits this trend.\n\nThe transaction benefits CNTA, which lacks the commercial infrastructure and global scale required to bring advanced therapies to market, areas where LLY is already well established.\n\nOnce closed, this will be the third acquisition deal signed by Lilly so far this year. Earlier in January, it signed a $1.2 billion deal to buy Ventyx Biosciences to deepen its exposure to oral small-molecule therapies targeting inflammatory-mediated diseases. In February, LLY announced its intent to acquire Orna Therapeutics for up to $2.4 billion, which will add a broad portfolio of in vivo CAR-T pipeline.\n\nRecent M&A Transactions in the Pharma Space\n\nWhile broader macroeconomic concerns — including Trump-era tariffs and leadership shifts at the FDA — have weighed on deal-making last year, Big Pharma continues to pursue strategic assets in key growth areas.\n\nRecently, Biogen BIIB announced its intent to acquire Apellis Pharmaceuticals for an upfront cash payment of about $5.6 billion to strengthen its immunology and rare disease portfolio. Through this transaction, BIIB intends to add two FDA-approved therapies — Empaveli and Syfovre. While Empaveli is approved for paroxysmal nocturnal hemoglobinuria (PNH) and two rare kidney diseases, Syforve is indicated for geographic atrophy. Biogen expects to close this deal in the second quarter of 2026.\n\nGilead Sciences GILD is another company that has been involved in an acquisition spree since the start of this year. Last month, GILD entered into a deal worth $2.2 billion to acquire Ouro Medicines to strengthen its push into innovative therapies for autoimmune diseases. In February, Gilead announced its intent to acquire the clinical-stage biotechnology company Arcellx for an implied equity value worth $7.8 billion to boost its oncology portfolio.\n\nThese transactions highlight Big Pharma's continued interest in small biotechs with promising and innovative assets.\n\nEli Lilly and Company price | Eli Lilly and Company Quote\n\nCentessa Pharmaceuticals PLC Sponsored ADR Price\n\nCentessa Pharmaceuticals PLC Sponsored ADR price | Centessa Pharmaceuticals PLC Sponsored ADR Quote\n\nBoth Eli Lilly and Centessa Pharmaceuticals currently carry a Zacks Rank #3 (Hold). You can see the complete list of today’s Zacks #1 Rank (Strong Buy) stocks here.\n\nEach was handpicked by a Zacks expert as the #1 favorite stock to gain +100% or more in the coming year. While not all picks can be winners, previous recommendations have soared +112%, +171%, +209% and +232%.\n\nMost of the stocks in this report are flying under Wall Street radar, which provides a great opportunity to get in on the ground floor.Today, See These 5 Potential Home Runs >>\n\nWant the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report\n\nBiogen Inc. (BIIB): Free Stock Analysis Report\n\nEli Lilly and Company (LLY): Free Stock Analysis Report\n\nGilead Sciences, Inc. (GILD): Free Stock Analysis Report\n\nCentessa Pharmaceuticals PLC Sponsored ADR (CNTA): Free Stock Analysis Report\n\nThis article originally published on Zacks Investment Research (zacks.com).",
-      "author": null,
-      "language": "en",
-      "ticker": "LLY",
-      "tickers_hint": [
-        "LLY"
-      ],
-      "source_quality": "medium",
-      "publisher_raw": "tradingview.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "TradingView",
-        "source_domain": "tradingview.com",
-        "trust_tier": 2,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "LLY"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "8bb1b36e-31f7-5800-af3e-877482dbbe24",
-      "timestamp_utc": "2026-04-01T06:10:02+00:00",
-      "source": "yahoo_finance_uk",
-      "url": "https://uk.finance.yahoo.com/news/lilly-lly-beat-estimates-again-161002867.html",
-      "title": "Will Lilly (LLY) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance UK",
-      "body": "Will Lilly (LLY) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance UK",
-      "author": null,
-      "language": "en",
-      "ticker": "LLY",
-      "tickers_hint": [
-        "LLY"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo finance uk",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance UK",
-        "source_domain": "yahoofinanceuk.com",
-        "trust_tier": 1,
-        "relevance": 0.7000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "LLY"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "8a31ffe9-de99-5d42-a145-b4efea3c7225",
-      "timestamp_utc": "2026-04-01T08:21:24+00:00",
-      "source": "the_economic_times",
-      "url": "https://m.economictimes.com/news/international/us/eli-lilly-lly-stock-soars-after-fda-approves-foundayo-can-this-weight-loss-pill-drive-massive-growth-as-investors-bet-big-on-obesity-drug-boom/articleshow/129960000.cms",
-      "title": "Eli Lilly (LLY) stock soars after FDA approves Foundayo - can this weight-loss pill drive massive growth a - The Economic Times",
-      "body": "Eli Lilly (LLY) stock soars after FDA approves Foundayo - can this weight-loss pill drive massive growth a The Economic Times",
-      "author": null,
-      "language": "en",
-      "ticker": "LLY",
-      "tickers_hint": [
-        "LLY"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "the economic times",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "The Economic Times",
-        "source_domain": "theeconomictimes.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "LLY"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "2c1f6f39-da2f-51d7-acbc-36dcd1d9c233",
-      "timestamp_utc": "2026-03-31T11:26:38+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/eli-lilly-and-company-nyselly-stock-price-up-36-whats-next-2026-03-31/",
-      "title": "Eli Lilly and Company (NYSE:LLY) Stock Price Up 3.6% - What's Next? - MarketBeat",
-      "body": "Eli Lilly and Company (NYSE:LLY) Stock Price Up 3.6% - What's Next? MarketBeat",
-      "author": null,
-      "language": "en",
-      "ticker": "LLY",
-      "tickers_hint": [
-        "LLY"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "LLY"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "42941ccd-7853-59e6-8d0e-b43857bf825b",
-      "timestamp_utc": "2026-04-01T04:52:00+00:00",
-      "source": "stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/lly-stock-rallies-on-much-awaited-fda-approval-for-weight-loss-pill/cZ7Hp5ORIF5",
-      "title": "LLY Stock Rallies On Much Awaited FDA Approval For Weight Loss Pill - Stocktwits",
-      "body": "LLY Stock Rallies On Much Awaited FDA Approval For Weight Loss Pill Stocktwits",
-      "author": null,
-      "language": "en",
-      "ticker": "LLY",
-      "tickers_hint": [
-        "LLY"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stocktwits",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stocktwits",
-        "source_domain": "stocktwits.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "LLY"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.44,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "3b28b3a5-0604-5c54-b3cf-824fce2b784f",
-      "timestamp_utc": "2026-04-01T16:33:16+00:00",
-      "source": "benzinga",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNXVHRHZxancwVGgyanYxQ0s0QWJiTmhtQUVhSDFLcnBmZEdWWEV1SjZ2Zk0yemREWFAxay1oODVRZkhUazFuQXpUN1dab0dVZjdhZGVPU1J6Tlk0ODRDS3JRaFhqSUVvUUZfUExWMVhLNlZ4RW5yck9BRFhpT1VweXpvc2RGRFY5ZW43WTdOaWZ5YUk2d3JkTzVJUlRobG1zM3VqbTVPb0tta0JTb2Rad0RB?oc=5",
-      "title": "Globalstar, Exxon Mobil, Cyclerion Therapeutics, Eli Lilly And Intel: Why These 5 Stocks Are On Investors' Radars Today - Benzinga",
-      "body": "Globalstar, Exxon Mobil, Cyclerion Therapeutics, Eli Lilly And Intel: Why These 5 Stocks Are On Investors' Radars Today Benzinga",
+      "id": "e2ac43fc-7450-527e-8dc5-6788713aa58e",
+      "timestamp_utc": "2026-04-06T21:48:43+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/will-lilly-lly-beat-estimates-again-in-its-next-earnings-report/ar-AA1ZVtU3",
+      "title": "Will Lilly (LLY) beat estimates again in its next earnings report? - MSN",
+      "body": "Will Lilly (LLY) beat estimates again in its next earnings report? MSN",
       "author": null,
       "language": "en",
-      "ticker": "INTC",
+      "ticker": "LLY",
       "tickers_hint": [
-        "INTC",
         "LLY"
       ],
-      "source_quality": "high",
-      "publisher_raw": "benzinga.com",
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "event_origin": "news",
+        "relevance": 0.6,
+        "quality_score": 0.445,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "aeaa4eac-4bad-5d50-bf9a-3ab38adc0002",
+      "timestamp_utc": "2026-04-07T04:22:19+00:00",
+      "source": "coincentral.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN3ZsSnhGZmhReTFXd0R1Z1JMSWVxMmlVOUc5WVFIaS1URTQxUlhsMUFKUUhnaVhLeTcxanA3Q3B1S2FjcmZkcVlYajZfeUt3b3NKTW9GWnpKY2c0MTFxNURHR3VqRDhRR2E3QUNZSnhFa1Rtem96Y3NuX2FucXpTclJfUjZ4X1d0Z3hWSkdlS2hwaFJQb3Y0a0JHZl9GVUVGOEtiVnZKU1Rmb0k?oc=5",
+      "title": "Eli Lilly (LLY) Stock: FDA Greenlights Foundayo as GLP-1 Market Expansion Accelerates - coincentral.com",
+      "body": "Eli Lilly (LLY) Stock: FDA Greenlights Foundayo as GLP-1 Market Expansion Accelerates coincentral.com",
+      "author": null,
+      "language": "en",
+      "ticker": "LLY",
+      "tickers_hint": [
+        "LLY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "coincentral.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "coincentral.com",
+        "source_domain": "coincentralcom.com",
+        "event_origin": "news",
         "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "INTC",
-          "LLY"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "44f22bf3-de80-5ad2-9063-64ef37e753b6",
-      "timestamp_utc": "2026-04-01T07:10:31+00:00",
-      "source": "tipranks",
-      "url": "https://www.tipranks.com/news/eli-lilly-stock-lly-surges-as-fda-approves-weight-loss-pill",
-      "title": "Eli Lilly Stock (LLY) Surges as FDA Approves Weight-Loss Pill - TipRanks",
-      "body": "Eli Lilly Stock (LLY) Surges as FDA Approves Weight-Loss Pill TipRanks",
-      "author": null,
-      "language": "en",
-      "ticker": "LLY",
-      "tickers_hint": [
-        "LLY"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "tipranks.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "TipRanks",
-        "source_domain": "tipranks.com",
-        "trust_tier": 3,
-        "relevance": 0.7000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "LLY"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "48216052-180c-51a0-883f-2f37b861120f",
-      "timestamp_utc": "2026-04-01T16:07:00+00:00",
-      "source": "yahoo_finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-lly-stock-trades-020726849.html",
-      "title": "Eli Lilly (LLY) Stock Trades Up, Here Is Why - Yahoo Finance",
-      "body": "Eli Lilly (LLY) Stock Trades Up, Here Is Why Yahoo Finance",
-      "author": null,
-      "language": "en",
-      "ticker": "LLY",
-      "tickers_hint": [
-        "LLY"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "finance.yahoo.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
-        "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "LLY"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "449c5dcb-7b55-5cd6-b6c8-52f2539bf9b6",
-      "timestamp_utc": "2026-04-01T09:54:40+00:00",
-      "source": "tradingview",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZaVlqVnBGeTZsMHpfbkFBdmN0b2tXZWlGZmtPclJjdzRXV0N0SXEtOFEyRENobTZlS21YUFVSalVtNWlXdzlxUGM4MDBuUDFwWkVsaHZOMmZiZncyZzhaWGVFVmdnTUFrWlFJRDhR?oc=5",
-      "title": "Eli Lilly and Company Trade Ideas — BSESOF:LLY - TradingView",
-      "body": "Eli Lilly and Company Trade Ideas — BSESOF:LLY TradingView",
-      "author": null,
-      "language": "en",
-      "ticker": "LLY",
-      "tickers_hint": [
-        "LLY"
-      ],
-      "source_quality": "medium",
-      "publisher_raw": "tradingview.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "TradingView",
-        "source_domain": "tradingview.com",
-        "trust_tier": 2,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "LLY"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "b33a1021-e03a-5d01-aad1-d95d4ee5d3c8",
-      "timestamp_utc": "2026-04-01T04:06:00+00:00",
-      "source": "tradingview",
-      "url": "https://www.tradingview.com/news/zacks:4dcceb98d094b:0-lly-to-buy-neuroscience-biotech-centessa-pharmaceuticals-in-7-8b-deal/",
-      "title": "LLY to Buy Neuroscience Biotech Centessa Pharmaceuticals in $7.8B Deal - TradingView",
-      "body": "Eli Lilly LLY announced that it has entered into a definitive agreement to acquire U.K.-based Centessa Pharmaceuticals CNTA. Per the terms, the pharma giant will acquire all outstanding shares (including American Depositary Shares) of CNTA for $38 per share in cash, aggregating to about $6.3 billion.\n\nIn addition, Centessa’s shareholders will receive one non-tradable contingent value right (CVR) per share. This CVR entitles holders to an additional cash payment of up to $9 per share, contingent on achieving FDA approvals of either of its two pipeline drugs (cleminorexton and ORX142) across narcolepsy type II and idiopathic hypersomnia (IH) indications over the next few years. Including the CVR, the total potential deal value reaches approximately $7.8 billion.\n\nPost this acquisition, Lilly will add Centessa’s pipeline of orexin receptor 2 (OX2R) agonists for treating people with sleep-wake disorders. This includes the lead drug, cleminorexton (formerly ORX750), which is being evaluated in a mid-stage study for two types of narcolepsy (type I and II) and IH. Last year, CNTA reported initial results from this study, which Lilly describes as demonstrating “a potential best-in-class profile” for the drug.\n\nAnother drug in Centessa’s pipeline is ORX142, which is being evaluated in an early-stage study for neurological and neurodegenerative disorders. A third candidate, ORX489, is currently in preclinical development and is being developed for neuropsychiatric disorders.\n\nThe transaction, which was approved by the board of directors of both companies, is expected to be closed in the third quarter.\n\nFollowing this news on Tuesday, shares of Centessa increased 44%, while Lilly rose about 4%.\n\nYear to date, CNTA stock has risen 59%, while that of LLY has lost more than 14%. During the same time frame, the industry has gained 1%.\n\nUnlike some of its peers, such as Bristol Myers and Sanofi, which are under pressure from investors to pursue deals for new drugs, Lilly’s top line continues to reach new heights. The tremendous success of GLP-1 drugs, Mounjaro (for diabetes) and Zepbound (for obesity), has helped make it the first pharmaceutical company to reach a market capitalization of $1 trillion.\n\nThe rationale behind the deal is clear — Lilly intends to strategically diversify its pipeline across therapeutic areas. Recent approvals in immunology (Omvoh and Ebglyss), oncology (Jaypirca) and neuroscience (Kisunla) highlight Lilly’s intent to diversify beyond obesity and diabetes. A potential deal for Centessa fits this trend.\n\nThe transaction benefits CNTA, which lacks the commercial infrastructure and global scale required to bring advanced therapies to market, areas where LLY is already well established.\n\nOnce closed, this will be the third acquisition deal signed by Lilly so far this year. Earlier in January, it signed a $1.2 billion deal to buy Ventyx Biosciences to deepen its exposure to oral small-molecule therapies targeting inflammatory-mediated diseases. In February, LLY announced its intent to acquire Orna Therapeutics for up to $2.4 billion, which will add a broad portfolio of in vivo CAR-T pipeline.\n\nRecent M&A Transactions in the Pharma Space\n\nWhile broader macroeconomic concerns — including Trump-era tariffs and leadership shifts at the FDA — have weighed on deal-making last year, Big Pharma continues to pursue strategic assets in key growth areas.\n\nRecently, Biogen BIIB announced its intent to acquire Apellis Pharmaceuticals for an upfront cash payment of about $5.6 billion to strengthen its immunology and rare disease portfolio. Through this transaction, BIIB intends to add two FDA-approved therapies — Empaveli and Syfovre. While Empaveli is approved for paroxysmal nocturnal hemoglobinuria (PNH) and two rare kidney diseases, Syforve is indicated for geographic atrophy. Biogen expects to close this deal in the second quarter of 2026.\n\nGilead Sciences GILD is another company that has been involved in an acquisition spree since the start of this year. Last month, GILD entered into a deal worth $2.2 billion to acquire Ouro Medicines to strengthen its push into innovative therapies for autoimmune diseases. In February, Gilead announced its intent to acquire the clinical-stage biotechnology company Arcellx for an implied equity value worth $7.8 billion to boost its oncology portfolio.\n\nThese transactions highlight Big Pharma's continued interest in small biotechs with promising and innovative assets.\n\nEli Lilly and Company price | Eli Lilly and Company Quote\n\nCentessa Pharmaceuticals PLC Sponsored ADR Price\n\nCentessa Pharmaceuticals PLC Sponsored ADR price | Centessa Pharmaceuticals PLC Sponsored ADR Quote\n\nBoth Eli Lilly and Centessa Pharmaceuticals currently carry a Zacks Rank #3 (Hold). You can see the complete list of today’s Zacks #1 Rank (Strong Buy) stocks here.\n\nEach was handpicked by a Zacks expert as the #1 favorite stock to gain +100% or more in the coming year. While not all picks can be winners, previous recommendations have soared +112%, +171%, +209% and +232%.\n\nMost of the stocks in this report are flying under Wall Street radar, which provides a great opportunity to get in on the ground floor.Today, See These 5 Potential Home Runs >>\n\nWant the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report\n\nBiogen Inc. (BIIB): Free Stock Analysis Report\n\nEli Lilly and Company (LLY): Free Stock Analysis Report\n\nGilead Sciences, Inc. (GILD): Free Stock Analysis Report\n\nCentessa Pharmaceuticals PLC Sponsored ADR (CNTA): Free Stock Analysis Report\n\nThis article originally published on Zacks Investment Research (zacks.com).",
-      "author": null,
-      "language": "en",
-      "ticker": "LLY",
-      "tickers_hint": [
-        "LLY"
-      ],
-      "source_quality": "medium",
-      "publisher_raw": "tradingview.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "TradingView",
-        "source_domain": "tradingview.com",
-        "trust_tier": 2,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "LLY"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "8bb1b36e-31f7-5800-af3e-877482dbbe24",
-      "timestamp_utc": "2026-04-01T06:10:02+00:00",
-      "source": "yahoo_finance_uk",
-      "url": "https://uk.finance.yahoo.com/news/lilly-lly-beat-estimates-again-161002867.html",
-      "title": "Will Lilly (LLY) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance UK",
-      "body": "Will Lilly (LLY) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance UK",
-      "author": null,
-      "language": "en",
-      "ticker": "LLY",
-      "tickers_hint": [
-        "LLY"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo finance uk",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance UK",
-        "source_domain": "yahoofinanceuk.com",
-        "trust_tier": 1,
-        "relevance": 0.7000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "LLY"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "8a31ffe9-de99-5d42-a145-b4efea3c7225",
-      "timestamp_utc": "2026-04-01T08:21:24+00:00",
-      "source": "the_economic_times",
-      "url": "https://m.economictimes.com/news/international/us/eli-lilly-lly-stock-soars-after-fda-approves-foundayo-can-this-weight-loss-pill-drive-massive-growth-as-investors-bet-big-on-obesity-drug-boom/articleshow/129960000.cms",
-      "title": "Eli Lilly (LLY) stock soars after FDA approves Foundayo - can this weight-loss pill drive massive growth a - The Economic Times",
-      "body": "Eli Lilly (LLY) stock soars after FDA approves Foundayo - can this weight-loss pill drive massive growth a The Economic Times",
-      "author": null,
-      "language": "en",
-      "ticker": "LLY",
-      "tickers_hint": [
-        "LLY"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "the economic times",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "The Economic Times",
-        "source_domain": "theeconomictimes.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "LLY"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "2c1f6f39-da2f-51d7-acbc-36dcd1d9c233",
-      "timestamp_utc": "2026-03-31T11:26:38+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/eli-lilly-and-company-nyselly-stock-price-up-36-whats-next-2026-03-31/",
-      "title": "Eli Lilly and Company (NYSE:LLY) Stock Price Up 3.6% - What's Next? - MarketBeat",
-      "body": "Eli Lilly and Company (NYSE:LLY) Stock Price Up 3.6% - What's Next? MarketBeat",
-      "author": null,
-      "language": "en",
-      "ticker": "LLY",
-      "tickers_hint": [
-        "LLY"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "LLY"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "42941ccd-7853-59e6-8d0e-b43857bf825b",
-      "timestamp_utc": "2026-04-01T04:52:00+00:00",
-      "source": "stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/lly-stock-rallies-on-much-awaited-fda-approval-for-weight-loss-pill/cZ7Hp5ORIF5",
-      "title": "LLY Stock Rallies On Much Awaited FDA Approval For Weight Loss Pill - Stocktwits",
-      "body": "LLY Stock Rallies On Much Awaited FDA Approval For Weight Loss Pill Stocktwits",
-      "author": null,
-      "language": "en",
-      "ticker": "LLY",
-      "tickers_hint": [
-        "LLY"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stocktwits",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stocktwits",
-        "source_domain": "stocktwits.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "LLY"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.44,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

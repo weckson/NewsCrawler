@@ -1,11 +1,11 @@
 [
   {
-    "id": "7728857a-fd86-5737-b412-1559a529fc1b",
-    "timestamp_utc": "2026-03-31T13:37:30+00:00",
+    "id": "75989c9e-8ca9-5f03-8aae-3247bd887f0b",
+    "timestamp_utc": "2026-04-07T10:16:18+00:00",
     "source": "gurufocus",
-    "url": "https://www.gurufocus.com/news/8762635/fiserv-fisv-receives-coverage-initiation-with-hold-rating-from-loop-capital-fisv-stock-news?mobile=true",
-    "title": "Fiserv (FISV) Receives Coverage Initiation With 'Hold' Rating Fr - GuruFocus",
-    "body": "Fiserv (FISV) Receives Coverage Initiation With 'Hold' Rating Fr GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tb0Y1RDlxZjNNeUZJd3pVYTJlTTdyd3ppc1JkY0VfcnU5U0tzT1gwSUQ0YTN3czRCTE45WEtnLWRMQllyQUFzcExuclNrRHVuUVlCeUxudUI1YWxIMWNIRzVTVVA1dnRzckRaTkVYMFVlSGVX?oc=5",
+    "title": "Port Capital LLC's Fiserv Inc(FISV) Holding History - GuruFocus",
+    "body": "Port Capital LLC's Fiserv Inc(FISV) Holding History GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "FISV",
@@ -14,18 +14,16 @@
     ],
     "source_quality": "low",
     "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "GuruFocus",
       "source_domain": "gurufocus.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
       "event_origin": "news",
-      "query_tickers": [
-        "FISV"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.39,
+      "_channel": "google_broad"
+    }
   }
 ]

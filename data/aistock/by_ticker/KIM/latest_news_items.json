@@ -1,11 +1,38 @@
 [
   {
-    "id": "847bedf1-528d-5e55-8fa6-aed87d3bc227",
-    "timestamp_utc": "2026-03-31T06:00:00+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbjJZY1NFRGJ1NGlHYTM2aHI5ZEFnZ3F4a2t6WFUxdVVySWxla0FxRE5IVTRvWklldFp1UTR2UlNHaVFfT216QzUtYVI3VDRJN05QcFFMZmtlUEFVeUZjdmkyVFU5Q0tVMk5zUTlCNEY0MWpqY1dSXzV1cjlXazhjSFhRVWhsdFhlLWMzVnI5bGlGVk55Y0FNdnM4cFpKdVRDR0xOcmgxaHNieGowTGM4NU0tRFpIVTJNWlhNclB3?oc=5",
-    "title": "Bernstein elevates Kim Mustin as founders drive faster growth - Stock Titan",
-    "body": "Bernstein elevates Kim Mustin as founders drive faster growth Stock Titan",
+    "id": "29efcec0-7922-5706-a807-d91a9a0fe249",
+    "timestamp_utc": "2026-04-08T07:32:16+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSXExbWZ2cVVHUVk2Zl9Xa09CeFIxRzZpSkZ4RzB3TXRTTGJ5M2lXdDdmZm1WbHBRcGJPS2l3bGFzSTdPSFpqdXE1V0F2NWdCZ0RMMGRkUmlIUGZodUhrSjE2cVlfSnBEUkN3eVpLd1AzZllYQmtMNkR2QXdGWVVrMnhjUjdKSk9SeFUyWmpQc3ptZWRsOXVyRG1NbDFBQQ?oc=5",
+    "title": "Kim Zolciak Loses Custody of 4 Kids She Shares With Ex Kroy Biermann Amid Contentious Divorce - Yahoo",
+    "body": "Kim Zolciak Loses Custody of 4 Kids She Shares With Ex Kroy Biermann Amid Contentious Divorce Yahoo",
+    "author": null,
+    "language": "en",
+    "ticker": "KIM",
+    "tickers_hint": [
+      "KIM"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Yahoo",
+      "source_domain": "yahoo.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.62,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "6a6079dd-0bdd-5a52-8a03-9fa8124618cd",
+    "timestamp_utc": "2026-04-08T19:52:15+00:00",
+    "source": "the_edge_malaysia",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UTkRtVTE0R3h1ZjRIMXlRSkdZdkd0SXNTRGpJcG1fQ3Fyc2tiU3h2bXdqWkRKaHhjREpnUGRoaTNVUm1fYmNnU3BycXhwbGVG?oc=5",
+    "title": "Stocks with momentum on April 9, 2026: Mega Fortris, Mikro MSC, Fibromat, Kim Hin - The Edge Malaysia",
+    "body": "Stocks with momentum on April 9, 2026: Mega Fortris, Mikro MSC, Fibromat, Kim Hin The Edge Malaysia",
     "author": null,
     "language": "en",
     "ticker": "KIM",
@@ -13,19 +40,44 @@
       "KIM"
     ],
     "source_quality": "low",
-    "publisher_raw": "stock titan",
+    "publisher_raw": "the edge malaysia",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "The Edge Malaysia",
+      "source_domain": "theedgemalaysia.com",
       "event_origin": "news",
-      "query_tickers": [
-        "KIM"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.43,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "7f1d8834-aa8a-5159-a9b3-5c59108e61dd",
+    "timestamp_utc": "2026-04-07T19:49:02+00:00",
+    "source": "seoul_economic_daily",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0dReWFEbU8wOVctT2JsVDhYWXAyZVpqLTA4c2FwbjUzVlhpR09lbWtuT2VsTkwyQjlPNXBsTHlrMThWNkpxSUpWRXd0bGp4RHpFbHh5UzdZN1JFVk5nVVdwNnpUTm1BalVDWWM0bmd6TUROc1FaOFJMS0VwTGdSdUNuX3hRZy1nRzlsTlE1bUFIU0U3eEdmRlpycjdiNk9kVWc4bElqMGhLTXJaMkV3?oc=5",
+    "title": "Breaking News: Special Counsel Seeks 15-Year Prison Term for Kim Keon-hee in Stock Manipulation, Bribery Appeal - Seoul Economic Daily",
+    "body": "Breaking News: Special Counsel Seeks 15-Year Prison Term for Kim Keon-hee in Stock Manipulation, Bribery Appeal Seoul Economic Daily",
+    "author": null,
+    "language": "en",
+    "ticker": "KIM",
+    "tickers_hint": [
+      "KIM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "seoul economic daily",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Seoul Economic Daily",
+      "source_domain": "seouleconomicdaily.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.405,
+      "_channel": "google_broad"
+    }
   }
 ]

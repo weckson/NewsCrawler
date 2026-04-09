@@ -2,65 +2,175 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "66570145-ab85-5925-b533-6a4ebd77facf",
-      "timestamp_utc": "2026-04-03T11:11:15+00:00",
-      "source": "chartmill",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUWd0XzVWV2w5TnUtSUZTaUNaN1NoTXIwUzlabHdZZmNyNjY5N1BpenhQOWVGTDM4QXpqSFB1VTdleFJyRmRsclRJQVdlV0hmMTg2ZHZwaVdWQWZJc0YxRkRVREhFd0pKTXNUSWpKS3g5MldXZ2owaEVQSV9Nc0VPNGhUSlhHZWE4Z1htb3g3LXZIREZLdmhVSG5qWXJTUENrcmVPQ1BLdV9sa0pudkI2M1VwMWVIUDRobXFJVmF5M29ZTTRselM4ZndRNWtqUDJ6TGtUMENCajVtX2lidUVYMg?oc=5",
-      "title": "Seagate Technology Holdings (NASDAQ:STX) Fits Minervini's Trend Template with Strong Growth Momentum - ChartMill",
-      "body": "Seagate Technology Holdings (NASDAQ:STX) Fits Minervini's Trend Template with Strong Growth Momentum ChartMill",
+      "id": "868d99dd-21b8-56e0-935f-b0c0285e5145",
+      "timestamp_utc": "2026-04-07T20:42:23+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQlp3QmlZOEYwSnRvRzZ2V0FLX0JKZFgwejVLWkJ0LWdkb3dYekJoVFphMGRsQ2R0cDJTTy04LTNpbFdPcHpZaWhxQlgzYkszeDQ5QjF3VS1Kd2FGYk5LbzN0MUJGTVljamFXcmlmQzJXcWlVcnBCcjZBUGdnVi1LMjBJNXAyNzVSemVBNVIwSzBlSmc1ZmllOFlTclJEd0ItdmhXOGxyMA?oc=5",
+      "title": "Seagate (STX) vs. Western Digital (WDC): Morgan Stanley Picks Top IT Hardware Stock - TipRanks",
+      "body": "Seagate (STX) vs. Western Digital (WDC): Morgan Stanley Picks Top IT Hardware Stock TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "STX",
+      "tickers_hint": [
+        "STX",
+        "WDC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.6,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "0b44e792-1102-5dd5-bec4-b8a4356ada36",
+      "timestamp_utc": "2026-04-07T23:23:00+00:00",
+      "source": "stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-stx-wdc-memory-stocks-lead-chip-rebound-after-us-iran-truce/cZJOMWPRIq8",
+      "title": "MU, SNDK, STX, WDC: Memory Stocks Lead Chip Rebound After US-Iran Truce - Stocktwits",
+      "body": "MU, SNDK, STX, WDC: Memory Stocks Lead Chip Rebound After US-Iran Truce Stocktwits",
+      "author": null,
+      "language": "en",
+      "ticker": "SNDK",
+      "tickers_hint": [
+        "SNDK",
+        "STX",
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktwits",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Stocktwits",
+        "source_domain": "stocktwits.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4025,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "05ff8694-bfda-5415-8b5e-b85ce5e05b35",
+      "timestamp_utc": "2026-04-07T23:35:36+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPenIwZUp1Wlo4Y1dVT2xYLXYyaGFfMy1uZTUwdEdGZlZLTzBGY1FEUG1nbmQ3YXZ4cTM5cG1SX0NMVDNVX3ZhZnFZMW1oTkd1Q2t0OHJoblFnNVFqLTRkbjhGU3U0bWJocmlwellMZ0tmVXFHUWVlN3p2dVVKZVRaamJFQzJvbUtKLXFreVY3WEtwN1ZKeE8xYWk1SWtFYXZHcFN2UTAtUEhDb2loQkh3?oc=5",
+      "title": "Is Seagate Technology (STX) an Unstoppable Technology Stock To Buy Now? - Yahoo Finance",
+      "body": "Is Seagate Technology (STX) an Unstoppable Technology Stock To Buy Now? Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "STX",
       "tickers_hint": [
         "STX"
       ],
-      "source_quality": "low",
-      "publisher_raw": "chartmill",
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "ChartMill",
-        "source_domain": "chartmill.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "STX"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.6,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "66570145-ab85-5925-b533-6a4ebd77facf",
-      "timestamp_utc": "2026-04-03T11:11:15+00:00",
-      "source": "chartmill",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUWd0XzVWV2w5TnUtSUZTaUNaN1NoTXIwUzlabHdZZmNyNjY5N1BpenhQOWVGTDM4QXpqSFB1VTdleFJyRmRsclRJQVdlV0hmMTg2ZHZwaVdWQWZJc0YxRkRVREhFd0pKTXNUSWpKS3g5MldXZ2owaEVQSV9Nc0VPNGhUSlhHZWE4Z1htb3g3LXZIREZLdmhVSG5qWXJTUENrcmVPQ1BLdV9sa0pudkI2M1VwMWVIUDRobXFJVmF5M29ZTTRselM4ZndRNWtqUDJ6TGtUMENCajVtX2lidUVYMg?oc=5",
-      "title": "Seagate Technology Holdings (NASDAQ:STX) Fits Minervini's Trend Template with Strong Growth Momentum - ChartMill",
-      "body": "Seagate Technology Holdings (NASDAQ:STX) Fits Minervini's Trend Template with Strong Growth Momentum ChartMill",
+      "id": "868d99dd-21b8-56e0-935f-b0c0285e5145",
+      "timestamp_utc": "2026-04-07T20:42:23+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQlp3QmlZOEYwSnRvRzZ2V0FLX0JKZFgwejVLWkJ0LWdkb3dYekJoVFphMGRsQ2R0cDJTTy04LTNpbFdPcHpZaWhxQlgzYkszeDQ5QjF3VS1Kd2FGYk5LbzN0MUJGTVljamFXcmlmQzJXcWlVcnBCcjZBUGdnVi1LMjBJNXAyNzVSemVBNVIwSzBlSmc1ZmllOFlTclJEd0ItdmhXOGxyMA?oc=5",
+      "title": "Seagate (STX) vs. Western Digital (WDC): Morgan Stanley Picks Top IT Hardware Stock - TipRanks",
+      "body": "Seagate (STX) vs. Western Digital (WDC): Morgan Stanley Picks Top IT Hardware Stock TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "STX",
+      "tickers_hint": [
+        "STX",
+        "WDC"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.6,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "0b44e792-1102-5dd5-bec4-b8a4356ada36",
+      "timestamp_utc": "2026-04-07T23:23:00+00:00",
+      "source": "stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-stx-wdc-memory-stocks-lead-chip-rebound-after-us-iran-truce/cZJOMWPRIq8",
+      "title": "MU, SNDK, STX, WDC: Memory Stocks Lead Chip Rebound After US-Iran Truce - Stocktwits",
+      "body": "MU, SNDK, STX, WDC: Memory Stocks Lead Chip Rebound After US-Iran Truce Stocktwits",
+      "author": null,
+      "language": "en",
+      "ticker": "SNDK",
+      "tickers_hint": [
+        "SNDK",
+        "STX",
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktwits",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Stocktwits",
+        "source_domain": "stocktwits.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4025,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "05ff8694-bfda-5415-8b5e-b85ce5e05b35",
+      "timestamp_utc": "2026-04-07T23:35:36+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPenIwZUp1Wlo4Y1dVT2xYLXYyaGFfMy1uZTUwdEdGZlZLTzBGY1FEUG1nbmQ3YXZ4cTM5cG1SX0NMVDNVX3ZhZnFZMW1oTkd1Q2t0OHJoblFnNVFqLTRkbjhGU3U0bWJocmlwellMZ0tmVXFHUWVlN3p2dVVKZVRaamJFQzJvbUtKLXFreVY3WEtwN1ZKeE8xYWk1SWtFYXZHcFN2UTAtUEhDb2loQkh3?oc=5",
+      "title": "Is Seagate Technology (STX) an Unstoppable Technology Stock To Buy Now? - Yahoo Finance",
+      "body": "Is Seagate Technology (STX) an Unstoppable Technology Stock To Buy Now? Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "STX",
       "tickers_hint": [
         "STX"
       ],
-      "source_quality": "low",
-      "publisher_raw": "chartmill",
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "ChartMill",
-        "source_domain": "chartmill.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "STX"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.6,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "fb1bdba6-0a94-5982-a549-7f4a26ec4369",
-      "timestamp_utc": "2026-03-31T04:16:23+00:00",
-      "source": "zacks",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdE45dDFwUHBCWktrVGF0eDFPeF95TlNkelp3T0F5NHVFY3FleGdPRHNuZVIyZmU3LWxDZDMxUlljLW9GYTl6Y1B6dGlpbjJDV0NFeU11QWloS3l6cVpYYzF3a3ZNYmh5TVdTZm0tdG1zVVRXak9DTU9VMEtsT3VNMGdreGh0UklaMDZPeXFDN3BjUldtT1hhcmZoTkhHaXlDSDRxTTJXbFZIQzJNX2dj?oc=5",
-      "title": "DD Expands Rural Water Infrastructure in Kenya Project With ChildFund - Zacks Investment Research",
-      "body": "DD Expands Rural Water Infrastructure in Kenya Project With ChildFund Zacks Investment Research",
+      "id": "c7293fd7-60a0-53c5-bae9-ba50861aaf34",
+      "timestamp_utc": "2026-04-06T23:31:53+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fcWUxaDFWVTVGRW9yaC1YUkNvZlV5WGNhR2R4ZUFWaTNSSUlJTmc3bTBZN19USF9LZHlSMmFadFB5SE9uYVJjc2Ryc0pjdGM?oc=5",
+      "title": "DuPont de Nemours, Inc. (DD) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "DuPont de Nemours, Inc. (DD) stock price, news, quote and history Yahoo Finance UK",
       "author": null,
       "language": "en",
       "ticker": "DD",
@@ -15,89 +15,32 @@
         "DD"
       ],
       "source_quality": "high",
-      "publisher_raw": "zacks.com",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Zacks Investment Research",
-        "source_domain": "zacks.com",
-        "trust_tier": 3,
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "finance.yahoo.com",
+        "event_origin": "news",
         "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "DD"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "6b8d3213-7483-5808-9da1-807a5d7d5320",
-      "timestamp_utc": "2026-03-31T05:04:51+00:00",
-      "source": "bitget",
-      "url": "https://www.bitget.com/amp/news/detail/12560605322452",
-      "title": "DD broadens Kenya's rural water infrastructure initiative in partnership with ChildFund - Bitget",
-      "body": "DD broadens Kenya's rural water infrastructure initiative in partnership with ChildFund Bitget",
-      "author": null,
-      "language": "en",
-      "ticker": "DD",
-      "tickers_hint": [
-        "DD"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "bitget",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Bitget",
-        "source_domain": "bitget.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "DD"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "1fdaa959-fc38-5317-87c5-73df98acffda",
-      "timestamp_utc": "2026-03-31T11:12:15+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/DD/technical",
-      "title": "DD Technical Analysis & Stock Price Forecast - Intellectia AI",
-      "body": "DD Technical Analysis & Stock Price Forecast Intellectia AI",
-      "author": null,
-      "language": "en",
-      "ticker": "DD",
-      "tickers_hint": [
-        "DD"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "intellectia ai",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "DD"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.63,
+        "_channel": "google_broad",
+        "_alt_sources": [
+          "Yahoo Finance UK"
+        ]
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "fb1bdba6-0a94-5982-a549-7f4a26ec4369",
-      "timestamp_utc": "2026-03-31T04:16:23+00:00",
-      "source": "zacks",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdE45dDFwUHBCWktrVGF0eDFPeF95TlNkelp3T0F5NHVFY3FleGdPRHNuZVIyZmU3LWxDZDMxUlljLW9GYTl6Y1B6dGlpbjJDV0NFeU11QWloS3l6cVpYYzF3a3ZNYmh5TVdTZm0tdG1zVVRXak9DTU9VMEtsT3VNMGdreGh0UklaMDZPeXFDN3BjUldtT1hhcmZoTkhHaXlDSDRxTTJXbFZIQzJNX2dj?oc=5",
-      "title": "DD Expands Rural Water Infrastructure in Kenya Project With ChildFund - Zacks Investment Research",
-      "body": "DD Expands Rural Water Infrastructure in Kenya Project With ChildFund Zacks Investment Research",
+      "id": "c7293fd7-60a0-53c5-bae9-ba50861aaf34",
+      "timestamp_utc": "2026-04-06T23:31:53+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fcWUxaDFWVTVGRW9yaC1YUkNvZlV5WGNhR2R4ZUFWaTNSSUlJTmc3bTBZN19USF9LZHlSMmFadFB5SE9uYVJjc2Ryc0pjdGM?oc=5",
+      "title": "DuPont de Nemours, Inc. (DD) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "DuPont de Nemours, Inc. (DD) stock price, news, quote and history Yahoo Finance UK",
       "author": null,
       "language": "en",
       "ticker": "DD",
@@ -105,78 +48,21 @@
         "DD"
       ],
       "source_quality": "high",
-      "publisher_raw": "zacks.com",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Zacks Investment Research",
-        "source_domain": "zacks.com",
-        "trust_tier": 3,
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "finance.yahoo.com",
+        "event_origin": "news",
         "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "DD"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "6b8d3213-7483-5808-9da1-807a5d7d5320",
-      "timestamp_utc": "2026-03-31T05:04:51+00:00",
-      "source": "bitget",
-      "url": "https://www.bitget.com/amp/news/detail/12560605322452",
-      "title": "DD broadens Kenya's rural water infrastructure initiative in partnership with ChildFund - Bitget",
-      "body": "DD broadens Kenya's rural water infrastructure initiative in partnership with ChildFund Bitget",
-      "author": null,
-      "language": "en",
-      "ticker": "DD",
-      "tickers_hint": [
-        "DD"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "bitget",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Bitget",
-        "source_domain": "bitget.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "DD"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "1fdaa959-fc38-5317-87c5-73df98acffda",
-      "timestamp_utc": "2026-03-31T11:12:15+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/DD/technical",
-      "title": "DD Technical Analysis & Stock Price Forecast - Intellectia AI",
-      "body": "DD Technical Analysis & Stock Price Forecast Intellectia AI",
-      "author": null,
-      "language": "en",
-      "ticker": "DD",
-      "tickers_hint": [
-        "DD"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "intellectia ai",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "DD"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.63,
+        "_channel": "google_broad",
+        "_alt_sources": [
+          "Yahoo Finance UK"
+        ]
+      }
     }
   ]
 }

@@ -1,11 +1,11 @@
 [
   {
-    "id": "4711fc75-ec9d-594c-ac81-7fcc6be58c89",
-    "timestamp_utc": "2026-04-03T20:45:56+00:00",
-    "source": "yahoo!_finance_canada",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsZlgzN0RkUzJPc1FkaG5XdUo1dHpLcUJCQkZSajBheFlxM2Rvd1pPM0YwVXBCVnpCOUZuYTA3Y2EwX09pMnZIWUpHYi0tbnMyUUlPc3hDMklYN0RQLXljX18zNEE?oc=5",
-    "title": "KMB Jun 2026 195.000 call (KMB260618C00195000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "body": "KMB Jun 2026 195.000 call (KMB260618C00195000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "id": "c7fc8f21-de41-5839-8e13-32fe9b4dca35",
+    "timestamp_utc": "2026-04-08T09:37:49+00:00",
+    "source": "mexc_exchange",
+    "url": "https://www.mexc.co/news/1013089",
+    "title": "Kimberly-Clark (KMB) Stock Drops After California Warehouse Fire and Analyst Downgrade - MEXC Exchange",
+    "body": "Tuesday proved challenging for Kimberly-Clark. A blaze engulfed its distribution facility in Ontario, California — and the difficulties didn’t end there.\n\nThe warehouse space is rented by Kimberly-Clark but managed by third-party logistics company NFI Industries. Authorities confirmed no one was hurt, with all NFI personnel successfully evacuated from the premises.\n\nThe Ontario Police Department has launched an inquiry into what sparked the incident. Kimberly-Clark clarified that the person detained by law enforcement has no affiliation with the organization.\n\nNone of Kimberly-Clark’s production facilities were impacted by the blaze, and no corporate staff members were present during the event.\n\nThe corporation responded swiftly to prevent supply chain complications. Emergency protocols were initiated, and collaboration with regional logistics firms began immediately to ensure uninterrupted customer service.\n\nOperational teams have already identified backup facilities for incoming freight and are securing additional warehouse space through local partnerships.\n\nAccording to Kimberly-Clark, its distribution infrastructure is designed with redundancy to manage such incidents, and immediate contingency measures are in full effect.\n\nThe corporation maintains comprehensive insurance coverage for both operational disruptions and physical asset damage, which should help offset monetary losses.\n\nKimberly-Clark plans to provide additional details during its upcoming quarterly financial disclosure, presently slated for April 28th.\n\nCompounding the situation, Wells Fargo decreased its price objective for KMB to $100 from $110 on Tuesday, while retaining an Equal Weight classification.\n\nThe adjustment came as part of widespread estimate revisions across the sector in anticipation of quarterly earnings. Wells Fargo noted the changes reflect company-specific commodity evaluations rather than broad market assumptions.\n\nThe financial institution anticipates inflationary pressures will compress profit margins entering Q4 2026 and throughout 2027, with improvement projected for 2028.\n\nThe coincidental timing of the analyst revision alongside the fire incident intensified downward pressure on shares.\n\nKimberly-Clark’s next investor communication is the quarterly earnings presentation on April 28th, where executives will presumably address questions regarding both the facility fire’s consequences and margin trajectory.\n\nThe post Kimberly-Clark (KMB) Stock Drops After California Warehouse Fire and Analyst Downgrade appeared first on Blockonomi.",
     "author": null,
     "language": "en",
     "ticker": "KMB",
@@ -13,19 +13,44 @@
       "KMB"
     ],
     "source_quality": "low",
-    "publisher_raw": "yahoo! finance canada",
+    "publisher_raw": "mexc exchange",
+    "trust_tier": 1,
+    "body_kind": "article_text",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo! Finance Canada",
-      "source_domain": "yahoofinancecanada.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "MEXC Exchange",
+      "source_domain": "mexcexchange.com",
       "event_origin": "news",
-      "query_tickers": [
-        "KMB"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6,
+      "quality_score": 0.495,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "f8dddb57-a821-511e-a832-82812a4a23e2",
+    "timestamp_utc": "2026-04-08T08:51:56+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/wells-fargo-company-issues-pessimistic-forecast-for-kimberly-clark-nasdaqkmb-stock-price-2026-04-08/",
+    "title": "Wells Fargo & Company Issues Pessimistic Forecast for Kimberly-Clark (NASDAQ:KMB) Stock Price - MarketBeat",
+    "body": "Wells Fargo & Company Issues Pessimistic Forecast for Kimberly-Clark (NASDAQ:KMB) Stock Price MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "KMB",
+    "tickers_hint": [
+      "KMB"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4525,
+      "_channel": "google_broad"
+    }
   }
 ]

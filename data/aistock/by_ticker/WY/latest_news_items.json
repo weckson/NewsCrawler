@@ -1,11 +1,11 @@
 [
   {
-    "id": "c4352da5-495e-5960-ab96-9eca7908e91f",
-    "timestamp_utc": "2026-03-31T05:56:15+00:00",
-    "source": "gurufocus",
-    "url": "https://www.gurufocus.com/news/8761627/weyerhaeuser-wy-receives-maintained-buy-rating-from-da-davidson-wy-stock-news?mobile=true",
-    "title": "Weyerhaeuser (WY) Receives Maintained Buy Rating from DA Davidso - GuruFocus",
-    "body": "Weyerhaeuser (WY) Receives Maintained Buy Rating from DA Davidso GuruFocus",
+    "id": "a6fc8965-75bb-5328-86b9-6fb4614cb196",
+    "timestamp_utc": "2026-04-07T18:56:02+00:00",
+    "source": "stock_traders_daily",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa25CVEItRm9hSmJQX2Y0MVByRDVoTk5HblBjX0ZTMGc3TV9CdmgzQXE1cnAyYUR2VERvY2NwUllhNnNwTjlQS0VRTktJQ0hfaHoyT1BGanFkRDU2akpOYkJXRlVDN01yY1Y2cmFzOTluT3FTVzc1aEVQclFyTFZmc3JYekN1aUk5VFNkVDNXYVAzdXNDc19temJJSzR1VUhiNHppUDJMTHR4czRST0pCRXFYYlhvRXQ0blFGSGJMOWtDN21fYV9YUEE2X2Q?oc=5",
+    "title": "Price-Driven Insight from (WY) for Rule-Based Strategy - Stock Traders Daily",
+    "body": "Price-Driven Insight from (WY) for Rule-Based Strategy Stock Traders Daily",
     "author": null,
     "language": "en",
     "ticker": "WY",
@@ -13,19 +13,17 @@
       "WY"
     ],
     "source_quality": "low",
-    "publisher_raw": "gurufocus.com",
+    "publisher_raw": "stock traders daily",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "GuruFocus",
-      "source_domain": "gurufocus.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
+      "source_name": "Stock Traders Daily",
+      "source_domain": "stocktradersdaily.com",
       "event_origin": "news",
-      "query_tickers": [
-        "WY"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.39,
+      "_channel": "google_broad"
+    }
   }
 ]

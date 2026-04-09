@@ -2,65 +2,63 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "c3280487-a03a-571d-94a6-b72c3b1ab252",
-      "timestamp_utc": "2026-04-03T23:48:55+00:00",
-      "source": "yahoo_finance_singapore",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52SE5jVUQzZy1fMWlxV1VMUlBLU3Fad3p5S25LU2RERXBQVWh1bjF0Tm9MZDRpM05mR2Rhc3VIWEJzTlRZTEg3UXNyYThXSjJN?oc=5",
-      "title": "Warner Bros. Discovery, Inc. (WBD) stock price, news, quote and history - Yahoo Finance Singapore",
-      "body": "Warner Bros. Discovery, Inc. (WBD) stock price, news, quote and history Yahoo Finance Singapore",
+      "id": "226e1aee-24f6-5cc1-9c9a-78ba2b97a4c8",
+      "timestamp_utc": "2026-04-09T03:05:41+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/article/4889486-netflix-q1-earnings-preview-with-the-wbd-saga-over-focus-shifts-to-advertising-and-live-sports",
+      "title": "Netflix Q1 Earnings Preview: With The WBD Saga Over, Focus Shifts To Advertising & Live Sports (NASDAQ:NFLX) - Seeking Alpha",
+      "body": "Netflix Inc. (NASDAQ: (NFLX)) is scheduled to report its Q1 earnings on Thursday, 16 April. In this article, I explore the key factors that investors need to focus on in the company’s Q1 report.\n\nAnalyst’s Disclosure: I/we have a beneficial long position in the shares of NFLX either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
       "author": null,
       "language": "en",
-      "ticker": "WBD",
+      "ticker": "NFLX",
       "tickers_hint": [
+        "NFLX",
         "WBD"
       ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo finance singapore",
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance Singapore",
-        "source_domain": "yahoofinancesingapore.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
         "event_origin": "news",
-        "query_tickers": [
-          "WBD"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.73,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "c3280487-a03a-571d-94a6-b72c3b1ab252",
-      "timestamp_utc": "2026-04-03T23:48:55+00:00",
-      "source": "yahoo_finance_singapore",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52SE5jVUQzZy1fMWlxV1VMUlBLU3Fad3p5S25LU2RERXBQVWh1bjF0Tm9MZDRpM05mR2Rhc3VIWEJzTlRZTEg3UXNyYThXSjJN?oc=5",
-      "title": "Warner Bros. Discovery, Inc. (WBD) stock price, news, quote and history - Yahoo Finance Singapore",
-      "body": "Warner Bros. Discovery, Inc. (WBD) stock price, news, quote and history Yahoo Finance Singapore",
+      "id": "226e1aee-24f6-5cc1-9c9a-78ba2b97a4c8",
+      "timestamp_utc": "2026-04-09T03:05:41+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/article/4889486-netflix-q1-earnings-preview-with-the-wbd-saga-over-focus-shifts-to-advertising-and-live-sports",
+      "title": "Netflix Q1 Earnings Preview: With The WBD Saga Over, Focus Shifts To Advertising & Live Sports (NASDAQ:NFLX) - Seeking Alpha",
+      "body": "Netflix Inc. (NASDAQ: (NFLX)) is scheduled to report its Q1 earnings on Thursday, 16 April. In this article, I explore the key factors that investors need to focus on in the company’s Q1 report.\n\nAnalyst’s Disclosure: I/we have a beneficial long position in the shares of NFLX either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
       "author": null,
       "language": "en",
-      "ticker": "WBD",
+      "ticker": "NFLX",
       "tickers_hint": [
+        "NFLX",
         "WBD"
       ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo finance singapore",
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance Singapore",
-        "source_domain": "yahoofinancesingapore.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
         "event_origin": "news",
-        "query_tickers": [
-          "WBD"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.73,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

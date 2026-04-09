@@ -1,11 +1,11 @@
 [
   {
-    "id": "ec794e1b-e84c-5cfd-a3e5-9955354bcaa1",
-    "timestamp_utc": "2026-04-03T19:25:54+00:00",
-    "source": "yahoo!_finance_canada",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvRE01QWI5eFpkOFBIbWU1aEZlMmpHUUFxN3hPUGtVZnp2MTctUWQwRHBJNzByQTRkWjJReHZRZ3RGRDFTNF9iUnpkQkxHRzJVMjRRaDc2QlJBSW52cDhSOFNsYkg0Y2JSM3AzZA?oc=5",
-    "title": "MTD Jul 2026 1800.000 call (MTD260717C01800000) Interactive Stock Chart - Yahoo! Finance Canada",
-    "body": "MTD Jul 2026 1800.000 call (MTD260717C01800000) Interactive Stock Chart Yahoo! Finance Canada",
+    "id": "ce7dffdd-3db4-5435-a5b5-740f0d170e0f",
+    "timestamp_utc": "2026-04-06T19:15:00+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8776663/mettlertoledo-mtd-analyst-rating-update-evercore-isi-group-lowers-price-target-mtd-stock-news?mobile=true",
+    "title": "Mettler-Toledo (MTD) Analyst Rating Update: Evercore ISI Group L - GuruFocus",
+    "body": "Mettler-Toledo (MTD) Analyst Rating Update: Evercore ISI Group L GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "MTD",
@@ -13,48 +13,17 @@
       "MTD"
     ],
     "source_quality": "low",
-    "publisher_raw": "yahoo! finance canada",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo! Finance Canada",
-      "source_domain": "yahoofinancecanada.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
       "event_origin": "news",
-      "query_tickers": [
-        "MTD"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "f4bc0f4e-03d0-55c5-8723-a41ae9fc6f17",
-    "timestamp_utc": "2026-04-03T18:36:59+00:00",
-    "source": "yahoo!_finance_canada",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GMnVkak95UV9fdlMyWWFkblBCMlZpaVJVbkwyb1N1ZG9pQ0xaQWQ5czNVWGtLdnYzaHp0ZGttSlp1V2NZd2VJRW5kZzd6UGlyWHpIRXp1N2RuSFhnTUg5R1VoeEg?oc=5",
-    "title": "MTD Apr 2026 1120.000 put (MTD260417P01120000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "body": "MTD Apr 2026 1120.000 put (MTD260417P01120000) Stock Price, News, Quote & History Yahoo! Finance Canada",
-    "author": null,
-    "language": "en",
-    "ticker": "MTD",
-    "tickers_hint": [
-      "MTD"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "yahoo! finance canada",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo! Finance Canada",
-      "source_domain": "yahoofinancecanada.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "MTD"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6,
+      "quality_score": 0.445,
+      "_channel": "google_broad"
+    }
   }
 ]

@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "c4b4c267-cac8-519e-93d3-b7e579a7c6a3",
-      "timestamp_utc": "2026-04-01T08:46:04+00:00",
-      "source": "msn",
-      "url": "https://www.msn.com/en-us/money/topstocks/nordson-ndsn-to-report-earnings-tomorrow-here-is-what-to-expect/ar-AA1Fy4h0?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
-      "title": "Nordson (NDSN) To Report Earnings Tomorrow: Here Is What To Expect - MSN",
-      "body": "Nordson (NDSN) To Report Earnings Tomorrow: Here Is What To Expect MSN",
+      "id": "3b5cc13f-db6f-56ae-b8ae-b94a2bec0179",
+      "timestamp_utc": "2026-04-07T10:48:02+00:00",
+      "source": "stock_traders_daily",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWDVVQUR6OGgyZ3pYa3plZWFFSjBUTVcxQXNZWWtDdFJFTjVGY1NxUFhiMkh5T3E0OVlTVmpDSGtTeHdVN2FZMnVyMnVLZUdnY0thT25sd1ZWZHR1aDlSalJkS043eHJPZWdYaTZrcWZFRXdnMU43YkJpTVZDVVEyeDBFT0dYMnBpUmQwQ0Z4T295MEx3bDZOc2RZSEJnM3Eza1lJUDFmMWJMRHNnY29PZDRoQjdRUGszdURuRWNLOF9XUXU0eWtF?oc=5",
+      "title": "Avoiding Lag: Real-Time Signals in (NDSN) Movement - Stock Traders Daily",
+      "body": "Avoiding Lag: Real-Time Signals in (NDSN) Movement Stock Traders Daily",
       "author": null,
       "language": "en",
       "ticker": "NDSN",
@@ -15,31 +15,29 @@
         "NDSN"
       ],
       "source_quality": "low",
-      "publisher_raw": "msn",
+      "publisher_raw": "stock traders daily",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MSN",
-        "source_domain": "msn.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "Stock Traders Daily",
+        "source_domain": "stocktradersdaily.com",
         "event_origin": "news",
-        "query_tickers": [
-          "NDSN"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.39,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "c4b4c267-cac8-519e-93d3-b7e579a7c6a3",
-      "timestamp_utc": "2026-04-01T08:46:04+00:00",
-      "source": "msn",
-      "url": "https://www.msn.com/en-us/money/topstocks/nordson-ndsn-to-report-earnings-tomorrow-here-is-what-to-expect/ar-AA1Fy4h0?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
-      "title": "Nordson (NDSN) To Report Earnings Tomorrow: Here Is What To Expect - MSN",
-      "body": "Nordson (NDSN) To Report Earnings Tomorrow: Here Is What To Expect MSN",
+      "id": "3b5cc13f-db6f-56ae-b8ae-b94a2bec0179",
+      "timestamp_utc": "2026-04-07T10:48:02+00:00",
+      "source": "stock_traders_daily",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWDVVQUR6OGgyZ3pYa3plZWFFSjBUTVcxQXNZWWtDdFJFTjVGY1NxUFhiMkh5T3E0OVlTVmpDSGtTeHdVN2FZMnVyMnVLZUdnY0thT25sd1ZWZHR1aDlSalJkS043eHJPZWdYaTZrcWZFRXdnMU43YkJpTVZDVVEyeDBFT0dYMnBpUmQwQ0Z4T295MEx3bDZOc2RZSEJnM3Eza1lJUDFmMWJMRHNnY29PZDRoQjdRUGszdURuRWNLOF9XUXU0eWtF?oc=5",
+      "title": "Avoiding Lag: Real-Time Signals in (NDSN) Movement - Stock Traders Daily",
+      "body": "Avoiding Lag: Real-Time Signals in (NDSN) Movement Stock Traders Daily",
       "author": null,
       "language": "en",
       "ticker": "NDSN",
@@ -47,20 +45,18 @@
         "NDSN"
       ],
       "source_quality": "low",
-      "publisher_raw": "msn",
+      "publisher_raw": "stock traders daily",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MSN",
-        "source_domain": "msn.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "Stock Traders Daily",
+        "source_domain": "stocktradersdaily.com",
         "event_origin": "news",
-        "query_tickers": [
-          "NDSN"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.39,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

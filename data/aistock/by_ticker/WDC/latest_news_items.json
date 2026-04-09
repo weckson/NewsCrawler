@@ -1,89 +1,86 @@
 [
   {
-    "id": "a9e7042b-692f-5802-a5ea-b92c31db94d8",
-    "timestamp_utc": "2026-04-03T18:14:36+00:00",
-    "source": "yahoo!_finance_canada",
-    "url": "https://ca.finance.yahoo.com/news/western-digital-wdc-valuation-check-181436630.html",
-    "title": "Western Digital (WDC) Valuation Check As AI Storage Optimism And Q3 2026 Earnings Expectations Build - Yahoo! Finance Canada",
-    "body": "Western Digital (WDC) Valuation Check As AI Storage Optimism And Q3 2026 Earnings Expectations Build Yahoo! Finance Canada",
+    "id": "868d99dd-21b8-56e0-935f-b0c0285e5145",
+    "timestamp_utc": "2026-04-07T20:42:23+00:00",
+    "source": "tipranks",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQlp3QmlZOEYwSnRvRzZ2V0FLX0JKZFgwejVLWkJ0LWdkb3dYekJoVFphMGRsQ2R0cDJTTy04LTNpbFdPcHpZaWhxQlgzYkszeDQ5QjF3VS1Kd2FGYk5LbzN0MUJGTVljamFXcmlmQzJXcWlVcnBCcjZBUGdnVi1LMjBJNXAyNzVSemVBNVIwSzBlSmc1ZmllOFlTclJEd0ItdmhXOGxyMA?oc=5",
+    "title": "Seagate (STX) vs. Western Digital (WDC): Morgan Stanley Picks Top IT Hardware Stock - TipRanks",
+    "body": "Seagate (STX) vs. Western Digital (WDC): Morgan Stanley Picks Top IT Hardware Stock TipRanks",
     "author": null,
     "language": "en",
-    "ticker": "WDC",
+    "ticker": "STX",
     "tickers_hint": [
+      "STX",
       "WDC"
     ],
-    "source_quality": "low",
-    "publisher_raw": "yahoo! finance canada",
+    "source_quality": "high",
+    "publisher_raw": "tipranks.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo! Finance Canada",
-      "source_domain": "yahoofinancecanada.com",
-      "trust_tier": 1,
-      "relevance": 0.65,
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
       "event_origin": "news",
-      "query_tickers": [
-        "WDC"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.6,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "25528066-7ded-5ab3-ae54-b69dbc1c7bc8",
-    "timestamp_utc": "2026-04-04T06:01:31+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/western-digital-nasdaqwdc-raised-to-buy-at-wall-street-zen-2026-04-04/",
-    "title": "Western Digital (NASDAQ:WDC) Raised to \"Buy\" at Wall Street Zen - MarketBeat",
-    "body": "Western Digital (NASDAQ:WDC) Raised to \"Buy\" at Wall Street Zen MarketBeat",
+    "id": "0b44e792-1102-5dd5-bec4-b8a4356ada36",
+    "timestamp_utc": "2026-04-07T23:23:00+00:00",
+    "source": "stocktwits",
+    "url": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-stx-wdc-memory-stocks-lead-chip-rebound-after-us-iran-truce/cZJOMWPRIq8",
+    "title": "MU, SNDK, STX, WDC: Memory Stocks Lead Chip Rebound After US-Iran Truce - Stocktwits",
+    "body": "MU, SNDK, STX, WDC: Memory Stocks Lead Chip Rebound After US-Iran Truce Stocktwits",
     "author": null,
     "language": "en",
-    "ticker": "WDC",
+    "ticker": "SNDK",
     "tickers_hint": [
+      "SNDK",
+      "STX",
       "WDC"
     ],
     "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
+    "publisher_raw": "stocktwits",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.6,
+      "source_name": "Stocktwits",
+      "source_domain": "stocktwits.com",
       "event_origin": "news",
-      "query_tickers": [
-        "WDC"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "235a6c6f-88ff-5361-8da3-02f63708d31f",
-    "timestamp_utc": "2026-04-05T07:11:48+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-aberdeen-group-plc-increases-stake-in-western-digital-corporation-wdc-2026-04-05/",
-    "title": "Aberdeen Group plc Increases Stake in Western Digital Corporation $WDC - MarketBeat",
-    "body": "Aberdeen Group plc Increases Stake in Western Digital Corporation $WDC MarketBeat",
-    "author": null,
-    "language": "en",
-    "ticker": "WDC",
-    "tickers_hint": [
-      "WDC"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
-      "trust_tier": 1,
       "relevance": 0.55,
+      "quality_score": 0.4025,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "f9c3c914-f5fb-5a57-b813-bd0384239723",
+    "timestamp_utc": "2026-04-07T21:33:41+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-ascent-group-llc-buys-3501-shares-of-western-digital-corporation-wdc-2026-04-08/",
+    "title": "Ascent Group LLC Buys 3,501 Shares of Western Digital Corporation $WDC - MarketBeat",
+    "body": "Ascent Group LLC Buys 3,501 Shares of Western Digital Corporation $WDC MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "WDC",
+    "tickers_hint": [
+      "WDC"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
       "event_origin": "news",
-      "query_tickers": [
-        "WDC"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4025,
+      "_channel": "google_broad"
+    }
   }
 ]

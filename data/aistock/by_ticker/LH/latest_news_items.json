@@ -1,11 +1,11 @@
 [
   {
-    "id": "f8b84304-931c-5033-9be4-e85a50bbacc9",
-    "timestamp_utc": "2026-03-31T10:21:45+00:00",
-    "source": "stock_titan",
-    "url": "https://www.stocktitan.net/sec-filings/LH/8-k-labcorp-holdings-inc-reports-material-event-3419930d9985.html",
-    "title": "Labcorp (NYSE: LH) schedules Q1 2026 earnings release and webcast - Stock Titan",
-    "body": "Labcorp Holdings Inc NYSE:LH View LH Stock Overview → LH Rankings #559 Ranked by Market Cap #1269 Ranked by Dividends #761 52-Week Gainer #569 YTD Gainer #170 Monthly Gainer #1221 Ranked by Short %Change LH Latest News Mar 31, 2026 Labcorp to Announce First Quarter Financial Results on April 30, 2026 Mar 18, 2026 Illumina and Labcorp expand collaboration to broaden access to precision oncology testing Feb 23, 2026 Labcorp Expands Collaboration with PathAI to Deploy FDA-Cleared Digital Pathology Platform Nationwide Feb 17, 2026 Labcorp Announces 2025 Fourth Quarter and Full Year Results Feb 11, 2026 Labcorp Launches First FDA-Cleared Blood Test for Alzheimer's Disease Assessment in Primary Care LH Latest SEC Filings Mar 30, 2026 [Form 4] LABCORP HOLDINGS INC.\n\nInsider Trading Activity Mar 30, 2026 [Form 4] LABCORP HOLDINGS INC.\n\nInsider Trading Activity Mar 30, 2026 [Form 4] LABCORP HOLDINGS INC.\n\nInsider Trading Activity Mar 30, 2026 [Form 4] LABCORP HOLDINGS INC.\n\nInsider Trading Activity Mar 30, 2026 [Form 4] LABCORP HOLDINGS INC.\n\nInsider Trading Activity LH Stock Data Market Cap 21.99B Float 82.07M Industry Diagnostics & Research Sector Services-medical Laboratories Website Link Country United States City BURLINGTON",
+    "id": "662ebf03-8b65-596e-8363-e25e1d6dea55",
+    "timestamp_utc": "2026-04-09T01:54:37+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8783440/labcorp-holdings-inc-lh-announces-cash-dividend-for-shareholders",
+    "title": "Labcorp Holdings Inc. (LH) Announces Cash Dividend for Shareholders - GuruFocus",
+    "body": "Labcorp Holdings Inc. (LH) Announces Cash Dividend for Shareholders GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "LH",
@@ -13,19 +13,44 @@
       "LH"
     ],
     "source_quality": "low",
-    "publisher_raw": "stock titan",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.6,
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
       "event_origin": "news",
-      "query_tickers": [
-        "LH"
-      ],
-      "body_kind": "article_text"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4775,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "3955d068-acb0-5924-888c-6f6cf6b45b8e",
+    "timestamp_utc": "2026-04-08T07:13:00+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8782253/evercore-isi-group-raises-labcorp-holdings-lh-price-target-to-300-lh-stock-news",
+    "title": "Evercore ISI Group Raises Labcorp Holdings (LH) Price Target to $300 | LH Stock News - GuruFocus",
+    "body": "Evercore ISI Group Raises Labcorp Holdings (LH) Price Target to $300 | LH Stock News GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "LH",
+    "tickers_hint": [
+      "LH"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4675,
+      "_channel": "google_broad"
+    }
   }
 ]

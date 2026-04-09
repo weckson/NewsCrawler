@@ -1,40 +1,41 @@
 [
   {
-    "id": "fedd7105-6eb8-5674-af5e-495d462ea775",
-    "timestamp_utc": "2026-04-03T20:00:24+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0lsSjF1LWtSclRHdXRmWTNLYUdrQXc4U05vMFp0LVRaWXNSS1JHMHdEaVFDeFBJYllUTHRsMGJrRV9NSFZJMEYtYXdjbWMtN3FQYWdvVDJVYngwWU0wS212V3FyUHQ4dGNWU3hobXV3Sm9sc2hiM0RVQldiRlIxZnVkbDY4ZldwY2Y1TWNkUl83azRuUFQ3WDBWMUc4UzRiNXJHTDduUHdrVE81SktJ?oc=5",
-    "title": "YUM Brands (NYSE: YUM) 2026 proxy pits board against 10% special-meeting push - Stock Titan",
-    "body": "YUM Brands (NYSE: YUM) 2026 proxy pits board against 10% special-meeting push Stock Titan",
+    "id": "2b0e5151-cb77-5ee1-8734-dc82249cc2e1",
+    "timestamp_utc": "2026-04-09T02:20:54+00:00",
+    "source": "barchart",
+    "url": "https://www.barchart.com/story/news/1219381/what-to-expect-from-yum-brands-q1-2026-earnings-report",
+    "title": "What to Expect From Yum! Brands’ Q1 2026 Earnings Report - Barchart",
+    "body": "All information and data in this article is solely for informational purposes. For more information please view the Barchart Disclosure Policy here\n\nWith a market cap of $44.3 billion, Yum! Brands, Inc. (YUM) is a global quick-service restaurant franchisor headquartered in Louisville, Kentucky. The company operates one of the world’s largest restaurant systems through its iconic brands, KFC, Pizza Hut, Taco Bell, and The Habit Burger Grill, spanning more than 55,000 restaurants in more than 155 countries and territories.\n\nThe company is expected to announce its Q1 2026 results soon. Ahead of this event, analysts predict Yum! Brands to report an adjusted EPS of $1.37, up 5.4% from $1.30 in the year-ago quarter. It has exceeded Wall Street's earnings estimates in two of the last four quarters while missing on two other occasions.\n\nFor fiscal 2026, analysts forecast the company to report an adjusted EPS of $6.64, a 9.8% rise from $6.05 in fiscal 2025. Moreover, adjusted EPS is anticipated to grow 11.1% year over year to $7.38 in fiscal 2027.\n\nShares of Yum! Brands have gained 13.5% over the past 52 weeks, underperforming both the S&P 500 Index's ($SPX) 36.1% return and the Consumer Discretionary Select Sector SPDR Fund's (XLY) 25.7% increase over the period.\n\nYum! Brands has struggled to keep pace with the broader market over the past year, as sluggish same-store sales, especially in the U.S., have exposed cracks across key brands, like KFC and Pizza Hut. At the same time, rising input and operating costs have squeezed margins, while a series of earnings disappointments has dented investor confidence. With consumers tightening their wallets and the discretionary sector facing headwinds, Yum!’s growth momentum has cooled, leaving the stock trailing stronger market gains.\n\nAnalysts' consensus view on YUM stock is cautiously optimistic, with an overall \"Moderate Buy\" rating. Among 28 analysts covering the stock, 11 recommend \"Strong Buy\" and 17 indicate “Hold.” The average analyst price target for Yum! Brands is $170.67, indicating a potential upside of 6.4% from the current levels.\n\nStocks: 15 20 minute delay (Cboe BZX is real-time), ET. Volume reflects consolidated markets. Futures and Forex: 10 or 15 minute delay, CT. Market Data powered by Barchart Solutions. Fundamental data provided by Zacks and Morningstar.\n\n© 2026 Barchart.com, Inc. All Rights Reserved.",
     "author": null,
     "language": "en",
     "ticker": "YUM",
     "tickers_hint": [
       "YUM"
     ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
+    "source_quality": "high",
+    "publisher_raw": "barchart.com",
+    "trust_tier": 3,
+    "body_kind": "article_text",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.6000000000000001,
+      "source_name": "Barchart",
+      "source_domain": "barchart.com",
       "event_origin": "news",
-      "query_tickers": [
-        "YUM"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6,
+      "quality_score": 0.725,
+      "_channel": "google_broad",
+      "_alt_sources": [
+        "Barchart"
+      ]
+    }
   },
   {
-    "id": "c32ce9f6-35a0-540e-b5e8-9951f8230f48",
-    "timestamp_utc": "2026-04-04T03:12:51+00:00",
-    "source": "ad_hoc_news",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZlhkWHFVdkI4blRaN2hjXzZtbGtHYjFCUTM3RlhkSERyQzdPRTBsUER6YlFpcnhsQVdOcExtaUo4MktfWXZWN0doZHJiNE04NXFSWGZaZ0FXbEkwNUVJRi1sa2p1UDYyUU9FSS1wUFcwcm8zT29YdHdFYlV4N19nV1pmd3hQTkkwRXdKM01USDFVdkRyMUIyVW5CYXFRV01sRk1NM0VQckxnbEdTVGpmVFZBUkMtdUI2eUNKYnBPZEE0dw?oc=5",
-    "title": "KFC Bucket: The Iconic Fried Chicken Offering Driving Yum! Brands' Global Sales Growth in North Amer - AD HOC NEWS",
-    "body": "KFC Bucket: The Iconic Fried Chicken Offering Driving Yum! Brands' Global Sales Growth in North Amer AD HOC NEWS",
+    "id": "7c15bd4e-c712-5529-b58c-528c4ff74fe4",
+    "timestamp_utc": "2026-04-07T22:13:48+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-ethos-capital-management-inc-invests-137-million-in-yum-brands-inc-yum-2026-04-08/",
+    "title": "Ethos Capital Management Inc. Invests $1.37 Million in Yum! Brands, Inc. $YUM - MarketBeat",
+    "body": "Ethos Capital Management Inc. Invests $1.37 Million in Yum! Brands, Inc. $YUM MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "YUM",
@@ -42,19 +43,74 @@
       "YUM"
     ],
     "source_quality": "low",
-    "publisher_raw": "ad hoc news",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "AD HOC NEWS",
-      "source_domain": "adhocnews.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
       "event_origin": "news",
-      "query_tickers": [
-        "YUM"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.4775,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "48a8d1e2-1e2a-5a4f-b326-6144b3655f9f",
+    "timestamp_utc": "2026-04-09T01:21:12+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-ofi-invest-asset-management-makes-new-investment-in-yum-brands-inc-yum-2026-04-09/",
+    "title": "OFI Invest Asset Management Makes New Investment in Yum! Brands, Inc. $YUM - MarketBeat",
+    "body": "OFI Invest Asset Management Makes New Investment in Yum! Brands, Inc. $YUM MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "YUM",
+    "tickers_hint": [
+      "YUM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.4675,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "461c1eee-9aa5-5b22-be8e-c5e03b4b19cb",
+    "timestamp_utc": "2026-04-09T02:44:32+00:00",
+    "source": "national_today",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWkMtQ1ZSTEQweXByUmIwQTBRcjR3YkVBOTZGNjJaNTItcTR6aXJ6eXQ2ZVM5cVBUc2hHWUxHQlZ6aUxIcHlxbjNqYVVxYkpoR2w5YXNMSEdfWVk4eWtyYm4ycW9jaVY3eWJ3U0NRWk5nYm5XYl92SVZJb2U3TFY5OE1SWGVuamcxZElXekJaTzVZQkU4Sl9KRmk5ZE1EVEpvbHdXNGZlWjh4TXVoR3J6MFA4SmJjTXM?oc=5",
+    "title": "OFI Invest Asset Management Boosts Stake in Yum! Brands - National Today",
+    "body": "OFI Invest Asset Management Boosts Stake in Yum! Brands National Today",
+    "author": null,
+    "language": "en",
+    "ticker": "YUM",
+    "tickers_hint": [
+      "YUM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "national today",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "National Today",
+      "source_domain": "nationaltoday.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.46,
+      "_channel": "google_broad",
+      "_alt_sources": [
+        "National Today"
+      ]
+    }
   }
 ]

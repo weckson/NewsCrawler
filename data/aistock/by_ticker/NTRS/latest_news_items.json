@@ -1,11 +1,11 @@
 [
   {
-    "id": "895303c0-6839-5107-8e8d-aacfaa975604",
-    "timestamp_utc": "2026-04-01T06:07:30+00:00",
+    "id": "67e7bd9d-49b0-5cb4-a39b-fd3f72d73189",
+    "timestamp_utc": "2026-04-06T08:06:02+00:00",
     "source": "gurufocus",
-    "url": "https://www.gurufocus.com/news/8765445/ntrs-truist-securities-lowers-price-target-to-155-maintains-hold-rating-ntrs-stock-news?mobile=true",
-    "title": "NTRS: Truist Securities Lowers Price Target to $155, Maintains H - GuruFocus",
-    "body": "NTRS: Truist Securities Lowers Price Target to $155, Maintains H GuruFocus",
+    "url": "https://www.gurufocus.com/news/8773791/ntrs-sees-rating-upgrade-and-price-target-increase-by-goldman-sachs-ntrs-stock-news?mobile=true",
+    "title": "NTRS Sees Rating Upgrade and Price Target Increase by Goldman Sa - GuruFocus",
+    "body": "NTRS Sees Rating Upgrade and Price Target Increase by Goldman Sa GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "NTRS",
@@ -14,18 +14,16 @@
     ],
     "source_quality": "low",
     "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "GuruFocus",
       "source_domain": "gurufocus.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
       "event_origin": "news",
-      "query_tickers": [
-        "NTRS"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.65,
+      "quality_score": 0.4725,
+      "_channel": "google_broad"
+    }
   }
 ]

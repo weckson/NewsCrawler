@@ -2,65 +2,61 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "71bb0dff-a2b3-5550-ba9a-e13f7a2c6765",
-      "timestamp_utc": "2026-04-04T06:53:45+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/consolidated-edison-inc-nyseed-receives-consensus-recommendation-of-reduce-from-brokerages-2026-04-04/",
-      "title": "Consolidated Edison Inc (NYSE:ED) Receives Consensus Recommendation of \"Reduce\" from Brokerages - MarketBeat",
-      "body": "Consolidated Edison Inc (NYSE:ED) Receives Consensus Recommendation of \"Reduce\" from Brokerages MarketBeat",
+      "id": "6b1eb411-b25a-56fe-934f-7fad44aaad0e",
+      "timestamp_utc": "2026-04-08T03:40:04+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/consolidated-edison-ed-stock-outpacing-134004361.html",
+      "title": "Is Consolidated Edison (ED) Stock Outpacing Its Utilities Peers This Year? - Yahoo Finance",
+      "body": "Is Consolidated Edison (ED) Stock Outpacing Its Utilities Peers This Year? Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "ED",
       "tickers_hint": [
         "ED"
       ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "ED"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.645,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "71bb0dff-a2b3-5550-ba9a-e13f7a2c6765",
-      "timestamp_utc": "2026-04-04T06:53:45+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/consolidated-edison-inc-nyseed-receives-consensus-recommendation-of-reduce-from-brokerages-2026-04-04/",
-      "title": "Consolidated Edison Inc (NYSE:ED) Receives Consensus Recommendation of \"Reduce\" from Brokerages - MarketBeat",
-      "body": "Consolidated Edison Inc (NYSE:ED) Receives Consensus Recommendation of \"Reduce\" from Brokerages MarketBeat",
+      "id": "6b1eb411-b25a-56fe-934f-7fad44aaad0e",
+      "timestamp_utc": "2026-04-08T03:40:04+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/consolidated-edison-ed-stock-outpacing-134004361.html",
+      "title": "Is Consolidated Edison (ED) Stock Outpacing Its Utilities Peers This Year? - Yahoo Finance",
+      "body": "Is Consolidated Edison (ED) Stock Outpacing Its Utilities Peers This Year? Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "ED",
       "tickers_hint": [
         "ED"
       ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "ED"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.645,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

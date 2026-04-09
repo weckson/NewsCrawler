@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "290f2f6f-de76-5da3-b28a-01f4aae55192",
-      "timestamp_utc": "2026-04-03T21:03:48+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50QVNLM3JuU1E0b2tJWERNdGktN1lNMllPNmRTUEQ5MXVJQ0tzQmhBQXNQVVpWd19Va01hand5YUlXU3MtNFh6M2JVNjFRYjBmM2xRVy1GU3MxQmJvaWNGY0wwY1Y?oc=5",
-      "title": "JCI Dec 2026 125.000 put (JCI261218P00125000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "body": "JCI Dec 2026 125.000 put (JCI261218P00125000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "id": "98e37148-e522-5323-baa3-615ae2242856",
+      "timestamp_utc": "2026-04-08T04:07:39+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/johnson-controls-international-nysejci-price-target-lowered-to-16000-at-wolfe-research-2026-04-08/",
+      "title": "Johnson Controls International (NYSE:JCI) Price Target Lowered to $160.00 at Wolfe Research - MarketBeat",
+      "body": "Johnson Controls International (NYSE:JCI) Price Target Lowered to $160.00 at Wolfe Research MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "JCI",
@@ -15,31 +15,137 @@
         "JCI"
       ],
       "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "JCI"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.495,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "015e6ff8-d3f3-5328-9d30-056bd925dda2",
+      "timestamp_utc": "2026-04-07T23:44:26+00:00",
+      "source": "idnfinancials.com",
+      "url": "https://www.idnfinancials.com/news/62820/jci-jumps-4-42-prajogo-and-salim-group-stocks-lead-lq45",
+      "title": "JCI jumps 4.42%, Prajogo and Salim group stocks lead LQ45 - IDNFinancials.com",
+      "body": "JCI jumps 4.42%, Prajogo and Salim group stocks lead LQ45 IDNFinancials.com",
+      "author": null,
+      "language": "en",
+      "ticker": "JCI",
+      "tickers_hint": [
+        "JCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "idnfinancials.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "IDNFinancials.com",
+        "source_domain": "idnfinancialscom.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4475,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "b4c1b7e7-1fcc-5380-88f1-6ea8c25e7501",
+      "timestamp_utc": "2026-04-08T14:07:00+00:00",
+      "source": "voi.id",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xYVE3Rl9wLWJ4NS1uU2EzSFY1LUhnZ3V4QnM1TkdaYnUxM05UMlJyd25rQl9KM0hWUXZ2eHU2UXNUZDJFZnRJ0gFCQVVfeXFMUHpxSzVLWjFxVk1CTjFlNlhrcEk3WG1hNlByam52VG5iVHd3ZUpNR3VYcnc1UWx2eTlqemtyLVNSM2h3?oc=5",
+      "title": "JCI Thursday has the potential to rise again to the level of 7.300-7.350, see the stock recommendations - VOI.id",
+      "body": "JCI Thursday has the potential to rise again to the level of 7.300-7.350, see the stock recommendations VOI.id",
+      "author": null,
+      "language": "en",
+      "ticker": "JCI",
+      "tickers_hint": [
+        "JCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "voi.id",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "VOI.id",
+        "source_domain": "voiid.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.445,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "20017c5e-d62b-5e67-a0ac-6f9621dccc35",
+      "timestamp_utc": "2026-04-08T04:07:39+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/royal-bank-of-canada-has-lowered-expectations-for-johnson-controls-international-nysejci-stock-price-2026-04-08/",
+      "title": "Royal Bank Of Canada Has Lowered Expectations for Johnson Controls International (NYSE:JCI) Stock Price - MarketBeat",
+      "body": "Royal Bank Of Canada Has Lowered Expectations for Johnson Controls International (NYSE:JCI) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JCI",
+      "tickers_hint": [
+        "JCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "c0f35a78-6b2f-56b0-9c0e-3c9d61ec5ed7",
+      "timestamp_utc": "2026-04-07T14:07:00+00:00",
+      "source": "voi.id",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1QYlpIQUxlQmlnX3JuMXh6QVVWVkpPWWlRZUxuYmhMY193TlFHdE9vcjg5RlhxakFxRW9RYmNnZUIwTll2YWZB0gFCQVVfeXFMTS01MDdKR2EyYnBRYWd5ZTNCdFh2Uk9qTmk1MkhCUE5XcC1QeEVPbDk3SGxMcTJsWWQxSDE4YWxneVln?oc=5",
+      "title": "JCI Wednesday is predicted to move in the range of 6,900-7,050, see the stock recommendations - VOI.id",
+      "body": "JCI Wednesday is predicted to move in the range of 6,900-7,050, see the stock recommendations VOI.id",
+      "author": null,
+      "language": "en",
+      "ticker": "JCI",
+      "tickers_hint": [
+        "JCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "voi.id",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "VOI.id",
+        "source_domain": "voiid.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.405,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "290f2f6f-de76-5da3-b28a-01f4aae55192",
-      "timestamp_utc": "2026-04-03T21:03:48+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50QVNLM3JuU1E0b2tJWERNdGktN1lNMllPNmRTUEQ5MXVJQ0tzQmhBQXNQVVpWd19Va01hand5YUlXU3MtNFh6M2JVNjFRYjBmM2xRVy1GU3MxQmJvaWNGY0wwY1Y?oc=5",
-      "title": "JCI Dec 2026 125.000 put (JCI261218P00125000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "body": "JCI Dec 2026 125.000 put (JCI261218P00125000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "id": "98e37148-e522-5323-baa3-615ae2242856",
+      "timestamp_utc": "2026-04-08T04:07:39+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/johnson-controls-international-nysejci-price-target-lowered-to-16000-at-wolfe-research-2026-04-08/",
+      "title": "Johnson Controls International (NYSE:JCI) Price Target Lowered to $160.00 at Wolfe Research - MarketBeat",
+      "body": "Johnson Controls International (NYSE:JCI) Price Target Lowered to $160.00 at Wolfe Research MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "JCI",
@@ -47,20 +153,126 @@
         "JCI"
       ],
       "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "JCI"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.495,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "015e6ff8-d3f3-5328-9d30-056bd925dda2",
+      "timestamp_utc": "2026-04-07T23:44:26+00:00",
+      "source": "idnfinancials.com",
+      "url": "https://www.idnfinancials.com/news/62820/jci-jumps-4-42-prajogo-and-salim-group-stocks-lead-lq45",
+      "title": "JCI jumps 4.42%, Prajogo and Salim group stocks lead LQ45 - IDNFinancials.com",
+      "body": "JCI jumps 4.42%, Prajogo and Salim group stocks lead LQ45 IDNFinancials.com",
+      "author": null,
+      "language": "en",
+      "ticker": "JCI",
+      "tickers_hint": [
+        "JCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "idnfinancials.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "IDNFinancials.com",
+        "source_domain": "idnfinancialscom.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4475,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "b4c1b7e7-1fcc-5380-88f1-6ea8c25e7501",
+      "timestamp_utc": "2026-04-08T14:07:00+00:00",
+      "source": "voi.id",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xYVE3Rl9wLWJ4NS1uU2EzSFY1LUhnZ3V4QnM1TkdaYnUxM05UMlJyd25rQl9KM0hWUXZ2eHU2UXNUZDJFZnRJ0gFCQVVfeXFMUHpxSzVLWjFxVk1CTjFlNlhrcEk3WG1hNlByam52VG5iVHd3ZUpNR3VYcnc1UWx2eTlqemtyLVNSM2h3?oc=5",
+      "title": "JCI Thursday has the potential to rise again to the level of 7.300-7.350, see the stock recommendations - VOI.id",
+      "body": "JCI Thursday has the potential to rise again to the level of 7.300-7.350, see the stock recommendations VOI.id",
+      "author": null,
+      "language": "en",
+      "ticker": "JCI",
+      "tickers_hint": [
+        "JCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "voi.id",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "VOI.id",
+        "source_domain": "voiid.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.445,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "20017c5e-d62b-5e67-a0ac-6f9621dccc35",
+      "timestamp_utc": "2026-04-08T04:07:39+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/royal-bank-of-canada-has-lowered-expectations-for-johnson-controls-international-nysejci-stock-price-2026-04-08/",
+      "title": "Royal Bank Of Canada Has Lowered Expectations for Johnson Controls International (NYSE:JCI) Stock Price - MarketBeat",
+      "body": "Royal Bank Of Canada Has Lowered Expectations for Johnson Controls International (NYSE:JCI) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JCI",
+      "tickers_hint": [
+        "JCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "c0f35a78-6b2f-56b0-9c0e-3c9d61ec5ed7",
+      "timestamp_utc": "2026-04-07T14:07:00+00:00",
+      "source": "voi.id",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1QYlpIQUxlQmlnX3JuMXh6QVVWVkpPWWlRZUxuYmhMY193TlFHdE9vcjg5RlhxakFxRW9RYmNnZUIwTll2YWZB0gFCQVVfeXFMTS01MDdKR2EyYnBRYWd5ZTNCdFh2Uk9qTmk1MkhCUE5XcC1QeEVPbDk3SGxMcTJsWWQxSDE4YWxneVln?oc=5",
+      "title": "JCI Wednesday is predicted to move in the range of 6,900-7,050, see the stock recommendations - VOI.id",
+      "body": "JCI Wednesday is predicted to move in the range of 6,900-7,050, see the stock recommendations VOI.id",
+      "author": null,
+      "language": "en",
+      "ticker": "JCI",
+      "tickers_hint": [
+        "JCI"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "voi.id",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "VOI.id",
+        "source_domain": "voiid.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.405,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

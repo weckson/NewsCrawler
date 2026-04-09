@@ -1,11 +1,38 @@
 [
   {
-    "id": "748c069c-6e43-59f5-b05a-f68854a61957",
-    "timestamp_utc": "2026-03-31T06:41:15+00:00",
-    "source": "gurufocus",
-    "url": "https://www.gurufocus.com/news/8761792/nsc-bernstein-lowers-price-target-but-maintains-outperform-rating-nsc-stock-news?mobile=true",
-    "title": "NSC: Bernstein Lowers Price Target but Maintains Outperform Rati - GuruFocus",
-    "body": "NSC: Bernstein Lowers Price Target but Maintains Outperform Rati GuruFocus",
+    "id": "037a0150-9bf6-517e-8f4d-810a4daef2bb",
+    "timestamp_utc": "2026-04-08T09:11:30+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80OGdCWVNkcXByMC00YU02X3BaNnJ5bE9CWFpOclVMbzBZRVhXT0k3THRxcFhkRWprZHNDNm1HNVpBcGEwRDZVNkVzc1I5ZUg1OGhRVnlwWTV1VXZnc2Vqd0piMGM?oc=5",
+    "title": "NSC Jan 2028 270.000 put (NSC280121P00270000) stock price, news, quote and history - Yahoo Finance Singapore",
+    "body": "NSC Jan 2028 270.000 put (NSC280121P00270000) stock price, news, quote and history Yahoo Finance Singapore",
+    "author": null,
+    "language": "en",
+    "ticker": "NSC",
+    "tickers_hint": [
+      "NSC"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Yahoo Finance Singapore",
+      "source_domain": "finance.yahoo.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.635,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "1ba42946-8cf5-566d-8998-2aa936c31977",
+    "timestamp_utc": "2026-04-07T19:07:12+00:00",
+    "source": "defense_world",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYzdPQXFFMkZqM0dFSXN6U0RSLUJXRnpjTWExTnV3Y1pOWnZvbS04OF9RcTFSRTRjemUtUU9lQ3hqQTh3N0Vsbloyc3p2QUFVOVN5aE03bzcyalo4aHZOaXNCWDZOUlJUVGR5VWVNbHJ3ZkdwOVdWQmw1bmR4dkVCUHdtX0hoWUF5M3RiN1ZTZFBFQ1luVjlPaTQtUWlwbzFrcmdlTlpzRnpxa2VqNl9lQ2w0bHo4TWM3TVNadkxsZk1zRzVHRV8tOWlKaE9KRThLZ3c?oc=5",
+    "title": "Jefferies Financial Group Has Lowered Expectations for Norfolk Southern (NYSE:NSC) Stock Price - Defense World",
+    "body": "Jefferies Financial Group Has Lowered Expectations for Norfolk Southern (NYSE:NSC) Stock Price Defense World",
     "author": null,
     "language": "en",
     "ticker": "NSC",
@@ -13,19 +40,17 @@
       "NSC"
     ],
     "source_quality": "low",
-    "publisher_raw": "gurufocus.com",
+    "publisher_raw": "defense world",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "GuruFocus",
-      "source_domain": "gurufocus.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
+      "source_name": "Defense World",
+      "source_domain": "defenseworld.com",
       "event_origin": "news",
-      "query_tickers": [
-        "NSC"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.405,
+      "_channel": "google_broad"
+    }
   }
 ]

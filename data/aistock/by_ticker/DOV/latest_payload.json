@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "0584ebf4-2ec2-52f5-b33d-b075e9488b60",
-      "timestamp_utc": "2026-04-02T15:35:18+00:00",
-      "source": "yahoo_finance_uk",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYMHJTQXNwb1h6VmhYS0c1VzRINU1wUktKX3B2SFpDRHdwbG80WGgzaUgybWhFQ3k1dEo5aVJQTkZxWFhucHFqZF83SWFPNWV0RFIwcQ?oc=5",
-      "title": "doValue S.p.A. (DOV.MI) stock price, news, quote and history - Yahoo Finance UK",
-      "body": "doValue S.p.A. (DOV.MI) stock price, news, quote and history Yahoo Finance UK",
+      "id": "ab6c4c01-0ff8-5537-b3ee-cca5840e951a",
+      "timestamp_utc": "2026-04-05T21:11:54+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQamh4cGlwYmVPUERtWndWLTh4dWl4ZUNfNTVnWVhKWW5hdVp5NW84RlpmVHlncDg4cWd1RnFvNDY1anI5YTZIWURBMzNKMkw0MEVROGdjS01Ja0tfdUVtMlY2a3hYUmtoRWUtelp2N1hoOUJKb1I4cEQzdGszOGlRTEhZMWE1S1NvTmpuQmI1SE9FU3NLaUVzLUp3YkptTmJNS2lIOTRTbGN5V0ZhRnB1Z0xOYw?oc=5",
+      "title": "Aberdeen Group plc Decreases Stock Position in Dover Corporation $DOV - Defense World",
+      "body": "Aberdeen Group plc Decreases Stock Position in Dover Corporation $DOV Defense World",
       "author": null,
       "language": "en",
       "ticker": "DOV",
@@ -15,31 +15,29 @@
         "DOV"
       ],
       "source_quality": "low",
-      "publisher_raw": "yahoo finance uk",
+      "publisher_raw": "defense world",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance UK",
-        "source_domain": "yahoofinanceuk.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DOV"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.39,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "0584ebf4-2ec2-52f5-b33d-b075e9488b60",
-      "timestamp_utc": "2026-04-02T15:35:18+00:00",
-      "source": "yahoo_finance_uk",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYMHJTQXNwb1h6VmhYS0c1VzRINU1wUktKX3B2SFpDRHdwbG80WGgzaUgybWhFQ3k1dEo5aVJQTkZxWFhucHFqZF83SWFPNWV0RFIwcQ?oc=5",
-      "title": "doValue S.p.A. (DOV.MI) stock price, news, quote and history - Yahoo Finance UK",
-      "body": "doValue S.p.A. (DOV.MI) stock price, news, quote and history Yahoo Finance UK",
+      "id": "ab6c4c01-0ff8-5537-b3ee-cca5840e951a",
+      "timestamp_utc": "2026-04-05T21:11:54+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQamh4cGlwYmVPUERtWndWLTh4dWl4ZUNfNTVnWVhKWW5hdVp5NW84RlpmVHlncDg4cWd1RnFvNDY1anI5YTZIWURBMzNKMkw0MEVROGdjS01Ja0tfdUVtMlY2a3hYUmtoRWUtelp2N1hoOUJKb1I4cEQzdGszOGlRTEhZMWE1S1NvTmpuQmI1SE9FU3NLaUVzLUp3YkptTmJNS2lIOTRTbGN5V0ZhRnB1Z0xOYw?oc=5",
+      "title": "Aberdeen Group plc Decreases Stock Position in Dover Corporation $DOV - Defense World",
+      "body": "Aberdeen Group plc Decreases Stock Position in Dover Corporation $DOV Defense World",
       "author": null,
       "language": "en",
       "ticker": "DOV",
@@ -47,20 +45,18 @@
         "DOV"
       ],
       "source_quality": "low",
-      "publisher_raw": "yahoo finance uk",
+      "publisher_raw": "defense world",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance UK",
-        "source_domain": "yahoofinanceuk.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DOV"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.39,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

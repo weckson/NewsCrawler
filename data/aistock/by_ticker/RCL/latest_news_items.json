@@ -1,40 +1,68 @@
 [
   {
-    "id": "f8ebc275-466b-5ea0-ace1-34c901f05241",
-    "timestamp_utc": "2026-04-01T04:34:00+00:00",
-    "source": "tradingview",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXMxMW9rUWR3cFl2TXZYRjc4RnFqSHZSVThjVHZBMEUtblRzZ29oSFF5YUFMemRWZkNqNG9qeEk0c0R4NWt5elNPNkEyc1pxYzRjbWx3anNEei14UGFpWjlRak5rekNCc241YVlFQm1EQUNJUDFJSGVvLS1xcHdyN1VDRVRoT1p1c3VqeVJJZFhQek5ENHp0QmJiYzk1ZElQaXN6MjlSZ2pnaHE3UTJPdTlaYy0?oc=5",
-    "title": "RCL's Margin Expansion Story Strengthens: How Durable Is It? - TradingView",
-    "body": "RCL's Margin Expansion Story Strengthens: How Durable Is It? TradingView",
+    "id": "d192a160-a9bc-5fd4-b7e0-ecdb75ce238a",
+    "timestamp_utc": "2026-04-08T22:51:14+00:00",
+    "source": "benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBoQkVXLXU5bm5EUHBiT3VHYjBkc2VHc3J3bW8wWFhtTHI2UlQzZ3NtQ1ItaVAtQ3Z4U2tpWnNPVzlWR19WaGdrZFhR?oc=5",
+    "title": "Royal Caribbean Group (RCL) Stock Price, Quote, News & History - Benzinga",
+    "body": "Royal Caribbean Group (RCL) Stock Price, Quote, News & History Benzinga",
     "author": null,
     "language": "en",
     "ticker": "RCL",
     "tickers_hint": [
       "RCL"
     ],
-    "source_quality": "medium",
-    "publisher_raw": "tradingview.com",
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "TradingView",
-      "source_domain": "tradingview.com",
-      "trust_tier": 2,
-      "relevance": 0.5,
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
       "event_origin": "news",
-      "query_tickers": [
-        "RCL"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.65,
+      "_channel": "google_benzinga",
+      "_alt_sources": [
+        "Benzinga"
+      ]
+    }
   },
   {
-    "id": "d26559ba-057c-5287-a164-145e65676727",
-    "timestamp_utc": "2026-04-01T02:11:40+00:00",
+    "id": "f6663304-ab31-51ac-b81a-118b2493cd5a",
+    "timestamp_utc": "2026-04-08T14:13:00+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS0tPeUJlek5LSXBsRnVYdVMxcXhmZzZUbjdMZTZTcW1BUjZ6NUVLZkxGTVM3QjBpd2JqUjA3MWZ2bWF0SmNKRjg3aTkxNk41X2s5Rzl0ZXpZQVRPUDd2T3pPSnZJTU5oM0xzX1lFajF0QURvcE1FRW5aaDM2RmZCdWRVTXJyal8tUmF6TlFvY2UySVdCSDhlQlVvS09yZw?oc=5",
+    "title": "Royal Caribbean (RCL) Stock Trades Up, Here Is Why - Yahoo Finance",
+    "body": "Royal Caribbean (RCL) Stock Trades Up, Here Is Why Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "RCL",
+    "tickers_hint": [
+      "RCL"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.64,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "18e5364e-73e9-59b6-9899-cb422099d243",
+    "timestamp_utc": "2026-04-09T02:36:49+00:00",
     "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-vaughan-nelson-investment-management-lp-has-1153-million-stock-position-in-royal-caribbean-cruises-ltd-rcl-2026-04-01/",
-    "title": "Vaughan Nelson Investment Management L.P. Has $11.53 Million Stock Position in Royal Caribbean Cruises Ltd. $RCL - MarketBeat",
-    "body": "Vaughan Nelson Investment Management L.P. Has $11.53 Million Stock Position in Royal Caribbean Cruises Ltd. $RCL MarketBeat",
+    "url": "https://www.marketbeat.com/instant-alerts/royal-caribbean-cruises-nysercl-price-target-lowered-to-31000-at-morgan-stanley-2026-04-09/",
+    "title": "Royal Caribbean Cruises (NYSE:RCL) Price Target Lowered to $310.00 at Morgan Stanley - MarketBeat",
+    "body": "Royal Caribbean Cruises (NYSE:RCL) Price Target Lowered to $310.00 at Morgan Stanley MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "RCL",
@@ -43,18 +71,43 @@
     ],
     "source_quality": "low",
     "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "MarketBeat",
       "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
       "event_origin": "news",
-      "query_tickers": [
-        "RCL"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6,
+      "quality_score": 0.52,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "c5b89b82-1e8c-5e99-988e-d613a60a32de",
+    "timestamp_utc": "2026-04-08T11:00:00+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8782434/jp-morgan-lowers-price-target-for-royal-caribbean-group-rcl-rcl-stock-news?mobile=true",
+    "title": "JP Morgan Lowers Price Target for Royal Caribbean Group (RCL) | - GuruFocus",
+    "body": "JP Morgan Lowers Price Target for Royal Caribbean Group (RCL) | GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "RCL",
+    "tickers_hint": [
+      "RCL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4375,
+      "_channel": "google_broad"
+    }
   }
 ]

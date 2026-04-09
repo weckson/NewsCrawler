@@ -1,11 +1,11 @@
 [
   {
-    "id": "78b737f3-fca8-561e-a0b5-c5167bd07dcd",
-    "timestamp_utc": "2026-04-04T08:16:30+00:00",
-    "source": "yahoo_finance_singapore",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkcmtQMXM0MHdUSlk3UHEwejA5OWt6WDM4WWktVWpkYWdpVkVCSktjRWNUY0FsTXluYklUWWNFekxraXJjSjFTclBGOExmUjQ3TGNmTDFwbWx1eUwzbFJ6ZA?oc=5",
-    "title": "The Kraft Heinz Company (KHC) stock price, news, quote and history - Yahoo Finance Singapore",
-    "body": "The Kraft Heinz Company (KHC) stock price, news, quote and history Yahoo Finance Singapore",
+    "id": "4fb9d0c9-6ccb-5030-8b3b-2858a839d513",
+    "timestamp_utc": "2026-04-09T03:18:42+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/bnp-paribas-exane-has-lowered-expectations-for-kraft-heinz-nasdaqkhc-stock-price-2026-04-09/",
+    "title": "BNP Paribas Exane Has Lowered Expectations for Kraft Heinz (NASDAQ:KHC) Stock Price - MarketBeat",
+    "body": "BNP Paribas Exane Has Lowered Expectations for Kraft Heinz (NASDAQ:KHC) Stock Price MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "KHC",
@@ -13,19 +13,17 @@
       "KHC"
     ],
     "source_quality": "low",
-    "publisher_raw": "yahoo finance singapore",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance Singapore",
-      "source_domain": "yahoofinancesingapore.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
       "event_origin": "news",
-      "query_tickers": [
-        "KHC"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4625,
+      "_channel": "google_broad"
+    }
   }
 ]

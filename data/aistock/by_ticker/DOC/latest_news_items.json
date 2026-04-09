@@ -1,11 +1,41 @@
 [
   {
-    "id": "9c63a721-975f-57e0-bf9d-ff0b4da33343",
-    "timestamp_utc": "2026-04-01T11:38:09+00:00",
-    "source": "gurufocus",
-    "url": "https://www.gurufocus.com/news/8766074/citigroup-maintains-neutral-rating-on-healthpeak-properties-doc-doc-stock-news",
-    "title": "Citigroup Maintains Neutral Rating on Healthpeak Properties (DOC - GuruFocus",
-    "body": "Citigroup Maintains Neutral Rating on Healthpeak Properties (DOC GuruFocus",
+    "id": "811ab123-89d5-5d13-a273-d8914067bced",
+    "timestamp_utc": "2026-04-08T17:28:12+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11bDF1eFQxa01yMHhheVZFVlNCOU0xX1ljN1FFVldhTnV3UW56STFSUHQ1cy1tLUZDR19UN05KaFprVkk0NlgydU5nYVRLQzVJ?oc=5",
+    "title": "Physicians Realty Trust (DOC) stock price, news, quote and history - Yahoo Finance UK",
+    "body": "Physicians Realty Trust (DOC) stock price, news, quote and history Yahoo Finance UK",
+    "author": null,
+    "language": "en",
+    "ticker": "DOC",
+    "tickers_hint": [
+      "DOC"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Yahoo Finance UK",
+      "source_domain": "finance.yahoo.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.65,
+      "_channel": "google_broad",
+      "_alt_sources": [
+        "Yahoo Finance UK"
+      ]
+    }
+  },
+  {
+    "id": "338ef4ca-3dbc-599e-bae5-d075bdd107d9",
+    "timestamp_utc": "2026-04-07T20:21:39+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/healthpeak-properties-inc-nysedoc-given-consensus-rating-of-hold-by-analysts-2026-04-08/",
+    "title": "Healthpeak Properties, Inc. (NYSE:DOC) Given Consensus Rating of \"Hold\" by Analysts - MarketBeat",
+    "body": "Healthpeak Properties, Inc. (NYSE:DOC) Given Consensus Rating of \"Hold\" by Analysts MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "DOC",
@@ -13,19 +43,44 @@
       "DOC"
     ],
     "source_quality": "low",
-    "publisher_raw": "gurufocus.com",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "GuruFocus",
-      "source_domain": "gurufocus.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
       "event_origin": "news",
-      "query_tickers": [
-        "DOC"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.7500000000000001,
+      "quality_score": 0.4825,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "12dee0d0-c865-5349-ad1f-044c49a44911",
+    "timestamp_utc": "2026-04-08T01:56:33+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-oak-thistle-llc-purchases-shares-of-244925-healthpeak-properties-inc-doc-2026-04-08/",
+    "title": "Oak Thistle LLC Purchases Shares of 244,925 Healthpeak Properties, Inc. $DOC - MarketBeat",
+    "body": "Oak Thistle LLC Purchases Shares of 244,925 Healthpeak Properties, Inc. $DOC MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "DOC",
+    "tickers_hint": [
+      "DOC"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.4475,
+      "_channel": "google_broad"
+    }
   }
 ]

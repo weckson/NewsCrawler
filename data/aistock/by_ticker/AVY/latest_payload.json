@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "9dfb4512-e6d3-5069-9c87-461a7ab5b97f",
-      "timestamp_utc": "2026-04-01T07:36:01+00:00",
-      "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8765559/avy-deutsche-bank-initiates-coverage-with-a-buy-rating-avy-stock-news",
-      "title": "AVY: Deutsche Bank Initiates Coverage with a Buy Rating | AVY St - GuruFocus",
-      "body": "AVY: Deutsche Bank Initiates Coverage with a Buy Rating | AVY St GuruFocus",
+      "id": "bc1cc7c7-05a6-5961-abc0-1131bd5ccebf",
+      "timestamp_utc": "2026-04-07T00:26:01+00:00",
+      "source": "stock_traders_daily",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQWtEM2Nzc1Izckx3dUNCZUdvM1FMRlVQdFg4RUZGVkYzZXBxUXhqV01TMFRrZGtlQ1RDWTg1NGJIQnhjWUVpeHdTNWF4elQtWV94NWJGSVI3QmVhRGd5dVljWHhWQXhhaEs0UXBaTDdCdnE0b1JUWHhkMlNFV3g2aW5zX3QtdmFOckR6QVlfVFhnOEoyMW5neGVtQkl5OWVoRDhEX24yWnUwVENqYkc2eUJmenVwUllha25HSWxXaw?oc=5",
+      "title": "Liquidity Mapping Around (AVY) Price Events - Stock Traders Daily",
+      "body": "Liquidity Mapping Around (AVY) Price Events Stock Traders Daily",
       "author": null,
       "language": "en",
       "ticker": "AVY",
@@ -15,60 +15,29 @@
         "AVY"
       ],
       "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
+      "publisher_raw": "stock traders daily",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
+        "source_name": "Stock Traders Daily",
+        "source_domain": "stocktradersdaily.com",
         "event_origin": "news",
-        "query_tickers": [
-          "AVY"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "466026f3-947d-5895-851e-29afeafc5d20",
-      "timestamp_utc": "2026-03-31T23:42:14+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-avery-dennison-corporation-avy-shares-purchased-by-retirement-systems-of-alabama-2026-04-01/",
-      "title": "Avery Dennison Corporation $AVY Shares Purchased by Retirement Systems of Alabama - MarketBeat",
-      "body": "Avery Dennison Corporation $AVY Shares Purchased by Retirement Systems of Alabama MarketBeat",
-      "author": null,
-      "language": "en",
-      "ticker": "AVY",
-      "tickers_hint": [
-        "AVY"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "AVY"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.401,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "9dfb4512-e6d3-5069-9c87-461a7ab5b97f",
-      "timestamp_utc": "2026-04-01T07:36:01+00:00",
-      "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8765559/avy-deutsche-bank-initiates-coverage-with-a-buy-rating-avy-stock-news",
-      "title": "AVY: Deutsche Bank Initiates Coverage with a Buy Rating | AVY St - GuruFocus",
-      "body": "AVY: Deutsche Bank Initiates Coverage with a Buy Rating | AVY St GuruFocus",
+      "id": "bc1cc7c7-05a6-5961-abc0-1131bd5ccebf",
+      "timestamp_utc": "2026-04-07T00:26:01+00:00",
+      "source": "stock_traders_daily",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQWtEM2Nzc1Izckx3dUNCZUdvM1FMRlVQdFg4RUZGVkYzZXBxUXhqV01TMFRrZGtlQ1RDWTg1NGJIQnhjWUVpeHdTNWF4elQtWV94NWJGSVI3QmVhRGd5dVljWHhWQXhhaEs0UXBaTDdCdnE0b1JUWHhkMlNFV3g2aW5zX3QtdmFOckR6QVlfVFhnOEoyMW5neGVtQkl5OWVoRDhEX24yWnUwVENqYkc2eUJmenVwUllha25HSWxXaw?oc=5",
+      "title": "Liquidity Mapping Around (AVY) Price Events - Stock Traders Daily",
+      "body": "Liquidity Mapping Around (AVY) Price Events Stock Traders Daily",
       "author": null,
       "language": "en",
       "ticker": "AVY",
@@ -76,49 +45,18 @@
         "AVY"
       ],
       "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
+      "publisher_raw": "stock traders daily",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
+        "source_name": "Stock Traders Daily",
+        "source_domain": "stocktradersdaily.com",
         "event_origin": "news",
-        "query_tickers": [
-          "AVY"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "466026f3-947d-5895-851e-29afeafc5d20",
-      "timestamp_utc": "2026-03-31T23:42:14+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-avery-dennison-corporation-avy-shares-purchased-by-retirement-systems-of-alabama-2026-04-01/",
-      "title": "Avery Dennison Corporation $AVY Shares Purchased by Retirement Systems of Alabama - MarketBeat",
-      "body": "Avery Dennison Corporation $AVY Shares Purchased by Retirement Systems of Alabama MarketBeat",
-      "author": null,
-      "language": "en",
-      "ticker": "AVY",
-      "tickers_hint": [
-        "AVY"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "AVY"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.401,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

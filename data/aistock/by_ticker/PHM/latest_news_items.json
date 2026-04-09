@@ -1,11 +1,11 @@
 [
   {
-    "id": "2ba81929-3865-55a4-9b1c-78901c7a0b98",
-    "timestamp_utc": "2026-03-31T04:12:37+00:00",
-    "source": "bitget",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6X0xoeS1aQjk3ajVDaTU4ZHoteWVyNjBzb2NOT2tiQjZEek82STJQTGlaa2thNmNWaHBZck10WkZUbXVXd1FET1pYMm5SdkdHT0laYVhSVVFfdHBNMnJfcG1WQdIBY0FVX3lxTFB6X0xoeS1aQjk3ajVDaTU4ZHoteWVyNjBzb2NOT2tiQjZEek82STJQTGlaa2thNmNWaHBZck10WkZUbXVXd1FET1pYMm5SdkdHT0laYVhSVVFfdHBNMnJfcG1WQQ?oc=5",
-    "title": "Investors Are Actively Looking Into PulteGroup, Inc. (PHM): What You Should Be Aware Of - Bitget",
-    "body": "Investors Are Actively Looking Into PulteGroup, Inc. (PHM): What You Should Be Aware Of Bitget",
+    "id": "b79da1b4-a957-5785-997b-260b02976987",
+    "timestamp_utc": "2026-04-08T09:09:20+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8782312/pultegroup-phm-analyst-ratings-update-barclays-adjusts-price-target-phm-stock-news",
+    "title": "PulteGroup (PHM) Analyst Ratings Update: Barclays Adjusts Price Target | PHM Stock News - GuruFocus",
+    "body": "PulteGroup (PHM) Analyst Ratings Update: Barclays Adjusts Price Target | PHM Stock News GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "PHM",
@@ -13,19 +13,44 @@
       "PHM"
     ],
     "source_quality": "low",
-    "publisher_raw": "bitget",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Bitget",
-      "source_domain": "bitget.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
       "event_origin": "news",
-      "query_tickers": [
-        "PHM"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.7500000000000001,
+      "quality_score": 0.5175,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "9d9c3d3a-c5d3-5335-9123-2f11a6786131",
+    "timestamp_utc": "2026-04-08T09:35:35+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8782415/phm-wells-fargo-maintains-overweight-rating-despite-lowered-price-target-phm-stock-news",
+    "title": "PHM: Wells Fargo Maintains Overweight Rating Despite Lowered Pri - GuruFocus",
+    "body": "PHM: Wells Fargo Maintains Overweight Rating Despite Lowered Pri GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "PHM",
+    "tickers_hint": [
+      "PHM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4375,
+      "_channel": "google_broad"
+    }
   }
 ]

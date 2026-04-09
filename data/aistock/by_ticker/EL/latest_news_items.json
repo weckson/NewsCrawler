@@ -1,11 +1,11 @@
 [
   {
-    "id": "0961e913-7fa8-51bb-9add-2183341507a5",
-    "timestamp_utc": "2026-04-04T05:17:08+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/estee-lauder-companies-nyseel-rating-lowered-to-hold-at-wall-street-zen-2026-04-04/",
-    "title": "Estee Lauder Companies (NYSE:EL) Rating Lowered to \"Hold\" at Wall Street Zen - MarketBeat",
-    "body": "Estee Lauder Companies (NYSE:EL) Rating Lowered to \"Hold\" at Wall Street Zen MarketBeat",
+    "id": "35143160-d519-5c39-8538-ce06a257ad33",
+    "timestamp_utc": "2026-04-08T10:07:38+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8782396/estee-lauder-el-wells-fargo-lowers-price-target-to-75-el-stock-news",
+    "title": "Estee Lauder (EL): Wells Fargo Lowers Price Target to $75 | EL S - GuruFocus",
+    "body": "Estee Lauder (EL): Wells Fargo Lowers Price Target to $75 | EL S GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "EL",
@@ -13,19 +13,17 @@
       "EL"
     ],
     "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.7500000000000001,
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
       "event_origin": "news",
-      "query_tickers": [
-        "EL"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.4925,
+      "_channel": "google_broad"
+    }
   }
 ]

@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "d08e8c9f-5480-517d-80f2-384a4ca2c170",
-      "timestamp_utc": "2026-04-01T15:12:00+00:00",
-      "source": "minichart",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYnd4Y1FVZlY5UDNCdXMtNHY3aFExeXBxY1RqbnFmMllvNFE0WW9zTWdvQlBkZnFLc3c4Z0Z5aVhyTmhKUE1ZWlF5ZDd5MVJHUFVqbFJ0OUxXbWNMNVlaVUwtVXlhdGtmb05LNjY2Y3ZaaHRNcGRQNTRxOEhESTYzVTZJdXcxdUprbEQzUk9HTUExbmhxdDZKbFYxTHlsYVhXSWJMVDh1V2ctYmhBcTJ3QXhFajNMS1dHQTJzT2RqcHJQVnk5VHZlRVRXREJHamxGdHIyUDhRRDNhdjlYbk9MeUt5WWg?oc=5",
-      "title": "SATS Ltd 2026 Outlook: Resilient Air Cargo Growth, Investment Analysis & Target Price Amid Middle East Volatility - Minichart",
-      "body": "SATS Ltd 2026 Outlook: Resilient Air Cargo Growth, Investment Analysis & Target Price Amid Middle East Volatility Minichart",
+      "id": "904d240f-aa83-54c6-b2f4-e4cf2447dda9",
+      "timestamp_utc": "2026-04-08T11:30:00+00:00",
+      "source": "singapore_business_review",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUURKY2RfWWFaejhMQzZNaUgyMTZmQUtiUnNjT2lNM25CZkNhZ080SUFTVXlWSUxwcS1xbzVSWHR6MmlZUEh5OGNUTEdvUi1oUDFwYkthQm9vM2RuaXdTWk1zYm5Rbjl1OUs0TjNEdmQwcThGMzJPbHJibzdMek1VRHdn?oc=5",
+      "title": "Daily Markets Briefing: STI up 0.77%; Top stock is SATS - Singapore Business Review",
+      "body": "Daily Markets Briefing: STI up 0.77%; Top stock is SATS Singapore Business Review",
       "author": null,
       "language": "en",
       "ticker": "SATS",
@@ -15,31 +15,29 @@
         "SATS"
       ],
       "source_quality": "low",
-      "publisher_raw": "minichart",
+      "publisher_raw": "singapore business review",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Minichart",
-        "source_domain": "minichart.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Singapore Business Review",
+        "source_domain": "singaporebusinessreview.com",
         "event_origin": "news",
-        "query_tickers": [
-          "SATS"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.44,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "d08e8c9f-5480-517d-80f2-384a4ca2c170",
-      "timestamp_utc": "2026-04-01T15:12:00+00:00",
-      "source": "minichart",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYnd4Y1FVZlY5UDNCdXMtNHY3aFExeXBxY1RqbnFmMllvNFE0WW9zTWdvQlBkZnFLc3c4Z0Z5aVhyTmhKUE1ZWlF5ZDd5MVJHUFVqbFJ0OUxXbWNMNVlaVUwtVXlhdGtmb05LNjY2Y3ZaaHRNcGRQNTRxOEhESTYzVTZJdXcxdUprbEQzUk9HTUExbmhxdDZKbFYxTHlsYVhXSWJMVDh1V2ctYmhBcTJ3QXhFajNMS1dHQTJzT2RqcHJQVnk5VHZlRVRXREJHamxGdHIyUDhRRDNhdjlYbk9MeUt5WWg?oc=5",
-      "title": "SATS Ltd 2026 Outlook: Resilient Air Cargo Growth, Investment Analysis & Target Price Amid Middle East Volatility - Minichart",
-      "body": "SATS Ltd 2026 Outlook: Resilient Air Cargo Growth, Investment Analysis & Target Price Amid Middle East Volatility Minichart",
+      "id": "904d240f-aa83-54c6-b2f4-e4cf2447dda9",
+      "timestamp_utc": "2026-04-08T11:30:00+00:00",
+      "source": "singapore_business_review",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUURKY2RfWWFaejhMQzZNaUgyMTZmQUtiUnNjT2lNM25CZkNhZ080SUFTVXlWSUxwcS1xbzVSWHR6MmlZUEh5OGNUTEdvUi1oUDFwYkthQm9vM2RuaXdTWk1zYm5Rbjl1OUs0TjNEdmQwcThGMzJPbHJibzdMek1VRHdn?oc=5",
+      "title": "Daily Markets Briefing: STI up 0.77%; Top stock is SATS - Singapore Business Review",
+      "body": "Daily Markets Briefing: STI up 0.77%; Top stock is SATS Singapore Business Review",
       "author": null,
       "language": "en",
       "ticker": "SATS",
@@ -47,20 +45,18 @@
         "SATS"
       ],
       "source_quality": "low",
-      "publisher_raw": "minichart",
+      "publisher_raw": "singapore business review",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Minichart",
-        "source_domain": "minichart.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Singapore Business Review",
+        "source_domain": "singaporebusinessreview.com",
         "event_origin": "news",
-        "query_tickers": [
-          "SATS"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.44,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

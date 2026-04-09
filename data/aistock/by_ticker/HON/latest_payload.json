@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "d3c4550e-d371-5e77-bd7f-21b23cfc71e8",
-      "timestamp_utc": "2026-04-04T12:18:18+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/HON/earnings",
-      "title": "HON Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "HON Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "5039ef0e-2462-5bf2-955b-e587a1ed270d",
+      "timestamp_utc": "2026-04-07T22:19:18+00:00",
+      "source": "msn",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPc3ZEdHBsLTZTSlgxWEhHdHlCWWFyVFNQZ2FJakNwa2tUa05OSXdKVk5fb1E2RjItdEd4TXJIa1dIdVJkT3BGa0lud1RzNjMtYlBFdmlETVlmNU16R01qRlZWUDdlLWpqbmJ3dVJDUWNYekFxNldFZnJVbnZMQkxLN09saWJuTmpTY1F2RWV5Mi11NVhSSHNhZmFtZWhKZ0RZNGJIZkoyazJmNkItcUl3NjIwbzExdTVJbGh2OUdyNWI2QTFWWFBLdzVBU0U3ODFYUFVRVG9vRjBzWFdfLWdpVW1haVU0azVtYUdib00xd2VEMklObVBJQjl2RFU2THlvSzV0QzM3Um4xYUhlYmROMElIT2I0TFI5T3h3bTFxT1NqTFVvaGNDc3RlREJ2TFVWbVE?oc=5",
+      "title": "HONEYWELL INTERNATIONAL INCORPORATION (HON) - MSN",
+      "body": "HONEYWELL INTERNATIONAL INCORPORATION (HON) MSN",
       "author": null,
       "language": "en",
       "ticker": "HON",
@@ -15,31 +15,29 @@
         "HON"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "msn",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MSN",
+        "source_domain": "msn.com",
         "event_origin": "news",
-        "query_tickers": [
-          "HON"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.381,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "d3c4550e-d371-5e77-bd7f-21b23cfc71e8",
-      "timestamp_utc": "2026-04-04T12:18:18+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/HON/earnings",
-      "title": "HON Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "HON Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "5039ef0e-2462-5bf2-955b-e587a1ed270d",
+      "timestamp_utc": "2026-04-07T22:19:18+00:00",
+      "source": "msn",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPc3ZEdHBsLTZTSlgxWEhHdHlCWWFyVFNQZ2FJakNwa2tUa05OSXdKVk5fb1E2RjItdEd4TXJIa1dIdVJkT3BGa0lud1RzNjMtYlBFdmlETVlmNU16R01qRlZWUDdlLWpqbmJ3dVJDUWNYekFxNldFZnJVbnZMQkxLN09saWJuTmpTY1F2RWV5Mi11NVhSSHNhZmFtZWhKZ0RZNGJIZkoyazJmNkItcUl3NjIwbzExdTVJbGh2OUdyNWI2QTFWWFBLdzVBU0U3ODFYUFVRVG9vRjBzWFdfLWdpVW1haVU0azVtYUdib00xd2VEMklObVBJQjl2RFU2THlvSzV0QzM3Um4xYUhlYmROMElIT2I0TFI5T3h3bTFxT1NqTFVvaGNDc3RlREJ2TFVWbVE?oc=5",
+      "title": "HONEYWELL INTERNATIONAL INCORPORATION (HON) - MSN",
+      "body": "HONEYWELL INTERNATIONAL INCORPORATION (HON) MSN",
       "author": null,
       "language": "en",
       "ticker": "HON",
@@ -47,20 +45,18 @@
         "HON"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "msn",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MSN",
+        "source_domain": "msn.com",
         "event_origin": "news",
-        "query_tickers": [
-          "HON"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.381,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

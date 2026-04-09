@@ -2,12 +2,39 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "161ad56c-3407-5bb9-8c15-9becf68caee2",
-      "timestamp_utc": "2026-04-03T08:17:49+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-dorato-capital-management-invests-158-million-in-amgen-inc-amgn-2026-04-03/",
-      "title": "Dorato Capital Management Invests $1.58 Million in Amgen Inc. $AMGN - MarketBeat",
-      "body": "Dorato Capital Management Invests $1.58 Million in Amgen Inc. $AMGN MarketBeat",
+      "id": "fb706a5b-87cf-57db-8284-d4510799a9ac",
+      "timestamp_utc": "2026-04-08T12:00:02+00:00",
+      "source": "yahoo_finance",
+      "url": "https://au.finance.yahoo.com/news/amgen-amgn-beats-stock-market-220002400.html",
+      "title": "Amgen (AMGN) Beats Stock Market Upswing: What Investors Need to Know - Yahoo Finance Australia",
+      "body": "Amgen (AMGN) Beats Stock Market Upswing: What Investors Need to Know Yahoo Finance Australia",
+      "author": null,
+      "language": "en",
+      "ticker": "AMGN",
+      "tickers_hint": [
+        "AMGN"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Yahoo Finance Australia",
+        "source_domain": "finance.yahoo.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.6475,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "36a29dfa-72fe-57ee-9924-a7764fe1255b",
+      "timestamp_utc": "2026-04-08T03:39:16+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8781775/amgn-cantor-fitzgerald-reiterates-neutral-rating-with-pt-of-350-amgn-stock-news",
+      "title": "AMGN: Cantor Fitzgerald Reiterates Neutral Rating with PT of $35 - GuruFocus",
+      "body": "AMGN: Cantor Fitzgerald Reiterates Neutral Rating with PT of $35 GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "AMGN",
@@ -15,31 +42,56 @@
         "AMGN"
       ],
       "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "AMGN"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4825,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "161ad56c-3407-5bb9-8c15-9becf68caee2",
-      "timestamp_utc": "2026-04-03T08:17:49+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-dorato-capital-management-invests-158-million-in-amgen-inc-amgn-2026-04-03/",
-      "title": "Dorato Capital Management Invests $1.58 Million in Amgen Inc. $AMGN - MarketBeat",
-      "body": "Dorato Capital Management Invests $1.58 Million in Amgen Inc. $AMGN MarketBeat",
+      "id": "fb706a5b-87cf-57db-8284-d4510799a9ac",
+      "timestamp_utc": "2026-04-08T12:00:02+00:00",
+      "source": "yahoo_finance",
+      "url": "https://au.finance.yahoo.com/news/amgen-amgn-beats-stock-market-220002400.html",
+      "title": "Amgen (AMGN) Beats Stock Market Upswing: What Investors Need to Know - Yahoo Finance Australia",
+      "body": "Amgen (AMGN) Beats Stock Market Upswing: What Investors Need to Know Yahoo Finance Australia",
+      "author": null,
+      "language": "en",
+      "ticker": "AMGN",
+      "tickers_hint": [
+        "AMGN"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Yahoo Finance Australia",
+        "source_domain": "finance.yahoo.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.6475,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "36a29dfa-72fe-57ee-9924-a7764fe1255b",
+      "timestamp_utc": "2026-04-08T03:39:16+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8781775/amgn-cantor-fitzgerald-reiterates-neutral-rating-with-pt-of-350-amgn-stock-news",
+      "title": "AMGN: Cantor Fitzgerald Reiterates Neutral Rating with PT of $35 - GuruFocus",
+      "body": "AMGN: Cantor Fitzgerald Reiterates Neutral Rating with PT of $35 GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "AMGN",
@@ -47,20 +99,18 @@
         "AMGN"
       ],
       "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "AMGN"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4825,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

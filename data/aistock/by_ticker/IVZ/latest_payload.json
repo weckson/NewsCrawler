@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "85db7a4b-cc41-5ef3-97cf-8e101817b288",
-      "timestamp_utc": "2026-04-01T06:18:45+00:00",
+      "id": "35d178ee-11a8-56a9-9c96-6329e2111213",
+      "timestamp_utc": "2026-04-07T08:41:59+00:00",
       "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8765083/ivz-morgan-stanley-lowers-price-target-to-2600-maintains-equalweight-rating-ivz-stock-news?mobile=true",
-      "title": "IVZ: Morgan Stanley Lowers Price Target to $26.00, Maintains Equ - GuruFocus",
-      "body": "IVZ: Morgan Stanley Lowers Price Target to $26.00, Maintains Equ GuruFocus",
+      "url": "https://www.gurufocus.com/news/8779589/goldman-sachs-maintains-neutral-rating-on-ivz-lowers-price-target-to-27-ivz-stock-news",
+      "title": "Goldman Sachs Maintains Neutral Rating on IVZ, Lowers Price Targ - GuruFocus",
+      "body": "Goldman Sachs Maintains Neutral Rating on IVZ, Lowers Price Targ GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "IVZ",
@@ -16,59 +16,28 @@
       ],
       "source_quality": "low",
       "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "GuruFocus",
         "source_domain": "gurufocus.com",
-        "trust_tier": 1,
+        "event_origin": "news",
         "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "IVZ"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "22155f42-cbcf-54e8-8cce-2bf4f5244911",
-      "timestamp_utc": "2026-04-01T03:57:30+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/IVZ/earnings",
-      "title": "IVZ Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "IVZ Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
-      "author": null,
-      "language": "en",
-      "ticker": "IVZ",
-      "tickers_hint": [
-        "IVZ"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "intellectia ai",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "IVZ"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.4175,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "85db7a4b-cc41-5ef3-97cf-8e101817b288",
-      "timestamp_utc": "2026-04-01T06:18:45+00:00",
+      "id": "35d178ee-11a8-56a9-9c96-6329e2111213",
+      "timestamp_utc": "2026-04-07T08:41:59+00:00",
       "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8765083/ivz-morgan-stanley-lowers-price-target-to-2600-maintains-equalweight-rating-ivz-stock-news?mobile=true",
-      "title": "IVZ: Morgan Stanley Lowers Price Target to $26.00, Maintains Equ - GuruFocus",
-      "body": "IVZ: Morgan Stanley Lowers Price Target to $26.00, Maintains Equ GuruFocus",
+      "url": "https://www.gurufocus.com/news/8779589/goldman-sachs-maintains-neutral-rating-on-ivz-lowers-price-target-to-27-ivz-stock-news",
+      "title": "Goldman Sachs Maintains Neutral Rating on IVZ, Lowers Price Targ - GuruFocus",
+      "body": "Goldman Sachs Maintains Neutral Rating on IVZ, Lowers Price Targ GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "IVZ",
@@ -77,48 +46,17 @@
       ],
       "source_quality": "low",
       "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "GuruFocus",
         "source_domain": "gurufocus.com",
-        "trust_tier": 1,
+        "event_origin": "news",
         "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "IVZ"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "22155f42-cbcf-54e8-8cce-2bf4f5244911",
-      "timestamp_utc": "2026-04-01T03:57:30+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/IVZ/earnings",
-      "title": "IVZ Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "IVZ Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
-      "author": null,
-      "language": "en",
-      "ticker": "IVZ",
-      "tickers_hint": [
-        "IVZ"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "intellectia ai",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "IVZ"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.4175,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

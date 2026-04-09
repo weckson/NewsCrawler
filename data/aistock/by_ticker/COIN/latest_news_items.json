@@ -1,11 +1,11 @@
 [
   {
-    "id": "1f394456-2a7a-52b2-abfb-641da21e37d0",
-    "timestamp_utc": "2026-03-31T06:31:19+00:00",
-    "source": "seeking_alpha",
-    "url": "https://seekingalpha.com/news/4570799-sa-analyst-upgrades-downgrades-aapl-cop-nbr-coin",
-    "title": "SA analyst upgrades/downgrades: AAPL, COP, NBR, COIN - Seeking Alpha",
-    "body": "Analyst Juxtaposed Ideas believes Apple’s (AAPL) resilient ecosystem and recent price moderation warrant an upgrade, while Danil Sereda has issued his first “Buy” rating on Coinbase (COIN) due to its expanding revenue base. Conversely, geopolitical volatility in the Middle",
+    "id": "d69cfe9b-84bd-5d64-910f-5d70cb17255b",
+    "timestamp_utc": "2026-04-08T05:50:54+00:00",
+    "source": "tipranks",
+    "url": "https://www.tipranks.com/news/barclays-downgrades-coinbase-global-stock-coin-to-sell-says-decline-in-volumes-will-weigh-on-profitability",
+    "title": "Barclays Downgrades Coinbase Global Stock (COIN) to Sell, Says ‘Decline in Volumes Will Weigh on Profitability’ - TipRanks",
+    "body": "Barclays Downgrades Coinbase Global Stock (COIN) to Sell, Says ‘Decline in Volumes Will Weigh on Profitability’ TipRanks",
     "author": null,
     "language": "en",
     "ticker": "COIN",
@@ -13,57 +13,26 @@
       "COIN"
     ],
     "source_quality": "high",
-    "publisher_raw": "seekingalpha.com",
+    "publisher_raw": "tipranks.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Seeking Alpha",
-      "source_domain": "seekingalpha.com",
-      "trust_tier": 3,
-      "relevance": 0.65,
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
       "event_origin": "news",
-      "query_tickers": [
-        "COIN"
-      ],
-      "body_kind": "article_text"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6,
+      "quality_score": 0.69,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "18e5d061-3f73-5ccf-a597-f651359cc8cc",
-    "timestamp_utc": "2026-03-31T12:21:19+00:00",
-    "source": "yahoo_finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/coinbase-coin-stock-trades-why-222119489.html",
-    "title": "Coinbase (COIN) Stock Trades Up, Here Is Why - Yahoo Finance",
-    "body": "Coinbase (COIN) Stock Trades Up, Here Is Why Yahoo Finance",
-    "author": null,
-    "language": "en",
-    "ticker": "COIN",
-    "tickers_hint": [
-      "COIN"
-    ],
-    "source_quality": "high",
-    "publisher_raw": "finance.yahoo.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance",
-      "source_domain": "finance.yahoo.com",
-      "trust_tier": 3,
-      "relevance": 0.6000000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "COIN"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "afe1c4ae-30df-53e3-8ee5-65232d57e962",
-    "timestamp_utc": "2026-04-01T05:04:29+00:00",
-    "source": "mexc",
-    "url": "https://www.mexc.com/news/997475",
-    "title": "Coinbase (COIN) Stock Bounces Hard Despite CFO Dumping $56M Worth - MEXC",
-    "body": "Coinbase (COIN) Stock Bounces Hard Despite CFO Dumping $56M Worth MEXC",
+    "id": "a2f47c95-846d-5e33-929f-42e38cd44d2e",
+    "timestamp_utc": "2026-04-08T04:23:58+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8781735/coinbase-global-coin-receives-downgrade-from-barclays-coin-stock-news?mobile=true",
+    "title": "Coinbase Global (COIN) Receives Downgrade from Barclays | COIN S - GuruFocus",
+    "body": "Coinbase Global (COIN) Receives Downgrade from Barclays | COIN S GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "COIN",
@@ -71,28 +40,26 @@
       "COIN"
     ],
     "source_quality": "low",
-    "publisher_raw": "mexc",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "MEXC",
-      "source_domain": "mexc.com",
-      "trust_tier": 1,
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "event_origin": "news",
       "relevance": 0.6500000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "COIN"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.4625,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "8b0564ce-1df4-5fd3-bad1-855138e51ae6",
-    "timestamp_utc": "2026-04-01T03:58:32+00:00",
-    "source": "coingape",
-    "url": "https://coingape.com/markets/crcl-bmnr-coin-mstr-stocks-rise-what-analysts-predict-next/",
-    "title": "CRCL, BMNR, COIN, MSTR Stocks Rise, What Analysts Predict Next? - CoinGape",
-    "body": "CRCL, BMNR, COIN, MSTR Stocks Rise, What Analysts Predict Next? CoinGape",
+    "id": "b7af7e4d-44a0-5e5e-a14f-1875756c6aa5",
+    "timestamp_utc": "2026-04-08T02:11:29+00:00",
+    "source": "intellectia_ai",
+    "url": "https://intellectia.ai/blog/crypto-stocks-mstr-coin-crcl-analysis-april-2026",
+    "title": "Crypto Stocks Analysis: MSTR COIN CRCL Rally Despite Geopolitical Tensions - Intellectia AI",
+    "body": "Crypto stocks have demonstrated remarkable resilience in April 2026, with Strategy (MSTR), Coinbase (COIN), and Circle (CRCL) all posting significant gains despite escalating geopolitical tensions surrounding the Iran war and the recent Bitcoin halving event. Strategy continues its aggressive Bitcoin accumulation strategy, purchasing an additional 4,871 BTC in early April for approximately $329.9 million, bringing total holdings to 766,970 Bitcoin. Coinbase is riding a wave of institutional adoption with Q1 2026 revenue expectations showing 42% year-over-year growth to $1.84 billion. Meanwhile, Circle Internet Group is capitalizing on the trillion-dollar stablecoin opportunity, reporting 64% revenue growth to $2.7 billion driven by USDC's expanding $78 billion market share.\n\nThis divergence between crypto equity performance and traditional risk-off sentiment highlights the maturation of digital asset infrastructure and growing institutional conviction in blockchain technology's long-term value proposition. While macro headwinds including the Iran war's impact on oil prices and persistent inflation concerns have pressured broader markets, crypto stocks are benefiting from structural tailwinds including potential 401(k) crypto investment approvals, the landmark Genius Act providing regulatory clarity for stablecoins, and the post-halving supply dynamics that historically precede significant Bitcoin price appreciation.",
     "author": null,
     "language": "en",
     "ticker": "COIN",
@@ -100,19 +67,71 @@
       "COIN"
     ],
     "source_quality": "low",
-    "publisher_raw": "coingape",
+    "publisher_raw": "intellectia ai",
+    "trust_tier": 1,
+    "body_kind": "article_text",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "CoinGape",
-      "source_domain": "coingape.com",
-      "trust_tier": 1,
-      "relevance": 0.6000000000000001,
+      "source_name": "Intellectia AI",
+      "source_domain": "intellectiaai.com",
       "event_origin": "news",
-      "query_tickers": [
-        "COIN"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4375,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "8934b381-2d9e-55c8-9021-45f26083fd2c",
+    "timestamp_utc": "2026-04-08T01:31:55+00:00",
+    "source": "coinpaper",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcWRMd01zZjJiVlNSNHhYVEczcUt0RTZ4YW1ERWt0RkdRdHRoUF9WZVU3M212MXJES1JwT2pSRUZHcFBkdHhXbXRTUFUtamlWVjhQTFdIWFR3ZWxIUGxYWDFYcnlTbEdjbHpYbFh4Sk9Vb1VhOERCaEZzVHpfVXlfMlBsX08xTkU?oc=5",
+    "title": "COIN Stock Holds Gains as Coinbase Targets Australia - Coinpaper",
+    "body": "COIN Stock Holds Gains as Coinbase Targets Australia Coinpaper",
+    "author": null,
+    "language": "en",
+    "ticker": "COIN",
+    "tickers_hint": [
+      "COIN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "coinpaper",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Coinpaper",
+      "source_domain": "coinpaper.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.41,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "6c3dedd2-6568-5d6d-bb78-c0b8dfd0879b",
+    "timestamp_utc": "2026-04-07T23:05:07+00:00",
+    "source": "stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVy04MVk0LVNZVVJRUVh4VkQzLVhiWU4tMDBseHh6YXJfUGxsZmZpYTNPazFDWmtUMTAzTVpJa1BjVnVxei1IMXliSFNJNGJjVjEwb09tOWdfR3hMVVZuMXpoRVJWdUpWWVNVWm1KeWViM3Z5VlVNblh4OHZoRjBOaVNzeThTaHFwZTVaU3M4b0Y4V0U4aHNzZ2RiQXdzUlhnanJXMFI5VXZsY2xKOENkZ2hXbklXdmVuM1J5SzAyVExoYXJOREVuWVZ5T2Q2MnFnWHU1cng0akdSREE?oc=5",
+    "title": "MSTR, GLXY, COIN, ASST Stocks Jump Pre-Market After Trump Agrees To Iran Ceasefire - Stocktwits",
+    "body": "MSTR, GLXY, COIN, ASST Stocks Jump Pre-Market After Trump Agrees To Iran Ceasefire Stocktwits",
+    "author": null,
+    "language": "en",
+    "ticker": "COIN",
+    "tickers_hint": [
+      "COIN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stocktwits",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Stocktwits",
+      "source_domain": "stocktwits.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.405,
+      "_channel": "google_broad"
+    }
   }
 ]

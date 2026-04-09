@@ -1,11 +1,11 @@
 [
   {
-    "id": "661ff3e4-1134-5282-bad4-b5798777e5cf",
-    "timestamp_utc": "2026-04-01T10:26:15+00:00",
-    "source": "gurufocus",
-    "url": "https://www.gurufocus.com/news/8765456/wells-fargo-initiates-coverage-on-ldos-with-equalweight-rating-ldos-stock-news?mobile=true",
-    "title": "Wells Fargo Initiates Coverage on LDOS with Equal-Weight Rating - GuruFocus",
-    "body": "Wells Fargo Initiates Coverage on LDOS with Equal-Weight Rating GuruFocus",
+    "id": "e23c9083-c425-5631-9306-aaf14fd154bd",
+    "timestamp_utc": "2026-04-07T09:08:02+00:00",
+    "source": "stock_traders_daily",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT3pYeUU4aTdJeFlCOC1IWnpPRUtNaHdlTGMyQXEzbkxxSWlRakx6d2drbHBFYW1fOHAyS1B3QjFaSU9aR2JlWXY2X2VScmNDZHMtVHoxajkwSE9mLXVMMDFvMVh6RTdKNWJRTXpVXzRIOTd6aWpfd29XTXp4UG5qY0hLX0NGX0Zfd2JhaTlwNkFCSjJwckMxa2ROb3BwN244YmJ2ZjVRU0l3d1BhclZKQ1ZFeFBId25C?oc=5",
+    "title": "Understanding Momentum Shifts in (LDOS) - Stock Traders Daily",
+    "body": "Understanding Momentum Shifts in (LDOS) Stock Traders Daily",
     "author": null,
     "language": "en",
     "ticker": "LDOS",
@@ -13,19 +13,17 @@
       "LDOS"
     ],
     "source_quality": "low",
-    "publisher_raw": "gurufocus.com",
+    "publisher_raw": "stock traders daily",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "GuruFocus",
-      "source_domain": "gurufocus.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
+      "source_name": "Stock Traders Daily",
+      "source_domain": "stocktradersdaily.com",
       "event_origin": "news",
-      "query_tickers": [
-        "LDOS"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.381,
+      "_channel": "google_broad"
+    }
   }
 ]

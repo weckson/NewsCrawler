@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "c7d41a22-68a7-5cb8-b293-058abd5ad3c9",
-      "timestamp_utc": "2026-04-03T05:24:48+00:00",
-      "source": "yahoo_finance_uk",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LSTR5c1ZpUWtRaTdLczlHSW5sNklkNGtPS2RmU2d0a0JuN0FRcDlzUmFwVXI5NnhyRHlyOEdtYVJDM2xHSWtiY3p6ZzU5dTd5?oc=5",
-      "title": "Waters Corporation (WAT) stock price, news, quote and history - Yahoo Finance UK",
-      "body": "Waters Corporation (WAT) stock price, news, quote and history Yahoo Finance UK",
+      "id": "62dcf4bb-8d73-58f1-a757-859f54ba506f",
+      "timestamp_utc": "2026-04-06T02:58:17+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/waters-nysewat-stock-rating-upgraded-by-evercore-2026-04-06/",
+      "title": "Waters (NYSE:WAT) Stock Rating Upgraded by Evercore - MarketBeat",
+      "body": "Waters (NYSE:WAT) Stock Rating Upgraded by Evercore MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "WAT",
@@ -15,35 +15,29 @@
         "WAT"
       ],
       "source_quality": "low",
-      "publisher_raw": "yahoo finance uk",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance UK",
-        "source_domain": "yahoofinanceuk.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "WAT"
-        ],
-        "alt_sources": [
-          "Yahoo! Finance Canada",
-          "Yahoo Finance UK"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.65,
+        "quality_score": 0.4775,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "c7d41a22-68a7-5cb8-b293-058abd5ad3c9",
-      "timestamp_utc": "2026-04-03T05:24:48+00:00",
-      "source": "yahoo_finance_uk",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LSTR5c1ZpUWtRaTdLczlHSW5sNklkNGtPS2RmU2d0a0JuN0FRcDlzUmFwVXI5NnhyRHlyOEdtYVJDM2xHSWtiY3p6ZzU5dTd5?oc=5",
-      "title": "Waters Corporation (WAT) stock price, news, quote and history - Yahoo Finance UK",
-      "body": "Waters Corporation (WAT) stock price, news, quote and history Yahoo Finance UK",
+      "id": "62dcf4bb-8d73-58f1-a757-859f54ba506f",
+      "timestamp_utc": "2026-04-06T02:58:17+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/waters-nysewat-stock-rating-upgraded-by-evercore-2026-04-06/",
+      "title": "Waters (NYSE:WAT) Stock Rating Upgraded by Evercore - MarketBeat",
+      "body": "Waters (NYSE:WAT) Stock Rating Upgraded by Evercore MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "WAT",
@@ -51,24 +45,18 @@
         "WAT"
       ],
       "source_quality": "low",
-      "publisher_raw": "yahoo finance uk",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance UK",
-        "source_domain": "yahoofinanceuk.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "WAT"
-        ],
-        "alt_sources": [
-          "Yahoo! Finance Canada",
-          "Yahoo Finance UK"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.65,
+        "quality_score": 0.4775,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

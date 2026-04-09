@@ -1,36 +1,29 @@
 [
   {
-    "id": "0b8d8882-83a0-5c22-a001-5dc226670b86",
-    "timestamp_utc": "2026-03-31T07:39:43+00:00",
-    "source": "benzinga",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaHR1dUpseENxTktYTWFXVHVLVDhVTkU3WG1VckFyS1JqWFVMYl9kRnNWXy1PUF9EQnNXb3kwclJaalVCcXJLVGNnY05adEpEX0dqb0J2Z1hTS2FVRGhTZFFwV2tBMldaZi0yQkxmc3M2YWt2VUxBRlJzWk1XekZFeGF2TnNMei05LVBKRF9lcVRWbUVWN1J0WnBTdUM5dzRfNXFkS1JYUm5XaGxXRElR?oc=5",
-    "title": "Industrials Post Worst Month Since 2022 – History Says Buy The Dip - A.O. Smith (NYSE:AOS), Axon Enterpri - Benzinga",
-    "body": "Industrials Post Worst Month Since 2022 – History Says Buy The Dip - A.O. Smith (NYSE:AOS), Axon Enterpri Benzinga",
+    "id": "447b2df3-5a81-5560-9af3-3d4f2f3e3021",
+    "timestamp_utc": "2026-04-07T05:11:08+00:00",
+    "source": "gurufocus",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM0JhRURUN2dUeXZNaFY5OG0tTVhQQlBtY2MtbGs0c0FPcENLTWw1ams3NExqSVdxbnNKSi0tblRLV0FNam5mOTIyWklteXVmeXNkZDlYM3NTamNrNV8wUTZ3UUlfYW9XTmNXMEtuOHY1V29CcFpSNVE4TlZUdFFzRkh3N2pobHd5Q184dFRTTGFoTElPdGFfYWxtS0g3eURjNDkwVmktM1RjOU5HbXBqTGVreWJXRGNGcXhWSmN5NA?oc=5",
+    "title": "MEX:AOS PB Ratio: 5.58 — Near Median - GuruFocus",
+    "body": "MEX:AOS PB Ratio: 5.58 — Near Median GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "AOS",
     "tickers_hint": [
-      "AOS",
-      "AXON"
+      "AOS"
     ],
-    "source_quality": "high",
-    "publisher_raw": "benzinga.com",
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_benzinga",
-      "source_name": "Benzinga",
-      "source_domain": "benzinga.com",
-      "trust_tier": 3,
-      "relevance": 0.5,
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
       "event_origin": "news",
-      "query_tickers": [
-        "AOS",
-        "AXON"
-      ],
-      "alt_sources": [
-        "Benzinga"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.381,
+      "_channel": "google_broad"
+    }
   }
 ]

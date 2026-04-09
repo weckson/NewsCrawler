@@ -1,11 +1,11 @@
 [
   {
-    "id": "5c306a55-f1f2-5ac5-80a7-b629ecb3082a",
-    "timestamp_utc": "2026-04-01T04:07:19+00:00",
+    "id": "b7996f71-6378-5aaa-bf54-b40981e291dc",
+    "timestamp_utc": "2026-04-08T23:21:50+00:00",
     "source": "benzinga",
-    "url": "https://www.benzinga.com/trading-ideas/short-ideas/26/04/51599916/aviat-networks-melting-ice-cube-short-report-alleges-company-not-generating-the-earnings-it-reports",
-    "title": "Aviat Networks 'Melting Ice Cube': Short Report Alleges Company 'Not Generating The Earnings It Reports' - Benzinga",
-    "body": "Aviat Networks 'Melting Ice Cube': Short Report Alleges Company 'Not Generating The Earnings It Reports' Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOanROLUNaQTh0TTlLQkxGSm1OLU5lc0RFaldSYm91RVIzbWpqUENVQVhGZUppMjAzbFYwWXJISmhhR2M4S0VMYnV2MUxUNEZJOENaWXJNWTNSY1ZRYldjV1MtRUV6Y3BfZ3RnM1VDVWpCSFpnMEdkZGNKX0FDWEVjcWtqbzVmcGVLNUdXZGloeEcxOVdweHByZmlXbGVjMjVMSWI5YnFYN1ZjWHJKYzNrU1NlSTIyUE82LUdLNWRMc25pWlAxbmNkajd4ZUdRMkhyR3VVZkhUdFFUX2hBRkl1bEZ3?oc=5",
+    "title": "IPIA Reacts to New Study Confirming Urgent Need for Oversight of Water and Ice Vending Kiosks - Benzinga - Benzinga",
+    "body": "IPIA Reacts to New Study Confirming Urgent Need for Oversight of Water and Ice Vending Kiosks - Benzinga Benzinga",
     "author": null,
     "language": "en",
     "ticker": "ICE",
@@ -14,18 +14,73 @@
     ],
     "source_quality": "high",
     "publisher_raw": "benzinga.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "Benzinga",
       "source_domain": "benzinga.com",
-      "trust_tier": 3,
-      "relevance": 0.6,
       "event_origin": "news",
-      "query_tickers": [
-        "ICE"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.665,
+      "_channel": "google_benzinga",
+      "_alt_sources": [
+        "Benzinga"
+      ]
+    }
+  },
+  {
+    "id": "3a1e3efa-ec5a-563a-ba72-e60dcd6703ba",
+    "timestamp_utc": "2026-04-08T04:03:45+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8781734/ice-receives-outperform-rating-and-190-pt-from-kbw-ice-stock-news?mobile=true",
+    "title": "ICE Receives 'Outperform' Rating and $190 PT from KBW | ICE Stoc - GuruFocus",
+    "body": "ICE Receives 'Outperform' Rating and $190 PT from KBW | ICE Stoc GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "ICE",
+    "tickers_hint": [
+      "ICE"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.5075,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "ac6e0d3a-85bb-5b39-949d-626e563aa44d",
+    "timestamp_utc": "2026-04-08T08:22:30+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8782158/barclays-raises-price-target-for-ice-to-198-maintains-overweight-rating-ice-stock-news?mobile=true",
+    "title": "Barclays Raises Price Target for ICE to $198, Maintains Overweig - GuruFocus",
+    "body": "Barclays Raises Price Target for ICE to $198, Maintains Overweig GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "ICE",
+    "tickers_hint": [
+      "ICE"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4675,
+      "_channel": "google_broad"
+    }
   }
 ]

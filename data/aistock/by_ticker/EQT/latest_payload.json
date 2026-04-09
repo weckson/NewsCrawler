@@ -2,73 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "b11e094a-f188-5bf9-adad-1ca64061a604",
-      "timestamp_utc": "2026-04-01T10:45:52+00:00",
-      "source": "benzinga",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeExzcnJjRExYbS1DOEQ4MWNsczF5WlZ6cXRMUzVOUWRYU2U2cURZY2tsX01qckNiZmhyY1hpNDNmMC14NmRsT19VanpPQk1YQWE5ci1LQzB5TElkNWVMMzYxTm9mYjhzMDZTMGhYUFJSMU1CZkhIOGYzek93UTVRbHVqcDdQUldubGhvWnU1ZGtWUVpxN2s5bG42YnFxYmQ3SEdSRHlrS1ZEODMzOUliUHlIZ3VYbkhmR3B4amFn?oc=5",
-      "title": "Here's How Much $100 Invested In EQT 5 Years Ago Would Be Worth Today - Benzinga",
-      "body": "Here's How Much $100 Invested In EQT 5 Years Ago Would Be Worth Today Benzinga",
-      "author": null,
-      "language": "en",
-      "ticker": "EQT",
-      "tickers_hint": [
-        "EQT"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "benzinga.com",
-      "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "EQT"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "8244fae1-0224-5681-b1ff-b6a157d2a561",
-      "timestamp_utc": "2026-04-01T10:30:00+00:00",
-      "source": "marketwatch",
-      "url": "https://www.marketwatch.com/data-news/eqt-corp-stock-underperforms-wednesday-when-compared-to-competitors-10c1a6ec-1295a05d4a7b?gaa_at=eafs&gaa_n=AWEtsqcQhpDB_eupdt4U5Sxa4Fv_6jWwRVAyfd83fcgko4IHsx8LJe_jPi6L&gaa_ts=69cdf43e&gaa_sig=ex68HQNUWQkrDX2MXFxdW0iMtPzu-wpHv2RxyGXeEPbM6r0Nzv8F-NjFZCUigXrKwhK9IsL1Hw-tsiTaOdcenA%3D%3D",
-      "title": "EQT Corp. stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "body": "EQT Corp. stock underperforms Wednesday when compared to competitors MarketWatch",
-      "author": null,
-      "language": "en",
-      "ticker": "EQT",
-      "tickers_hint": [
-        "EQT"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "marketwatch.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketWatch",
-        "source_domain": "marketwatch.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "EQT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "20414b4a-af4e-5fd7-92be-103433822558",
-      "timestamp_utc": "2026-03-31T11:51:30+00:00",
+      "id": "8ffb046c-d5d9-5102-a382-fef966d95806",
+      "timestamp_utc": "2026-04-07T22:08:14+00:00",
       "source": "tipranks",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNlVkUGZRa1lIaktRSDNvbEE1azI5cjI0RGpJdG5GQ0RxMEUxUnhDZ0tDRUVnTXBWNThjNnpFVE0yYzUxVUtJcFZPSV9TNHluUVhQSmU2bUZENktGYVFhMUVaWUV5c1ZRMExLVlBuZzlPTjV0ZGNUbjZnVDlXWXE4VU1qXzhTdFpBaVNmWE5sblVzUUZmckRzSlh6dGR2bFFOSXk5VjVfbHNDSzM1NzliR3VGcDJtUE01Ynp1d1JEUDFJQUpSNU1ueWVBMA?oc=5",
-      "title": "EQT boosts voting rights through conversion of class C shares to ordinary stock - TipRanks",
-      "body": "EQT boosts voting rights through conversion of class C shares to ordinary stock TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbF9KQXlKaThYZzBXSFdZTXktanRwRnFNVWZRaEdHcHVpSHZ5N0NPSkRlTXJPNjlkSkd0V3RWb2Z2SFgxZDdWZGNMOU80M1RFQldWaTlTSXJoZ1ZQM3k3TEtHTFZZd2RSVzZtVjhnWUNycGZNRE5IRjZaVFBYVlZuRVdTX3hCR2JMeGdn?oc=5",
+      "title": "Why EQT Stock Is Sinking Despite a Debt Move - TipRanks",
+      "body": "Why EQT Stock Is Sinking Despite a Debt Move TipRanks",
       "author": null,
       "language": "en",
       "ticker": "EQT",
@@ -77,88 +16,25 @@
       ],
       "source_quality": "high",
       "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "TipRanks",
         "source_domain": "tipranks.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
         "event_origin": "news",
-        "query_tickers": [
-          "EQT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.591,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "ef1a3661-1526-5e3f-b2db-89c8e9545281",
-      "timestamp_utc": "2026-04-01T06:51:03+00:00",
-      "source": "tradingview",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVFBJckRZTk9DUWpiUWxFTDJRM0szbG5vVXdMd2JDajFWbEx5eEtkZklFN3ZmWXY5NDdqb2l5eFBNdHdyaXhtNmExVVNCZFZ5VjRMeTJTTmRsRVVjMFQ0ODA0YkZMbFVLR3VpdGc1UUt3MGlFWFhyOHkxczJCZkRnakVYUDBOX2tUcGVReXc3aTZUaWtaenl0anZtQzJOaW5JVUVycnhnQ2l1aXVnRmliaHFCOUZmTXlySDBTYVoxZE1JT1l5Q1VJWWYwbUZqZ0x0MENxUEFuZVprZnVBNUEzd3p2RDJsWVdZd2xwaUc3SXJMNnZaRVVpRWdJLUg0NEU?oc=5",
-      "title": "Magnolia Oil & Gas, EQT, Helmerich & Payne, Green Plains, and Clean Energy Fuels Shares Plummet, What You Need To Know - TradingView",
-      "body": "Magnolia Oil & Gas, EQT, Helmerich & Payne, Green Plains, and Clean Energy Fuels Shares Plummet, What You Need To Know TradingView",
-      "author": null,
-      "language": "en",
-      "ticker": "EQT",
-      "tickers_hint": [
-        "EQT"
-      ],
-      "source_quality": "medium",
-      "publisher_raw": "tradingview.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "TradingView",
-        "source_domain": "tradingview.com",
-        "trust_tier": 2,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "EQT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "6cf6bed0-17ca-5beb-8559-11b249e12542",
-      "timestamp_utc": "2026-04-01T06:25:00+00:00",
-      "source": "tradingview",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSEZybTRJRjAzcDNWNlQzWGhpUGJQeE1oWDhmRWRTQ2NnX250SzBqSGFYNGhSZ2pvTTY4R3ZqaWJsMloxVlB5WlpOMy1zUHNSS016MmdxWWVrdXpDbGNKLXVwUy00cHJ6Uk42b3ZLdnFrR0RIY09ZX1hORFc3MWxFc2oxVVB0eE1yQWs4ZUkzM29VcVFfYTZHQmswcXZCNGlUV3pBVzVuRFF1TkllanlIWndSNVUtZy0yanc?oc=5",
-      "title": "Is EQT Well-Positioned to Gain on Mounting Clean Energy Demand? - TradingView",
-      "body": "Is EQT Well-Positioned to Gain on Mounting Clean Energy Demand? TradingView",
-      "author": null,
-      "language": "en",
-      "ticker": "EQT",
-      "tickers_hint": [
-        "EQT"
-      ],
-      "source_quality": "medium",
-      "publisher_raw": "tradingview.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "TradingView",
-        "source_domain": "tradingview.com",
-        "trust_tier": 2,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "EQT"
-        ],
-        "alt_sources": [
-          "TradingView"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "8d054721-d0d3-5502-b4f9-2cd7c2652fae",
-      "timestamp_utc": "2026-04-01T06:01:16+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/eqt-nyseeqt-stock-price-expected-to-rise-stephens-analyst-says-2026-04-01/",
-      "title": "EQT (NYSE:EQT) Stock Price Expected to Rise, Stephens Analyst Says - MarketBeat",
-      "body": "EQT (NYSE:EQT) Stock Price Expected to Rise, Stephens Analyst Says MarketBeat",
+      "id": "0d5937fe-b4a1-5392-9065-ede84ee13925",
+      "timestamp_utc": "2026-04-08T22:53:06+00:00",
+      "source": "stockstory",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN3JYRXR5SV9ENHdNaW5QdzVtVnQ0SkhVMUQyNEViTGZhZjBPYl9KMFR4dWhWVEtvSXFhZG9GNlhCVF9tVU1EZWVJS0hNSnNISnByUTBtUGI0SHFqOVBCRmVpb2s4RWttZFVwVzZJbDd3Q3htbi1aQmJhX2VmenNReUxadk1rMHFwTC1SaERtUWFfcVJ0Wk82SQ?oc=5",
+      "title": "3 Reasons Investors Love EQT (EQT) - StockStory",
+      "body": "3 Reasons Investors Love EQT (EQT) StockStory",
       "author": null,
       "language": "en",
       "ticker": "EQT",
@@ -166,121 +42,29 @@
         "EQT"
       ],
       "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "publisher_raw": "stockstory",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.7000000000000001,
+        "source_name": "StockStory",
+        "source_domain": "stockstory.com",
         "event_origin": "news",
-        "query_tickers": [
-          "EQT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "a48d1e2e-fddb-5414-b973-caae300569e4",
-      "timestamp_utc": "2026-03-31T06:31:13+00:00",
-      "source": "marketscreener",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRWUxQzVlQ25SZWttZGkydGNjaGxmUERHNXRoNDQzazdfVmg0Mkdxb09rOWJEMjJOQzRoc0ozY3doTUlJay1HMEczdlFZS1pTZ011dHJscjZ0UE82c1VsVUlVWHdXejBWdllRZm5iZXY5MXBLWEMwRHQtVTFrRHBEbVVWM2lPcmJQLTEySC1kUQ?oc=5",
-      "title": "Number of shares and votes in EQT - MarketScreener",
-      "body": "Number of shares and votes in EQT MarketScreener",
-      "author": null,
-      "language": "en",
-      "ticker": "EQT",
-      "tickers_hint": [
-        "EQT"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "marketscreener",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketScreener",
-        "source_domain": "marketscreener.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "EQT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.437,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "b11e094a-f188-5bf9-adad-1ca64061a604",
-      "timestamp_utc": "2026-04-01T10:45:52+00:00",
-      "source": "benzinga",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeExzcnJjRExYbS1DOEQ4MWNsczF5WlZ6cXRMUzVOUWRYU2U2cURZY2tsX01qckNiZmhyY1hpNDNmMC14NmRsT19VanpPQk1YQWE5ci1LQzB5TElkNWVMMzYxTm9mYjhzMDZTMGhYUFJSMU1CZkhIOGYzek93UTVRbHVqcDdQUldubGhvWnU1ZGtWUVpxN2s5bG42YnFxYmQ3SEdSRHlrS1ZEODMzOUliUHlIZ3VYbkhmR3B4amFn?oc=5",
-      "title": "Here's How Much $100 Invested In EQT 5 Years Ago Would Be Worth Today - Benzinga",
-      "body": "Here's How Much $100 Invested In EQT 5 Years Ago Would Be Worth Today Benzinga",
-      "author": null,
-      "language": "en",
-      "ticker": "EQT",
-      "tickers_hint": [
-        "EQT"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "benzinga.com",
-      "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "EQT"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "8244fae1-0224-5681-b1ff-b6a157d2a561",
-      "timestamp_utc": "2026-04-01T10:30:00+00:00",
-      "source": "marketwatch",
-      "url": "https://www.marketwatch.com/data-news/eqt-corp-stock-underperforms-wednesday-when-compared-to-competitors-10c1a6ec-1295a05d4a7b?gaa_at=eafs&gaa_n=AWEtsqcQhpDB_eupdt4U5Sxa4Fv_6jWwRVAyfd83fcgko4IHsx8LJe_jPi6L&gaa_ts=69cdf43e&gaa_sig=ex68HQNUWQkrDX2MXFxdW0iMtPzu-wpHv2RxyGXeEPbM6r0Nzv8F-NjFZCUigXrKwhK9IsL1Hw-tsiTaOdcenA%3D%3D",
-      "title": "EQT Corp. stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "body": "EQT Corp. stock underperforms Wednesday when compared to competitors MarketWatch",
-      "author": null,
-      "language": "en",
-      "ticker": "EQT",
-      "tickers_hint": [
-        "EQT"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "marketwatch.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketWatch",
-        "source_domain": "marketwatch.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "EQT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "20414b4a-af4e-5fd7-92be-103433822558",
-      "timestamp_utc": "2026-03-31T11:51:30+00:00",
+      "id": "8ffb046c-d5d9-5102-a382-fef966d95806",
+      "timestamp_utc": "2026-04-07T22:08:14+00:00",
       "source": "tipranks",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNlVkUGZRa1lIaktRSDNvbEE1azI5cjI0RGpJdG5GQ0RxMEUxUnhDZ0tDRUVnTXBWNThjNnpFVE0yYzUxVUtJcFZPSV9TNHluUVhQSmU2bUZENktGYVFhMUVaWUV5c1ZRMExLVlBuZzlPTjV0ZGNUbjZnVDlXWXE4VU1qXzhTdFpBaVNmWE5sblVzUUZmckRzSlh6dGR2bFFOSXk5VjVfbHNDSzM1NzliR3VGcDJtUE01Ynp1d1JEUDFJQUpSNU1ueWVBMA?oc=5",
-      "title": "EQT boosts voting rights through conversion of class C shares to ordinary stock - TipRanks",
-      "body": "EQT boosts voting rights through conversion of class C shares to ordinary stock TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbF9KQXlKaThYZzBXSFdZTXktanRwRnFNVWZRaEdHcHVpSHZ5N0NPSkRlTXJPNjlkSkd0V3RWb2Z2SFgxZDdWZGNMOU80M1RFQldWaTlTSXJoZ1ZQM3k3TEtHTFZZd2RSVzZtVjhnWUNycGZNRE5IRjZaVFBYVlZuRVdTX3hCR2JMeGdn?oc=5",
+      "title": "Why EQT Stock Is Sinking Despite a Debt Move - TipRanks",
+      "body": "Why EQT Stock Is Sinking Despite a Debt Move TipRanks",
       "author": null,
       "language": "en",
       "ticker": "EQT",
@@ -289,88 +73,25 @@
       ],
       "source_quality": "high",
       "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "TipRanks",
         "source_domain": "tipranks.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
         "event_origin": "news",
-        "query_tickers": [
-          "EQT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.591,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "ef1a3661-1526-5e3f-b2db-89c8e9545281",
-      "timestamp_utc": "2026-04-01T06:51:03+00:00",
-      "source": "tradingview",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVFBJckRZTk9DUWpiUWxFTDJRM0szbG5vVXdMd2JDajFWbEx5eEtkZklFN3ZmWXY5NDdqb2l5eFBNdHdyaXhtNmExVVNCZFZ5VjRMeTJTTmRsRVVjMFQ0ODA0YkZMbFVLR3VpdGc1UUt3MGlFWFhyOHkxczJCZkRnakVYUDBOX2tUcGVReXc3aTZUaWtaenl0anZtQzJOaW5JVUVycnhnQ2l1aXVnRmliaHFCOUZmTXlySDBTYVoxZE1JT1l5Q1VJWWYwbUZqZ0x0MENxUEFuZVprZnVBNUEzd3p2RDJsWVdZd2xwaUc3SXJMNnZaRVVpRWdJLUg0NEU?oc=5",
-      "title": "Magnolia Oil & Gas, EQT, Helmerich & Payne, Green Plains, and Clean Energy Fuels Shares Plummet, What You Need To Know - TradingView",
-      "body": "Magnolia Oil & Gas, EQT, Helmerich & Payne, Green Plains, and Clean Energy Fuels Shares Plummet, What You Need To Know TradingView",
-      "author": null,
-      "language": "en",
-      "ticker": "EQT",
-      "tickers_hint": [
-        "EQT"
-      ],
-      "source_quality": "medium",
-      "publisher_raw": "tradingview.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "TradingView",
-        "source_domain": "tradingview.com",
-        "trust_tier": 2,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "EQT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "6cf6bed0-17ca-5beb-8559-11b249e12542",
-      "timestamp_utc": "2026-04-01T06:25:00+00:00",
-      "source": "tradingview",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSEZybTRJRjAzcDNWNlQzWGhpUGJQeE1oWDhmRWRTQ2NnX250SzBqSGFYNGhSZ2pvTTY4R3ZqaWJsMloxVlB5WlpOMy1zUHNSS016MmdxWWVrdXpDbGNKLXVwUy00cHJ6Uk42b3ZLdnFrR0RIY09ZX1hORFc3MWxFc2oxVVB0eE1yQWs4ZUkzM29VcVFfYTZHQmswcXZCNGlUV3pBVzVuRFF1TkllanlIWndSNVUtZy0yanc?oc=5",
-      "title": "Is EQT Well-Positioned to Gain on Mounting Clean Energy Demand? - TradingView",
-      "body": "Is EQT Well-Positioned to Gain on Mounting Clean Energy Demand? TradingView",
-      "author": null,
-      "language": "en",
-      "ticker": "EQT",
-      "tickers_hint": [
-        "EQT"
-      ],
-      "source_quality": "medium",
-      "publisher_raw": "tradingview.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "TradingView",
-        "source_domain": "tradingview.com",
-        "trust_tier": 2,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "EQT"
-        ],
-        "alt_sources": [
-          "TradingView"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "8d054721-d0d3-5502-b4f9-2cd7c2652fae",
-      "timestamp_utc": "2026-04-01T06:01:16+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/eqt-nyseeqt-stock-price-expected-to-rise-stephens-analyst-says-2026-04-01/",
-      "title": "EQT (NYSE:EQT) Stock Price Expected to Rise, Stephens Analyst Says - MarketBeat",
-      "body": "EQT (NYSE:EQT) Stock Price Expected to Rise, Stephens Analyst Says MarketBeat",
+      "id": "0d5937fe-b4a1-5392-9065-ede84ee13925",
+      "timestamp_utc": "2026-04-08T22:53:06+00:00",
+      "source": "stockstory",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN3JYRXR5SV9ENHdNaW5QdzVtVnQ0SkhVMUQyNEViTGZhZjBPYl9KMFR4dWhWVEtvSXFhZG9GNlhCVF9tVU1EZWVJS0hNSnNISnByUTBtUGI0SHFqOVBCRmVpb2s4RWttZFVwVzZJbDd3Q3htbi1aQmJhX2VmenNReUxadk1rMHFwTC1SaERtUWFfcVJ0Wk82SQ?oc=5",
+      "title": "3 Reasons Investors Love EQT (EQT) - StockStory",
+      "body": "3 Reasons Investors Love EQT (EQT) StockStory",
       "author": null,
       "language": "en",
       "ticker": "EQT",
@@ -378,49 +99,18 @@
         "EQT"
       ],
       "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "publisher_raw": "stockstory",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.7000000000000001,
+        "source_name": "StockStory",
+        "source_domain": "stockstory.com",
         "event_origin": "news",
-        "query_tickers": [
-          "EQT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "a48d1e2e-fddb-5414-b973-caae300569e4",
-      "timestamp_utc": "2026-03-31T06:31:13+00:00",
-      "source": "marketscreener",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRWUxQzVlQ25SZWttZGkydGNjaGxmUERHNXRoNDQzazdfVmg0Mkdxb09rOWJEMjJOQzRoc0ozY3doTUlJay1HMEczdlFZS1pTZ011dHJscjZ0UE82c1VsVUlVWHdXejBWdllRZm5iZXY5MXBLWEMwRHQtVTFrRHBEbVVWM2lPcmJQLTEySC1kUQ?oc=5",
-      "title": "Number of shares and votes in EQT - MarketScreener",
-      "body": "Number of shares and votes in EQT MarketScreener",
-      "author": null,
-      "language": "en",
-      "ticker": "EQT",
-      "tickers_hint": [
-        "EQT"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "marketscreener",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketScreener",
-        "source_domain": "marketscreener.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "EQT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.437,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

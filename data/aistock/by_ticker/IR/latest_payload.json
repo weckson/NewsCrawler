@@ -2,71 +2,61 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "5435050f-1d73-5e6d-a5c6-bf094adbb43f",
-      "timestamp_utc": "2026-04-03T13:48:50+00:00",
-      "source": "yahoo_finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/q4-earnings-highs-lows-ingersoll-134850684.html",
-      "title": "Q4 Earnings Highs And Lows: Ingersoll Rand (NYSE:IR) Vs The Rest Of The Gas and Liquid Handling Stocks - Yahoo Finance",
-      "body": "Q4 Earnings Highs And Lows: Ingersoll Rand (NYSE:IR) Vs The Rest Of The Gas and Liquid Handling Stocks Yahoo Finance",
+      "id": "2797fc23-6013-5714-bb8f-1022e21d6e96",
+      "timestamp_utc": "2026-04-07T20:47:35+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/ingersoll-rand-inc-nyseir-receives-average-recommendation-of-hold-from-analysts-2026-04-08/",
+      "title": "Ingersoll Rand Inc. (NYSE:IR) Receives Average Recommendation of \"Hold\" from Analysts - MarketBeat",
+      "body": "Ingersoll Rand Inc. (NYSE:IR) Receives Average Recommendation of \"Hold\" from Analysts MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "IR",
       "tickers_hint": [
         "IR"
       ],
-      "source_quality": "high",
-      "publisher_raw": "finance.yahoo.com",
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
-        "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.7000000000000001,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "IR"
-        ],
-        "alt_sources": [
-          "Yahoo Finance"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.7000000000000001,
+        "quality_score": 0.455,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "5435050f-1d73-5e6d-a5c6-bf094adbb43f",
-      "timestamp_utc": "2026-04-03T13:48:50+00:00",
-      "source": "yahoo_finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/q4-earnings-highs-lows-ingersoll-134850684.html",
-      "title": "Q4 Earnings Highs And Lows: Ingersoll Rand (NYSE:IR) Vs The Rest Of The Gas and Liquid Handling Stocks - Yahoo Finance",
-      "body": "Q4 Earnings Highs And Lows: Ingersoll Rand (NYSE:IR) Vs The Rest Of The Gas and Liquid Handling Stocks Yahoo Finance",
+      "id": "2797fc23-6013-5714-bb8f-1022e21d6e96",
+      "timestamp_utc": "2026-04-07T20:47:35+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/ingersoll-rand-inc-nyseir-receives-average-recommendation-of-hold-from-analysts-2026-04-08/",
+      "title": "Ingersoll Rand Inc. (NYSE:IR) Receives Average Recommendation of \"Hold\" from Analysts - MarketBeat",
+      "body": "Ingersoll Rand Inc. (NYSE:IR) Receives Average Recommendation of \"Hold\" from Analysts MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "IR",
       "tickers_hint": [
         "IR"
       ],
-      "source_quality": "high",
-      "publisher_raw": "finance.yahoo.com",
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
-        "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.7000000000000001,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "IR"
-        ],
-        "alt_sources": [
-          "Yahoo Finance"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.7000000000000001,
+        "quality_score": 0.455,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

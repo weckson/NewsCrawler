@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "a7024580-4396-50ad-80e6-003b7dcee790",
-      "timestamp_utc": "2026-03-31T07:03:45+00:00",
-      "source": "gurufocus",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGNMMGJCNnlWeVNlaXF1aUl1M0RNWngwTk56YTdPQmhDbnFJMEh2QlNRT3pYMUV3UEhIaG5GSlNzc0hxNS05R0hPY3FXXzlBb25qUFRpT2F2Nkt3Zk1CbEpoVWRmS1lmMVU5RFBRR3RYdm93SkZ6SzI3UXNnTkxKTDB2NVBJRWRFYUdKNjhneWM1WVR4U0w5Rm5rbWs5UktCU0J0bG42MVFsS25u?oc=5",
-      "title": "Lululemon Athletica Inc (LULU) Stock Price Up 3.29% on Mar 31 - GuruFocus",
-      "body": "Lululemon Athletica Inc (LULU) Stock Price Up 3.29% on Mar 31 GuruFocus",
+      "id": "b4758a30-d04f-5b75-9f18-b58e1ed40626",
+      "timestamp_utc": "2026-04-09T02:12:35+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/rep-gilbert-ray-cisneros-jr-sells-lululemon-athletica-inc-nasdaqlulu-shares-2026-04-09/",
+      "title": "Rep. Gilbert Ray Cisneros, Jr. Sells lululemon athletica inc. (NASDAQ:LULU) Shares - MarketBeat",
+      "body": "Rep. Gilbert Ray Cisneros, Jr. Sells lululemon athletica inc. (NASDAQ:LULU) Shares MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "LULU",
@@ -15,60 +15,29 @@
         "LULU"
       ],
       "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "LULU"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "308da623-9e6d-5ac0-946e-7602b5f15ac6",
-      "timestamp_utc": "2026-04-01T01:16:49+00:00",
-      "source": "ad_hoc_news",
-      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/lululemon-athletica-stock-faces-activist-push-for-board-changes-ahead-of/69047275",
-      "title": "Lululemon Athletica Stock Faces Activist Push for Board Changes Ahead of 2026 Annual Meeting - AD HOC NEWS",
-      "body": "NEWSAKTIENKURSEBÖRSE WIRTSCHAFT POLITIK SPORT UNTERHALTUNG WISSENSCHAFT AUSLAND POLIZEI INTERNATIONAL SONSTIGE ARCHIV BLOGS KALENDERBLATT NEWSLETTER BÖRSENLEXIKON RSS WATCHLISTNews SucheMenü ein-/ausblendenBlogsBilderNews",
-      "author": null,
-      "language": "en",
-      "ticker": "LULU",
-      "tickers_hint": [
-        "LULU"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "ad hoc news",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "AD HOC NEWS",
-        "source_domain": "adhocnews.com",
-        "trust_tier": 1,
         "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "LULU"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.4625,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "a7024580-4396-50ad-80e6-003b7dcee790",
-      "timestamp_utc": "2026-03-31T07:03:45+00:00",
-      "source": "gurufocus",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGNMMGJCNnlWeVNlaXF1aUl1M0RNWngwTk56YTdPQmhDbnFJMEh2QlNRT3pYMUV3UEhIaG5GSlNzc0hxNS05R0hPY3FXXzlBb25qUFRpT2F2Nkt3Zk1CbEpoVWRmS1lmMVU5RFBRR3RYdm93SkZ6SzI3UXNnTkxKTDB2NVBJRWRFYUdKNjhneWM1WVR4U0w5Rm5rbWs5UktCU0J0bG42MVFsS25u?oc=5",
-      "title": "Lululemon Athletica Inc (LULU) Stock Price Up 3.29% on Mar 31 - GuruFocus",
-      "body": "Lululemon Athletica Inc (LULU) Stock Price Up 3.29% on Mar 31 GuruFocus",
+      "id": "b4758a30-d04f-5b75-9f18-b58e1ed40626",
+      "timestamp_utc": "2026-04-09T02:12:35+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/rep-gilbert-ray-cisneros-jr-sells-lululemon-athletica-inc-nasdaqlulu-shares-2026-04-09/",
+      "title": "Rep. Gilbert Ray Cisneros, Jr. Sells lululemon athletica inc. (NASDAQ:LULU) Shares - MarketBeat",
+      "body": "Rep. Gilbert Ray Cisneros, Jr. Sells lululemon athletica inc. (NASDAQ:LULU) Shares MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "LULU",
@@ -76,49 +45,18 @@
         "LULU"
       ],
       "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "LULU"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "308da623-9e6d-5ac0-946e-7602b5f15ac6",
-      "timestamp_utc": "2026-04-01T01:16:49+00:00",
-      "source": "ad_hoc_news",
-      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/lululemon-athletica-stock-faces-activist-push-for-board-changes-ahead-of/69047275",
-      "title": "Lululemon Athletica Stock Faces Activist Push for Board Changes Ahead of 2026 Annual Meeting - AD HOC NEWS",
-      "body": "NEWSAKTIENKURSEBÖRSE WIRTSCHAFT POLITIK SPORT UNTERHALTUNG WISSENSCHAFT AUSLAND POLIZEI INTERNATIONAL SONSTIGE ARCHIV BLOGS KALENDERBLATT NEWSLETTER BÖRSENLEXIKON RSS WATCHLISTNews SucheMenü ein-/ausblendenBlogsBilderNews",
-      "author": null,
-      "language": "en",
-      "ticker": "LULU",
-      "tickers_hint": [
-        "LULU"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "ad hoc news",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "AD HOC NEWS",
-        "source_domain": "adhocnews.com",
-        "trust_tier": 1,
         "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "LULU"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.4625,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

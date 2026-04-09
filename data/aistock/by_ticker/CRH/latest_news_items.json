@@ -1,40 +1,38 @@
 [
   {
-    "id": "9959d64d-59ce-5f00-b5ae-1d21c415e853",
-    "timestamp_utc": "2026-04-05T07:23:46+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-aberdeen-group-plc-boosts-stock-position-in-crh-plc-crh-2026-04-05/",
-    "title": "Aberdeen Group plc Boosts Stock Position in Crh Plc $CRH - MarketBeat",
-    "body": "Aberdeen Group plc Boosts Stock Position in Crh Plc $CRH MarketBeat",
+    "id": "30044d20-65cd-5dd2-89d6-38dcda6af526",
+    "timestamp_utc": "2026-04-07T22:06:34+00:00",
+    "source": "tipranks",
+    "url": "https://www.tipranks.com/news/company-announcements/crh-continues-300m-share-buyback-with-new-u-s-purchases",
+    "title": "CRH Continues $300m Share Buyback With New U.S. Purchases - TipRanks",
+    "body": "CRH Continues $300m Share Buyback With New U.S. Purchases TipRanks",
     "author": null,
     "language": "en",
     "ticker": "CRH",
     "tickers_hint": [
       "CRH"
     ],
-    "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
+    "source_quality": "high",
+    "publisher_raw": "tipranks.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.6500000000000001,
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
       "event_origin": "news",
-      "query_tickers": [
-        "CRH"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.6575,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "d4e23ceb-007e-51fb-ace6-c78238fdcd4c",
-    "timestamp_utc": "2026-04-04T10:10:07+00:00",
-    "source": "intellectia_ai",
-    "url": "https://intellectia.ai/en/stock/CRH/earnings",
-    "title": "CRH Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-    "body": "CRH Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+    "id": "2f7c2bdf-7b10-58f2-a55a-3b2757183519",
+    "timestamp_utc": "2026-04-08T06:11:04+00:00",
+    "source": "business_post",
+    "url": "https://www.businesspost.ie/markets/why-analysts-think-crh-shares-could-rise-33/",
+    "title": "Why analysts think CRH shares could rise 33% - Business Post",
+    "body": "Why analysts think CRH shares could rise 33% Business Post",
     "author": null,
     "language": "en",
     "ticker": "CRH",
@@ -42,48 +40,17 @@
       "CRH"
     ],
     "source_quality": "low",
-    "publisher_raw": "intellectia ai",
+    "publisher_raw": "business post",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Intellectia AI",
-      "source_domain": "intellectiaai.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "Business Post",
+      "source_domain": "businesspost.com",
       "event_origin": "news",
-      "query_tickers": [
-        "CRH"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "892134b5-ca96-5a50-a9ac-ad8b41c76429",
-    "timestamp_utc": "2026-04-03T20:58:50+00:00",
-    "source": "yahoo!_finance_canada",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkZDAwUXA3NHNsa3hUN2ZRTUw5cjNBV1ZQWjJIQzlCTUp1YU1rSXd5RmZlaVpEZHExSEdWa091b3h5VHNRSXptWV82bFNrS3RRdk9hQ0hKeEdxcGtEdGhrWWttM1A?oc=5",
-    "title": "CRH Jan 2028 155.000 call (CRH280121C00155000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "body": "CRH Jan 2028 155.000 call (CRH280121C00155000) Stock Price, News, Quote & History Yahoo! Finance Canada",
-    "author": null,
-    "language": "en",
-    "ticker": "CRH",
-    "tickers_hint": [
-      "CRH"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "yahoo! finance canada",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo! Finance Canada",
-      "source_domain": "yahoofinancecanada.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "CRH"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4585,
+      "_channel": "google_broad"
+    }
   }
 ]

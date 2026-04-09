@@ -2,41 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "e5466427-0fae-56ab-ae70-60baac9d15de",
-      "timestamp_utc": "2026-03-31T08:23:17+00:00",
-      "source": "seeking_alpha",
-      "url": "https://seekingalpha.com/news/4570873-vertiv-downgraded-at-jefferies-on-ai-capex-slowdown-risk",
-      "title": "Vertiv downgraded at Jefferies on AI capex slowdown risk (VRT:NYSE) - Seeking Alpha",
-      "body": "J Studios/DigitalVision via Getty Images\n\nVertiv (VRT) up 5.6% in Tuesday's trading after the company unveiled plans for a $50M expansion of its Ohio manufacturing to boost production of critical thermal management technologies for AI data centers.\n\nHowever, Jefferies downgraded the provider of infrastructure and services",
-      "author": null,
-      "language": "en",
-      "ticker": "VRT",
-      "tickers_hint": [
-        "VRT"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "seekingalpha.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Seeking Alpha",
-        "source_domain": "seekingalpha.com",
-        "trust_tier": 3,
-        "relevance": 0.6,
-        "event_origin": "news",
-        "query_tickers": [
-          "VRT"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "fcfc75bb-7ec8-5b32-980f-f2eb1eece1bb",
-      "timestamp_utc": "2026-03-31T06:45:02+00:00",
+      "id": "e5796f4a-697e-568d-8104-ceb1150ab5dc",
+      "timestamp_utc": "2026-04-07T11:45:05+00:00",
       "source": "yahoo_finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWUdkZGNXZFFobEpHSDJyeGl1MGZVWWRwUTBpUkJHYlpWZ3hQWkhyellqTGh2ZjMxMDBkMmp0dVRkSGM3Y0hhSHlNa3VDSWhrSnpKUzRiYkNOcWY0OElIYk1GTU9fbkUtTi1qc3M5NUpDOUV6ZHp1MnBHdDR0dUUxdjlEOWtCa3N0anNXbDhKS3Z0ckNISjJtZnFn?oc=5",
-      "title": "Is Vertiv (VRT) a Solid Growth Stock? 3 Reasons to Think \"Yes\" - Yahoo Finance",
-      "body": "Is Vertiv (VRT) a Solid Growth Stock? 3 Reasons to Think \"Yes\" Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRWZ5WmM5b3RFd1VoNEU4QzFFcE1laGVzTVgwam9saC14bXFxeG5aWDlhbTdMalNsNTcyT0FKYVFJM3lRSk1XVkNXYk1IZmd0bDQ5TFlROEhkMlpsRHRkUFdGMVY5WXNMT0QxMmlMbXFHd1dYLUhacHBQN0RBUHA1Q2NQY3BVajRWM1I0akpHZTR4WVZ4YTFsZUxLbDY?oc=5",
+      "title": "Vertiv Holdings Co. (VRT) Outpaces Stock Market Gains: What You Should Know - Yahoo Finance",
+      "body": "Vertiv Holdings Co. (VRT) Outpaces Stock Market Gains: What You Should Know Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "VRT",
@@ -45,117 +16,28 @@
       ],
       "source_quality": "high",
       "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "Yahoo Finance",
         "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
+        "event_origin": "news",
         "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "VRT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "e32063cb-2e87-52f7-9dbb-3b4e0c6105b9",
-      "timestamp_utc": "2026-04-01T09:40:49+00:00",
-      "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8765795/vrt-stock-update-barclays-raises-price-target-to-300-maintains-overweight-rating-vrt-stock-news",
-      "title": "VRT Stock Update: Barclays Raises Price Target to $300, Maintain - GuruFocus",
-      "body": "VRT Stock Update: Barclays Raises Price Target to $300, Maintain GuruFocus",
-      "author": null,
-      "language": "en",
-      "ticker": "VRT",
-      "tickers_hint": [
-        "VRT"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "VRT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "e116b9ef-3d96-5ac9-b3fc-ad9b2c3b8b6c",
-      "timestamp_utc": "2026-03-31T11:26:40+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/vertiv-nysevrt-stock-price-up-7-still-a-buy-2026-03-31/",
-      "title": "Vertiv (NYSE:VRT) Stock Price Up 7% - Still a Buy? - MarketBeat",
-      "body": "Vertiv (NYSE:VRT) Stock Price Up 7% - Still a Buy? MarketBeat",
-      "author": null,
-      "language": "en",
-      "ticker": "VRT",
-      "tickers_hint": [
-        "VRT"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "VRT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.6,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "e5466427-0fae-56ab-ae70-60baac9d15de",
-      "timestamp_utc": "2026-03-31T08:23:17+00:00",
-      "source": "seeking_alpha",
-      "url": "https://seekingalpha.com/news/4570873-vertiv-downgraded-at-jefferies-on-ai-capex-slowdown-risk",
-      "title": "Vertiv downgraded at Jefferies on AI capex slowdown risk (VRT:NYSE) - Seeking Alpha",
-      "body": "J Studios/DigitalVision via Getty Images\n\nVertiv (VRT) up 5.6% in Tuesday's trading after the company unveiled plans for a $50M expansion of its Ohio manufacturing to boost production of critical thermal management technologies for AI data centers.\n\nHowever, Jefferies downgraded the provider of infrastructure and services",
-      "author": null,
-      "language": "en",
-      "ticker": "VRT",
-      "tickers_hint": [
-        "VRT"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "seekingalpha.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Seeking Alpha",
-        "source_domain": "seekingalpha.com",
-        "trust_tier": 3,
-        "relevance": 0.6,
-        "event_origin": "news",
-        "query_tickers": [
-          "VRT"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "fcfc75bb-7ec8-5b32-980f-f2eb1eece1bb",
-      "timestamp_utc": "2026-03-31T06:45:02+00:00",
+      "id": "e5796f4a-697e-568d-8104-ceb1150ab5dc",
+      "timestamp_utc": "2026-04-07T11:45:05+00:00",
       "source": "yahoo_finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWUdkZGNXZFFobEpHSDJyeGl1MGZVWWRwUTBpUkJHYlpWZ3hQWkhyellqTGh2ZjMxMDBkMmp0dVRkSGM3Y0hhSHlNa3VDSWhrSnpKUzRiYkNOcWY0OElIYk1GTU9fbkUtTi1qc3M5NUpDOUV6ZHp1MnBHdDR0dUUxdjlEOWtCa3N0anNXbDhKS3Z0ckNISjJtZnFn?oc=5",
-      "title": "Is Vertiv (VRT) a Solid Growth Stock? 3 Reasons to Think \"Yes\" - Yahoo Finance",
-      "body": "Is Vertiv (VRT) a Solid Growth Stock? 3 Reasons to Think \"Yes\" Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRWZ5WmM5b3RFd1VoNEU4QzFFcE1laGVzTVgwam9saC14bXFxeG5aWDlhbTdMalNsNTcyT0FKYVFJM3lRSk1XVkNXYk1IZmd0bDQ5TFlROEhkMlpsRHRkUFdGMVY5WXNMT0QxMmlMbXFHd1dYLUhacHBQN0RBUHA1Q2NQY3BVajRWM1I0akpHZTR4WVZ4YTFsZUxLbDY?oc=5",
+      "title": "Vertiv Holdings Co. (VRT) Outpaces Stock Market Gains: What You Should Know - Yahoo Finance",
+      "body": "Vertiv Holdings Co. (VRT) Outpaces Stock Market Gains: What You Should Know Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "VRT",
@@ -164,77 +46,17 @@
       ],
       "source_quality": "high",
       "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "Yahoo Finance",
         "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
+        "event_origin": "news",
         "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "VRT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "e32063cb-2e87-52f7-9dbb-3b4e0c6105b9",
-      "timestamp_utc": "2026-04-01T09:40:49+00:00",
-      "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8765795/vrt-stock-update-barclays-raises-price-target-to-300-maintains-overweight-rating-vrt-stock-news",
-      "title": "VRT Stock Update: Barclays Raises Price Target to $300, Maintain - GuruFocus",
-      "body": "VRT Stock Update: Barclays Raises Price Target to $300, Maintain GuruFocus",
-      "author": null,
-      "language": "en",
-      "ticker": "VRT",
-      "tickers_hint": [
-        "VRT"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "VRT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "e116b9ef-3d96-5ac9-b3fc-ad9b2c3b8b6c",
-      "timestamp_utc": "2026-03-31T11:26:40+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/vertiv-nysevrt-stock-price-up-7-still-a-buy-2026-03-31/",
-      "title": "Vertiv (NYSE:VRT) Stock Price Up 7% - Still a Buy? - MarketBeat",
-      "body": "Vertiv (NYSE:VRT) Stock Price Up 7% - Still a Buy? MarketBeat",
-      "author": null,
-      "language": "en",
-      "ticker": "VRT",
-      "tickers_hint": [
-        "VRT"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "VRT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.6,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

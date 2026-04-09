@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "129c5f5a-f3f2-5653-a07e-3b6c27459947",
-      "timestamp_utc": "2026-04-03T17:22:49+00:00",
-      "source": "stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWkpPeVFHbV8zZFlRR1gyUTZJaUtyRmZMS3F4U2hoVkExVHFIc1pGT3B2SExKUVpqZU9pcXJLem41Um9TSTIwTUpVOC1vRVo0YmxubkREZXZBZ1hwbGhkdmFhd2RZUVJRYWJYYTRHUmZadkg1WHRQQlN2NnBiNDRkUGRhZWhpWld2WGt0OHFlZzhnNkJwRkF3MUVjbE85Ukw0ZHU2aG42QQ?oc=5",
-      "title": "Coca-Cola (KO) director Caroline Tsay receives 3,825 Phantom Share Units as 2026 pay - stocktitan.net",
-      "body": "Coca-Cola (KO) director Caroline Tsay receives 3,825 Phantom Share Units as 2026 pay stocktitan.net",
+      "id": "1f564cdb-9a23-57d6-8704-346ba5aa84e9",
+      "timestamp_utc": "2026-04-08T02:52:50+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-yousif-capital-management-llc-decreases-stock-position-in-cocacola-company-the-ko-2026-04-08/",
+      "title": "Yousif Capital Management LLC Decreases Stock Position in CocaCola Company (The) $KO - MarketBeat",
+      "body": "Yousif Capital Management LLC Decreases Stock Position in CocaCola Company (The) $KO MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "KO",
@@ -15,60 +15,29 @@
         "KO"
       ],
       "source_quality": "low",
-      "publisher_raw": "stocktitan.net",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "stocktitan.net",
-        "source_domain": "stocktitannet.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "KO"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "2348c673-2120-53f0-9edd-c4769909d0f2",
-      "timestamp_utc": "2026-04-03T17:08:32+00:00",
-      "source": "stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR2k4Nk8wRWJXbGlLc09BWkFIa2d1SURQdFFBSU43cV9TYm45dm9MTGhBQ3BrZHFfWklTanVfM24xY1VxOTVQc0ZqRmdTcjBrelpuRGVwcnBCbUp0LXBPV0ZVWVNva0Rycm5GZDVNdGRKR0o4SThpRENfZklwcXBpelY5eFpVaHE4OGItNEQzRTZQTkRha0NhMWpscE1RU0N4MDVGZzhjNA?oc=5",
-      "title": "Max Levchin (KO) awarded phantom share units as Coca-Cola board pay - stocktitan.net",
-      "body": "Max Levchin (KO) awarded phantom share units as Coca-Cola board pay stocktitan.net",
-      "author": null,
-      "language": "en",
-      "ticker": "KO",
-      "tickers_hint": [
-        "KO"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stocktitan.net",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "stocktitan.net",
-        "source_domain": "stocktitannet.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "KO"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4225,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "129c5f5a-f3f2-5653-a07e-3b6c27459947",
-      "timestamp_utc": "2026-04-03T17:22:49+00:00",
-      "source": "stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWkpPeVFHbV8zZFlRR1gyUTZJaUtyRmZMS3F4U2hoVkExVHFIc1pGT3B2SExKUVpqZU9pcXJLem41Um9TSTIwTUpVOC1vRVo0YmxubkREZXZBZ1hwbGhkdmFhd2RZUVJRYWJYYTRHUmZadkg1WHRQQlN2NnBiNDRkUGRhZWhpWld2WGt0OHFlZzhnNkJwRkF3MUVjbE85Ukw0ZHU2aG42QQ?oc=5",
-      "title": "Coca-Cola (KO) director Caroline Tsay receives 3,825 Phantom Share Units as 2026 pay - stocktitan.net",
-      "body": "Coca-Cola (KO) director Caroline Tsay receives 3,825 Phantom Share Units as 2026 pay stocktitan.net",
+      "id": "1f564cdb-9a23-57d6-8704-346ba5aa84e9",
+      "timestamp_utc": "2026-04-08T02:52:50+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-yousif-capital-management-llc-decreases-stock-position-in-cocacola-company-the-ko-2026-04-08/",
+      "title": "Yousif Capital Management LLC Decreases Stock Position in CocaCola Company (The) $KO - MarketBeat",
+      "body": "Yousif Capital Management LLC Decreases Stock Position in CocaCola Company (The) $KO MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "KO",
@@ -76,49 +45,18 @@
         "KO"
       ],
       "source_quality": "low",
-      "publisher_raw": "stocktitan.net",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "stocktitan.net",
-        "source_domain": "stocktitannet.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "KO"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "2348c673-2120-53f0-9edd-c4769909d0f2",
-      "timestamp_utc": "2026-04-03T17:08:32+00:00",
-      "source": "stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR2k4Nk8wRWJXbGlLc09BWkFIa2d1SURQdFFBSU43cV9TYm45dm9MTGhBQ3BrZHFfWklTanVfM24xY1VxOTVQc0ZqRmdTcjBrelpuRGVwcnBCbUp0LXBPV0ZVWVNva0Rycm5GZDVNdGRKR0o4SThpRENfZklwcXBpelY5eFpVaHE4OGItNEQzRTZQTkRha0NhMWpscE1RU0N4MDVGZzhjNA?oc=5",
-      "title": "Max Levchin (KO) awarded phantom share units as Coca-Cola board pay - stocktitan.net",
-      "body": "Max Levchin (KO) awarded phantom share units as Coca-Cola board pay stocktitan.net",
-      "author": null,
-      "language": "en",
-      "ticker": "KO",
-      "tickers_hint": [
-        "KO"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stocktitan.net",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "stocktitan.net",
-        "source_domain": "stocktitannet.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "KO"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4225,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

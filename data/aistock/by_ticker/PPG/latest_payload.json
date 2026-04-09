@@ -2,239 +2,61 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "14cf0c39-e518-5422-94dd-5d24cc2744f0",
-      "timestamp_utc": "2026-04-04T20:16:11+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/PPG/technical",
-      "title": "PPG Technical Analysis & Stock Price Forecast - Intellectia AI",
-      "body": "PPG Technical Analysis & Stock Price Forecast Intellectia AI",
+      "id": "dfa6fa8f-3a28-53d3-92cf-9199a8e68ad1",
+      "timestamp_utc": "2026-04-08T10:30:00+00:00",
+      "source": "marketwatch",
+      "url": "https://www.marketwatch.com/data-news/ppg-industries-inc-stock-outperforms-competitors-on-strong-trading-day-564b3f9f-129cf0c5827e",
+      "title": "PPG Industries Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "body": "PPG Industries Inc. stock outperforms competitors on strong trading day MarketWatch",
       "author": null,
       "language": "en",
       "ticker": "PPG",
       "tickers_hint": [
         "PPG"
       ],
-      "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "source_quality": "high",
+      "publisher_raw": "marketwatch.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketWatch",
+        "source_domain": "marketwatch.com",
         "event_origin": "news",
-        "query_tickers": [
-          "PPG"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "7f8b5772-d25e-5466-a460-8686a9cacaa1",
-      "timestamp_utc": "2026-04-03T23:49:21+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqb1dhejNseVhjYTQ5VmlKTHFIZXpwVUxsMGh1Z2p2WXVzbXhEcUZ5b0VpaWN2NWxNTnlxLThPTEVfOFVsT3M0bWNpRWdMWjAxTFdENFUtU1M2RVZaaXlpelNydHU?oc=5",
-      "title": "PPG Jun 2026 165.000 call (PPG260618C00165000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "body": "PPG Jun 2026 165.000 call (PPG260618C00165000) Stock Price, News, Quote & History Yahoo! Finance Canada",
-      "author": null,
-      "language": "en",
-      "ticker": "PPG",
-      "tickers_hint": [
-        "PPG"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
         "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "PPG"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "c89d86dc-64b2-5160-a37d-1b9841896337",
-      "timestamp_utc": "2026-04-03T19:47:14+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10UTVhZ0FTLW03YWlFSE1KdjR6Q2lheVhrQ1g1aFJHZGZHclBLcG1IOW5fUV9kZ2hRVWYwYzVaM1lONGtldHQtZEctcEhObDBwRkNHSldXcGg4WWNaeXVsdmVFbnY?oc=5",
-      "title": "PPG Apr 2026 110.000 put (PPG260410P00110000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "body": "PPG Apr 2026 110.000 put (PPG260410P00110000) Stock Price, News, Quote & History Yahoo! Finance Canada",
-      "author": null,
-      "language": "en",
-      "ticker": "PPG",
-      "tickers_hint": [
-        "PPG"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "PPG"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "978c574c-43ef-539d-9ead-f623b1f06a06",
-      "timestamp_utc": "2026-04-03T16:32:55+00:00",
-      "source": "yahoo_finance_uk",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RM1hVZTFaZjBpaC0wLXdGYXZtWnNRZ1hvWFBTMjl5UHQ5bWEyMkxtQlgzZUFpQWE0Vk1JSm45QjJKZ2g3SGRfdXpacG4yazRwNnhTQ0pWb2lhV3VnX25OWUVoQ1Y?oc=5",
-      "title": "Pro-Pac Packaging Limited (PPG.AX) stock price, news, quote and history - Yahoo Finance UK",
-      "body": "Pro-Pac Packaging Limited (PPG.AX) stock price, news, quote and history Yahoo Finance UK",
-      "author": null,
-      "language": "en",
-      "ticker": "PPG",
-      "tickers_hint": [
-        "PPG"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo finance uk",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance UK",
-        "source_domain": "yahoofinanceuk.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "PPG"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.635,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "14cf0c39-e518-5422-94dd-5d24cc2744f0",
-      "timestamp_utc": "2026-04-04T20:16:11+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/PPG/technical",
-      "title": "PPG Technical Analysis & Stock Price Forecast - Intellectia AI",
-      "body": "PPG Technical Analysis & Stock Price Forecast Intellectia AI",
+      "id": "dfa6fa8f-3a28-53d3-92cf-9199a8e68ad1",
+      "timestamp_utc": "2026-04-08T10:30:00+00:00",
+      "source": "marketwatch",
+      "url": "https://www.marketwatch.com/data-news/ppg-industries-inc-stock-outperforms-competitors-on-strong-trading-day-564b3f9f-129cf0c5827e",
+      "title": "PPG Industries Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "body": "PPG Industries Inc. stock outperforms competitors on strong trading day MarketWatch",
       "author": null,
       "language": "en",
       "ticker": "PPG",
       "tickers_hint": [
         "PPG"
       ],
-      "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "source_quality": "high",
+      "publisher_raw": "marketwatch.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketWatch",
+        "source_domain": "marketwatch.com",
         "event_origin": "news",
-        "query_tickers": [
-          "PPG"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "7f8b5772-d25e-5466-a460-8686a9cacaa1",
-      "timestamp_utc": "2026-04-03T23:49:21+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqb1dhejNseVhjYTQ5VmlKTHFIZXpwVUxsMGh1Z2p2WXVzbXhEcUZ5b0VpaWN2NWxNTnlxLThPTEVfOFVsT3M0bWNpRWdMWjAxTFdENFUtU1M2RVZaaXlpelNydHU?oc=5",
-      "title": "PPG Jun 2026 165.000 call (PPG260618C00165000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "body": "PPG Jun 2026 165.000 call (PPG260618C00165000) Stock Price, News, Quote & History Yahoo! Finance Canada",
-      "author": null,
-      "language": "en",
-      "ticker": "PPG",
-      "tickers_hint": [
-        "PPG"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
         "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "PPG"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "c89d86dc-64b2-5160-a37d-1b9841896337",
-      "timestamp_utc": "2026-04-03T19:47:14+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10UTVhZ0FTLW03YWlFSE1KdjR6Q2lheVhrQ1g1aFJHZGZHclBLcG1IOW5fUV9kZ2hRVWYwYzVaM1lONGtldHQtZEctcEhObDBwRkNHSldXcGg4WWNaeXVsdmVFbnY?oc=5",
-      "title": "PPG Apr 2026 110.000 put (PPG260410P00110000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "body": "PPG Apr 2026 110.000 put (PPG260410P00110000) Stock Price, News, Quote & History Yahoo! Finance Canada",
-      "author": null,
-      "language": "en",
-      "ticker": "PPG",
-      "tickers_hint": [
-        "PPG"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "PPG"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "978c574c-43ef-539d-9ead-f623b1f06a06",
-      "timestamp_utc": "2026-04-03T16:32:55+00:00",
-      "source": "yahoo_finance_uk",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RM1hVZTFaZjBpaC0wLXdGYXZtWnNRZ1hvWFBTMjl5UHQ5bWEyMkxtQlgzZUFpQWE0Vk1JSm45QjJKZ2g3SGRfdXpacG4yazRwNnhTQ0pWb2lhV3VnX25OWUVoQ1Y?oc=5",
-      "title": "Pro-Pac Packaging Limited (PPG.AX) stock price, news, quote and history - Yahoo Finance UK",
-      "body": "Pro-Pac Packaging Limited (PPG.AX) stock price, news, quote and history Yahoo Finance UK",
-      "author": null,
-      "language": "en",
-      "ticker": "PPG",
-      "tickers_hint": [
-        "PPG"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo finance uk",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance UK",
-        "source_domain": "yahoofinanceuk.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "PPG"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.635,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

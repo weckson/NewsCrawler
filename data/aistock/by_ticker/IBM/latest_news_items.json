@@ -1,11 +1,11 @@
 [
   {
-    "id": "36651c42-e73a-5269-8db1-7a0ce08a5cec",
-    "timestamp_utc": "2026-04-01T10:47:33+00:00",
-    "source": "tipranks",
-    "url": "https://www.tipranks.com/news/ibm-stock-rises-after-getting-government-approval-for-its-ai-and-automation-tools",
-    "title": "IBM Stock Rises after Getting Government Approval for Its AI and Automation Tools - TipRanks",
-    "body": "IBM Stock Rises after Getting Government Approval for Its AI and Automation Tools TipRanks",
+    "id": "f40495a6-c94a-5f0e-998a-e9ab52d100c3",
+    "timestamp_utc": "2026-04-08T02:30:24+00:00",
+    "source": "seeking_alpha",
+    "url": "https://seekingalpha.com/news/4573268-ibm-in-spotlight-as-needham-cuts-price-target-ahead-of-q1-results",
+    "title": "IBM in spotlight as Needham cuts price target ahead of Q1 results (IBM:NYSE) - Seeking Alpha",
+    "body": "IBM in spotlight as Needham cuts price target ahead of Q1 resultsApr 08, 2026, 8:30 AM ETInternational Business Machines Corporation (IBM) StockBy: Chris Ciaccia, SA News EditorCopy LinkSavePlay(2min)Comments(2)Follow us on Google for the latest stock newsFollow Seeking Alpha on Google for the latest stock newsFrank Brennan IBM (IBM) was in the spotlight on Wednesday as Needham cut its price target on the IT giant to $290 from $340, ahead of IBM's first-quarter results on April 22.\n\n“We've made various tweaks to our 2026 estimates prior to Newsletters for Every InvestorGet daily, sector-specific newsletters packed with expert insights, fresh ideas, and new opportunities.",
     "author": null,
     "language": "en",
     "ticker": "IBM",
@@ -13,28 +13,83 @@
       "IBM"
     ],
     "source_quality": "high",
-    "publisher_raw": "tipranks.com",
+    "publisher_raw": "seekingalpha.com",
+    "trust_tier": 3,
+    "body_kind": "article_text",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "TipRanks",
-      "source_domain": "tipranks.com",
-      "trust_tier": 3,
-      "relevance": 0.55,
+      "source_name": "Seeking Alpha",
+      "source_domain": "seekingalpha.com",
       "event_origin": "news",
-      "query_tickers": [
-        "IBM"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.7000000000000001,
+      "quality_score": 0.7,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "619e21f5-eea5-5921-bc26-79b7e4dfc434",
-    "timestamp_utc": "2026-04-01T05:06:00+00:00",
-    "source": "tradingview",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU3Z1aVlCcElFZWMwYkE3dnVpbEZhcGxWaGY5LUh6cWFvelNJT1NtVFVuRjJtbzBBU3hoWVBSYkRfQkdoQ0pHV01CWkF3NUxYVGdua0llVEVUekc1SEhLdWZvYWpERnFkeHk5RzRuR2FBZUtLakRnWExUdS1uYmVmWk16VVQ0YUF6YUh5SWo4NmVqT3NJeHQ1M3R3bnMyclFXOHl0N3hJTm5oY2wzaE1LTThaRWhDZTQ2cUhr?oc=5",
-    "title": "IBM Advances Quantum Computing Research: Will it Boost Prospects? - TradingView",
-    "body": "IBM Advances Quantum Computing Research: Will it Boost Prospects? TradingView",
+    "id": "806e33d5-09ac-5f43-aca0-e80a96c3c07d",
+    "timestamp_utc": "2026-04-08T06:19:24+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stifel-resets-ibm-stock-price-161924728.html",
+    "title": "Stifel Resets IBM Stock Price Target Ahead of Earnings - Yahoo Finance",
+    "body": "Stifel Resets IBM Stock Price Target Ahead of Earnings Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "IBM",
+    "tickers_hint": [
+      "IBM"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "event_origin": "news",
+      "relevance": 0.6,
+      "quality_score": 0.685,
+      "_channel": "google_broad",
+      "_alt_sources": [
+        "GuruFocus"
+      ]
+    }
+  },
+  {
+    "id": "3e39a29f-f423-5db5-a4dc-c85846fcc9a1",
+    "timestamp_utc": "2026-04-08T11:45:02+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ibm-ibm-stock-declines-while-214502448.html",
+    "title": "IBM (IBM) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
+    "body": "IBM (IBM) Stock Declines While Market Improves: Some Information for Investors Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "IBM",
+    "tickers_hint": [
+      "IBM"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "event_origin": "news",
+      "relevance": 0.6000000000000001,
+      "quality_score": 0.645,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "8be25cc4-4bef-50ab-bc55-34d2d255a598",
+    "timestamp_utc": "2026-04-08T02:14:13+00:00",
+    "source": "investing.com",
+    "url": "https://www.investing.com/news/analyst-ratings/stifel-cuts-ibm-stock-price-target-on-gulf-conflict-forex-headwinds-93CH-4602803",
+    "title": "Stifel cuts IBM stock price target on Gulf conflict, forex headwinds - Investing.com",
+    "body": "Stifel cuts IBM stock price target on Gulf conflict, forex headwinds Investing.com",
     "author": null,
     "language": "en",
     "ticker": "IBM",
@@ -42,115 +97,53 @@
       "IBM"
     ],
     "source_quality": "medium",
-    "publisher_raw": "tradingview.com",
+    "publisher_raw": "investing.com",
+    "trust_tier": 2,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "TradingView",
-      "source_domain": "tradingview.com",
-      "trust_tier": 2,
-      "relevance": 0.5,
+      "source_name": "Investing.com",
+      "source_domain": "investing.com",
       "event_origin": "news",
-      "query_tickers": [
-        "IBM"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "565cb563-8d60-57fd-9fbb-96f9512b82fb",
-    "timestamp_utc": "2026-03-31T17:07:30+00:00",
-    "source": "ad_hoc_news",
-    "url": "https://www.ad-hoc-news.de/boerse/ueberblick/ibm-faces-analyst-caution-ahead-of-quarterly-earnings-report/69043866",
-    "title": "IBM Faces Analyst Caution Ahead of Quarterly Earnings Report - AD HOC NEWS",
-    "body": "NEWSAKTIENKURSEBÖRSE WIRTSCHAFT POLITIK SPORT UNTERHALTUNG WISSENSCHAFT AUSLAND POLIZEI INTERNATIONAL SONSTIGE ARCHIV BLOGS KALENDERBLATT NEWSLETTER BÖRSENLEXIKON RSS WATCHLISTNews SucheMenü ein-/ausblendenBlogsBilderNews",
-    "author": null,
-    "language": "en",
-    "ticker": "IBM",
-    "tickers_hint": [
-      "IBM"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "ad hoc news",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "AD HOC NEWS",
-      "source_domain": "adhocnews.com",
-      "trust_tier": 1,
-      "relevance": 0.65,
-      "event_origin": "news",
-      "query_tickers": [
-        "IBM"
-      ],
-      "body_kind": "article_text"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "250cadb5-f543-599e-9790-231df32a0dc2",
-    "timestamp_utc": "2026-04-01T18:01:00+00:00",
-    "source": "stock_titan",
-    "url": "https://www.stocktitan.net/news/IBM/ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-5m0a3ibdxiwv.html",
-    "title": "IBM and Arm target AI systems that preserve mission-critical computing - Stock Titan",
-    "body": "International Business Machines Corp NYSE:IBM View IBM Stock Overview → IBM Rankings #53 Ranked by Market Cap #868 Ranked by Dividends #1245 52-Week Gainer #1723 YTD Gainer #1391 Ranked by Short %Change IBM Latest News Apr 1, 2026 IBM Expands FedRAMP Portfolio with Authorization of 11 Software Solutions, Including watsonx Mar 31, 2026 IBM and ETH Zurich join forces to shape the future of algorithms for the AI and quantum era Mar 26, 2026 IBM Quantum Computer Accurately Simulates Real Magnetic Materials, Reproducing National Laboratory Data Mar 25, 2026 Enterprise AI Finds its Voice: ElevenLabs and IBM Bring Premium Voice Capabilities to Agentic AI Mar 23, 2026 IBM Debuts New AI Enabled Digital Experiences for the 90th Masters Tournament IBM Latest SEC Filings Apr 1, 2026 [Form 4] INTERNATIONAL BUSINESS MACHINES CORP Insider Trading Activity Apr 1, 2026 [Form 4] INTERNATIONAL BUSINESS MACHINES CORP Insider Trading Activity Apr 1, 2026 [Form 4] INTERNATIONAL BUSINESS MACHINES CORP Insider Trading Activity Apr 1, 2026 [Form 4] INTERNATIONAL BUSINESS MACHINES CORP Insider Trading Activity Apr 1, 2026 [Form 4] INTERNATIONAL BUSINESS MACHINES CORP Insider Trading Activity IBM Stock Data Market Cap 222.64B Float 936.58M Industry Information Technology Services Sector Computer & Office Equipment Website Link Country United States City ARMONK",
-    "author": null,
-    "language": "en",
-    "ticker": "IBM",
-    "tickers_hint": [
-      "IBM"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.6,
-      "event_origin": "news",
-      "query_tickers": [
-        "IBM"
-      ],
-      "body_kind": "article_text"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "886dffe9-5b58-51f6-8ff9-1246219e7a00",
-    "timestamp_utc": "2026-04-01T02:30:00+00:00",
-    "source": "stock_titan",
-    "url": "https://www.stocktitan.net/news/IBM/ibm-expands-fed-ramp-portfolio-with-authorization-of-11-software-iwvkbli4m64q.html",
-    "title": "Federal agencies gain 11 IBM AI tools on AWS GovCloud, including watsonx - Stock Titan",
-    "body": "International Business Machines Corp NYSE:IBM View IBM Stock Overview → IBM Rankings #53 Ranked by Market Cap #868 Ranked by Dividends #1245 52-Week Gainer #1723 YTD Gainer #1391 Ranked by Short %Change IBM Latest News Apr 2, 2026 IBM Announces Strategic Collaboration with Arm to Shape the Future of Enterprise Computing Mar 31, 2026 IBM and ETH Zurich join forces to shape the future of algorithms for the AI and quantum era Mar 26, 2026 IBM Quantum Computer Accurately Simulates Real Magnetic Materials, Reproducing National Laboratory Data Mar 25, 2026 Enterprise AI Finds its Voice: ElevenLabs and IBM Bring Premium Voice Capabilities to Agentic AI Mar 23, 2026 IBM Debuts New AI Enabled Digital Experiences for the 90th Masters Tournament IBM Latest SEC Filings Apr 1, 2026 [Form 4] INTERNATIONAL BUSINESS MACHINES CORP Insider Trading Activity Apr 1, 2026 [Form 4] INTERNATIONAL BUSINESS MACHINES CORP Insider Trading Activity Apr 1, 2026 [Form 4] INTERNATIONAL BUSINESS MACHINES CORP Insider Trading Activity Apr 1, 2026 [Form 4] INTERNATIONAL BUSINESS MACHINES CORP Insider Trading Activity Apr 1, 2026 [Form 4] INTERNATIONAL BUSINESS MACHINES CORP Insider Trading Activity IBM Stock Data Market Cap 222.64B Float 936.58M Industry Information Technology Services Sector Computer & Office Equipment Website Link Country United States City ARMONK",
-    "author": null,
-    "language": "en",
-    "ticker": "IBM",
-    "tickers_hint": [
-      "IBM"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
       "relevance": 0.55,
-      "event_origin": "news",
-      "query_tickers": [
-        "IBM"
-      ],
-      "body_kind": "article_text"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.5575,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "c532f5da-56ba-50ac-adbd-aafbdfaf8995",
-    "timestamp_utc": "2026-04-01T00:36:39+00:00",
+    "id": "3b688e71-32b9-57f9-9ad0-dc356df16fc6",
+    "timestamp_utc": "2026-04-08T05:26:45+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8781977/ibm-stock-stifel-analyst-lowers-price-target-to-290-ibm-stock-news?mobile=true",
+    "title": "IBM Stock: Stifel Analyst Lowers Price Target to $290 | IBM Stoc - GuruFocus",
+    "body": "IBM Stock: Stifel Analyst Lowers Price Target to $290 | IBM Stoc GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "IBM",
+    "tickers_hint": [
+      "IBM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "event_origin": "news",
+      "relevance": 0.7000000000000001,
+      "quality_score": 0.52,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "e056dd30-7ab4-5d44-a122-a04a82847a25",
+    "timestamp_utc": "2026-04-08T10:55:57+00:00",
     "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-international-business-machines-corporation-ibm-shares-purchased-by-nisa-investment-advisors-llc-2026-04-01/",
-    "title": "International Business Machines Corporation $IBM Shares Purchased by Nisa Investment Advisors LLC - MarketBeat",
-    "body": "International Business Machines Corporation $IBM Shares Purchased by Nisa Investment Advisors LLC MarketBeat",
+    "url": "https://www.marketbeat.com/instant-alerts/international-business-machines-nyseibm-shares-down-14-following-analyst-downgrade-2026-04-08/",
+    "title": "International Business Machines (NYSE:IBM) Shares Down 1.4% Following Analyst Downgrade - MarketBeat",
+    "body": "International Business Machines (NYSE:IBM) Shares Down 1.4% Following Analyst Downgrade MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "IBM",
@@ -159,18 +152,124 @@
     ],
     "source_quality": "low",
     "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "MarketBeat",
       "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
       "event_origin": "news",
-      "query_tickers": [
-        "IBM"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.65,
+      "quality_score": 0.5075,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "e5dd09ec-d903-55fa-99ae-407b01fe78c3",
+    "timestamp_utc": "2026-04-08T21:55:53+00:00",
+    "source": "national_today",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU1dTcmxhZ29oRGhmYU9lWlEyUU1JOERnWE1oblJjd1N2TllmRE5DUElUWmZxczRvampVWmdUWi1fVHZGUkdFTFBvWmlRRGFfWlo2dnFZNmJaNzBNNWxXOGtYQnliSUNPd2ZLa1dqYjF4ZmpPNk1FN1YyQ2xsSmxxU0E2MzdUUnZwdmNmU18xUWN5R3Y3Yld4Y0hIdkg?oc=5",
+    "title": "Addenda Capital Reduces IBM Stake by 9.8% - National Today",
+    "body": "Addenda Capital Reduces IBM Stake by 9.8% National Today",
+    "author": null,
+    "language": "en",
+    "ticker": "IBM",
+    "tickers_hint": [
+      "IBM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "national today",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "National Today",
+      "source_domain": "nationaltoday.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.451,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "de63eb43-fb17-5ae6-82b5-d0d1c0ae2131",
+    "timestamp_utc": "2026-04-09T01:51:50+00:00",
+    "source": "national_today",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV08yU2lEX3c1ZE1PZTRLbmdlWkd6emNQbXpRSkgxcWtpRXB4QUlmVHZrZWdHRThZZUVkT1N6Ylh4eE5FQ1VVZmFWYUt1ZHZkbUtObzVKNkdoWVRYQzJBNEpYdC1CQkV0di1RRklSc3llWlloSG5kY1pfYzg1YzVHbTlCdktoSGF2bXl3aEM4SVgxRnZIcDVPa19oZjJBYzBjY0VNNFN5aUFSOVVzTXRlbkNaNFYwdHpUZHc?oc=5",
+    "title": "IBM Holdings Trimmed by McElhenny Sheffield Capital Management - National Today",
+    "body": "IBM Holdings Trimmed by McElhenny Sheffield Capital Management National Today",
+    "author": null,
+    "language": "en",
+    "ticker": "IBM",
+    "tickers_hint": [
+      "IBM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "national today",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "National Today",
+      "source_domain": "nationaltoday.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.45,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "0ac3ae66-2e56-5e14-a712-b8825eb4c62e",
+    "timestamp_utc": "2026-04-08T23:28:51+00:00",
+    "source": "national_today",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSkc5SGp2S1F2XzRJV2ZyaWhRNU0wYWdCcDUzLWtYU1dUSDZHMXhYZEhqYTBKVVRkZVhNSGoyYXVzeGJTWXduc1NqanRzczlEczJYUmlab1hYUHFqQmoza21STjM0LTU5QU80SkduZlV0MGZCTm9YTWtfb1ZvZUxQYkYtal85Q3RBeTRLS1RxMmhGbkpzQm04?oc=5",
+    "title": "Centennial Advisors Boosts IBM Stake - National Today",
+    "body": "Centennial Advisors Boosts IBM Stake National Today",
+    "author": null,
+    "language": "en",
+    "ticker": "IBM",
+    "tickers_hint": [
+      "IBM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "national today",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "National Today",
+      "source_domain": "nationaltoday.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.421,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "2e719606-0cf0-54e9-979e-752e891e23c2",
+    "timestamp_utc": "2026-04-08T00:44:21+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-international-business-machines-corporation-ibm-shares-purchased-by-mbl-wealth-llc-2026-04-08/",
+    "title": "International Business Machines Corporation $IBM Shares Purchased by MBL Wealth LLC - MarketBeat",
+    "body": "International Business Machines Corporation $IBM Shares Purchased by MBL Wealth LLC MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "IBM",
+    "tickers_hint": [
+      "IBM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4025,
+      "_channel": "google_broad"
+    }
   }
 ]

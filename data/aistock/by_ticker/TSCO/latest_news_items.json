@@ -1,11 +1,38 @@
 [
   {
-    "id": "daa49740-0642-5f58-9ea3-3096db4c7c38",
-    "timestamp_utc": "2026-04-03T20:32:50+00:00",
-    "source": "stocktitan.net",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSEhNTmtCLUVIZGlWTGdFQ2ZZV0FFa2hfaGV1Vkc1R3QwS3Z0RVZYUVpUb2NuNlZFZ3hMeTBPWk9tVWt1M19rbTdYN0hBZUY3M2tIVnVxRzFvNDJHVUpBVkhnZ0FhWW5yMmVhT0FVRkxldUNwUGRETjRoMkd3R19MM1NlSnM3WmVTS2xnZTIyaElLVUlJZW1CNEdtT082WlBHR1lzSldER1YwelhPRDdBWEg2R3Q?oc=5",
-    "title": "Director Krishnan Ramkumar takes Tractor Supply (TSCO) fees in stock - stocktitan.net",
-    "body": "Director Krishnan Ramkumar takes Tractor Supply (TSCO) fees in stock stocktitan.net",
+    "id": "9f84615f-c929-5de9-a8d5-ded508f4a4d1",
+    "timestamp_utc": "2026-04-08T05:40:04+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVExpNVNpNENxMnZwd05Yc0o0aWx2MG9BaHBmUE04RnhrU2hvbUU0Uk4xbGQ4cmZMbWR2NHVvbk9udnh0VGRUclZEelZ6M0FEc1FXWjdnbkJ5eHA2bXpkWlhmR0FERnRoM25kZ0l6aWxjMXAzclVBRnRlMy0xTVl0THA3dkg3dVVsb25SVTdNSHQ2bGVwbHlMZg?oc=5",
+    "title": "WOOF or TSCO: Which Is the Better Value Stock Right Now? - Yahoo Finance",
+    "body": "WOOF or TSCO: Which Is the Better Value Stock Right Now? Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "TSCO",
+    "tickers_hint": [
+      "TSCO"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.62,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "c3716d21-d8bf-5105-8899-5fed672ec021",
+    "timestamp_utc": "2026-04-08T23:23:16+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/rep-april-mcclain-delaney-buys-tractor-supply-company-nasdaqtsco-shares-2026-04-09/",
+    "title": "Rep. April McClain Delaney Buys Tractor Supply Company (NASDAQ:TSCO) Shares - MarketBeat",
+    "body": "Rep. April McClain Delaney Buys Tractor Supply Company (NASDAQ:TSCO) Shares MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "TSCO",
@@ -13,19 +40,17 @@
       "TSCO"
     ],
     "source_quality": "low",
-    "publisher_raw": "stocktitan.net",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "stocktitan.net",
-      "source_domain": "stocktitannet.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
       "event_origin": "news",
-      "query_tickers": [
-        "TSCO"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4425,
+      "_channel": "google_broad"
+    }
   }
 ]

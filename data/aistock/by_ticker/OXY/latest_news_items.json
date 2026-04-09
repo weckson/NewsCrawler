@@ -1,11 +1,38 @@
 [
   {
-    "id": "a9d4d41b-7f6c-506f-91c4-03e2e064c085",
-    "timestamp_utc": "2026-04-01T07:13:26+00:00",
-    "source": "traders_union",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTjUyTnFVQi1wNnhZcE5uVDJBbzllcWNKX1RuZEVjU0NhMTdYU1lPcmFvLW9BcEJLaWRYM0dlSlVRZXF4a1lsUldQRG9iR3VQSVdIa0FrNllCcjFVanVlbVJoWXRIM0gweno3eHlzUEJBN3NIOHQ5U3ZiWmNmVlBPbkdFb2Vya0o0bVF2TC1aRE9WZm5WVDUtUUVTT3BUTHhqY29LU2xB?oc=5",
-    "title": "Occidental Petroleum stock price forecast: Volatility expected as OXY declines 4.83% from recent highs - Traders Union",
-    "body": "Occidental Petroleum stock price forecast: Volatility expected as OXY declines 4.83% from recent highs Traders Union",
+    "id": "d0614140-a039-53cd-b66b-1280e77be909",
+    "timestamp_utc": "2026-04-08T11:50:01+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSU1ESDBzZTE4ZV9GQ1NtSU85MHNYLVZiNGdwaTRjNEQxUVVyMzE2dnpWNHlNbWViU0I5SVRfcmZPbEJQcHdHODJ3Y1VwUWVsOHF2SXd2dk1YbWI4WDlJTHJMZThYRUstaHQyOU9ualhGM2Q0YkIzTk9GbTNKcHdfNURPN3k1RFVKN2tocWlXOWd4TGpfcTFzMEt4T2p6Z0tidklN?oc=5",
+    "title": "Occidental Petroleum (OXY) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
+    "body": "Occidental Petroleum (OXY) Stock Falls Amid Market Uptick: What Investors Need to Know Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "OXY",
+    "tickers_hint": [
+      "OXY"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.635,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "bd5d7194-f160-5d07-a4bc-3b02adfe0902",
+    "timestamp_utc": "2026-04-08T03:57:25+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/bmo-capital-markets-issues-positive-forecast-for-occidental-petroleum-nyseoxy-stock-price-2026-04-08/",
+    "title": "BMO Capital Markets Issues Positive Forecast for Occidental Petroleum (NYSE:OXY) Stock Price - MarketBeat",
+    "body": "BMO Capital Markets Issues Positive Forecast for Occidental Petroleum (NYSE:OXY) Stock Price MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "OXY",
@@ -13,19 +40,101 @@
       "OXY"
     ],
     "source_quality": "low",
-    "publisher_raw": "traders union",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Traders Union",
-      "source_domain": "tradersunion.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
       "event_origin": "news",
-      "query_tickers": [
-        "OXY"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4525,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "fe5092b2-a4bd-5b56-aa5a-fce7237aa408",
+    "timestamp_utc": "2026-04-08T16:10:55+00:00",
+    "source": "msn",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MUGRxc0RqbnExZmJoR2Y1VG9zaGdLYm1URDBQYXFVbVZBdEFaODVNNnAwbmVublcwMzJiLThMZDdRTTB0dFZRcm4yLVJMbDVkb3M2UzRlekk2NmZreVhDdmp1ZUlZY1pLV2Y3M1E2X05keDFlb3NwRkJtbUJNOGc?oc=5",
+    "title": "OCCIDENTAL PETROLEUM CORPORATION (OXY) - MSN",
+    "body": "OCCIDENTAL PETROLEUM CORPORATION (OXY) MSN",
+    "author": null,
+    "language": "en",
+    "ticker": "OXY",
+    "tickers_hint": [
+      "OXY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "msn",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MSN",
+      "source_domain": "msn.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.431,
+      "_channel": "google_broad",
+      "_alt_sources": [
+        "MSN"
+      ]
+    }
+  },
+  {
+    "id": "539ee07f-88ae-5ce4-b0f2-5703be2bf425",
+    "timestamp_utc": "2026-04-08T11:02:42+00:00",
+    "source": "stockstory",
+    "url": "https://stockstory.org/us/stocks/nyse/oxy/news/why-up-down/why-occidental-petroleum-oxy-shares-are-trading-lower-today",
+    "title": "Why Occidental Petroleum (OXY) Shares Are Trading Lower Today - StockStory",
+    "body": "Why Occidental Petroleum (OXY) Shares Are Trading Lower Today StockStory",
+    "author": null,
+    "language": "en",
+    "ticker": "OXY",
+    "tickers_hint": [
+      "OXY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stockstory",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "StockStory",
+      "source_domain": "stockstory.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4225,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "05a9489f-6c68-539b-a34a-b88ae078fe13",
+    "timestamp_utc": "2026-04-08T06:38:15+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/occidental-petroleum-nyseoxy-shares-gap-down-time-to-sell-2026-04-08/",
+    "title": "Occidental Petroleum (NYSE:OXY) Shares Gap Down - Time to Sell? - MarketBeat",
+    "body": "Occidental Petroleum (NYSE:OXY) Shares Gap Down - Time to Sell? MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "OXY",
+    "tickers_hint": [
+      "OXY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4225,
+      "_channel": "google_broad"
+    }
   }
 ]

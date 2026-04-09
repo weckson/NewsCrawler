@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "6b68eddf-9b92-5423-aedb-b7bde7259fcc",
-      "timestamp_utc": "2026-04-03T08:05:48+00:00",
+      "id": "fe2314db-b42b-5651-abcb-c0f712b84dd5",
+      "timestamp_utc": "2026-04-09T00:12:19+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-walmart-inc-wmt-shares-purchased-by-compagnie-lombard-odier-scma-2026-04-03/",
-      "title": "Walmart Inc. $WMT Shares Purchased by Compagnie Lombard Odier SCmA - MarketBeat",
-      "body": "Walmart Inc. $WMT Shares Purchased by Compagnie Lombard Odier SCmA MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-robinhood-asset-management-llc-invests-1311-million-in-walmart-inc-wmt-2026-04-09/",
+      "title": "Robinhood Asset Management LLC Invests $13.11 Million in Walmart Inc. $WMT - MarketBeat",
+      "body": "Robinhood Asset Management LLC Invests $13.11 Million in Walmart Inc. $WMT MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "WMT",
@@ -16,30 +16,55 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
         "event_origin": "news",
-        "query_tickers": [
-          "WMT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4925,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "8d15cd7f-b293-59c9-8be8-722919cc0548",
+      "timestamp_utc": "2026-04-08T11:19:55+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/walmart-nasdaqwmt-stock-price-up-39-heres-why-2026-04-08/",
+      "title": "Walmart (NASDAQ:WMT) Stock Price Up 3.9% - Here's Why - MarketBeat",
+      "body": "Walmart (NASDAQ:WMT) Stock Price Up 3.9% - Here's Why MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "WMT",
+      "tickers_hint": [
+        "WMT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4525,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "6b68eddf-9b92-5423-aedb-b7bde7259fcc",
-      "timestamp_utc": "2026-04-03T08:05:48+00:00",
+      "id": "fe2314db-b42b-5651-abcb-c0f712b84dd5",
+      "timestamp_utc": "2026-04-09T00:12:19+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-walmart-inc-wmt-shares-purchased-by-compagnie-lombard-odier-scma-2026-04-03/",
-      "title": "Walmart Inc. $WMT Shares Purchased by Compagnie Lombard Odier SCmA - MarketBeat",
-      "body": "Walmart Inc. $WMT Shares Purchased by Compagnie Lombard Odier SCmA MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-robinhood-asset-management-llc-invests-1311-million-in-walmart-inc-wmt-2026-04-09/",
+      "title": "Robinhood Asset Management LLC Invests $13.11 Million in Walmart Inc. $WMT - MarketBeat",
+      "body": "Robinhood Asset Management LLC Invests $13.11 Million in Walmart Inc. $WMT MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "WMT",
@@ -48,19 +73,44 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
         "event_origin": "news",
-        "query_tickers": [
-          "WMT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4925,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "8d15cd7f-b293-59c9-8be8-722919cc0548",
+      "timestamp_utc": "2026-04-08T11:19:55+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/walmart-nasdaqwmt-stock-price-up-39-heres-why-2026-04-08/",
+      "title": "Walmart (NASDAQ:WMT) Stock Price Up 3.9% - Here's Why - MarketBeat",
+      "body": "Walmart (NASDAQ:WMT) Stock Price Up 3.9% - Here's Why MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "WMT",
+      "tickers_hint": [
+        "WMT"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4525,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

@@ -1,11 +1,11 @@
 [
   {
-    "id": "d30e5322-df7f-504c-84fb-6f9c1cd4d36c",
-    "timestamp_utc": "2026-04-01T10:58:00+00:00",
+    "id": "8a46a117-c4a7-55ec-a1a0-fa3db6ab77b0",
+    "timestamp_utc": "2026-04-08T10:10:00+00:00",
     "source": "motley_fool",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84NUVFWG96aGFVc193MlVhNjdiNld0SWNFYnhsLUNqdmhFLUFjRElJTnd0TTJOV1ZqRUFZcTZ2ai1YMmt4ajh1YnV1MkFVcWVxLXZsWkZWaFNzcnJhZlZKc3BOemRLdlZjSUR4NWRIcnc4Vl9IbjU1UA?oc=5",
-    "title": "GE Vernova (GEV) Stock: Buy, Sell, or Hold? - The Motley Fool",
-    "body": "GE Vernova (GEV) Stock: Buy, Sell, or Hold? The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMDRjOWFSMmJocW1GUzVXUTl6Vl9PTVBXNlFDZEtpNDFUTmFGVXFvOWFLSEo2Q2tjNG15cnFQNlJ6SWVYOWhsVlhLYUh3MUlQaGRpZWotM1VmdFRmYjhNcDJDU1RycE5zVXZ4Smdrd2xGWFRSLU9WLUxMNHpEQjd1QjEzSUc?oc=5",
+    "title": "Where Will GE Vernova (GEV) Stock Be in 10 Years? - The Motley Fool",
+    "body": "Where Will GE Vernova (GEV) Stock Be in 10 Years? The Motley Fool",
     "author": null,
     "language": "en",
     "ticker": "GEV",
@@ -14,137 +14,19 @@
     ],
     "source_quality": "high",
     "publisher_raw": "fool.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "The Motley Fool",
       "source_domain": "fool.com",
-      "trust_tier": 3,
-      "relevance": 0.5,
       "event_origin": "news",
-      "query_tickers": [
-        "GEV"
-      ],
-      "alt_sources": [
+      "relevance": 0.5,
+      "quality_score": 0.621,
+      "_channel": "google_broad",
+      "_alt_sources": [
         "The Globe and Mail"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "c4de4495-dc80-5a2d-9cf5-bc8a714ddd10",
-    "timestamp_utc": "2026-04-01T09:03:50+00:00",
-    "source": "insider_monkey",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX3ZOaUF2Z0VGMVR5b2MtNFBvdVdPZG94MkdqbHIwTmwwazg5eFFVYmVfOU90dnZTWjBrelBEMm11ZVQxQmxvNGdleklhTGRwTW40S29aOGZwdzN1anFSeWg1OF9UM2dMTUh2cVdIeU9acTgxVkJUR2FQWU9zbldOUFU5SXFMQjY3TS1nem1oUWNlQWktNGJYT2FPcG5LZHNkR0ctVjdPZWEydHZsVVBj0gG3AUFVX3lxTE5pUDRKWEY1MTRwdVlsYzR4eHdfZERDTktYam15V1RJRzZFV1BLeEl6Mk1aMDVXblE2Mk5Qanp1U1pEVE9tQ3ZOS094LUJ1TGYwNktvSk5MeEdKei1SM2hnR29NeGlNQTA1bUtjakxVTWtVa3FmekRxUkhtN2xkQUVQWXViRUt2X2NEaVJmSm50YlZlbGtOWl9Vci1GMDFnRnYwUG95Q2R2QlEwZGdEYkJ6X0tJeVc0SQ?oc=5",
-    "title": "GE Vernova Inc. (GEV): Billionaire Ray Dalio Admires This Energy Stock - Insider Monkey",
-    "body": "GE Vernova Inc. (GEV): Billionaire Ray Dalio Admires This Energy Stock Insider Monkey",
-    "author": null,
-    "language": "en",
-    "ticker": "GEV",
-    "tickers_hint": [
-      "GEV"
-    ],
-    "source_quality": "medium",
-    "publisher_raw": "insidermonkey.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Insider Monkey",
-      "source_domain": "insidermonkey.com",
-      "trust_tier": 2,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "GEV"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "71f975b4-14d0-5076-94e5-e363aa751d88",
-    "timestamp_utc": "2026-04-01T11:15:54+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/ge-vernova-nysegev-stock-price-up-26-on-analyst-upgrade-2026-04-01/",
-    "title": "GE Vernova (NYSE:GEV) Stock Price Up 2.6% on Analyst Upgrade - MarketBeat",
-    "body": "GE Vernova (NYSE:GEV) Stock Price Up 2.6% on Analyst Upgrade MarketBeat",
-    "author": null,
-    "language": "en",
-    "ticker": "GEV",
-    "tickers_hint": [
-      "GEV"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.65,
-      "event_origin": "news",
-      "query_tickers": [
-        "GEV"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "c51f75cf-2098-514b-bdb8-ceecb6e46d01",
-    "timestamp_utc": "2026-04-01T00:14:31+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/ge-vernova-nysegev-stock-rating-upgraded-by-zacks-research-2026-04-01/",
-    "title": "GE Vernova (NYSE:GEV) Stock Rating Upgraded by Zacks Research - MarketBeat",
-    "body": "GE Vernova (NYSE:GEV) Stock Rating Upgraded by Zacks Research MarketBeat",
-    "author": null,
-    "language": "en",
-    "ticker": "GEV",
-    "tickers_hint": [
-      "GEV"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.65,
-      "event_origin": "news",
-      "query_tickers": [
-        "GEV"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "d6e42ebc-b8e5-51e2-82c8-c0dde2d9ea76",
-    "timestamp_utc": "2026-04-01T00:44:43+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-nisa-investment-advisors-llc-increases-stock-position-in-ge-vernova-inc-gev-2026-04-01/",
-    "title": "Nisa Investment Advisors LLC Increases Stock Position in GE Vernova Inc. $GEV - MarketBeat",
-    "body": "Nisa Investment Advisors LLC Increases Stock Position in GE Vernova Inc. $GEV MarketBeat",
-    "author": null,
-    "language": "en",
-    "ticker": "GEV",
-    "tickers_hint": [
-      "GEV"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
-      "event_origin": "news",
-      "query_tickers": [
-        "GEV"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      ]
+    }
   }
 ]

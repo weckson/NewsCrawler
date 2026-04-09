@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "a988609c-07a2-5f90-9ce7-e292e152db15",
-      "timestamp_utc": "2026-04-01T13:56:30+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/ROL/earnings",
-      "title": "ROL Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "ROL Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "ae05f7de-d37c-588b-9146-984a76051527",
+      "timestamp_utc": "2026-04-06T01:17:30+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-rathbones-group-plc-cuts-stock-position-in-rollins-inc-rol-2026-04-06/",
+      "title": "Rathbones Group PLC Cuts Stock Position in Rollins, Inc. $ROL - MarketBeat",
+      "body": "Rathbones Group PLC Cuts Stock Position in Rollins, Inc. $ROL MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "ROL",
@@ -15,31 +15,29 @@
         "ROL"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "ROL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4025,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "a988609c-07a2-5f90-9ce7-e292e152db15",
-      "timestamp_utc": "2026-04-01T13:56:30+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/ROL/earnings",
-      "title": "ROL Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "ROL Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "ae05f7de-d37c-588b-9146-984a76051527",
+      "timestamp_utc": "2026-04-06T01:17:30+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-rathbones-group-plc-cuts-stock-position-in-rollins-inc-rol-2026-04-06/",
+      "title": "Rathbones Group PLC Cuts Stock Position in Rollins, Inc. $ROL - MarketBeat",
+      "body": "Rathbones Group PLC Cuts Stock Position in Rollins, Inc. $ROL MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "ROL",
@@ -47,20 +45,18 @@
         "ROL"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "ROL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4025,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

@@ -1,31 +1,29 @@
 [
   {
-    "id": "0808508e-8543-5729-a74d-74a68d3e13e9",
-    "timestamp_utc": "2026-04-04T08:26:50+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-the-home-depot-inc-hd-stock-holdings-lessened-by-beaumont-financial-advisors-llc-2026-04-04/",
-    "title": "The Home Depot, Inc. $HD Stock Holdings Lessened by Beaumont Financial Advisors LLC - MarketBeat",
-    "body": "The Home Depot, Inc. $HD Stock Holdings Lessened by Beaumont Financial Advisors LLC MarketBeat",
+    "id": "df580ace-acac-5184-b481-1f7a7fe44b89",
+    "timestamp_utc": "2026-04-08T06:06:01+00:00",
+    "source": "tipranks",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTjR5c0dfb2dQNlhONTVwWDZfX3RhZEZHWFJqY3RaYTN1blZFbm1OUVNiRmgyMjJidk1UbzNuT2l2cHkxSFRvZklReEdmYjBYb2loVU9DSGhwcjFQLXR6R0lNMTZMTW9zbjJJcGo2dlJwc1JfdHZGMkNnMF9VbnpubXhacHhYNDVMQ2FNcmh1TTRqUFJ0VndtbThkckYxSmdWN0E?oc=5",
+    "title": "“Halfway to Halloween” Hits Home Depot, Home Depot Stock (NYSE:HD) Blasts Up - TipRanks",
+    "body": "“Halfway to Halloween” Hits Home Depot, Home Depot Stock (NYSE:HD) Blasts Up TipRanks",
     "author": null,
     "language": "en",
     "ticker": "HD",
     "tickers_hint": [
       "HD"
     ],
-    "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
+    "source_quality": "high",
+    "publisher_raw": "tipranks.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
       "event_origin": "news",
-      "query_tickers": [
-        "HD"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.62,
+      "_channel": "google_broad"
+    }
   }
 ]

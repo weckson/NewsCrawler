@@ -1,11 +1,11 @@
 [
   {
-    "id": "b99c0c7c-6e05-5cda-a76f-e6c32ac47ccc",
-    "timestamp_utc": "2026-04-04T09:11:21+00:00",
-    "source": "intellectia_ai",
-    "url": "https://intellectia.ai/en/stock/TTWO/earnings",
-    "title": "TTWO Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-    "body": "TTWO Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+    "id": "aa4e0270-73ea-5578-9d7f-214c82f9aad6",
+    "timestamp_utc": "2026-04-08T00:04:28+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-take-two-interactive-software-inc-ttwo-stock-position-reduced-by-rathbones-group-plc-2026-04-08/",
+    "title": "Take-Two Interactive Software, Inc. $TTWO Stock Position Reduced by Rathbones Group PLC - MarketBeat",
+    "body": "Take-Two Interactive Software, Inc. $TTWO Stock Position Reduced by Rathbones Group PLC MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "TTWO",
@@ -13,52 +13,17 @@
       "TTWO"
     ],
     "source_quality": "low",
-    "publisher_raw": "intellectia ai",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Intellectia AI",
-      "source_domain": "intellectiaai.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
       "event_origin": "news",
-      "query_tickers": [
-        "TTWO"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "566999ce-815d-5634-9c7f-e9ec9841cf63",
-    "timestamp_utc": "2026-04-04T00:41:56+00:00",
-    "source": "yahoo_finance_uk",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aVUZHZTdGNHl0MXZ4b0toZDBtZFRJUXYzZmNEZ3RfWlNXNTkwU3gyRF90TXFFSXBSNkhOQnE4WEVzUkVHMWY5czRNTWJTUDJweGc?oc=5",
-    "title": "Take-Two Interactive Software, Inc. (TTWO) stock price, news, quote and history - Yahoo Finance UK",
-    "body": "Take-Two Interactive Software, Inc. (TTWO) stock price, news, quote and history Yahoo Finance UK",
-    "author": null,
-    "language": "en",
-    "ticker": "TTWO",
-    "tickers_hint": [
-      "TTWO"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "yahoo finance uk",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance UK",
-      "source_domain": "yahoofinanceuk.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "TTWO"
-      ],
-      "alt_sources": [
-        "Yahoo Finance UK",
-        "Yahoo Finance Singapore"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4025,
+      "_channel": "google_broad"
+    }
   }
 ]

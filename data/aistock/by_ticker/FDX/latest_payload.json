@@ -2,41 +2,66 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "e6cfaed1-9a81-530a-b8bb-1e8b6cbbfe86",
-      "timestamp_utc": "2026-04-04T06:30:17+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtYmdtYng1ZFo2SXhJMHAwUFRid1UtdTlGc09uN1F3V2I5ZEpsbHpUdmN5NVlRSEljRUxXLUNOV1I3cklSa0xqaWtCQlBwc1ZWM3dTbVFnNA?oc=5",
-      "title": "FedEx Corporation (FDX) Latest Stock News & Headlines - Yahoo! Finance Canada",
-      "body": "FedEx Corporation (FDX) Latest Stock News & Headlines Yahoo! Finance Canada",
+      "id": "9e0ffd16-48bc-512a-83db-93dc54f5a1a5",
+      "timestamp_utc": "2026-04-08T04:43:30+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU2paMnNNT3RaajdDSjRtN0Q4eDRDWkZqMXB1OTkyNi1SeUFSc1kyN1VJeXFMaE1OZW9LNFdEMVRDUTUtbHFoLUt4ZEpQU2pVeFdsMzkxYWxIZkhPV3l3M09MLWVBMnhYQWk5WWQ4MU1rd25seXhVZkxPbC13SzZFMHYyZEtYSmdXdDI0?oc=5",
+      "title": "FedEx Freight sets standalone financial goals (FDX:NYSE) - Seeking Alpha",
+      "body": "FedEx Freight sets standalone financial goals (FDX:NYSE) Seeking Alpha",
       "author": null,
       "language": "en",
       "ticker": "FDX",
       "tickers_hint": [
         "FDX"
       ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
         "event_origin": "news",
-        "query_tickers": [
-          "FDX"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.62,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "6c3749bb-1c4a-59f0-9c67-b9477fb87448",
-      "timestamp_utc": "2026-04-04T06:11:54+00:00",
-      "source": "yahoo_finance_singapore",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DR3dEUzlONTNxaE9WanRsbTh6cjJSZEtLNTBXdHk1NF9YOUdfS29yV3c0b1NwUll3VkdIZjlvMjJ2QkdCNXN0UGFWdEdTeFZ5UnljQlE1VkRqMzhDVkczbQ?oc=5",
-      "title": "FedEx Corporation (FDX) stock price, news, quote and history - Yahoo Finance Singapore",
-      "body": "FedEx Corporation (FDX) stock price, news, quote and history Yahoo Finance Singapore",
+      "id": "f7b7318a-b233-5745-b640-646a623e5555",
+      "timestamp_utc": "2026-04-08T03:01:47+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTTZYNHFiQWVVQmRlUkZfZEcyaW03dk5kTUpMaFBNUVU5UnloZ1N2YlRvZTBLUldYU2xkNEswRmRIWGhDd2szdTNobTktbnlGQnkxV3hIUlVFdFJheVVLQ1NaYktsSTJ0U3BpVTdTQlVGQlFKMzg2ZDNsV09iMFIzODJneWlkd1VpLXpwZGZvWQ?oc=5",
+      "title": "3 Reasons to Avoid FDX and 1 Stock to Buy Instead - Yahoo Finance",
+      "body": "3 Reasons to Avoid FDX and 1 Stock to Buy Instead Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "FDX",
+      "tickers_hint": [
+        "FDX"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.611,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "d2577397-ba48-5233-89d5-fdb194d2454c",
+      "timestamp_utc": "2026-04-08T21:24:46+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-addenda-capital-inc-reduces-stock-position-in-fedex-corporation-fdx-2026-04-09/",
+      "title": "Addenda Capital Inc. Reduces Stock Position in FedEx Corporation $FDX - MarketBeat",
+      "body": "Addenda Capital Inc. Reduces Stock Position in FedEx Corporation $FDX MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "FDX",
@@ -44,60 +69,110 @@
         "FDX"
       ],
       "source_quality": "low",
-      "publisher_raw": "yahoo finance singapore",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance Singapore",
-        "source_domain": "yahoofinancesingapore.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "FDX"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4425,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "689964ce-17ba-5f70-97fd-53257b2bb97e",
+      "timestamp_utc": "2026-04-08T06:55:00+00:00",
+      "source": "the_chronicle-journal",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ29Cb0JHem5QcDdVcDJwOE80VEFUdHRUSFJRR3B5QmRrVTE3Z0tjODN5TVVoOGpjQzM4TXZwZ2dEcmxsdHE3aElSc00zZ0luYmRVbERlNXZFdjkxa19OeGROVEQ5RlJNQVNfTzhuMU8wQXBBVGhxRGNNd0NJOVgtU2x3am5ydTVZQlFPY0tDbmxMcE1lSGdtN1oxNlk5NW5CQ2pQaTQ4a0lfc1lSc0w3andpTGJpUzh0WVRMTA?oc=5",
+      "title": "Why FedEx (FDX) Stock Is Trading Up Today - The Chronicle-Journal",
+      "body": "Why FedEx (FDX) Stock Is Trading Up Today The Chronicle-Journal",
+      "author": null,
+      "language": "en",
+      "ticker": "FDX",
+      "tickers_hint": [
+        "FDX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "the chronicle-journal",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "The Chronicle-Journal",
+        "source_domain": "thechroniclejournal.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.401,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "e6cfaed1-9a81-530a-b8bb-1e8b6cbbfe86",
-      "timestamp_utc": "2026-04-04T06:30:17+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtYmdtYng1ZFo2SXhJMHAwUFRid1UtdTlGc09uN1F3V2I5ZEpsbHpUdmN5NVlRSEljRUxXLUNOV1I3cklSa0xqaWtCQlBwc1ZWM3dTbVFnNA?oc=5",
-      "title": "FedEx Corporation (FDX) Latest Stock News & Headlines - Yahoo! Finance Canada",
-      "body": "FedEx Corporation (FDX) Latest Stock News & Headlines Yahoo! Finance Canada",
+      "id": "9e0ffd16-48bc-512a-83db-93dc54f5a1a5",
+      "timestamp_utc": "2026-04-08T04:43:30+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU2paMnNNT3RaajdDSjRtN0Q4eDRDWkZqMXB1OTkyNi1SeUFSc1kyN1VJeXFMaE1OZW9LNFdEMVRDUTUtbHFoLUt4ZEpQU2pVeFdsMzkxYWxIZkhPV3l3M09MLWVBMnhYQWk5WWQ4MU1rd25seXhVZkxPbC13SzZFMHYyZEtYSmdXdDI0?oc=5",
+      "title": "FedEx Freight sets standalone financial goals (FDX:NYSE) - Seeking Alpha",
+      "body": "FedEx Freight sets standalone financial goals (FDX:NYSE) Seeking Alpha",
       "author": null,
       "language": "en",
       "ticker": "FDX",
       "tickers_hint": [
         "FDX"
       ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
         "event_origin": "news",
-        "query_tickers": [
-          "FDX"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.62,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "6c3749bb-1c4a-59f0-9c67-b9477fb87448",
-      "timestamp_utc": "2026-04-04T06:11:54+00:00",
-      "source": "yahoo_finance_singapore",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DR3dEUzlONTNxaE9WanRsbTh6cjJSZEtLNTBXdHk1NF9YOUdfS29yV3c0b1NwUll3VkdIZjlvMjJ2QkdCNXN0UGFWdEdTeFZ5UnljQlE1VkRqMzhDVkczbQ?oc=5",
-      "title": "FedEx Corporation (FDX) stock price, news, quote and history - Yahoo Finance Singapore",
-      "body": "FedEx Corporation (FDX) stock price, news, quote and history Yahoo Finance Singapore",
+      "id": "f7b7318a-b233-5745-b640-646a623e5555",
+      "timestamp_utc": "2026-04-08T03:01:47+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTTZYNHFiQWVVQmRlUkZfZEcyaW03dk5kTUpMaFBNUVU5UnloZ1N2YlRvZTBLUldYU2xkNEswRmRIWGhDd2szdTNobTktbnlGQnkxV3hIUlVFdFJheVVLQ1NaYktsSTJ0U3BpVTdTQlVGQlFKMzg2ZDNsV09iMFIzODJneWlkd1VpLXpwZGZvWQ?oc=5",
+      "title": "3 Reasons to Avoid FDX and 1 Stock to Buy Instead - Yahoo Finance",
+      "body": "3 Reasons to Avoid FDX and 1 Stock to Buy Instead Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "FDX",
+      "tickers_hint": [
+        "FDX"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.611,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "d2577397-ba48-5233-89d5-fdb194d2454c",
+      "timestamp_utc": "2026-04-08T21:24:46+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-addenda-capital-inc-reduces-stock-position-in-fedex-corporation-fdx-2026-04-09/",
+      "title": "Addenda Capital Inc. Reduces Stock Position in FedEx Corporation $FDX - MarketBeat",
+      "body": "Addenda Capital Inc. Reduces Stock Position in FedEx Corporation $FDX MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "FDX",
@@ -105,20 +180,45 @@
         "FDX"
       ],
       "source_quality": "low",
-      "publisher_raw": "yahoo finance singapore",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance Singapore",
-        "source_domain": "yahoofinancesingapore.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "FDX"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4425,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "689964ce-17ba-5f70-97fd-53257b2bb97e",
+      "timestamp_utc": "2026-04-08T06:55:00+00:00",
+      "source": "the_chronicle-journal",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ29Cb0JHem5QcDdVcDJwOE80VEFUdHRUSFJRR3B5QmRrVTE3Z0tjODN5TVVoOGpjQzM4TXZwZ2dEcmxsdHE3aElSc00zZ0luYmRVbERlNXZFdjkxa19OeGROVEQ5RlJNQVNfTzhuMU8wQXBBVGhxRGNNd0NJOVgtU2x3am5ydTVZQlFPY0tDbmxMcE1lSGdtN1oxNlk5NW5CQ2pQaTQ4a0lfc1lSc0w3andpTGJpUzh0WVRMTA?oc=5",
+      "title": "Why FedEx (FDX) Stock Is Trading Up Today - The Chronicle-Journal",
+      "body": "Why FedEx (FDX) Stock Is Trading Up Today The Chronicle-Journal",
+      "author": null,
+      "language": "en",
+      "ticker": "FDX",
+      "tickers_hint": [
+        "FDX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "the chronicle-journal",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "The Chronicle-Journal",
+        "source_domain": "thechroniclejournal.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.401,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "6204c1e4-68f6-5078-8170-c8f65fad9dfa",
-      "timestamp_utc": "2026-03-31T18:15:07+00:00",
-      "source": "msn",
-      "url": "https://www.msn.com/en-us/money/topstocks/trimble-trmb-up-38-since-last-earnings-report-can-it-continue/ar-AA1YuDLc",
-      "title": "Trimble (TRMB) up 3.8% since last earnings report: Can it continue? - MSN",
-      "body": "Trimble (TRMB) up 3.8% since last earnings report: Can it continue? MSN",
+      "id": "2b66efe9-11c2-5ef1-9628-7ee54e52fd66",
+      "timestamp_utc": "2026-04-07T18:04:31+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUMF9Ka0NEamtMQXBwMTd2b1hwZklHa0FRNThwcDRqNVRrVzhicC00YUJ6TnI5UmhzclRQVFZlVHdTRWZqVFJEMGZ0SWVUY2I4U1E?oc=5",
+      "title": "Trimble Inc. (TRMB) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Trimble Inc. (TRMB) Stock Price, News, Quote & History Yahoo! Finance Canada",
       "author": null,
       "language": "en",
       "ticker": "TRMB",
@@ -15,31 +15,32 @@
         "TRMB"
       ],
       "source_quality": "low",
-      "publisher_raw": "msn",
+      "publisher_raw": "yahoo! finance canada",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MSN",
-        "source_domain": "msn.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
         "event_origin": "news",
-        "query_tickers": [
-          "TRMB"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.4,
+        "_channel": "google_broad",
+        "_alt_sources": [
+          "Yahoo! Finance Canada"
+        ]
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "6204c1e4-68f6-5078-8170-c8f65fad9dfa",
-      "timestamp_utc": "2026-03-31T18:15:07+00:00",
-      "source": "msn",
-      "url": "https://www.msn.com/en-us/money/topstocks/trimble-trmb-up-38-since-last-earnings-report-can-it-continue/ar-AA1YuDLc",
-      "title": "Trimble (TRMB) up 3.8% since last earnings report: Can it continue? - MSN",
-      "body": "Trimble (TRMB) up 3.8% since last earnings report: Can it continue? MSN",
+      "id": "2b66efe9-11c2-5ef1-9628-7ee54e52fd66",
+      "timestamp_utc": "2026-04-07T18:04:31+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUMF9Ka0NEamtMQXBwMTd2b1hwZklHa0FRNThwcDRqNVRrVzhicC00YUJ6TnI5UmhzclRQVFZlVHdTRWZqVFJEMGZ0SWVUY2I4U1E?oc=5",
+      "title": "Trimble Inc. (TRMB) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Trimble Inc. (TRMB) Stock Price, News, Quote & History Yahoo! Finance Canada",
       "author": null,
       "language": "en",
       "ticker": "TRMB",
@@ -47,20 +48,21 @@
         "TRMB"
       ],
       "source_quality": "low",
-      "publisher_raw": "msn",
+      "publisher_raw": "yahoo! finance canada",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MSN",
-        "source_domain": "msn.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
         "event_origin": "news",
-        "query_tickers": [
-          "TRMB"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.4,
+        "_channel": "google_broad",
+        "_alt_sources": [
+          "Yahoo! Finance Canada"
+        ]
+      }
     }
   ]
 }

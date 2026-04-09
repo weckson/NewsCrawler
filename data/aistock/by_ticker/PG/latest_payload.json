@@ -2,75 +2,61 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "7bdbec6c-c9f7-5cc6-8689-faefcbccea08",
-      "timestamp_utc": "2026-03-31T23:34:38+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/PSA-PG/news",
-      "title": "PSA-PG Stock News Today | Earnings, Events & Price Alerts - Intellectia AI",
-      "body": "PSA-PG Stock News Today | Earnings, Events & Price Alerts Intellectia AI",
+      "id": "2902f5ee-0c19-56fd-9847-2a03af720743",
+      "timestamp_utc": "2026-04-08T09:35:36+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782397/wells-fargo-lowers-price-target-on-procter-gamble-pg-to-158-pg-stock-news",
+      "title": "Wells Fargo Lowers Price Target on Procter & Gamble (PG) to $158 - GuruFocus",
+      "body": "Wells Fargo Lowers Price Target on Procter & Gamble (PG) to $158 GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "PG",
       "tickers_hint": [
-        "PG",
-        "PSA"
+        "PG"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "PG",
-          "PSA"
-        ],
-        "alt_sources": [
-          "Intellectia AI"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4675,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "7bdbec6c-c9f7-5cc6-8689-faefcbccea08",
-      "timestamp_utc": "2026-03-31T23:34:38+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/PSA-PG/news",
-      "title": "PSA-PG Stock News Today | Earnings, Events & Price Alerts - Intellectia AI",
-      "body": "PSA-PG Stock News Today | Earnings, Events & Price Alerts Intellectia AI",
+      "id": "2902f5ee-0c19-56fd-9847-2a03af720743",
+      "timestamp_utc": "2026-04-08T09:35:36+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782397/wells-fargo-lowers-price-target-on-procter-gamble-pg-to-158-pg-stock-news",
+      "title": "Wells Fargo Lowers Price Target on Procter & Gamble (PG) to $158 - GuruFocus",
+      "body": "Wells Fargo Lowers Price Target on Procter & Gamble (PG) to $158 GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "PG",
       "tickers_hint": [
-        "PG",
-        "PSA"
+        "PG"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "PG",
-          "PSA"
-        ],
-        "alt_sources": [
-          "Intellectia AI"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4675,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

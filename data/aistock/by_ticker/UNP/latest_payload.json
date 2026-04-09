@@ -2,70 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "258b38e9-7006-5e38-ac06-0496cdf1564a",
-      "timestamp_utc": "2026-04-01T01:33:25+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-union-pacific-corporation-unp-stock-position-cut-by-scharf-investments-llc-2026-04-01/",
-      "title": "Union Pacific Corporation $UNP Stock Position Cut by Scharf Investments LLC - MarketBeat",
-      "body": "Union Pacific Corporation $UNP Stock Position Cut by Scharf Investments LLC MarketBeat",
-      "author": null,
-      "language": "en",
-      "ticker": "UNP",
-      "tickers_hint": [
-        "UNP"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "UNP"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "5809899e-6064-5b21-804a-d7c850b9362e",
-      "timestamp_utc": "2026-04-01T00:02:29+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-union-pacific-corporation-unp-shares-acquired-by-rockland-trust-co-2026-04-01/",
-      "title": "Union Pacific Corporation $UNP Shares Acquired by Rockland Trust Co. - MarketBeat",
-      "body": "Union Pacific Corporation $UNP Shares Acquired by Rockland Trust Co. MarketBeat",
-      "author": null,
-      "language": "en",
-      "ticker": "UNP",
-      "tickers_hint": [
-        "UNP"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "UNP"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "b8701ff1-5db5-54bf-8ea8-74592550733f",
-      "timestamp_utc": "2026-03-31T06:34:11+00:00",
+      "id": "30eaf4fb-8565-521a-a5ba-4af807fdd0f2",
+      "timestamp_utc": "2026-04-07T13:53:54+00:00",
       "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8761788/union-pacific-unp-bernstein-maintains-rating-raises-price-target-to-293-unp-stock-news?mobile=true",
-      "title": "Union Pacific (UNP): Bernstein Maintains Rating, Raises Price Ta - GuruFocus",
-      "body": "Union Pacific (UNP): Bernstein Maintains Rating, Raises Price Ta GuruFocus",
+      "url": "https://www.gurufocus.com/news/8779899/union-pacific-unp-citigroup-raises-price-target-to-285-maintains-buy-rating-unp-stock-news?mobile=true",
+      "title": "Union Pacific (UNP): Citigroup Raises Price Target to $285, Main - GuruFocus",
+      "body": "Union Pacific (UNP): Citigroup Raises Price Target to $285, Main GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "UNP",
@@ -74,88 +16,28 @@
       ],
       "source_quality": "low",
       "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "GuruFocus",
         "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
         "event_origin": "news",
-        "query_tickers": [
-          "UNP"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4475,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "258b38e9-7006-5e38-ac06-0496cdf1564a",
-      "timestamp_utc": "2026-04-01T01:33:25+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-union-pacific-corporation-unp-stock-position-cut-by-scharf-investments-llc-2026-04-01/",
-      "title": "Union Pacific Corporation $UNP Stock Position Cut by Scharf Investments LLC - MarketBeat",
-      "body": "Union Pacific Corporation $UNP Stock Position Cut by Scharf Investments LLC MarketBeat",
-      "author": null,
-      "language": "en",
-      "ticker": "UNP",
-      "tickers_hint": [
-        "UNP"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "UNP"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "5809899e-6064-5b21-804a-d7c850b9362e",
-      "timestamp_utc": "2026-04-01T00:02:29+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-union-pacific-corporation-unp-shares-acquired-by-rockland-trust-co-2026-04-01/",
-      "title": "Union Pacific Corporation $UNP Shares Acquired by Rockland Trust Co. - MarketBeat",
-      "body": "Union Pacific Corporation $UNP Shares Acquired by Rockland Trust Co. MarketBeat",
-      "author": null,
-      "language": "en",
-      "ticker": "UNP",
-      "tickers_hint": [
-        "UNP"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "UNP"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "b8701ff1-5db5-54bf-8ea8-74592550733f",
-      "timestamp_utc": "2026-03-31T06:34:11+00:00",
+      "id": "30eaf4fb-8565-521a-a5ba-4af807fdd0f2",
+      "timestamp_utc": "2026-04-07T13:53:54+00:00",
       "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8761788/union-pacific-unp-bernstein-maintains-rating-raises-price-target-to-293-unp-stock-news?mobile=true",
-      "title": "Union Pacific (UNP): Bernstein Maintains Rating, Raises Price Ta - GuruFocus",
-      "body": "Union Pacific (UNP): Bernstein Maintains Rating, Raises Price Ta GuruFocus",
+      "url": "https://www.gurufocus.com/news/8779899/union-pacific-unp-citigroup-raises-price-target-to-285-maintains-buy-rating-unp-stock-news?mobile=true",
+      "title": "Union Pacific (UNP): Citigroup Raises Price Target to $285, Main - GuruFocus",
+      "body": "Union Pacific (UNP): Citigroup Raises Price Target to $285, Main GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "UNP",
@@ -164,19 +46,17 @@
       ],
       "source_quality": "low",
       "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "GuruFocus",
         "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
         "event_origin": "news",
-        "query_tickers": [
-          "UNP"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4475,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

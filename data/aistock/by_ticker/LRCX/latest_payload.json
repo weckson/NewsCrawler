@@ -2,12 +2,120 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "a3f68dd8-b8a5-5fde-beca-8b918954db45",
-      "timestamp_utc": "2026-04-04T12:30:18+00:00",
+      "id": "dd336be3-9d95-5b7b-a4ca-9c36cf41fed0",
+      "timestamp_utc": "2026-04-08T16:13:00+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/look-lam-research-lrcx-valuation-021340980.html",
+      "title": "A Look At Lam Research (LRCX) Valuation After Strong Recent Share Price Momentum - Yahoo Finance",
+      "body": "A Look At Lam Research (LRCX) Valuation After Strong Recent Share Price Momentum Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "LRCX",
+      "tickers_hint": [
+        "LRCX"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.665,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "7a9a9957-8a41-59e3-9591-1be627dfdd2a",
+      "timestamp_utc": "2026-04-07T23:57:15+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-lrcx-highlighted-cantor-095715914.html",
+      "title": "Here’s What Lam Research (LRCX) Highlighted at Cantor Fitzgerald Conference - Yahoo Finance",
+      "body": "Here’s What Lam Research (LRCX) Highlighted at Cantor Fitzgerald Conference Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "LRCX",
+      "tickers_hint": [
+        "LRCX"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.625,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "cb8f0120-b465-51f3-82b5-1205274095ac",
+      "timestamp_utc": "2026-04-08T04:01:32+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOEl3N3hObC1vakZ4N0NDX2lYcGI3dGdYX09rS3J4OFl2d3hCUHBfMmVXakJ3Y0FFSDA5YWlxWTFHbHhMZy0tdGxNNi1lRDdHN3k1WFJOb3UtdlVNdEtRdEdBMkl5S2prc1UwQ09SQ3NUUlhsVGhORTB0dHhVbXlmOEp5Q2VrX2RzTjdxTw?oc=5",
+      "title": "Lam Research Stock Jumps on Sector Buzz Alone - TipRanks",
+      "body": "Lam Research Stock Jumps on Sector Buzz Alone TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "LRCX",
+      "tickers_hint": [
+        "LRCX"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.611,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "7aa30b39-7c91-5b06-a426-ee87bf559311",
+      "timestamp_utc": "2026-04-08T08:31:13+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ1pTYzlSdjktY0RCTkdyak5tMDZnazkxcERNV2RyczVBSzFCUzVfSmlUTXlPWWZkMUxCLXkxVFQ1MGJkRDJod21TMF9QMlJsTmxuYkNmc21HUi1fWV9BWVJoUzBaZFFzUEV3UWNtckJiTmlpeDlhY2pGSEpaMmNDdHREQlZYYUxyRnhpOGN6emxBdU9WZFZOSFBxN0xvTmV4SVVRSnVZMnczbHdDVlNWTmZBMTZGaDk5Um1aLUI4MWRUM2Yw?oc=5",
+      "title": "Lam Research and Photronics Stocks Trade Up, What You Need To Know - TradingView",
+      "body": "Lam Research and Photronics Stocks Trade Up, What You Need To Know TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "LRCX",
+      "tickers_hint": [
+        "LRCX"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.53,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "2defd552-af1c-5a63-8f54-c99e19523566",
+      "timestamp_utc": "2026-04-09T02:58:36+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-whalen-wealth-management-inc-makes-new-142-million-investment-in-lam-research-corporation-lrcx-2026-04-04/",
-      "title": "Whalen Wealth Management Inc. Makes New $1.42 Million Investment in Lam Research Corporation $LRCX - MarketBeat",
-      "body": "Whalen Wealth Management Inc. Makes New $1.42 Million Investment in Lam Research Corporation $LRCX MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-weaver-capital-management-llc-takes-position-in-lam-research-corporation-lrcx-2026-04-09/",
+      "title": "Weaver Capital Management LLC Takes Position in Lam Research Corporation $LRCX - MarketBeat",
+      "body": "Weaver Capital Management LLC Takes Position in Lam Research Corporation $LRCX MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "LRCX",
@@ -16,30 +124,271 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
         "event_origin": "news",
-        "query_tickers": [
-          "LRCX"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4875,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "b650b572-f2aa-54cf-8625-1a255e5fc88a",
+      "timestamp_utc": "2026-04-09T01:21:05+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-lam-research-corporation-lrcx-shares-acquired-by-ofi-invest-asset-management-2026-04-09/",
+      "title": "Lam Research Corporation $LRCX Shares Acquired by OFI Invest Asset Management - MarketBeat",
+      "body": "Lam Research Corporation $LRCX Shares Acquired by OFI Invest Asset Management MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "LRCX",
+      "tickers_hint": [
+        "LRCX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4825,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "ec2bdec4-df81-547e-80ec-d1515d4c3fb7",
+      "timestamp_utc": "2026-04-08T12:05:20+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782772/lam-research-lrcx-leads-nasdaq-surge-amid-ceasefire-news",
+      "title": "Lam Research (LRCX) Leads Nasdaq Surge Amid Ceasefire News - GuruFocus",
+      "body": "Lam Research (LRCX) Leads Nasdaq Surge Amid Ceasefire News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "LRCX",
+      "tickers_hint": [
+        "LRCX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4775,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "98dc1c71-0bcb-53f6-84e9-90b7874f3c31",
+      "timestamp_utc": "2026-04-08T11:19:53+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/lam-research-nasdaqlrcx-stock-price-up-99-whats-next-2026-04-08/",
+      "title": "Lam Research (NASDAQ:LRCX) Stock Price Up 9.9% - What's Next? - MarketBeat",
+      "body": "Lam Research (NASDAQ:LRCX) Stock Price Up 9.9% - What's Next? MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "LRCX",
+      "tickers_hint": [
+        "LRCX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4775,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "c1d54aff-1641-5ebd-a99c-03b4507e1837",
+      "timestamp_utc": "2026-04-08T01:56:38+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/zacks-research-downgrades-lam-research-nasdaqlrcx-to-hold-2026-04-08/",
+      "title": "Zacks Research Downgrades Lam Research (NASDAQ:LRCX) to Hold - MarketBeat",
+      "body": "Zacks Research Downgrades Lam Research (NASDAQ:LRCX) to Hold MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "LRCX",
+      "tickers_hint": [
+        "LRCX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.7000000000000001,
+        "quality_score": 0.475,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "463f57c8-097d-5558-8ecb-d731946c4971",
+      "timestamp_utc": "2026-04-07T14:24:27+00:00",
+      "source": "qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzS2h5eklRV3BxelBCU0hvSVlQaHJhZ2RJOW9VZFUwQjV5WTJmeHdxNTRmN2V0X2xSUVluUHhIQ2FJcmp4WjlJT0hTaWxGMGVNMU56Y2sza3Q5WU5V?oc=5",
+      "title": "Bull of the Day: Lam Research (LRCX) - qz.com",
+      "body": "Bull of the Day: Lam Research (LRCX) qz.com",
+      "author": null,
+      "language": "en",
+      "ticker": "LRCX",
+      "tickers_hint": [
+        "LRCX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "qz.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "qz.com",
+        "source_domain": "qzcom.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.406,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "a3f68dd8-b8a5-5fde-beca-8b918954db45",
-      "timestamp_utc": "2026-04-04T12:30:18+00:00",
+      "id": "dd336be3-9d95-5b7b-a4ca-9c36cf41fed0",
+      "timestamp_utc": "2026-04-08T16:13:00+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/look-lam-research-lrcx-valuation-021340980.html",
+      "title": "A Look At Lam Research (LRCX) Valuation After Strong Recent Share Price Momentum - Yahoo Finance",
+      "body": "A Look At Lam Research (LRCX) Valuation After Strong Recent Share Price Momentum Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "LRCX",
+      "tickers_hint": [
+        "LRCX"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.665,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "7a9a9957-8a41-59e3-9591-1be627dfdd2a",
+      "timestamp_utc": "2026-04-07T23:57:15+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-lrcx-highlighted-cantor-095715914.html",
+      "title": "Here’s What Lam Research (LRCX) Highlighted at Cantor Fitzgerald Conference - Yahoo Finance",
+      "body": "Here’s What Lam Research (LRCX) Highlighted at Cantor Fitzgerald Conference Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "LRCX",
+      "tickers_hint": [
+        "LRCX"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.625,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "cb8f0120-b465-51f3-82b5-1205274095ac",
+      "timestamp_utc": "2026-04-08T04:01:32+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOEl3N3hObC1vakZ4N0NDX2lYcGI3dGdYX09rS3J4OFl2d3hCUHBfMmVXakJ3Y0FFSDA5YWlxWTFHbHhMZy0tdGxNNi1lRDdHN3k1WFJOb3UtdlVNdEtRdEdBMkl5S2prc1UwQ09SQ3NUUlhsVGhORTB0dHhVbXlmOEp5Q2VrX2RzTjdxTw?oc=5",
+      "title": "Lam Research Stock Jumps on Sector Buzz Alone - TipRanks",
+      "body": "Lam Research Stock Jumps on Sector Buzz Alone TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "LRCX",
+      "tickers_hint": [
+        "LRCX"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.611,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "7aa30b39-7c91-5b06-a426-ee87bf559311",
+      "timestamp_utc": "2026-04-08T08:31:13+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ1pTYzlSdjktY0RCTkdyak5tMDZnazkxcERNV2RyczVBSzFCUzVfSmlUTXlPWWZkMUxCLXkxVFQ1MGJkRDJod21TMF9QMlJsTmxuYkNmc21HUi1fWV9BWVJoUzBaZFFzUEV3UWNtckJiTmlpeDlhY2pGSEpaMmNDdHREQlZYYUxyRnhpOGN6emxBdU9WZFZOSFBxN0xvTmV4SVVRSnVZMnczbHdDVlNWTmZBMTZGaDk5Um1aLUI4MWRUM2Yw?oc=5",
+      "title": "Lam Research and Photronics Stocks Trade Up, What You Need To Know - TradingView",
+      "body": "Lam Research and Photronics Stocks Trade Up, What You Need To Know TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "LRCX",
+      "tickers_hint": [
+        "LRCX"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.53,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "2defd552-af1c-5a63-8f54-c99e19523566",
+      "timestamp_utc": "2026-04-09T02:58:36+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-whalen-wealth-management-inc-makes-new-142-million-investment-in-lam-research-corporation-lrcx-2026-04-04/",
-      "title": "Whalen Wealth Management Inc. Makes New $1.42 Million Investment in Lam Research Corporation $LRCX - MarketBeat",
-      "body": "Whalen Wealth Management Inc. Makes New $1.42 Million Investment in Lam Research Corporation $LRCX MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-weaver-capital-management-llc-takes-position-in-lam-research-corporation-lrcx-2026-04-09/",
+      "title": "Weaver Capital Management LLC Takes Position in Lam Research Corporation $LRCX - MarketBeat",
+      "body": "Weaver Capital Management LLC Takes Position in Lam Research Corporation $LRCX MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "LRCX",
@@ -48,19 +397,152 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
         "event_origin": "news",
-        "query_tickers": [
-          "LRCX"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4875,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "b650b572-f2aa-54cf-8625-1a255e5fc88a",
+      "timestamp_utc": "2026-04-09T01:21:05+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-lam-research-corporation-lrcx-shares-acquired-by-ofi-invest-asset-management-2026-04-09/",
+      "title": "Lam Research Corporation $LRCX Shares Acquired by OFI Invest Asset Management - MarketBeat",
+      "body": "Lam Research Corporation $LRCX Shares Acquired by OFI Invest Asset Management MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "LRCX",
+      "tickers_hint": [
+        "LRCX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4825,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "ec2bdec4-df81-547e-80ec-d1515d4c3fb7",
+      "timestamp_utc": "2026-04-08T12:05:20+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782772/lam-research-lrcx-leads-nasdaq-surge-amid-ceasefire-news",
+      "title": "Lam Research (LRCX) Leads Nasdaq Surge Amid Ceasefire News - GuruFocus",
+      "body": "Lam Research (LRCX) Leads Nasdaq Surge Amid Ceasefire News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "LRCX",
+      "tickers_hint": [
+        "LRCX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4775,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "98dc1c71-0bcb-53f6-84e9-90b7874f3c31",
+      "timestamp_utc": "2026-04-08T11:19:53+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/lam-research-nasdaqlrcx-stock-price-up-99-whats-next-2026-04-08/",
+      "title": "Lam Research (NASDAQ:LRCX) Stock Price Up 9.9% - What's Next? - MarketBeat",
+      "body": "Lam Research (NASDAQ:LRCX) Stock Price Up 9.9% - What's Next? MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "LRCX",
+      "tickers_hint": [
+        "LRCX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4775,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "c1d54aff-1641-5ebd-a99c-03b4507e1837",
+      "timestamp_utc": "2026-04-08T01:56:38+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/zacks-research-downgrades-lam-research-nasdaqlrcx-to-hold-2026-04-08/",
+      "title": "Zacks Research Downgrades Lam Research (NASDAQ:LRCX) to Hold - MarketBeat",
+      "body": "Zacks Research Downgrades Lam Research (NASDAQ:LRCX) to Hold MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "LRCX",
+      "tickers_hint": [
+        "LRCX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.7000000000000001,
+        "quality_score": 0.475,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "463f57c8-097d-5558-8ecb-d731946c4971",
+      "timestamp_utc": "2026-04-07T14:24:27+00:00",
+      "source": "qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzS2h5eklRV3BxelBCU0hvSVlQaHJhZ2RJOW9VZFUwQjV5WTJmeHdxNTRmN2V0X2xSUVluUHhIQ2FJcmp4WjlJT0hTaWxGMGVNMU56Y2sza3Q5WU5V?oc=5",
+      "title": "Bull of the Day: Lam Research (LRCX) - qz.com",
+      "body": "Bull of the Day: Lam Research (LRCX) qz.com",
+      "author": null,
+      "language": "en",
+      "ticker": "LRCX",
+      "tickers_hint": [
+        "LRCX"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "qz.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "qz.com",
+        "source_domain": "qzcom.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.406,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

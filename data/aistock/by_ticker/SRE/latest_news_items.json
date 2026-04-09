@@ -1,7 +1,7 @@
 [
   {
     "id": "05823989-11af-5108-bca9-0464b13f7b5e",
-    "timestamp_utc": "2026-04-05T07:19:19+00:00",
+    "timestamp_utc": "2026-04-08T16:22:14+00:00",
     "source": "yahoo!_finance_canada",
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xWHJnRVJ0VHNNeEZWREFJdzlDbm1iOTFuNEVLeURDWno1Q2tfOWdtZDN3bjE1RVpHTVpTR1pxTVprTXc1emVXeG5UUXZoWXY5?oc=5",
     "title": "Sempra (SRE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
@@ -14,21 +14,16 @@
     ],
     "source_quality": "low",
     "publisher_raw": "yahoo! finance canada",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "Yahoo! Finance Canada",
       "source_domain": "yahoofinancecanada.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
       "event_origin": "news",
-      "query_tickers": [
-        "SRE"
-      ],
-      "alt_sources": [
-        "Yahoo Finance Singapore"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.421,
+      "_channel": "google_broad"
+    }
   }
 ]

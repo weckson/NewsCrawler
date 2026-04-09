@@ -1,11 +1,11 @@
 [
   {
-    "id": "eecff024-c639-545e-920e-32a00c8f7520",
-    "timestamp_utc": "2026-03-31T05:02:00+00:00",
-    "source": "benzinga",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ05zQXYwMG4zSmxDU0F5Ynk5MG4xQjZ3U2FtYjFzbl96UVNUYTdIOFNDYVlsUHowMzczcURCWDh3dGtPWk9HVVNPQldBS3VpQ3RKeWZLdGZKM3Jxa3NUekFyY1dMc0JDUnlrRWZZME9CZC1XZndQOGVITllYQzVOYnRuYldhOEZLeV9uaDM3cGRSSWlUZFc3SE5qNzlWQl85TktBVDRzT0dUQXJ1WXc4UjF1ejRJdGdWX3kzcUEtV1ViOGRRd1o5T2RGRQ?oc=5",
-    "title": "Noteworthy Insider Activity: William R Shepard Invests $437K In CME Group Stock - Benzinga",
-    "body": "Noteworthy Insider Activity: William R Shepard Invests $437K In CME Group Stock Benzinga",
+    "id": "946b1dc1-ed14-5d40-9293-c3ed5617f911",
+    "timestamp_utc": "2026-04-07T23:18:04+00:00",
+    "source": "seeking_alpha",
+    "url": "https://seekingalpha.com/news/4573194-cme-group-q1-adv-hits-new-high-of-114m-as-global-markets-heat-up",
+    "title": "CME Group Q1 ADV hits new high of 11.4M as global markets heat up (CME:NASDAQ) - Seeking Alpha",
+    "body": "CommoditiesFinancialsCME Group Q1 ADV hits new high of 11.4M as global markets heat upApr 08, 2026, 5:18 AM ETCME Group Inc.\n\n(CME) StockBy: Arundhati Sarkar, SA News EditorCopy LinkSavePlay(1min)Comments(5)Follow us on Google for the latest stock newsFollow Seeking Alpha on Google for the latest stock newsAlistair Berg CME Group (CME) Wednesday announced that its international average daily volume reached a record 11.4M contracts in Q1 2026, up 30% over Q1 2025.\n\nReflecting all trading reported outside the United States, this strong performance was driven by a Newsletters for Every InvestorGet daily, sector-specific newsletters packed with expert insights, fresh ideas, and new opportunities.",
     "author": null,
     "language": "en",
     "ticker": "CME",
@@ -13,28 +13,53 @@
       "CME"
     ],
     "source_quality": "high",
-    "publisher_raw": "benzinga.com",
+    "publisher_raw": "seekingalpha.com",
+    "trust_tier": 3,
+    "body_kind": "article_text",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Benzinga",
-      "source_domain": "benzinga.com",
-      "trust_tier": 3,
-      "relevance": 0.5,
+      "source_name": "Seeking Alpha",
+      "source_domain": "seekingalpha.com",
       "event_origin": "news",
-      "query_tickers": [
-        "CME"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.6525,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "53afe8b8-d333-56bd-9029-0159c906cb2b",
-    "timestamp_utc": "2026-04-01T01:33:25+00:00",
+    "id": "5516782f-1692-5465-ae19-855d36e20054",
+    "timestamp_utc": "2026-04-08T06:25:47+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8782101/cme-group-cme-analyst-update-barclays-raises-price-target-to-344-cme-stock-news",
+    "title": "CME Group (CME) Analyst Update: Barclays Raises Price Target to $344 | CME Stock News - GuruFocus",
+    "body": "CME Group (CME) Analyst Update: Barclays Raises Price Target to $344 | CME Stock News GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "CME",
+    "tickers_hint": [
+      "CME"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "event_origin": "news",
+      "relevance": 0.7000000000000001,
+      "quality_score": 0.52,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "a135ee29-394a-5d63-a1da-358c313384fa",
+    "timestamp_utc": "2026-04-08T23:05:05+00:00",
     "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-cme-group-inc-cme-stock-holdings-lessened-by-scharf-investments-llc-2026-04-01/",
-    "title": "CME Group Inc. $CME Stock Holdings Lessened by Scharf Investments LLC - MarketBeat",
-    "body": "CME Group Inc. $CME Stock Holdings Lessened by Scharf Investments LLC MarketBeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-ccla-investment-management-has-14369-million-stake-in-cme-group-inc-cme-2026-04-09/",
+    "title": "CCLA Investment Management Has $143.69 Million Stake in CME Group Inc. $CME - MarketBeat",
+    "body": "CCLA Investment Management Has $143.69 Million Stake in CME Group Inc. $CME MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "CME",
@@ -43,27 +68,25 @@
     ],
     "source_quality": "low",
     "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "MarketBeat",
       "source_domain": "marketbeat.com",
-      "trust_tier": 1,
+      "event_origin": "news",
       "relevance": 0.6500000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "CME"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.5175,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "2b0ae2db-f5de-5d38-871c-bf37408bad86",
-    "timestamp_utc": "2026-04-01T00:54:54+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-pinestone-asset-management-inc-has-71368-million-stock-position-in-cme-group-inc-cme-2026-04-01/",
-    "title": "PineStone Asset Management Inc. Has $713.68 Million Stock Position in CME Group Inc. $CME - MarketBeat",
-    "body": "PineStone Asset Management Inc. Has $713.68 Million Stock Position in CME Group Inc. $CME MarketBeat",
+    "id": "0d8bde13-f6bd-5b3e-9138-253b2476c332",
+    "timestamp_utc": "2026-04-08T05:11:27+00:00",
+    "source": "traders_union",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVzZjeXQtdERZNF9qcU5YdUtZZWlpNUtFb2NjckgtaEZEX0s3b0FoejdmdXlYemtqdWJqR1J0MTlkTmRlS0R0Q1kwUVdBdnR6TTBTMmtCVHRLRzYyalJCU0o2WE5wdzFudWdXTDVNZzRqMjEzT3VnS200aTVBMXNfc3pQeWVsNnVYTWJ1Q3l1Mng?oc=5",
+    "title": "CME Group stock price forecast: overbought readings and seller pressure as CME slips 2.34% - Traders Union",
+    "body": "CME Group stock price forecast: overbought readings and seller pressure as CME slips 2.34% Traders Union",
     "author": null,
     "language": "en",
     "ticker": "CME",
@@ -71,28 +94,53 @@
       "CME"
     ],
     "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
+    "publisher_raw": "traders union",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
-      "trust_tier": 1,
+      "source_name": "Traders Union",
+      "source_domain": "tradersunion.com",
+      "event_origin": "news",
+      "relevance": 0.6000000000000001,
+      "quality_score": 0.495,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "d6bd9741-f2a3-55f5-be94-c777b15618ea",
+    "timestamp_utc": "2026-04-08T02:40:02+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8781583/cme-group-cme-reinstated-with-market-perform-rating-by-keefe-bruyette-woods-cme-stock-news",
+    "title": "CME Group (CME) Reinstated with Market Perform Rating by Keefe, Bruyette & Woods | CME Stock News - GuruFocus",
+    "body": "CME Group (CME) Reinstated with Market Perform Rating by Keefe, Bruyette & Woods | CME Stock News GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "CME",
+    "tickers_hint": [
+      "CME"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "event_origin": "news",
       "relevance": 0.6500000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "CME"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.4775,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "0aedf6b7-83ce-55da-bc22-36705c87ef7c",
-    "timestamp_utc": "2026-04-01T11:32:24+00:00",
-    "source": "marketscreener",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXVMcjFFWjZYUHBKekdfVUdyMGVfclFtZWNadlROdDhGZ3N1OXlEREE2a2dnLWpJMnlpWFdVbENqMUFJZDBFdXFSOVpEMUlsMlQ1elFVTjNDakExdGRwd3cyTE9WWENOZ2F4N3ZUemp6emRlSVVpRFkxamFoRVNTMlE0R2ZOczhFUVNHdm9pZlIzeUhsNlVqY0NCSUs5Nm92ZUF3Zjc5N1E3MjhYdERkT2ZUZFNVX0R6?oc=5",
-    "title": "CME : Wheat futures fell as high stocks offset century-low acreage. - MarketScreener",
-    "body": "CME : Wheat futures fell as high stocks offset century-low acreage. MarketScreener",
+    "id": "6392a0e8-49df-5b3d-8807-b37a3d36f133",
+    "timestamp_utc": "2026-04-08T14:43:07+00:00",
+    "source": "traders_union",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZVg2M0tzaERFdzZ0aHFCWmV3Wng2Nld5OVFlR294MTFFTnpZQWxGUHBTYlpOdjZmNjdjQVJQRzROSzZPTWVPOTg3TGYyVVlDaTNXNjNxeGNWbnJ1TkNMeUFrN2phZzExb3BVT2llTzVYODNWeTNEQWxTTnZMb1RJSEtqNmhwbFhZUkZQRHE2a19KZw?oc=5",
+    "title": "Industry-focused futures offering sees CME Group stock fall 2.5% - Traders Union",
+    "body": "Industry-focused futures offering sees CME Group stock fall 2.5% Traders Union",
     "author": null,
     "language": "en",
     "ticker": "CME",
@@ -100,28 +148,26 @@
       "CME"
     ],
     "source_quality": "low",
-    "publisher_raw": "marketscreener",
+    "publisher_raw": "traders union",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "MarketScreener",
-      "source_domain": "marketscreener.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "Traders Union",
+      "source_domain": "tradersunion.com",
       "event_origin": "news",
-      "query_tickers": [
-        "CME"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.46,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "56b9661c-6fc6-5b20-83a7-3be4f5331bac",
-    "timestamp_utc": "2026-04-01T01:47:06+00:00",
-    "source": "nationaltoday.com",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTVFUQzdCQkpFeGlZazJjX2xUMVN2OVhFSzBBS2o0N3RONHJLVE83SGJreU1mWWJwalpLUV9DT0VhVGJla0xFZ3B2VHhVMVVLS3RZY3ltX09iNEdNb19ja0ZUVlBuaXlMSF8yS3dUZnZJbVhTTTZhdGotRU8zWTljUDk0Ry1jUkVQTDBQT0U1TWx4TG5wX1lLN2dLbm1MYlM3TEN3Y1VYZWdaMmQwUzBlTVdvNA?oc=5",
-    "title": "Nisa Investment Advisors Boosts CME Group Stock Holdings - nationaltoday.com",
-    "body": "Nisa Investment Advisors Boosts CME Group Stock Holdings nationaltoday.com",
+    "id": "c6a89428-64a6-5f97-9b58-a040c0a12d6a",
+    "timestamp_utc": "2026-04-08T14:37:10+00:00",
+    "source": "traders_union",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdTFTbEtOcDY4cG95ODZlUGU1SFAxc3lBSHdiWTV4a01jWWZhSV9yQm1JT0YzRTdaUjF2QkpCbV9LSGMzWUw4X2dveEJic2pnRGMxOWRrVkw2T0lTeElORG4weE1fMTRESFMya25PZFR4VkdUYzcwc184UEN0YzZVV1FsMlhYYzhieGItWExxMm8?oc=5",
+    "title": "CME Group highlights Single Stock futures while stock falls amid persistent short-term selling pressure - Traders Union",
+    "body": "CME Group highlights Single Stock futures while stock falls amid persistent short-term selling pressure Traders Union",
     "author": null,
     "language": "en",
     "ticker": "CME",
@@ -129,28 +175,26 @@
       "CME"
     ],
     "source_quality": "low",
-    "publisher_raw": "nationaltoday.com",
+    "publisher_raw": "traders union",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "nationaltoday.com",
-      "source_domain": "nationaltodaycom.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "Traders Union",
+      "source_domain": "tradersunion.com",
       "event_origin": "news",
-      "query_tickers": [
-        "CME"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.445,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "80b29723-c6cc-50e3-920e-ee4128bbb842",
-    "timestamp_utc": "2026-03-31T21:54:40+00:00",
-    "source": "ad_hoc_news",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcUZqZGppcmM1b09jS1hnR1J5cTFVOWJ2ZXBTTWRkMTZoSjZOLTFMRDFnd0ZQeUFRZlVSR1RRRlJpNWItTmZIcjBFbXJ4b21NcnZzeUdBcjdPSTVYbkc1Ul9xWHh4Vll0QkdwRm02dGl6a256S29uRXhxWnI5d09mN2ZOcUJpeG1UWjdZeXJ2ODFxQS1wVWhtSmhVR1NFTWtveG5hVDFXXzJ5dVJPSGdJLW14S3JOTUdTb3o4?oc=5",
-    "title": "CME Group Inc. Stock: Leading Derivatives Exchange with Strong Fundamentals and Governance Evolution - AD HOC NEWS",
-    "body": "CME Group Inc. Stock: Leading Derivatives Exchange with Strong Fundamentals and Governance Evolution AD HOC NEWS",
+    "id": "82c47f79-599e-55cc-bf39-a599e19e20bf",
+    "timestamp_utc": "2026-04-08T05:01:37+00:00",
+    "source": "traders_union",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWGFKUkVCdkx1LTlWYUd3RFJXbmdyRThlWjZjUHVNN0s5YkRSRjA0S2RxNHhtenp4ZGVKOHFvWW9LSEVMalZhSGstZWJ1M18tRjVXNVl6MUlpZU81RzVRSzN3OHhHUXp5TzFhb2dTUGJLWmozWUxVNVdhNjlFTkEwWElvRE1BWEtVVXY4U0o3QjU2UQ?oc=5",
+    "title": "WTI options expiry leads CME Group stock lower by 2.25% - Traders Union",
+    "body": "WTI options expiry leads CME Group stock lower by 2.25% Traders Union",
     "author": null,
     "language": "en",
     "ticker": "CME",
@@ -158,19 +202,71 @@
       "CME"
     ],
     "source_quality": "low",
-    "publisher_raw": "ad hoc news",
+    "publisher_raw": "traders union",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "AD HOC NEWS",
-      "source_domain": "adhocnews.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "Traders Union",
+      "source_domain": "tradersunion.com",
       "event_origin": "news",
-      "query_tickers": [
-        "CME"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.44,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "8f7958e1-9ff9-5cae-a552-bd290e95b87d",
+    "timestamp_utc": "2026-04-08T14:40:12+00:00",
+    "source": "mint",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa0hLVXA1eEUtbWRQUmZ5Sk8zTnZnZEd0dWxpaU5abFVVSy14ZGpZNFFsNGxKbVFjNjVjWUVYdTlJSW5GSVlLbGNTRG5ZMEI5WUtSZWkzdUFadlpLSGhTak04eGNqVW0wVUlfeXlLenpjVUhGVS04YzlFcXdSTWo2X0s1MGx3cnJrRFFwb1k0Nl9CcGY1a3VPa2RFUFN4d2RmT1pWQ3V1aHJYbmfSAbABQVVfeXFMT284dUtBYW1RSExDZVhKa1dGUzI3c3lUcEZ5U0hodGxEbTNzVFE0OERTMmE1aXVPMEhFTktoT1ZRajR1bzk2dEc1MnIwZTVRSVl4dlVFcWphdzN6aXZYR3oxSU51Wlpzd1JGamtONHVDZjdZNUg3X2NnejRBb0JjRzVGUWpWVnVnUE5waWJocUlPX2lMSk5mMi0ybmNUQ3o0Y2hwM3B6bC0tbDZfRmFjLVo?oc=5",
+    "title": "CME cattle futures end modestly higher on packer demand - Mint",
+    "body": "CME cattle futures end modestly higher on packer demand Mint",
+    "author": null,
+    "language": "en",
+    "ticker": "CME",
+    "tickers_hint": [
+      "CME"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "mint",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Mint",
+      "source_domain": "mint.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.43,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "32b7638f-3ee0-5924-a3ee-3c62f1597309",
+    "timestamp_utc": "2026-04-08T06:18:31+00:00",
+    "source": "traders_union",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU1RDNDVrUVBLQUk3QUlJM0VwZ1pYRW9FX1VFNGZIT2tQMVczUFVNdF8wR0dicWY0WkwxZ09ZcU1tWEE1bUk4VzlOcW10SWxXZnNiOG9STzlPaHBrWERDbk1xVmxYOVdlSk1teEhGMGpIcU9BLWFzdk9uTFpmVUpTbUwtcHp3d1g0alNhR2VvQnFRYzMyZlNlbg?oc=5",
+    "title": "What is behind CME Group stock's recent drop in value today - Traders Union",
+    "body": "What is behind CME Group stock's recent drop in value today Traders Union",
+    "author": null,
+    "language": "en",
+    "ticker": "CME",
+    "tickers_hint": [
+      "CME"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "traders union",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Traders Union",
+      "source_domain": "tradersunion.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.41,
+      "_channel": "google_broad"
+    }
   }
 ]

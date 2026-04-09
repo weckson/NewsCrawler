@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "a9f0e91a-a152-5ec5-9cc8-9b6a852a0d8a",
-      "timestamp_utc": "2026-04-03T23:04:00+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uQVNyUzNvTXBRQkJXdGhPbmpFSmF0VmZsNFJtRzJTd3dSVjNzRXR3YlRVcjhRYk5fUkJYQ1BPZ0ZWZGthOGg4eDItejVaMWRHMlhDdHFsUk9DcHYzd0IzU1ZKVXk?oc=5",
-      "title": "TFC Dec 2028 75.000 put (TFC281215P00075000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "body": "TFC Dec 2028 75.000 put (TFC281215P00075000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "id": "41ec107a-a629-5b5d-8b43-5bbf8a88789f",
+      "timestamp_utc": "2026-04-07T06:04:39+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8779262/tfc-jp-morgan-maintains-neutral-rating-lowers-price-target-tfc-stock-news?mobile=true",
+      "title": "TFC: JP Morgan Maintains 'Neutral' Rating, Lowers Price Target | - GuruFocus",
+      "body": "TFC: JP Morgan Maintains 'Neutral' Rating, Lowers Price Target | GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "TFC",
@@ -15,31 +15,29 @@
         "TFC"
       ],
       "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "TFC"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.445,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "a9f0e91a-a152-5ec5-9cc8-9b6a852a0d8a",
-      "timestamp_utc": "2026-04-03T23:04:00+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uQVNyUzNvTXBRQkJXdGhPbmpFSmF0VmZsNFJtRzJTd3dSVjNzRXR3YlRVcjhRYk5fUkJYQ1BPZ0ZWZGthOGg4eDItejVaMWRHMlhDdHFsUk9DcHYzd0IzU1ZKVXk?oc=5",
-      "title": "TFC Dec 2028 75.000 put (TFC281215P00075000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "body": "TFC Dec 2028 75.000 put (TFC281215P00075000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "id": "41ec107a-a629-5b5d-8b43-5bbf8a88789f",
+      "timestamp_utc": "2026-04-07T06:04:39+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8779262/tfc-jp-morgan-maintains-neutral-rating-lowers-price-target-tfc-stock-news?mobile=true",
+      "title": "TFC: JP Morgan Maintains 'Neutral' Rating, Lowers Price Target | - GuruFocus",
+      "body": "TFC: JP Morgan Maintains 'Neutral' Rating, Lowers Price Target | GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "TFC",
@@ -47,20 +45,18 @@
         "TFC"
       ],
       "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "TFC"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.445,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

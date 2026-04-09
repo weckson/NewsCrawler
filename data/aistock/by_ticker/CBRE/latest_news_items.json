@@ -1,11 +1,11 @@
 [
   {
-    "id": "e28a275e-0d6a-5660-b0e8-f80e3e60f329",
-    "timestamp_utc": "2026-04-03T21:34:18+00:00",
-    "source": "ad_hoc_news",
-    "url": "https://www.ad-hoc-news.de/boerse/ueberblick/cbre-group-inc-stock-q1-beat-and-fy-guidance-spark-long-term-buzz/69067576",
-    "title": "CBRE Group Inc. stock: Q1 Beat and FY Guidance Spark Long-Term Buzz - AD HOC NEWS",
-    "body": "NEWSAKTIENKURSEBÖRSE WIRTSCHAFT POLITIK SPORT UNTERHALTUNG WISSENSCHAFT AUSLAND POLIZEI INTERNATIONAL SONSTIGE ARCHIV BLOGS KALENDERBLATT NEWSLETTER BÖRSENLEXIKON RSS WATCHLISTNews SucheMenü ein-/ausblendenBlogsBilderNews",
+    "id": "83bdc2c1-b904-5e5c-8c98-de5aa94748bc",
+    "timestamp_utc": "2026-04-08T07:07:38+00:00",
+    "source": "gurufocus",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUEVmc1NFZC1IcldOdGZfYVhOMHBFV3d4d2VVaHFHeDhoZnNlMHY2bkRGZmJxOW1HU1E0dmF0eXVvaGtxNXpEU0dQZ2xVcmkwcGhWdGp0Qkl4VS1VbjdqN2RMay14SzhVSjNRVUtod1BDMVBmalpRTzFtS19xWkxkdkY2THhkb1AxSWhUQXNZd1lZbFJfRkNXVkl1SzZsUQ?oc=5",
+    "title": "CBRE Group Inc (CBRE) Stock Price Up 3.6% on Apr 8 - GuruFocus",
+    "body": "CBRE Group Inc (CBRE) Stock Price Up 3.6% on Apr 8 GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "CBRE",
@@ -13,19 +13,17 @@
       "CBRE"
     ],
     "source_quality": "low",
-    "publisher_raw": "ad hoc news",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "AD HOC NEWS",
-      "source_domain": "adhocnews.com",
-      "trust_tier": 1,
-      "relevance": 0.65,
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
       "event_origin": "news",
-      "query_tickers": [
-        "CBRE"
-      ],
-      "body_kind": "article_text"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6000000000000001,
+      "quality_score": 0.465,
+      "_channel": "google_broad"
+    }
   }
 ]

@@ -2,71 +2,231 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "e9fb1e79-366a-58cf-9c19-d86f99e9bbc4",
-      "timestamp_utc": "2026-03-31T11:02:04+00:00",
-      "source": "benzinga",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSDhFTC1fN3dIR254MlNXdFJWU01KdWZJOGZDNlVJd1RybzlwS0FfSC11R2p0TFQ1bFpoaUhabDA1dGtETDFuM0hHV0RfUTd5eXJWTnFuM205dTc1NTNiWWdIWU1sX3Z3cm9CYW80SDNVd0RsNjFPUVRMUkZJLUtCSHNmRTNlcW9VU3JTcXR1cGtxQjNUa3R4UUtYcEIwaGV2NElxUTE4WVNGaVMyVkRzWlBqUk9CdnZxQ1d1XzQxa0E5aUNoSWpKMHFEdlVxT1RNdkxfczRSSGtfNzNSX1I1VFJka2pydw?oc=5",
-      "title": "Amazon MGM Smash Hit 'Project Hail Mary' Could Trump Box Office Failure Of 'Melania' Documentary - Benzinga",
-      "body": "Amazon MGM Smash Hit 'Project Hail Mary' Could Trump Box Office Failure Of 'Melania' Documentary Benzinga",
+      "id": "0408e725-19fe-5552-b872-65ec8e8665bb",
+      "timestamp_utc": "2026-04-08T01:48:00+00:00",
+      "source": "financialcontent",
+      "url": "https://markets.financialcontent.com/stocks/article/barchart-2026-4-8-what-to-expect-from-mgm-resorts-internationals-next-quarterly-earnings-report",
+      "title": "What to Expect From MGM Resorts International's Next Quarterly Earnings Report - FinancialContent",
+      "body": "With a market cap of $9.7 billion, MGM Resorts International (MGM) is a global gaming and entertainment company that operates casino resorts offering gaming, hotels, dining, entertainment, retail, and digital betting services across the United States, China, and other international markets. Through segments including Las Vegas Strip Resorts, Regional Operations, MGM China, and MGM Digital, it serves a wide range of customers from premium gaming clients to business and leisure travelers.\n\nThe Las Vegas, Nevada-based company is expected to announce its Q1 2026 results after the market closes on Wednesday, Apr. 29. Ahead of this event, analysts expect MGM Resorts to report an adjusted EPS of $0.62, down 10.1% from $0.69 in the year-ago quarter. It has exceeded Wall Street's earnings estimates in three of the last four quarters while missing on another occasion.\n\nFor fiscal 2026, analysts expect the casino and resort operator to report an adjusted EPS of $2.04, a 38.4% decrease from $3.31 in fiscal 2025. However, adjusted EPS is anticipated to grow 29.4% year-over-year to $2.64 in fiscal 2027.\n\nShares of MGM Resorts have climbed 44.1% over the past 52 weeks, surpassing both the S&P 500 Index's ($SPX) 30.7% gain and the State Street Consumer Discretionary Select Sector SPDR ETF's (XLY) 19.3% increase over the period.\n\nShares of MGM Resorts rose 3.3% following its Q4 2025 results on Feb. 5. The company delivered strong earnings growth, with net income jumping to $294 million and consolidated adjusted EBITDA rising 20% to $635 million on a 6% revenue increase to $4.6 billion. Investors were also encouraged by high-margin segment strength, particularly MGM China (revenue +21%, EBITDA +30%) and BetMGM, which distributed $135 million in cash during the quarter.\n\nAnalysts' consensus view on MGM stock is cautiously optimistic, with an overall \"Moderate Buy\" rating. Among 21 analysts covering the stock, eight recommend \"Strong Buy,\" 10 suggest \"Hold,\" and three advise \"Strong Sell.\" The average analyst price target for MGM Resorts is $43.05, indicating a potential upside of 13.6% from the current levels.",
       "author": null,
       "language": "en",
       "ticker": "MGM",
       "tickers_hint": [
         "MGM"
       ],
-      "source_quality": "high",
-      "publisher_raw": "benzinga.com",
+      "source_quality": "low",
+      "publisher_raw": "financialcontent",
+      "trust_tier": 1,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
+        "source_name": "FinancialContent",
+        "source_domain": "financialcontent.com",
         "event_origin": "news",
-        "query_tickers": [
-          "MGM"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.49,
+        "_channel": "google_broad",
+        "_alt_sources": [
+          "MSN",
+          "inkl"
+        ]
+      }
+    },
+    {
+      "id": "f7877da9-30c7-5a79-97f4-88c7e7f5b775",
+      "timestamp_utc": "2026-04-08T05:22:30+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8781888/mgm-morgan-stanley-raises-price-target-to-35-maintains-underweight-rating-mgm-stock-news?mobile=true",
+      "title": "MGM: Morgan Stanley Raises Price Target to $35, Maintains Underw - GuruFocus",
+      "body": "MGM: Morgan Stanley Raises Price Target to $35, Maintains Underw GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "MGM",
+      "tickers_hint": [
+        "MGM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4675,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "b997d1d8-4b91-5039-bdbf-f5f62e5405b4",
+      "timestamp_utc": "2026-04-08T04:25:40+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/stifel-nicolaus-has-lowered-expectations-for-mgm-resorts-international-nysemgm-stock-price-2026-04-08/",
+      "title": "Stifel Nicolaus Has Lowered Expectations for MGM Resorts International (NYSE:MGM) Stock Price - MarketBeat",
+      "body": "Stifel Nicolaus Has Lowered Expectations for MGM Resorts International (NYSE:MGM) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MGM",
+      "tickers_hint": [
+        "MGM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4625,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "787269dc-541f-5cb9-997d-4b8284697732",
+      "timestamp_utc": "2026-04-08T06:12:41+00:00",
+      "source": "casino.org",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdEI3a1UzdzdOeWo4UzVUdGRhcnNJVlJJZHZfX0NmNHBObzRXSXZSSVYxMmU2RlFTT1ZxTXRJdU5NWDhRbVRvT3pONWlfUFhxZGdUUF8yZUtMWjJwY0JIM3o4WGZrZmVrVkRFTERmZ0V3YXc1UGZuYnVEYXJqaHQ3VG81NTY1bDRENS1B?oc=5",
+      "title": "Diller, MGM Reach Voting Agreement, IAC Influence Capped, But Guaranteed Two Board Seats - Casino.org",
+      "body": "Diller, MGM Reach Voting Agreement, IAC Influence Capped, But Guaranteed Two Board Seats Casino.org",
+      "author": null,
+      "language": "en",
+      "ticker": "MGM",
+      "tickers_hint": [
+        "MGM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "casino.org",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Casino.org",
+        "source_domain": "casinoorg.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.41,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "e9fb1e79-366a-58cf-9c19-d86f99e9bbc4",
-      "timestamp_utc": "2026-03-31T11:02:04+00:00",
-      "source": "benzinga",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSDhFTC1fN3dIR254MlNXdFJWU01KdWZJOGZDNlVJd1RybzlwS0FfSC11R2p0TFQ1bFpoaUhabDA1dGtETDFuM0hHV0RfUTd5eXJWTnFuM205dTc1NTNiWWdIWU1sX3Z3cm9CYW80SDNVd0RsNjFPUVRMUkZJLUtCSHNmRTNlcW9VU3JTcXR1cGtxQjNUa3R4UUtYcEIwaGV2NElxUTE4WVNGaVMyVkRzWlBqUk9CdnZxQ1d1XzQxa0E5aUNoSWpKMHFEdlVxT1RNdkxfczRSSGtfNzNSX1I1VFJka2pydw?oc=5",
-      "title": "Amazon MGM Smash Hit 'Project Hail Mary' Could Trump Box Office Failure Of 'Melania' Documentary - Benzinga",
-      "body": "Amazon MGM Smash Hit 'Project Hail Mary' Could Trump Box Office Failure Of 'Melania' Documentary Benzinga",
+      "id": "0408e725-19fe-5552-b872-65ec8e8665bb",
+      "timestamp_utc": "2026-04-08T01:48:00+00:00",
+      "source": "financialcontent",
+      "url": "https://markets.financialcontent.com/stocks/article/barchart-2026-4-8-what-to-expect-from-mgm-resorts-internationals-next-quarterly-earnings-report",
+      "title": "What to Expect From MGM Resorts International's Next Quarterly Earnings Report - FinancialContent",
+      "body": "With a market cap of $9.7 billion, MGM Resorts International (MGM) is a global gaming and entertainment company that operates casino resorts offering gaming, hotels, dining, entertainment, retail, and digital betting services across the United States, China, and other international markets. Through segments including Las Vegas Strip Resorts, Regional Operations, MGM China, and MGM Digital, it serves a wide range of customers from premium gaming clients to business and leisure travelers.\n\nThe Las Vegas, Nevada-based company is expected to announce its Q1 2026 results after the market closes on Wednesday, Apr. 29. Ahead of this event, analysts expect MGM Resorts to report an adjusted EPS of $0.62, down 10.1% from $0.69 in the year-ago quarter. It has exceeded Wall Street's earnings estimates in three of the last four quarters while missing on another occasion.\n\nFor fiscal 2026, analysts expect the casino and resort operator to report an adjusted EPS of $2.04, a 38.4% decrease from $3.31 in fiscal 2025. However, adjusted EPS is anticipated to grow 29.4% year-over-year to $2.64 in fiscal 2027.\n\nShares of MGM Resorts have climbed 44.1% over the past 52 weeks, surpassing both the S&P 500 Index's ($SPX) 30.7% gain and the State Street Consumer Discretionary Select Sector SPDR ETF's (XLY) 19.3% increase over the period.\n\nShares of MGM Resorts rose 3.3% following its Q4 2025 results on Feb. 5. The company delivered strong earnings growth, with net income jumping to $294 million and consolidated adjusted EBITDA rising 20% to $635 million on a 6% revenue increase to $4.6 billion. Investors were also encouraged by high-margin segment strength, particularly MGM China (revenue +21%, EBITDA +30%) and BetMGM, which distributed $135 million in cash during the quarter.\n\nAnalysts' consensus view on MGM stock is cautiously optimistic, with an overall \"Moderate Buy\" rating. Among 21 analysts covering the stock, eight recommend \"Strong Buy,\" 10 suggest \"Hold,\" and three advise \"Strong Sell.\" The average analyst price target for MGM Resorts is $43.05, indicating a potential upside of 13.6% from the current levels.",
       "author": null,
       "language": "en",
       "ticker": "MGM",
       "tickers_hint": [
         "MGM"
       ],
-      "source_quality": "high",
-      "publisher_raw": "benzinga.com",
+      "source_quality": "low",
+      "publisher_raw": "financialcontent",
+      "trust_tier": 1,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
+        "source_name": "FinancialContent",
+        "source_domain": "financialcontent.com",
         "event_origin": "news",
-        "query_tickers": [
-          "MGM"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.49,
+        "_channel": "google_broad",
+        "_alt_sources": [
+          "MSN",
+          "inkl"
+        ]
+      }
+    },
+    {
+      "id": "f7877da9-30c7-5a79-97f4-88c7e7f5b775",
+      "timestamp_utc": "2026-04-08T05:22:30+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8781888/mgm-morgan-stanley-raises-price-target-to-35-maintains-underweight-rating-mgm-stock-news?mobile=true",
+      "title": "MGM: Morgan Stanley Raises Price Target to $35, Maintains Underw - GuruFocus",
+      "body": "MGM: Morgan Stanley Raises Price Target to $35, Maintains Underw GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "MGM",
+      "tickers_hint": [
+        "MGM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4675,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "b997d1d8-4b91-5039-bdbf-f5f62e5405b4",
+      "timestamp_utc": "2026-04-08T04:25:40+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/stifel-nicolaus-has-lowered-expectations-for-mgm-resorts-international-nysemgm-stock-price-2026-04-08/",
+      "title": "Stifel Nicolaus Has Lowered Expectations for MGM Resorts International (NYSE:MGM) Stock Price - MarketBeat",
+      "body": "Stifel Nicolaus Has Lowered Expectations for MGM Resorts International (NYSE:MGM) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "MGM",
+      "tickers_hint": [
+        "MGM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4625,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "787269dc-541f-5cb9-997d-4b8284697732",
+      "timestamp_utc": "2026-04-08T06:12:41+00:00",
+      "source": "casino.org",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdEI3a1UzdzdOeWo4UzVUdGRhcnNJVlJJZHZfX0NmNHBObzRXSXZSSVYxMmU2RlFTT1ZxTXRJdU5NWDhRbVRvT3pONWlfUFhxZGdUUF8yZUtMWjJwY0JIM3o4WGZrZmVrVkRFTERmZ0V3YXc1UGZuYnVEYXJqaHQ3VG81NTY1bDRENS1B?oc=5",
+      "title": "Diller, MGM Reach Voting Agreement, IAC Influence Capped, But Guaranteed Two Board Seats - Casino.org",
+      "body": "Diller, MGM Reach Voting Agreement, IAC Influence Capped, But Guaranteed Two Board Seats Casino.org",
+      "author": null,
+      "language": "en",
+      "ticker": "MGM",
+      "tickers_hint": [
+        "MGM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "casino.org",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Casino.org",
+        "source_domain": "casinoorg.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.41,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

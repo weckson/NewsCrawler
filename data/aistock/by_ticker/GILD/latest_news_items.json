@@ -1,11 +1,38 @@
 [
   {
-    "id": "c5125ebb-4f00-5762-9985-cb956e1a27e7",
-    "timestamp_utc": "2026-04-01T10:44:43+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-gilead-sciences-inc-gild-stock-holdings-raised-by-nisa-investment-advisors-llc-2026-04-01/",
-    "title": "Gilead Sciences, Inc. $GILD Stock Holdings Raised by Nisa Investment Advisors LLC - MarketBeat",
-    "body": "Gilead Sciences, Inc. $GILD Stock Holdings Raised by Nisa Investment Advisors LLC MarketBeat",
+    "id": "e385e35a-954b-5248-9192-b0b3ce3b0bab",
+    "timestamp_utc": "2026-04-07T19:05:00+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/sectors/healthcare/articles/gilead-sciences-gild-among-best-050528663.html",
+    "title": "Is Gilead Sciences (GILD) Among the Best Low Volatility Blue Chip Stocks to Buy Now? - Yahoo Finance",
+    "body": "Is Gilead Sciences (GILD) Among the Best Low Volatility Blue Chip Stocks to Buy Now? Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "GILD",
+    "tickers_hint": [
+      "GILD"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.6125,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "2f892180-59cb-55a8-890f-09903b7421b9",
+    "timestamp_utc": "2026-04-08T18:58:41+00:00",
+    "source": "msn",
+    "url": "https://www.msn.com/en-us/health/other/will-gilead-gild-beat-estimates-again-in-its-next-earnings-report/ar-AA20r7Bj?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "title": "Will Gilead (GILD) beat estimates again in its next earnings report? - MSN",
+    "body": "Will Gilead (GILD) beat estimates again in its next earnings report? MSN",
     "author": null,
     "language": "en",
     "ticker": "GILD",
@@ -13,19 +40,17 @@
       "GILD"
     ],
     "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
+    "publisher_raw": "msn",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
+      "source_name": "MSN",
+      "source_domain": "msn.com",
       "event_origin": "news",
-      "query_tickers": [
-        "GILD"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6,
+      "quality_score": 0.485,
+      "_channel": "google_broad"
+    }
   }
 ]

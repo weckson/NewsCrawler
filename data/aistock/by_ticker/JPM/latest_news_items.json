@@ -1,40 +1,11 @@
 [
   {
-    "id": "22c4172d-72bb-5d07-abf5-fbe723592604",
-    "timestamp_utc": "2026-04-03T12:31:50+00:00",
-    "source": "tipranks",
-    "url": "https://www.tipranks.com/news/jpmorgan-stock-jpm-looks-undervalued-despite-ai-and-apple-card-tailwinds",
-    "title": "JPMorgan Stock (JPM) Looks Undervalued Despite AI and Apple Card Tailwinds - TipRanks",
-    "body": "JPMorgan Stock (JPM) Looks Undervalued Despite AI and Apple Card Tailwinds TipRanks",
-    "author": null,
-    "language": "en",
-    "ticker": "JPM",
-    "tickers_hint": [
-      "JPM"
-    ],
-    "source_quality": "high",
-    "publisher_raw": "tipranks.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "TipRanks",
-      "source_domain": "tipranks.com",
-      "trust_tier": 3,
-      "relevance": 0.55,
-      "event_origin": "news",
-      "query_tickers": [
-        "JPM"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "8f27fabb-17e4-566a-b0d5-c3976c4cf658",
-    "timestamp_utc": "2026-04-05T07:49:48+00:00",
+    "id": "85fc19df-0285-5c76-8bc8-6b6d1c8e6e04",
+    "timestamp_utc": "2026-04-09T01:36:04+00:00",
     "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-brookstone-capital-management-buys-5226-shares-of-jpmorgan-chase-co-jpm-2026-04-05/",
-    "title": "Brookstone Capital Management Buys 5,226 Shares of JPMorgan Chase & Co. $JPM - MarketBeat",
-    "body": "Brookstone Capital Management Buys 5,226 Shares of JPMorgan Chase & Co. $JPM MarketBeat",
+    "url": "https://www.marketbeat.com/instant-alerts/fy2027-earnings-estimate-for-jpm-issued-by-erste-group-bank-2026-04-09/",
+    "title": "FY2027 Earnings Estimate for JPM Issued By Erste Group Bank - MarketBeat",
+    "body": "FY2027 Earnings Estimate for JPM Issued By Erste Group Bank MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "JPM",
@@ -43,27 +14,79 @@
     ],
     "source_quality": "low",
     "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "MarketBeat",
       "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
       "event_origin": "news",
-      "query_tickers": [
-        "JPM"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6,
+      "quality_score": 0.49,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "2b243b3a-d95b-5efc-aa8c-4f743bf80694",
-    "timestamp_utc": "2026-04-04T09:19:25+00:00",
+    "id": "af88f187-647d-5f38-9d3f-e170003ffa66",
+    "timestamp_utc": "2026-04-08T12:38:33+00:00",
+    "source": "mshale",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhaXFXQWtNSHNPTkpheDMwd216VGd2M0xCTjlpQVcxTmFIclFwT1ZWVDhJYmU1TnNvVldQdEo3d3FQcGdJV0dBQ0xzYkNuSDdDYXEzTGpUcFp6eThYb1poMWd1VQ?oc=5",
+    "title": "Latest JPM News Along With Price And Volume Analysis JPM Stock Analysis $JPM Latest News TickerDD JP Talking To (5QnxLeJ1mF) - Mshale",
+    "body": "Latest JPM News Along With Price And Volume Analysis JPM Stock Analysis $JPM Latest News TickerDD JP Talking To (5QnxLeJ1mF) Mshale",
+    "author": null,
+    "language": "en",
+    "ticker": "JPM",
+    "tickers_hint": [
+      "JPM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "mshale",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Mshale",
+      "source_domain": "mshale.com",
+      "event_origin": "news",
+      "relevance": 0.6000000000000001,
+      "quality_score": 0.45,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "4c63a6d8-db66-5ba1-9702-f12da89f30d7",
+    "timestamp_utc": "2026-04-08T07:29:37+00:00",
+    "source": "mshale",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ualFvd0lyOS1wcGRzMmgwb25wMGRuQUNvQ2I1WjN5S1B1VVMxQ3dXYTlVNnBnLXlST0tfSjM0b1p3UkFmd21yV2JEVXJISExUN0hMOFllRE1ybmxUYXN5Z2JIOA?oc=5",
+    "title": "JP Morgan Chase Stock - Is It A BUY Amidst High Inflation ? | JPM Stock View Website (3rHIxcXWZe) - Mshale",
+    "body": "JP Morgan Chase Stock - Is It A BUY Amidst High Inflation ? | JPM Stock View Website (3rHIxcXWZe) Mshale",
+    "author": null,
+    "language": "en",
+    "ticker": "JPM",
+    "tickers_hint": [
+      "JPM"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "mshale",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Mshale",
+      "source_domain": "mshale.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.425,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "82521115-2c29-5aa4-b9fd-003107f96855",
+    "timestamp_utc": "2026-04-07T21:53:57+00:00",
     "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-sjbenen-advisory-llc-buys-shares-of-9118-jpmorgan-chase-co-jpm-2026-04-04/",
-    "title": "Sjbenen Advisory LLC Buys Shares of 9,118 JPMorgan Chase & Co. $JPM - MarketBeat",
-    "body": "Sjbenen Advisory LLC Buys Shares of 9,118 JPMorgan Chase & Co. $JPM MarketBeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-dorato-capital-management-buys-new-position-in-jpmorgan-chase-co-jpm-2026-04-08/",
+    "title": "Dorato Capital Management Buys New Position in JPMorgan Chase & Co. $JPM - MarketBeat",
+    "body": "Dorato Capital Management Buys New Position in JPMorgan Chase & Co. $JPM MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "JPM",
@@ -72,105 +95,16 @@
     ],
     "source_quality": "low",
     "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "MarketBeat",
       "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
       "event_origin": "news",
-      "query_tickers": [
-        "JPM"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "4ec2f57f-a48c-559e-aff9-51b8af02ebc7",
-    "timestamp_utc": "2026-04-04T09:19:24+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-mn-services-vermogensbeheer-bv-has-20368-million-stock-position-in-jpmorgan-chase-co-jpm-2026-04-04/",
-    "title": "Mn Services Vermogensbeheer B.V. Has $203.68 Million Stock Position in JPMorgan Chase & Co. $JPM - MarketBeat",
-    "body": "Mn Services Vermogensbeheer B.V. Has $203.68 Million Stock Position in JPMorgan Chase & Co. $JPM MarketBeat",
-    "author": null,
-    "language": "en",
-    "ticker": "JPM",
-    "tickers_hint": [
-      "JPM"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
-      "trust_tier": 1,
       "relevance": 0.55,
-      "event_origin": "news",
-      "query_tickers": [
-        "JPM"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "fa3f9765-0d47-5889-a4d7-33828defbb22",
-    "timestamp_utc": "2026-04-04T09:19:24+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-retirement-systems-of-alabama-has-30361-million-position-in-jpmorgan-chase-co-jpm-2026-04-04/",
-    "title": "Retirement Systems of Alabama Has $303.61 Million Position in JPMorgan Chase & Co. $JPM - MarketBeat",
-    "body": "Retirement Systems of Alabama Has $303.61 Million Position in JPMorgan Chase & Co. $JPM MarketBeat",
-    "author": null,
-    "language": "en",
-    "ticker": "JPM",
-    "tickers_hint": [
-      "JPM"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
-      "event_origin": "news",
-      "query_tickers": [
-        "JPM"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "0b52575f-c817-5c29-9275-efa3f18a1775",
-    "timestamp_utc": "2026-04-04T08:04:22+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-financial-planning-hawaii-inc-acquires-shares-of-4769-jpmorgan-chase-co-jpm-2026-04-04/",
-    "title": "Financial Planning Hawaii Inc. Acquires Shares of 4,769 JPMorgan Chase & Co. $JPM - MarketBeat",
-    "body": "Financial Planning Hawaii Inc. Acquires Shares of 4,769 JPMorgan Chase & Co. $JPM MarketBeat",
-    "author": null,
-    "language": "en",
-    "ticker": "JPM",
-    "tickers_hint": [
-      "JPM"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
-      "event_origin": "news",
-      "query_tickers": [
-        "JPM"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.4025,
+      "_channel": "google_broad"
+    }
   }
 ]

@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "29e8b43c-ca56-57f1-97c6-bb4f8809a8ab",
-      "timestamp_utc": "2026-04-04T12:18:31+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/CTVA/financials",
-      "title": "CTVA Financials: Revenue Breakdown, Margins & Competitor Comparison - Intellectia AI",
-      "body": "CTVA Financials: Revenue Breakdown, Margins & Competitor Comparison Intellectia AI",
+      "id": "b2f9195c-f1fa-5045-9260-a850b70cf3d7",
+      "timestamp_utc": "2026-04-07T22:15:03+00:00",
+      "source": "qz.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQNEZJcHZSUzNILW5nZWd3XzViZUZHZHpYajZkU1NybjdnaDF2SXcwS3NSQjIzUFh0OEtZamZ4QlI2VmR3T0ZVeFJOR0RzUkpQVW1Ja3VENWpyemJmU2dva24yTFpaLVpSbGdmN0xHNXdwZTduX2IxMFZxTQ?oc=5",
+      "title": "Corteva, Inc. (CTVA) Hit a 52 Week High, Can the Run Continue? - qz.com",
+      "body": "Corteva, Inc. (CTVA) Hit a 52 Week High, Can the Run Continue? qz.com",
       "author": null,
       "language": "en",
       "ticker": "CTVA",
@@ -15,60 +15,29 @@
         "CTVA"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "qz.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "qz.com",
+        "source_domain": "qzcom.com",
         "event_origin": "news",
-        "query_tickers": [
-          "CTVA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "e0e680a4-0f2d-5930-926c-544f551702bc",
-      "timestamp_utc": "2026-04-03T23:38:05+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vaTZrR2ZGdnh2N1pWWm9FajE1Sm1xY1A1LTFlSTZSbVplRXBocW0zcnFkd2hjYUpFQkw1cHV4NWF2OWZxSmVmckR2czBjRUtJdDROa0pVSnlkaGxmSVNWZGxsVFVCQQ?oc=5",
-      "title": "CTVA SEC Filings - Corteva Inc 10-K, 10-Q, 8-K Forms - Stock Titan",
-      "body": "CTVA SEC Filings - Corteva Inc 10-K, 10-Q, 8-K Forms Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "CTVA",
-      "tickers_hint": [
-        "CTVA"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
         "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "CTVA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.39,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "29e8b43c-ca56-57f1-97c6-bb4f8809a8ab",
-      "timestamp_utc": "2026-04-04T12:18:31+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/CTVA/financials",
-      "title": "CTVA Financials: Revenue Breakdown, Margins & Competitor Comparison - Intellectia AI",
-      "body": "CTVA Financials: Revenue Breakdown, Margins & Competitor Comparison Intellectia AI",
+      "id": "b2f9195c-f1fa-5045-9260-a850b70cf3d7",
+      "timestamp_utc": "2026-04-07T22:15:03+00:00",
+      "source": "qz.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQNEZJcHZSUzNILW5nZWd3XzViZUZHZHpYajZkU1NybjdnaDF2SXcwS3NSQjIzUFh0OEtZamZ4QlI2VmR3T0ZVeFJOR0RzUkpQVW1Ja3VENWpyemJmU2dva24yTFpaLVpSbGdmN0xHNXdwZTduX2IxMFZxTQ?oc=5",
+      "title": "Corteva, Inc. (CTVA) Hit a 52 Week High, Can the Run Continue? - qz.com",
+      "body": "Corteva, Inc. (CTVA) Hit a 52 Week High, Can the Run Continue? qz.com",
       "author": null,
       "language": "en",
       "ticker": "CTVA",
@@ -76,49 +45,18 @@
         "CTVA"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "qz.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "qz.com",
+        "source_domain": "qzcom.com",
         "event_origin": "news",
-        "query_tickers": [
-          "CTVA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "e0e680a4-0f2d-5930-926c-544f551702bc",
-      "timestamp_utc": "2026-04-03T23:38:05+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vaTZrR2ZGdnh2N1pWWm9FajE1Sm1xY1A1LTFlSTZSbVplRXBocW0zcnFkd2hjYUpFQkw1cHV4NWF2OWZxSmVmckR2czBjRUtJdDROa0pVSnlkaGxmSVNWZGxsVFVCQQ?oc=5",
-      "title": "CTVA SEC Filings - Corteva Inc 10-K, 10-Q, 8-K Forms - Stock Titan",
-      "body": "CTVA SEC Filings - Corteva Inc 10-K, 10-Q, 8-K Forms Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "CTVA",
-      "tickers_hint": [
-        "CTVA"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
         "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "CTVA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.39,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

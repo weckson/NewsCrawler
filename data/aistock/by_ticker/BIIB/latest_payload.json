@@ -2,65 +2,61 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "def964f6-be8f-509e-89e7-70e9fb2141d7",
-      "timestamp_utc": "2026-04-03T20:05:27+00:00",
-      "source": "stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYzlpM3BhR3BOYVB4dTF0dUF6XzBXZmcycWxGSjRwZ0VqcjlEYkdaZUpfc0ZPR3gwazcwNjZZWE81WmhGZl92TkhhS1M5UEh4NEVOMk81OXdSY3VjR0lmYmhhZ2hjVXVNUWxpNnJIbGIySHdSV1poNHI1SFBILTk4Q1dYYjNncWRtUE5iWThvQ2lZMXNWQlFzMUJSM0RCbXBacXNRdnk1bw?oc=5",
-      "title": "Biogen (BIIB) CAO Sean Godbout nets shares from RSU vesting and tax withholding - stocktitan.net",
-      "body": "Biogen (BIIB) CAO Sean Godbout nets shares from RSU vesting and tax withholding stocktitan.net",
+      "id": "4eabf918-778f-5192-918e-82b56bdb50e7",
+      "timestamp_utc": "2026-04-07T06:10:04+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-biogen-biib-could-beat-161004515.html",
+      "title": "Why Biogen (BIIB) Could Beat Earnings Estimates Again - Yahoo Finance",
+      "body": "Why Biogen (BIIB) Could Beat Earnings Estimates Again Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "BIIB",
       "tickers_hint": [
         "BIIB"
       ],
-      "source_quality": "low",
-      "publisher_raw": "stocktitan.net",
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "stocktitan.net",
-        "source_domain": "stocktitannet.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "BIIB"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.655,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "def964f6-be8f-509e-89e7-70e9fb2141d7",
-      "timestamp_utc": "2026-04-03T20:05:27+00:00",
-      "source": "stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYzlpM3BhR3BOYVB4dTF0dUF6XzBXZmcycWxGSjRwZ0VqcjlEYkdaZUpfc0ZPR3gwazcwNjZZWE81WmhGZl92TkhhS1M5UEh4NEVOMk81OXdSY3VjR0lmYmhhZ2hjVXVNUWxpNnJIbGIySHdSV1poNHI1SFBILTk4Q1dYYjNncWRtUE5iWThvQ2lZMXNWQlFzMUJSM0RCbXBacXNRdnk1bw?oc=5",
-      "title": "Biogen (BIIB) CAO Sean Godbout nets shares from RSU vesting and tax withholding - stocktitan.net",
-      "body": "Biogen (BIIB) CAO Sean Godbout nets shares from RSU vesting and tax withholding stocktitan.net",
+      "id": "4eabf918-778f-5192-918e-82b56bdb50e7",
+      "timestamp_utc": "2026-04-07T06:10:04+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-biogen-biib-could-beat-161004515.html",
+      "title": "Why Biogen (BIIB) Could Beat Earnings Estimates Again - Yahoo Finance",
+      "body": "Why Biogen (BIIB) Could Beat Earnings Estimates Again Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "BIIB",
       "tickers_hint": [
         "BIIB"
       ],
-      "source_quality": "low",
-      "publisher_raw": "stocktitan.net",
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "stocktitan.net",
-        "source_domain": "stocktitannet.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "BIIB"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.655,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

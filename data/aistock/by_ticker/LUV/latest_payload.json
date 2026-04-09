@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "ea4e6a0a-e140-5cf0-8c73-b896b4180e79",
-      "timestamp_utc": "2026-04-01T08:48:18+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/jefferies-financial-group-issues-positive-forecast-for-southwest-airlines-nyseluv-stock-price-2026-04-01/",
-      "title": "Jefferies Financial Group Issues Positive Forecast for Southwest Airlines (NYSE:LUV) Stock Price - MarketBeat",
-      "body": "Jefferies Financial Group Issues Positive Forecast for Southwest Airlines (NYSE:LUV) Stock Price MarketBeat",
+      "id": "7c2f5fd1-1c30-55dc-9629-cdb942f8f5ac",
+      "timestamp_utc": "2026-04-06T17:49:08+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RUDhjdXdYT0tJMjdGN0lCUjZ3MWZ6NE1xQnFwdWtzblFHRVJJWWYtQWdZeDVWYi1WNWdWUmVVQmdmaWxNcTVpYXVhSE14NnVRS0VGLXpTRUt2MHgzMy1kY011UlA?oc=5",
+      "title": "LUV Apr 2026 52.000 call (LUV260410C00052000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "LUV Apr 2026 52.000 call (LUV260410C00052000) Stock Price, News, Quote & History Yahoo! Finance Canada",
       "author": null,
       "language": "en",
       "ticker": "LUV",
@@ -15,60 +15,29 @@
         "LUV"
       ],
       "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "publisher_raw": "yahoo! finance canada",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
         "event_origin": "news",
-        "query_tickers": [
-          "LUV"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "f4a991db-7b2c-5aa1-a957-d6975794a249",
-      "timestamp_utc": "2026-04-01T08:48:17+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-has-lowered-expectations-for-southwest-airlines-nyseluv-stock-price-2026-04-01/",
-      "title": "Bank of America Has Lowered Expectations for Southwest Airlines (NYSE:LUV) Stock Price - MarketBeat",
-      "body": "Bank of America Has Lowered Expectations for Southwest Airlines (NYSE:LUV) Stock Price MarketBeat",
-      "author": null,
-      "language": "en",
-      "ticker": "LUV",
-      "tickers_hint": [
-        "LUV"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "LUV"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.405,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "ea4e6a0a-e140-5cf0-8c73-b896b4180e79",
-      "timestamp_utc": "2026-04-01T08:48:18+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/jefferies-financial-group-issues-positive-forecast-for-southwest-airlines-nyseluv-stock-price-2026-04-01/",
-      "title": "Jefferies Financial Group Issues Positive Forecast for Southwest Airlines (NYSE:LUV) Stock Price - MarketBeat",
-      "body": "Jefferies Financial Group Issues Positive Forecast for Southwest Airlines (NYSE:LUV) Stock Price MarketBeat",
+      "id": "7c2f5fd1-1c30-55dc-9629-cdb942f8f5ac",
+      "timestamp_utc": "2026-04-06T17:49:08+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RUDhjdXdYT0tJMjdGN0lCUjZ3MWZ6NE1xQnFwdWtzblFHRVJJWWYtQWdZeDVWYi1WNWdWUmVVQmdmaWxNcTVpYXVhSE14NnVRS0VGLXpTRUt2MHgzMy1kY011UlA?oc=5",
+      "title": "LUV Apr 2026 52.000 call (LUV260410C00052000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "LUV Apr 2026 52.000 call (LUV260410C00052000) Stock Price, News, Quote & History Yahoo! Finance Canada",
       "author": null,
       "language": "en",
       "ticker": "LUV",
@@ -76,49 +45,18 @@
         "LUV"
       ],
       "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "publisher_raw": "yahoo! finance canada",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
         "event_origin": "news",
-        "query_tickers": [
-          "LUV"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "f4a991db-7b2c-5aa1-a957-d6975794a249",
-      "timestamp_utc": "2026-04-01T08:48:17+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-has-lowered-expectations-for-southwest-airlines-nyseluv-stock-price-2026-04-01/",
-      "title": "Bank of America Has Lowered Expectations for Southwest Airlines (NYSE:LUV) Stock Price - MarketBeat",
-      "body": "Bank of America Has Lowered Expectations for Southwest Airlines (NYSE:LUV) Stock Price MarketBeat",
-      "author": null,
-      "language": "en",
-      "ticker": "LUV",
-      "tickers_hint": [
-        "LUV"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "LUV"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.405,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

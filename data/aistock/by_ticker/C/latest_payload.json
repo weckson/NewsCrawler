@@ -2,48 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "0f826333-a46e-5dc1-94c2-e378780059a8",
-      "timestamp_utc": "2026-04-01T06:40:37+00:00",
+      "id": "ee747a14-35cf-5d48-8ab8-635d7c3fb653",
+      "timestamp_utc": "2026-04-08T21:08:57+00:00",
       "source": "benzinga",
-      "url": "https://www.benzinga.com/markets/tech/26/04/51605996/applied-digital-stock-jumps-as-coreweave-lease-deal-locks-in-massive-credit-support",
-      "title": "Applied Digital Stock Jumps As CoreWeave Lease Deal Locks In Massive Credit Support - Benzinga",
-      "body": "Applied Digital Stock Jumps As CoreWeave Lease Deal Locks In Massive Credit Support Benzinga",
-      "author": null,
-      "language": "en",
-      "ticker": "A",
-      "tickers_hint": [
-        "A",
-        "C",
-        "IT"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "benzinga.com",
-      "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "A",
-          "C",
-          "IT"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "4404593c-501a-5f1e-86ab-6a6fcc9dc87b",
-      "timestamp_utc": "2026-04-01T04:58:09+00:00",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/04/51602085/kulr-shares-fall-after-double-miss-cash-decline",
-      "title": "KULR Shares Fall After Double Miss, Cash Decline - Benzinga",
-      "body": "KULR Shares Fall After Double Miss, Cash Decline Benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/04/51723072/citigroup-gears-up-for-q1-print-here-are-the-recent-forecast-changes-from-wall-streets-most-accurate-analysts",
+      "title": "Citigroup Gears Up For Q1 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate An - Benzinga",
+      "body": "Citigroup Gears Up For Q1 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate An Benzinga",
       "author": null,
       "language": "en",
       "ticker": "C",
@@ -52,30 +16,25 @@
       ],
       "source_quality": "high",
       "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_benzinga",
         "source_name": "Benzinga",
         "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.6500000000000001,
         "event_origin": "news",
-        "query_tickers": [
-          "C"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.6975,
+        "_channel": "google_benzinga"
+      }
     },
     {
-      "id": "1038f543-86ee-5995-a2c3-7549c89b17b9",
-      "timestamp_utc": "2026-03-31T13:25:41+00:00",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst/69ab02abca583a000196c4d4/bryan-c.-bergin",
-      "title": "Bryan C. Bergin's Stock Ratings - Benzinga",
-      "body": "Bryan C. Bergin's Stock Ratings Benzinga",
+      "id": "020ab2b5-8898-55cc-8b94-8844a5369ff9",
+      "timestamp_utc": "2026-04-07T16:14:00+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/too-consider-citigroup-c-strong-021440166.html",
+      "title": "Is It Too Late To Consider Citigroup (C) After Its Strong Multi Year Share Price Run - Yahoo Finance",
+      "body": "Is It Too Late To Consider Citigroup (C) After Its Strong Multi Year Share Price Run Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "C",
@@ -83,92 +42,26 @@
         "C"
       ],
       "source_quality": "high",
-      "publisher_raw": "benzinga.com",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.6500000000000001,
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "C"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "33133b42-a3a5-5090-9a4b-bcf2e13bcc49",
-      "timestamp_utc": "2026-04-01T10:31:00+00:00",
-      "source": "marketwatch",
-      "url": "https://www.marketwatch.com/data-news/alphabet-inc-cl-c-stock-outperforms-competitors-on-strong-trading-day-d647066f-7febd23c3710?mod=mw_quote_news&gaa_at=eafs&gaa_n=AWEtsqfhk08ANur4Q1YGiHpFHN6k2VHL0lkGx3lviXINoAk8bEG7wj8OQfLe&gaa_ts=69cde3d4&gaa_sig=_djKXkXtroLoDQqAswQnWQChXA_Ty970bzNlB6rK3tOJhLkyvUGAyHQLppEFxe1JOjGkJbA0t2xigYBdiMqe2w%3D%3D",
-      "title": "Alphabet Inc. Cl C stock outperforms competitors on strong trading day - MarketWatch",
-      "body": "Alphabet Inc. Cl C stock outperforms competitors on strong trading day MarketWatch",
-      "author": null,
-      "language": "en",
-      "ticker": "C",
-      "tickers_hint": [
-        "C"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "marketwatch.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketWatch",
-        "source_domain": "marketwatch.com",
-        "trust_tier": 3,
         "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "C"
-        ],
-        "alt_sources": [
-          "MarketWatch"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.625,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "647179bd-9fb1-50b2-91be-8f233045c10f",
-      "timestamp_utc": "2026-04-01T00:58:34+00:00",
-      "source": "tradingview",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWEw2dTgyWDZOZEZkejdFSkxjQjl6VzhIY0UtTXNDUlk0RG14YklFN2JGaTR6LTRYMVhNbkM0QVR0UkhBWkpfQ3RhWkU2R1AyemtTQmNRWnhhbERlVkI5N3JYVUl1WHNUQjRJTXpHUjJvRERna25vdjNXdThhellNMGN6dURSV0dmaWtWMXhFS3l4TDl4UVItcTVrTFpLVGg1YVZUdVVZLURjcXhNX2VORWFsQVIwSmkwVG5vVXRVNXBBdlMtMDlaSWVFb3JlU3hpM3ZLNEVTN08yZV8x?oc=5",
-      "title": "First Horizon Corporation Announces Redemption Of Series C Preferred Stock - TradingView",
-      "body": "First Horizon Corporation Announces Redemption Of Series C Preferred Stock TradingView",
-      "author": null,
-      "language": "en",
-      "ticker": "C",
-      "tickers_hint": [
-        "C"
-      ],
-      "source_quality": "medium",
-      "publisher_raw": "tradingview.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "TradingView",
-        "source_domain": "tradingview.com",
-        "trust_tier": 2,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "C"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "12814061-d475-5928-a8ad-68a3c2b57283",
-      "timestamp_utc": "2026-04-01T08:21:36+00:00",
-      "source": "msn",
-      "url": "https://www.msn.com/en-us/money/topstocks/will-citigroup-c-beat-estimates-again-in-its-next-earnings-report/ar-AA1ZW2y5",
-      "title": "Will Citigroup (C) beat estimates again in its next earnings report? - MSN",
-      "body": "Will Citigroup (C) beat estimates again in its next earnings report? MSN",
+      "id": "16c2ee76-e7e7-545e-8f4a-773d8a253689",
+      "timestamp_utc": "2026-04-09T01:21:06+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-ofi-invest-asset-management-has-7918-million-stake-in-citigroup-inc-c-2026-04-09/",
+      "title": "OFI Invest Asset Management Has $79.18 Million Stake in Citigroup Inc. $C - MarketBeat",
+      "body": "OFI Invest Asset Management Has $79.18 Million Stake in Citigroup Inc. $C MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "C",
@@ -176,57 +69,26 @@
         "C"
       ],
       "source_quality": "low",
-      "publisher_raw": "msn",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MSN",
-        "source_domain": "msn.com",
-        "trust_tier": 1,
-        "relevance": 0.7000000000000001,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "C"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "5ce18483-c23a-536d-9d6a-ce577aeaa496",
-      "timestamp_utc": "2026-04-01T08:07:59+00:00",
-      "source": "ad_hoc_news",
-      "url": "https://www.ad-hoc-news.de/boerse/ueberblick/alphabet-inc-class-c-stock-long-term-strength-amid-ai-investments-and/69050206",
-      "title": "Alphabet Inc. (Class C) Stock: Long-Term Strength Amid AI Investments and Market Dynamics - AD HOC NEWS",
-      "body": "NEWSAKTIENKURSEBÖRSE WIRTSCHAFT POLITIK SPORT UNTERHALTUNG WISSENSCHAFT AUSLAND POLIZEI INTERNATIONAL SONSTIGE ARCHIV BLOGS KALENDERBLATT NEWSLETTER BÖRSENLEXIKON RSS WATCHLISTNews SucheMenü ein-/ausblendenBlogsBilderNews",
-      "author": null,
-      "language": "en",
-      "ticker": "C",
-      "tickers_hint": [
-        "C"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "ad hoc news",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "AD HOC NEWS",
-        "source_domain": "adhocnews.com",
-        "trust_tier": 1,
         "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "C"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.5375,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "86deb91f-b129-5356-b397-98d844275da7",
-      "timestamp_utc": "2026-03-31T10:09:45+00:00",
-      "source": "stockstory",
-      "url": "https://stockstory.org/us/stocks/nyse/c/news/why-up-down/why-is-citigroup-c-stock-rocketing-higher-today",
-      "title": "Why Is Citigroup (C) Stock Rocketing Higher Today - StockStory",
-      "body": "Why Is Citigroup (C) Stock Rocketing Higher Today StockStory",
+      "id": "b6646d24-7642-5967-ac6e-81c5f8a8607d",
+      "timestamp_utc": "2026-04-08T22:37:00+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-10157-shares-in-citigroup-inc-c-purchased-by-cliftonlarsonallen-wealth-advisors-llc-2026-04-09/",
+      "title": "10,157 Shares in Citigroup Inc. $C Purchased by Cliftonlarsonallen Wealth Advisors LLC - MarketBeat",
+      "body": "10,157 Shares in Citigroup Inc. $C Purchased by Cliftonlarsonallen Wealth Advisors LLC MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "C",
@@ -234,28 +96,26 @@
         "C"
       ],
       "source_quality": "low",
-      "publisher_raw": "stockstory",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "StockStory",
-        "source_domain": "stockstory.com",
-        "trust_tier": 1,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
         "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "C"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.4675,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "3bf561aa-2f8e-5533-b744-9da4fc2ca189",
-      "timestamp_utc": "2026-04-01T01:59:23+00:00",
-      "source": "ad_hoc_news",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcGp1UUtPdE5aRExsOHBXY0JLZnF5NngxUmx2OXVWSGdwSi1FYWZfUTNpNFFLTTFJVW5FNkowZzlvcUVhc0N6NV9sM2MwSTJ4MGlLSG9UbVZpNnV3Y2F3RDg0czNPRWY5V0pfZjZ4Tm1kcXpFNkZVQnlSRGpIWE91WHVZLUZDYUxWNFY2MGdsT2o3ZTdrclZFWW1FMWkxS0NLeDUta09fdk5UeUVPa0hlNHFxNnBTc21FVWpNcV9B?oc=5",
-      "title": "Alphabet Inc. Class C Stock: Core Business Drivers, Investor Relevance, and Key Risks in the Evolvin - AD HOC NEWS",
-      "body": "Alphabet Inc. Class C Stock: Core Business Drivers, Investor Relevance, and Key Risks in the Evolvin AD HOC NEWS",
+      "id": "cf59e2f0-158d-5f28-aeef-7b60efc4a551",
+      "timestamp_utc": "2026-04-08T15:00:03+00:00",
+      "source": "moomoo",
+      "url": "https://www.moomoo.com/news/post/68063972/earnings-preview-citigroup-to-report-financial-results-pre-market-on",
+      "title": "Earnings Preview: Citigroup to Report Financial Results Pre-market on April 14 - Moomoo",
+      "body": "$Citigroup (C.US)$ is scheduled to release its financial results pre-market on April 14 ET.\n\nAnalysts estimate $Citigroup (C.US)$ to post revenue of USD23.56B for 2026Q1, up 9.09% YOY;\n\nEPS is estimated to be USD2.625, up 33.94% YOY.\n\nThe accounting standard used for the above data is US-GAAP.\n\nUS-listed companies have full discretion in choosing their accounting year-end date, without being subject to any mandatory requirements. Consequently, every financial reporting period can act as the annual report cutoff date for a company, rather than following a natural calendar year as the fiscal year.\n\nTypically, companies host conference call around the date of the financial report publication to discuss the most recent financial results and operational performance while engaging with investors, analysts, and media. Investors are free to attend either through offline meetings or online conference calls.",
       "author": null,
       "language": "en",
       "ticker": "C",
@@ -263,67 +123,56 @@
         "C"
       ],
       "source_quality": "low",
-      "publisher_raw": "ad hoc news",
+      "publisher_raw": "moomoo",
+      "trust_tier": 1,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "AD HOC NEWS",
-        "source_domain": "adhocnews.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
+        "source_name": "Moomoo",
+        "source_domain": "moomoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "C"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4575,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "5213c5e0-470d-5e94-aa9f-37941e9218a4",
+      "timestamp_utc": "2026-04-08T12:05:19+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEppZlJTTmcyQTZRLVhIN3BBWkhYZUtiWUhFMlR6VnY5a19OTGVhdFd2ZEc1T2hiLXRQazFzV0VEcXl5T0JoYmxNOFVhVE43QWJaQzQxczR0QzdjdWlFZVNzRjU3UlVuODEydGdtRHVzYm9zODBycmpjM3lCTjlmWkFPdEU3NHdJZjczOHpGd2Qtdk9lcFNDaU42SHFGcXlrX25NSHVqUHRyVFp2?oc=5",
+      "title": "Citigroup (C) Leads Bank Stocks with Strong Gains Amid Positive Outlook - GuruFocus",
+      "body": "Citigroup (C) Leads Bank Stocks with Strong Gains Amid Positive Outlook GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "C",
+      "tickers_hint": [
+        "C"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.435,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "0f826333-a46e-5dc1-94c2-e378780059a8",
-      "timestamp_utc": "2026-04-01T06:40:37+00:00",
+      "id": "ee747a14-35cf-5d48-8ab8-635d7c3fb653",
+      "timestamp_utc": "2026-04-08T21:08:57+00:00",
       "source": "benzinga",
-      "url": "https://www.benzinga.com/markets/tech/26/04/51605996/applied-digital-stock-jumps-as-coreweave-lease-deal-locks-in-massive-credit-support",
-      "title": "Applied Digital Stock Jumps As CoreWeave Lease Deal Locks In Massive Credit Support - Benzinga",
-      "body": "Applied Digital Stock Jumps As CoreWeave Lease Deal Locks In Massive Credit Support Benzinga",
-      "author": null,
-      "language": "en",
-      "ticker": "A",
-      "tickers_hint": [
-        "A",
-        "C",
-        "IT"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "benzinga.com",
-      "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "A",
-          "C",
-          "IT"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "4404593c-501a-5f1e-86ab-6a6fcc9dc87b",
-      "timestamp_utc": "2026-04-01T04:58:09+00:00",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/04/51602085/kulr-shares-fall-after-double-miss-cash-decline",
-      "title": "KULR Shares Fall After Double Miss, Cash Decline - Benzinga",
-      "body": "KULR Shares Fall After Double Miss, Cash Decline Benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/04/51723072/citigroup-gears-up-for-q1-print-here-are-the-recent-forecast-changes-from-wall-streets-most-accurate-analysts",
+      "title": "Citigroup Gears Up For Q1 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate An - Benzinga",
+      "body": "Citigroup Gears Up For Q1 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate An Benzinga",
       "author": null,
       "language": "en",
       "ticker": "C",
@@ -332,30 +181,25 @@
       ],
       "source_quality": "high",
       "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_benzinga",
         "source_name": "Benzinga",
         "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.6500000000000001,
         "event_origin": "news",
-        "query_tickers": [
-          "C"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.6975,
+        "_channel": "google_benzinga"
+      }
     },
     {
-      "id": "1038f543-86ee-5995-a2c3-7549c89b17b9",
-      "timestamp_utc": "2026-03-31T13:25:41+00:00",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst/69ab02abca583a000196c4d4/bryan-c.-bergin",
-      "title": "Bryan C. Bergin's Stock Ratings - Benzinga",
-      "body": "Bryan C. Bergin's Stock Ratings Benzinga",
+      "id": "020ab2b5-8898-55cc-8b94-8844a5369ff9",
+      "timestamp_utc": "2026-04-07T16:14:00+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/too-consider-citigroup-c-strong-021440166.html",
+      "title": "Is It Too Late To Consider Citigroup (C) After Its Strong Multi Year Share Price Run - Yahoo Finance",
+      "body": "Is It Too Late To Consider Citigroup (C) After Its Strong Multi Year Share Price Run Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "C",
@@ -363,92 +207,26 @@
         "C"
       ],
       "source_quality": "high",
-      "publisher_raw": "benzinga.com",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.6500000000000001,
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "C"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "33133b42-a3a5-5090-9a4b-bcf2e13bcc49",
-      "timestamp_utc": "2026-04-01T10:31:00+00:00",
-      "source": "marketwatch",
-      "url": "https://www.marketwatch.com/data-news/alphabet-inc-cl-c-stock-outperforms-competitors-on-strong-trading-day-d647066f-7febd23c3710?mod=mw_quote_news&gaa_at=eafs&gaa_n=AWEtsqfhk08ANur4Q1YGiHpFHN6k2VHL0lkGx3lviXINoAk8bEG7wj8OQfLe&gaa_ts=69cde3d4&gaa_sig=_djKXkXtroLoDQqAswQnWQChXA_Ty970bzNlB6rK3tOJhLkyvUGAyHQLppEFxe1JOjGkJbA0t2xigYBdiMqe2w%3D%3D",
-      "title": "Alphabet Inc. Cl C stock outperforms competitors on strong trading day - MarketWatch",
-      "body": "Alphabet Inc. Cl C stock outperforms competitors on strong trading day MarketWatch",
-      "author": null,
-      "language": "en",
-      "ticker": "C",
-      "tickers_hint": [
-        "C"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "marketwatch.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketWatch",
-        "source_domain": "marketwatch.com",
-        "trust_tier": 3,
         "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "C"
-        ],
-        "alt_sources": [
-          "MarketWatch"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.625,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "647179bd-9fb1-50b2-91be-8f233045c10f",
-      "timestamp_utc": "2026-04-01T00:58:34+00:00",
-      "source": "tradingview",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWEw2dTgyWDZOZEZkejdFSkxjQjl6VzhIY0UtTXNDUlk0RG14YklFN2JGaTR6LTRYMVhNbkM0QVR0UkhBWkpfQ3RhWkU2R1AyemtTQmNRWnhhbERlVkI5N3JYVUl1WHNUQjRJTXpHUjJvRERna25vdjNXdThhellNMGN6dURSV0dmaWtWMXhFS3l4TDl4UVItcTVrTFpLVGg1YVZUdVVZLURjcXhNX2VORWFsQVIwSmkwVG5vVXRVNXBBdlMtMDlaSWVFb3JlU3hpM3ZLNEVTN08yZV8x?oc=5",
-      "title": "First Horizon Corporation Announces Redemption Of Series C Preferred Stock - TradingView",
-      "body": "First Horizon Corporation Announces Redemption Of Series C Preferred Stock TradingView",
-      "author": null,
-      "language": "en",
-      "ticker": "C",
-      "tickers_hint": [
-        "C"
-      ],
-      "source_quality": "medium",
-      "publisher_raw": "tradingview.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "TradingView",
-        "source_domain": "tradingview.com",
-        "trust_tier": 2,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "C"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "12814061-d475-5928-a8ad-68a3c2b57283",
-      "timestamp_utc": "2026-04-01T08:21:36+00:00",
-      "source": "msn",
-      "url": "https://www.msn.com/en-us/money/topstocks/will-citigroup-c-beat-estimates-again-in-its-next-earnings-report/ar-AA1ZW2y5",
-      "title": "Will Citigroup (C) beat estimates again in its next earnings report? - MSN",
-      "body": "Will Citigroup (C) beat estimates again in its next earnings report? MSN",
+      "id": "16c2ee76-e7e7-545e-8f4a-773d8a253689",
+      "timestamp_utc": "2026-04-09T01:21:06+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-ofi-invest-asset-management-has-7918-million-stake-in-citigroup-inc-c-2026-04-09/",
+      "title": "OFI Invest Asset Management Has $79.18 Million Stake in Citigroup Inc. $C - MarketBeat",
+      "body": "OFI Invest Asset Management Has $79.18 Million Stake in Citigroup Inc. $C MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "C",
@@ -456,57 +234,26 @@
         "C"
       ],
       "source_quality": "low",
-      "publisher_raw": "msn",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MSN",
-        "source_domain": "msn.com",
-        "trust_tier": 1,
-        "relevance": 0.7000000000000001,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "C"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "5ce18483-c23a-536d-9d6a-ce577aeaa496",
-      "timestamp_utc": "2026-04-01T08:07:59+00:00",
-      "source": "ad_hoc_news",
-      "url": "https://www.ad-hoc-news.de/boerse/ueberblick/alphabet-inc-class-c-stock-long-term-strength-amid-ai-investments-and/69050206",
-      "title": "Alphabet Inc. (Class C) Stock: Long-Term Strength Amid AI Investments and Market Dynamics - AD HOC NEWS",
-      "body": "NEWSAKTIENKURSEBÖRSE WIRTSCHAFT POLITIK SPORT UNTERHALTUNG WISSENSCHAFT AUSLAND POLIZEI INTERNATIONAL SONSTIGE ARCHIV BLOGS KALENDERBLATT NEWSLETTER BÖRSENLEXIKON RSS WATCHLISTNews SucheMenü ein-/ausblendenBlogsBilderNews",
-      "author": null,
-      "language": "en",
-      "ticker": "C",
-      "tickers_hint": [
-        "C"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "ad hoc news",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "AD HOC NEWS",
-        "source_domain": "adhocnews.com",
-        "trust_tier": 1,
         "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "C"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.5375,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "86deb91f-b129-5356-b397-98d844275da7",
-      "timestamp_utc": "2026-03-31T10:09:45+00:00",
-      "source": "stockstory",
-      "url": "https://stockstory.org/us/stocks/nyse/c/news/why-up-down/why-is-citigroup-c-stock-rocketing-higher-today",
-      "title": "Why Is Citigroup (C) Stock Rocketing Higher Today - StockStory",
-      "body": "Why Is Citigroup (C) Stock Rocketing Higher Today StockStory",
+      "id": "b6646d24-7642-5967-ac6e-81c5f8a8607d",
+      "timestamp_utc": "2026-04-08T22:37:00+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-10157-shares-in-citigroup-inc-c-purchased-by-cliftonlarsonallen-wealth-advisors-llc-2026-04-09/",
+      "title": "10,157 Shares in Citigroup Inc. $C Purchased by Cliftonlarsonallen Wealth Advisors LLC - MarketBeat",
+      "body": "10,157 Shares in Citigroup Inc. $C Purchased by Cliftonlarsonallen Wealth Advisors LLC MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "C",
@@ -514,28 +261,26 @@
         "C"
       ],
       "source_quality": "low",
-      "publisher_raw": "stockstory",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "StockStory",
-        "source_domain": "stockstory.com",
-        "trust_tier": 1,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
         "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "C"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.4675,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "3bf561aa-2f8e-5533-b744-9da4fc2ca189",
-      "timestamp_utc": "2026-04-01T01:59:23+00:00",
-      "source": "ad_hoc_news",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcGp1UUtPdE5aRExsOHBXY0JLZnF5NngxUmx2OXVWSGdwSi1FYWZfUTNpNFFLTTFJVW5FNkowZzlvcUVhc0N6NV9sM2MwSTJ4MGlLSG9UbVZpNnV3Y2F3RDg0czNPRWY5V0pfZjZ4Tm1kcXpFNkZVQnlSRGpIWE91WHVZLUZDYUxWNFY2MGdsT2o3ZTdrclZFWW1FMWkxS0NLeDUta09fdk5UeUVPa0hlNHFxNnBTc21FVWpNcV9B?oc=5",
-      "title": "Alphabet Inc. Class C Stock: Core Business Drivers, Investor Relevance, and Key Risks in the Evolvin - AD HOC NEWS",
-      "body": "Alphabet Inc. Class C Stock: Core Business Drivers, Investor Relevance, and Key Risks in the Evolvin AD HOC NEWS",
+      "id": "cf59e2f0-158d-5f28-aeef-7b60efc4a551",
+      "timestamp_utc": "2026-04-08T15:00:03+00:00",
+      "source": "moomoo",
+      "url": "https://www.moomoo.com/news/post/68063972/earnings-preview-citigroup-to-report-financial-results-pre-market-on",
+      "title": "Earnings Preview: Citigroup to Report Financial Results Pre-market on April 14 - Moomoo",
+      "body": "$Citigroup (C.US)$ is scheduled to release its financial results pre-market on April 14 ET.\n\nAnalysts estimate $Citigroup (C.US)$ to post revenue of USD23.56B for 2026Q1, up 9.09% YOY;\n\nEPS is estimated to be USD2.625, up 33.94% YOY.\n\nThe accounting standard used for the above data is US-GAAP.\n\nUS-listed companies have full discretion in choosing their accounting year-end date, without being subject to any mandatory requirements. Consequently, every financial reporting period can act as the annual report cutoff date for a company, rather than following a natural calendar year as the fiscal year.\n\nTypically, companies host conference call around the date of the financial report publication to discuss the most recent financial results and operational performance while engaging with investors, analysts, and media. Investors are free to attend either through offline meetings or online conference calls.",
       "author": null,
       "language": "en",
       "ticker": "C",
@@ -543,20 +288,45 @@
         "C"
       ],
       "source_quality": "low",
-      "publisher_raw": "ad hoc news",
+      "publisher_raw": "moomoo",
+      "trust_tier": 1,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "AD HOC NEWS",
-        "source_domain": "adhocnews.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
+        "source_name": "Moomoo",
+        "source_domain": "moomoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "C"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4575,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "5213c5e0-470d-5e94-aa9f-37941e9218a4",
+      "timestamp_utc": "2026-04-08T12:05:19+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEppZlJTTmcyQTZRLVhIN3BBWkhYZUtiWUhFMlR6VnY5a19OTGVhdFd2ZEc1T2hiLXRQazFzV0VEcXl5T0JoYmxNOFVhVE43QWJaQzQxczR0QzdjdWlFZVNzRjU3UlVuODEydGdtRHVzYm9zODBycmpjM3lCTjlmWkFPdEU3NHdJZjczOHpGd2Qtdk9lcFNDaU42SHFGcXlrX25NSHVqUHRyVFp2?oc=5",
+      "title": "Citigroup (C) Leads Bank Stocks with Strong Gains Amid Positive Outlook - GuruFocus",
+      "body": "Citigroup (C) Leads Bank Stocks with Strong Gains Amid Positive Outlook GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "C",
+      "tickers_hint": [
+        "C"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.435,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

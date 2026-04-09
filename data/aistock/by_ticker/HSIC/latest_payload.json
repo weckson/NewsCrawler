@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "23f14d6c-9d6e-58cb-aaad-b9f0667cc546",
-      "timestamp_utc": "2026-03-31T23:06:08+00:00",
-      "source": "msn",
-      "url": "https://www.msn.com/en-us/money/topstocks/henry-schein-hsic-down-94-since-last-earnings-report-can-it-rebound/ar-AA1ZtFyB",
-      "title": "Henry Schein (HSIC) down 9.4% since last earnings report: Can it rebound? - MSN",
-      "body": "Henry Schein (HSIC) down 9.4% since last earnings report: Can it rebound? MSN",
+      "id": "f5815171-fd85-5f54-8745-ed86637473d9",
+      "timestamp_utc": "2026-04-08T09:18:45+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782128/hsic-maintains-outperform-rating-price-target-lowered-by-evercore-isi-group-hsic-stock-news?mobile=true",
+      "title": "HSIC Maintains Outperform Rating, Price Target Lowered by Everco - GuruFocus",
+      "body": "HSIC Maintains Outperform Rating, Price Target Lowered by Everco GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "HSIC",
@@ -15,31 +15,56 @@
         "HSIC"
       ],
       "source_quality": "low",
-      "publisher_raw": "msn",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MSN",
-        "source_domain": "msn.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "HSIC"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.48,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "dbbed1b0-b767-591a-b6a1-b72b35e46c4d",
+      "timestamp_utc": "2026-04-08T09:08:11+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/HSIC/financials",
+      "title": "HSIC Financials: Revenue Breakdown, Margins & Competitor Comparison - Intellectia AI",
+      "body": "HSIC Financials: Revenue Breakdown, Margins & Competitor Comparison Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "HSIC",
+      "tickers_hint": [
+        "HSIC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "23f14d6c-9d6e-58cb-aaad-b9f0667cc546",
-      "timestamp_utc": "2026-03-31T23:06:08+00:00",
-      "source": "msn",
-      "url": "https://www.msn.com/en-us/money/topstocks/henry-schein-hsic-down-94-since-last-earnings-report-can-it-rebound/ar-AA1ZtFyB",
-      "title": "Henry Schein (HSIC) down 9.4% since last earnings report: Can it rebound? - MSN",
-      "body": "Henry Schein (HSIC) down 9.4% since last earnings report: Can it rebound? MSN",
+      "id": "f5815171-fd85-5f54-8745-ed86637473d9",
+      "timestamp_utc": "2026-04-08T09:18:45+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782128/hsic-maintains-outperform-rating-price-target-lowered-by-evercore-isi-group-hsic-stock-news?mobile=true",
+      "title": "HSIC Maintains Outperform Rating, Price Target Lowered by Everco - GuruFocus",
+      "body": "HSIC Maintains Outperform Rating, Price Target Lowered by Everco GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "HSIC",
@@ -47,20 +72,45 @@
         "HSIC"
       ],
       "source_quality": "low",
-      "publisher_raw": "msn",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MSN",
-        "source_domain": "msn.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "HSIC"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.48,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "dbbed1b0-b767-591a-b6a1-b72b35e46c4d",
+      "timestamp_utc": "2026-04-08T09:08:11+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/HSIC/financials",
+      "title": "HSIC Financials: Revenue Breakdown, Margins & Competitor Comparison - Intellectia AI",
+      "body": "HSIC Financials: Revenue Breakdown, Margins & Competitor Comparison Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "HSIC",
+      "tickers_hint": [
+        "HSIC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

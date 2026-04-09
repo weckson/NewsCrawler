@@ -2,41 +2,39 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "cb8598d3-7502-5594-ad11-02ada1013351",
-      "timestamp_utc": "2026-04-02T20:41:54+00:00",
-      "source": "investing.com",
-      "url": "https://www.investing.com/news/insider-trading-news/elkins-bristol-myers-squibb-cfo-sells-185-million-in-bmy-stock-93CH-4596441",
-      "title": "Elkins, Bristol Myers Squibb CFO, sells $1.85 million in BMY stock - Investing.com",
-      "body": "Elkins, Bristol Myers Squibb CFO, sells $1.85 million in BMY stock Investing.com",
+      "id": "89911ce0-46de-5209-8811-8deef478d3eb",
+      "timestamp_utc": "2026-04-08T17:53:15+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LcE1TRE5SNkNrLVRxcEFDWlFvTFBVNC1veUF0RUdlUHl0T2p1Q0tIa09oTFJycEs3aXN0dE5pQWVtUVF0Ml85UjNIeDRLanhG?oc=5",
+      "title": "Bristol-Myers Squibb Company (BMY) stock price, news, quote and history - Yahoo Finance Singapore",
+      "body": "Bristol-Myers Squibb Company (BMY) stock price, news, quote and history Yahoo Finance Singapore",
       "author": null,
       "language": "en",
       "ticker": "BMY",
       "tickers_hint": [
         "BMY"
       ],
-      "source_quality": "medium",
-      "publisher_raw": "investing.com",
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Investing.com",
-        "source_domain": "investing.com",
-        "trust_tier": 2,
-        "relevance": 0.55,
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "BMY"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.64,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "135fb07a-13a4-5414-9287-cf2c6f3d4498",
-      "timestamp_utc": "2026-04-02T20:26:15+00:00",
+      "id": "6451d081-6a30-5f4c-9b40-41510cc252d4",
+      "timestamp_utc": "2026-04-08T04:03:45+00:00",
       "source": "gurufocus",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN28xbEZGUjFRc3UwbjFvdVRaWGd0cXRHOGR3WWJ6Mms0TThjWTRhaERpLTdZMG9vaHFjMjc2R0hDUWFHV1h5TU44c3dyR0dSaXRuUUFRaGpSMzVHMThKS2VmV3E5clFybGxJY3hXYjNGTVI5M093aVdJUUd6LWVGZ2hFdFpFQXhtcmV2UEtjRXIyYWVRMnBhR0pseHgtMlJ6a0N5TQ?oc=5",
-      "title": "Bristol-Myers Squibb Co (BMY) Shares Down 3.58% on Apr 2 - GuruFocus",
-      "body": "Bristol-Myers Squibb Co (BMY) Shares Down 3.58% on Apr 2 GuruFocus",
+      "url": "https://www.gurufocus.com/news/8781780/cantor-fitzgerald-adjusts-price-target-for-bmy-to-54-maintains-neutral-rating-bmy-stock-news?mobile=true",
+      "title": "Cantor Fitzgerald Adjusts Price Target for BMY to $54, Maintains Neutral Rating | BMY Stock News - GuruFocus",
+      "body": "Cantor Fitzgerald Adjusts Price Target for BMY to $54, Maintains Neutral Rating | BMY Stock News GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "BMY",
@@ -45,59 +43,82 @@
       ],
       "source_quality": "low",
       "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "GuruFocus",
         "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
         "event_origin": "news",
-        "query_tickers": [
-          "BMY"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.7000000000000001,
+        "quality_score": 0.535,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "a088ecd5-2f80-5eb4-b8b9-48f26227a7fb",
+      "timestamp_utc": "2026-04-08T03:30:50+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/cantor-fitzgerald-forecasts-strong-price-appreciation-for-bristol-myers-squibb-nysebmy-stock-2026-04-08/",
+      "title": "Cantor Fitzgerald Forecasts Strong Price Appreciation for Bristol Myers Squibb (NYSE:BMY) Stock - MarketBeat",
+      "body": "Cantor Fitzgerald Forecasts Strong Price Appreciation for Bristol Myers Squibb (NYSE:BMY) Stock MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "BMY",
+      "tickers_hint": [
+        "BMY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4525,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "cb8598d3-7502-5594-ad11-02ada1013351",
-      "timestamp_utc": "2026-04-02T20:41:54+00:00",
-      "source": "investing.com",
-      "url": "https://www.investing.com/news/insider-trading-news/elkins-bristol-myers-squibb-cfo-sells-185-million-in-bmy-stock-93CH-4596441",
-      "title": "Elkins, Bristol Myers Squibb CFO, sells $1.85 million in BMY stock - Investing.com",
-      "body": "Elkins, Bristol Myers Squibb CFO, sells $1.85 million in BMY stock Investing.com",
+      "id": "89911ce0-46de-5209-8811-8deef478d3eb",
+      "timestamp_utc": "2026-04-08T17:53:15+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LcE1TRE5SNkNrLVRxcEFDWlFvTFBVNC1veUF0RUdlUHl0T2p1Q0tIa09oTFJycEs3aXN0dE5pQWVtUVF0Ml85UjNIeDRLanhG?oc=5",
+      "title": "Bristol-Myers Squibb Company (BMY) stock price, news, quote and history - Yahoo Finance Singapore",
+      "body": "Bristol-Myers Squibb Company (BMY) stock price, news, quote and history Yahoo Finance Singapore",
       "author": null,
       "language": "en",
       "ticker": "BMY",
       "tickers_hint": [
         "BMY"
       ],
-      "source_quality": "medium",
-      "publisher_raw": "investing.com",
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Investing.com",
-        "source_domain": "investing.com",
-        "trust_tier": 2,
-        "relevance": 0.55,
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "BMY"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.64,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "135fb07a-13a4-5414-9287-cf2c6f3d4498",
-      "timestamp_utc": "2026-04-02T20:26:15+00:00",
+      "id": "6451d081-6a30-5f4c-9b40-41510cc252d4",
+      "timestamp_utc": "2026-04-08T04:03:45+00:00",
       "source": "gurufocus",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN28xbEZGUjFRc3UwbjFvdVRaWGd0cXRHOGR3WWJ6Mms0TThjWTRhaERpLTdZMG9vaHFjMjc2R0hDUWFHV1h5TU44c3dyR0dSaXRuUUFRaGpSMzVHMThKS2VmV3E5clFybGxJY3hXYjNGTVI5M093aVdJUUd6LWVGZ2hFdFpFQXhtcmV2UEtjRXIyYWVRMnBhR0pseHgtMlJ6a0N5TQ?oc=5",
-      "title": "Bristol-Myers Squibb Co (BMY) Shares Down 3.58% on Apr 2 - GuruFocus",
-      "body": "Bristol-Myers Squibb Co (BMY) Shares Down 3.58% on Apr 2 GuruFocus",
+      "url": "https://www.gurufocus.com/news/8781780/cantor-fitzgerald-adjusts-price-target-for-bmy-to-54-maintains-neutral-rating-bmy-stock-news?mobile=true",
+      "title": "Cantor Fitzgerald Adjusts Price Target for BMY to $54, Maintains Neutral Rating | BMY Stock News - GuruFocus",
+      "body": "Cantor Fitzgerald Adjusts Price Target for BMY to $54, Maintains Neutral Rating | BMY Stock News GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "BMY",
@@ -106,19 +127,44 @@
       ],
       "source_quality": "low",
       "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "GuruFocus",
         "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
         "event_origin": "news",
-        "query_tickers": [
-          "BMY"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.7000000000000001,
+        "quality_score": 0.535,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "a088ecd5-2f80-5eb4-b8b9-48f26227a7fb",
+      "timestamp_utc": "2026-04-08T03:30:50+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/cantor-fitzgerald-forecasts-strong-price-appreciation-for-bristol-myers-squibb-nysebmy-stock-2026-04-08/",
+      "title": "Cantor Fitzgerald Forecasts Strong Price Appreciation for Bristol Myers Squibb (NYSE:BMY) Stock - MarketBeat",
+      "body": "Cantor Fitzgerald Forecasts Strong Price Appreciation for Bristol Myers Squibb (NYSE:BMY) Stock MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "BMY",
+      "tickers_hint": [
+        "BMY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4525,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

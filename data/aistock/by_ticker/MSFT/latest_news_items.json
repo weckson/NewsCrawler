@@ -1,223 +1,286 @@
 [
   {
-    "id": "258564f8-9fc8-58db-94ae-c146c110e78a",
-    "timestamp_utc": "2026-04-01T09:21:46+00:00",
-    "source": "benzinga",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSVNOMlF4aTV1eGFxbDBqbWp6VHMzbURrQlRsT2ZCWVpnc2ZFdUk0eTVaMWY3bnRYRTI3bU05RXZ2T2g0NWJibFpNdjZrM3ZSS2VZb1hld1c1bFBNVUZ3bHVrTV9DVUNaazBhRXN2T2E2S1Y3cGVMQVd3dTJobGZXbXp1ME1OUmFENXU1QWNQbTczQ1VNaWpDUzVHanFBYTJVcDBxNHpQdHNGNnNJTDFMVnJ6NHROcmE5WVNjUklFalI3Z0dlbENPb01xdmlEOWpfUHpWZkNVYnd0SkhlRzhPa3lFOTc?oc=5",
-    "title": "Magnificent Seven Stocks Not So Magnificent In 2026 — Apple Surprises, Microsoft Craters - Amazon.com (NA - Benzinga",
-    "body": "Magnificent Seven Stocks Not So Magnificent In 2026 — Apple Surprises, Microsoft Craters - Amazon.com (NA Benzinga",
+    "id": "41ee133e-7b28-5b92-8fe8-00fc04917945",
+    "timestamp_utc": "2026-04-08T08:21:28+00:00",
+    "source": "barchart",
+    "url": "https://www.barchart.com/story/news/1204728/analysts-see-massive-upside-in-microsoft-time-to-buy-msft-stock",
+    "title": "Analysts See Massive Upside in Microsoft: Time to Buy MSFT Stock? - Barchart",
+    "body": "All information and data in this article is solely for informational purposes. For more information please view the Barchart Disclosure Policy here\n\nWith a loss of over 23% as of April 7 closing prices, Microsoft is the worst-performing Magnificent 7 stock this year. The stock is also underperforming its average S&P 500 Index ($SPX) peer this year, something it also did in the previous two years. Notably, while Microsoft was seen as a defensive play given its relatively stable business compared to other Big Tech companies, it failed to live up to that perception this year and has underperformed amid the war in Iran.\n\nMeanwhile, the markets have been bearish on MSFT stock, but the sell-side analyst community has largely maintained its bullish bias. Most recently, Goldman Sachs reiterated its “Buy” rating on MSFT while reiterating its $600 target price, which is slightly ahead of the stock’s mean target price and represents a potential upside of 61% over the current price levels.\n\nBenchmark analyst Yi Fu Lee also initiated coverage on Microsoft earlier this month with a “Buy” rating and relatively somber target price of $450. The bottom line, however, remains that after the massive crash in MSFT—it is down nearly 33% from its 52-week highs—analysts see significant upside. Incidentally, the only other time MSFT stock dipped by more than 30% from its peak was during the 2022 tech crash. The rest, as we know, is history, and tech stocks, including MSFT, rebounded the next year, with the rally continuing into the next two years.\n\nThat said, every crash is different. 2022 was more of a broader-market meltdown amid fears over a U.S. recession and stretched valuations. While there is a market crash angle this time around, many of the concerns are specific to Microsoft.\n\nMicrosoft's stock has underperformed for several reasons. Firstly, contrary to its previous projection, the company has increased its capex to build artificial intelligence (AI) infrastructure.\n\nAlso, while other major cloud players are witnessing an acceleration in growth, Azure saw a deceleration in the most recent quarter. The segment reported a 39% growth in the fiscal Q2 2026 revenues, which was below the 40% that it reported in the fiscal first quarter and slightly below Street estimates. The guidance for the March quarter implied a further tapering of growth. While the company has argued that it is capacity-constrained in data center infrastructure and has been balancing in-house needs with external customers, that assertion failed to cut ice with markets.\n\nOn a similar note, OpenAI accounts for 45% of Microsoft’s cloud remaining performance obligations (RPOs), which is a major concentration risk for the company, particularly given how the ChatGPT parent’s competitors have been gaining ground, raising concerns over OpenAI’s ability to deliver on its massive commitments.\n\nWhile OpenAI has listed its reliance on Microsoft as a “risk,” dependence on the Sam Altman-led AI startup is a risk for Microsoft, too. If anything, Microsoft is more dependent on OpenAI, as the latter has been able to arrange financing from other players and earlier this year secured $110 billion in funding in a round involving Amazon (AMZN), Nvidia (NVDA), and SoftBank (SFTBY). It's no secret that relations between OpenAI and Microsoft are not the best in the world, and the two companies are also competing on some fronts. For instance, while Microsoft is developing its own frontier AI models, OpenAI launched its AI-powered search browser ChatGPT Atlas, which would compete with Microsoft Bing.\n\nThere are also fears that AI tools can disrupt Microsoft’s enterprise tool business, and over the long term, we might have better open-source rivals to the Office franchise.\n\nMeanwhile, Microsoft’s valuation multiples have contracted, and the stock now trades at a forward price-to-earnings (P/E) multiple of 22.7x, significantly below the average multiples over the last decade as markets have repriced MSFT amid the software sell-off. Also, the company’s free cash flows are taking a beating amid the AI buildout, while it hasn't seen a commensurate rise in growth.\n\nAll said, and as I noted in my previous article, the selloff in MSFT stock has gone a bit too far, and it looks like a compelling buy given the tepid valuations. While there are genuine concerns, and MSFT's valuations might not rise to the kind of levels we saw at the peak anytime soon, at these levels, it seems to offer value for long-term investors.\n\nStocks: 15 20 minute delay (Cboe BZX is real-time), ET. Volume reflects consolidated markets. Futures and Forex: 10 or 15 minute delay, CT. Market Data powered by Barchart Solutions. Fundamental data provided by Zacks and Morningstar.\n\n© 2026 Barchart.com, Inc. All Rights Reserved.",
     "author": null,
     "language": "en",
-    "ticker": "AAPL",
+    "ticker": "MSFT",
     "tickers_hint": [
-      "AAPL",
-      "AMZN",
+      "MSFT"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "barchart.com",
+    "trust_tier": 3,
+    "body_kind": "article_text",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Barchart",
+      "source_domain": "barchart.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.6725,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "f9ebc16f-aaf4-5631-9dbf-b92334a755fc",
+    "timestamp_utc": "2026-04-08T05:00:09+00:00",
+    "source": "tipranks",
+    "url": "https://www.tipranks.com/news/time-to-pull-the-trigger-says-analyst-as-microsoft-stock-msft-eyes-a-rebound",
+    "title": "‘Time to Pull the Trigger,’ Says Analyst as Microsoft Stock (MSFT) Eyes a Rebound - TipRanks",
+    "body": "‘Time to Pull the Trigger,’ Says Analyst as Microsoft Stock (MSFT) Eyes a Rebound TipRanks",
+    "author": null,
+    "language": "en",
+    "ticker": "MSFT",
+    "tickers_hint": [
+      "MSFT"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "tipranks.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.6725,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "004c3a9f-329a-59dc-af0d-e3b48bcea5ce",
+    "timestamp_utc": "2026-04-08T07:33:10+00:00",
+    "source": "benzinga",
+    "url": "https://www.benzinga.com/markets/tech/26/04/51713873/microsoft-salesforce-servicenow-sell-off-is-overdone-dan-ives",
+    "title": "Dan Ives Says Microsoft, Salesforce Sell-Off Overdone - Salesforce (NYSE:CRM), Microsoft (NASDAQ:MSFT), S - Benzinga",
+    "body": "Dan Ives Says Microsoft, Salesforce Sell-Off Overdone - Salesforce (NYSE:CRM), Microsoft (NASDAQ:MSFT), S Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "MSFT",
+    "tickers_hint": [
       "MSFT"
     ],
     "source_quality": "high",
     "publisher_raw": "benzinga.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_benzinga",
       "source_name": "Benzinga",
       "source_domain": "benzinga.com",
-      "trust_tier": 3,
+      "event_origin": "news",
+      "relevance": 0.6000000000000001,
+      "quality_score": 0.67,
+      "_channel": "google_benzinga",
+      "_alt_sources": [
+        "Benzinga"
+      ]
+    }
+  },
+  {
+    "id": "ad1c9133-d73d-5be6-b35c-0b63a2d077ed",
+    "timestamp_utc": "2026-04-08T06:46:19+00:00",
+    "source": "tipranks",
+    "url": "https://www.tipranks.com/news/microsoft-msft-stock-jumps-alongside-fresh-forza-horizon-6-details-ahead-of-the-games-release",
+    "title": "Microsoft (MSFT) Stock Jumps Alongside Fresh Forza Horizon 6 Details Ahead of the Game’s Release - TipRanks",
+    "body": "Microsoft (MSFT) Stock Jumps Alongside Fresh Forza Horizon 6 Details Ahead of the Game’s Release TipRanks",
+    "author": null,
+    "language": "en",
+    "ticker": "MSFT",
+    "tickers_hint": [
+      "MSFT"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "tipranks.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
+      "event_origin": "news",
+      "relevance": 0.6000000000000001,
+      "quality_score": 0.66,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "ea144699-7981-5608-a158-5dfbcb4badc9",
+    "timestamp_utc": "2026-04-08T05:28:18+00:00",
+    "source": "tipranks",
+    "url": "https://www.tipranks.com/news/microsoft-stock-msft-pops-on-ai-marketing-tie-up-with-french-ad-giant",
+    "title": "Microsoft Stock (MSFT) Pops on AI Marketing Tie-Up with French Ad Giant - TipRanks",
+    "body": "Microsoft Stock (MSFT) Pops on AI Marketing Tie-Up with French Ad Giant TipRanks",
+    "author": null,
+    "language": "en",
+    "ticker": "MSFT",
+    "tickers_hint": [
+      "MSFT"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "tipranks.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.6575,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "83628262-f046-5bae-91c3-788de7db614e",
+    "timestamp_utc": "2026-04-08T10:36:28+00:00",
+    "source": "tipranks",
+    "url": "https://www.tipranks.com/news/microsoft-msft-loses-another-senior-executive-as-problems-mount-at-the-technology-giant",
+    "title": "Microsoft (MSFT) Loses Another Senior Executive as Problems Mount at the Technology Giant - TipRanks",
+    "body": "Microsoft (MSFT) Loses Another Senior Executive as Problems Mount at the Technology Giant TipRanks",
+    "author": null,
+    "language": "en",
+    "ticker": "MSFT",
+    "tickers_hint": [
+      "MSFT"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "tipranks.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
+      "event_origin": "news",
+      "relevance": 0.6000000000000001,
+      "quality_score": 0.645,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "f4d18377-800f-5bde-b91a-ee1bcb35fe95",
+    "timestamp_utc": "2026-04-08T08:14:37+00:00",
+    "source": "tipranks",
+    "url": "https://www.tipranks.com/news/microsoft-stock-nasdaqmsft-gains-in-the-face-of-a-new-attack",
+    "title": "Microsoft Stock (NASDAQ:MSFT) Gains in the Face of a New Attack - TipRanks",
+    "body": "Microsoft Stock (NASDAQ:MSFT) Gains in the Face of a New Attack TipRanks",
+    "author": null,
+    "language": "en",
+    "ticker": "MSFT",
+    "tickers_hint": [
+      "MSFT"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "tipranks.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
+      "event_origin": "news",
+      "relevance": 0.6000000000000001,
+      "quality_score": 0.645,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "7906ecfd-7fe8-5fc3-a38d-ba719c628493",
+    "timestamp_utc": "2026-04-08T22:35:00+00:00",
+    "source": "motley_fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNUxUV3Ewbng4RFl2a2VRYWFBOGhIS2JxUEpYaldHSEVSQm1lRFVJcEtiWFRqSGFlTjNuLUxuRGNkMklNdjJjc2QtZGg5UWdXelJUS3kwT0t4TDVVZjJSN0VzT2drRGs1T2d4c1FsQThxcHhtY2w0bEQweTJZWlVBVkVQamJlSkhIeGV3cUs3NmRNRVQyVExlWQ?oc=5",
+    "title": "Prediction: This Will Be Microsoft's Stock Price Next Year - The Motley Fool",
+    "body": "Prediction: This Will Be Microsoft's Stock Price Next Year The Motley Fool",
+    "author": null,
+    "language": "en",
+    "ticker": "MSFT",
+    "tickers_hint": [
+      "MSFT"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "fool.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "The Motley Fool",
+      "source_domain": "fool.com",
+      "event_origin": "news",
       "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "AAPL",
-        "AMZN",
-        "MSFT"
-      ],
-      "alt_sources": [
-        "Benzinga"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.64,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "daf16bcd-15a3-5c88-8313-9c2163ba6636",
-    "timestamp_utc": "2026-03-31T06:10:01+00:00",
-    "source": "yahoo_finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-beat-estimates-again-161001064.html",
-    "title": "Will Microsoft (MSFT) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
-    "body": "Will Microsoft (MSFT) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance",
-    "author": null,
-    "language": "en",
-    "ticker": "A",
-    "tickers_hint": [
-      "A",
-      "MSFT"
-    ],
-    "source_quality": "high",
-    "publisher_raw": "finance.yahoo.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance",
-      "source_domain": "finance.yahoo.com",
-      "trust_tier": 3,
-      "relevance": 0.7000000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "A",
-        "MSFT"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "e809473b-c0b8-5502-9918-9e23788563f5",
-    "timestamp_utc": "2026-04-01T05:00:03+00:00",
-    "source": "tipranks",
-    "url": "https://www.tipranks.com/news/sentiment-has-shifted-on-copilot-analysts-support-microsoft-stock-msft-amid-ai-slump",
-    "title": "“Sentiment Has Shifted on Copilot”: Analysts Support Microsoft Stock (MSFT) amid AI Slump - TipRanks",
-    "body": "“Sentiment Has Shifted on Copilot”: Analysts Support Microsoft Stock (MSFT) amid AI Slump TipRanks",
-    "author": null,
-    "language": "en",
-    "ticker": "MSFT",
-    "tickers_hint": [
-      "MSFT"
-    ],
-    "source_quality": "high",
-    "publisher_raw": "tipranks.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "TipRanks",
-      "source_domain": "tipranks.com",
-      "trust_tier": 3,
-      "relevance": 0.7000000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "MSFT"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "8ed050e4-3a54-565f-a8a6-83ba4c0ff145",
-    "timestamp_utc": "2026-03-31T13:56:47+00:00",
-    "source": "tipranks",
-    "url": "https://www.tipranks.com/news/do-analysts-expect-microsoft-stock-msft-to-recover-from-ongoing-slump",
-    "title": "Do Analysts Expect Microsoft Stock (MSFT) to Recover from Ongoing Slump? - TipRanks",
-    "body": "Do Analysts Expect Microsoft Stock (MSFT) to Recover from Ongoing Slump? TipRanks",
-    "author": null,
-    "language": "en",
-    "ticker": "MSFT",
-    "tickers_hint": [
-      "MSFT"
-    ],
-    "source_quality": "high",
-    "publisher_raw": "tipranks.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "TipRanks",
-      "source_domain": "tipranks.com",
-      "trust_tier": 3,
-      "relevance": 0.6500000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "MSFT"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "6356f9ea-efbc-5cbb-9c13-3272f579f985",
-    "timestamp_utc": "2026-03-31T11:06:21+00:00",
-    "source": "tipranks",
-    "url": "https://www.tipranks.com/news/microsoft-stock-msft-suffers-worst-quarter-since-the-2008-financial-crisis",
-    "title": "Microsoft Stock (MSFT) Suffers Worst Quarter Since the 2008 Financial Crisis - TipRanks",
-    "body": "Microsoft Stock (MSFT) Suffers Worst Quarter Since the 2008 Financial Crisis TipRanks",
-    "author": null,
-    "language": "en",
-    "ticker": "MSFT",
-    "tickers_hint": [
-      "MSFT"
-    ],
-    "source_quality": "high",
-    "publisher_raw": "tipranks.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "TipRanks",
-      "source_domain": "tipranks.com",
-      "trust_tier": 3,
-      "relevance": 0.6500000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "MSFT"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "282ef896-635f-5526-b8f9-ba574c0ac8a5",
-    "timestamp_utc": "2026-03-31T07:35:19+00:00",
-    "source": "tipranks",
-    "url": "https://www.tipranks.com/news/is-the-microsoft-stock-nasdaqmsft-slide-indicative-of-an-ai-problem",
-    "title": "Is the Microsoft Stock (NASDAQ:MSFT) Slide Indicative of an AI Problem? - TipRanks",
-    "body": "Is the Microsoft Stock (NASDAQ:MSFT) Slide Indicative of an AI Problem? TipRanks",
-    "author": null,
-    "language": "en",
-    "ticker": "MSFT",
-    "tickers_hint": [
-      "MSFT"
-    ],
-    "source_quality": "high",
-    "publisher_raw": "tipranks.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "TipRanks",
-      "source_domain": "tipranks.com",
-      "trust_tier": 3,
-      "relevance": 0.6500000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "MSFT"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "26676d52-ef46-551d-ba9d-62f2eeed6743",
-    "timestamp_utc": "2026-04-01T07:35:59+00:00",
-    "source": "tipranks",
-    "url": "https://www.tipranks.com/news/microsoft-stock-nasdaqmsft-gains-as-org-chart-shuffles-draw-attention",
-    "title": "Microsoft Stock (NASDAQ:MSFT) Gains as Org Chart Shuffles Draw Attention - TipRanks",
-    "body": "Microsoft Stock (NASDAQ:MSFT) Gains as Org Chart Shuffles Draw Attention TipRanks",
-    "author": null,
-    "language": "en",
-    "ticker": "MSFT",
-    "tickers_hint": [
-      "MSFT"
-    ],
-    "source_quality": "high",
-    "publisher_raw": "tipranks.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "TipRanks",
-      "source_domain": "tipranks.com",
-      "trust_tier": 3,
-      "relevance": 0.6000000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "MSFT"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "6fe1bb1c-38ac-5a15-9368-e664d8834c8f",
-    "timestamp_utc": "2026-04-01T06:44:53+00:00",
+    "id": "4af2bd21-3b57-5098-9394-45c4195abb1b",
+    "timestamp_utc": "2026-04-08T04:20:03+00:00",
     "source": "benzinga",
-    "url": "https://www.benzinga.com/trading-ideas/movers/26/04/51606155/whats-going-on-with-microsoft-stock-4",
-    "title": "What's Going On With Microsoft Stock? - Microsoft (NASDAQ:MSFT) - Benzinga",
-    "body": "What's Going On With Microsoft Stock? - Microsoft (NASDAQ:MSFT) Benzinga",
+    "url": "https://www.benzinga.com/markets/tech/26/04/51706010/while-amazon-microsoft-google-struggle-with-ai-on-land-china-looks-to-the-sea",
+    "title": "Amazon, Microsoft, Google AI Footprint Faces Pressure - Amazon.com (NASDAQ:AMZN), Alphabet (NASDAQ:GOOG) - Benzinga",
+    "body": "Amazon, Microsoft, Google AI Footprint Faces Pressure - Amazon.com (NASDAQ:AMZN), Alphabet (NASDAQ:GOOG) Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "AMZN",
+    "tickers_hint": [
+      "AMZN",
+      "GOOGL",
+      "MSFT"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.64,
+      "_channel": "google_benzinga"
+    }
+  },
+  {
+    "id": "70e36d66-510d-5a79-961b-152f067447ca",
+    "timestamp_utc": "2026-04-07T18:43:59+00:00",
+    "source": "tipranks",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQmFTb0t4dVVuUzVTanE0a1REUF9DUDV0T3dJblNiTEFvMThhTEc2OWNBMThpUlN4NUlVVVN5TXk2VDMtNGdwR21tbmM0VlpmdXJBVEswR0Q4QnZRRmg4dEU2V3RpTzcwYS1mY3VyR211V3pab0xPQlZKRFJMd2ZIQWFnbUV0Q3dSanRWLUl6ZHB0a05EMzJYV0RkaWViUm56UUE?oc=5",
+    "title": "Microsoft (MSFT) Stock Looks Mispriced as Software despite AI Leadership - TipRanks",
+    "body": "Microsoft (MSFT) Stock Looks Mispriced as Software despite AI Leadership TipRanks",
+    "author": null,
+    "language": "en",
+    "ticker": "MSFT",
+    "tickers_hint": [
+      "MSFT"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "tipranks.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.6375,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "5b9fe19c-0893-5672-9027-6e14bf4e189e",
+    "timestamp_utc": "2026-04-08T05:00:46+00:00",
+    "source": "benzinga",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMUtDb1A3ZmJ1YWJfU1FrMTNPU2NyUHFDdkRHU0tRUC1uT25sYTdyWEZEeE5IYkw2Yk5wS2gwRGw1eVhSQXpKUTY5S3E5T1Zad1YzT3g0US1NQ1hvWXlpNVJIVGs1bjIxdXhzcHlTd2ZLU1NEaVd1OGtxeDlRdjZkcklNcUlzUHo2WU43M21pODdiUlNBcUVMeEZUVV9jZjItcjdydHVKZw?oc=5",
+    "title": "What's Going On With Microsoft Stock Today? - Benzinga",
+    "body": "What's Going On With Microsoft Stock Today? Benzinga",
     "author": null,
     "language": "en",
     "ticker": "MSFT",
@@ -226,30 +289,28 @@
     ],
     "source_quality": "high",
     "publisher_raw": "benzinga.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_benzinga",
       "source_name": "Benzinga",
       "source_domain": "benzinga.com",
-      "trust_tier": 3,
-      "relevance": 0.6000000000000001,
       "event_origin": "news",
-      "query_tickers": [
-        "MSFT"
-      ],
-      "alt_sources": [
+      "relevance": 0.5,
+      "quality_score": 0.621,
+      "_channel": "google_benzinga",
+      "_alt_sources": [
         "Benzinga"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      ]
+    }
   },
   {
-    "id": "73d406c5-a3ae-55b5-af82-7e95517d6304",
-    "timestamp_utc": "2026-03-31T17:01:00+00:00",
-    "source": "yahoo_finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/why-microsoft-msft-stock-trading-030119964.html",
-    "title": "Why Microsoft (MSFT) Stock Is Trading Up Today - Yahoo Finance",
-    "body": "Why Microsoft (MSFT) Stock Is Trading Up Today Yahoo Finance",
+    "id": "7405ba1c-435d-538a-9ddc-ba46e68576e7",
+    "timestamp_utc": "2026-04-08T00:14:00+00:00",
+    "source": "motley_fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMTVLYll3YVp2WnlMSFlIRkYtUklWZEtyQ2FjbjB5eVBqVzR0Skh0YVg4MFVSUXlMSmR5MVFDRFdHZURBdUk0ZkxseExyODUzQmZKaFh1bUtIUENqZTJnSjhkNWNzd081T3J5dC04akdUZ0Y4MlhicTZnOUxQVU1IVmxjZVFIWWpRb2Jwbjc3cTByTFVCVG5Vag?oc=5",
+    "title": "Microsoft Pulled Back. Buying Opportunity or Warning Sign? - The Motley Fool",
+    "body": "Microsoft Pulled Back. Buying Opportunity or Warning Sign? The Motley Fool",
     "author": null,
     "language": "en",
     "ticker": "MSFT",
@@ -257,86 +318,26 @@
       "MSFT"
     ],
     "source_quality": "high",
-    "publisher_raw": "finance.yahoo.com",
+    "publisher_raw": "fool.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance",
-      "source_domain": "finance.yahoo.com",
-      "trust_tier": 3,
-      "relevance": 0.6000000000000001,
+      "source_name": "The Motley Fool",
+      "source_domain": "fool.com",
       "event_origin": "news",
-      "query_tickers": [
-        "MSFT"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.6,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "d58a43bc-d64f-514c-9965-9a02f9756043",
-    "timestamp_utc": "2026-03-31T13:36:46+00:00",
-    "source": "tipranks",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVmU0WEg2UTdxdlV2S25GVkY0QXZYakNtVEFPclpkczBhNlA4ZmtPNVU5SGV4SUI4Mk5OY2VpbWF0ekh0SUZJRVhWVURTNmt1LVFjTXQ5V2EyZXlrWERjdVNkbER0X0UyTFlQb3loNVRjTjVScktKMkhnSTFEZ0ZXdkRTcFd2c0pibmxqOFlHRzVpQmFPR2RzcnVmdHVqczUyM0VjZXJNY3dxc1pNekE?oc=5",
-    "title": "Opportunity Knocking or Trouble Ahead? Top Investor Weighs In on Microsoft Stock (MSFT) - TipRanks",
-    "body": "Opportunity Knocking or Trouble Ahead? Top Investor Weighs In on Microsoft Stock (MSFT) TipRanks",
-    "author": null,
-    "language": "en",
-    "ticker": "MSFT",
-    "tickers_hint": [
-      "MSFT"
-    ],
-    "source_quality": "high",
-    "publisher_raw": "tipranks.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "TipRanks",
-      "source_domain": "tipranks.com",
-      "trust_tier": 3,
-      "relevance": 0.6000000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "MSFT"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "f14c2440-c5b0-51b7-a667-6f7162e4ede2",
-    "timestamp_utc": "2026-03-31T10:19:29+00:00",
-    "source": "cnbc",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON3UyMmIxRnFJcG1rOXFKVWJZZmZ3bm5NajFpdGJFcnA4Yjh2cFpqS2wxQmFYXzhsSF9ocXVYaUxzR0VZbW1sRzVZWUJpVk9wbktXanZaa0otbW05dzVCLVdQenRsUWFpaXZKX2o3cEtqQjJnVVdDdDNtRnRoLVZ5WDdCeTBIbmF3RWQ1U2YwdDJvRkRmdXJDbHJHREo5MjRpS1pETdIBqgFBVV95cUxQQm9QNzZyN0JOTkFjM2NKcEZjUmVxc0FzMnd1ZG1hMEt0cEJJQXFyeGZhU2NMUlhJRkozUFZKV2UtUjVldDJpeng0N1BxTWhYbmlrbXhNVmVMamVyZ1JyUWtCYzdjeDR4bFQ1SnBXWkFoMldjM0F3WVFoYXRDUExhNDdLbUZnTTRJWmFlTEtJRzR2bm1xSFhsQkRPeUN6Q1hEOTl5QmRWeDc1QQ?oc=5",
-    "title": "Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle' - CNBC",
-    "body": "Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle' CNBC",
-    "author": null,
-    "language": "en",
-    "ticker": "MSFT",
-    "tickers_hint": [
-      "MSFT"
-    ],
-    "source_quality": "high",
-    "publisher_raw": "cnbc.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "CNBC",
-      "source_domain": "cnbc.com",
-      "trust_tier": 3,
-      "relevance": 0.6,
-      "event_origin": "news",
-      "query_tickers": [
-        "MSFT"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "15c15d83-c2b8-51c7-be26-644ee8d17ebe",
-    "timestamp_utc": "2026-04-01T11:28:50+00:00",
-    "source": "insider_monkey",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNejRjX2ZzaU1Gd05nOWh0YmtwaE5jZThMbFd1aVhHMnc3cWM1RndFZlRDVWMzUldMdUU1MTU1T0tRNmRnLTkxU1hyc0ZmbzVXRG1JYlZzb3pXYnJKUjhvcnRrelptcW40WUxFOHhoUTdKam1jMWVpejJDeHozMEZlZG5VQzZhUVNfWW5rVnozU0ZHRDQ4UmpwazdB0gGiAUFVX3lxTE9ZSGtLZkFpVXhUakxpSmw2ZjhXZ0J1cmlHaS1tQlltWE8tWnU2WkJsWkJUV19FSmVUME9BRzcyUkhiaGJDVmIzZjZYbm9fSGNsdmpEc05QSWxBbHY3NzRFeERLQlM1M1lHclBkTkdNMElOd2NkRXBBRE96bkZicWtpaTJKYkVIb2Nwbm1EWlJaRElpM2J6bWIzYTdHb1hJTTl5UQ?oc=5",
-    "title": "Microsoft Corporation (MSFT): D. E. Shaw Trims Position - Insider Monkey",
-    "body": "Microsoft Corporation (MSFT): D. E. Shaw Trims Position Insider Monkey",
+    "id": "030aaa93-4947-562b-9994-72fdeee906e3",
+    "timestamp_utc": "2026-04-08T01:45:35+00:00",
+    "source": "247_wall_st",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPenZzVjhXbTNxU1pXMFNXXzNjUUhwM1ZSYVczcUt5ekRVb05yMDdweHhzQk9xZ2pkdlNhRUdnZXNpejVEYUlCNWcwc0ZDRjAwcFo1eGNKUVRld25OTG41MllSSHdXTXpGQmkzSmYxWTVHeElGT01PMUxUNVJfTmhFMXp3ZEw0X3h3WnJuVUZzaWdIUHp3LWJoSm0tODNDYjA5UTNURA?oc=5",
+    "title": "Wall Street Sees 58% Upside in Microsoft (MSFT) After Selloff - 24/7 Wall St.",
+    "body": "Wall Street Sees 58% Upside in Microsoft (MSFT) After Selloff 24/7 Wall St.",
     "author": null,
     "language": "en",
     "ticker": "MSFT",
@@ -344,28 +345,26 @@
       "MSFT"
     ],
     "source_quality": "medium",
-    "publisher_raw": "insidermonkey.com",
+    "publisher_raw": "247wallst.com",
+    "trust_tier": 2,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Insider Monkey",
-      "source_domain": "insidermonkey.com",
-      "trust_tier": 2,
+      "source_name": "24/7 Wall St.",
+      "source_domain": "247wallst.com",
+      "event_origin": "news",
       "relevance": 0.6000000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "MSFT"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.585,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "b9012a73-2718-5a08-8854-2265971b422a",
-    "timestamp_utc": "2026-04-01T13:03:00+00:00",
-    "source": "thestreet.com",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbm1OMkUwTUxTNEpzODlxT1NBZTc2bGVESEMzbnpSMjJxaUl5MUJlaGszaTZ1YnFOb1h3cldtSXlKZmdqRHA4MTczcmFFRzV2VS1QWWFmZTI1b0d3WWdqUXM0YmJvdExBaVM5NmdVME5ZM2RtbGxFNWtKZ01fTnRDWUhqUkZCTFZOWkF1MVpTT1FrQ2ZwUnFOOE1jM0pqZV81cC14Q2ViVDRrSzEz?oc=5",
-    "title": "Microsoft: Morningstar is bullish on 2 AI dividend stocks | MSFT - thestreet.com",
-    "body": "Microsoft: Morningstar is bullish on 2 AI dividend stocks | MSFT thestreet.com",
+    "id": "2e6667dc-5c55-554c-8258-6a4849692822",
+    "timestamp_utc": "2026-04-08T23:33:16+00:00",
+    "source": "marketbeat",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbDh5VUsxcVV4cVJmaUpINk40Y3NoMXh6VzBQQUJmUG9SVGR2WHVkWGpiV2stZWNyenBFTzhUTEVJNWMyYnQwbGdJZWJRc0s0a3d5Z3R4elAwQkJsU3hfR3NLcE95YVhxbWNwXzdLR2pWa1lsdjBmLWZOTklNQmw0VEx2dG1kZGpTSDY3ck9acEZNa3B4MUpBVnJ0TVhIUm1VVGtvMHlpRkRpZGRLQ1lXNEd4SlZzNkdBOEN0MVplZnc5SjV4VE5ranRzQXJmY2RISUdETXNZRDNzZw?oc=5",
+    "title": "Microsoft Corporation $MSFT Stock Holdings Decreased by J. Safra Sarasin Holding AG - MarketBeat",
+    "body": "Microsoft Corporation $MSFT Stock Holdings Decreased by J. Safra Sarasin Holding AG MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "MSFT",
@@ -373,89 +372,26 @@
       "MSFT"
     ],
     "source_quality": "low",
-    "publisher_raw": "thestreet.com",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "thestreet.com",
-      "source_domain": "thestreetcom.com",
-      "trust_tier": 1,
-      "relevance": 0.7000000000000001,
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
       "event_origin": "news",
-      "query_tickers": [
-        "MSFT"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "47b24176-8e0e-5b84-bc27-4c293c2638fa",
-    "timestamp_utc": "2026-04-01T07:32:05+00:00",
-    "source": "seekingalpha.com",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYWdiZ0NRSENfSFNkRTdrXzhhT0w3eVVqT1hQaGZkd3lISmxUOFBlUTVrTTN5Nm4zbGVKX29zRlFzVVFxcmNTYjdGQU9WeVFHci1DRFhvWXJ2T1NONUdKT1FlRkVrVm9lRGE0UkJCT3QzOFh2SHRUM1FvYjNlMWJPeGNlUVhLWEJmS1E?oc=5",
-    "title": "Microsoft: A Gift At 22x P/E (Rating Upgrade) (NASDAQ:MSFT) - seekingalpha.com",
-    "body": "Microsoft: A Gift At 22x P/E (Rating Upgrade) (NASDAQ:MSFT) seekingalpha.com",
-    "author": null,
-    "language": "en",
-    "ticker": "MSFT",
-    "tickers_hint": [
-      "MSFT"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "seekingalpha.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "seekingalpha.com",
-      "source_domain": "seekingalphacom.com",
-      "trust_tier": 1,
-      "relevance": 0.7000000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "MSFT"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "88756d44-bea1-5c5a-9e72-64fed92addf2",
-    "timestamp_utc": "2026-03-31T11:02:00+00:00",
-    "source": "aastocks.com",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSERSSG5zd0Z4Rl9xODdPUnB5UkNMVksxTVhhYXVmUFJkM2RuVWw5M0VUNHJuZHVXTEE0cFJpd3h0NGRJbGM5dGdibUFmWW5JWmJxWmwtRDd5OTFwRXZwUVNLaF9PNWd6NWh0S1dtZnhYNkNfSjk5eUJNMXB0TzdFWTg5YWFrdE9YUGYw?oc=5",
-    "title": "Microsoft (MSFT.US) Stock Down 23% in 1QYY, Worst Quarterly Performance Since 2008 - AASTOCKS.com",
-    "body": "Microsoft (MSFT.US) Stock Down 23% in 1QYY, Worst Quarterly Performance Since 2008 AASTOCKS.com",
-    "author": null,
-    "language": "en",
-    "ticker": "MSFT",
-    "tickers_hint": [
-      "MSFT"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "aastocks.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "AASTOCKS.com",
-      "source_domain": "aastockscom.com",
-      "trust_tier": 1,
       "relevance": 0.6500000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "MSFT"
-      ],
-      "alt_sources": [
-        "AASTOCKS.com"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.4675,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "0697f772-17d1-5973-ad57-55245e715827",
-    "timestamp_utc": "2026-04-01T09:59:59+00:00",
-    "source": "indmoney",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tbVVoWlBucF9JUXZwWjIwZzVGT2xpVGJtSERXTmQ1X3hJamZQTnkxeUxfeTNKN1pUMkJDaFVZdi0yUVBNNjh0NGVhamJSVER0RmtPQmREbENSWEJMZkZBUHZCT0FrcDNob0ZadS1haXdmcEkyc3JBWFNCSWJlUQ?oc=5",
-    "title": "Microsoft (MSFT) Live Share Price, Invest From India - INDmoney",
-    "body": "Microsoft (MSFT) Live Share Price, Invest From India INDmoney",
+    "id": "5413b261-5699-51fb-a985-fe8d75962d15",
+    "timestamp_utc": "2026-04-08T23:23:09+00:00",
+    "source": "marketbeat",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQzhIYmlIWWxMNGFSN1Z2TUpUQnYwTFBXcnJabEk1UmxIVHM0UVI3dFVvVHV6Y2NHYkMzZHVyQllEekdQbnFQeHBDU2p3NmFOeWxEX18yLVczVmFoMnhSMTNjUllUWVBUN1lCZTVzS2U5cUNGc3hMMTBEaHZGRmZhREsweUJhWjBiWF94SVlHbzc5OU8tWFhOZ0pJcG9uT1psWlJxbWtYZGdHYWh0dHlZSW5MY2NrOWxzRUlPR1BxeHFzLVhFME5V?oc=5",
+    "title": "Rep. Richard McCormick Purchases Shares of Microsoft Corporation (NASDAQ:MSFT) - MarketBeat",
+    "body": "Rep. Richard McCormick Purchases Shares of Microsoft Corporation (NASDAQ:MSFT) MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "MSFT",
@@ -463,106 +399,44 @@
       "MSFT"
     ],
     "source_quality": "low",
-    "publisher_raw": "indmoney",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "INDmoney",
-      "source_domain": "indmoney.com",
-      "trust_tier": 1,
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.4675,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "a6b88984-505f-5f43-833d-a4e1494f8a63",
+    "timestamp_utc": "2026-04-08T07:35:00+00:00",
+    "source": "kalkine_media",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd3kwdjFpUXNPa0RCa3dFV2NGZ25EQXFIZlZaeUNfdWxqRmJaa3N4WHoydVdiNmd0bHRnZFhNOEFJMnNOT2NWUF9RNEJaWFNtclF3STBuNnQwRlZZV2NOcXVrOGJLTk9jU2F2Mno3Y0pCSDhQRDBpREZuRVZlMWI0bE1LQ0MtZzBzUVgySDBfM25sOHdCZVpyQVRJQ3JtZlVfc1NobnBEeGhWMHR2NTZ2WDVCZ1VaODV2TmFMQUFR?oc=5",
+    "title": "Microsoft (NASDAQ:MSFT) Market Reacts To Israel-Related Cybersecurity Activity - Kalkine Media",
+    "body": "Microsoft (NASDAQ:MSFT) Market Reacts To Israel-Related Cybersecurity Activity Kalkine Media",
+    "author": null,
+    "language": "en",
+    "ticker": "MSFT",
+    "tickers_hint": [
+      "MSFT"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "kalkine media",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Kalkine Media",
+      "source_domain": "kalkinemedia.com",
+      "event_origin": "news",
       "relevance": 0.6000000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "MSFT"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "d12ffa42-173d-550e-8c9e-ea9ebc2a4fe3",
-    "timestamp_utc": "2026-04-01T04:10:12+00:00",
-    "source": "traders_union",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWk94Y2ZfZmZvRVhfM044YnNJSTc1LWFNV2NTcDdPUWg1MTk1bjROQnBlOTJmR1hGVmFxWVhkUHZENG5ncnRjaVhDaWtIZ1NuQk9KNnVNdVV6enhFSkhOMmxKUVBJM196czZlTjF1OVl2eWNLSl9xdWEzM09UZ3JEdjhiTGlEOURBX1NqbmdIcEJNRm9KZ0lpcGJWeXNYOWhoTGc?oc=5",
-    "title": "Microsoft stock price forecast: UK regulator scrutiny in focus as MSFT edges lower - Traders Union",
-    "body": "Microsoft stock price forecast: UK regulator scrutiny in focus as MSFT edges lower Traders Union",
-    "author": null,
-    "language": "en",
-    "ticker": "MSFT",
-    "tickers_hint": [
-      "MSFT"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "traders union",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Traders Union",
-      "source_domain": "tradersunion.com",
-      "trust_tier": 1,
-      "relevance": 0.6000000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "MSFT"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "260957ef-0171-506a-b32c-5cfe98ca2932",
-    "timestamp_utc": "2026-03-31T22:23:05+00:00",
-    "source": "coincentral",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMHY5ZkxxeHJvREZnQUNyZjJjVGlHc3NCVVdxckFCTTU1dDY4d3RycTVSbDFJMkhSenduaUFEcjhYRktFTEhoVjFRMU9ZajBGNkNydWZWZUpyZW1TZm55ak9TLWRwLWlJWG9lLXkyWjBac2VBZlREQURmTXZDc21vMjVpMDQ4dm9Rc1paOWNOUTNsMVhOazhfMXM2ZndReDFW?oc=5",
-    "title": "Microsoft (MSFT) Stock; Gains Slightly on $7B Chevron-Backed West Texas Data Plan - CoinCentral",
-    "body": "Microsoft (MSFT) Stock; Gains Slightly on $7B Chevron-Backed West Texas Data Plan CoinCentral",
-    "author": null,
-    "language": "en",
-    "ticker": "MSFT",
-    "tickers_hint": [
-      "MSFT"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "coincentral",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "CoinCentral",
-      "source_domain": "coincentral.com",
-      "trust_tier": 1,
-      "relevance": 0.6000000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "MSFT"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "f710bccf-b6c2-5114-95f6-8bc86b5bc2bf",
-    "timestamp_utc": "2026-04-01T01:19:57+00:00",
-    "source": "stocktwits",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTmh0V3cycGVJeTQ5emlRaGZ4bl9xd3BVZXFEbWRGczBERUhEWk5DV3Q5Q0h0dDU5cm9RU25sdkI3aDlwcmszb0kwN1RjM3NrV1hLMzd1VDRkZlItYmJITGpGVzVmNjBXaU12T2phUUVVZjY0R1czX1BoQVNsMUZNNG9yWWdSZ0RBU2phTnhXVFIwbExULTZ6ZFNiV05OX05mVVh1eXBndHNSZ3FPYTE1N3d0bkhmTUh1OXc5U0dMeTNWSkt1LXV2YjJnTG82QlBKOHF0VmY4UERZcUlpZjZvRXRVaWNqSzg0NU5GNQ?oc=5",
-    "title": "MSFT Stock Struggles As Weakest Of Magnificent Seven In Q1 – And Now It Is Spending $5.5B More On AI - Stocktwits",
-    "body": "MSFT Stock Struggles As Weakest Of Magnificent Seven In Q1 – And Now It Is Spending $5.5B More On AI Stocktwits",
-    "author": null,
-    "language": "en",
-    "ticker": "MSFT",
-    "tickers_hint": [
-      "MSFT"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "stocktwits",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Stocktwits",
-      "source_domain": "stocktwits.com",
-      "trust_tier": 1,
-      "relevance": 0.6,
-      "event_origin": "news",
-      "query_tickers": [
-        "MSFT"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.435,
+      "_channel": "google_broad"
+    }
   }
 ]

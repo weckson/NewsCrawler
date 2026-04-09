@@ -1,11 +1,11 @@
 [
   {
-    "id": "e91608d1-d00c-50b4-826e-910e2f291bb6",
-    "timestamp_utc": "2026-04-04T03:29:44+00:00",
-    "source": "yahoo_finance_singapore",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuTlNaZlJUdWtZeC0yNEhndW43YUtnek1SZm54X0VPTW9BUFcwOXdvLWZhanlTSWlNNEphdXczaGEzcTNIcHh6M2ZnYkdIZXUyT1RRb21Ea09KM2d5czU1WEdqbHQ?oc=5",
-    "title": "CAH Apr 2026 225.000 put (CAH260417P00225000) stock price, news, quote and history - Yahoo Finance Singapore",
-    "body": "CAH Apr 2026 225.000 put (CAH260417P00225000) stock price, news, quote and history Yahoo Finance Singapore",
+    "id": "87c9840a-d8b0-5f0e-93ac-04e101419d07",
+    "timestamp_utc": "2026-04-08T07:12:54+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8782099/evercore-isi-group-maintains-rating-lowers-price-target-for-cah-cah-stock-news?mobile=true",
+    "title": "Evercore ISI Group Maintains Rating, Lowers Price Target for CAH - GuruFocus",
+    "body": "Evercore ISI Group Maintains Rating, Lowers Price Target for CAH GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "CAH",
@@ -13,19 +13,44 @@
       "CAH"
     ],
     "source_quality": "low",
-    "publisher_raw": "yahoo finance singapore",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance Singapore",
-      "source_domain": "yahoofinancesingapore.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
       "event_origin": "news",
-      "query_tickers": [
-        "CAH"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6,
+      "quality_score": 0.465,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "efe2b8b3-1b1f-5f4c-8eee-cde547fe0749",
+    "timestamp_utc": "2026-04-07T14:42:31+00:00",
+    "source": "qz.com",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPa3RaQTZDdUlFWDc0RmFmaHdVdEpjSXBmSVlwV0I5LUw3elctVFRmSjZRa3ppOXZuNHNpNUREY3JvVXRnODFDWnlQaUFKQjhYYWdZOWJzSzNPNFRQV01ieW9ISVBfYThFT2xPWUYzbWxheHM?oc=5",
+    "title": "Is Cardinal Health (CAH) Stock Undervalued Right Now? - qz.com",
+    "body": "Is Cardinal Health (CAH) Stock Undervalued Right Now? qz.com",
+    "author": null,
+    "language": "en",
+    "ticker": "CAH",
+    "tickers_hint": [
+      "CAH"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "qz.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "qz.com",
+      "source_domain": "qzcom.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.39,
+      "_channel": "google_broad"
+    }
   }
 ]

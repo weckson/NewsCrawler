@@ -2,48 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "f9d5c80c-491b-5b01-b586-7b19624f3c59",
-      "timestamp_utc": "2026-04-01T10:59:08+00:00",
+      "id": "5790647d-e1c6-5305-b151-8c6b833a9385",
+      "timestamp_utc": "2026-04-08T05:52:53+00:00",
       "source": "benzinga",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbnl5eWR2Y2xtZ2l6RHJnOUpraDRNek5Db25rUy1KVnFhdjNVangzOUZCUzdndTFmdThIYVRlb09aWUs3Y0k4NjJ5blU0aTNoS3ZJZXVoYWEwaWV6b0J0VzY3enFYZGExNndMWjZVWGpVV3FKM3U1dlcwSlNMWlFSanVSaW1sUnB1cVNjbUd1eWcxcWlZME44STM1NXg4emZRNm9yUkVnUTdPUQ?oc=5",
-      "title": "Meta Shares Rise Nearly 3% After Key Trading Signal - Benzinga",
-      "body": "Meta Shares Rise Nearly 3% After Key Trading Signal Benzinga",
-      "author": null,
-      "language": "en",
-      "ticker": "A",
-      "tickers_hint": [
-        "A",
-        "KEY",
-        "META"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "benzinga.com",
-      "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "A",
-          "KEY",
-          "META"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "39bd5d67-6ee6-574a-9f1f-96cf5db600cd",
-      "timestamp_utc": "2026-04-01T06:24:32+00:00",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/04/51605440/whats-behind-the-bounce-in-meta-stock",
-      "title": "What's Behind The Bounce In Meta Stock? - Meta Platforms (NASDAQ:META) - Benzinga",
-      "body": "What's Behind The Bounce In Meta Stock? - Meta Platforms (NASDAQ:META) Benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/reiteration/26/04/51710085/meta-pullback-is-a-buying-opportunity-ahead-of-earnings-analyst",
+      "title": "Meta Pullback Is A Buying Opportunity Ahead Of Earnings: Analyst - Benzinga",
+      "body": "Meta Pullback Is A Buying Opportunity Ahead Of Earnings: Analyst Benzinga",
       "author": null,
       "language": "en",
       "ticker": "META",
@@ -52,178 +16,28 @@
       ],
       "source_quality": "high",
       "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_benzinga",
         "source_name": "Benzinga",
         "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.6000000000000001,
         "event_origin": "news",
-        "query_tickers": [
-          "META"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "1780de48-d9b3-560c-bf0d-7ee0c16766ab",
-      "timestamp_utc": "2026-03-31T12:45:19+00:00",
-      "source": "yahoo_finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-stock-trades-why-224519243.html",
-      "title": "Meta (META) Stock Trades Up, Here Is Why - Yahoo Finance",
-      "body": "Meta (META) Stock Trades Up, Here Is Why Yahoo Finance",
-      "author": null,
-      "language": "en",
-      "ticker": "META",
-      "tickers_hint": [
-        "META"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "finance.yahoo.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
-        "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "META"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "77165d1c-bbe1-55ff-9e85-95390c50421e",
-      "timestamp_utc": "2026-04-01T02:30:00+00:00",
-      "source": "motley_fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc08zZ3U1QW1UYXk0NUg5U3lGMGNmVHdkRkd0Qll2R1dKcjhqZ1hCTHM5ZWw3NjBPRjAwS213UjFYMmxuclMwT3JMcEM4NzBBX1lyLXFrWjhOWnBadzJGUVNBSWdCb2oxSlg0MDFPbFhNYnp1Zm41aEFZYTlWU3BTVnN5X0lvWm9wWUdaZ1dIRmFqbTlhRHZuWA?oc=5",
-      "title": "Could Buying Meta Platforms Stock Today Set You Up for Life? - The Motley Fool",
-      "body": "Could Buying Meta Platforms Stock Today Set You Up for Life? The Motley Fool",
-      "author": null,
-      "language": "en",
-      "ticker": "META",
-      "tickers_hint": [
-        "META"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "fool.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "The Motley Fool",
-        "source_domain": "fool.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "META"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "fbaef827-0b90-5e36-b5d9-88323c95f2ae",
-      "timestamp_utc": "2026-03-31T06:36:47+00:00",
-      "source": "benzinga",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV1U0TUVOT21QVjJ6VTZNWWd3UDQwTnZhZkhYWXY3T1VnSVAtN0lQVllrUGk3aUprSEMxRGZYYXFJTEVlaS1VeUVDc05vaC1zQVBQajU0ZkIzNWk3ak5BbWNXemZOVE9oSENhMFFyZ2FNUWM0SWRYU3ZxUVdGZUx2SkhQZmh0T0FrdHdnaW5wZXcyVG5Qa0RTbDFBU0pjUUVGcEE?oc=5",
-      "title": "Meta Stock Jumps 4% After Steep Sell-Off - Benzinga",
-      "body": "Meta Stock Jumps 4% After Steep Sell-Off Benzinga",
-      "author": null,
-      "language": "en",
-      "ticker": "META",
-      "tickers_hint": [
-        "META"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "benzinga.com",
-      "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "META"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "c7ade808-3722-5e5e-85a8-d5b594752e3c",
-      "timestamp_utc": "2026-04-01T00:42:22+00:00",
-      "source": "investing.com",
-      "url": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-meta-stock-rating-on-ai-data-center-power-deal-93CH-4592455",
-      "title": "Citizens reiterates Meta stock rating on AI data center power deal - investing.com",
-      "body": "Citizens reiterates Meta stock rating on AI data center power deal investing.com",
-      "author": null,
-      "language": "en",
-      "ticker": "META",
-      "tickers_hint": [
-        "META"
-      ],
-      "source_quality": "medium",
-      "publisher_raw": "investing.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "investing.com",
-        "source_domain": "investing.com",
-        "trust_tier": 2,
-        "relevance": 0.75,
-        "event_origin": "news",
-        "query_tickers": [
-          "META"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "87318173-a427-50ce-b19a-7af870c1adb2",
-      "timestamp_utc": "2026-03-31T06:01:21+00:00",
-      "source": "247_wall_st",
-      "url": "https://247wallst.com/investing/2026/03/31/meta-platforms-surges-4-as-smart-glasses-launch-and-ai-push-give-investors-reason-to-buy-the-dip/",
-      "title": "Meta Platforms Surges 4% as Smart Glasses Launch and AI Push Give Investors Reason to Buy the Dip - 24/7 Wall St.",
-      "body": "Meta Platforms (NASDAQ:META | META Price Prediction) shares are up 4% in Tuesday trading, with the stock climbing from an opening price of $536.38 to trade around $558. The move comes after a brutal stretch that saw META shares fall approximately 11.2% over the past week and 18.67% year to date.\n\nThree catalysts are doing the heavy lifting today: a Morgan Stanley (NYSE:MS) Top Pick designation, momentum around the Ray-Ban smart glasses launch, and renewed confidence in Meta’s AI infrastructure thesis. Retail sentiment data shows a notable uptick in buy-side activity following the selloff, suggesting some investors see the decline as a potential entry point rather than a structural breakdown.\n\nMorgan Stanley analyst Brian Nowak named Meta Platforms his firm’s new Top Pick following the stock’s recent sharp decline, reiterating an Overweight rating with a $775 price target. Nowak cited strong advertising fundamentals, accelerating engagement, and significant AI investments as the core growth drivers behind the call.\n\nThe valuation argument is straightforward. Meta Platforms is currently trading at 15 times projected 2027 earnings, which Nowak described as a substantial discount. The broader analyst community agrees, with the consensus price target sitting at $846.63, implying significant upside from current levels.\n\nOf the analysts covering META stock, 62 rate it a Buy, 5 rate it a Hold, and none rate it a Sell. That kind of lopsided conviction from Wall Street reflects strong institutional confidence in Meta’s long-term fundamentals, though individual investors will want to weigh that against their own risk tolerance and time horizon. You can read more about why billionaires have been loading up on META stock and what Wall Street sees in the long-term setup.\n\nMeta is expanding its Ray-Ban smart glasses lineup as part of its broader AI-driven wearable strategy. The product positions the company at the intersection of consumer hardware and artificial intelligence, a market with long-term growth potential that goes well beyond advertising.\n\nMeta Platforms CEO Mark Zuckerberg has been consistent on this point. During the Q3 2025 earnings call, he stated, “Meta Superintelligence Labs is off to a great start and we continue to lead the industry in AI glasses. If we deliver even a fraction of the opportunity ahead, then the next few years will be the most exciting period in our history.”\n\nThat confidence is backed by real user momentum. Meta AI reached nearly 1 billion monthly actives by Q1 2025, giving the company a massive installed base to layer hardware and AI services on top of.\n\nThe bear case on Meta Platforms centers on its staggering capital expenditure commitments. The company has guided for $115 to $135 billion in capital expenditures for 2026, up from $69.691 billion in full year 2025. That kind of spending would unsettle any investor focused purely on near-term free cash flow.\n\nThe bulls argue the spending reflects strategic positioning, not financial strain. Meta’s Hyperion data center in Louisiana is fully funded by Meta Platforms, with the Entergy partnership projected to save ratepayers over $2 billion through Meta covering the full energy infrastructure buildout. The company is also purchasing AMD AI chips at scale, with Advanced Micro Devices (NASDAQ:AMD) expected to ship its MI450 accelerators to Meta Platforms in the second half of 2026.\n\nMeanwhile, Meta Platforms’ underlying business continues to deliver. Q4 2025 revenue came in at $59.89 billion, up 23.78% year over year, with ad impressions up 18% and average price per ad up 6%. Family daily active people reached 3.58 billion, growing steadily every quarter through 2025.\n\nThe risks are real and worth acknowledging. A recent jury verdict found Meta Platforms liable in a social media addiction trial, contributing to the 11.2% one-week decline heading into today. S&P Global has warned that Big Tech’s collective $635 billion in planned AI infrastructure spending for 2026 faces pressure from rising energy costs tied to Middle East tensions, which could force revisions if oil prices stay elevated.\n\nThat said, META stock is now trading well below its 52-week high of $794.38 and below both its 50-day moving average of $650.01 and 200-day moving average of $690.61. Prediction markets on Polymarket currently show a 97.6% probability that META closes up on March 31, with strong consensus around the $540 to $560 range holding through the week.\n\nInvestors will want to watch whether today’s gains hold into the close and whether the Morgan Stanley upgrade sparks additional institutional buying ahead of Q1 2026 earnings, scheduled for April 29. That report will be the next major test of whether Meta Platforms’ AI spending is translating into durable growth.",
-      "author": null,
-      "language": "en",
-      "ticker": "META",
-      "tickers_hint": [
-        "META"
-      ],
-      "source_quality": "medium",
-      "publisher_raw": "247wallst.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "24/7 Wall St.",
-        "source_domain": "247wallst.com",
-        "trust_tier": 2,
         "relevance": 0.6,
-        "event_origin": "news",
-        "query_tickers": [
-          "META"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.685,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
     },
     {
-      "id": "3670853c-23f3-5965-8f5c-22bc0f7a67c8",
-      "timestamp_utc": "2026-03-31T05:05:00+00:00",
-      "source": "tradingview",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOenNEQ24zbTB5NFk0c2VKRGNuWFdtOS1JcUhlNi1UbHpVMzNYcWQ3a3dLaDNSYzJxSGxxYmE2TXBGekRyZGdMN3VqQUx4dWs5azJOaWlpVkZLeWRhbDV6UnhSbGtwMFh2eXFMZlBxNlFWSnpqd2FsNWVWQWt1V2ptaV9WLXF1WmdoWXd0dlc1cWM4QTNYcHVENkVQSjhrWVNmdjB4c1lPODZPZUN4QWZjQ3ZuZV85N3FsYjlqQ0EyQ25QQQ?oc=5",
-      "title": "META Adds New Features to Drive User Engagement: Can it Aid Ad Growth? - TradingView",
-      "body": "META Adds New Features to Drive User Engagement: Can it Aid Ad Growth? TradingView",
+      "id": "a0a2ad1a-afe3-5688-8088-d8c2cdbc7efd",
+      "timestamp_utc": "2026-04-08T07:45:00+00:00",
+      "source": "ibd",
+      "url": "https://www.investors.com/news/technology/meta-stocks-muse-ai-model/",
+      "title": "Meta Stock Jumps After Superintelligence Lab Reveals First AI Model - Investor's Business Daily",
+      "body": "About Us Reviews Site Map Your Ad Choices Advertising Contact us IBD Stock Charts IBD Stock Checkup Stock Quotes Stock Market Today The Big Picture My Stock Lists Terms of Use Privacy Notice Accessibility",
       "author": null,
       "language": "en",
       "ticker": "META",
@@ -231,144 +45,26 @@
         "META"
       ],
       "source_quality": "medium",
-      "publisher_raw": "tradingview.com",
+      "publisher_raw": "investors.com",
+      "trust_tier": 2,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "TradingView",
-        "source_domain": "tradingview.com",
-        "trust_tier": 2,
-        "relevance": 0.5,
+        "source_name": "Investor's Business Daily",
+        "source_domain": "investors.com",
         "event_origin": "news",
-        "query_tickers": [
-          "META"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "650ec48a-5063-56f9-8c3c-1e34bd539827",
-      "timestamp_utc": "2026-03-31T09:17:00+00:00",
-      "source": "thestreet.com",
-      "url": "https://www.thestreet.com/investing/stocks/mega-cap-dividend-stock-meta-targets-9-trillion-valuation",
-      "title": "Meta: Mega-cap dividend stock targets $9 trillion valuation | META - thestreet.com",
-      "body": "Meta: Mega-cap dividend stock targets $9 trillion valuation | META thestreet.com",
-      "author": null,
-      "language": "en",
-      "ticker": "META",
-      "tickers_hint": [
-        "META"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "thestreet.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "thestreet.com",
-        "source_domain": "thestreetcom.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "META"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "e5d1f4b9-54d2-58d0-9cb6-f5132d0d7dde",
-      "timestamp_utc": "2026-03-31T04:29:09+00:00",
-      "source": "traders_union",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN1hDdzh2aDU0bzdGbTZoU3Uxb3QxNnhBSnJqb3ByTDM4M2xqYk4zbHhDQWtyaE1OR08yY2pzdDlmMGdRTDMtVFIzNjBxdVhNUHMtSnVtekJzaDdZdDZiSU9GYUNhSUdHeFVwTXI4UGFwSEtHNFMzSWFkU1hFc3pWZFMtMmRHQ2pLcUhILVpCU3Y5TUV2?oc=5",
-      "title": "Meta stock price forecast: Range-bound technicals as META posts 3.95% intraday rise - Traders Union",
-      "body": "Meta stock price forecast: Range-bound technicals as META posts 3.95% intraday rise Traders Union",
-      "author": null,
-      "language": "en",
-      "ticker": "META",
-      "tickers_hint": [
-        "META"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "traders union",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Traders Union",
-        "source_domain": "tradersunion.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "META"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "89ccbc6f-511a-5fe2-9ad2-623329662fa2",
-      "timestamp_utc": "2026-04-01T04:19:08+00:00",
-      "source": "traders_union",
-      "url": "https://tradersunion.com/news/financial-news/show/1830693-meta-rises-0-77percent-as-trading/",
-      "title": "Meta stock sees modest gain as AI expansion deals offset subdued technicals - Traders Union",
-      "body": "Meta stock sees modest gain as AI expansion deals offset subdued technicals Traders Union",
-      "author": null,
-      "language": "en",
-      "ticker": "META",
-      "tickers_hint": [
-        "META"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "traders union",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Traders Union",
-        "source_domain": "tradersunion.com",
-        "trust_tier": 1,
-        "relevance": 0.6,
-        "event_origin": "news",
-        "query_tickers": [
-          "META"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "632d7ef2-d04a-51f4-9a93-3ddfb9825113",
-      "timestamp_utc": "2026-04-01T03:03:29+00:00",
-      "source": "barchart.com",
-      "url": "https://www.barchart.com/story/news/1090458/should-you-chase-the-rally-in-meta-platforms-stock-today",
-      "title": "Should You Chase the Rally in Meta Platforms Stock Today? - barchart.com",
-      "body": "All information and data in this article is solely for informational purposes. For more information please view the Barchart Disclosure Policy here\n\nMeta Platforms (META) shares closed higher on March 31, in tandem with a broader market rally, amid reports that both the U.S. and Iran are now willing to de-escalate military hostilities.\n\nFollowing the surge, META looks headed to challenge its 20-day moving average (MA) this week. A clear break above the $611 level is expected to accelerate bullish momentum in the near term.\n\nYear-to-date, META stock remains down about 12%, which, according to options pricing, may be an opportunity for long-term investors to load up on a quality name at a deep discount.\n\nAccording to Barchart, the put-to-call ratio on options contracts expiring mid-June is pinned at 0.3x currently, indicating a strongly bullish skew.\n\nThis means that disciplined investors are positioning for a continued recovery rather than hedging for any further downside in META shares.\n\nIn fact, the upper price on those contracts is pegged at $643, signaling this “Magnificent 7” name could rally another 12% within the next three months.\n\nIt's also worth mentioning that historically, Meta Platforms rallies over 4% on average in April, a seasonal trend that makes it even more attractive to own in the near term.\n\nBeyond the relief rally, META stock’s fundamental story remains one of the most compelling in Big Tech.\n\nThe company is currently trading at a relatively attractive price-to-earnings (P/E) multiple of about 18x — a steep discount compared to many of its AI peers.\n\nPlus, the Nasdaq-listed firm is aggressively pivoting toward “personal superintelligence,” with its Ray-Ban smart glasses already capturing more than 76% of that market.\n\nMeanwhile, management is streamlining operations by replacing third-party content moderators with high-efficiency AI systems, which have already shown superior performance in mitigating scams.\n\nWith a massive $1.45 trillion market cap and a strategic focus on AI infrastructure and hardware, Wall Street sees META shares as well-positioned to capitalize on the next leg of digital evolution.\n\nThe consensus rating on Meta Platforms sits at “Strong Buy” currently, with the mean price target of about $864 indicating potential upside of a whopping 50% from here.\n\nStocks: 15 20 minute delay (Cboe BZX is real-time), ET. Volume reflects consolidated markets. Futures and Forex: 10 or 15 minute delay, CT. Market Data powered by Barchart Solutions. Fundamental data provided by Zacks and Morningstar.\n\n© 2026 Barchart.com, Inc. All Rights Reserved.",
-      "author": null,
-      "language": "en",
-      "ticker": "META",
-      "tickers_hint": [
-        "META"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "barchart.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "barchart.com",
-        "source_domain": "barchartcom.com",
-        "trust_tier": 1,
         "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "META"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.5425,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "c35c3cbe-ede6-5a91-a954-dc753ba70897",
-      "timestamp_utc": "2026-03-31T23:59:42+00:00",
-      "source": "stockinvest.us",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOHB3aFJwNFphdEZvS0d2bHctd3I0eW92dHZ4enhVQ2EzeDZvVzdyaTA5WkFnY2N6dnpYa09sRThzb1FoQnR1VkZabUVacjFTOXI1QlVmaGVDbldxUTVaVHEyX3hvSWplWHZaSzMzOXlvUThBdjBDOXFZZFJiXzFzb0RZSWR3UG5xRnZsa1MyU0RBU2JPbi1PY0RmUXp5Y29ENXhvU3JR?oc=5",
-      "title": "Meta Boosts Smart Eyewear Lineup with Two New Ray-Ban Prescription Models - StockInvest.us",
-      "body": "Meta Boosts Smart Eyewear Lineup with Two New Ray-Ban Prescription Models StockInvest.us",
+      "id": "3573be66-dbeb-55c7-a143-8442bc9ec133",
+      "timestamp_utc": "2026-04-08T07:14:57+00:00",
+      "source": "rolling_out",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wRHBMRE9QWTVpcjZHRUxNbjd0Uy1CVUxEZDI1V2p6QXBRVU9iVnB5MTFSNmxLb3dqdnc3TExsdnZwVGphQnE4MmJYRFJTR1lHbkpzM3Z5T3pObHB3QnJ4NjdTLWQ4YmV5VVFPNzZzYjdXR3ljck53VXlIWllXZw?oc=5",
+      "title": "Meta stock has a 66% upside potential, says BNP Paribas - Rolling Out",
+      "body": "Meta stock has a 66% upside potential, says BNP Paribas Rolling Out",
       "author": null,
       "language": "en",
       "ticker": "META",
@@ -376,67 +72,29 @@
         "META"
       ],
       "source_quality": "low",
-      "publisher_raw": "stockinvest.us",
+      "publisher_raw": "rolling out",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "StockInvest.us",
-        "source_domain": "stockinvestus.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Rolling Out",
+        "source_domain": "rollingout.com",
         "event_origin": "news",
-        "query_tickers": [
-          "META"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.44,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "f9d5c80c-491b-5b01-b586-7b19624f3c59",
-      "timestamp_utc": "2026-04-01T10:59:08+00:00",
+      "id": "5790647d-e1c6-5305-b151-8c6b833a9385",
+      "timestamp_utc": "2026-04-08T05:52:53+00:00",
       "source": "benzinga",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbnl5eWR2Y2xtZ2l6RHJnOUpraDRNek5Db25rUy1KVnFhdjNVangzOUZCUzdndTFmdThIYVRlb09aWUs3Y0k4NjJ5blU0aTNoS3ZJZXVoYWEwaWV6b0J0VzY3enFYZGExNndMWjZVWGpVV3FKM3U1dlcwSlNMWlFSanVSaW1sUnB1cVNjbUd1eWcxcWlZME44STM1NXg4emZRNm9yUkVnUTdPUQ?oc=5",
-      "title": "Meta Shares Rise Nearly 3% After Key Trading Signal - Benzinga",
-      "body": "Meta Shares Rise Nearly 3% After Key Trading Signal Benzinga",
-      "author": null,
-      "language": "en",
-      "ticker": "A",
-      "tickers_hint": [
-        "A",
-        "KEY",
-        "META"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "benzinga.com",
-      "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "A",
-          "KEY",
-          "META"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "39bd5d67-6ee6-574a-9f1f-96cf5db600cd",
-      "timestamp_utc": "2026-04-01T06:24:32+00:00",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/04/51605440/whats-behind-the-bounce-in-meta-stock",
-      "title": "What's Behind The Bounce In Meta Stock? - Meta Platforms (NASDAQ:META) - Benzinga",
-      "body": "What's Behind The Bounce In Meta Stock? - Meta Platforms (NASDAQ:META) Benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/reiteration/26/04/51710085/meta-pullback-is-a-buying-opportunity-ahead-of-earnings-analyst",
+      "title": "Meta Pullback Is A Buying Opportunity Ahead Of Earnings: Analyst - Benzinga",
+      "body": "Meta Pullback Is A Buying Opportunity Ahead Of Earnings: Analyst Benzinga",
       "author": null,
       "language": "en",
       "ticker": "META",
@@ -445,178 +103,28 @@
       ],
       "source_quality": "high",
       "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_benzinga",
         "source_name": "Benzinga",
         "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.6000000000000001,
         "event_origin": "news",
-        "query_tickers": [
-          "META"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "1780de48-d9b3-560c-bf0d-7ee0c16766ab",
-      "timestamp_utc": "2026-03-31T12:45:19+00:00",
-      "source": "yahoo_finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-stock-trades-why-224519243.html",
-      "title": "Meta (META) Stock Trades Up, Here Is Why - Yahoo Finance",
-      "body": "Meta (META) Stock Trades Up, Here Is Why Yahoo Finance",
-      "author": null,
-      "language": "en",
-      "ticker": "META",
-      "tickers_hint": [
-        "META"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "finance.yahoo.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
-        "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "META"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "77165d1c-bbe1-55ff-9e85-95390c50421e",
-      "timestamp_utc": "2026-04-01T02:30:00+00:00",
-      "source": "motley_fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc08zZ3U1QW1UYXk0NUg5U3lGMGNmVHdkRkd0Qll2R1dKcjhqZ1hCTHM5ZWw3NjBPRjAwS213UjFYMmxuclMwT3JMcEM4NzBBX1lyLXFrWjhOWnBadzJGUVNBSWdCb2oxSlg0MDFPbFhNYnp1Zm41aEFZYTlWU3BTVnN5X0lvWm9wWUdaZ1dIRmFqbTlhRHZuWA?oc=5",
-      "title": "Could Buying Meta Platforms Stock Today Set You Up for Life? - The Motley Fool",
-      "body": "Could Buying Meta Platforms Stock Today Set You Up for Life? The Motley Fool",
-      "author": null,
-      "language": "en",
-      "ticker": "META",
-      "tickers_hint": [
-        "META"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "fool.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "The Motley Fool",
-        "source_domain": "fool.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "META"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "fbaef827-0b90-5e36-b5d9-88323c95f2ae",
-      "timestamp_utc": "2026-03-31T06:36:47+00:00",
-      "source": "benzinga",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV1U0TUVOT21QVjJ6VTZNWWd3UDQwTnZhZkhYWXY3T1VnSVAtN0lQVllrUGk3aUprSEMxRGZYYXFJTEVlaS1VeUVDc05vaC1zQVBQajU0ZkIzNWk3ak5BbWNXemZOVE9oSENhMFFyZ2FNUWM0SWRYU3ZxUVdGZUx2SkhQZmh0T0FrdHdnaW5wZXcyVG5Qa0RTbDFBU0pjUUVGcEE?oc=5",
-      "title": "Meta Stock Jumps 4% After Steep Sell-Off - Benzinga",
-      "body": "Meta Stock Jumps 4% After Steep Sell-Off Benzinga",
-      "author": null,
-      "language": "en",
-      "ticker": "META",
-      "tickers_hint": [
-        "META"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "benzinga.com",
-      "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "META"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "c7ade808-3722-5e5e-85a8-d5b594752e3c",
-      "timestamp_utc": "2026-04-01T00:42:22+00:00",
-      "source": "investing.com",
-      "url": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-meta-stock-rating-on-ai-data-center-power-deal-93CH-4592455",
-      "title": "Citizens reiterates Meta stock rating on AI data center power deal - investing.com",
-      "body": "Citizens reiterates Meta stock rating on AI data center power deal investing.com",
-      "author": null,
-      "language": "en",
-      "ticker": "META",
-      "tickers_hint": [
-        "META"
-      ],
-      "source_quality": "medium",
-      "publisher_raw": "investing.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "investing.com",
-        "source_domain": "investing.com",
-        "trust_tier": 2,
-        "relevance": 0.75,
-        "event_origin": "news",
-        "query_tickers": [
-          "META"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "87318173-a427-50ce-b19a-7af870c1adb2",
-      "timestamp_utc": "2026-03-31T06:01:21+00:00",
-      "source": "247_wall_st",
-      "url": "https://247wallst.com/investing/2026/03/31/meta-platforms-surges-4-as-smart-glasses-launch-and-ai-push-give-investors-reason-to-buy-the-dip/",
-      "title": "Meta Platforms Surges 4% as Smart Glasses Launch and AI Push Give Investors Reason to Buy the Dip - 24/7 Wall St.",
-      "body": "Meta Platforms (NASDAQ:META | META Price Prediction) shares are up 4% in Tuesday trading, with the stock climbing from an opening price of $536.38 to trade around $558. The move comes after a brutal stretch that saw META shares fall approximately 11.2% over the past week and 18.67% year to date.\n\nThree catalysts are doing the heavy lifting today: a Morgan Stanley (NYSE:MS) Top Pick designation, momentum around the Ray-Ban smart glasses launch, and renewed confidence in Meta’s AI infrastructure thesis. Retail sentiment data shows a notable uptick in buy-side activity following the selloff, suggesting some investors see the decline as a potential entry point rather than a structural breakdown.\n\nMorgan Stanley analyst Brian Nowak named Meta Platforms his firm’s new Top Pick following the stock’s recent sharp decline, reiterating an Overweight rating with a $775 price target. Nowak cited strong advertising fundamentals, accelerating engagement, and significant AI investments as the core growth drivers behind the call.\n\nThe valuation argument is straightforward. Meta Platforms is currently trading at 15 times projected 2027 earnings, which Nowak described as a substantial discount. The broader analyst community agrees, with the consensus price target sitting at $846.63, implying significant upside from current levels.\n\nOf the analysts covering META stock, 62 rate it a Buy, 5 rate it a Hold, and none rate it a Sell. That kind of lopsided conviction from Wall Street reflects strong institutional confidence in Meta’s long-term fundamentals, though individual investors will want to weigh that against their own risk tolerance and time horizon. You can read more about why billionaires have been loading up on META stock and what Wall Street sees in the long-term setup.\n\nMeta is expanding its Ray-Ban smart glasses lineup as part of its broader AI-driven wearable strategy. The product positions the company at the intersection of consumer hardware and artificial intelligence, a market with long-term growth potential that goes well beyond advertising.\n\nMeta Platforms CEO Mark Zuckerberg has been consistent on this point. During the Q3 2025 earnings call, he stated, “Meta Superintelligence Labs is off to a great start and we continue to lead the industry in AI glasses. If we deliver even a fraction of the opportunity ahead, then the next few years will be the most exciting period in our history.”\n\nThat confidence is backed by real user momentum. Meta AI reached nearly 1 billion monthly actives by Q1 2025, giving the company a massive installed base to layer hardware and AI services on top of.\n\nThe bear case on Meta Platforms centers on its staggering capital expenditure commitments. The company has guided for $115 to $135 billion in capital expenditures for 2026, up from $69.691 billion in full year 2025. That kind of spending would unsettle any investor focused purely on near-term free cash flow.\n\nThe bulls argue the spending reflects strategic positioning, not financial strain. Meta’s Hyperion data center in Louisiana is fully funded by Meta Platforms, with the Entergy partnership projected to save ratepayers over $2 billion through Meta covering the full energy infrastructure buildout. The company is also purchasing AMD AI chips at scale, with Advanced Micro Devices (NASDAQ:AMD) expected to ship its MI450 accelerators to Meta Platforms in the second half of 2026.\n\nMeanwhile, Meta Platforms’ underlying business continues to deliver. Q4 2025 revenue came in at $59.89 billion, up 23.78% year over year, with ad impressions up 18% and average price per ad up 6%. Family daily active people reached 3.58 billion, growing steadily every quarter through 2025.\n\nThe risks are real and worth acknowledging. A recent jury verdict found Meta Platforms liable in a social media addiction trial, contributing to the 11.2% one-week decline heading into today. S&P Global has warned that Big Tech’s collective $635 billion in planned AI infrastructure spending for 2026 faces pressure from rising energy costs tied to Middle East tensions, which could force revisions if oil prices stay elevated.\n\nThat said, META stock is now trading well below its 52-week high of $794.38 and below both its 50-day moving average of $650.01 and 200-day moving average of $690.61. Prediction markets on Polymarket currently show a 97.6% probability that META closes up on March 31, with strong consensus around the $540 to $560 range holding through the week.\n\nInvestors will want to watch whether today’s gains hold into the close and whether the Morgan Stanley upgrade sparks additional institutional buying ahead of Q1 2026 earnings, scheduled for April 29. That report will be the next major test of whether Meta Platforms’ AI spending is translating into durable growth.",
-      "author": null,
-      "language": "en",
-      "ticker": "META",
-      "tickers_hint": [
-        "META"
-      ],
-      "source_quality": "medium",
-      "publisher_raw": "247wallst.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "24/7 Wall St.",
-        "source_domain": "247wallst.com",
-        "trust_tier": 2,
         "relevance": 0.6,
-        "event_origin": "news",
-        "query_tickers": [
-          "META"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.685,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
     },
     {
-      "id": "3670853c-23f3-5965-8f5c-22bc0f7a67c8",
-      "timestamp_utc": "2026-03-31T05:05:00+00:00",
-      "source": "tradingview",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOenNEQ24zbTB5NFk0c2VKRGNuWFdtOS1JcUhlNi1UbHpVMzNYcWQ3a3dLaDNSYzJxSGxxYmE2TXBGekRyZGdMN3VqQUx4dWs5azJOaWlpVkZLeWRhbDV6UnhSbGtwMFh2eXFMZlBxNlFWSnpqd2FsNWVWQWt1V2ptaV9WLXF1WmdoWXd0dlc1cWM4QTNYcHVENkVQSjhrWVNmdjB4c1lPODZPZUN4QWZjQ3ZuZV85N3FsYjlqQ0EyQ25QQQ?oc=5",
-      "title": "META Adds New Features to Drive User Engagement: Can it Aid Ad Growth? - TradingView",
-      "body": "META Adds New Features to Drive User Engagement: Can it Aid Ad Growth? TradingView",
+      "id": "a0a2ad1a-afe3-5688-8088-d8c2cdbc7efd",
+      "timestamp_utc": "2026-04-08T07:45:00+00:00",
+      "source": "ibd",
+      "url": "https://www.investors.com/news/technology/meta-stocks-muse-ai-model/",
+      "title": "Meta Stock Jumps After Superintelligence Lab Reveals First AI Model - Investor's Business Daily",
+      "body": "About Us Reviews Site Map Your Ad Choices Advertising Contact us IBD Stock Charts IBD Stock Checkup Stock Quotes Stock Market Today The Big Picture My Stock Lists Terms of Use Privacy Notice Accessibility",
       "author": null,
       "language": "en",
       "ticker": "META",
@@ -624,144 +132,26 @@
         "META"
       ],
       "source_quality": "medium",
-      "publisher_raw": "tradingview.com",
+      "publisher_raw": "investors.com",
+      "trust_tier": 2,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "TradingView",
-        "source_domain": "tradingview.com",
-        "trust_tier": 2,
-        "relevance": 0.5,
+        "source_name": "Investor's Business Daily",
+        "source_domain": "investors.com",
         "event_origin": "news",
-        "query_tickers": [
-          "META"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "650ec48a-5063-56f9-8c3c-1e34bd539827",
-      "timestamp_utc": "2026-03-31T09:17:00+00:00",
-      "source": "thestreet.com",
-      "url": "https://www.thestreet.com/investing/stocks/mega-cap-dividend-stock-meta-targets-9-trillion-valuation",
-      "title": "Meta: Mega-cap dividend stock targets $9 trillion valuation | META - thestreet.com",
-      "body": "Meta: Mega-cap dividend stock targets $9 trillion valuation | META thestreet.com",
-      "author": null,
-      "language": "en",
-      "ticker": "META",
-      "tickers_hint": [
-        "META"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "thestreet.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "thestreet.com",
-        "source_domain": "thestreetcom.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "META"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "e5d1f4b9-54d2-58d0-9cb6-f5132d0d7dde",
-      "timestamp_utc": "2026-03-31T04:29:09+00:00",
-      "source": "traders_union",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN1hDdzh2aDU0bzdGbTZoU3Uxb3QxNnhBSnJqb3ByTDM4M2xqYk4zbHhDQWtyaE1OR08yY2pzdDlmMGdRTDMtVFIzNjBxdVhNUHMtSnVtekJzaDdZdDZiSU9GYUNhSUdHeFVwTXI4UGFwSEtHNFMzSWFkU1hFc3pWZFMtMmRHQ2pLcUhILVpCU3Y5TUV2?oc=5",
-      "title": "Meta stock price forecast: Range-bound technicals as META posts 3.95% intraday rise - Traders Union",
-      "body": "Meta stock price forecast: Range-bound technicals as META posts 3.95% intraday rise Traders Union",
-      "author": null,
-      "language": "en",
-      "ticker": "META",
-      "tickers_hint": [
-        "META"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "traders union",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Traders Union",
-        "source_domain": "tradersunion.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "META"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "89ccbc6f-511a-5fe2-9ad2-623329662fa2",
-      "timestamp_utc": "2026-04-01T04:19:08+00:00",
-      "source": "traders_union",
-      "url": "https://tradersunion.com/news/financial-news/show/1830693-meta-rises-0-77percent-as-trading/",
-      "title": "Meta stock sees modest gain as AI expansion deals offset subdued technicals - Traders Union",
-      "body": "Meta stock sees modest gain as AI expansion deals offset subdued technicals Traders Union",
-      "author": null,
-      "language": "en",
-      "ticker": "META",
-      "tickers_hint": [
-        "META"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "traders union",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Traders Union",
-        "source_domain": "tradersunion.com",
-        "trust_tier": 1,
-        "relevance": 0.6,
-        "event_origin": "news",
-        "query_tickers": [
-          "META"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "632d7ef2-d04a-51f4-9a93-3ddfb9825113",
-      "timestamp_utc": "2026-04-01T03:03:29+00:00",
-      "source": "barchart.com",
-      "url": "https://www.barchart.com/story/news/1090458/should-you-chase-the-rally-in-meta-platforms-stock-today",
-      "title": "Should You Chase the Rally in Meta Platforms Stock Today? - barchart.com",
-      "body": "All information and data in this article is solely for informational purposes. For more information please view the Barchart Disclosure Policy here\n\nMeta Platforms (META) shares closed higher on March 31, in tandem with a broader market rally, amid reports that both the U.S. and Iran are now willing to de-escalate military hostilities.\n\nFollowing the surge, META looks headed to challenge its 20-day moving average (MA) this week. A clear break above the $611 level is expected to accelerate bullish momentum in the near term.\n\nYear-to-date, META stock remains down about 12%, which, according to options pricing, may be an opportunity for long-term investors to load up on a quality name at a deep discount.\n\nAccording to Barchart, the put-to-call ratio on options contracts expiring mid-June is pinned at 0.3x currently, indicating a strongly bullish skew.\n\nThis means that disciplined investors are positioning for a continued recovery rather than hedging for any further downside in META shares.\n\nIn fact, the upper price on those contracts is pegged at $643, signaling this “Magnificent 7” name could rally another 12% within the next three months.\n\nIt's also worth mentioning that historically, Meta Platforms rallies over 4% on average in April, a seasonal trend that makes it even more attractive to own in the near term.\n\nBeyond the relief rally, META stock’s fundamental story remains one of the most compelling in Big Tech.\n\nThe company is currently trading at a relatively attractive price-to-earnings (P/E) multiple of about 18x — a steep discount compared to many of its AI peers.\n\nPlus, the Nasdaq-listed firm is aggressively pivoting toward “personal superintelligence,” with its Ray-Ban smart glasses already capturing more than 76% of that market.\n\nMeanwhile, management is streamlining operations by replacing third-party content moderators with high-efficiency AI systems, which have already shown superior performance in mitigating scams.\n\nWith a massive $1.45 trillion market cap and a strategic focus on AI infrastructure and hardware, Wall Street sees META shares as well-positioned to capitalize on the next leg of digital evolution.\n\nThe consensus rating on Meta Platforms sits at “Strong Buy” currently, with the mean price target of about $864 indicating potential upside of a whopping 50% from here.\n\nStocks: 15 20 minute delay (Cboe BZX is real-time), ET. Volume reflects consolidated markets. Futures and Forex: 10 or 15 minute delay, CT. Market Data powered by Barchart Solutions. Fundamental data provided by Zacks and Morningstar.\n\n© 2026 Barchart.com, Inc. All Rights Reserved.",
-      "author": null,
-      "language": "en",
-      "ticker": "META",
-      "tickers_hint": [
-        "META"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "barchart.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "barchart.com",
-        "source_domain": "barchartcom.com",
-        "trust_tier": 1,
         "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "META"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.5425,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "c35c3cbe-ede6-5a91-a954-dc753ba70897",
-      "timestamp_utc": "2026-03-31T23:59:42+00:00",
-      "source": "stockinvest.us",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOHB3aFJwNFphdEZvS0d2bHctd3I0eW92dHZ4enhVQ2EzeDZvVzdyaTA5WkFnY2N6dnpYa09sRThzb1FoQnR1VkZabUVacjFTOXI1QlVmaGVDbldxUTVaVHEyX3hvSWplWHZaSzMzOXlvUThBdjBDOXFZZFJiXzFzb0RZSWR3UG5xRnZsa1MyU0RBU2JPbi1PY0RmUXp5Y29ENXhvU3JR?oc=5",
-      "title": "Meta Boosts Smart Eyewear Lineup with Two New Ray-Ban Prescription Models - StockInvest.us",
-      "body": "Meta Boosts Smart Eyewear Lineup with Two New Ray-Ban Prescription Models StockInvest.us",
+      "id": "3573be66-dbeb-55c7-a143-8442bc9ec133",
+      "timestamp_utc": "2026-04-08T07:14:57+00:00",
+      "source": "rolling_out",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wRHBMRE9QWTVpcjZHRUxNbjd0Uy1CVUxEZDI1V2p6QXBRVU9iVnB5MTFSNmxLb3dqdnc3TExsdnZwVGphQnE4MmJYRFJTR1lHbkpzM3Z5T3pObHB3QnJ4NjdTLWQ4YmV5VVFPNzZzYjdXR3ljck53VXlIWllXZw?oc=5",
+      "title": "Meta stock has a 66% upside potential, says BNP Paribas - Rolling Out",
+      "body": "Meta stock has a 66% upside potential, says BNP Paribas Rolling Out",
       "author": null,
       "language": "en",
       "ticker": "META",
@@ -769,20 +159,18 @@
         "META"
       ],
       "source_quality": "low",
-      "publisher_raw": "stockinvest.us",
+      "publisher_raw": "rolling out",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "StockInvest.us",
-        "source_domain": "stockinvestus.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Rolling Out",
+        "source_domain": "rollingout.com",
         "event_origin": "news",
-        "query_tickers": [
-          "META"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.44,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

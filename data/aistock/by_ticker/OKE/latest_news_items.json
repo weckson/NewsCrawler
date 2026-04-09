@@ -1,98 +1,11 @@
 [
   {
-    "id": "7405a89a-3cf7-5f8b-a6a6-51d238ae72df",
-    "timestamp_utc": "2026-03-31T05:06:05+00:00",
-    "source": "yahoo_finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/why-oneok-oke-one-most-150605517.html",
-    "title": "Why is ONEOK (OKE) One of the Most Profitable NYSE Stocks to Invest In? - Yahoo Finance",
-    "body": "Why is ONEOK (OKE) One of the Most Profitable NYSE Stocks to Invest In? Yahoo Finance",
-    "author": null,
-    "language": "en",
-    "ticker": "OKE",
-    "tickers_hint": [
-      "OKE"
-    ],
-    "source_quality": "high",
-    "publisher_raw": "finance.yahoo.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance",
-      "source_domain": "finance.yahoo.com",
-      "trust_tier": 3,
-      "relevance": 0.6,
-      "event_origin": "news",
-      "query_tickers": [
-        "OKE"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "b5fa1bda-eea8-52b4-9f4f-2958a174f300",
-    "timestamp_utc": "2026-03-31T12:15:02+00:00",
-    "source": "yahoo_finance",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTXcydzNnc2RiX293Y2plNUp4eTRnWmlXSzk4WmFKSDFnR2VwbzhIeG1LanRHeGphbWJnNms5QlBCbGZTY3lWY0U1SlRJNXNUR1pVeFBlLWs2dzFjZGM4YlNOcjlROUs4MGtsOG5ZUW9xbXdsZWtRZFpHMDRHYjF6QXZpOC0tVDBCazRHWjdxN2tZVjRwVVE?oc=5",
-    "title": "Oneok Inc. (OKE) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance",
-    "body": "Oneok Inc. (OKE) Stock Slides as Market Rises: Facts to Know Before You Trade Yahoo Finance",
-    "author": null,
-    "language": "en",
-    "ticker": "OKE",
-    "tickers_hint": [
-      "OKE"
-    ],
-    "source_quality": "high",
-    "publisher_raw": "finance.yahoo.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance",
-      "source_domain": "finance.yahoo.com",
-      "trust_tier": 3,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "OKE"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "f7463c6a-6088-55dc-aca0-8d1977291b72",
-    "timestamp_utc": "2026-03-31T23:25:57+00:00",
-    "source": "msn.com",
-    "url": "https://www.msn.com/en-us/money/topstocks/oneok-oke-up-9-7-since-last-earnings-report-can-it-continue/ar-AA1Zowjg?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
-    "title": "Oneok (OKE) up 9.7% since last earnings report: Can it continue? - msn.com",
-    "body": "Oneok (OKE) up 9.7% since last earnings report: Can it continue? msn.com",
-    "author": null,
-    "language": "en",
-    "ticker": "OKE",
-    "tickers_hint": [
-      "OKE"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "msn.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "msn.com",
-      "source_domain": "msncom.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
-      "event_origin": "news",
-      "query_tickers": [
-        "OKE"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "dbfc6f3f-474a-5215-9009-1a424cb7c062",
-    "timestamp_utc": "2026-04-01T07:36:09+00:00",
+    "id": "e67c683b-94fb-5cba-8269-c051353e48c4",
+    "timestamp_utc": "2026-04-08T10:03:45+00:00",
     "source": "gurufocus",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb0VtS1RRUkJ6eUxqRnRNR1NaSkUydnFqQmtTS3J4bzBrZ1hFQ3dzOEphT1BLOUg0R1FpYi01QjZHMnBaTm9Kd25CTERPT2FIWEQtakEtVUhxMG1FVVRBRGtOSjdtTWFyV0l6d041UGRZZlQ2M2ZQd3JMWC1nMEx6bS1peU0zX29GX2c?oc=5",
-    "title": "ONEOK Inc (OKE) Stock Price Down 3.86% on Apr 1 - GuruFocus",
-    "body": "ONEOK Inc (OKE) Stock Price Down 3.86% on Apr 1 GuruFocus",
+    "url": "https://www.gurufocus.com/news/8782418/jefferies-maintains-buy-rating-and-raises-price-target-on-oke-oke-stock-news",
+    "title": "Jefferies Maintains 'Buy' Rating and Raises Price Target on OKE | OKE Stock News - GuruFocus",
+    "body": "Jefferies Maintains 'Buy' Rating and Raises Price Target on OKE | OKE Stock News GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "OKE",
@@ -101,18 +14,70 @@
     ],
     "source_quality": "low",
     "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "GuruFocus",
       "source_domain": "gurufocus.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
       "event_origin": "news",
-      "query_tickers": [
-        "OKE"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.7000000000000001,
+      "quality_score": 0.49,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "6439bf49-ce45-5242-b974-797619229155",
+    "timestamp_utc": "2026-04-08T08:22:29+00:00",
+    "source": "msn",
+    "url": "https://www.msn.com/en-us/money/topstocks/oneok-oke-up-9-7-since-last-earnings-report-can-it-continue/ar-AA1Zowjg",
+    "title": "Oneok (OKE) up 9.7% since last earnings report: Can it continue? - MSN",
+    "body": "Oneok (OKE) up 9.7% since last earnings report: Can it continue? MSN",
+    "author": null,
+    "language": "en",
+    "ticker": "OKE",
+    "tickers_hint": [
+      "OKE"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "msn",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MSN",
+      "source_domain": "msn.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4675,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "0e0f10ad-ad16-5536-9950-32802f244f64",
+    "timestamp_utc": "2026-04-08T12:15:04+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LNFQxZjl0RE8zWGJwMmowOFN3dmFwY2UwN1lSUlc3eXNyazdYWTEyVXdfV3BQa2xQSE1yOFF0OElhMHU1VUF3RjBZVWRWYU5GcTFPVVotNUNmclR4ZDdPVkR0OHRnak9KbXRKTEt1U2ZSVmZGTXFmY2tDWndRZw?oc=5",
+    "title": "Oneok Inc. (OKE) Stock Dips While Market Gains: Key Facts - Yahoo! Finance Canada",
+    "body": "Oneok Inc. (OKE) Stock Dips While Market Gains: Key Facts Yahoo! Finance Canada",
+    "author": null,
+    "language": "en",
+    "ticker": "OKE",
+    "tickers_hint": [
+      "OKE"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo! finance canada",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.41,
+      "_channel": "google_broad"
+    }
   }
 ]

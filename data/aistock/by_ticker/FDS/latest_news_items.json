@@ -1,11 +1,11 @@
 [
   {
-    "id": "52830d55-9e47-56d1-8d1f-4c1a76255f0e",
-    "timestamp_utc": "2026-03-31T05:35:02+00:00",
+    "id": "c89ff134-05ca-5055-bdfa-13af1164ca15",
+    "timestamp_utc": "2026-04-07T04:00:03+00:00",
     "source": "yahoo_finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/factset-research-fds-beats-q2-153502029.html",
-    "title": "FactSet Research (FDS) Beats Q2 Earnings and Revenue Estimates - Yahoo Finance",
-    "body": "FactSet Research (FDS) Beats Q2 Earnings and Revenue Estimates Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeUVSS1RncmNReUp0d2RJczR6eUE3eFp1U3NBVWZQOHRBbE9EMGducnd2c3dyZTRiNVN0WUhxNHZpZUlxcElBbURvNWloY0MwbEgtaGdFLUQtLU5lQjZNTE5nc2YxdjZiUjF4aXhqUlZwVVR0ZUZEN3ZOcWNPZkR1cVgtempsdw?oc=5",
+    "title": "Here's Why FactSet Research (FDS) is a Strong Momentum Stock - Yahoo Finance UK",
+    "body": "Here's Why FactSet Research (FDS) is a Strong Momentum Stock Yahoo Finance UK",
     "author": null,
     "language": "en",
     "ticker": "FDS",
@@ -14,230 +14,28 @@
     ],
     "source_quality": "high",
     "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance",
+      "source_name": "Yahoo Finance UK",
       "source_domain": "finance.yahoo.com",
-      "trust_tier": 3,
-      "relevance": 0.7,
       "event_origin": "news",
-      "query_tickers": [
-        "FDS"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "942577be-02ce-585f-bc3f-1fbc21a3963d",
-    "timestamp_utc": "2026-04-01T12:04:12+00:00",
-    "source": "gurufocus",
-    "url": "https://www.gurufocus.com/news/8765710/fds-goldman-sachs-lowers-price-target-maintains-sell-rating-fds-stock-news?utm_source=marketwatch&utm_medium=syndication&utm_campaign=headlines&r=4bf001661e6fdd88d0cd7a5659ff9748&mod=mw_quote_news",
-    "title": "FDS: Goldman Sachs Lowers Price Target, Maintains 'Sell' Rating | FDS Stock News - GuruFocus",
-    "body": "FDS: Goldman Sachs Lowers Price Target, Maintains 'Sell' Rating | FDS Stock News GuruFocus",
-    "author": null,
-    "language": "en",
-    "ticker": "FDS",
-    "tickers_hint": [
-      "FDS"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "gurufocus.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "GuruFocus",
-      "source_domain": "gurufocus.com",
-      "trust_tier": 1,
-      "relevance": 0.7000000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "FDS"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "fdff79e1-390d-5758-ac12-22f707131bf3",
-    "timestamp_utc": "2026-03-31T09:15:14+00:00",
-    "source": "mexc",
-    "url": "https://www.mexc.com/news/995334",
-    "title": "FactSet Research Systems Inc. (FDS) Stock: Gains 5% on Solid Revenue Growth and Upgraded FY2026 Guidance - MEXC",
-    "body": "FactSet Research Systems Inc. (FDS) Stock: Gains 5% on Solid Revenue Growth and Upgraded FY2026 Guidance MEXC",
-    "author": null,
-    "language": "en",
-    "ticker": "FDS",
-    "tickers_hint": [
-      "FDS"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "mexc",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "MEXC",
-      "source_domain": "mexc.com",
-      "trust_tier": 1,
-      "relevance": 0.65,
-      "event_origin": "news",
-      "query_tickers": [
-        "FDS"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "2259f83a-00ba-547e-9175-b64c331567ff",
-    "timestamp_utc": "2026-04-01T08:50:23+00:00",
-    "source": "gurufocus",
-    "url": "https://www.gurufocus.com/news/8765464/fds-ubs-lowers-price-target-but-maintains-buy-rating-on-factset-fds-stock-news?mobile=true",
-    "title": "FDS: UBS Lowers Price Target but Maintains 'Buy' Rating on FactS - GuruFocus",
-    "body": "FDS: UBS Lowers Price Target but Maintains 'Buy' Rating on FactS GuruFocus",
-    "author": null,
-    "language": "en",
-    "ticker": "FDS",
-    "tickers_hint": [
-      "FDS"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "gurufocus.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "GuruFocus",
-      "source_domain": "gurufocus.com",
-      "trust_tier": 1,
-      "relevance": 0.6,
-      "event_origin": "news",
-      "query_tickers": [
-        "FDS"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "5200bb62-90e6-5ce4-91c2-6fa659e34a1d",
-    "timestamp_utc": "2026-03-31T19:32:10+00:00",
-    "source": "defense_world",
-    "url": "https://www.defenseworld.net/2026/04/01/factset-research-systems-nysefds-shares-gap-up-on-earnings-beat.html",
-    "title": "FactSet Research Systems (NYSE:FDS) Shares Gap Up on Earnings Beat - Defense World",
-    "body": "Air Armament Engines Fighter Aircraft Helicopters Land Armored Vehicles and Tanks Ordinance and Artillery Personnel Equipment Small Arms Missiles and Space Air Defense Military Satellites Missile Technology Naval Civil Aviation Accidents Airlines Engines Manufacturers MRO Economy Management Appointments Market Trends and Finance Mergers and Acquisitions Companies",
-    "author": null,
-    "language": "en",
-    "ticker": "FDS",
-    "tickers_hint": [
-      "FDS"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "defense world",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Defense World",
-      "source_domain": "defenseworld.com",
-      "trust_tier": 1,
-      "relevance": 0.6,
-      "event_origin": "news",
-      "query_tickers": [
-        "FDS"
-      ],
-      "body_kind": "article_text"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "891a9cc6-c9ac-57f9-b546-33600c553c90",
-    "timestamp_utc": "2026-03-31T06:00:01+00:00",
-    "source": "yahoo_finance_australia",
-    "url": "https://au.finance.yahoo.com/news/factset-fds-q2-earnings-taking-160001160.html",
-    "title": "FactSet (FDS) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates - Yahoo Finance Australia",
-    "body": "FactSet (FDS) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates Yahoo Finance Australia",
-    "author": null,
-    "language": "en",
-    "ticker": "FDS",
-    "tickers_hint": [
-      "FDS"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "yahoo finance australia",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance Australia",
-      "source_domain": "yahoofinanceaustralia.com",
-      "trust_tier": 1,
-      "relevance": 0.6,
-      "event_origin": "news",
-      "query_tickers": [
-        "FDS"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "fa77457c-f0dc-52a5-b1ef-81a08e185f93",
-    "timestamp_utc": "2026-04-01T06:01:13+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/ubs-group-issues-pessimistic-forecast-for-factset-research-systems-nysefds-stock-price-2026-04-01/",
-    "title": "UBS Group Issues Pessimistic Forecast for FactSet Research Systems (NYSE:FDS) Stock Price - MarketBeat",
-    "body": "UBS Group Issues Pessimistic Forecast for FactSet Research Systems (NYSE:FDS) Stock Price MarketBeat",
-    "author": null,
-    "language": "en",
-    "ticker": "FDS",
-    "tickers_hint": [
-      "FDS"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
-      "event_origin": "news",
-      "query_tickers": [
-        "FDS"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "5fbc6d49-945a-5e77-8c09-06c7e427e6e0",
-    "timestamp_utc": "2026-04-01T10:38:40+00:00",
-    "source": "stockstory",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2FjUDd6LWsxV0pvSVB2eDdWTWRpaVFncnlEUkFjWlZFbm56c1Excy02bFphZDRVSEZwWWNaRUotd0pIQjBhTFhxNTRBZHh6OXRIdTByNWxxZTROeXcwRV9DT214ZGtSdmRqeW5vVDhOOTlJbWlUeDNWTUFzZnNteGt1RElUR084WHlYbVRJY2gwRG54SnBvb0RR?oc=5",
-    "title": "Why FactSet (FDS) Stock Is Up Today - StockStory",
-    "body": "Why FactSet (FDS) Stock Is Up Today StockStory",
-    "author": null,
-    "language": "en",
-    "ticker": "FDS",
-    "tickers_hint": [
-      "FDS"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "stockstory",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "StockStory",
-      "source_domain": "stockstory.com",
-      "trust_tier": 1,
       "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "FDS"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.61,
+      "_channel": "google_broad",
+      "_alt_sources": [
+        "Yahoo Finance"
+      ]
+    }
   },
   {
-    "id": "1c4ce8bd-2316-55cf-96cc-c867f8a71319",
-    "timestamp_utc": "2026-04-01T06:47:37+00:00",
-    "source": "gurufocus",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObjRmN19xSEZjSWUyM1NQcUk1eTlhMVVnQ1FCdEhTNWJzeUlTTGxsdVBlaGdNX1pPbVJwNEVXY0RfRTBmMkZMelFUVnpqUjQ2RkNWbEp1cTFkR0tYa2k3TUFkS1RXSFIxYmVvRU9rZFVJSGlPNGxORGRFcm5UM1lDUUxpRzJUUzBzb2l1dElOMlZtVGFzYVlocVJmUDV2N1IxenNSVV9sR2NuQmdoQ0tkOU91X0FwX1Yw?oc=5",
-    "title": "FactSet Research Systems (FDS) Target Price Raised by Wells Farg - GuruFocus",
-    "body": "FactSet Research Systems (FDS) Target Price Raised by Wells Farg GuruFocus",
+    "id": "c1ae4baa-f570-58c4-966a-d5ebaeb9b0a1",
+    "timestamp_utc": "2026-04-07T02:37:33+00:00",
+    "source": "the_economic_times",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbjZMeFVkZTFQOXRpNGF3N1Z5RDludkR1amhUcEpBQnR4aUFtVU5md1FVbUdxZGNId20zSHZBV1JJVDdQUU1DSndqN1hhUlVKd1dya1BKd1E4WWotWlRYOC01ZkE3bjlWcmNORktDWWNFWTA1YlJ3YkFwTzdGbTB5X3pNLWs4b0QzYmtCbVZmRzE0NVpCTTJmbmJBdnRQUTVLSGVsSWM5cHUtMHV0bWViNHFCdmw3MWxfVjNUVmNWT1JaekR4VmpKLTlMVDRkM1pHSnVtWm0ydUxmYWF3b2tpVHZOdHpoVWdwbVNobGhfOXJiOTYzR0tZ0gH8AUFVX3lxTE1MNEVWNmlvSHNRSzhyUmVYazBMZ0h2S0NJOUlLTUVhNFNlUWRpRmJCNm1tRnI3N3NLLW9YdjRRUnh6VmdPcDAtMkE4LXB0NDdsLVlmNkRKUENBMVhpSk11WHZPVTh3cUFxajNSdlVsUmNrLXpoTEN0VHpRUWE0TER6RVdWSEthb2ZJaEZPQXk1NlVCNDVBaXNBOF9hWGRza2xoZXVOTzV5Mkc0dUFfTlRaZWxFd2JmS1R0Y2xLUW1uOWdPdUJKenIwVnZDemZwaml3WVo3bEl2cVRaZmtBQWtjNmlWYW1hTXYzV0ExZWtna2pDbURnem14OTgwZA?oc=5",
+    "title": "Portfolio in red after moving from FDs? Expert shares how to handle volatility and allocate smartly - The Economic Times",
+    "body": "Portfolio in red after moving from FDs? Expert shares how to handle volatility and allocate smartly The Economic Times",
     "author": null,
     "language": "en",
     "ticker": "FDS",
@@ -245,106 +43,17 @@
       "FDS"
     ],
     "source_quality": "low",
-    "publisher_raw": "gurufocus.com",
+    "publisher_raw": "the economic times",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "GuruFocus",
-      "source_domain": "gurufocus.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "The Economic Times",
+      "source_domain": "theeconomictimes.com",
       "event_origin": "news",
-      "query_tickers": [
-        "FDS"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "901780c3-2c93-5ad8-9c7d-1cf2ce385c3a",
-    "timestamp_utc": "2026-04-01T03:55:37+00:00",
-    "source": "intellectia_ai",
-    "url": "https://intellectia.ai/en/stock/FDS/earnings",
-    "title": "FDS Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-    "body": "FDS Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
-    "author": null,
-    "language": "en",
-    "ticker": "FDS",
-    "tickers_hint": [
-      "FDS"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "intellectia ai",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Intellectia AI",
-      "source_domain": "intellectiaai.com",
-      "trust_tier": 1,
       "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "FDS"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "14e4f51a-679b-5a35-bbd9-524af3582cb1",
-    "timestamp_utc": "2026-04-01T00:55:52+00:00",
-    "source": "seekingalpha.com",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPblE3NmdzUXdyMkU1WGFrMzhrZU9JTFVOM1QyR3N3TXlnXzhJdUtHMURLcnk2d1lTZ1BYWjBWMkFSYW9DUU0xWmhNRlQ2b1dIV05vUEc2di1ObkhWTzVEUm0wSEw0R0t6dmpaNFNscnJGZThXTHg2a0pKcHNiZ2tJWEZ1OFNFaW9jYTY3ZUl6VzNYQW5DVUViNlZud2M0dw?oc=5",
-    "title": "FactSet Research Systems: Valuation Multiple Is Too Cheap (NYSE:FDS) - seekingalpha.com",
-    "body": "FactSet Research Systems: Valuation Multiple Is Too Cheap (NYSE:FDS) seekingalpha.com",
-    "author": null,
-    "language": "en",
-    "ticker": "FDS",
-    "tickers_hint": [
-      "FDS"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "seekingalpha.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "seekingalpha.com",
-      "source_domain": "seekingalphacom.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "FDS"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "1203e3d0-e0f3-5009-bdc4-82bbc0ea4ce7",
-    "timestamp_utc": "2026-03-31T11:25:00+00:00",
-    "source": "kalkine_media",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWnJRTHdlRXpIMWd0THFVcmN4TTRSVW1oOW9JdHlnT2NweXpUNE84WFBMcFFxY1lLV3Frdzh0aHZJYnA4ejltQWdUN3VqOGtOd2RYWWJLOC1tWkpKaEZ1SVY0WTF1S0MwMkJ6REZrdmU2Q2dmUndpcUJwZXBPWml2ZDRQNGFZSHlVZ2FLcllwbkMxVlFyWFJfLWdVUmxtejUteFdNeFpmeGdhNTVkcXFfbzdrUTZ1R2djMUx4bmhB?oc=5",
-    "title": "FactSet (NYSE:FDS) Shows Financial Momentum Rising In Russell 1000 Index Stocks - Kalkine Media",
-    "body": "FactSet (NYSE:FDS) Shows Financial Momentum Rising In Russell 1000 Index Stocks Kalkine Media",
-    "author": null,
-    "language": "en",
-    "ticker": "FDS",
-    "tickers_hint": [
-      "FDS"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "kalkine media",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Kalkine Media",
-      "source_domain": "kalkinemedia.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "FDS"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.405,
+      "_channel": "google_broad"
+    }
   }
 ]

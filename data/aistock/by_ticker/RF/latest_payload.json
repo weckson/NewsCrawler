@@ -2,41 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "91558bd6-8090-5f99-ad45-a8d3ca15c0ab",
-      "timestamp_utc": "2026-04-01T00:19:28+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/RFAI/technical",
-      "title": "RFAI Technical Analysis & Stock Price Forecast - Intellectia AI",
-      "body": "RFAI Technical Analysis & Stock Price Forecast Intellectia AI",
-      "author": null,
-      "language": "en",
-      "ticker": "RF",
-      "tickers_hint": [
-        "RF"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "intellectia ai",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "RF"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "03fd16a0-e29a-53cf-9698-480ecad0769a",
-      "timestamp_utc": "2026-03-31T08:34:57+00:00",
+      "id": "3aaabfcb-d181-5ee6-9627-46f7d46745aa",
+      "timestamp_utc": "2026-04-07T07:26:15+00:00",
       "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8762228/morgan-stanley-lowers-price-target-for-rf-maintains-equalweight-rating-rf-stock-news",
-      "title": "Morgan Stanley Lowers Price Target for RF, Maintains Equal-Weigh - GuruFocus",
-      "body": "Morgan Stanley Lowers Price Target for RF, Maintains Equal-Weigh GuruFocus",
+      "url": "https://www.gurufocus.com/news/8779261/regions-financial-rf-analyst-rating-update-target-price-lowered-rf-stock-news?mobile=true",
+      "title": "Regions Financial (RF) Analyst Rating Update: Target Price Lowered | RF Stock News - GuruFocus",
+      "body": "Regions Financial (RF) Analyst Rating Update: Target Price Lowered | RF Stock News GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "RF",
@@ -45,117 +16,28 @@
       ],
       "source_quality": "low",
       "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "GuruFocus",
         "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
         "event_origin": "news",
-        "query_tickers": [
-          "RF"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "44b293a9-ad8f-5efb-b84a-1455b5e67a80",
-      "timestamp_utc": "2026-03-31T23:17:22+00:00",
-      "source": "defense_world",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPajhIYWEycGd5WXZobmY5SnlmaUo0WExsYVdXaUVCVlMzNUMydVV2U3k2NTlQdDRfTktwTDN0MFhaWmNLSGlCVTA3aFFTa3dXMHNjdmdmLVdMOG1PNjBYX3lOdHdkZHdReXdZWVoweWRaRFNZc3hoSXU3Mm9LU2ZVSDRFZzNTZEV6U29WSzNJdjBFZW84MmNiM0xmdjhnNWxSNllUSnk5NmZ0bVdTUDlLa0dCOWNURGFhYnlHUEdtbk5nVjhXVkdzSWsyYjhMWGxxR0xmem5kMVlYNEE?oc=5",
-      "title": "21,711 Shares in Regions Financial Corporation $RF Acquired by Burns Matteson Capital Management LLC - Defense World",
-      "body": "21,711 Shares in Regions Financial Corporation $RF Acquired by Burns Matteson Capital Management LLC Defense World",
-      "author": null,
-      "language": "en",
-      "ticker": "RF",
-      "tickers_hint": [
-        "RF"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "defense world",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Defense World",
-        "source_domain": "defenseworld.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "RF"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "3ae2ddd3-6cc6-57db-9a85-c28593163919",
-      "timestamp_utc": "2026-03-31T07:22:51+00:00",
-      "source": "gurufocus",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPandVZTN2dVFrWlBJWEZBQmVYRUZUczJTb0xCSldsSzJEOGRxb0xLSXJGTEV2dFZWVXcwN1o5WmdlX1BJeFVFSUNSYnpGcE9lNjNGenlyUGVEdkg5bkNLLVZRb3BLbDJpeDBnSjdyeFlLZGNWellUYzBKR0NERWxtT3dJMGVacVphRE5GQUM1bVZMdjR6VkdwMEZlVldzUklGbFR1aUpZX1c?oc=5",
-      "title": "Regions Financial Corp (RF) Stock Price Up 2.42% on Mar 31 - GuruFocus",
-      "body": "Regions Financial Corp (RF) Stock Price Up 2.42% on Mar 31 GuruFocus",
-      "author": null,
-      "language": "en",
-      "ticker": "RF",
-      "tickers_hint": [
-        "RF"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "RF"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.445,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "91558bd6-8090-5f99-ad45-a8d3ca15c0ab",
-      "timestamp_utc": "2026-04-01T00:19:28+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/RFAI/technical",
-      "title": "RFAI Technical Analysis & Stock Price Forecast - Intellectia AI",
-      "body": "RFAI Technical Analysis & Stock Price Forecast Intellectia AI",
-      "author": null,
-      "language": "en",
-      "ticker": "RF",
-      "tickers_hint": [
-        "RF"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "intellectia ai",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "RF"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "03fd16a0-e29a-53cf-9698-480ecad0769a",
-      "timestamp_utc": "2026-03-31T08:34:57+00:00",
+      "id": "3aaabfcb-d181-5ee6-9627-46f7d46745aa",
+      "timestamp_utc": "2026-04-07T07:26:15+00:00",
       "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8762228/morgan-stanley-lowers-price-target-for-rf-maintains-equalweight-rating-rf-stock-news",
-      "title": "Morgan Stanley Lowers Price Target for RF, Maintains Equal-Weigh - GuruFocus",
-      "body": "Morgan Stanley Lowers Price Target for RF, Maintains Equal-Weigh GuruFocus",
+      "url": "https://www.gurufocus.com/news/8779261/regions-financial-rf-analyst-rating-update-target-price-lowered-rf-stock-news?mobile=true",
+      "title": "Regions Financial (RF) Analyst Rating Update: Target Price Lowered | RF Stock News - GuruFocus",
+      "body": "Regions Financial (RF) Analyst Rating Update: Target Price Lowered | RF Stock News GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "RF",
@@ -164,77 +46,17 @@
       ],
       "source_quality": "low",
       "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "GuruFocus",
         "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
         "event_origin": "news",
-        "query_tickers": [
-          "RF"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "44b293a9-ad8f-5efb-b84a-1455b5e67a80",
-      "timestamp_utc": "2026-03-31T23:17:22+00:00",
-      "source": "defense_world",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPajhIYWEycGd5WXZobmY5SnlmaUo0WExsYVdXaUVCVlMzNUMydVV2U3k2NTlQdDRfTktwTDN0MFhaWmNLSGlCVTA3aFFTa3dXMHNjdmdmLVdMOG1PNjBYX3lOdHdkZHdReXdZWVoweWRaRFNZc3hoSXU3Mm9LU2ZVSDRFZzNTZEV6U29WSzNJdjBFZW84MmNiM0xmdjhnNWxSNllUSnk5NmZ0bVdTUDlLa0dCOWNURGFhYnlHUEdtbk5nVjhXVkdzSWsyYjhMWGxxR0xmem5kMVlYNEE?oc=5",
-      "title": "21,711 Shares in Regions Financial Corporation $RF Acquired by Burns Matteson Capital Management LLC - Defense World",
-      "body": "21,711 Shares in Regions Financial Corporation $RF Acquired by Burns Matteson Capital Management LLC Defense World",
-      "author": null,
-      "language": "en",
-      "ticker": "RF",
-      "tickers_hint": [
-        "RF"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "defense world",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Defense World",
-        "source_domain": "defenseworld.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "RF"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "3ae2ddd3-6cc6-57db-9a85-c28593163919",
-      "timestamp_utc": "2026-03-31T07:22:51+00:00",
-      "source": "gurufocus",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPandVZTN2dVFrWlBJWEZBQmVYRUZUczJTb0xCSldsSzJEOGRxb0xLSXJGTEV2dFZWVXcwN1o5WmdlX1BJeFVFSUNSYnpGcE9lNjNGenlyUGVEdkg5bkNLLVZRb3BLbDJpeDBnSjdyeFlLZGNWellUYzBKR0NERWxtT3dJMGVacVphRE5GQUM1bVZMdjR6VkdwMEZlVldzUklGbFR1aUpZX1c?oc=5",
-      "title": "Regions Financial Corp (RF) Stock Price Up 2.42% on Mar 31 - GuruFocus",
-      "body": "Regions Financial Corp (RF) Stock Price Up 2.42% on Mar 31 GuruFocus",
-      "author": null,
-      "language": "en",
-      "ticker": "RF",
-      "tickers_hint": [
-        "RF"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "RF"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.445,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

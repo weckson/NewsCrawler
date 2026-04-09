@@ -1,118 +1,59 @@
 [
   {
-    "id": "94223ecf-b519-559a-8c81-23d0e89f6e59",
-    "timestamp_utc": "2026-03-31T11:02:36+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWnZ6bUNIRl9TTFJtaU1HT3lEOHpTYk9sNVp1RDJCVjVha2w4RzMwN29uVmQxclpYcVJRTmcyU1RZQ2xtbmFzVnlaUXdVbnZ6U1pJWVBSb181TWt3MEFtOVJqWi0ydTg4QlZtQzAxd2cwU1FOVm1NMzVzY0ZRVmEzc0tHak1XVjNIaG5nM1hDS1RPNTFBWkVXbDZ6enNnMC13TDdWV29KYmdCd05DdnFlcnpuZlFCVWl0Qm95SkxB?oc=5",
-    "title": "Thermo Fisher (NYSE: TMO) director receives 66 Phantom Stock Units as deferred pay - Stock Titan",
-    "body": "Thermo Fisher (NYSE: TMO) director receives 66 Phantom Stock Units as deferred pay Stock Titan",
+    "id": "7fc6e85d-d2df-54a4-bb95-fbcb680ddd72",
+    "timestamp_utc": "2026-04-07T22:24:16+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LWGpWcF9sTEYxRWlUSy1RNHNMMmt3bDFMdXMtMnJZMzc5VmpWV3ZiMHNBTmJmRVpQaThGOHZYampWYnlnZVhRdENmRXg1NXFY?oc=5",
+    "title": "Thermo Fisher Scientific Inc. (TMO) stock price, news, quote and history - Yahoo Finance UK",
+    "body": "Thermo Fisher Scientific Inc. (TMO) stock price, news, quote and history Yahoo Finance UK",
     "author": null,
     "language": "en",
     "ticker": "TMO",
     "tickers_hint": [
       "TMO"
     ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "Yahoo Finance UK",
+      "source_domain": "finance.yahoo.com",
       "event_origin": "news",
-      "query_tickers": [
-        "TMO"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.62,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "1ba06c5a-fe9d-578f-90a5-d557a81367a0",
-    "timestamp_utc": "2026-03-31T11:01:14+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbjlfOXZ1aHNUNXRQcFNqRURFNlF4VmtXUnN6N1hObG1CaGlRemJod0trdWh5YXFwVDdEaVdtOEcxTFg4a29XWlA4ZWhpWF94UVJ1cW4tZDNIQWNfT0w5Sm1UVkFBQmlueDRoM0VDTU1IM0swY3NiYVpZZ2lIdndaVm4zQTY0dl96Q0Q5NTVhd1V6bUhWaG5Ud0JuZkt4QmhhSVVhcUhSc1ZGeHFMampuSEpxekZhTk0zby1aUExR?oc=5",
-    "title": "Thermo Fisher (NYSE: TMO) director granted 66.02 phantom stock units - Stock Titan",
-    "body": "Thermo Fisher (NYSE: TMO) director granted 66.02 phantom stock units Stock Titan",
+    "id": "a9c3d556-6638-5687-a4b2-b31f65f81cc6",
+    "timestamp_utc": "2026-04-07T02:27:26+00:00",
+    "source": "zacks",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOTQ4alJGYzA1MkFpXzNJaDV5QlNBTUpQQWVVcWVmZUU2ZzZ2YmxxVVdrbEFHVEtfNXhQdkxoQXFyc3dyZmtBZFdPdWdMUXF4RHFEaFoxaExEaDVNSTF3d3RiYUVDeEhROUpOamctUmZtNHhNb3hFbDltaFVSTHpySHB6a19JckZsRUZucEJzNFBWZGhyaTJuQjA4dkJnMnA3d0E?oc=5",
+    "title": "TMO Stock May Benefit From New Gibco CTS Portfolio Addition - Zacks Investment Research",
+    "body": "TMO Stock May Benefit From New Gibco CTS Portfolio Addition Zacks Investment Research",
     "author": null,
     "language": "en",
     "ticker": "TMO",
     "tickers_hint": [
       "TMO"
     ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
+    "source_quality": "high",
+    "publisher_raw": "zacks.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "Zacks Investment Research",
+      "source_domain": "zacks.com",
       "event_origin": "news",
-      "query_tickers": [
-        "TMO"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "02f6843a-727c-596a-a82f-86747f534e9a",
-    "timestamp_utc": "2026-03-31T10:59:52+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVENzQWg5MzA0TlF3SFh3RDR5RVFMUU5pbXlWeTBGeTBVeE5FbUNFcUczc0tnZDE3S0pLRzJhc3oxMWd0R09xbS1jMWlRUDlxRE9UUVhUZ3JVTWlka2FURklkY19MUGZRaEdtNE0zUE1GMmFyd01sa1ZNQVlnTzl5Z1h0YTE2YlM5S29OT2VfU0tYVVhWV19jOE9FRGZMVTBWRXMwdlFFbEpLZVVuTXBDNlQtQnFSQTNKSW9xY0Jn?oc=5",
-    "title": "Thermo Fisher (NYSE: TMO) director adds 66 Phantom Stock Units under deferred plan - Stock Titan",
-    "body": "Thermo Fisher (NYSE: TMO) director adds 66 Phantom Stock Units under deferred plan Stock Titan",
-    "author": null,
-    "language": "en",
-    "ticker": "TMO",
-    "tickers_hint": [
-      "TMO"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
       "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "TMO"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "9725de11-8aad-526f-9361-9d70d7d3916d",
-    "timestamp_utc": "2026-03-31T10:58:33+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRjlneGNjWjFEeGZ3OE5Tbm1Cb2dSemlFZWZYcE1IRXllT0c4eGlKQUwwMWR0Q3VQUEdLdkhlazBKMXNnSUZqaW52RzNMOGRZN0RKanZURzRCMmtoS3dCb1dlSXYxaXowd3JhZHJOZXNYd0s1a3JIZEVOTWREVWlNUEFUZEUtcVh4R0NnenJsUG5pd18wOG93U0FCc0ZYaS05MERKb3lQRzA0SUd0ODlydGRGTDJEaTN2Yl9vRnZR?oc=5",
-    "title": "Thermo Fisher (NYSE: TMO) director adds phantom stock units grant - Stock Titan",
-    "body": "Thermo Fisher (NYSE: TMO) director adds phantom stock units grant Stock Titan",
-    "author": null,
-    "language": "en",
-    "ticker": "TMO",
-    "tickers_hint": [
-      "TMO"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "TMO"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.61,
+      "_channel": "google_broad",
+      "_alt_sources": [
+        "TradingView"
+      ]
+    }
   }
 ]

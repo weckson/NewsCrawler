@@ -2,12 +2,206 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "2f94f3c9-c9be-58fa-997c-93260ff7034d",
-      "timestamp_utc": "2026-04-03T08:17:50+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-6788-shares-in-applied-materials-inc-amat-acquired-by-dorato-capital-management-2026-04-03/",
-      "title": "6,788 Shares in Applied Materials, Inc. $AMAT Acquired by Dorato Capital Management - MarketBeat",
-      "body": "6,788 Shares in Applied Materials, Inc. $AMAT Acquired by Dorato Capital Management MarketBeat",
+      "id": "9ff13700-110e-5d37-8023-36dd71b7318d",
+      "timestamp_utc": "2026-04-08T06:31:14+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/applied-materials-stock-amat-surges-on-new-chipmaking-systems-for-the-angstrom-era",
+      "title": "Applied Materials Stock (AMAT) Surges on New Chipmaking Systems for the Angstrom Era - TipRanks",
+      "body": "Applied Materials Stock (AMAT) Surges on New Chipmaking Systems for the Angstrom Era TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.7000000000000001,
+        "quality_score": 0.685,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "b666c253-1ffe-50c2-8789-4c584af73966",
+      "timestamp_utc": "2026-04-08T05:10:23+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/news/4573357-applied-materials-surges-as-it-unveils-new-chipmaking-systems",
+      "title": "Applied Materials surges as it unveils new chipmaking systems - Seeking Alpha",
+      "body": "Applied Materials (AMAT) shares surged 8% during Wednesday trading after the semiconductor equipment manufacturer revealed a pair of new chipmaking tools designed to operate with atomic-level precision for the new wave of AI chips.",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "event_origin": "news",
+        "relevance": 0.6,
+        "quality_score": 0.66,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "4daf75d7-5db3-5936-8d51-78f7d9eb8718",
+      "timestamp_utc": "2026-04-08T04:53:27+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbEV5QzBWQmE3bFBKbDJtM3J2WVc0SVB4QzliRlREZTJtdk9wblhNa21NVVlDaG5RYk4wSW1aSGFyaDNrYy01N0pNNGYzYy1vU1ozekdJbWZCWFJkdjZ6UzRqVnZoQVhicUNnbVY3bDViVVJBd2VZZmdCWEtaT0FmbDhUbHBRY0RrZVllWm9xOUxQQWJiMExnbk9EbWRZcVAtMnRRd2RiY2E4WHRLUjM2NXlCTjc?oc=5",
+      "title": "What's Going On With Applied Materials Stock Wednesday? - Benzinga",
+      "body": "What's Going On With Applied Materials Stock Wednesday? Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.63,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
+    },
+    {
+      "id": "ef4cea07-dc5f-59c6-b47e-465db3e3f87d",
+      "timestamp_utc": "2026-04-07T23:56:59+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-applied-materials-amat-unstoppable-095659848.html",
+      "title": "Here’s What Makes Applied Materials (AMAT) an Unstoppable Technology Stock to Buy Now - Yahoo Finance",
+      "body": "Here’s What Makes Applied Materials (AMAT) an Unstoppable Technology Stock to Buy Now Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.625,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "63b790e4-28a0-5462-976d-ed15fc711909",
+      "timestamp_utc": "2026-04-08T10:30:00+00:00",
+      "source": "ibd",
+      "url": "https://www.investors.com/news/technology/amat-stock-applied-materials-new-gear-ai-chips/",
+      "title": "Applied Materials Debuts New Gear For Making AI Chips - Investor's Business Daily",
+      "body": "About Us Reviews Site Map Your Ad Choices Advertising Contact us IBD Stock Charts IBD Stock Checkup Stock Quotes Stock Market Today The Big Picture My Stock Lists Terms of Use Privacy Notice Accessibility",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investors.com",
+      "trust_tier": 2,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Investor's Business Daily",
+        "source_domain": "investors.com",
+        "event_origin": "news",
+        "relevance": 0.6,
+        "quality_score": 0.555,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "fdd9ab05-4874-524e-bb26-e8e96456701b",
+      "timestamp_utc": "2026-04-08T08:25:46+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRXd0cktqOHRQUHhwT1pTUlhUT0lmaVB0X2lzYjJLVzRlZDVXSy1IYmkwaGFRRXFkS2puUUtMTXl5UGF4b0Z5b2pCRENvWWU4VHVGNUxiNUNYQkJ1TVRfN1FOUURiT1hyUExCRGF4VUZkcVNMamlmQkZUQjRaVG5TLTBiVUtzeU9VM3NzM3FicjdqSVIxNGE5dTBKN1NsU1hHVndmY0pSRmNfRE9wVHBMU21UYTBPN2lvVTFwOTFicGh1dmtSWHpCbWpGWVZCNWlLeGo2QUNVaEJQRVl2UV9Wb0FMVkRITUhGYWxwbzZWTTgxVXc4ZXVYU0ltSHhNQ2lNd2RvWHQwR0wxU0U?oc=5",
+      "title": "Teradyne, Applied Materials, Monolithic Power Systems, Western Digital, and Semtech Shares Skyrocket, What You Need To Know - TradingView",
+      "body": "Teradyne, Applied Materials, Monolithic Power Systems, Western Digital, and Semtech Shares Skyrocket, What You Need To Know TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT",
+        "MPWR",
+        "TER"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.545,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "489d5052-9826-59a6-a1a7-aa2eb18e71cc",
+      "timestamp_utc": "2026-04-08T05:02:31+00:00",
+      "source": "investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdEI2aXFUcm40dllXZ3lvOElPZmNiY25DMXlhcmNMVXUtdkVNaTFpN2pkRjVDeWtINWQ0R2R1cXlQT0VHaGFhMnRhcUFWMFcybnd3a0JyZF8xS0cyZWNTR3JOUkd0bWVZck0xUzhfUFFiWDdJY3J5RVNSeXlDX3MtYzB6ajVPQ3FfUXRqc0pianQyanppa3QzQ2ttQzZOYmNqYXdaNlJBcmNwSW0tNlFGUzhDNmZld1A0eHl3VV9ubnlDNWFGeUppYVZCb3ZzdzBw?oc=5",
+      "title": "Lam Research, Applied Materials among market cap stock movers on Wednesday - Investing.com",
+      "body": "Lam Research, Applied Materials among market cap stock movers on Wednesday Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.53,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "23f63ba7-adbd-58e4-adce-6ff3a997a8a2",
+      "timestamp_utc": "2026-04-07T15:51:34+00:00",
+      "source": "stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/applied-materials-stock-shot-up-today-everything-to-know-about-its-advanced-chipmaking-systems/cZJO6IpRIA5",
+      "title": "Applied Materials Stock Shot Up 7% Today – Everything To Know About Its Advanced Chipmaking Systems - Stocktwits",
+      "body": "Applied Materials Stock Shot Up 7% Today – Everything To Know About Its Advanced Chipmaking Systems Stocktwits",
       "author": null,
       "language": "en",
       "ticker": "AMAT",
@@ -15,31 +209,223 @@
         "AMAT"
       ],
       "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "publisher_raw": "stocktwits",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
+        "source_name": "Stocktwits",
+        "source_domain": "stocktwits.com",
         "event_origin": "news",
-        "query_tickers": [
-          "AMAT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4475,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "2f94f3c9-c9be-58fa-997c-93260ff7034d",
-      "timestamp_utc": "2026-04-03T08:17:50+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-6788-shares-in-applied-materials-inc-amat-acquired-by-dorato-capital-management-2026-04-03/",
-      "title": "6,788 Shares in Applied Materials, Inc. $AMAT Acquired by Dorato Capital Management - MarketBeat",
-      "body": "6,788 Shares in Applied Materials, Inc. $AMAT Acquired by Dorato Capital Management MarketBeat",
+      "id": "9ff13700-110e-5d37-8023-36dd71b7318d",
+      "timestamp_utc": "2026-04-08T06:31:14+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/applied-materials-stock-amat-surges-on-new-chipmaking-systems-for-the-angstrom-era",
+      "title": "Applied Materials Stock (AMAT) Surges on New Chipmaking Systems for the Angstrom Era - TipRanks",
+      "body": "Applied Materials Stock (AMAT) Surges on New Chipmaking Systems for the Angstrom Era TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.7000000000000001,
+        "quality_score": 0.685,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "b666c253-1ffe-50c2-8789-4c584af73966",
+      "timestamp_utc": "2026-04-08T05:10:23+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/news/4573357-applied-materials-surges-as-it-unveils-new-chipmaking-systems",
+      "title": "Applied Materials surges as it unveils new chipmaking systems - Seeking Alpha",
+      "body": "Applied Materials (AMAT) shares surged 8% during Wednesday trading after the semiconductor equipment manufacturer revealed a pair of new chipmaking tools designed to operate with atomic-level precision for the new wave of AI chips.",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "event_origin": "news",
+        "relevance": 0.6,
+        "quality_score": 0.66,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "4daf75d7-5db3-5936-8d51-78f7d9eb8718",
+      "timestamp_utc": "2026-04-08T04:53:27+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbEV5QzBWQmE3bFBKbDJtM3J2WVc0SVB4QzliRlREZTJtdk9wblhNa21NVVlDaG5RYk4wSW1aSGFyaDNrYy01N0pNNGYzYy1vU1ozekdJbWZCWFJkdjZ6UzRqVnZoQVhicUNnbVY3bDViVVJBd2VZZmdCWEtaT0FmbDhUbHBRY0RrZVllWm9xOUxQQWJiMExnbk9EbWRZcVAtMnRRd2RiY2E4WHRLUjM2NXlCTjc?oc=5",
+      "title": "What's Going On With Applied Materials Stock Wednesday? - Benzinga",
+      "body": "What's Going On With Applied Materials Stock Wednesday? Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.63,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
+    },
+    {
+      "id": "ef4cea07-dc5f-59c6-b47e-465db3e3f87d",
+      "timestamp_utc": "2026-04-07T23:56:59+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-applied-materials-amat-unstoppable-095659848.html",
+      "title": "Here’s What Makes Applied Materials (AMAT) an Unstoppable Technology Stock to Buy Now - Yahoo Finance",
+      "body": "Here’s What Makes Applied Materials (AMAT) an Unstoppable Technology Stock to Buy Now Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.625,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "63b790e4-28a0-5462-976d-ed15fc711909",
+      "timestamp_utc": "2026-04-08T10:30:00+00:00",
+      "source": "ibd",
+      "url": "https://www.investors.com/news/technology/amat-stock-applied-materials-new-gear-ai-chips/",
+      "title": "Applied Materials Debuts New Gear For Making AI Chips - Investor's Business Daily",
+      "body": "About Us Reviews Site Map Your Ad Choices Advertising Contact us IBD Stock Charts IBD Stock Checkup Stock Quotes Stock Market Today The Big Picture My Stock Lists Terms of Use Privacy Notice Accessibility",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investors.com",
+      "trust_tier": 2,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Investor's Business Daily",
+        "source_domain": "investors.com",
+        "event_origin": "news",
+        "relevance": 0.6,
+        "quality_score": 0.555,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "fdd9ab05-4874-524e-bb26-e8e96456701b",
+      "timestamp_utc": "2026-04-08T08:25:46+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRXd0cktqOHRQUHhwT1pTUlhUT0lmaVB0X2lzYjJLVzRlZDVXSy1IYmkwaGFRRXFkS2puUUtMTXl5UGF4b0Z5b2pCRENvWWU4VHVGNUxiNUNYQkJ1TVRfN1FOUURiT1hyUExCRGF4VUZkcVNMamlmQkZUQjRaVG5TLTBiVUtzeU9VM3NzM3FicjdqSVIxNGE5dTBKN1NsU1hHVndmY0pSRmNfRE9wVHBMU21UYTBPN2lvVTFwOTFicGh1dmtSWHpCbWpGWVZCNWlLeGo2QUNVaEJQRVl2UV9Wb0FMVkRITUhGYWxwbzZWTTgxVXc4ZXVYU0ltSHhNQ2lNd2RvWHQwR0wxU0U?oc=5",
+      "title": "Teradyne, Applied Materials, Monolithic Power Systems, Western Digital, and Semtech Shares Skyrocket, What You Need To Know - TradingView",
+      "body": "Teradyne, Applied Materials, Monolithic Power Systems, Western Digital, and Semtech Shares Skyrocket, What You Need To Know TradingView",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT",
+        "MPWR",
+        "TER"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.545,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "489d5052-9826-59a6-a1a7-aa2eb18e71cc",
+      "timestamp_utc": "2026-04-08T05:02:31+00:00",
+      "source": "investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdEI2aXFUcm40dllXZ3lvOElPZmNiY25DMXlhcmNMVXUtdkVNaTFpN2pkRjVDeWtINWQ0R2R1cXlQT0VHaGFhMnRhcUFWMFcybnd3a0JyZF8xS0cyZWNTR3JOUkd0bWVZck0xUzhfUFFiWDdJY3J5RVNSeXlDX3MtYzB6ajVPQ3FfUXRqc0pianQyanppa3QzQ2ttQzZOYmNqYXdaNlJBcmNwSW0tNlFGUzhDNmZld1A0eHl3VV9ubnlDNWFGeUppYVZCb3ZzdzBw?oc=5",
+      "title": "Lam Research, Applied Materials among market cap stock movers on Wednesday - Investing.com",
+      "body": "Lam Research, Applied Materials among market cap stock movers on Wednesday Investing.com",
+      "author": null,
+      "language": "en",
+      "ticker": "AMAT",
+      "tickers_hint": [
+        "AMAT"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.53,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "23f63ba7-adbd-58e4-adce-6ff3a997a8a2",
+      "timestamp_utc": "2026-04-07T15:51:34+00:00",
+      "source": "stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/applied-materials-stock-shot-up-today-everything-to-know-about-its-advanced-chipmaking-systems/cZJO6IpRIA5",
+      "title": "Applied Materials Stock Shot Up 7% Today – Everything To Know About Its Advanced Chipmaking Systems - Stocktwits",
+      "body": "Applied Materials Stock Shot Up 7% Today – Everything To Know About Its Advanced Chipmaking Systems Stocktwits",
       "author": null,
       "language": "en",
       "ticker": "AMAT",
@@ -47,20 +433,18 @@
         "AMAT"
       ],
       "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "publisher_raw": "stocktwits",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
+        "source_name": "Stocktwits",
+        "source_domain": "stocktwits.com",
         "event_origin": "news",
-        "query_tickers": [
-          "AMAT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4475,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

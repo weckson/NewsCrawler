@@ -1,31 +1,29 @@
 [
   {
-    "id": "7603be3f-f6fc-5806-8719-5b39226eff84",
-    "timestamp_utc": "2026-04-03T01:51:54+00:00",
-    "source": "za.investing.com",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOTRYUmhsUWRWSUtUalJGbU5iYk1EclVLMUxNYnhndU5JaVpiSEd1cmxCeFM5a0VpcmI3WnhCai1qRVI5OXhYWXJVaXMzYW1ZdXR5RFFiZnUydFBEQTctUENMRWFBRzdWZjBibEpvOFdidm9TODZPeUlsbDZfSk02SlllSFgtTVowekVwd05EbDQtQlJndWVXRHZ3cmNSeXBmb2MwUW96Y2Frb2RrakE?oc=5",
-    "title": "Realty income EVP Bushore sells $461k in stock By Investing.com - za.investing.com",
-    "body": "Realty income EVP Bushore sells $461k in stock By Investing.com za.investing.com",
+    "id": "eaa43238-322b-5bcc-8484-672c9ad9b800",
+    "timestamp_utc": "2026-04-08T11:39:13+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_3273_QuantitativeReport_1775606400000",
+    "title": "Realty Income Corporation (O) Stock Forecasts - Yahoo Finance",
+    "body": "Realty Income Corporation (O) Stock Forecasts Yahoo Finance",
     "author": null,
     "language": "en",
     "ticker": "O",
     "tickers_hint": [
       "O"
     ],
-    "source_quality": "low",
-    "publisher_raw": "za.investing.com",
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "za.investing.com",
-      "source_domain": "zainvestingcom.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
       "event_origin": "news",
-      "query_tickers": [
-        "O"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6000000000000001,
+      "quality_score": 0.651,
+      "_channel": "google_broad"
+    }
   }
 ]

@@ -1,69 +1,11 @@
 [
   {
-    "id": "82c2d25d-5b27-5a1f-a14b-54f2fbba8035",
-    "timestamp_utc": "2026-04-04T10:09:27+00:00",
-    "source": "yahoo_finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-raises-nvidia-100927506.html",
-    "title": "5-Star Analyst Raises Nvidia Stock (NVDA) Forecast as Demand for ‘Hopper and Blackwell AI-Chips Likely to Outstrip Supply’ - Yahoo Finance",
-    "body": "5-Star Analyst Raises Nvidia Stock (NVDA) Forecast as Demand for ‘Hopper and Blackwell AI-Chips Likely to Outstrip Supply’ Yahoo Finance",
-    "author": null,
-    "language": "en",
-    "ticker": "NVDA",
-    "tickers_hint": [
-      "NVDA"
-    ],
-    "source_quality": "high",
-    "publisher_raw": "finance.yahoo.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance",
-      "source_domain": "finance.yahoo.com",
-      "trust_tier": 3,
-      "relevance": 0.7000000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "NVDA"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "bd92e10d-ac28-57d8-a0b3-61ac73d18c85",
-    "timestamp_utc": "2026-04-03T09:00:00+00:00",
-    "source": "motley_fool",
-    "url": "https://www.fool.com/investing/2026/04/03/nvidia-my-predictions-for-second-quarter/",
-    "title": "Nvidia Stumbled in the First Quarter: Here are My Top 3 Nvidia Predictions for the Second Quarter - The Motley Fool",
-    "body": "Nvidia (NVDA +0.87%) has been a surefire ticket to gains for investors for quite some time. The artificial intelligence (AI) chip giant has increased by more than 500% over the past three years, and this isn't just due to optimism about future earnings; Nvidia has been delivering AI-driven growth throughout the AI boom, with revenue and net income climbing in the double and triple digits.\n\nBut in the first quarter of this year, Nvidia stock fell into the doldrums, declining about 6%. This isn't a deep decline, but it represents a clear shift in momentum. The reasons behind this movement have been varied, some directly related to Nvidia and others more closely related to the general investing environment. For example, investors have wondered whether the pace of AI spending will continue at current levels -- this spending is a key revenue driver for Nvidia. And investors have also worried about geopolitical instability and the war in Iran, elements that weigh on the overall economy.\n\nNow, as we begin the second quarter of the year, it's a great time to give this once hot stock a second look and consider what's to come. Here are my top three Nvidia predictions for the second quarter.",
-    "author": null,
-    "language": "en",
-    "ticker": "NVDA",
-    "tickers_hint": [
-      "NVDA"
-    ],
-    "source_quality": "high",
-    "publisher_raw": "fool.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "The Motley Fool",
-      "source_domain": "fool.com",
-      "trust_tier": 3,
-      "relevance": 0.6500000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "NVDA"
-      ],
-      "body_kind": "article_text"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "83bb8ac4-b562-5a5e-a360-9fa385e018d3",
-    "timestamp_utc": "2026-04-03T13:47:02+00:00",
+    "id": "7d367a62-ca65-5d9c-9f98-39e895e81c2d",
+    "timestamp_utc": "2026-04-09T02:54:09+00:00",
     "source": "tipranks",
-    "url": "https://www.tipranks.com/news/nvidia-stock-forecast-how-high-or-low-can-nvda-stock-go",
-    "title": "Nvidia Stock Forecast — How High or Low Can NVDA Stock Go? - TipRanks",
-    "body": "Nvidia Stock Forecast — How High or Low Can NVDA Stock Go? TipRanks",
+    "url": "https://www.tipranks.com/news/nvda-stock-forecast-is-nvidia-losing-its-ai-mojo-amid-rival-surge",
+    "title": "NVDA Stock Forecast: Is Nvidia Losing Its AI Mojo amid Rival Surge? - TipRanks",
+    "body": "NVDA Stock Forecast: Is Nvidia Losing Its AI Mojo amid Rival Surge? TipRanks",
     "author": null,
     "language": "en",
     "ticker": "NVDA",
@@ -72,27 +14,52 @@
     ],
     "source_quality": "high",
     "publisher_raw": "tipranks.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "TipRanks",
       "source_domain": "tipranks.com",
-      "trust_tier": 3,
-      "relevance": 0.6000000000000001,
       "event_origin": "news",
-      "query_tickers": [
-        "NVDA"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.7000000000000001,
+      "quality_score": 0.74,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "582c33b8-59d7-5765-914a-a54eb1df6d36",
-    "timestamp_utc": "2026-04-03T20:31:11+00:00",
+    "id": "ac892aee-0c13-543c-aa1a-9ab03e1825fd",
+    "timestamp_utc": "2026-04-08T02:53:18+00:00",
+    "source": "tipranks",
+    "url": "https://www.tipranks.com/news/ai-powerhouse-firmus-rockets-to-5-5-billion-valuation-with-nvidia-nvda-backing",
+    "title": "AI Powerhouse Firmus Rockets to $5.5 Billion Valuation with Nvidia (NVDA) Backing - TipRanks",
+    "body": "AI Powerhouse Firmus Rockets to $5.5 Billion Valuation with Nvidia (NVDA) Backing TipRanks",
+    "author": null,
+    "language": "en",
+    "ticker": "NVDA",
+    "tickers_hint": [
+      "NVDA"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "tipranks.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.7075,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "017235e3-9c4e-5518-8dd5-c2ad76ff77c1",
+    "timestamp_utc": "2026-04-09T01:49:45+00:00",
     "source": "benzinga",
-    "url": "https://www.benzinga.com/news/topics/26/04/51647827/every-industrial-company-will-become-a-robotics-company-nvidia-ceo-jensen-huang-says",
-    "title": "'Every Industrial Company Will Become A Robotics Company,' Nvidia CEO Jensen Huang Says - Benzinga",
-    "body": "'Every Industrial Company Will Become A Robotics Company,' Nvidia CEO Jensen Huang Says Benzinga",
+    "url": "https://www.benzinga.com/markets/tech/26/04/51726550/nvidia-pushes-telcos-into-ai-era-with-new-grid-vision",
+    "title": "What's Going On With Nvidia Stock Thursday? - NVIDIA (NASDAQ:NVDA) - Benzinga",
+    "body": "What's Going On With Nvidia Stock Thursday? - NVIDIA (NASDAQ:NVDA) Benzinga",
     "author": null,
     "language": "en",
     "ticker": "NVDA",
@@ -101,56 +68,133 @@
     ],
     "source_quality": "high",
     "publisher_raw": "benzinga.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_benzinga",
       "source_name": "Benzinga",
       "source_domain": "benzinga.com",
-      "trust_tier": 3,
-      "relevance": 0.55,
       "event_origin": "news",
-      "query_tickers": [
-        "NVDA"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6000000000000001,
+      "quality_score": 0.685,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "25bb9022-ec4b-525c-9954-16fdb103e397",
-    "timestamp_utc": "2026-04-04T20:30:00+00:00",
-    "source": "analytics_insight",
-    "url": "https://www.analyticsinsight.net/news/can-nvidias-1-trillion-ai-chip-outlook-push-nvda-stock-to-new-highs-by-2027",
-    "title": "Can NVIDIA’s $1 Trillion AI Chip Outlook Push NVDA Stock to New Highs by 2027? - Analytics Insight",
-    "body": "Can NVIDIA’s $1 Trillion AI Chip Outlook Push NVDA Stock to New Highs by 2027? Analytics Insight",
+    "id": "accea3a7-1e15-511b-a027-26d4d76d2ffe",
+    "timestamp_utc": "2026-04-08T06:31:14+00:00",
+    "source": "tipranks",
+    "url": "https://www.tipranks.com/news/intelligent-alpha-ceo-calls-nvidia-nvda-and-googl-stocks-the-safest-ai-bets-right-now",
+    "title": "Intelligent Alpha CEO Calls Nvidia (NVDA) and GOOGL Stocks the “Safest AI Bets” Right Now - TipRanks",
+    "body": "Intelligent Alpha CEO Calls Nvidia (NVDA) and GOOGL Stocks the “Safest AI Bets” Right Now TipRanks",
     "author": null,
     "language": "en",
     "ticker": "NVDA",
     "tickers_hint": [
       "NVDA"
     ],
-    "source_quality": "low",
-    "publisher_raw": "analytics insight",
+    "source_quality": "high",
+    "publisher_raw": "tipranks.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Analytics Insight",
-      "source_domain": "analyticsinsight.com",
-      "trust_tier": 1,
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
+      "event_origin": "news",
       "relevance": 0.7000000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "NVDA"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.6775,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "ba7d4ca0-c59e-5d9b-8788-4544fc46c2fb",
-    "timestamp_utc": "2026-04-04T11:31:10+00:00",
-    "source": "finbold",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmxiWDNkTmx2N3R2dkw5RkV0Rkh0MzhQSkFFcVJ3QllLRmUtMFozbFBXbkp5LWVoZExCZ2pKQXB1Uy1CMUY3ZUtGM2ZPV0ZlWXEyOGNTdzVRSkhLQkFMUHVIcElxdlBDYWxtRkIxUDItZTE0V256M3JISWFpVWpGa1JxUTZFV3du?oc=5",
-    "title": "Trading expert sets date when Nvidia stock will crash to $110 - Finbold",
-    "body": "Trading expert sets date when Nvidia stock will crash to $110 Finbold",
+    "id": "84eae5aa-bcf0-5233-ae8e-e87edbdcbc23",
+    "timestamp_utc": "2026-04-08T01:20:00+00:00",
+    "source": "motley_fool",
+    "url": "https://www.fool.com/investing/2026/04/08/is-ai-gold-rush-over-warning-to-nvidia/",
+    "title": "Is the AI Gold Rush Over? Costco and Walmart Just Delivered a Sobering $163 Billion Warning to Shareholders of Nvidia, Palantir, and Other Red-Hot AI Stocks. - The Motley Fool",
+    "body": "Over the past three years, artificial intelligence (AI) stocks have driven overall market gains -- investors, from the smallest retail investor to billionaire hedge fund managers, have piled into these players. And it's very easy to understand why. AI promises to shake up the way many things are done, and in a positive way -- the technology may help companies gain efficiency, develop better products faster, and more. And all of this equals cost savings and revenue growth.\n\nSo investors rushed to get in on big AI names such as Nvidia (NVDA +2.23%), Palantir Technologies (PLTR 6.20%), and other companies playing a big role in the field. These two advanced more than 1,100% and 2,600%, respectively, over the past three calendar years.\n\nBut over the past few months, the mood in the stock market has changed. Investors, seeing valuations of AI stocks soar, began to worry about these levels -- and questioned whether they were sustainable. On top of this, turmoil in Iran and uncertainty about U.S. economic growth also weighed on investors' minds.\n\nAll of this hurt shares of AI players, including Nvidia and Palantir. So it's fair to ask: Is the AI gold rush over? Here, we may turn to a surprising source for some answers: Costco (COST 0.33%) and Walmart (WMT +3.89%). They recently delivered a particularly sobering warning to shareholders of Nvidia, Palantir, and the AI market in general.",
+    "author": null,
+    "language": "en",
+    "ticker": "NVDA",
+    "tickers_hint": [
+      "NVDA"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "fool.com",
+    "trust_tier": 3,
+    "body_kind": "article_text",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "The Motley Fool",
+      "source_domain": "fool.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.6775,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "18ac2576-8100-5b8a-bd6a-1af9cf3216d1",
+    "timestamp_utc": "2026-04-08T11:16:22+00:00",
+    "source": "seeking_alpha",
+    "url": "https://seekingalpha.com/article/4889352-the-market-forgot-nvidia-big-mistake",
+    "title": "The Market Forgot Nvidia: Big Mistake (NASDAQ:NVDA) - Seeking Alpha",
+    "body": "NVIDIA Corporation (NVDA), once the undisputed king of AI, seems to have been forgotten by investors.\n\nInterest has moved beyond GPUs and into the new AI bottlenecks like memory. And even within GPUs, Nvidia’s dominance\n\nMacro moves markets, and this is what I do at The Pragmatic Investor\n\nAnalyst’s Disclosure: I/we have a beneficial long position in the shares of NVDA, AMD either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+    "author": null,
+    "language": "en",
+    "ticker": "NVDA",
+    "tickers_hint": [
+      "NVDA"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "seekingalpha.com",
+    "trust_tier": 3,
+    "body_kind": "article_text",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Seeking Alpha",
+      "source_domain": "seekingalpha.com",
+      "event_origin": "news",
+      "relevance": 0.6000000000000001,
+      "quality_score": 0.645,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "f7992fb6-ea20-5dbe-a024-3e8416da0d71",
+    "timestamp_utc": "2026-04-08T05:47:05+00:00",
+    "source": "247_wall_st",
+    "url": "https://247wallst.com/investing/2026/04/08/prediction-this-unloved-ai-stock-has-what-it-takes-to-outrun-nvidia/",
+    "title": "Prediction: This Unloved AI Stock Has What it Takes to Outrun NVIDIA - 24/7 Wall St.",
+    "body": "It’s hard to tell what can get those stalled shares of Nvidia (NASDAQ:NVDA | NVDA Price Prediction) going again. There’s still a lot of growth and innovation going on underneath the hood. Combined with the Vera Rubin catalyst and the rise of agentic AI, as well as more monetizable vertical AI, it feels like Nvidia stock doesn’t deserve to be grounded as some of the other AI plays continue marching higher.\n\nOf course, much of mega-cap tech seems to be in a correction or bear market. And until investors feel confident again (perhaps next earnings season will be good enough to do it?), it’s impossible to tell what’s up next for Nvidia stock. If the sideways channel lasts until the summer, I’d treat the lack of action as a correction in itself, especially as the price-to-earnings (P/E) ratio looks to compress further.\n\nNvidia stock is already getting cheaper and cheaper with every quarter that goes by without a sustained rally. As Nvidia stays on the tarmac, I think it’s time to set sights on other AI stocks that might have what it takes to outperform for the year ahead. Here’s one name that I think could beat Nvidia stock in terms of returns for 2026:\n\nEven after a nice bounce, shares of Alphabet (NASDAQ:GOOG) are still down around 12% from their all-time highs. Google Gemini is still an AI share-taker, and as the firm continues rolling out new tools that might just accelerate the transition going on in the software industry, investors have every reason to stick with the name. In many ways, Alphabet is an AI leader, one with catalysts that are timelier than almost any other innovator that’s going heavy on the rise of agentic AI.\n\nIn recent weeks, much buzz has surrounded one-person companies that are effectively leveraging AI and agents to generate considerable revenue. With Google CEO Sundar Pichai remarking on the “AI shift” in the startup scene, I do think that there’s a lot of gain to be had, not just with the heavy-spending hyperscalers or the fast-moving frontier AI startups, but with the wave of AI-native firms that nobody has heard of.\n\nIn any case, Google is on the right side of the wave, as the firm continues to invest in all the right areas. Of course, time will tell when investors are ready to shed their fears of big CapEx bills in big tech. Regardless, the best deals might only stick around while the rest of the crowd isn’t as willing to buy big tech on the dip.\n\nBNP Paribas seems to think that the selling is “overdone” and sees the name as having what it takes to hit $390 per share from here. That’s a gain of nearly 29%.\n\nI think they’re right to be bullish at a time of excess bearishness. After all, Alphabet stock goes for 28.1 times trailing P/E, which is very modest when you consider where Google stands in this AI race. Arguably, they’re in the first spot, and they’re in a very good position to maintain their lead, at least in my view, under the leadership of Sundar Pichai.\n\nWith Waymo continuing to roll out in new cities while Gemini adds new applications (new mental health support features look intriguing), I’d argue that it makes little sense for Alphabet stock to stay stuck in a correction for as long as Nvidia. There are way too many drivers, and the valuation, I think, is low enough such that the name is the best deal of the Mag Seven once again.",
+    "author": null,
+    "language": "en",
+    "ticker": "NVDA",
+    "tickers_hint": [
+      "NVDA"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "247wallst.com",
+    "trust_tier": 2,
+    "body_kind": "article_text",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "24/7 Wall St.",
+      "source_domain": "247wallst.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.5425,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "1500168a-0818-51fa-b182-d816894182c0",
+    "timestamp_utc": "2026-04-08T23:31:34+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-mn-services-vermogensbeheer-bv-has-82116-million-stake-in-nvidia-corporation-nvda-2026-04-09/",
+    "title": "Mn Services Vermogensbeheer B.V. Has $821.16 Million Stake in NVIDIA Corporation $NVDA - MarketBeat",
+    "body": "Mn Services Vermogensbeheer B.V. Has $821.16 Million Stake in NVIDIA Corporation $NVDA MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "NVDA",
@@ -158,19 +202,314 @@
       "NVDA"
     ],
     "source_quality": "low",
-    "publisher_raw": "finbold",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Finbold",
-      "source_domain": "finbold.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
       "event_origin": "news",
-      "query_tickers": [
-        "NVDA"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.5175,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "f1faf959-90ad-54b8-be59-54786069bac8",
+    "timestamp_utc": "2026-04-08T01:53:47+00:00",
+    "source": "the_economic_times",
+    "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPV3ZVY1BuMU5PN2FYRUJYczBzTS1NSTRjTjctYlNYUDBmTDVaWUhNdW50eVB3R01vSXFjR0VxYzdnbktJMjcxZFJjbkZYaGQtUzZVVUZCSjJ6X2thTk1ha2xyM00xQXdUOG9KRTE1cnRUX1ZWNEVmV19zazk4RjZWcllIQU0tNV9JVkFhSUZaOVhnZFBrRG02NGYwNHBMSHBWWnBKVTZOdDBTVV9VNWNrVXo3Zkx6ZVdLTzNrR0pFMGFGTjh5WTBWYXF6NVJhOGxSZXhTcWtiQktWOVM1SjZlb2otbGdCTlFmU08tVGx2UTAxSjZoZXAzbkgxTi1YUEtoWGJMQm10TXBtOUNaSWJMS2xHUks4clV4cGdZSnR2VExWWmFhSzlMaUZBemptRVdWdTI4Q1ZR0gG7AkFVX3lxTE9DM2g2NXFhVURMYWt0Z1B4cDczSTFMYWJqd0RLdVZWcG9aWnpmVkJwdVBrd0hqMms1QjliOUwwREZobmFSY19pVW8xdjd1enA1aUxoUWFLU2tQYVMtdnZQd2FjWXZCRGRReHVTTW1PTkpseU55dGdvR0tMMEpxZDBacTlJeXVlZ29CM3F5YUJjWWZCcWI5c1dXdzhQTEpfRGNUanNkb0VQNTlRYWxfTFJweC1BNkRTOWhDcUgzUnJRQVY2bzNLTUJ6TVczSjlLdHpBUmdaeWU3WHc2aXZXVDl2TzRhRFZ2S0JCS0Rkdnp5TmVUeU91QmpsMTNNYXVzckdjbHZVazZxeFBnRkhBeUZhZGNBQVAzQmJwdkYzZzF1dGRkMDNJMlZmYThxc3IyRDQwdnlrUUUzX3JRdw?oc=5",
+    "title": "Is Nvidia stock still the safest AI bet in 2026? Why is Nvidia (NVDA) stock surging 3.5% in today’s premar - The Economic Times",
+    "body": "Is Nvidia stock still the safest AI bet in 2026? Why is Nvidia (NVDA) stock surging 3.5% in today’s premar The Economic Times",
+    "author": null,
+    "language": "en",
+    "ticker": "NVDA",
+    "tickers_hint": [
+      "NVDA"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "the economic times",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "The Economic Times",
+      "source_domain": "theeconomictimes.com",
+      "event_origin": "news",
+      "relevance": 0.7000000000000001,
+      "quality_score": 0.505,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "7c12f75e-4e77-5b50-a1d2-58e98ea9e39c",
+    "timestamp_utc": "2026-04-08T04:52:08+00:00",
+    "source": "traders_union",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVV9iLXNOTTdXR3hHVlRoY0N6bWVGemRXaDhXYUJ3dlA0N2tNVWpobW9PZGVBUlF2WUFlaWVxRFNKaHZRQ1lSV24ydUhrTEdlcFoyVGJLYmRkZUNWNlY2V0JreFhLQjBpTXp2aGtGcnhteWVhek9aRlJ5dzZKcjZCbzZZVi1pUnBEY0pfN3gzZ1FFWHc?oc=5",
+    "title": "Nvidia stock price forecast: $180.97 resistance as NVDA gains 1.61% - Traders Union",
+    "body": "Nvidia stock price forecast: $180.97 resistance as NVDA gains 1.61% Traders Union",
+    "author": null,
+    "language": "en",
+    "ticker": "NVDA",
+    "tickers_hint": [
+      "NVDA"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "traders union",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Traders Union",
+      "source_domain": "tradersunion.com",
+      "event_origin": "news",
+      "relevance": 0.6000000000000001,
+      "quality_score": 0.5,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "c0f8af37-6916-580a-a5d7-12b3156c1a5f",
+    "timestamp_utc": "2026-04-09T02:12:28+00:00",
+    "source": "marketbeat",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb0dvRHp1WFRtbFJqMzc1dXlBMXRhc3RnT3NLSTNoSkw2VFdYZlh5T0FVZjZUcnVLWnNKTlNIeFo2ZmVSR2RfSFZJbTlSRWJxRWxFU2ZKOV9LcEdFR210MlFzTkZyMXdrQk1hUHVRRW83c1ZvSVlQQmk2M3ZicVZwbmF5dVd6UURnSEtzODZob3NsNnhMN3lfQXIyRTB5VzhRMnBZWURsTExwWHJzdnYzeHNQTUZjRTZFeUNCS1lBU3ZKWnJ5Rl9fUkx4dw?oc=5",
+    "title": "Rep. Gilbert Ray Cisneros, Jr. Purchases Shares of NVIDIA Corporation (NASDAQ:NVDA) - MarketBeat",
+    "body": "Rep. Gilbert Ray Cisneros, Jr. Purchases Shares of NVIDIA Corporation (NASDAQ:NVDA) MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "NVDA",
+    "tickers_hint": [
+      "NVDA"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.4875,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "dc41ac2c-effc-5b59-be54-8ee606bcda97",
+    "timestamp_utc": "2026-04-08T11:32:10+00:00",
+    "source": "marketbeat",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUJUUTVsSVhvNlE5QkVEUHotanZSUzVxOENxQk5SMXg0VGZ6MGJfUi1DV1l5b3pMTlM3enZEcjc0WnhCc3ZsRFJqVHRWTlhXUUpIWHZOYkNPM1BSb3BCUEhRUE1ycmFqV0VadVRDR2pjUmI2Rl9CdE5FbVNLd1RFUTVsbENWX0RxenV2MThGTnVuaDM3QWhkZEJjZw?oc=5",
+    "title": "NVIDIA (NASDAQ:NVDA) Trading Up 2.2% - Here's Why - MarketBeat",
+    "body": "NVIDIA (NASDAQ:NVDA) Trading Up 2.2% - Here's Why MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "NVDA",
+    "tickers_hint": [
+      "NVDA"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.4685,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "fab01838-3c52-5b7f-ba43-4c7014c43a8f",
+    "timestamp_utc": "2026-04-08T23:25:08+00:00",
+    "source": "marketbeat",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeURpcFJFcERDWmJscUpBMFBqSjNNVGU2UkRmVks4ZHVJZW9FSmM2czdoYVVJQ1M4Y01tVk4wLTQtY0I5OTJ4Q2tIRVEweHJyTWJFSVNDUmJFd2g4dHFlZndFNGNzbTk0S1BSX0FlOFlDbGtnSzBkMlJTQXlRT3RYN1J0M1Fjd0VtMUFqNUhTN3V3V0NJcnlhVzNwdVBvblo2UzQ3RjRiNEVqLWFHVmpVc0VRMTBtY1BBencycG1WaFo0RXgxZms0VkRJelh1Zw?oc=5",
+    "title": "NVIDIA Corporation $NVDA Holdings Trimmed by Northstar Advisory Group LLC - MarketBeat",
+    "body": "NVIDIA Corporation $NVDA Holdings Trimmed by Northstar Advisory Group LLC MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "NVDA",
+    "tickers_hint": [
+      "NVDA"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.4675,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "36dbca42-8988-5f13-8390-9db12b242a00",
+    "timestamp_utc": "2026-04-08T23:25:07+00:00",
+    "source": "marketbeat",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbnppajdNSFdORFdERzM3dlBvMFp4V0RZcTdVczNSZURRVV9ZdDViRVlIeVdmQWFRYXU4cUtTclhWSmNkbDRqYXJjQ1k4UkR6NloyNFFFaGZWYlp3bi1mLXZhMDd1WXE5eTNDc0RmSlg1Nm03YXA1QjZLOEk3WVA3YkY3NkRqQmhJd0xUMnRtT2hfR0U1dk51aG94MG1EVGxybWQ2R01fRU1ZSWNJV0FHS1JvbEZFZTZzU2ExV21kQW5wb2ho?oc=5",
+    "title": "NVIDIA Corporation $NVDA is Kieckhefer Group LLC's Largest Position - MarketBeat",
+    "body": "NVIDIA Corporation $NVDA is Kieckhefer Group LLC's Largest Position MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "NVDA",
+    "tickers_hint": [
+      "NVDA"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.4675,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "ec078827-8d5a-576f-a5f2-93b3f156526a",
+    "timestamp_utc": "2026-04-08T21:44:53+00:00",
+    "source": "marketbeat",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQkRHS3ZabUpES1l2VlZSdEJicG9CU2hYZGJFZWVMQXlnWDBRdDdfR21GMVU1ZWJGWl9RVTFLcWFET0psbU5HV3Q0TUxVWVFKbEE2QktQY2d4NGRabG9pcmV4NExtR3hibk5NZUljZGZaUjlPNWE1SFFUQkhzNDZhQkVOZlc0WkhsWW5ENldXeHRmY2JQT2FsMmV4Rlh6cmFKWHJfU0xOeTk4TFBld1V4bjhSUi11RFdPVnZ2Nm5oRTZIQ3pSV01UN0xNLVRnYlBBdlE?oc=5",
+    "title": "NVIDIA Corporation $NVDA is Bernard Wealth Management Corp.'s Largest Position - MarketBeat",
+    "body": "NVIDIA Corporation $NVDA is Bernard Wealth Management Corp.'s Largest Position MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "NVDA",
+    "tickers_hint": [
+      "NVDA"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.4675,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "a0aee5f4-fb02-5605-8d12-693782661e23",
+    "timestamp_utc": "2026-04-08T03:32:18+00:00",
+    "source": "coinpaper",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbHlBNkJRb3JKWTdRbU1maE5kTFJsMjlUX1dBWm9CU2dOUkNmbFgxOUd0UjhYakhFSkFfajkxa1NqTTlxckFpZTZDU0NDLWEzNjVZMkVhNzVWMXZOSW1JeFFZNGpScml0dWY4cEVYRVdfcWpZbkVRSlBoMWhtRUJpZmlCbWhvbUE?oc=5",
+    "title": "Nvidia Stock Forecast: NVDA Rallies on Ceasefire News - Coinpaper",
+    "body": "Nvidia Stock Forecast: NVDA Rallies on Ceasefire News Coinpaper",
+    "author": null,
+    "language": "en",
+    "ticker": "NVDA",
+    "tickers_hint": [
+      "NVDA"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "coinpaper",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Coinpaper",
+      "source_domain": "coinpaper.com",
+      "event_origin": "news",
+      "relevance": 0.6000000000000001,
+      "quality_score": 0.465,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "58e9ece6-3ff6-516c-b2a8-3ca9785b3dad",
+    "timestamp_utc": "2026-04-07T21:45:51+00:00",
+    "source": "marketbeat",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX2VjRG40SFNmaU4tN3k0TWdKUzZNcC1fM1lMTDhSd2dwMk9IUzZOT1FMRlE5eC1tWW5iVjduN0ZndnFUT09LVmpjUE9yTV9GQTV1WEEyUXhXSXN1TFVBSl9tUUpNaWZRcHF4cDlUUjZSRWZSaWRmeWVrX0xPa0daQ1ZiRjNWdjFqVUI1RFN1Yk5IdU8wQXY1UVNBYllvc1U4cTBPcjRDdFJpaEVfYVRfUHBHeklfblBxdVA0Z1NuNHpueDB5WVNRb2Jn?oc=5",
+    "title": "NVIDIA Corporation $NVDA Position Lessened by Cooper Investors PTY Ltd. - MarketBeat",
+    "body": "NVIDIA Corporation $NVDA Position Lessened by Cooper Investors PTY Ltd. MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "NVDA",
+    "tickers_hint": [
+      "NVDA"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.4275,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "c80b75a9-a895-5013-b5dc-49e8ef15abae",
+    "timestamp_utc": "2026-04-07T21:45:49+00:00",
+    "source": "marketbeat",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbmM4U0FtQmJxbG9IUXAtN3c4c0t4Yk5POF8wcWVVZUNoRmNPeWNYZkNjQTJJeFl3OHM3ckNvblpnUUtmdHA0TTJ1OE5oWGc4SUZyVU5ubzJSeWNsX3ozOHNCRlVVWHlBdEJ0S25aZ24za0JybzBqbWdpMVl0Q3pKczQtNDNRUTNjNVBLR2d5bkZrSU1qZWY0eGhCTjJTdl85bFZLcEhXX3kwS3BPNW5icE10eVgzaGs5a2NyZjVIcW9SRkNHU1FaMU9ydEVlcjRRMXNJ?oc=5",
+    "title": "NVIDIA Corporation $NVDA Shares Purchased by Donaldson Capital Management LLC - MarketBeat",
+    "body": "NVIDIA Corporation $NVDA Shares Purchased by Donaldson Capital Management LLC MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "NVDA",
+    "tickers_hint": [
+      "NVDA"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.4275,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "e784a357-3777-58bd-af89-7a04e69be43c",
+    "timestamp_utc": "2026-04-07T21:33:45+00:00",
+    "source": "marketbeat",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaW5zbHozVklNMTA5Y2lQZnl1ZkNZUzhmMzZKZ0t1WVJwb3BMeElqaF9sQUJzaFUxSGpDakplcU9Xa0dFMjhsN2FyaDJ2aWtqTFBRb1ZYQ2I5Q29mc19uWGxiN1hjT1dmem5GUi1LVkJXMFlvelpXNVZMdjVVT2xseE1Hb2hpZ2I3MUVtWVFTcElDcnpkLXZxLTNibm8zX2JfdDFMT2lORVJlZ2dEQmVYWkpubWQ0Yks4WmZNbkEwaFE4RW1qY3pQWFlueEZlTlU?oc=5",
+    "title": "AA Financial Advisors LLC Trims Stock Position in NVIDIA Corporation $NVDA - MarketBeat",
+    "body": "AA Financial Advisors LLC Trims Stock Position in NVIDIA Corporation $NVDA MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "NVDA",
+    "tickers_hint": [
+      "NVDA"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.4275,
+      "_channel": "google_broad"
+    }
   }
 ]

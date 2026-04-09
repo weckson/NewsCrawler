@@ -2,123 +2,61 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "09c94f75-ae28-5ea8-8701-f5027b1c4cf8",
-      "timestamp_utc": "2026-04-03T10:44:26+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-genesis-financial-group-llc-acquires-shares-of-48805-medtronic-plc-mdt-2026-04-03/",
-      "title": "Genesis Financial Group LLC Acquires Shares of 48,805 Medtronic PLC $MDT - MarketBeat",
-      "body": "Genesis Financial Group LLC Acquires Shares of 48,805 Medtronic PLC $MDT MarketBeat",
+      "id": "a234874a-e0df-5aa8-8035-76c31d3d8342",
+      "timestamp_utc": "2026-04-08T11:50:04+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/medtronic-mdt-beats-stock-market-215004618.html",
+      "title": "Medtronic (MDT) Beats Stock Market Upswing: What Investors Need to Know - Yahoo Finance",
+      "body": "Medtronic (MDT) Beats Stock Market Upswing: What Investors Need to Know Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "MDT",
       "tickers_hint": [
         "MDT"
       ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "event_origin": "news",
         "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "MDT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "ec90fb93-cb9d-5398-97be-259695e45880",
-      "timestamp_utc": "2026-04-04T21:03:34+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/MDT/earnings",
-      "title": "MDT Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "MDT Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
-      "author": null,
-      "language": "en",
-      "ticker": "MDT",
-      "tickers_hint": [
-        "MDT"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "intellectia ai",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "MDT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.6475,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "09c94f75-ae28-5ea8-8701-f5027b1c4cf8",
-      "timestamp_utc": "2026-04-03T10:44:26+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-genesis-financial-group-llc-acquires-shares-of-48805-medtronic-plc-mdt-2026-04-03/",
-      "title": "Genesis Financial Group LLC Acquires Shares of 48,805 Medtronic PLC $MDT - MarketBeat",
-      "body": "Genesis Financial Group LLC Acquires Shares of 48,805 Medtronic PLC $MDT MarketBeat",
+      "id": "a234874a-e0df-5aa8-8035-76c31d3d8342",
+      "timestamp_utc": "2026-04-08T11:50:04+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/medtronic-mdt-beats-stock-market-215004618.html",
+      "title": "Medtronic (MDT) Beats Stock Market Upswing: What Investors Need to Know - Yahoo Finance",
+      "body": "Medtronic (MDT) Beats Stock Market Upswing: What Investors Need to Know Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "MDT",
       "tickers_hint": [
         "MDT"
       ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "event_origin": "news",
         "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "MDT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "ec90fb93-cb9d-5398-97be-259695e45880",
-      "timestamp_utc": "2026-04-04T21:03:34+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/MDT/earnings",
-      "title": "MDT Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "MDT Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
-      "author": null,
-      "language": "en",
-      "ticker": "MDT",
-      "tickers_hint": [
-        "MDT"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "intellectia ai",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "MDT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.6475,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

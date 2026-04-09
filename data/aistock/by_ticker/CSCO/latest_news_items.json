@@ -1,11 +1,11 @@
 [
   {
-    "id": "55ce3d57-d52b-5f42-9655-3093b30875b7",
-    "timestamp_utc": "2026-04-03T13:00:06+00:00",
+    "id": "bda9ebd5-7eef-56cb-a0dc-124e351635b3",
+    "timestamp_utc": "2026-04-08T10:45:28+00:00",
     "source": "yahoo_finance",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcXBpdHZ4VWpqUTVEdUtjeURwTXZhS0VEdHMzQm5UR2t3dWVfbDI4WnNxRGJfSWZVcUp4REVNY1daQnIyZ2l3OEFNLTd1cUlucnppMmZ0RFo3RjVneVhfeEVDS2h3b0RfYTFGTy1KQmN1bWRmRUpwS0ZsN250U1dmS3g4SlIxakJpZEJnWFh1czdQX2lDRDhFakRrOS1Rdw?oc=5",
-    "title": "Is Trending Stock Cisco Systems, Inc. (CSCO) a Buy Now? - Yahoo Finance",
-    "body": "Is Trending Stock Cisco Systems, Inc. (CSCO) a Buy Now? Yahoo Finance",
+    "url": "https://uk.finance.yahoo.com/news/cisco-systems-csco-see-vast-204528152.html",
+    "title": "Cisco Systems (CSCO) See Vast Potential in Securing AI Agents - Yahoo Finance UK",
+    "body": "Cisco Systems (CSCO) See Vast Potential in Securing AI Agents Yahoo Finance UK",
     "author": null,
     "language": "en",
     "ticker": "CSCO",
@@ -14,76 +14,19 @@
     ],
     "source_quality": "high",
     "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance",
+      "source_name": "Yahoo Finance UK",
       "source_domain": "finance.yahoo.com",
-      "trust_tier": 3,
-      "relevance": 0.5,
       "event_origin": "news",
-      "query_tickers": [
-        "CSCO"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "474c810e-15c0-5811-b9e0-f824c33029c4",
-    "timestamp_utc": "2026-04-04T10:44:43+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-cisco-systems-inc-csco-stock-holdings-lowered-by-steelpeak-wealth-llc-2026-04-04/",
-    "title": "Cisco Systems, Inc. $CSCO Stock Holdings Lowered by SteelPeak Wealth LLC - MarketBeat",
-    "body": "Cisco Systems, Inc. $CSCO Stock Holdings Lowered by SteelPeak Wealth LLC MarketBeat",
-    "author": null,
-    "language": "en",
-    "ticker": "CSCO",
-    "tickers_hint": [
-      "CSCO"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
-      "trust_tier": 1,
       "relevance": 0.55,
-      "event_origin": "news",
-      "query_tickers": [
-        "CSCO"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "dd3a25fd-6257-521d-a8a7-bf1d6349b44c",
-    "timestamp_utc": "2026-04-04T07:48:35+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-aspiriant-llc-has-266-million-stock-position-in-cisco-systems-inc-csco-2026-04-04/",
-    "title": "Aspiriant LLC Has $2.66 Million Stock Position in Cisco Systems, Inc. $CSCO - MarketBeat",
-    "body": "Aspiriant LLC Has $2.66 Million Stock Position in Cisco Systems, Inc. $CSCO MarketBeat",
-    "author": null,
-    "language": "en",
-    "ticker": "CSCO",
-    "tickers_hint": [
-      "CSCO"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
-      "event_origin": "news",
-      "query_tickers": [
-        "CSCO"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.6425,
+      "_channel": "google_broad",
+      "_alt_sources": [
+        "Insider Monkey"
+      ]
+    }
   }
 ]

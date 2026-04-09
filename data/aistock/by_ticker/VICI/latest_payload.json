@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "b0397ffd-b116-52ad-9d78-6fc5c4f3a2ad",
-      "timestamp_utc": "2026-04-04T11:00:44+00:00",
-      "source": "seeking_alpha",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcnYyR1NpUElQamhNbFlET0k3OHY1WFQ0ZXFiQk1GTXFvWkNTcFNKcGlmbnRRd3JQM3FFNTQyNkN6OGdTWFZXYktYWHpCUjBQWk5TOHBvcjYzRXNQaWk2Zy01SFF3Mmd6Qk1zQ1ZaZ0plbUhld3FJdnYwSjF6UHZybGVpR2FBM0FXZnZ1UEJjVldzeGpPLUs4ZmZ2NHZHNzdRYTR3dDFmSQ?oc=5",
-      "title": "From the Strip to the suburbs: VICI expands its Las Vegas footprint (MGM:NYSE) - Seeking Alpha",
-      "body": "From the Strip to the suburbs: VICI expands its Las Vegas footprint (MGM:NYSE) Seeking Alpha",
+      "id": "35a834e5-0228-5ab6-b47b-64643f296cf1",
+      "timestamp_utc": "2026-04-07T03:49:09+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-vici-properties-next-134909631.html",
+      "title": "Here's What to Expect From VICI Properties' Next Earnings Report - Yahoo Finance",
+      "body": "Here's What to Expect From VICI Properties' Next Earnings Report Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "VICI",
@@ -15,28 +15,29 @@
         "VICI"
       ],
       "source_quality": "high",
-      "publisher_raw": "seekingalpha.com",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Seeking Alpha",
-        "source_domain": "seekingalpha.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "VICI"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.6375,
+        "_channel": "google_broad",
+        "_alt_sources": [
+          "Yahoo Finance"
+        ]
+      }
     },
     {
-      "id": "9cef2b51-da9e-52ca-8a6c-4ee8e72ad29a",
-      "timestamp_utc": "2026-04-05T07:23:44+00:00",
+      "id": "4d518f29-e8ba-5e0b-a363-120c51353b39",
+      "timestamp_utc": "2026-04-07T00:31:53+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-vici-properties-inc-vici-shares-purchased-by-aberdeen-group-plc-2026-04-05/",
-      "title": "VICI Properties Inc. $VICI Shares Purchased by Aberdeen Group plc - MarketBeat",
-      "body": "VICI Properties Inc. $VICI Shares Purchased by Aberdeen Group plc MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-sound-income-strategies-llc-grows-stock-position-in-vici-properties-inc-vici-2026-04-07/",
+      "title": "Sound Income Strategies LLC Grows Stock Position in VICI Properties Inc. $VICI - MarketBeat",
+      "body": "Sound Income Strategies LLC Grows Stock Position in VICI Properties Inc. $VICI MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "VICI",
@@ -45,120 +46,28 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
+        "event_origin": "news",
         "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "VICI"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "005655a2-9ade-512f-89f5-c6478e9726d0",
-      "timestamp_utc": "2026-04-04T01:09:23+00:00",
-      "source": "msn",
-      "url": "https://www.msn.com/en-us/money/topstocks/is-vici-properties-vici-one-of-the-most-undervalued-stocks-to-buy-according-to-analysts/ar-AA1ZeecH?ocid=finance-verthp-feeds",
-      "title": "Is VICI Properties (VICI) one of the most undervalued stocks to buy according to analysts? - MSN",
-      "body": "Is VICI Properties (VICI) one of the most undervalued stocks to buy according to analysts? MSN",
-      "author": null,
-      "language": "en",
-      "ticker": "VICI",
-      "tickers_hint": [
-        "VICI"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "msn",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MSN",
-        "source_domain": "msn.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "VICI"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "a1657132-ee50-5ce7-8b27-0a658a5e8573",
-      "timestamp_utc": "2026-04-04T06:39:29+00:00",
-      "source": "yahoo_finance_uk",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NSW5UaGZTaU52QmlLczVJWlRsbDYtSnM1Mnc5QjBIdWc1bVdkZFFGdl9peTZXcXpURVFvN2JXZUJQNlBIQUN1WlhYX2syUVJTaFE?oc=5",
-      "title": "VICI Properties Inc. (VICI) stock price, news, quote and history - Yahoo Finance UK",
-      "body": "VICI Properties Inc. (VICI) stock price, news, quote and history Yahoo Finance UK",
-      "author": null,
-      "language": "en",
-      "ticker": "VICI",
-      "tickers_hint": [
-        "VICI"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo finance uk",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance UK",
-        "source_domain": "yahoofinanceuk.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "VICI"
-        ],
-        "alt_sources": [
-          "Yahoo Finance UK"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "9ed35519-f06b-52b1-9d1f-2bec17f617c6",
-      "timestamp_utc": "2026-04-05T06:05:36+00:00",
-      "source": "bitget",
-      "url": "https://www.bitget.com/amp/news/detail/12560605337468",
-      "title": "VICI Properties' Canadian Expansion Adds Stable, 25-Year Lease with IGP-Backed Tenant, Fueling Case for Re-Rating - Bitget",
-      "body": "VICI Properties' Canadian Expansion Adds Stable, 25-Year Lease with IGP-Backed Tenant, Fueling Case for Re-Rating Bitget",
-      "author": null,
-      "language": "en",
-      "ticker": "VICI",
-      "tickers_hint": [
-        "VICI"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "bitget",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Bitget",
-        "source_domain": "bitget.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "VICI"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.4275,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "b0397ffd-b116-52ad-9d78-6fc5c4f3a2ad",
-      "timestamp_utc": "2026-04-04T11:00:44+00:00",
-      "source": "seeking_alpha",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcnYyR1NpUElQamhNbFlET0k3OHY1WFQ0ZXFiQk1GTXFvWkNTcFNKcGlmbnRRd3JQM3FFNTQyNkN6OGdTWFZXYktYWHpCUjBQWk5TOHBvcjYzRXNQaWk2Zy01SFF3Mmd6Qk1zQ1ZaZ0plbUhld3FJdnYwSjF6UHZybGVpR2FBM0FXZnZ1UEJjVldzeGpPLUs4ZmZ2NHZHNzdRYTR3dDFmSQ?oc=5",
-      "title": "From the Strip to the suburbs: VICI expands its Las Vegas footprint (MGM:NYSE) - Seeking Alpha",
-      "body": "From the Strip to the suburbs: VICI expands its Las Vegas footprint (MGM:NYSE) Seeking Alpha",
+      "id": "35a834e5-0228-5ab6-b47b-64643f296cf1",
+      "timestamp_utc": "2026-04-07T03:49:09+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-vici-properties-next-134909631.html",
+      "title": "Here's What to Expect From VICI Properties' Next Earnings Report - Yahoo Finance",
+      "body": "Here's What to Expect From VICI Properties' Next Earnings Report Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "VICI",
@@ -166,28 +75,29 @@
         "VICI"
       ],
       "source_quality": "high",
-      "publisher_raw": "seekingalpha.com",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Seeking Alpha",
-        "source_domain": "seekingalpha.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "VICI"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.6375,
+        "_channel": "google_broad",
+        "_alt_sources": [
+          "Yahoo Finance"
+        ]
+      }
     },
     {
-      "id": "9cef2b51-da9e-52ca-8a6c-4ee8e72ad29a",
-      "timestamp_utc": "2026-04-05T07:23:44+00:00",
+      "id": "4d518f29-e8ba-5e0b-a363-120c51353b39",
+      "timestamp_utc": "2026-04-07T00:31:53+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-vici-properties-inc-vici-shares-purchased-by-aberdeen-group-plc-2026-04-05/",
-      "title": "VICI Properties Inc. $VICI Shares Purchased by Aberdeen Group plc - MarketBeat",
-      "body": "VICI Properties Inc. $VICI Shares Purchased by Aberdeen Group plc MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-sound-income-strategies-llc-grows-stock-position-in-vici-properties-inc-vici-2026-04-07/",
+      "title": "Sound Income Strategies LLC Grows Stock Position in VICI Properties Inc. $VICI - MarketBeat",
+      "body": "Sound Income Strategies LLC Grows Stock Position in VICI Properties Inc. $VICI MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "VICI",
@@ -196,109 +106,17 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
+        "event_origin": "news",
         "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "VICI"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "005655a2-9ade-512f-89f5-c6478e9726d0",
-      "timestamp_utc": "2026-04-04T01:09:23+00:00",
-      "source": "msn",
-      "url": "https://www.msn.com/en-us/money/topstocks/is-vici-properties-vici-one-of-the-most-undervalued-stocks-to-buy-according-to-analysts/ar-AA1ZeecH?ocid=finance-verthp-feeds",
-      "title": "Is VICI Properties (VICI) one of the most undervalued stocks to buy according to analysts? - MSN",
-      "body": "Is VICI Properties (VICI) one of the most undervalued stocks to buy according to analysts? MSN",
-      "author": null,
-      "language": "en",
-      "ticker": "VICI",
-      "tickers_hint": [
-        "VICI"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "msn",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MSN",
-        "source_domain": "msn.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "VICI"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "a1657132-ee50-5ce7-8b27-0a658a5e8573",
-      "timestamp_utc": "2026-04-04T06:39:29+00:00",
-      "source": "yahoo_finance_uk",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NSW5UaGZTaU52QmlLczVJWlRsbDYtSnM1Mnc5QjBIdWc1bVdkZFFGdl9peTZXcXpURVFvN2JXZUJQNlBIQUN1WlhYX2syUVJTaFE?oc=5",
-      "title": "VICI Properties Inc. (VICI) stock price, news, quote and history - Yahoo Finance UK",
-      "body": "VICI Properties Inc. (VICI) stock price, news, quote and history Yahoo Finance UK",
-      "author": null,
-      "language": "en",
-      "ticker": "VICI",
-      "tickers_hint": [
-        "VICI"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo finance uk",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance UK",
-        "source_domain": "yahoofinanceuk.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "VICI"
-        ],
-        "alt_sources": [
-          "Yahoo Finance UK"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "9ed35519-f06b-52b1-9d1f-2bec17f617c6",
-      "timestamp_utc": "2026-04-05T06:05:36+00:00",
-      "source": "bitget",
-      "url": "https://www.bitget.com/amp/news/detail/12560605337468",
-      "title": "VICI Properties' Canadian Expansion Adds Stable, 25-Year Lease with IGP-Backed Tenant, Fueling Case for Re-Rating - Bitget",
-      "body": "VICI Properties' Canadian Expansion Adds Stable, 25-Year Lease with IGP-Backed Tenant, Fueling Case for Re-Rating Bitget",
-      "author": null,
-      "language": "en",
-      "ticker": "VICI",
-      "tickers_hint": [
-        "VICI"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "bitget",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Bitget",
-        "source_domain": "bitget.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "VICI"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.4275,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

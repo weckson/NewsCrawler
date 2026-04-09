@@ -1,11 +1,68 @@
 [
   {
-    "id": "5d51d726-012c-58f8-8a64-8e53593f54b7",
-    "timestamp_utc": "2026-03-31T08:56:15+00:00",
-    "source": "gurufocus",
-    "url": "https://www.gurufocus.com/news/8762211/wfc-morgan-stanley-lowers-price-target-for-wells-fargo-wfc-stock-news?mobile=true",
-    "title": "WFC: Morgan Stanley Lowers Price Target for Wells Fargo | WFC St - GuruFocus",
-    "body": "WFC: Morgan Stanley Lowers Price Target for Wells Fargo | WFC St GuruFocus",
+    "id": "91e85568-0641-572e-9955-08ecaf238ddb",
+    "timestamp_utc": "2026-04-08T11:01:47+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObGpRZDc0SG1YbF9WZWx4M3RCd2Q1QkVzU2xrYk9NQjcyYVYzZjdJWDJCbDIxYlNEazAtRm5xN2J2dEluQ0RXTjBhT2ttQ3hUOTd2czJXdkNIRGRkajRpSUsyN0c4cjJ5cEJCbG85ejdvRTVic2d1bm5ZZGlhcHlkVVFDLTViWm8zYnRPRkM3VjN4THEzdjBhag?oc=5",
+    "title": "Wells Fargo (WFC) Stock Trades Up, Here Is Why - Yahoo Finance",
+    "body": "Wells Fargo (WFC) Stock Trades Up, Here Is Why Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "WFC",
+    "tickers_hint": [
+      "WFC"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.611,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "89723408-49ec-5d7a-89cf-3c3df3f1eaaa",
+    "timestamp_utc": "2026-04-07T18:42:46+00:00",
+    "source": "benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAxcEJNWDdqN0hkQkdrdC1pSERZOHNpUlJzbkNoUGR5akgyX3hzVFFDUG5SZHVqeVY0UHVnSGl3Y3E3RGwweEIwMjZn?oc=5",
+    "title": "Wells Fargo & Co (WFC) Stock Price, Quote, News & History - Benzinga",
+    "body": "Wells Fargo & Co (WFC) Stock Price, Quote, News & History Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "WFC",
+    "tickers_hint": [
+      "WFC"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.61,
+      "_channel": "google_benzinga",
+      "_alt_sources": [
+        "Benzinga"
+      ]
+    }
+  },
+  {
+    "id": "ea8c5a3d-497f-584d-83ff-e1c87eb0f07e",
+    "timestamp_utc": "2026-04-09T01:49:06+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-wells-fargo-company-wfc-shares-acquired-by-phoenix-wealth-advisors-2026-04-09/",
+    "title": "Wells Fargo & Company $WFC Shares Acquired by Phoenix Wealth Advisors - MarketBeat",
+    "body": "Wells Fargo & Company $WFC Shares Acquired by Phoenix Wealth Advisors MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "WFC",
@@ -13,19 +70,17 @@
       "WFC"
     ],
     "source_quality": "low",
-    "publisher_raw": "gurufocus.com",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "GuruFocus",
-      "source_domain": "gurufocus.com",
-      "trust_tier": 1,
-      "relevance": 0.6500000000000001,
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
       "event_origin": "news",
-      "query_tickers": [
-        "WFC"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4775,
+      "_channel": "google_broad"
+    }
   }
 ]

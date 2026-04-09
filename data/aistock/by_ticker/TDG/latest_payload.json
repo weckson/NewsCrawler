@@ -2,65 +2,121 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "8659e62b-3892-5061-8239-3310304337b5",
-      "timestamp_utc": "2026-04-02T19:42:00+00:00",
-      "source": "the_globe_and_mail",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcFpvUEp6NDZMMW1LRnpkNmdQVDVuQjBKcGhqdDYtcVE3VEVQQXlSUV9velRXOEZRSThYWEx2SGFadkdDY2h2TlIzLTRiOVQtOVlEVUZELW5pQjhycWEzN0xwdUdwYURDUzdiUnFCSmtTSl90VXB1NzlWcUdBMWVReEtmaktZTzRvOFoxRS1KbWNmOV9ma2NET0dwdGRVa3ptY3ZlSnJibFljZ3BMMVAwc1NmRVRrX05ocENXSVZITEQ2R3R1X2Z5MXVfX0IwLVNzbExhYXFwbXlNa3U1X2c?oc=5",
-      "title": "TDG Gold Extends 4300 Zone Discovery Beneath Historic Anyox Mine - The Globe and Mail",
-      "body": "TDG Gold Extends 4300 Zone Discovery Beneath Historic Anyox Mine The Globe and Mail",
+      "id": "3b1cbde0-ac5d-5d08-9152-141a3837f2a5",
+      "timestamp_utc": "2026-04-08T13:09:47+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdTRkOEtxQmpQMjFzRTYzMFlpTUtycU56a3d5Y1poS0FlZGU1YmotQWE3RTJQZHV1UTNpdmstMWFCNkZuUHg3RVdDb0FHcEwtMkFNajJDVllpMmNaQ2FCZlE1eDg2Rk9mU2xpdGs0RlpqM1lxSzlkdFdKQ1RrM0RGaWNxTklNUQ?oc=5",
+      "title": "TransDigm (TDG) Stock Trades Up, Here Is Why - Yahoo Finance UK",
+      "body": "TransDigm (TDG) Stock Trades Up, Here Is Why Yahoo Finance UK",
       "author": null,
       "language": "en",
       "ticker": "TDG",
       "tickers_hint": [
         "TDG"
       ],
-      "source_quality": "medium",
-      "publisher_raw": "theglobeandmail.com",
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "The Globe and Mail",
-        "source_domain": "theglobeandmail.com",
-        "trust_tier": 2,
-        "relevance": 0.5,
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "TDG"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.621,
+        "_channel": "google_broad",
+        "_alt_sources": [
+          "StockStory"
+        ]
+      }
+    },
+    {
+      "id": "8c54c316-2d79-5b70-a9c2-dbe23b167633",
+      "timestamp_utc": "2026-04-08T23:23:10+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/rep-gilbert-ray-cisneros-jr-buys-transdigm-group-incorporated-nysetdg-stock-2026-04-09/",
+      "title": "Rep. Gilbert Ray Cisneros, Jr. Buys Transdigm Group Incorporated (NYSE:TDG) Stock - MarketBeat",
+      "body": "Rep. Gilbert Ray Cisneros, Jr. Buys Transdigm Group Incorporated (NYSE:TDG) Stock MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "TDG",
+      "tickers_hint": [
+        "TDG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4425,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "8659e62b-3892-5061-8239-3310304337b5",
-      "timestamp_utc": "2026-04-02T19:42:00+00:00",
-      "source": "the_globe_and_mail",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcFpvUEp6NDZMMW1LRnpkNmdQVDVuQjBKcGhqdDYtcVE3VEVQQXlSUV9velRXOEZRSThYWEx2SGFadkdDY2h2TlIzLTRiOVQtOVlEVUZELW5pQjhycWEzN0xwdUdwYURDUzdiUnFCSmtTSl90VXB1NzlWcUdBMWVReEtmaktZTzRvOFoxRS1KbWNmOV9ma2NET0dwdGRVa3ptY3ZlSnJibFljZ3BMMVAwc1NmRVRrX05ocENXSVZITEQ2R3R1X2Z5MXVfX0IwLVNzbExhYXFwbXlNa3U1X2c?oc=5",
-      "title": "TDG Gold Extends 4300 Zone Discovery Beneath Historic Anyox Mine - The Globe and Mail",
-      "body": "TDG Gold Extends 4300 Zone Discovery Beneath Historic Anyox Mine The Globe and Mail",
+      "id": "3b1cbde0-ac5d-5d08-9152-141a3837f2a5",
+      "timestamp_utc": "2026-04-08T13:09:47+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdTRkOEtxQmpQMjFzRTYzMFlpTUtycU56a3d5Y1poS0FlZGU1YmotQWE3RTJQZHV1UTNpdmstMWFCNkZuUHg3RVdDb0FHcEwtMkFNajJDVllpMmNaQ2FCZlE1eDg2Rk9mU2xpdGs0RlpqM1lxSzlkdFdKQ1RrM0RGaWNxTklNUQ?oc=5",
+      "title": "TransDigm (TDG) Stock Trades Up, Here Is Why - Yahoo Finance UK",
+      "body": "TransDigm (TDG) Stock Trades Up, Here Is Why Yahoo Finance UK",
       "author": null,
       "language": "en",
       "ticker": "TDG",
       "tickers_hint": [
         "TDG"
       ],
-      "source_quality": "medium",
-      "publisher_raw": "theglobeandmail.com",
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "The Globe and Mail",
-        "source_domain": "theglobeandmail.com",
-        "trust_tier": 2,
-        "relevance": 0.5,
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "TDG"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.621,
+        "_channel": "google_broad",
+        "_alt_sources": [
+          "StockStory"
+        ]
+      }
+    },
+    {
+      "id": "8c54c316-2d79-5b70-a9c2-dbe23b167633",
+      "timestamp_utc": "2026-04-08T23:23:10+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/rep-gilbert-ray-cisneros-jr-buys-transdigm-group-incorporated-nysetdg-stock-2026-04-09/",
+      "title": "Rep. Gilbert Ray Cisneros, Jr. Buys Transdigm Group Incorporated (NYSE:TDG) Stock - MarketBeat",
+      "body": "Rep. Gilbert Ray Cisneros, Jr. Buys Transdigm Group Incorporated (NYSE:TDG) Stock MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "TDG",
+      "tickers_hint": [
+        "TDG"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4425,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

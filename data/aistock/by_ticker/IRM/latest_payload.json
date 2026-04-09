@@ -2,41 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "ed801184-db48-58a7-b572-9213d2ef020b",
-      "timestamp_utc": "2026-04-04T15:25:21+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/IRM/financials",
-      "title": "IRM Financials: Revenue Breakdown, Margins & Competitor Comparison - Intellectia AI",
-      "body": "IRM Financials: Revenue Breakdown, Margins & Competitor Comparison Intellectia AI",
-      "author": null,
-      "language": "en",
-      "ticker": "IRM",
-      "tickers_hint": [
-        "IRM"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "intellectia ai",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "IRM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "d2f0fda9-7707-5cd3-b2bc-35f53e573536",
-      "timestamp_utc": "2026-04-05T07:35:01+00:00",
+      "id": "2dda42f8-f983-591d-afde-fb43b7112dbf",
+      "timestamp_utc": "2026-04-08T10:18:02+00:00",
       "source": "markets_mojo",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZlhjYW1IdHpIWnFqczJjMGlUcGlYdHAzdFBYUkgwUGpScUUzZDQ0QldZTnV0QWxBbV9wQlZKb3lCWU90aUpfZm1va3FxWW9zQVdZcjAwTGc3dlpUUmRjMnZsWFNNTnNNdXZrWkpILTRMZmFkODFBdEVLTkFoRGdCNFNackZtQUlHUmpmdXFoX0lmbTlM?oc=5",
-      "title": "IRM Energy Ltd is Rated Sell - Markets Mojo",
-      "body": "IRM Energy Ltd is Rated Sell Markets Mojo",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYnl3cXNiLUdOdENieGp3RF82dGdkY0VzbzNlZ1BKbGUta0FraVI5UFNqYzAwc1pUR0pVUXVmcGFFU0pEQmxVU2xiWkUzNjIwc0RKY3NNby1lNjVrZnFfazBldS10a0JwSnVZekNPUHZQRU9rbGNhOXB2ZkNrMF9ONDNaS1czaExIMlF5SlRwcmpweGFUSElXYUdUTmRNSUZPR3ZvaTQ5N2dLS3owTEctMFIyTDdUV3ZNT0NFNzJPMU84RFlvc1pMQy1POA?oc=5",
+      "title": "IRM Energy Ltd Valuation Shifts to Fair Amidst Challenging Market Returns - Markets Mojo",
+      "body": "IRM Energy Ltd Valuation Shifts to Fair Amidst Challenging Market Returns Markets Mojo",
       "author": null,
       "language": "en",
       "ticker": "IRM",
@@ -45,146 +16,28 @@
       ],
       "source_quality": "low",
       "publisher_raw": "markets mojo",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "Markets Mojo",
         "source_domain": "marketsmojo.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
         "event_origin": "news",
-        "query_tickers": [
-          "IRM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "84a4f99e-fbb9-5014-9fbb-0c71e879eea9",
-      "timestamp_utc": "2026-04-04T18:49:48+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zQjl4SC0zMS1CX1JUN3NUcV9hN2ptX3Bud3VIcVFWdURQX2JVUTFhVVFJb0U0VTJEYk1UUlRBdFU3RFpKdHZSc21keG9fYVVqVGFNWVZMaEppWFRIT0pyWlpXbmc?oc=5",
-      "title": "IRM Apr 2026 113.000 call (IRM260410C00113000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "body": "IRM Apr 2026 113.000 call (IRM260410C00113000) Stock Price, News, Quote & History Yahoo! Finance Canada",
-      "author": null,
-      "language": "en",
-      "ticker": "IRM",
-      "tickers_hint": [
-        "IRM"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
         "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "IRM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "05bbd126-da40-590a-96f0-3e8ab22ded24",
-      "timestamp_utc": "2026-04-04T02:45:40+00:00",
-      "source": "yahoo_finance_singapore",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03eE9JRGpsSVczeGN6Ry1XVE1sTVctd2ZpczdBeDNVUHZTaGtBWGl1X2RDNVhYMFBRTUNzVDA4UjVUUEVHOXB0WWNmQThmS1dqM1ZMT3ozTEo2MXhjck9OVjBUVzA?oc=5",
-      "title": "IRM Apr 2026 95.000 put (IRM260410P00095000) stock price, news, quote and history - Yahoo Finance Singapore",
-      "body": "IRM Apr 2026 95.000 put (IRM260410P00095000) stock price, news, quote and history Yahoo Finance Singapore",
-      "author": null,
-      "language": "en",
-      "ticker": "IRM",
-      "tickers_hint": [
-        "IRM"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo finance singapore",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance Singapore",
-        "source_domain": "yahoofinancesingapore.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "IRM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "f3123beb-97de-5def-9346-e68e70268dc9",
-      "timestamp_utc": "2026-04-03T18:43:40+00:00",
-      "source": "markets_mojo",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY1FVMWpMcTQwbEY1X1dNcjQtRF93b19DRHdJOUQ5V04zWEgyRWJ4TUg0bWNmcFNoZURRbk1DNENrdS1GYVhHU2pBZ09kdGtRSnAxcHl4VE1DdVBNYXJ4V281UmhzaFB3bGpMeUtkVUlYdk1uZURVcVBhSGJBNGNwOFA2VTVkVTk1VUFUdHAxQWY0azM1b29fRWphanE5ZjhNbk1EYW54dFhtUnBLeE5Z?oc=5",
-      "title": "IRM Energy Ltd Stock Falls to 52-Week Low of Rs.198.15 - Markets Mojo",
-      "body": "IRM Energy Ltd Stock Falls to 52-Week Low of Rs.198.15 Markets Mojo",
-      "author": null,
-      "language": "en",
-      "ticker": "IRM",
-      "tickers_hint": [
-        "IRM"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "markets mojo",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Markets Mojo",
-        "source_domain": "marketsmojo.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "IRM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.41,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "ed801184-db48-58a7-b572-9213d2ef020b",
-      "timestamp_utc": "2026-04-04T15:25:21+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/IRM/financials",
-      "title": "IRM Financials: Revenue Breakdown, Margins & Competitor Comparison - Intellectia AI",
-      "body": "IRM Financials: Revenue Breakdown, Margins & Competitor Comparison Intellectia AI",
-      "author": null,
-      "language": "en",
-      "ticker": "IRM",
-      "tickers_hint": [
-        "IRM"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "intellectia ai",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "IRM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "d2f0fda9-7707-5cd3-b2bc-35f53e573536",
-      "timestamp_utc": "2026-04-05T07:35:01+00:00",
+      "id": "2dda42f8-f983-591d-afde-fb43b7112dbf",
+      "timestamp_utc": "2026-04-08T10:18:02+00:00",
       "source": "markets_mojo",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZlhjYW1IdHpIWnFqczJjMGlUcGlYdHAzdFBYUkgwUGpScUUzZDQ0QldZTnV0QWxBbV9wQlZKb3lCWU90aUpfZm1va3FxWW9zQVdZcjAwTGc3dlpUUmRjMnZsWFNNTnNNdXZrWkpILTRMZmFkODFBdEVLTkFoRGdCNFNackZtQUlHUmpmdXFoX0lmbTlM?oc=5",
-      "title": "IRM Energy Ltd is Rated Sell - Markets Mojo",
-      "body": "IRM Energy Ltd is Rated Sell Markets Mojo",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYnl3cXNiLUdOdENieGp3RF82dGdkY0VzbzNlZ1BKbGUta0FraVI5UFNqYzAwc1pUR0pVUXVmcGFFU0pEQmxVU2xiWkUzNjIwc0RKY3NNby1lNjVrZnFfazBldS10a0JwSnVZekNPUHZQRU9rbGNhOXB2ZkNrMF9ONDNaS1czaExIMlF5SlRwcmpweGFUSElXYUdUTmRNSUZPR3ZvaTQ5N2dLS3owTEctMFIyTDdUV3ZNT0NFNzJPMU84RFlvc1pMQy1POA?oc=5",
+      "title": "IRM Energy Ltd Valuation Shifts to Fair Amidst Challenging Market Returns - Markets Mojo",
+      "body": "IRM Energy Ltd Valuation Shifts to Fair Amidst Challenging Market Returns Markets Mojo",
       "author": null,
       "language": "en",
       "ticker": "IRM",
@@ -193,106 +46,17 @@
       ],
       "source_quality": "low",
       "publisher_raw": "markets mojo",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "Markets Mojo",
         "source_domain": "marketsmojo.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
         "event_origin": "news",
-        "query_tickers": [
-          "IRM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "84a4f99e-fbb9-5014-9fbb-0c71e879eea9",
-      "timestamp_utc": "2026-04-04T18:49:48+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zQjl4SC0zMS1CX1JUN3NUcV9hN2ptX3Bud3VIcVFWdURQX2JVUTFhVVFJb0U0VTJEYk1UUlRBdFU3RFpKdHZSc21keG9fYVVqVGFNWVZMaEppWFRIT0pyWlpXbmc?oc=5",
-      "title": "IRM Apr 2026 113.000 call (IRM260410C00113000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "body": "IRM Apr 2026 113.000 call (IRM260410C00113000) Stock Price, News, Quote & History Yahoo! Finance Canada",
-      "author": null,
-      "language": "en",
-      "ticker": "IRM",
-      "tickers_hint": [
-        "IRM"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
         "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "IRM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "05bbd126-da40-590a-96f0-3e8ab22ded24",
-      "timestamp_utc": "2026-04-04T02:45:40+00:00",
-      "source": "yahoo_finance_singapore",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03eE9JRGpsSVczeGN6Ry1XVE1sTVctd2ZpczdBeDNVUHZTaGtBWGl1X2RDNVhYMFBRTUNzVDA4UjVUUEVHOXB0WWNmQThmS1dqM1ZMT3ozTEo2MXhjck9OVjBUVzA?oc=5",
-      "title": "IRM Apr 2026 95.000 put (IRM260410P00095000) stock price, news, quote and history - Yahoo Finance Singapore",
-      "body": "IRM Apr 2026 95.000 put (IRM260410P00095000) stock price, news, quote and history Yahoo Finance Singapore",
-      "author": null,
-      "language": "en",
-      "ticker": "IRM",
-      "tickers_hint": [
-        "IRM"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo finance singapore",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance Singapore",
-        "source_domain": "yahoofinancesingapore.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "IRM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "f3123beb-97de-5def-9346-e68e70268dc9",
-      "timestamp_utc": "2026-04-03T18:43:40+00:00",
-      "source": "markets_mojo",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY1FVMWpMcTQwbEY1X1dNcjQtRF93b19DRHdJOUQ5V04zWEgyRWJ4TUg0bWNmcFNoZURRbk1DNENrdS1GYVhHU2pBZ09kdGtRSnAxcHl4VE1DdVBNYXJ4V281UmhzaFB3bGpMeUtkVUlYdk1uZURVcVBhSGJBNGNwOFA2VTVkVTk1VUFUdHAxQWY0azM1b29fRWphanE5ZjhNbk1EYW54dFhtUnBLeE5Z?oc=5",
-      "title": "IRM Energy Ltd Stock Falls to 52-Week Low of Rs.198.15 - Markets Mojo",
-      "body": "IRM Energy Ltd Stock Falls to 52-Week Low of Rs.198.15 Markets Mojo",
-      "author": null,
-      "language": "en",
-      "ticker": "IRM",
-      "tickers_hint": [
-        "IRM"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "markets mojo",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Markets Mojo",
-        "source_domain": "marketsmojo.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "IRM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.41,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

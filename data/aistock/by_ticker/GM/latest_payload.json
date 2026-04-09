@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "3fec3953-e33c-5b56-b8dc-319bac8a44d4",
-      "timestamp_utc": "2026-04-02T21:45:05+00:00",
-      "source": "yahoo_finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaGRtaGcyenFYTTNFdHMta2tRTXBVWHlRU2oxejlvdUlmRVJHUmhXVWZCa0c4Y2xlVFU2RkZ6MjQ5V29leUJ2TEY1a2VxT1laT0xtb2ZCTThURnBJTUlYNWhfQTZtRlV0VW41TF9WcXNIeU9hcWJaT3d4WHdIbjQwUzRFVXNpWHVnRUZqZ1FwU01sOHBZU2lRTjFn?oc=5",
-      "title": "General Motors (GM) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
-      "body": "General Motors (GM) Stock Sinks As Market Gains: What You Should Know Yahoo Finance",
+      "id": "523cc51a-cd97-591a-b53f-591fde0703e1",
+      "timestamp_utc": "2026-04-08T02:04:31+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnhpMDYxdEJtTUdiZUpka3BTOE41X3JBWndKb2RBaHp6ZnNpSmQ5S1F3bUVCcG9IdEJnTi0wYk8yWUZTWjVNdmpHbm9nZlRTNXVVRk5HNWZvUWl4NjhoMTBYeXdGRmRUWVhEVkV1ZnhGM1VKdmJsbWpqV0wtTVlqdmxsdnJvYmpxOFJEd3N3NHJuZU5DU0hTT1ppNm1PM2NSVHNENEdjcEluVVBT?oc=5",
+      "title": "What's Going On With General Motors Stock Wednesday? - General Motors (NYSE:GM) - Benzinga",
+      "body": "What's Going On With General Motors Stock Wednesday? - General Motors (NYSE:GM) Benzinga",
       "author": null,
       "language": "en",
       "ticker": "GM",
@@ -15,31 +15,32 @@
         "GM"
       ],
       "source_quality": "high",
-      "publisher_raw": "finance.yahoo.com",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
-        "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
         "event_origin": "news",
-        "query_tickers": [
-          "GM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.63,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "3fec3953-e33c-5b56-b8dc-319bac8a44d4",
-      "timestamp_utc": "2026-04-02T21:45:05+00:00",
-      "source": "yahoo_finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaGRtaGcyenFYTTNFdHMta2tRTXBVWHlRU2oxejlvdUlmRVJHUmhXVWZCa0c4Y2xlVFU2RkZ6MjQ5V29leUJ2TEY1a2VxT1laT0xtb2ZCTThURnBJTUlYNWhfQTZtRlV0VW41TF9WcXNIeU9hcWJaT3d4WHdIbjQwUzRFVXNpWHVnRUZqZ1FwU01sOHBZU2lRTjFn?oc=5",
-      "title": "General Motors (GM) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
-      "body": "General Motors (GM) Stock Sinks As Market Gains: What You Should Know Yahoo Finance",
+      "id": "523cc51a-cd97-591a-b53f-591fde0703e1",
+      "timestamp_utc": "2026-04-08T02:04:31+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnhpMDYxdEJtTUdiZUpka3BTOE41X3JBWndKb2RBaHp6ZnNpSmQ5S1F3bUVCcG9IdEJnTi0wYk8yWUZTWjVNdmpHbm9nZlRTNXVVRk5HNWZvUWl4NjhoMTBYeXdGRmRUWVhEVkV1ZnhGM1VKdmJsbWpqV0wtTVlqdmxsdnJvYmpxOFJEd3N3NHJuZU5DU0hTT1ppNm1PM2NSVHNENEdjcEluVVBT?oc=5",
+      "title": "What's Going On With General Motors Stock Wednesday? - General Motors (NYSE:GM) - Benzinga",
+      "body": "What's Going On With General Motors Stock Wednesday? - General Motors (NYSE:GM) Benzinga",
       "author": null,
       "language": "en",
       "ticker": "GM",
@@ -47,20 +48,21 @@
         "GM"
       ],
       "source_quality": "high",
-      "publisher_raw": "finance.yahoo.com",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
-        "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
         "event_origin": "news",
-        "query_tickers": [
-          "GM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.63,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
     }
   ]
 }

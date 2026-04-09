@@ -1,40 +1,38 @@
 [
   {
-    "id": "11b5ca96-ea47-5522-bbd9-7a8865a9ea02",
-    "timestamp_utc": "2026-03-31T16:52:56+00:00",
-    "source": "the_globe_and_mail",
-    "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/1080006/axp-energy-completes-charlie-1-upgrades-ahead-of-production-restart/",
-    "title": "AXP Energy completes Charlie #1 upgrades ahead of production restart - The Globe and Mail",
-    "body": "The latest announcement is out from AXP Energy ( (AU:AXP) ).\n\nAXP Energy has completed all planned surface and downhole upgrades at its Charlie #1 well and related saltwater disposal infrastructure on the Edwards Lease in Oklahoma. The work includes installing a higher-horsepower gas engine on the pump jack and a higher-capacity downhole tubing pump capable of moving up to 800 barrels of fluid per day.\n\nThe company has also restored and connected a legacy saltwater disposal well, added poly pipe links and water holding tanks, and eliminated the need for manual trucking of produced water, materially improving efficiency. Charlie #1 is expected to restart within 48 hours, with oil and gas flow rates to be disclosed once water is drawn down and production stabilises, potentially enhancing output and cash flow from the lease.\n\nThe most recent analyst rating on (AU:AXP) stock is a Sell with a A$0.01 price target. To see the full list of analyst forecasts on AXP Energy stock, see the AU:AXP Stock Forecast page.\n\nAXP Energy is an oil and gas producer with operations in Oklahoma, where it holds a 100% working interest and 81.25% net revenue interest in the 1,000-acre Edwards Lease in Kay and Noble Counties. The company focuses on optimizing mature wells and associated infrastructure to improve hydrocarbon output and operational efficiency across its U.S. onshore portfolio.\n\nFor detailed information about AXP stock, go to TipRanks’ Stock Analysis page.",
+    "id": "883a68f8-03d3-505b-b311-dd5912d5daf9",
+    "timestamp_utc": "2026-04-07T23:46:16+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc3hvUXdEa3h0WDRBRVVOSmo1TjZMYjFOWEVHbE9DUGhOVk1IbDY5Y1AzYURNbGwwTmlpRWpYNGlSM2RMaGZfQnVJdEZ5aWNwbFd5WGs0NTdfSnNraEFPNENoR1NfcnlsZkJSRk45M056ZUczTUQ4YTRqcjV3SjRfLXJGZnZjQ3BUQVFvOEd4TEZKdDdE?oc=5",
+    "title": "Is American Express Company (AXP) a Ridiculously Cheap Stocks to Buy According to Wall Street? - Yahoo Finance UK",
+    "body": "Is American Express Company (AXP) a Ridiculously Cheap Stocks to Buy According to Wall Street? Yahoo Finance UK",
     "author": null,
     "language": "en",
     "ticker": "AXP",
     "tickers_hint": [
       "AXP"
     ],
-    "source_quality": "medium",
-    "publisher_raw": "theglobeandmail.com",
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "The Globe and Mail",
-      "source_domain": "theglobeandmail.com",
-      "trust_tier": 2,
-      "relevance": 0.55,
+      "source_name": "Yahoo Finance UK",
+      "source_domain": "finance.yahoo.com",
       "event_origin": "news",
-      "query_tickers": [
-        "AXP"
-      ],
-      "body_kind": "article_text"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.615,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "15238daa-25d9-53d9-9a0c-b216a1efe99a",
-    "timestamp_utc": "2026-04-01T00:06:39+00:00",
+    "id": "f3e324ef-dfda-57aa-914e-4706ddd18746",
+    "timestamp_utc": "2026-04-09T01:21:05+00:00",
     "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-american-express-company-axp-shares-acquired-by-j-safra-sarasin-holding-ag-2026-04-01/",
-    "title": "American Express Company $AXP Shares Acquired by J. Safra Sarasin Holding AG - MarketBeat",
-    "body": "American Express Company $AXP Shares Acquired by J. Safra Sarasin Holding AG MarketBeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-american-express-company-axp-stake-reduced-by-ofi-invest-asset-management-2026-04-09/",
+    "title": "American Express Company $AXP Stake Reduced by OFI Invest Asset Management - MarketBeat",
+    "body": "American Express Company $AXP Stake Reduced by OFI Invest Asset Management MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "AXP",
@@ -43,18 +41,16 @@
     ],
     "source_quality": "low",
     "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "MarketBeat",
       "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
       "event_origin": "news",
-      "query_tickers": [
-        "AXP"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4625,
+      "_channel": "google_broad"
+    }
   }
 ]

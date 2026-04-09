@@ -1,11 +1,11 @@
 [
   {
-    "id": "fd93caae-95ca-5b2d-be79-27eaec3513ff",
-    "timestamp_utc": "2026-03-31T06:52:30+00:00",
-    "source": "gurufocus",
-    "url": "https://www.gurufocus.com/news/8761530/motorola-solutions-msi-receives-new-coverage-with-buy-rating-by-truist-securities-msi-stock-news?mobile=true",
-    "title": "Motorola Solutions (MSI) Receives New Coverage with \"Buy\" Rating by Truist Securities | MSI Stock News - GuruFocus",
-    "body": "Motorola Solutions (MSI) Receives New Coverage with \"Buy\" Rating by Truist Securities | MSI Stock News GuruFocus",
+    "id": "a9d850ba-2cdc-512e-9d98-a1047c9b3c61",
+    "timestamp_utc": "2026-04-07T17:30:43+00:00",
+    "source": "hindustan_times",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMkZ5UUwtV0YxVzVVbjhEVDd6U2ZsejdFMTJ5NnphY3hjelZtT0dyVlZUcnBkRjV2RjFSMzNoWDQzN1hnalQyeGJ6QkdtbjU3LWtQU0VvNzQwMkxESWh2UjlZRFJhX0ZZMFNkNFY2VTlCMDhQNkEtRTlpcEwwTFFjQ0k3amU0WTcxbW8tQVBDVmc3cGI2RzhrREZCaXJJZVhoSEhsTU5nUVRldndXTWRYTC1ENDFJUU9oeUQxRzRMeDFMTWJkZEtXQ2MtWVNVZTV3QUJza2JaR0hvb3ZZYkJQbzVLbVVIQzZDSVHSAe8BQVVfeXFMTUlONXZIY1F5Q1VjSXpWclkyNTBUSkd4UjdrQTEzY1BSZ3dYWWtPTWVOOV84SmRFR2x4QUQxYVVTMnJkWk5FWTY3bGhoQ2tBRzREcHRWd2VZdERtMjNwdW1iMVk3NzZfdGRzVDZ5SEVjZUl6M0ZJX2luUllVcWl4SUF0d3Rwc1EwUmVVZk0yY29YUkR4S3V2MG9jRkhuN0pSWFlZLXM0amVEY1I5em5HRWhtVE1oWTV3OEk4eHJjZm9VSXpfSG1JcndBck05c3FlUWZ0S3o2S0RZVml6OGloVGwyOG1BOUhjS29kUlVheXM?oc=5",
+    "title": "PS5 out of stock in India: Get these powerful gaming laptops by ASUS, HP, MSI and more instead | Technology News - Hindustan Times",
+    "body": "PS5 out of stock in India: Get these powerful gaming laptops by ASUS, HP, MSI and more instead | Technology News Hindustan Times",
     "author": null,
     "language": "en",
     "ticker": "MSI",
@@ -13,48 +13,17 @@
       "MSI"
     ],
     "source_quality": "low",
-    "publisher_raw": "gurufocus.com",
+    "publisher_raw": "hindustan times",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "GuruFocus",
-      "source_domain": "gurufocus.com",
-      "trust_tier": 1,
-      "relevance": 0.6500000000000001,
+      "source_name": "Hindustan Times",
+      "source_domain": "hindustantimes.com",
       "event_origin": "news",
-      "query_tickers": [
-        "MSI"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "b68ca0a5-ee7e-506d-bc68-8fb6a5bec187",
-    "timestamp_utc": "2026-04-01T09:18:45+00:00",
-    "source": "bitget",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QSjJoU01TMktZM0FCYXFJZTJuemltYjFLNWxxR0VFUmlZVkJZN2FjRVd1ZW5pTFZfYXVwQV9sMzJIMVdxbmRHekRYVlF1cWx0OXd2aW5qNXdCdTh0V01oWEZiSdIBY0FVX3lxTE5QSjJoU01TMktZM0FCYXFJZTJuemltYjFLNWxxR0VFUmlZVkJZN2FjRVd1ZW5pTFZfYXVwQV9sMzJIMVdxbmRHekRYVlF1cWx0OXd2aW5qNXdCdTh0V01oWEZiSQ?oc=5",
-    "title": "ERIC or MSI: Which Stock Offers Better Value at the Moment? - Bitget",
-    "body": "ERIC or MSI: Which Stock Offers Better Value at the Moment? Bitget",
-    "author": null,
-    "language": "en",
-    "ticker": "MSI",
-    "tickers_hint": [
-      "MSI"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "bitget",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Bitget",
-      "source_domain": "bitget.com",
-      "trust_tier": 1,
       "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "MSI"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.405,
+      "_channel": "google_broad"
+    }
   }
 ]

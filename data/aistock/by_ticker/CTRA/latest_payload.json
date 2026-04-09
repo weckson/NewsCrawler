@@ -2,65 +2,61 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "6237c5ed-8ae1-5d14-b91a-f3a88606b1a0",
-      "timestamp_utc": "2026-04-01T00:55:54+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/CTRA/earnings",
-      "title": "CTRA Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "CTRA Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "7eec58a4-8b34-5747-aac5-e780c0b74cd8",
+      "timestamp_utc": "2026-04-07T18:06:00+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSl9PbUNYbzlGeURRTGFHNUZQSHRxOHJ1WjJBb2FBT1JYbmZTWTQwcTJtSWlDMnNtVEhheEVNLUNBOFJYXzkzSGZBbjRDRWFXSlFHVjhzbVR4Ym9HeHNwOXM2bDk3NDk2Z0FiTXpWYlpHd19qQUNJY3RmZHpmZTRUZEpFVGY1bHB2OVlrS0ZNRVJNUldKb1JteHVKTkpaNGRyaDhvQi1Vc1F4QQ?oc=5",
+      "title": "3 Reasons CTRA Has Explosive Upside Potential - TradingView",
+      "body": "3 Reasons CTRA Has Explosive Upside Potential TradingView",
       "author": null,
       "language": "en",
       "ticker": "CTRA",
       "tickers_hint": [
         "CTRA"
       ],
-      "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
         "event_origin": "news",
-        "query_tickers": [
-          "CTRA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.521,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "6237c5ed-8ae1-5d14-b91a-f3a88606b1a0",
-      "timestamp_utc": "2026-04-01T00:55:54+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/CTRA/earnings",
-      "title": "CTRA Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "CTRA Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "7eec58a4-8b34-5747-aac5-e780c0b74cd8",
+      "timestamp_utc": "2026-04-07T18:06:00+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSl9PbUNYbzlGeURRTGFHNUZQSHRxOHJ1WjJBb2FBT1JYbmZTWTQwcTJtSWlDMnNtVEhheEVNLUNBOFJYXzkzSGZBbjRDRWFXSlFHVjhzbVR4Ym9HeHNwOXM2bDk3NDk2Z0FiTXpWYlpHd19qQUNJY3RmZHpmZTRUZEpFVGY1bHB2OVlrS0ZNRVJNUldKb1JteHVKTkpaNGRyaDhvQi1Vc1F4QQ?oc=5",
+      "title": "3 Reasons CTRA Has Explosive Upside Potential - TradingView",
+      "body": "3 Reasons CTRA Has Explosive Upside Potential TradingView",
       "author": null,
       "language": "en",
       "ticker": "CTRA",
       "tickers_hint": [
         "CTRA"
       ],
-      "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
         "event_origin": "news",
-        "query_tickers": [
-          "CTRA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.521,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

@@ -2,123 +2,63 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "2ed53cf0-844c-53b0-86e7-49a3b52be558",
-      "timestamp_utc": "2026-04-01T06:02:00+00:00",
-      "source": "tradingview",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTThXMXVRUDVJN1g1cWE0S1FFcGQtVWJUR0lKbkE3UmMwNkRRaXhJWjZaZ0EtZF96Smp2TU1EZUhhMWNjOHRUa1I2eFZVU1F1Z2R2V0UwNzRGWnp1OGxVVmR4YXU2NVBYYTktalhjT1dSekdRTk90cTRNVnNWeEdIamtMT05VTUlFaTFiYzcweThXdVJxZ3hRRkxCZmYwc01ZZkF2dFRzWXhLZEF6cHFELXVUeGIxeGVRcUtCeg?oc=5",
-      "title": "WST Expands Dublin Facility to Boost Injectable Therapy Capacity - TradingView",
-      "body": "WST Expands Dublin Facility to Boost Injectable Therapy Capacity TradingView",
+      "id": "f720cb64-928e-5159-8b9e-0e37943cede8",
+      "timestamp_utc": "2026-04-06T05:40:03+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSXJNSkVsTDdZb3NfSlMwblZJLXB3RzByY2ZLZGE3bl9xTTJWTVVtb2lHSlBYelYxeTc5UUt2bnZzSW1wcWp0cUl1eklCcWRRUXc5WF8yeG4xQ0pNU0hiNWhiNGxxbnRFcl9jYzRNczU3TUU2SUgtdFVkaE5CeXY5QUxsdlVzZDZQSk4zcGtKVmU4Zw?oc=5",
+      "title": "ALGN vs. WST: Which Stock Should Value Investors Buy Now? - Yahoo Finance",
+      "body": "ALGN vs. WST: Which Stock Should Value Investors Buy Now? Yahoo Finance",
       "author": null,
       "language": "en",
-      "ticker": "WST",
+      "ticker": "ALGN",
       "tickers_hint": [
+        "ALGN",
         "WST"
       ],
-      "source_quality": "medium",
-      "publisher_raw": "tradingview.com",
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "TradingView",
-        "source_domain": "tradingview.com",
-        "trust_tier": 2,
-        "relevance": 0.5,
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "WST"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "9ad67937-96ea-5d04-8f24-d44da32bc31e",
-      "timestamp_utc": "2026-04-01T00:58:53+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/WST/earnings",
-      "title": "WST Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "WST Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
-      "author": null,
-      "language": "en",
-      "ticker": "WST",
-      "tickers_hint": [
-        "WST"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "intellectia ai",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
         "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "WST"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.6,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "2ed53cf0-844c-53b0-86e7-49a3b52be558",
-      "timestamp_utc": "2026-04-01T06:02:00+00:00",
-      "source": "tradingview",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTThXMXVRUDVJN1g1cWE0S1FFcGQtVWJUR0lKbkE3UmMwNkRRaXhJWjZaZ0EtZF96Smp2TU1EZUhhMWNjOHRUa1I2eFZVU1F1Z2R2V0UwNzRGWnp1OGxVVmR4YXU2NVBYYTktalhjT1dSekdRTk90cTRNVnNWeEdIamtMT05VTUlFaTFiYzcweThXdVJxZ3hRRkxCZmYwc01ZZkF2dFRzWXhLZEF6cHFELXVUeGIxeGVRcUtCeg?oc=5",
-      "title": "WST Expands Dublin Facility to Boost Injectable Therapy Capacity - TradingView",
-      "body": "WST Expands Dublin Facility to Boost Injectable Therapy Capacity TradingView",
+      "id": "f720cb64-928e-5159-8b9e-0e37943cede8",
+      "timestamp_utc": "2026-04-06T05:40:03+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSXJNSkVsTDdZb3NfSlMwblZJLXB3RzByY2ZLZGE3bl9xTTJWTVVtb2lHSlBYelYxeTc5UUt2bnZzSW1wcWp0cUl1eklCcWRRUXc5WF8yeG4xQ0pNU0hiNWhiNGxxbnRFcl9jYzRNczU3TUU2SUgtdFVkaE5CeXY5QUxsdlVzZDZQSk4zcGtKVmU4Zw?oc=5",
+      "title": "ALGN vs. WST: Which Stock Should Value Investors Buy Now? - Yahoo Finance",
+      "body": "ALGN vs. WST: Which Stock Should Value Investors Buy Now? Yahoo Finance",
       "author": null,
       "language": "en",
-      "ticker": "WST",
+      "ticker": "ALGN",
       "tickers_hint": [
+        "ALGN",
         "WST"
       ],
-      "source_quality": "medium",
-      "publisher_raw": "tradingview.com",
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "TradingView",
-        "source_domain": "tradingview.com",
-        "trust_tier": 2,
-        "relevance": 0.5,
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "WST"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "9ad67937-96ea-5d04-8f24-d44da32bc31e",
-      "timestamp_utc": "2026-04-01T00:58:53+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/WST/earnings",
-      "title": "WST Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "WST Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
-      "author": null,
-      "language": "en",
-      "ticker": "WST",
-      "tickers_hint": [
-        "WST"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "intellectia ai",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
         "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "WST"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.6,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

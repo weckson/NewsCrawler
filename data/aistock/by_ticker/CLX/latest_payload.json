@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "06534362-c0de-57b0-849f-070e4c91ed50",
-      "timestamp_utc": "2026-04-01T05:36:57+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/td-cowen-issues-positive-forecast-for-clorox-nyseclx-stock-price-2026-04-01/",
-      "title": "TD Cowen Issues Positive Forecast for Clorox (NYSE:CLX) Stock Price - MarketBeat",
-      "body": "TD Cowen Issues Positive Forecast for Clorox (NYSE:CLX) Stock Price MarketBeat",
+      "id": "e8de4bc6-4c7b-5344-8034-23a4992102cc",
+      "timestamp_utc": "2026-04-08T11:59:54+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782395/wells-fargo-lowers-price-target-on-clorox-clx-to-110-clx-stock-news?mobile=true",
+      "title": "Wells Fargo Lowers Price Target on Clorox (CLX) to $110 | CLX St - GuruFocus",
+      "body": "Wells Fargo Lowers Price Target on Clorox (CLX) to $110 | CLX St GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "CLX",
@@ -15,31 +15,29 @@
         "CLX"
       ],
       "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "CLX"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4925,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "06534362-c0de-57b0-849f-070e4c91ed50",
-      "timestamp_utc": "2026-04-01T05:36:57+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/td-cowen-issues-positive-forecast-for-clorox-nyseclx-stock-price-2026-04-01/",
-      "title": "TD Cowen Issues Positive Forecast for Clorox (NYSE:CLX) Stock Price - MarketBeat",
-      "body": "TD Cowen Issues Positive Forecast for Clorox (NYSE:CLX) Stock Price MarketBeat",
+      "id": "e8de4bc6-4c7b-5344-8034-23a4992102cc",
+      "timestamp_utc": "2026-04-08T11:59:54+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782395/wells-fargo-lowers-price-target-on-clorox-clx-to-110-clx-stock-news?mobile=true",
+      "title": "Wells Fargo Lowers Price Target on Clorox (CLX) to $110 | CLX St - GuruFocus",
+      "body": "Wells Fargo Lowers Price Target on Clorox (CLX) to $110 | CLX St GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "CLX",
@@ -47,20 +45,18 @@
         "CLX"
       ],
       "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "CLX"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4925,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

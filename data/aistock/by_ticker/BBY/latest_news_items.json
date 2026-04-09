@@ -1,11 +1,11 @@
 [
   {
-    "id": "fbb00895-4e38-5b64-94df-7ba034b7d0f7",
-    "timestamp_utc": "2026-04-01T08:36:11+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/best-buy-nysebby-given-new-7000-price-target-at-evercore-2026-04-01/",
-    "title": "Best Buy (NYSE:BBY) Given New $70.00 Price Target at Evercore - MarketBeat",
-    "body": "Best Buy (NYSE:BBY) Given New $70.00 Price Target at Evercore MarketBeat",
+    "id": "d45bc4ae-bc6c-588e-b3d8-1828c7b02171",
+    "timestamp_utc": "2026-04-07T15:58:46+00:00",
+    "source": "msn",
+    "url": "https://www.msn.com/en-us/money/topstocks/why-is-best-buy-bby-down-4-6-since-last-earnings-report/ar-AA200R4a",
+    "title": "Why is Best Buy (BBY) down 4.6% since last earnings report? - MSN",
+    "body": "Why is Best Buy (BBY) down 4.6% since last earnings report? MSN",
     "author": null,
     "language": "en",
     "ticker": "BBY",
@@ -13,19 +13,44 @@
       "BBY"
     ],
     "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
+    "publisher_raw": "msn",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.6,
+      "source_name": "MSN",
+      "source_domain": "msn.com",
       "event_origin": "news",
-      "query_tickers": [
-        "BBY"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6,
+      "quality_score": 0.46,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "7e1f7913-36ea-51e0-a78f-a862be40f248",
+    "timestamp_utc": "2026-04-07T14:17:00+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKelRHMzl5Ml9IaGVBWkNGUkFYczZtU0pLQ0xwa0JCNzh5T05KVldfXzY3Y0lsTzFNWDBmeVVpaUhLLXp4cm94WTQ5QUg5VVpSa0FGbWNOczRRa3hRdERqaEdXOU0?oc=5",
+    "title": "BBY May 2026 67.000 call (BBY260501C00067000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "body": "BBY May 2026 67.000 call (BBY260501C00067000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "author": null,
+    "language": "en",
+    "ticker": "BBY",
+    "tickers_hint": [
+      "BBY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo! finance canada",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.405,
+      "_channel": "google_broad"
+    }
   }
 ]

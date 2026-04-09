@@ -1,11 +1,95 @@
 [
   {
-    "id": "8ac2530b-2926-59bb-a972-1ab678c5bce7",
-    "timestamp_utc": "2026-04-01T00:57:02+00:00",
-    "source": "intellectia_ai",
-    "url": "https://intellectia.ai/en/stock/DLTR/earnings",
-    "title": "DLTR Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-    "body": "DLTR Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+    "id": "87fc95a9-88fc-5dfa-8724-2b233da2d54c",
+    "timestamp_utc": "2026-04-08T05:08:45+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbkswT0hULUhvbHk2eGJoSUFHaUJFUjNyejk2RzV3aEk0Qm80dUVJc3lZUUFrYzlQaXJnUEQ0UUNmdktPZzZFa3hOT0pNeTdUWndLcW9zMWVaTXNmcFU0VzR1VFFXb3NPU1NKSmZlU0ozTS03eXkwaEZrOFpSMmZTSThjamVDZDBDeE1Na0ZDV0d5MXgwMmdhM0dLUQ?oc=5",
+    "title": "Is It Time To Reassess Dollar Tree (DLTR) After Its Recent Share Price Pullback - Yahoo Finance",
+    "body": "Is It Time To Reassess Dollar Tree (DLTR) After Its Recent Share Price Pullback Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "DLTR",
+    "tickers_hint": [
+      "DLTR"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.64,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "17b956e7-848d-5d70-bf58-f460a6a1fa7e",
+    "timestamp_utc": "2026-04-07T08:28:35+00:00",
+    "source": "benzinga",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSVpVOWlXUnRZbU1Gelo4QTFBT2VlYWhrTXZTWVJZSmJwci02NERPTlpnaUJadDBpUzlodFROUERsTDhmTkh6VmhjM01ZQWpjYXBkamx2THBySmFRNmY0TVpKZlNDQ2VQM2xxT0owSVhtSXptTFpndGxaX2Z6RnJWLURwQjNzdWZKYjhESVEyQ2h0TjlRQ2gwRjBWbFpjUDN3OE9nMzNWMjRlS0Z4M1U4RQ?oc=5",
+    "title": "Why Are Dollar Tree Shares Trading Down On Tuesday? - Dollar Tree (NASDAQ:DLTR) - Benzinga",
+    "body": "Why Are Dollar Tree Shares Trading Down On Tuesday? - Dollar Tree (NASDAQ:DLTR) Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "DLTR",
+    "tickers_hint": [
+      "DLTR"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.61,
+      "_channel": "google_benzinga",
+      "_alt_sources": [
+        "Benzinga"
+      ]
+    }
+  },
+  {
+    "id": "229879c0-7ea0-557d-8423-59064bc72aa1",
+    "timestamp_utc": "2026-04-07T03:17:17+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV0VDMHJyVk5lcmtjd3dHdjVfenBMQmJBcmxGTmdPRFVscVJpb2lVaTFNd1ZGZU94NUZLU3ZLdjBZdWthYUpZbDFNT0FxTUo2Tl9Wc1RSYnpOQUdETGFDRG1jZm9LWExrWG84NHkzS1BjOVFESXdPZjNmeGJjR3JBTGN5SDc0SnFLOWJOMWxuMTRCbEJMTmh4QmpR?oc=5",
+    "title": "Dollar Tree (DLTR) Gained from Lower Freight Costs and Favorable Product Mix - Yahoo Finance",
+    "body": "Dollar Tree (DLTR) Gained from Lower Freight Costs and Favorable Product Mix Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "DLTR",
+    "tickers_hint": [
+      "DLTR"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.6,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "30afebe0-e18a-58a3-af65-3ed762eb4780",
+    "timestamp_utc": "2026-04-07T17:49:35+00:00",
+    "source": "mexc_exchange",
+    "url": "https://www.mexc.co/en-PH/news/1010819",
+    "title": "Dollar Tree (DLTR) Stock Tumbles Nearly 5% Amid Analyst Cuts and Macro Headwinds - MEXC Exchange",
+    "body": "Dollar Tree has struggled to find its footing since reporting earnings in mid-March, and Tuesday’s session brought more pain. Shares tumbled nearly 5% as investors continued to digest the retailer’s conservative fiscal 2026 projections alongside a challenging macroeconomic backdrop that’s punishing consumer-oriented equities.\n\nThe discount chain actually exceeded earnings expectations in its fourth quarter fiscal 2025 results — posting adjusted earnings per share of $2.56 — but topline performance fell short. Revenue reached $5.45 billion, narrowly missing Wall Street’s $5.46 billion consensus. That slim shortfall, combined with management’s tepid guidance, has kept the bears firmly in charge.\n\nYear-to-date, the stock has shed 9.69% of its value and remains well off its 52-week peak of $142.40. Trading below its 50-day moving average of $118.11, the technical setup looks increasingly unfavorable for bulls.\n\nComplicating matters further, inflation readings have come in hotter than anticipated while oil prices have climbed. Typically, discount retailers can capitalize when consumers tighten their belts — but that defensive narrative hasn’t gained traction for DLTR. The company’s subdued outlook is overshadowing any potential benefit from trade-down behavior.\n\nIn the days following the earnings release, multiple sell-side analysts have lowered their price objectives on DLTR. Notably absent have been any meaningful upgrades or constructive revisions that might counter the pessimism. The result has been persistently negative sentiment surrounding the shares.\n\nTechnical indicators currently flash a “Sell” signal for the stock. With a beta of 1.10, DLTR generally tracks broader market movements fairly closely — and those movements have been decidedly unfavorable in recent weeks.\n\nOn the institutional front, there’s been some notable activity. CFC Planning Co LLC completely liquidated its Dollar Tree holdings according to recent regulatory filings. Meanwhile, several smaller investment firms — including Stonebridge Financial Group, Ascent Group, and CIGNA Investments — have initiated new stakes. Stonebridge acquired 3,605 shares worth approximately $443,000. While these transactions show mixed sentiment, the position sizes are too modest to materially impact the stock’s trajectory.\n\nA closer examination of Dollar Tree’s financial position reveals some areas of concern. The retailer operates with a debt-to-equity ratio of 1.88, which skews toward the elevated end of the spectrum. Its quick ratio registers at just 0.29, pointing to constrained near-term liquidity. The current ratio of 1.07 barely clears the 1.0 benchmark that indicates a company can meet immediate liabilities.\n\nOn a positive note, the company recently arranged a $500 million term loan credit facility, providing additional financial maneuverability.\n\nProfitability metrics tell a more encouraging story. Return on equity clocks in at a robust 34.28%, while net margin stands at 6.61%. While these figures demonstrate operational efficiency, market participants remain fixated on forward prospects — and the fiscal 2026 guidance has failed to inspire confidence.\n\nThe stock’s 52-week trough sits at $68.86, with current market capitalization at $21.92 billion.\n\nThe post Dollar Tree (DLTR) Stock Tumbles Nearly 5% Amid Analyst Cuts and Macro Headwinds appeared first on Blockonomi.",
     "author": null,
     "language": "en",
     "ticker": "DLTR",
@@ -13,19 +97,44 @@
       "DLTR"
     ],
     "source_quality": "low",
-    "publisher_raw": "intellectia ai",
+    "publisher_raw": "mexc exchange",
+    "trust_tier": 1,
+    "body_kind": "article_text",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Intellectia AI",
-      "source_domain": "intellectiaai.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "MEXC Exchange",
+      "source_domain": "mexcexchange.com",
       "event_origin": "news",
-      "query_tickers": [
-        "DLTR"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4675,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "666b609a-164b-56a5-8b1a-c826be8c4327",
+    "timestamp_utc": "2026-04-07T11:56:21+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84dGNrWmFzMXJ5RURYRUl5SGhWbXlpQXExTDVTTk1fVTZJamVDc203dmw4dHVUQzlBcFp1c2tvV1p4bXduSV9ud3dmWDNjQjVzVFBiTGlXNzZNb2I4c0hXX19Gb3A1dw?oc=5",
+    "title": "DLTR Apr 2026 150.000 call (DLTR260410C00150000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "body": "DLTR Apr 2026 150.000 call (DLTR260410C00150000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "author": null,
+    "language": "en",
+    "ticker": "DLTR",
+    "tickers_hint": [
+      "DLTR"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo! finance canada",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.405,
+      "_channel": "google_broad"
+    }
   }
 ]

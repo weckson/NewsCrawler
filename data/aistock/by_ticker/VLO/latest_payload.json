@@ -2,41 +2,39 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "1624156b-4ca2-53f5-b8d4-a448a50a3804",
-      "timestamp_utc": "2026-04-01T01:08:00+00:00",
-      "source": "the_globe_and_mail",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYnNIZkFhaHdTUjU2U0QzRmFMMEZtNzVRNktWREYwSlM5cXAwa0lwQWs1dUdrWE10MzNJZVJNT3ltTmE4VnRBNng5ZmNqd3I0S2NfVExTYkZSLVNXLWVVb3RKS09weGxIcjMyajRRR0JxcUdGVXVpOFhTZElpX1pjeFF1SlF4Q1gzWmR1cUhQNzNhTm1FSkw3SnA2OHRoaDZNb2RuNEpCSFlRZE0tdmxsQWpudGdjUkRTRFAyRlNzX2JHTVcwRG5ibA?oc=5",
-      "title": "Valero Energy (VLO) Gets a Buy from Wells Fargo - The Globe and Mail",
-      "body": "Valero Energy (VLO) Gets a Buy from Wells Fargo The Globe and Mail",
+      "id": "3e463b9c-bab3-5faa-8a06-fbcdc81f05ce",
+      "timestamp_utc": "2026-04-08T12:27:05+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0h5UFlWcDlUN1dtMkRLU0QzZ3hJLXlrbmtrWUZ4LTNsdWN2azhmOU02MmFfTXZZNWJXSU5maEdhSUE2cWtiRFlIUGdYWmgxNWpOaWZsTDZTaXBkV2RJUWZ5RHA1emltbW8wd1VIZ3JxczRxTzNpSEJaRkpxYy1KN2t2WXM2QWpIMXFnQlZSSTIwREZ6bGtFUkdmQllWX0NrQVQ0OHV4eVBUcFJOTHhFOWlxemc2eGNjZnBvcDJpSU1VNkE?oc=5",
+      "title": "Valero's Port Arthur refinery blast destroyed diesel hydrotreater control room - Reuters (VLO:NYSE) - Seeking Alpha",
+      "body": "Valero's Port Arthur refinery blast destroyed diesel hydrotreater control room - Reuters (VLO:NYSE) Seeking Alpha",
       "author": null,
       "language": "en",
       "ticker": "VLO",
       "tickers_hint": [
         "VLO"
       ],
-      "source_quality": "medium",
-      "publisher_raw": "theglobeandmail.com",
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "The Globe and Mail",
-        "source_domain": "theglobeandmail.com",
-        "trust_tier": 2,
-        "relevance": 0.5,
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
         "event_origin": "news",
-        "query_tickers": [
-          "VLO"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.635,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "e399ec81-5768-51a1-9245-47daa98fd63a",
-      "timestamp_utc": "2026-03-31T20:47:10+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/VLO/technical",
-      "title": "VLO Technical Analysis & Stock Price Forecast - Intellectia AI",
-      "body": "VLO Technical Analysis & Stock Price Forecast Intellectia AI",
+      "id": "d9e6fc25-53bb-56b5-a62d-6af7fce1c9f2",
+      "timestamp_utc": "2026-04-08T04:22:05+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/valero-energy-nysevlo-price-target-raised-to-26300-2026-04-08/",
+      "title": "Valero Energy (NYSE:VLO) Price Target Raised to $263.00 - MarketBeat",
+      "body": "Valero Energy (NYSE:VLO) Price Target Raised to $263.00 MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "VLO",
@@ -44,60 +42,137 @@
         "VLO"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "VLO"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.48,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "f54b77b7-75bb-583d-8a17-91805dd82cd1",
+      "timestamp_utc": "2026-04-08T04:37:58+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8781937/piper-sandler-raises-valero-energy-vlo-price-target-to-263-vlo-stock-news",
+      "title": "Piper Sandler Raises Valero Energy (VLO) Price Target to $263 | - GuruFocus",
+      "body": "Piper Sandler Raises Valero Energy (VLO) Price Target to $263 | GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "VLO",
+      "tickers_hint": [
+        "VLO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4675,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "1d3c7830-2f51-5008-a11e-59676fd5b2eb",
+      "timestamp_utc": "2026-04-08T09:09:25+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782337/valero-energy-vlo-sees-analyst-barclays-maintain-and-raise-price-target-to-261-vlo-stock-news",
+      "title": "Valero Energy (VLO) Sees Analyst Barclays Maintain and Raise Pri - GuruFocus",
+      "body": "Valero Energy (VLO) Sees Analyst Barclays Maintain and Raise Pri GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "VLO",
+      "tickers_hint": [
+        "VLO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "a92fcc3d-18bf-5600-8a56-477e2b181d45",
+      "timestamp_utc": "2026-04-08T22:02:01+00:00",
+      "source": "msn",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY3dGQ3lYZXktdmktRjNPdHotVm5UU0dYSXh1M0xIX1hYYVFrM2RBN1dOSTRPVS1VcGQxNm5YVFB3akdOeVhfN2owMmt2M19QY3RwNWtiT0o5dS1TM1JrUjBtMFVqQTJEdjIxRXpEUHRQWGw0NU5zakVzdEhJbXBvekMwT3A0TjJJTlhkSE9aM1ZrTVZlUldIWks2dUNQcUNJcW9xVTc2anpEbkkxY19LZXozdFNXRmwya08tQkJpNmE5UVBPMDN0bW9R?oc=5",
+      "title": "Valero Energy (VLO) stock falls amid market uptick: What investors need to know - MSN",
+      "body": "Valero Energy (VLO) stock falls amid market uptick: What investors need to know MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "VLO",
+      "tickers_hint": [
+        "VLO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.43,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "1624156b-4ca2-53f5-b8d4-a448a50a3804",
-      "timestamp_utc": "2026-04-01T01:08:00+00:00",
-      "source": "the_globe_and_mail",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYnNIZkFhaHdTUjU2U0QzRmFMMEZtNzVRNktWREYwSlM5cXAwa0lwQWs1dUdrWE10MzNJZVJNT3ltTmE4VnRBNng5ZmNqd3I0S2NfVExTYkZSLVNXLWVVb3RKS09weGxIcjMyajRRR0JxcUdGVXVpOFhTZElpX1pjeFF1SlF4Q1gzWmR1cUhQNzNhTm1FSkw3SnA2OHRoaDZNb2RuNEpCSFlRZE0tdmxsQWpudGdjUkRTRFAyRlNzX2JHTVcwRG5ibA?oc=5",
-      "title": "Valero Energy (VLO) Gets a Buy from Wells Fargo - The Globe and Mail",
-      "body": "Valero Energy (VLO) Gets a Buy from Wells Fargo The Globe and Mail",
+      "id": "3e463b9c-bab3-5faa-8a06-fbcdc81f05ce",
+      "timestamp_utc": "2026-04-08T12:27:05+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0h5UFlWcDlUN1dtMkRLU0QzZ3hJLXlrbmtrWUZ4LTNsdWN2azhmOU02MmFfTXZZNWJXSU5maEdhSUE2cWtiRFlIUGdYWmgxNWpOaWZsTDZTaXBkV2RJUWZ5RHA1emltbW8wd1VIZ3JxczRxTzNpSEJaRkpxYy1KN2t2WXM2QWpIMXFnQlZSSTIwREZ6bGtFUkdmQllWX0NrQVQ0OHV4eVBUcFJOTHhFOWlxemc2eGNjZnBvcDJpSU1VNkE?oc=5",
+      "title": "Valero's Port Arthur refinery blast destroyed diesel hydrotreater control room - Reuters (VLO:NYSE) - Seeking Alpha",
+      "body": "Valero's Port Arthur refinery blast destroyed diesel hydrotreater control room - Reuters (VLO:NYSE) Seeking Alpha",
       "author": null,
       "language": "en",
       "ticker": "VLO",
       "tickers_hint": [
         "VLO"
       ],
-      "source_quality": "medium",
-      "publisher_raw": "theglobeandmail.com",
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "The Globe and Mail",
-        "source_domain": "theglobeandmail.com",
-        "trust_tier": 2,
-        "relevance": 0.5,
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
         "event_origin": "news",
-        "query_tickers": [
-          "VLO"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.635,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "e399ec81-5768-51a1-9245-47daa98fd63a",
-      "timestamp_utc": "2026-03-31T20:47:10+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/VLO/technical",
-      "title": "VLO Technical Analysis & Stock Price Forecast - Intellectia AI",
-      "body": "VLO Technical Analysis & Stock Price Forecast Intellectia AI",
+      "id": "d9e6fc25-53bb-56b5-a62d-6af7fce1c9f2",
+      "timestamp_utc": "2026-04-08T04:22:05+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/valero-energy-nysevlo-price-target-raised-to-26300-2026-04-08/",
+      "title": "Valero Energy (NYSE:VLO) Price Target Raised to $263.00 - MarketBeat",
+      "body": "Valero Energy (NYSE:VLO) Price Target Raised to $263.00 MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "VLO",
@@ -105,20 +180,99 @@
         "VLO"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "VLO"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.48,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "f54b77b7-75bb-583d-8a17-91805dd82cd1",
+      "timestamp_utc": "2026-04-08T04:37:58+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8781937/piper-sandler-raises-valero-energy-vlo-price-target-to-263-vlo-stock-news",
+      "title": "Piper Sandler Raises Valero Energy (VLO) Price Target to $263 | - GuruFocus",
+      "body": "Piper Sandler Raises Valero Energy (VLO) Price Target to $263 | GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "VLO",
+      "tickers_hint": [
+        "VLO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4675,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "1d3c7830-2f51-5008-a11e-59676fd5b2eb",
+      "timestamp_utc": "2026-04-08T09:09:25+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782337/valero-energy-vlo-sees-analyst-barclays-maintain-and-raise-price-target-to-261-vlo-stock-news",
+      "title": "Valero Energy (VLO) Sees Analyst Barclays Maintain and Raise Pri - GuruFocus",
+      "body": "Valero Energy (VLO) Sees Analyst Barclays Maintain and Raise Pri GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "VLO",
+      "tickers_hint": [
+        "VLO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "a92fcc3d-18bf-5600-8a56-477e2b181d45",
+      "timestamp_utc": "2026-04-08T22:02:01+00:00",
+      "source": "msn",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY3dGQ3lYZXktdmktRjNPdHotVm5UU0dYSXh1M0xIX1hYYVFrM2RBN1dOSTRPVS1VcGQxNm5YVFB3akdOeVhfN2owMmt2M19QY3RwNWtiT0o5dS1TM1JrUjBtMFVqQTJEdjIxRXpEUHRQWGw0NU5zakVzdEhJbXBvekMwT3A0TjJJTlhkSE9aM1ZrTVZlUldIWks2dUNQcUNJcW9xVTc2anpEbkkxY19LZXozdFNXRmwya08tQkJpNmE5UVBPMDN0bW9R?oc=5",
+      "title": "Valero Energy (VLO) stock falls amid market uptick: What investors need to know - MSN",
+      "body": "Valero Energy (VLO) stock falls amid market uptick: What investors need to know MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "VLO",
+      "tickers_hint": [
+        "VLO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.43,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

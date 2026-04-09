@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "2807e2f5-e518-5f96-9dee-b55ffb94001a",
-      "timestamp_utc": "2026-04-02T22:38:56+00:00",
-      "source": "yahoo_finance_uk",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44ZVFqN2xiRWt4aUVDcnNvT3JoX3BYZjY3bWpFN1pJRlJnUm5MR2VjU2RyUkRLT1ZSbGd6Qlp5ay1ZMExaXzdLRVg0bHNJTUU?oc=5",
-      "title": "Electronic Arts Inc. (EA) stock price, news, quote and history - Yahoo Finance UK",
-      "body": "Electronic Arts Inc. (EA) stock price, news, quote and history Yahoo Finance UK",
+      "id": "335b0113-9ebe-5e2f-b8e2-8f3e08ae9add",
+      "timestamp_utc": "2026-04-08T18:33:22+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wVmNZNmJQQzdNVFVjR1VNWFBSTzlkOU51N25odlEzbmY0UHBFOHh5QWV5dGllNHduUUh3Mkp4SzNuMjJLaXNiU2szaGJmdlU?oc=5",
+      "title": "Electronic Arts Inc. (EA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Electronic Arts Inc. (EA) Stock Price, News, Quote & History Yahoo! Finance Canada",
       "author": null,
       "language": "en",
       "ticker": "EA",
@@ -15,31 +15,29 @@
         "EA"
       ],
       "source_quality": "low",
-      "publisher_raw": "yahoo finance uk",
+      "publisher_raw": "yahoo! finance canada",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance UK",
-        "source_domain": "yahoofinanceuk.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
         "event_origin": "news",
-        "query_tickers": [
-          "EA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.43,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "2807e2f5-e518-5f96-9dee-b55ffb94001a",
-      "timestamp_utc": "2026-04-02T22:38:56+00:00",
-      "source": "yahoo_finance_uk",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44ZVFqN2xiRWt4aUVDcnNvT3JoX3BYZjY3bWpFN1pJRlJnUm5MR2VjU2RyUkRLT1ZSbGd6Qlp5ay1ZMExaXzdLRVg0bHNJTUU?oc=5",
-      "title": "Electronic Arts Inc. (EA) stock price, news, quote and history - Yahoo Finance UK",
-      "body": "Electronic Arts Inc. (EA) stock price, news, quote and history Yahoo Finance UK",
+      "id": "335b0113-9ebe-5e2f-b8e2-8f3e08ae9add",
+      "timestamp_utc": "2026-04-08T18:33:22+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wVmNZNmJQQzdNVFVjR1VNWFBSTzlkOU51N25odlEzbmY0UHBFOHh5QWV5dGllNHduUUh3Mkp4SzNuMjJLaXNiU2szaGJmdlU?oc=5",
+      "title": "Electronic Arts Inc. (EA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Electronic Arts Inc. (EA) Stock Price, News, Quote & History Yahoo! Finance Canada",
       "author": null,
       "language": "en",
       "ticker": "EA",
@@ -47,20 +45,18 @@
         "EA"
       ],
       "source_quality": "low",
-      "publisher_raw": "yahoo finance uk",
+      "publisher_raw": "yahoo! finance canada",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance UK",
-        "source_domain": "yahoofinanceuk.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
         "event_origin": "news",
-        "query_tickers": [
-          "EA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.43,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

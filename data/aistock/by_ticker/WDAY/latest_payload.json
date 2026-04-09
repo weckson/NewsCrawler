@@ -2,12 +2,73 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "807c774d-6649-552e-b301-15cc155af728",
-      "timestamp_utc": "2026-04-03T11:31:10+00:00",
-      "source": "chartmill.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMEljbGIwdkhRTjVmYUJaMV9QYV9KcEFwakR0RzA4a01wUmFsVURBeFFrMU9ETkxQRXQzTHBEZkVkbmU3d25kTlpkN3MyT25UV2hvY01XV3hSQ010VFlMMlNzd1QtVk9reVcxbU51U21WY1VLV3MxUS1YV1NTNWt0QmdoVUk5RGhNS2Y0QjdCZDZIQkdFQllLSnhPeGEyWk8xaTBuZ1JUbjFWR3VUUW0wSjhOVDhJWjkzM2VXTVBKNno2OTVaajNzYw?oc=5",
-      "title": "Workday Inc-Class A (NASDAQ:WDAY) Fits the \"Affordable Growth\" Investment Strategy - chartmill.com",
-      "body": "Workday Inc-Class A (NASDAQ:WDAY) Fits the \"Affordable Growth\" Investment Strategy chartmill.com",
+      "id": "c31eaf5f-df21-556a-8267-93a11a8e6ae1",
+      "timestamp_utc": "2026-04-08T20:37:10+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRTFSYnY4OVdaTUpPMW82OWxqa3B4ZDAyenp3NnNFdkJsREItT1hlV2VuUnYtYkxTRFM2cmRjTUl1TjRVTkVOWDlhX05kbDVvOWdqSUFxbmcyRjZqQ0txY3pvTjRIRmJFbUxLUHl4VVQ1U0xsU1VqQWFTLS00blhZRGdidVlGRm9SRFVGYW1kcjFSTkw3Sks5UUlWeVZpb3hUY0NuczFmSDkzMkFnTEZVM0xZYmp1eVFxbC1GbWhGNFAtS0t6d2lWOWc0aEZ4VVByRVFhRE9laV8xUnIyQWNXNU5sQnlYQQ?oc=5",
+      "title": "Workday Is Trending Overnight After Slipping On Wednesday: Here's What's Going On With WDAY Stock - Benzinga",
+      "body": "Workday Is Trending Overnight After Slipping On Wednesday: Here's What's Going On With WDAY Stock Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "WDAY",
+      "tickers_hint": [
+        "WDAY"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.68,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga",
+          "MSN"
+        ]
+      }
+    },
+    {
+      "id": "d4a532ec-5417-5ecb-a0de-116f76b5af26",
+      "timestamp_utc": "2026-04-08T21:33:47+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc1VfdGgzb1BZQnVFWHhYT2QzODR2d0huT3Q2RER5YjBXVmFmREdIMGZocjdXYk53OEszbkFnYlN4b213RWhkVjd2YjQ5bktQR0ZLNVpiN25KaWpwa0pJZ2xOd1NqVEUzSENXOXJLVFNaRTJQQTFQUWh2enVwMTVvZEtvN0tTdDY3b0xBZHNmZWpsekd2Rkd2bFJicw?oc=5",
+      "title": "Why Workday (WDAY) Stock Is Falling Today - Yahoo Finance",
+      "body": "Why Workday (WDAY) Stock Is Falling Today Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "WDAY",
+      "tickers_hint": [
+        "WDAY"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.641,
+        "_channel": "google_broad",
+        "_alt_sources": [
+          "TradingView"
+        ]
+      }
+    },
+    {
+      "id": "697e5375-db5f-5e78-af9a-45c3a9c688b8",
+      "timestamp_utc": "2026-04-08T21:05:00+00:00",
+      "source": "ebc_financial_group",
+      "url": "https://www.ebc.com/forex/workday-wday-stock-down-over-50-is-the-ai-threat-overpriced",
+      "title": "Workday (WDAY) Stock Down Over 50%: Is the AI Threat Overpriced? - EBC Financial Group",
+      "body": "Workday (WDAY) Stock Down Over 50%: Is the AI Threat Overpriced? EBC Financial Group",
       "author": null,
       "language": "en",
       "ticker": "WDAY",
@@ -15,31 +76,117 @@
         "WDAY"
       ],
       "source_quality": "low",
-      "publisher_raw": "chartmill.com",
+      "publisher_raw": "ebc financial group",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "chartmill.com",
-        "source_domain": "chartmillcom.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "EBC Financial Group",
+        "source_domain": "ebcfinancialgroup.com",
         "event_origin": "news",
-        "query_tickers": [
-          "WDAY"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4725,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "53d644f9-f1ac-5735-b4cf-cefab7545933",
+      "timestamp_utc": "2026-04-07T14:22:43+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/workday-nasdaqwday-insider-sells-69531993-in-stock-2026-04-07/",
+      "title": "Workday (NASDAQ:WDAY) Insider Sells $695,319.93 in Stock - MarketBeat",
+      "body": "Workday (NASDAQ:WDAY) Insider Sells $695,319.93 in Stock MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "WDAY",
+      "tickers_hint": [
+        "WDAY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4475,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "807c774d-6649-552e-b301-15cc155af728",
-      "timestamp_utc": "2026-04-03T11:31:10+00:00",
-      "source": "chartmill.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMEljbGIwdkhRTjVmYUJaMV9QYV9KcEFwakR0RzA4a01wUmFsVURBeFFrMU9ETkxQRXQzTHBEZkVkbmU3d25kTlpkN3MyT25UV2hvY01XV3hSQ010VFlMMlNzd1QtVk9reVcxbU51U21WY1VLV3MxUS1YV1NTNWt0QmdoVUk5RGhNS2Y0QjdCZDZIQkdFQllLSnhPeGEyWk8xaTBuZ1JUbjFWR3VUUW0wSjhOVDhJWjkzM2VXTVBKNno2OTVaajNzYw?oc=5",
-      "title": "Workday Inc-Class A (NASDAQ:WDAY) Fits the \"Affordable Growth\" Investment Strategy - chartmill.com",
-      "body": "Workday Inc-Class A (NASDAQ:WDAY) Fits the \"Affordable Growth\" Investment Strategy chartmill.com",
+      "id": "c31eaf5f-df21-556a-8267-93a11a8e6ae1",
+      "timestamp_utc": "2026-04-08T20:37:10+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRTFSYnY4OVdaTUpPMW82OWxqa3B4ZDAyenp3NnNFdkJsREItT1hlV2VuUnYtYkxTRFM2cmRjTUl1TjRVTkVOWDlhX05kbDVvOWdqSUFxbmcyRjZqQ0txY3pvTjRIRmJFbUxLUHl4VVQ1U0xsU1VqQWFTLS00blhZRGdidVlGRm9SRFVGYW1kcjFSTkw3Sks5UUlWeVZpb3hUY0NuczFmSDkzMkFnTEZVM0xZYmp1eVFxbC1GbWhGNFAtS0t6d2lWOWc0aEZ4VVByRVFhRE9laV8xUnIyQWNXNU5sQnlYQQ?oc=5",
+      "title": "Workday Is Trending Overnight After Slipping On Wednesday: Here's What's Going On With WDAY Stock - Benzinga",
+      "body": "Workday Is Trending Overnight After Slipping On Wednesday: Here's What's Going On With WDAY Stock Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "WDAY",
+      "tickers_hint": [
+        "WDAY"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.68,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga",
+          "MSN"
+        ]
+      }
+    },
+    {
+      "id": "d4a532ec-5417-5ecb-a0de-116f76b5af26",
+      "timestamp_utc": "2026-04-08T21:33:47+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc1VfdGgzb1BZQnVFWHhYT2QzODR2d0huT3Q2RER5YjBXVmFmREdIMGZocjdXYk53OEszbkFnYlN4b213RWhkVjd2YjQ5bktQR0ZLNVpiN25KaWpwa0pJZ2xOd1NqVEUzSENXOXJLVFNaRTJQQTFQUWh2enVwMTVvZEtvN0tTdDY3b0xBZHNmZWpsekd2Rkd2bFJicw?oc=5",
+      "title": "Why Workday (WDAY) Stock Is Falling Today - Yahoo Finance",
+      "body": "Why Workday (WDAY) Stock Is Falling Today Yahoo Finance",
+      "author": null,
+      "language": "en",
+      "ticker": "WDAY",
+      "tickers_hint": [
+        "WDAY"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.641,
+        "_channel": "google_broad",
+        "_alt_sources": [
+          "TradingView"
+        ]
+      }
+    },
+    {
+      "id": "697e5375-db5f-5e78-af9a-45c3a9c688b8",
+      "timestamp_utc": "2026-04-08T21:05:00+00:00",
+      "source": "ebc_financial_group",
+      "url": "https://www.ebc.com/forex/workday-wday-stock-down-over-50-is-the-ai-threat-overpriced",
+      "title": "Workday (WDAY) Stock Down Over 50%: Is the AI Threat Overpriced? - EBC Financial Group",
+      "body": "Workday (WDAY) Stock Down Over 50%: Is the AI Threat Overpriced? EBC Financial Group",
       "author": null,
       "language": "en",
       "ticker": "WDAY",
@@ -47,20 +194,45 @@
         "WDAY"
       ],
       "source_quality": "low",
-      "publisher_raw": "chartmill.com",
+      "publisher_raw": "ebc financial group",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "chartmill.com",
-        "source_domain": "chartmillcom.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "EBC Financial Group",
+        "source_domain": "ebcfinancialgroup.com",
         "event_origin": "news",
-        "query_tickers": [
-          "WDAY"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4725,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "53d644f9-f1ac-5735-b4cf-cefab7545933",
+      "timestamp_utc": "2026-04-07T14:22:43+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/workday-nasdaqwday-insider-sells-69531993-in-stock-2026-04-07/",
+      "title": "Workday (NASDAQ:WDAY) Insider Sells $695,319.93 in Stock - MarketBeat",
+      "body": "Workday (NASDAQ:WDAY) Insider Sells $695,319.93 in Stock MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "WDAY",
+      "tickers_hint": [
+        "WDAY"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4475,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

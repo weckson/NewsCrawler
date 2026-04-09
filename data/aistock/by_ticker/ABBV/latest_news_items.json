@@ -1,11 +1,38 @@
 [
   {
-    "id": "8c3d5e2e-9b35-5ada-92ac-48dd265ea4e9",
-    "timestamp_utc": "2026-04-02T17:23:44+00:00",
-    "source": "tradersunion.com",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTFl2eVJWVEVJWExKQXp5aHZYOGlTaDdta0ZOZUt6bDNHTnBJWTBNMEZ0YU9RaGJ1YjZjbHd4UWpGd012MEwzcTg0dURISUdnSGMyVzdhYllSTThwdldoOGVfd0h0N0VESnAxRXUtRWg4SjNyUDk5cTBBSDlRTThqeFp3TkhJM3U1NlhPMkVzbGNCemVGa1dmcg?oc=5",
-    "title": "AbbVie stock price forecast: Downside risk builds as ABBV drops 3.07% to $208 - tradersunion.com",
-    "body": "AbbVie stock price forecast: Downside risk builds as ABBV drops 3.07% to $208 tradersunion.com",
+    "id": "19706be6-f51a-5fce-8795-a460e8197117",
+    "timestamp_utc": "2026-04-08T03:00:07+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZnFXOGNXcWdiZlZyTHVkU2dEZ1JxcThLVm5FT3V1NFJxZTZUa245ckZZekdiSnYyTDdkTHFrQkJqd1huQXA2WmM4QkhlU2dJTktZMDNfYWVuYlFKVGFseTE4VFljLTIyTUFJSFZFSzlnM0Ezemg2TzFfUXREcmgwYzJZNTRaWTFrOVd2dDJqTjA1ZEcyYmUzbW1IOA?oc=5",
+    "title": "AbbVie Inc. (ABBV) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+    "body": "AbbVie Inc. (ABBV) Is a Trending Stock: Facts to Know Before Betting on It Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "ABBV",
+    "tickers_hint": [
+      "ABBV"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.62,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "b8c8b62f-1b6a-5124-ba97-655dd89494b3",
+    "timestamp_utc": "2026-04-08T03:39:17+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8781773/abbv-cantor-fitzgerald-lowers-price-target-maintains-overweight-rating-abbv-stock-news",
+    "title": "ABBV: Cantor Fitzgerald Lowers Price Target, Maintains Overweigh - GuruFocus",
+    "body": "ABBV: Cantor Fitzgerald Lowers Price Target, Maintains Overweigh GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "ABBV",
@@ -13,19 +40,17 @@
       "ABBV"
     ],
     "source_quality": "low",
-    "publisher_raw": "tradersunion.com",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "tradersunion.com",
-      "source_domain": "tradersunioncom.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
       "event_origin": "news",
-      "query_tickers": [
-        "ABBV"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4375,
+      "_channel": "google_broad"
+    }
   }
 ]

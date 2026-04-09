@@ -1,31 +1,56 @@
 [
   {
-    "id": "ce10a751-4e5e-5682-bf3f-1fde09df8687",
-    "timestamp_utc": "2026-04-01T04:00:00+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcXQ3TjFlbktVUTN4aDRxUGVCX21GX2txUm8yOTU1cGdweWlPN2VEMS1tMUVhR1NmRVRlSDFFTjJMM3JjVDg3UmJpV1d3SEkweUU1d1ZtdGZCZGptSC1OWnI5dENpMlZkd3k4eEVTOE9WZ1AzTUtmYnJOYkt2SldadnR5aUJ2bUdIZnBUS1BZMXV6d2FrMFZMUVR5YVRTV3hobVNEeEtVZ056d1JxazNhNFRzY0VVaVE?oc=5",
-    "title": "Hitting a buried power or gas line? Dominion says call 811 first - Stock Titan",
-    "body": "Hitting a buried power or gas line? Dominion says call 811 first Stock Titan",
+    "id": "e68bfbd1-2f68-51d6-92d5-79359b7c0daf",
+    "timestamp_utc": "2026-04-08T10:21:13+00:00",
+    "source": "tipranks",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVWJra1Z6STZQRjhpdWRITVY1V3pFVTBKOWFwTml5Z0dUY2l4dVVQb3Q3SVRiUE5jclFWcC1HdFNkeVhlYVhZU3BlanY5OXFRaGxaN1Y1bXMzT3B4b1I0eTd0MFMza2RBNk5qdnhydU42VGdPeUhwbzdYcXNndzVLcV9vOFRqU1ZqWlFsT3gweWk5ZDVlWGdHeG1KOUMzR25SMmE4S0dHM2stNFVRV0xVTjRSZTdadw?oc=5",
+    "title": "Dominion Energy Extends Core Revolving Credit Facility Maturity - TipRanks",
+    "body": "Dominion Energy Extends Core Revolving Credit Facility Maturity TipRanks",
     "author": null,
     "language": "en",
     "ticker": "D",
     "tickers_hint": [
       "D"
     ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
+    "source_quality": "high",
+    "publisher_raw": "tipranks.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.6000000000000001,
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
       "event_origin": "news",
-      "query_tickers": [
-        "D"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.62,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "0e02ee0f-c0f9-5a4e-965d-e983a77996af",
+    "timestamp_utc": "2026-04-07T21:00:00+00:00",
+    "source": "ibd",
+    "url": "https://www.investors.com/ibd-data-stories/stocks-generating-improved-relative-strength-dominion-energy-2/",
+    "title": "Stocks Generating Improved Relative Strength: Dominion Energy - Investor's Business Daily",
+    "body": "About Us Reviews Site Map Your Ad Choices Advertising Contact us IBD Stock Charts IBD Stock Checkup Stock Quotes Stock Market Today The Big Picture My Stock Lists Terms of Use Privacy Notice Accessibility",
+    "author": null,
+    "language": "en",
+    "ticker": "D",
+    "tickers_hint": [
+      "D"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "investors.com",
+    "trust_tier": 2,
+    "body_kind": "article_text",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Investor's Business Daily",
+      "source_domain": "investors.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.5375,
+      "_channel": "google_broad"
+    }
   }
 ]

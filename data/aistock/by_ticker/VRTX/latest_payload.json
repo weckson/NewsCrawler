@@ -2,41 +2,39 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "1a3ca061-ec5f-5ab1-80c9-a36435f53dcb",
-      "timestamp_utc": "2026-04-01T07:02:16+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPekk4Vkk2ZHUyd2l1M1lqRW05Q05iZGNkYVFtYXhLMjZZMElCbm54YjR2UW9zdDRFOS1WVTJmSEtRRVVXQ0VOQ1JPOGFWWUNqNk5SUlg4N2I4QWRyVi1WdGoxa0hyZ25fX1JJMjhwcXpjcVBVdEpLRWpYSk5CeWd0clhISk8xcHpUNHdlOFlOZ0lWdEM4R3FnUEFJNmdCUEJXbkhhX0cxWEluUQ?oc=5",
-      "title": "Vertex Pharmaceuticals (NASDAQ: VRTX) reports 978-share Rule 144 resale and insider sales - Stock Titan",
-      "body": "Vertex Pharmaceuticals (NASDAQ: VRTX) reports 978-share Rule 144 resale and insider sales Stock Titan",
+      "id": "0e2db29d-19ff-5d19-a452-b511ad94e0dc",
+      "timestamp_utc": "2026-04-08T03:00:04+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTUE5ZmRmWlA5bklURDVPNktGQ082cThzbER5SDhPSlhpN3RsSHZUNFV2RzJJNGhZNnBHUG05TVUycXgwZXBfRXFWdGRvaHZlaE9HV3dTM1Y5NFpBVDNacmJmckQ2MjZIcUFiczFsSjJ1SUMzbkF1OHJxTzc5cERZbWw1bXBIaDZydi1YQWdHX3kyWlp4Q0lVUGVEMWpXNnlreWFDM283MDhBeklVdmNyQkxTTUk?oc=5",
+      "title": "Vertex Pharmaceuticals Incorporated (VRTX) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+      "body": "Vertex Pharmaceuticals Incorporated (VRTX) Is a Trending Stock: Facts to Know Before Betting on It Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "VRTX",
       "tickers_hint": [
         "VRTX"
       ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "VRTX"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.635,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "b809692f-3bd0-5a36-bbc7-1f1081d70c40",
-      "timestamp_utc": "2026-03-31T10:10:23+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWWEzejVhcC0zVVh5NHJxay15UndFa1hRa05PaXJrYUF0cHZtazRWbWwyRWpWdzRmVGtlTEFTMkh2OTRSNlFCV0hGWTlMVjM2NEtFNmdXMlByMjJTWXY1MGkzZEVsdl9oWU9iaVhsZ0hQWlpxOVBtT2tUc1psNUF1UHhBMjJ1Rm9Qb3FrTXlGMGgwcWhzb2V0emtWUy1kUGRwWHJVdmlHRUpFRmFWdkFLNDQxaDJkNWFkTGhsOEZmZlo?oc=5",
-      "title": "Vertex (VRTX) CMO sells 2,329 shares in pre-set 10b5-1 trade - Stock Titan",
-      "body": "Vertex (VRTX) CMO sells 2,329 shares in pre-set 10b5-1 trade Stock Titan",
+      "id": "9836e169-e2fe-5dad-8369-0e80a31a29f4",
+      "timestamp_utc": "2026-04-08T12:00:06+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://ca.finance.yahoo.com/news/vertex-pharmaceuticals-vrtx-exceeds-market-220006157.html",
+      "title": "Vertex Pharmaceuticals (VRTX) Exceeds Market Returns: Some Facts to Consider - Yahoo! Finance Canada",
+      "body": "Vertex Pharmaceuticals (VRTX) Exceeds Market Returns: Some Facts to Consider Yahoo! Finance Canada",
       "author": null,
       "language": "en",
       "ticker": "VRTX",
@@ -44,60 +42,56 @@
         "VRTX"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "yahoo! finance canada",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
         "event_origin": "news",
-        "query_tickers": [
-          "VRTX"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "1a3ca061-ec5f-5ab1-80c9-a36435f53dcb",
-      "timestamp_utc": "2026-04-01T07:02:16+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPekk4Vkk2ZHUyd2l1M1lqRW05Q05iZGNkYVFtYXhLMjZZMElCbm54YjR2UW9zdDRFOS1WVTJmSEtRRVVXQ0VOQ1JPOGFWWUNqNk5SUlg4N2I4QWRyVi1WdGoxa0hyZ25fX1JJMjhwcXpjcVBVdEpLRWpYSk5CeWd0clhISk8xcHpUNHdlOFlOZ0lWdEM4R3FnUEFJNmdCUEJXbkhhX0cxWEluUQ?oc=5",
-      "title": "Vertex Pharmaceuticals (NASDAQ: VRTX) reports 978-share Rule 144 resale and insider sales - Stock Titan",
-      "body": "Vertex Pharmaceuticals (NASDAQ: VRTX) reports 978-share Rule 144 resale and insider sales Stock Titan",
+      "id": "0e2db29d-19ff-5d19-a452-b511ad94e0dc",
+      "timestamp_utc": "2026-04-08T03:00:04+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTUE5ZmRmWlA5bklURDVPNktGQ082cThzbER5SDhPSlhpN3RsSHZUNFV2RzJJNGhZNnBHUG05TVUycXgwZXBfRXFWdGRvaHZlaE9HV3dTM1Y5NFpBVDNacmJmckQ2MjZIcUFiczFsSjJ1SUMzbkF1OHJxTzc5cERZbWw1bXBIaDZydi1YQWdHX3kyWlp4Q0lVUGVEMWpXNnlreWFDM283MDhBeklVdmNyQkxTTUk?oc=5",
+      "title": "Vertex Pharmaceuticals Incorporated (VRTX) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+      "body": "Vertex Pharmaceuticals Incorporated (VRTX) Is a Trending Stock: Facts to Know Before Betting on It Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "VRTX",
       "tickers_hint": [
         "VRTX"
       ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "VRTX"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.635,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "b809692f-3bd0-5a36-bbc7-1f1081d70c40",
-      "timestamp_utc": "2026-03-31T10:10:23+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWWEzejVhcC0zVVh5NHJxay15UndFa1hRa05PaXJrYUF0cHZtazRWbWwyRWpWdzRmVGtlTEFTMkh2OTRSNlFCV0hGWTlMVjM2NEtFNmdXMlByMjJTWXY1MGkzZEVsdl9oWU9iaVhsZ0hQWlpxOVBtT2tUc1psNUF1UHhBMjJ1Rm9Qb3FrTXlGMGgwcWhzb2V0emtWUy1kUGRwWHJVdmlHRUpFRmFWdkFLNDQxaDJkNWFkTGhsOEZmZlo?oc=5",
-      "title": "Vertex (VRTX) CMO sells 2,329 shares in pre-set 10b5-1 trade - Stock Titan",
-      "body": "Vertex (VRTX) CMO sells 2,329 shares in pre-set 10b5-1 trade Stock Titan",
+      "id": "9836e169-e2fe-5dad-8369-0e80a31a29f4",
+      "timestamp_utc": "2026-04-08T12:00:06+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://ca.finance.yahoo.com/news/vertex-pharmaceuticals-vrtx-exceeds-market-220006157.html",
+      "title": "Vertex Pharmaceuticals (VRTX) Exceeds Market Returns: Some Facts to Consider - Yahoo! Finance Canada",
+      "body": "Vertex Pharmaceuticals (VRTX) Exceeds Market Returns: Some Facts to Consider Yahoo! Finance Canada",
       "author": null,
       "language": "en",
       "ticker": "VRTX",
@@ -105,20 +99,18 @@
         "VRTX"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "yahoo! finance canada",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
         "event_origin": "news",
-        "query_tickers": [
-          "VRTX"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

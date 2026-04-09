@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "53a3a0b0-6417-5e85-a564-dcd2d7b01b2a",
-      "timestamp_utc": "2026-04-01T04:58:52+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb0FrMkdDak5RNnBaVU13dklWVWJ2V3g5R1FpYUFYS3J1VEFXUGVjNTFETW9xSVA3Snh5VV81OTFQSjVBc2lQYnctd0JqLXcxRkxaNjhzS0ZVc3NZOVoxVk4zS3M4OGRUdF81Ti02cWxwSkg2dUVnZ0tQaXdoYXJ5UEU2aS1PcEhyZENnRkxlaXNDZnRN?oc=5",
-      "title": "Insider sells 5,213 shares at MCO (NYSE: MCO) — multiple January–March 2026 trades - Stock Titan",
-      "body": "Insider sells 5,213 shares at MCO (NYSE: MCO) — multiple January–March 2026 trades Stock Titan",
+      "id": "82b92c80-696a-5ec6-bca9-23cea4935dde",
+      "timestamp_utc": "2026-04-07T06:07:30+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8779276/mcos-price-target-lowered-by-morgan-stanley-amidst-equalweight-rating-mco-stock-news?mobile=true",
+      "title": "MCO's Price Target Lowered by Morgan Stanley Amidst Equal-Weight Rating | MCO Stock News - GuruFocus",
+      "body": "MCO's Price Target Lowered by Morgan Stanley Amidst Equal-Weight Rating | MCO Stock News GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "MCO",
@@ -15,28 +15,26 @@
         "MCO"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "MCO"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.7000000000000001,
+        "quality_score": 0.47,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "6bdaac4d-00c5-54a6-9557-49573e8f9f90",
-      "timestamp_utc": "2026-04-01T06:45:37+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZy01Qjg2TzlLek9KNDJqVUp3ZktEQVd0ZUZ1N0VXYTBnRDgwYmZVRHhnOW9XT3J5Rno2SWFFREhHZTFSSWlUTTF4azhnQnk5RnctZzJpVjlzcUVUcDlONllTSzFRelkwNGRwY0szTUx5YjZqYUF3cUF2QmZZYjVBWEp2NDNNUk5vSEtQOGswT19GTkY1?oc=5",
-      "title": "MCO (NYSE) Form 144: Richard Steele reports sale of 375 shares - Stock Titan",
-      "body": "MCO (NYSE) Form 144: Richard Steele reports sale of 375 shares Stock Titan",
+      "id": "d30d391d-41fd-55bd-92d9-579c198b436e",
+      "timestamp_utc": "2026-04-07T06:38:06+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-issues-pessimistic-forecast-for-moodys-nysemco-stock-price-2026-04-07/",
+      "title": "Morgan Stanley Issues Pessimistic Forecast for Moody's (NYSE:MCO) Stock Price - MarketBeat",
+      "body": "Morgan Stanley Issues Pessimistic Forecast for Moody's (NYSE:MCO) Stock Price MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "MCO",
@@ -44,28 +42,26 @@
         "MCO"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "MCO"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4175,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "5246bbef-1e29-5ffc-bb93-3de20835520b",
-      "timestamp_utc": "2026-04-01T03:58:49+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/MCO/earnings",
-      "title": "MCO Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "MCO Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "3719ad06-144c-56fe-8b6a-d51cf35f5441",
+      "timestamp_utc": "2026-04-07T09:32:38+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BaU9IODdldlZwUjUzWkdpa2hWZmlJV3pWWU9xV2Y0Tk5ZdEdzYkpjRllFNy13dE9tQTlVN1hiTXM4TTlMbndKQVdCd2ZXSHVtUkxWLUJrMmJaazl0dVlod2xPU2w?oc=5",
+      "title": "MCO Nov 2026 480.000 put (MCO261120P00480000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "MCO Nov 2026 480.000 put (MCO261120P00480000) Stock Price, News, Quote & History Yahoo! Finance Canada",
       "author": null,
       "language": "en",
       "ticker": "MCO",
@@ -73,31 +69,29 @@
         "MCO"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "yahoo! finance canada",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
         "event_origin": "news",
-        "query_tickers": [
-          "MCO"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.405,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "53a3a0b0-6417-5e85-a564-dcd2d7b01b2a",
-      "timestamp_utc": "2026-04-01T04:58:52+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb0FrMkdDak5RNnBaVU13dklWVWJ2V3g5R1FpYUFYS3J1VEFXUGVjNTFETW9xSVA3Snh5VV81OTFQSjVBc2lQYnctd0JqLXcxRkxaNjhzS0ZVc3NZOVoxVk4zS3M4OGRUdF81Ti02cWxwSkg2dUVnZ0tQaXdoYXJ5UEU2aS1PcEhyZENnRkxlaXNDZnRN?oc=5",
-      "title": "Insider sells 5,213 shares at MCO (NYSE: MCO) — multiple January–March 2026 trades - Stock Titan",
-      "body": "Insider sells 5,213 shares at MCO (NYSE: MCO) — multiple January–March 2026 trades Stock Titan",
+      "id": "82b92c80-696a-5ec6-bca9-23cea4935dde",
+      "timestamp_utc": "2026-04-07T06:07:30+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8779276/mcos-price-target-lowered-by-morgan-stanley-amidst-equalweight-rating-mco-stock-news?mobile=true",
+      "title": "MCO's Price Target Lowered by Morgan Stanley Amidst Equal-Weight Rating | MCO Stock News - GuruFocus",
+      "body": "MCO's Price Target Lowered by Morgan Stanley Amidst Equal-Weight Rating | MCO Stock News GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "MCO",
@@ -105,28 +99,26 @@
         "MCO"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "MCO"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.7000000000000001,
+        "quality_score": 0.47,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "6bdaac4d-00c5-54a6-9557-49573e8f9f90",
-      "timestamp_utc": "2026-04-01T06:45:37+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZy01Qjg2TzlLek9KNDJqVUp3ZktEQVd0ZUZ1N0VXYTBnRDgwYmZVRHhnOW9XT3J5Rno2SWFFREhHZTFSSWlUTTF4azhnQnk5RnctZzJpVjlzcUVUcDlONllTSzFRelkwNGRwY0szTUx5YjZqYUF3cUF2QmZZYjVBWEp2NDNNUk5vSEtQOGswT19GTkY1?oc=5",
-      "title": "MCO (NYSE) Form 144: Richard Steele reports sale of 375 shares - Stock Titan",
-      "body": "MCO (NYSE) Form 144: Richard Steele reports sale of 375 shares Stock Titan",
+      "id": "d30d391d-41fd-55bd-92d9-579c198b436e",
+      "timestamp_utc": "2026-04-07T06:38:06+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-issues-pessimistic-forecast-for-moodys-nysemco-stock-price-2026-04-07/",
+      "title": "Morgan Stanley Issues Pessimistic Forecast for Moody's (NYSE:MCO) Stock Price - MarketBeat",
+      "body": "Morgan Stanley Issues Pessimistic Forecast for Moody's (NYSE:MCO) Stock Price MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "MCO",
@@ -134,28 +126,26 @@
         "MCO"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "MCO"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4175,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "5246bbef-1e29-5ffc-bb93-3de20835520b",
-      "timestamp_utc": "2026-04-01T03:58:49+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/MCO/earnings",
-      "title": "MCO Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "MCO Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "3719ad06-144c-56fe-8b6a-d51cf35f5441",
+      "timestamp_utc": "2026-04-07T09:32:38+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BaU9IODdldlZwUjUzWkdpa2hWZmlJV3pWWU9xV2Y0Tk5ZdEdzYkpjRllFNy13dE9tQTlVN1hiTXM4TTlMbndKQVdCd2ZXSHVtUkxWLUJrMmJaazl0dVlod2xPU2w?oc=5",
+      "title": "MCO Nov 2026 480.000 put (MCO261120P00480000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "MCO Nov 2026 480.000 put (MCO261120P00480000) Stock Price, News, Quote & History Yahoo! Finance Canada",
       "author": null,
       "language": "en",
       "ticker": "MCO",
@@ -163,20 +153,18 @@
         "MCO"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "yahoo! finance canada",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
         "event_origin": "news",
-        "query_tickers": [
-          "MCO"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.405,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

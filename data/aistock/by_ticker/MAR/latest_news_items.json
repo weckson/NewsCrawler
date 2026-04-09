@@ -1,11 +1,11 @@
 [
   {
-    "id": "4180516b-383b-58c4-83fc-679432142796",
-    "timestamp_utc": "2026-04-01T10:49:19+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQei1qYl9YOWRBZVVHMXp4U2l0dzRMTVNnXzNxUVhVa2w1bWhveVgtRG1VbE1COGZFLWc3Tmp2dFdSM29rcFJpZkdGVTAxR0lKRGxaeEI3c25YenpDY0M3bTRMeThMYjNrdi01RVZlTjlNQTFULWMyakFhZW80Y0ZhNkluYm9EckdnSUxBQ1lCdjFmUDhpR2EtUHc3bklrSDRDSmJPbm1NS2pLUVlJYk5vUVJXTUFxWG82cUM5eGktWQ?oc=5",
-    "title": "Marriott (MAR) director B. Aylwin Lewis adds deferred stock in Form 4 filing - Stock Titan",
-    "body": "Marriott (MAR) director B. Aylwin Lewis adds deferred stock in Form 4 filing Stock Titan",
+    "id": "121eae1f-a082-5964-93dd-ca99336daf04",
+    "timestamp_utc": "2026-04-08T06:27:42+00:00",
+    "source": "gurufocus",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ2o4WDlrc0xNdkhOeWpNY0FINkZLNWE5RERHMWlHSDVxTVQtRlZLN2VQUUVGN2M0RU5tMDBwNC1vTXE0UkNMdW1GeEZsSnJKUTYzSFhNTUd1bkpBU2FFenVvNVo5aVlUdHBXTnFKeFRkcFdDb2NWQTBzZHV1S2lvTk9iQ3ZKcFZ6TGtsN2syRl9nd2dPSjdWMGNSV2dDTXlEWk5ES0hub0x2TkhaSlE?oc=5",
+    "title": "Marriott International Inc (MAR) Stock Price Up 5.22% on Apr 8 - GuruFocus",
+    "body": "Marriott International Inc (MAR) Stock Price Up 5.22% on Apr 8 GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "MAR",
@@ -13,28 +13,26 @@
       "MAR"
     ],
     "source_quality": "low",
-    "publisher_raw": "stock titan",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.6000000000000001,
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
       "event_origin": "news",
-      "query_tickers": [
-        "MAR"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.44,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "1f4f09d9-4634-555a-8701-1784b7494a1a",
-    "timestamp_utc": "2026-04-01T01:35:00+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMXJfNGRyRVc5Wl96VjYwQTdlWEFGWWRNdnhzMkN0dnI2QnQ3X2dCakswc1BpOV96Y1NKYlBrTU9BZ2c1YzJ4SUJmNDRUNnB5eENsTTktVXRZcm80VVd4RWp4MFRGSHd5ZVBPMTFOQTluZDdPR1RobGpIcmRsOTNrTXU5cVJYZ040dDBWQnMxSkJQU2xYQl8yTlNEdjdSUlhiT3FuZE5KS0RWenRkRVh1NXl0Yk5sbVczUkE?oc=5",
-    "title": "Marriott makes Fortune's best-workplace list for nearly 30 years - Stock Titan",
-    "body": "Marriott makes Fortune's best-workplace list for nearly 30 years Stock Titan",
+    "id": "36ef415b-8c09-5007-8211-a41f2e5c5987",
+    "timestamp_utc": "2026-04-08T19:42:00+00:00",
+    "source": "aastocks.com",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd2hGZjJ6YWJSc0tqR0gxdnpqV3FHVzhoTk5hczRPc09iRmdMTUpwN3FTMEpCeFhlNnptYlljdzZaNGRGYjlqS1ozS2ZNZE5iQzl4aGl6VkU1WDdEaDJYWmJfUHZ1dTVsa21VdV8xbndqUERlT3pWR1JWZlQzdFhEWUluWHFCSjJfYkE?oc=5",
+    "title": "S Korea Mar Stock, Bond Markets See Near USD36.6B Record Outflow - AASTOCKS.com",
+    "body": "S Korea Mar Stock, Bond Markets See Near USD36.6B Record Outflow AASTOCKS.com",
     "author": null,
     "language": "en",
     "ticker": "MAR",
@@ -42,19 +40,17 @@
       "MAR"
     ],
     "source_quality": "low",
-    "publisher_raw": "stock titan",
+    "publisher_raw": "aastocks.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "AASTOCKS.com",
+      "source_domain": "aastockscom.com",
       "event_origin": "news",
-      "query_tickers": [
-        "MAR"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.43,
+      "_channel": "google_broad"
+    }
   }
 ]

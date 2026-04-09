@@ -2,12 +2,42 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "778b57f5-6a46-5d86-a748-c88bab4ab9c6",
-      "timestamp_utc": "2026-04-03T23:54:50+00:00",
-      "source": "yahoo_finance_singapore",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sT1hFTDlZOG1Rd3lmNklWWFdPZHpYNWJUVVh3cjFXQWlqMWpKY1hMRlc2QzFnZ2kyOE5SNVhzUUNKQTkxR3J3T09OQ0Z3TWRZSkk1SGZicmJoTHMwNEIxUjM0VmI?oc=5",
-      "title": "DLR Apr 2026 90.000 put (DLR260424P00090000) stock price, news, quote and history - Yahoo Finance Singapore",
-      "body": "DLR Apr 2026 90.000 put (DLR260424P00090000) stock price, news, quote and history Yahoo Finance Singapore",
+      "id": "a6c06460-1092-5932-99a1-399d386a6159",
+      "timestamp_utc": "2026-04-09T01:34:28+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdXhrdFpzS0liSnQ0blFpM3h6cW1ISmJFTHdybmVMWThMcGdGUU9NeWxzcUoyTThaek5Md0JNNXBlTXVZY05wd0xPTFMzQWpXWmp2UXVISldvV0pZU2JmeXJERWRQbTAteE9ubno2OWpqeElHZnpRUTFFVWU4UTlhR2NDbFJzQXJ6aUNNb1F1WURKS254anNSSC1DOGxKOC1ZZHB6MS15eHlUTkRwN1otb05UNWFGQWFhVlF0Y0E4b0M0NWNTb1RyTVRFUThKSlJuX1BPNg?oc=5",
+      "title": "What's Going On With Digital Realty Stock Thursday? - Digital Realty Trust (NYSE:DLR) - Benzinga",
+      "body": "What's Going On With Digital Realty Stock Thursday? - Digital Realty Trust (NYSE:DLR) Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "DLR",
+      "tickers_hint": [
+        "DLR"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.65,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
+    },
+    {
+      "id": "521edc93-f453-53a4-a6b2-2fc376c9691f",
+      "timestamp_utc": "2026-04-09T02:55:56+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8784644/dlr-cantor-fitzgerald-initiates-coverage-with-overweight-rating-dlr-stock-news",
+      "title": "DLR: Cantor Fitzgerald Initiates Coverage with Overweight Rating - GuruFocus",
+      "body": "DLR: Cantor Fitzgerald Initiates Coverage with Overweight Rating GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "DLR",
@@ -15,31 +45,86 @@
         "DLR"
       ],
       "source_quality": "low",
-      "publisher_raw": "yahoo finance singapore",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance Singapore",
-        "source_domain": "yahoofinancesingapore.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DLR"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4925,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "8b27996a-49de-5ec6-9851-6dc70a5a0388",
+      "timestamp_utc": "2026-04-07T19:20:57+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HalQ1SEtyUVk4QmVYbGRLbVFILVRlb1MwSTFnSTd2S2VQSTYyc2tCOFRUUG9lWHBYUzl0OUJsbHlpMXh0Q0tyUWJoeUl5Q2NVdndTNG9VSXAxSjE4S0F4V2l5enQ?oc=5",
+      "title": "DLR Apr 2026 177.500 put (DLR260410P00177500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "DLR Apr 2026 177.500 put (DLR260410P00177500) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "DLR",
+      "tickers_hint": [
+        "DLR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.405,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "778b57f5-6a46-5d86-a748-c88bab4ab9c6",
-      "timestamp_utc": "2026-04-03T23:54:50+00:00",
-      "source": "yahoo_finance_singapore",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sT1hFTDlZOG1Rd3lmNklWWFdPZHpYNWJUVVh3cjFXQWlqMWpKY1hMRlc2QzFnZ2kyOE5SNVhzUUNKQTkxR3J3T09OQ0Z3TWRZSkk1SGZicmJoTHMwNEIxUjM0VmI?oc=5",
-      "title": "DLR Apr 2026 90.000 put (DLR260424P00090000) stock price, news, quote and history - Yahoo Finance Singapore",
-      "body": "DLR Apr 2026 90.000 put (DLR260424P00090000) stock price, news, quote and history Yahoo Finance Singapore",
+      "id": "a6c06460-1092-5932-99a1-399d386a6159",
+      "timestamp_utc": "2026-04-09T01:34:28+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdXhrdFpzS0liSnQ0blFpM3h6cW1ISmJFTHdybmVMWThMcGdGUU9NeWxzcUoyTThaek5Md0JNNXBlTXVZY05wd0xPTFMzQWpXWmp2UXVISldvV0pZU2JmeXJERWRQbTAteE9ubno2OWpqeElHZnpRUTFFVWU4UTlhR2NDbFJzQXJ6aUNNb1F1WURKS254anNSSC1DOGxKOC1ZZHB6MS15eHlUTkRwN1otb05UNWFGQWFhVlF0Y0E4b0M0NWNTb1RyTVRFUThKSlJuX1BPNg?oc=5",
+      "title": "What's Going On With Digital Realty Stock Thursday? - Digital Realty Trust (NYSE:DLR) - Benzinga",
+      "body": "What's Going On With Digital Realty Stock Thursday? - Digital Realty Trust (NYSE:DLR) Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "DLR",
+      "tickers_hint": [
+        "DLR"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.65,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
+    },
+    {
+      "id": "521edc93-f453-53a4-a6b2-2fc376c9691f",
+      "timestamp_utc": "2026-04-09T02:55:56+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8784644/dlr-cantor-fitzgerald-initiates-coverage-with-overweight-rating-dlr-stock-news",
+      "title": "DLR: Cantor Fitzgerald Initiates Coverage with Overweight Rating - GuruFocus",
+      "body": "DLR: Cantor Fitzgerald Initiates Coverage with Overweight Rating GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "DLR",
@@ -47,20 +132,45 @@
         "DLR"
       ],
       "source_quality": "low",
-      "publisher_raw": "yahoo finance singapore",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance Singapore",
-        "source_domain": "yahoofinancesingapore.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DLR"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4925,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "8b27996a-49de-5ec6-9851-6dc70a5a0388",
+      "timestamp_utc": "2026-04-07T19:20:57+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HalQ1SEtyUVk4QmVYbGRLbVFILVRlb1MwSTFnSTd2S2VQSTYyc2tCOFRUUG9lWHBYUzl0OUJsbHlpMXh0Q0tyUWJoeUl5Q2NVdndTNG9VSXAxSjE4S0F4V2l5enQ?oc=5",
+      "title": "DLR Apr 2026 177.500 put (DLR260410P00177500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "DLR Apr 2026 177.500 put (DLR260410P00177500) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "DLR",
+      "tickers_hint": [
+        "DLR"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.405,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

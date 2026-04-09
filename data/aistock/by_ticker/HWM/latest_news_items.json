@@ -1,11 +1,41 @@
 [
   {
-    "id": "e79be20a-4644-57b4-a33b-253073b2113f",
-    "timestamp_utc": "2026-04-01T06:37:39+00:00",
+    "id": "8ab73b60-7f03-5f58-981c-f6071d60157c",
+    "timestamp_utc": "2026-04-08T13:17:47+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRF90MHVGNjBBWHFRMlhrQmQ3bm54QTZSejBRZ2RiRmJLTEE1UThCeVp3NXdlZEZtSEJWZnBZRHEta0JnTmVVMEFiWWdBaW9EVzZicFpPYVp2OHVHNi1IczBXVmhuRnlUNnRDZloydFQ1cjg1UFgxbFVUUEdjNzNpODBQNA?oc=5",
+    "title": "Why Howmet (HWM) Stock Is Trading Up Today - Yahoo Finance UK",
+    "body": "Why Howmet (HWM) Stock Is Trading Up Today Yahoo Finance UK",
+    "author": null,
+    "language": "en",
+    "ticker": "HWM",
+    "tickers_hint": [
+      "HWM"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Yahoo Finance UK",
+      "source_domain": "finance.yahoo.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.641,
+      "_channel": "google_broad",
+      "_alt_sources": [
+        "StockStory"
+      ]
+    }
+  },
+  {
+    "id": "1bb18d7f-ebe4-5c9b-a9bf-97221289cbb5",
+    "timestamp_utc": "2026-04-08T08:56:03+00:00",
     "source": "gurufocus",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbU92MFdnTHVjWEtjYkJpaW1ONURJLUlwX09qeENmQkhnYnUweXc1TGJiYXAwU2U2UW84aEY0TXpqMlRXbmRybmp2TXFvVGczVG1IVkJuTjBLck82TnU3aHBLTDVMWTVNM0EzMkNzcGtCRFVKMnpYWG9GVEVOVEpfU0NBdjNpTjRpMHNQSlgtek44V3pGOFVJclF6N1BCWENxM0ZhaHBKRFlTQkExWmVjQ2tDSmZicnBTQW9rV2ZWVlBhYURDeWpGQVB1cEU?oc=5",
-    "title": "Wells Fargo Initiates Coverage on Howmet Aerospace (HWM) with Eq - GuruFocus",
-    "body": "Wells Fargo Initiates Coverage on Howmet Aerospace (HWM) with Eq GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIZzlvZXVwbWZBcEl2SHF4blVFQ2RZRjE0UWN2aFlKUzl3SG9wOURkS0ZKRng4Y19aTDdMNDEwYURFUWlocEJhV1o1RmlfQ2t1MFdqQVBGYjBmWTh6dXNjS1ducGhBMF9ycE5EeXNmWWpTb1l6Mzh1VW45VnJ6dw?oc=5",
+    "title": "The MidCap Growth Fund's Howmet Aerospace Inc(HWM) Holding History - GuruFocus",
+    "body": "The MidCap Growth Fund's Howmet Aerospace Inc(HWM) Holding History GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "HWM",
@@ -14,18 +44,16 @@
     ],
     "source_quality": "low",
     "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "GuruFocus",
       "source_domain": "gurufocus.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
       "event_origin": "news",
-      "query_tickers": [
-        "HWM"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.41,
+      "_channel": "google_broad"
+    }
   }
 ]

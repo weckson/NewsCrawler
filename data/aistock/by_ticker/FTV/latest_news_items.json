@@ -1,11 +1,11 @@
 [
   {
-    "id": "3a9f00e7-8c86-51e8-a0ff-2842590d3e88",
-    "timestamp_utc": "2026-04-01T06:53:38+00:00",
-    "source": "gurufocus",
-    "url": "https://www.gurufocus.com/news/8765567/wells-fargo-adjusts-fortive-ftv-price-target-to-58-ftv-stock-news",
-    "title": "Wells Fargo Adjusts Fortive (FTV) Price Target to $58 | FTV Stoc - GuruFocus",
-    "body": "Wells Fargo Adjusts Fortive (FTV) Price Target to $58 | FTV Stoc GuruFocus",
+    "id": "14383f43-14c7-5cce-8539-a9d9bad2187a",
+    "timestamp_utc": "2026-04-06T21:12:30+00:00",
+    "source": "defense_world",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdFFVNkdoNUhQRk85QkdFNk1Ta216RVVWLXRsUHpSNjhTdDZweUpZSHNoU2VkbHNRbFFoLTctNWl1ZlBPT3Yta2hvc1BRNldEeE84bkZKT19RSk91b0hSZDl1Rzd2cURwQlpOTVVjY21xMzVCWWp0bHNxNzl4RXE5QXg2WlVyYjI3dGtiSGJSVUNOUzN6WWNiRHI0Z1JTT2o4bVpjbENXRGlwTF9zWlNpWFBrOXB0T01DLVFpWjJoR20?oc=5",
+    "title": "Aberdeen Group plc Has $19.52 Million Stock Position in Fortive Corporation $FTV - Defense World",
+    "body": "Aberdeen Group plc Has $19.52 Million Stock Position in Fortive Corporation $FTV Defense World",
     "author": null,
     "language": "en",
     "ticker": "FTV",
@@ -13,193 +13,17 @@
       "FTV"
     ],
     "source_quality": "low",
-    "publisher_raw": "gurufocus.com",
+    "publisher_raw": "defense world",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "GuruFocus",
-      "source_domain": "gurufocus.com",
-      "trust_tier": 1,
-      "relevance": 0.6500000000000001,
+      "source_name": "Defense World",
+      "source_domain": "defenseworld.com",
       "event_origin": "news",
-      "query_tickers": [
-        "FTV"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "d1859775-9a3b-55e5-a3e1-7ba1d9fd213e",
-    "timestamp_utc": "2026-04-01T06:55:33+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/wells-fargo-company-has-lowered-expectations-for-fortive-nyseftv-stock-price-2026-04-01/",
-    "title": "Wells Fargo & Company Has Lowered Expectations for Fortive (NYSE:FTV) Stock Price - MarketBeat",
-    "body": "Wells Fargo & Company Has Lowered Expectations for Fortive (NYSE:FTV) Stock Price MarketBeat",
-    "author": null,
-    "language": "en",
-    "ticker": "FTV",
-    "tickers_hint": [
-      "FTV"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
-      "event_origin": "news",
-      "query_tickers": [
-        "FTV"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "851c9511-23b4-5e08-b2c5-d756d77d9f38",
-    "timestamp_utc": "2026-03-31T10:15:35+00:00",
-    "source": "stock_titan",
-    "url": "https://www.stocktitan.net/sec-filings/FTV/form-4-fortive-corp-insider-trading-activity-53e753cd9a86.html",
-    "title": "Fortive (FTV) CEO Soroye adds small EDIP phantom share accrual in Form 4 - Stock Titan",
-    "body": "Fortive (FTV) CEO Soroye adds small EDIP phantom share accrual in Form 4 Stock Titan",
-    "author": null,
-    "language": "en",
-    "ticker": "FTV",
-    "tickers_hint": [
-      "FTV"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
-      "event_origin": "news",
-      "query_tickers": [
-        "FTV"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "d056cda9-d40d-5225-a472-9b0578cf867a",
-    "timestamp_utc": "2026-03-31T10:15:29+00:00",
-    "source": "stock_titan",
-    "url": "https://www.stocktitan.net/sec-filings/FTV/form-4-fortive-corp-insider-trading-activity-d0ea7df505d9.html",
-    "title": "Fortive (FTV) CFO boosts deferred stake with new EDIP phantom shares - Stock Titan",
-    "body": "⛶ Fullscreen SEC Form 4 FORM 4UNITED STATES SECURITIES AND EXCHANGE COMMISSIONWashington, D.C.\n\n20549STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIPFiled pursuant to Section 16(a) of the Securities Exchange Act of 1934or Section 30(h) of the Investment Company Act of 1940OMB APPROVALOMB Number:3235-0287Estimated average burdenhours per response:0.5 Check this box if no longer subject to Section 16.\n\nCheck this box to indicate that a transaction was made pursuant to a contract, instruction or written plan for the purchase or sale of equity securities of the issuer that is intended to satisfy the affirmative defense conditions of Rule 10b5-1(c).\n\nName and Address of Reporting Person*Okerstrom Mark D(Last)(First)(Middle)6920 SEAWAY BLVD(Street)EVERETT WASHINGTON 98203(City)(State)(Zip)UNITED STATES(Country)2.\n\nIssuer Name and Ticker or Trading Symbol Fortive Corp [ FTV ] 5.\n\nRelationship of Reporting Person(s) to Issuer (Check all applicable)Director10% OwnerXOfficer (give title below)Other (specify below)SVP - Chief Financial Officer2a.\n\nIndividual or Joint/Group Filing (Check Applicable Line) XForm filed by One Reporting PersonForm filed by More than One Reporting Person4.\n\nIf Amendment, Date of Original Filed (Month/Day/Year)Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned1.\n\nAmount of Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeVAmount(A) or (D)PriceTable II - Derivative Securities Acquired, Disposed of, or Beneficially Owned(e.g., puts, calls, warrants, options, convertible securities)1.\n\nNumber of Derivative Securities Acquired (A) or Disposed of (D) (Instr.\n\nTitle and Amount of Securities Underlying Derivative Security (Instr.\n\nNumber of derivative Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeV(A)(D)Date ExercisableExpiration DateTitleAmount or Number of SharesExecutive Deferred Incentive Program - Fortive Stock Fund(1)(2)03/27/2026AV3.732 (3) (3)Common Stock3.732$53.923,358.15DExplanation of Responses:1.\n\nThe reported securities are notional dividend accruals on phantom shares in the Fortive stock fund (the \"EDIP Stock Fund\") under Fortive's Executive Deferred Incentive Program (the \"EDIP\").\n\nThe number of phantom shares accrued as a result of such notional dividend accruals is based on the closing price of the Issuer's common stock as reported on the NYSE on the date such dividend accruals are credited to the EDIP Stock Fund, which is the price shown in Table II, Column 8 above.2.\n\nThe Reporting Person immediately vests in 100% of each voluntary contribution to the EDIP Stock Fund.\n\nThe Reporting Person will vest in all contributions to the EDIP Stock Fund by the Issuer as follows: 100% upon the earlier of the Reporting Person's death, or upon retirement following at least 5 years of service with the Issuer and reaching the age of 55, or, if earlier, one-tenth per year of participation following five years of participation, in each case in accordance with the EDIP.\n\nUpon termination of employment, the vested portion of the EDIP Stock Fund is settled in the Issuer's common stock.Remarks:Daniel B.\n\nKim, as attorney-in-fact03/31/2026** Signature of Reporting PersonDateReminder: Report on a separate line for each class of securities beneficially owned directly or indirectly.* If the form is filed by more than one reporting person, see Instruction 4 (b)(v).** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C.\n\n78ff(a).Note: File three copies of this Form, one of which must be manually signed.\n\nIf space is insufficient, see Instruction 6 for procedure.Persons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB Number.* Form 4: SEC 1474 (03-26)",
-    "author": null,
-    "language": "en",
-    "ticker": "FTV",
-    "tickers_hint": [
-      "FTV"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
-      "event_origin": "news",
-      "query_tickers": [
-        "FTV"
-      ],
-      "body_kind": "article_text"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "2e31ef21-4c5a-50d2-b91b-3d7b8faf03f5",
-    "timestamp_utc": "2026-03-31T10:15:06+00:00",
-    "source": "stock_titan",
-    "url": "https://www.stocktitan.net/sec-filings/FTV/form-4-fortive-corp-insider-trading-activity-8f0be1682e3f.html",
-    "title": "Fortive (NYSE: FTV) VP awarded EDIP phantom stock on dividends - Stock Titan",
-    "body": "⛶ Fullscreen SEC Form 4 FORM 4UNITED STATES SECURITIES AND EXCHANGE COMMISSIONWashington, D.C.\n\n20549STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIPFiled pursuant to Section 16(a) of the Securities Exchange Act of 1934or Section 30(h) of the Investment Company Act of 1940OMB APPROVALOMB Number:3235-0287Estimated average burdenhours per response:0.5 Check this box if no longer subject to Section 16.\n\nCheck this box to indicate that a transaction was made pursuant to a contract, instruction or written plan for the purchase or sale of equity securities of the issuer that is intended to satisfy the affirmative defense conditions of Rule 10b5-1(c).\n\nName and Address of Reporting Person*Mulhall Christopher M.(Last)(First)(Middle)6920 SEAWAY BLVD(Street)EVERETT WASHINGTON 98203(City)(State)(Zip)UNITED STATES(Country)2.\n\nIssuer Name and Ticker or Trading Symbol Fortive Corp [ FTV ] 5.\n\nRelationship of Reporting Person(s) to Issuer (Check all applicable)Director10% OwnerXOfficer (give title below)Other (specify below)VP - Chief Accounting Officer2a.\n\nIndividual or Joint/Group Filing (Check Applicable Line) XForm filed by One Reporting PersonForm filed by More than One Reporting Person4.\n\nIf Amendment, Date of Original Filed (Month/Day/Year)Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned1.\n\nAmount of Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeVAmount(A) or (D)PriceTable II - Derivative Securities Acquired, Disposed of, or Beneficially Owned(e.g., puts, calls, warrants, options, convertible securities)1.\n\nNumber of Derivative Securities Acquired (A) or Disposed of (D) (Instr.\n\nTitle and Amount of Securities Underlying Derivative Security (Instr.\n\nNumber of derivative Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeV(A)(D)Date ExercisableExpiration DateTitleAmount or Number of SharesExecutive Deferred Incentive Program - Fortive Stock Fund(1)(2)03/27/2026AV7.04 (3) (3)Common Stock7.04$53.926,335.83DExecutive Deferred Incentive Program - Fortive Stock Fund(1)(2)03/27/2026AV1.88 (3) (3)Common Stock1.88$53.921,690.26IBy SpouseExplanation of Responses:1.\n\nThe reported securities are notional dividend accruals on phantom shares in the Fortive stock fund (the \"EDIP Stock Fund\") under Fortive's Executive Deferred Incentive Program (the \"EDIP\").\n\nThe number of phantom shares accrued as a result of such notional dividend accruals is based on the closing price of the Issuer's common stock as reported on the NYSE on the date such dividend accruals are credited to the EDIP Stock Fund, which is the price shown in Table II, Column 8 above.2.\n\nThe Reporting Person or the spouse of the Reporting Person, as applicable, immediately vests in 100% of each voluntary contribution to the EDIP Stock Fund.\n\nThe Reporting Person or the spouse of the Reporting Person, as applicable, will vest in all contributions to the EDIP Stock Fund by the Issuer as follows: 100% upon the earlier of the Reporting Person's or Reporting Person's spouse's death, as applicable, or upon retirement following at least 5 years of service with the Issuer and reaching the age of 55, or, if earlier, one-tenth per year of participation following five years of participation, in each case in accordance with the EDIP.\n\nUpon termination of employment, the vested portion of the EDIP Stock Fund is settled in the Issuer's common stock.Remarks:Daniel B.\n\nKim, as attorney-in-fact03/31/2026** Signature of Reporting PersonDateReminder: Report on a separate line for each class of securities beneficially owned directly or indirectly.* If the form is filed by more than one reporting person, see Instruction 4 (b)(v).** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C.\n\n78ff(a).Note: File three copies of this Form, one of which must be manually signed.\n\nIf space is insufficient, see Instruction 6 for procedure.Persons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB Number.* Form 4: SEC 1474 (03-26)",
-    "author": null,
-    "language": "en",
-    "ticker": "FTV",
-    "tickers_hint": [
-      "FTV"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
-      "event_origin": "news",
-      "query_tickers": [
-        "FTV"
-      ],
-      "body_kind": "article_text"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "6aa87809-9232-583c-97f5-50222ea415e0",
-    "timestamp_utc": "2026-03-31T10:16:06+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR3JILTFTN0JYcHdiUjJKY2lkek15NGZjdG9USkVzYlRzZnpkTDhKUWtqclJYYXRad19qRXlxQnpZUjFjd0tyQlN0Y2I0MFZpdTcxU2dIbWtVLTJXTnUtc0ZvLV84Tk85R2Nya3B5ZC0zamZWXzRwRVZKaHdqMkdCZEhlb1lNU2stSUdUYUl4WVQyV1VOMGVOLVpoMlhlR1hteTExdUFyYWQ?oc=5",
-    "title": "Fortive (FTV) HR chief records small EDIP phantom share accrual - Stock Titan",
-    "body": "Fortive (FTV) HR chief records small EDIP phantom share accrual Stock Titan",
-    "author": null,
-    "language": "en",
-    "ticker": "FTV",
-    "tickers_hint": [
-      "FTV"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
       "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "FTV"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "5512329b-b2de-5e5d-ad32-bb918f2917d2",
-    "timestamp_utc": "2026-03-31T10:15:20+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUktSTGVsdlB1eDJMS2xrNjNaT2lTLS1pNVpBRndrczZmb2VXZi0wMmJxQ1U1YkZsTEVaamVRekZKel9uQ0p2aTRyY0NEM1hUbzEtWDFhbDQ2V3NaNFREcW1DNUNHTHZsbmttMkhiRzVmc2JTSnZZLWlJR0lxYVVNVkJURHA5WDh4eXdwT0dTdWg0WGZzQ01JYVdBWW9XaEJsOHV5VUEwRl8?oc=5",
-    "title": "Fortive (FTV) chief legal officer gains EDIP phantom stock accruals - Stock Titan",
-    "body": "Fortive (FTV) chief legal officer gains EDIP phantom stock accruals Stock Titan",
-    "author": null,
-    "language": "en",
-    "ticker": "FTV",
-    "tickers_hint": [
-      "FTV"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "FTV"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.44,
+      "_channel": "google_broad"
+    }
   }
 ]

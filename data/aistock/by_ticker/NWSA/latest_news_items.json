@@ -1,11 +1,38 @@
 [
   {
-    "id": "72fb3a27-b51e-59c0-ac84-507a23b89502",
-    "timestamp_utc": "2026-04-01T03:41:15+00:00",
-    "source": "gurufocus",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZDFaUUs3UGJxTEtRQ1BPcjVGaUw0SFktLTJ2RFd3LUg0ZUVyaENjbm5SVHVrV1FlVXVaWmJHWEY4WDg4ZnZnM2laVEl4Z0J0a2dJblEtU3RzZWxPN2FRQnJQLVBtOXFNTEFfWmE3Q1JqLXp3TVV0b0N5TnhkY0VvWHpyZTRSdzd1RDZ3Y3QyZ042M2xqVHV5Q0hyRUdJcmVOVUdqelZCQXdaNXVFTkI3em5tZC1paWxDTHc?oc=5",
-    "title": "News Corporation (NWSA) Announces Updates on Stock Repurchase Pr - GuruFocus",
-    "body": "News Corporation (NWSA) Announces Updates on Stock Repurchase Pr GuruFocus",
+    "id": "b0533cc4-4393-5eac-9d1f-b3e275e9effd",
+    "timestamp_utc": "2026-04-08T08:05:47+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTEdiX1QyZ0ZYTmJ5MWwwUFlqY3hKSHJadE1qMUY2X0RBT3Z3Z19ocm5hWEpNVmZDSGVyazY3cS1WZjlHWkMyZS1MeGV6VGp3UDVmYmR3YTRpT1NFM3U5Q1ZZamFRSDZGbEdhNGlfbm9xM2cxT1d5RWhHTnA1SHhJN3MtVXNKQnA1bGhzbXctaw?oc=5",
+    "title": "3 Reasons to Sell NWSA and 1 Stock to Buy Instead - Yahoo Finance",
+    "body": "3 Reasons to Sell NWSA and 1 Stock to Buy Instead Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "NWSA",
+    "tickers_hint": [
+      "NWSA"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.611,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "43932417-5f0a-5ca5-89bf-ca15ae87b1c2",
+    "timestamp_utc": "2026-04-09T00:34:30+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-74441-shares-in-news-corporation-nwsa-purchased-by-oak-thistle-llc-2026-04-09/",
+    "title": "74,441 Shares in News Corporation $NWSA Purchased by Oak Thistle LLC - MarketBeat",
+    "body": "74,441 Shares in News Corporation $NWSA Purchased by Oak Thistle LLC MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "NWSA",
@@ -13,19 +40,17 @@
       "NWSA"
     ],
     "source_quality": "low",
-    "publisher_raw": "gurufocus.com",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "GuruFocus",
-      "source_domain": "gurufocus.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
       "event_origin": "news",
-      "query_tickers": [
-        "NWSA"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4425,
+      "_channel": "google_broad"
+    }
   }
 ]
