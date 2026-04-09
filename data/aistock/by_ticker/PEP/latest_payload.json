@@ -2,41 +2,39 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "7c95eb47-10a5-5e4f-9931-7db27d29a090",
-      "timestamp_utc": "2026-04-03T13:16:54+00:00",
-      "source": "msn",
-      "url": "https://www.msn.com/en-us/money/topstocks/will-pepsico-pep-beat-estimates-again-in-its-next-earnings-report/ar-AA1ZVVpg",
-      "title": "Will PepsiCo (PEP) beat estimates again in its next earnings report? - MSN",
-      "body": "Will PepsiCo (PEP) beat estimates again in its next earnings report? MSN",
+      "id": "8650694b-ac79-5528-8391-76f8b42daba2",
+      "timestamp_utc": "2026-04-09T02:15:20+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOXVnUDZ2NExwbnpDX2dXeEI2RmpmbDB5SElKeVpTRk10ZF9iVkxEaGNhd09fVURLUlJickFWWEl5dEdDa2g3NFdNdm1EXzQ0OWdLWmVBUUgzSUg5T28tTU1iY0loeDFGbllHMDRlTXNIX1RHOW5ZazVKNGVLRnZsdExxXy1GTy1wT1g2Rlg2T3dDUjlEbk9kSXlvSDJfdXYwU3ljT1gzX1JPNWpWX05r?oc=5",
+      "title": "PepsiCo: Why The Turnaround Is Finally Taking Hold (NASDAQ:PEP) - Seeking Alpha",
+      "body": "PepsiCo: Why The Turnaround Is Finally Taking Hold (NASDAQ:PEP) Seeking Alpha",
       "author": null,
       "language": "en",
       "ticker": "PEP",
       "tickers_hint": [
         "PEP"
       ],
-      "source_quality": "low",
-      "publisher_raw": "msn",
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MSN",
-        "source_domain": "msn.com",
-        "trust_tier": 1,
-        "relevance": 0.6,
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
         "event_origin": "news",
-        "query_tickers": [
-          "PEP"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.66,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "cf64435f-4256-50c0-9fad-b8368ae98196",
-      "timestamp_utc": "2026-04-04T15:54:12+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/PEP/earnings",
-      "title": "PEP Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "PEP Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "782deaf7-be08-5176-9977-8c2fc12d8c4f",
+      "timestamp_utc": "2026-04-08T23:21:06+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/pepsico-nasdaqpep-stock-unloaded-sen-sheldon-whitehouse-2026-04-09/",
+      "title": "PepsiCo (NASDAQ:PEP) Stock Unloaded Sen. Sheldon Whitehouse - MarketBeat",
+      "body": "PepsiCo (NASDAQ:PEP) Stock Unloaded Sen. Sheldon Whitehouse MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "PEP",
@@ -44,60 +42,83 @@
         "PEP"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "PEP"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4425,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "89abf00f-94e2-5cf9-910b-94277b5e95b2",
+      "timestamp_utc": "2026-04-08T03:32:59+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-has-lowered-expectations-for-pepsico-nasdaqpep-stock-price-2026-04-08/",
+      "title": "JPMorgan Chase & Co. Has Lowered Expectations for PepsiCo (NASDAQ:PEP) Stock Price - MarketBeat",
+      "body": "JPMorgan Chase & Co. Has Lowered Expectations for PepsiCo (NASDAQ:PEP) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "PEP",
+      "tickers_hint": [
+        "PEP"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4225,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "7c95eb47-10a5-5e4f-9931-7db27d29a090",
-      "timestamp_utc": "2026-04-03T13:16:54+00:00",
-      "source": "msn",
-      "url": "https://www.msn.com/en-us/money/topstocks/will-pepsico-pep-beat-estimates-again-in-its-next-earnings-report/ar-AA1ZVVpg",
-      "title": "Will PepsiCo (PEP) beat estimates again in its next earnings report? - MSN",
-      "body": "Will PepsiCo (PEP) beat estimates again in its next earnings report? MSN",
+      "id": "8650694b-ac79-5528-8391-76f8b42daba2",
+      "timestamp_utc": "2026-04-09T02:15:20+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOXVnUDZ2NExwbnpDX2dXeEI2RmpmbDB5SElKeVpTRk10ZF9iVkxEaGNhd09fVURLUlJickFWWEl5dEdDa2g3NFdNdm1EXzQ0OWdLWmVBUUgzSUg5T28tTU1iY0loeDFGbllHMDRlTXNIX1RHOW5ZazVKNGVLRnZsdExxXy1GTy1wT1g2Rlg2T3dDUjlEbk9kSXlvSDJfdXYwU3ljT1gzX1JPNWpWX05r?oc=5",
+      "title": "PepsiCo: Why The Turnaround Is Finally Taking Hold (NASDAQ:PEP) - Seeking Alpha",
+      "body": "PepsiCo: Why The Turnaround Is Finally Taking Hold (NASDAQ:PEP) Seeking Alpha",
       "author": null,
       "language": "en",
       "ticker": "PEP",
       "tickers_hint": [
         "PEP"
       ],
-      "source_quality": "low",
-      "publisher_raw": "msn",
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MSN",
-        "source_domain": "msn.com",
-        "trust_tier": 1,
-        "relevance": 0.6,
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
         "event_origin": "news",
-        "query_tickers": [
-          "PEP"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.66,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "cf64435f-4256-50c0-9fad-b8368ae98196",
-      "timestamp_utc": "2026-04-04T15:54:12+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/PEP/earnings",
-      "title": "PEP Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "PEP Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "782deaf7-be08-5176-9977-8c2fc12d8c4f",
+      "timestamp_utc": "2026-04-08T23:21:06+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/pepsico-nasdaqpep-stock-unloaded-sen-sheldon-whitehouse-2026-04-09/",
+      "title": "PepsiCo (NASDAQ:PEP) Stock Unloaded Sen. Sheldon Whitehouse - MarketBeat",
+      "body": "PepsiCo (NASDAQ:PEP) Stock Unloaded Sen. Sheldon Whitehouse MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "PEP",
@@ -105,20 +126,45 @@
         "PEP"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "PEP"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4425,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "89abf00f-94e2-5cf9-910b-94277b5e95b2",
+      "timestamp_utc": "2026-04-08T03:32:59+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-has-lowered-expectations-for-pepsico-nasdaqpep-stock-price-2026-04-08/",
+      "title": "JPMorgan Chase & Co. Has Lowered Expectations for PepsiCo (NASDAQ:PEP) Stock Price - MarketBeat",
+      "body": "JPMorgan Chase & Co. Has Lowered Expectations for PepsiCo (NASDAQ:PEP) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "PEP",
+      "tickers_hint": [
+        "PEP"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4225,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

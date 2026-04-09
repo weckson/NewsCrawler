@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "cafb8c91-eb28-56d4-bfeb-1df4cdb32755",
-      "timestamp_utc": "2026-04-04T11:40:57+00:00",
+      "id": "a17c2787-f5f5-554f-8c55-14932ebad75c",
+      "timestamp_utc": "2026-04-08T10:55:57+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-triad-investment-management-invests-105-million-in-johnson-johnson-jnj-2026-04-04/",
-      "title": "Triad Investment Management Invests $1.05 Million in Johnson & Johnson $JNJ - MarketBeat",
-      "body": "Triad Investment Management Invests $1.05 Million in Johnson & Johnson $JNJ MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/johnson-johnson-nysejnj-trading-up-11-on-analyst-upgrade-2026-04-08/",
+      "title": "Johnson & Johnson (NYSE:JNJ) Trading Up 1.1% on Analyst Upgrade - MarketBeat",
+      "body": "Johnson & Johnson (NYSE:JNJ) Trading Up 1.1% on Analyst Upgrade MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "JNJ",
@@ -16,27 +16,25 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
         "event_origin": "news",
-        "query_tickers": [
-          "JNJ"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.65,
+        "quality_score": 0.5075,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "4a2ff6c3-2b55-5f16-89b1-c545eb840087",
-      "timestamp_utc": "2026-04-04T09:27:18+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pinestone-asset-management-inc-reduces-stake-in-johnson-johnson-jnj-2026-04-04/",
-      "title": "PineStone Asset Management Inc. Reduces Stake in Johnson & Johnson $JNJ - MarketBeat",
-      "body": "PineStone Asset Management Inc. Reduces Stake in Johnson & Johnson $JNJ MarketBeat",
+      "id": "7a12f335-94d0-51cb-af86-3f1cc460a85f",
+      "timestamp_utc": "2026-04-08T07:36:55+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782350/td-cowen-assumes-buy-rating-for-johnson-johnson-jnj-with-250-pt-jnj-stock-news",
+      "title": "TD Cowen Assumes \"Buy\" Rating for Johnson & Johnson (JNJ) with $250 PT | JNJ Stock News - GuruFocus",
+      "body": "TD Cowen Assumes \"Buy\" Rating for Johnson & Johnson (JNJ) with $250 PT | JNJ Stock News GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "JNJ",
@@ -44,28 +42,26 @@
         "JNJ"
       ],
       "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "JNJ"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4925,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "12838341-8bfb-5b4f-a427-c7d7a6c6d49e",
-      "timestamp_utc": "2026-04-03T09:40:15+00:00",
+      "id": "32049330-6273-5a3d-830c-b66b15936cfc",
+      "timestamp_utc": "2026-04-07T21:33:42+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-johnson-johnson-jnj-stock-holdings-lifted-by-royal-fund-management-llc-2026-04-03/",
-      "title": "Johnson & Johnson $JNJ Stock Holdings Lifted by Royal Fund Management LLC - MarketBeat",
-      "body": "Johnson & Johnson $JNJ Stock Holdings Lifted by Royal Fund Management LLC MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-ascent-group-llc-has-1407-million-position-in-johnson-johnson-jnj-2026-04-08/",
+      "title": "Ascent Group LLC Has $14.07 Million Position in Johnson & Johnson $JNJ - MarketBeat",
+      "body": "Ascent Group LLC Has $14.07 Million Position in Johnson & Johnson $JNJ MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "JNJ",
@@ -74,27 +70,25 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
         "event_origin": "news",
-        "query_tickers": [
-          "JNJ"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4525,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "ba940ccf-3a01-54d8-bd3f-1f4c02aae89f",
-      "timestamp_utc": "2026-04-03T09:40:15+00:00",
+      "id": "b0069776-4733-5349-b7f7-5c13a73ece38",
+      "timestamp_utc": "2026-04-08T23:49:11+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-shrier-wealth-management-llc-acquires-shares-of-12462-johnson-johnson-jnj-2026-04-03/",
-      "title": "Shrier Wealth Management LLC Acquires Shares of 12,462 Johnson & Johnson $JNJ - MarketBeat",
-      "body": "Shrier Wealth Management LLC Acquires Shares of 12,462 Johnson & Johnson $JNJ MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-johnson-johnson-jnj-is-leo-wealth-llcs-7th-largest-position-2026-04-09/",
+      "title": "Johnson & Johnson $JNJ is Leo Wealth LLC's 7th Largest Position - MarketBeat",
+      "body": "Johnson & Johnson $JNJ is Leo Wealth LLC's 7th Largest Position MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "JNJ",
@@ -103,30 +97,55 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
         "event_origin": "news",
-        "query_tickers": [
-          "JNJ"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4425,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "a1c90f56-4d62-50b3-82de-9608aa4a6ecb",
+      "timestamp_utc": "2026-04-08T23:23:06+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/rep-richard-mccormick-sells-johnson-johnson-nysejnj-stock-2026-04-09/",
+      "title": "Rep. Richard McCormick Sells Johnson & Johnson (NYSE:JNJ) Stock - MarketBeat",
+      "body": "Rep. Richard McCormick Sells Johnson & Johnson (NYSE:JNJ) Stock MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JNJ",
+      "tickers_hint": [
+        "JNJ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4425,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "cafb8c91-eb28-56d4-bfeb-1df4cdb32755",
-      "timestamp_utc": "2026-04-04T11:40:57+00:00",
+      "id": "a17c2787-f5f5-554f-8c55-14932ebad75c",
+      "timestamp_utc": "2026-04-08T10:55:57+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-triad-investment-management-invests-105-million-in-johnson-johnson-jnj-2026-04-04/",
-      "title": "Triad Investment Management Invests $1.05 Million in Johnson & Johnson $JNJ - MarketBeat",
-      "body": "Triad Investment Management Invests $1.05 Million in Johnson & Johnson $JNJ MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/johnson-johnson-nysejnj-trading-up-11-on-analyst-upgrade-2026-04-08/",
+      "title": "Johnson & Johnson (NYSE:JNJ) Trading Up 1.1% on Analyst Upgrade - MarketBeat",
+      "body": "Johnson & Johnson (NYSE:JNJ) Trading Up 1.1% on Analyst Upgrade MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "JNJ",
@@ -135,27 +154,25 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
         "event_origin": "news",
-        "query_tickers": [
-          "JNJ"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.65,
+        "quality_score": 0.5075,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "4a2ff6c3-2b55-5f16-89b1-c545eb840087",
-      "timestamp_utc": "2026-04-04T09:27:18+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pinestone-asset-management-inc-reduces-stake-in-johnson-johnson-jnj-2026-04-04/",
-      "title": "PineStone Asset Management Inc. Reduces Stake in Johnson & Johnson $JNJ - MarketBeat",
-      "body": "PineStone Asset Management Inc. Reduces Stake in Johnson & Johnson $JNJ MarketBeat",
+      "id": "7a12f335-94d0-51cb-af86-3f1cc460a85f",
+      "timestamp_utc": "2026-04-08T07:36:55+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782350/td-cowen-assumes-buy-rating-for-johnson-johnson-jnj-with-250-pt-jnj-stock-news",
+      "title": "TD Cowen Assumes \"Buy\" Rating for Johnson & Johnson (JNJ) with $250 PT | JNJ Stock News - GuruFocus",
+      "body": "TD Cowen Assumes \"Buy\" Rating for Johnson & Johnson (JNJ) with $250 PT | JNJ Stock News GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "JNJ",
@@ -163,28 +180,26 @@
         "JNJ"
       ],
       "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "JNJ"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4925,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "12838341-8bfb-5b4f-a427-c7d7a6c6d49e",
-      "timestamp_utc": "2026-04-03T09:40:15+00:00",
+      "id": "32049330-6273-5a3d-830c-b66b15936cfc",
+      "timestamp_utc": "2026-04-07T21:33:42+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-johnson-johnson-jnj-stock-holdings-lifted-by-royal-fund-management-llc-2026-04-03/",
-      "title": "Johnson & Johnson $JNJ Stock Holdings Lifted by Royal Fund Management LLC - MarketBeat",
-      "body": "Johnson & Johnson $JNJ Stock Holdings Lifted by Royal Fund Management LLC MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-ascent-group-llc-has-1407-million-position-in-johnson-johnson-jnj-2026-04-08/",
+      "title": "Ascent Group LLC Has $14.07 Million Position in Johnson & Johnson $JNJ - MarketBeat",
+      "body": "Ascent Group LLC Has $14.07 Million Position in Johnson & Johnson $JNJ MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "JNJ",
@@ -193,27 +208,25 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
         "event_origin": "news",
-        "query_tickers": [
-          "JNJ"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4525,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "ba940ccf-3a01-54d8-bd3f-1f4c02aae89f",
-      "timestamp_utc": "2026-04-03T09:40:15+00:00",
+      "id": "b0069776-4733-5349-b7f7-5c13a73ece38",
+      "timestamp_utc": "2026-04-08T23:49:11+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-shrier-wealth-management-llc-acquires-shares-of-12462-johnson-johnson-jnj-2026-04-03/",
-      "title": "Shrier Wealth Management LLC Acquires Shares of 12,462 Johnson & Johnson $JNJ - MarketBeat",
-      "body": "Shrier Wealth Management LLC Acquires Shares of 12,462 Johnson & Johnson $JNJ MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-johnson-johnson-jnj-is-leo-wealth-llcs-7th-largest-position-2026-04-09/",
+      "title": "Johnson & Johnson $JNJ is Leo Wealth LLC's 7th Largest Position - MarketBeat",
+      "body": "Johnson & Johnson $JNJ is Leo Wealth LLC's 7th Largest Position MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "JNJ",
@@ -222,19 +235,44 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
         "event_origin": "news",
-        "query_tickers": [
-          "JNJ"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4425,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "a1c90f56-4d62-50b3-82de-9608aa4a6ecb",
+      "timestamp_utc": "2026-04-08T23:23:06+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/rep-richard-mccormick-sells-johnson-johnson-nysejnj-stock-2026-04-09/",
+      "title": "Rep. Richard McCormick Sells Johnson & Johnson (NYSE:JNJ) Stock - MarketBeat",
+      "body": "Rep. Richard McCormick Sells Johnson & Johnson (NYSE:JNJ) Stock MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "JNJ",
+      "tickers_hint": [
+        "JNJ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4425,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

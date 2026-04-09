@@ -2,76 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "53766f5c-61c3-5554-aa15-87d5aa43ffe2",
-      "timestamp_utc": "2026-03-31T10:03:23+00:00",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/markets/private-markets/26/03/51582944/apollo-kkr-atlantic-aviation-10-billion-acquisition",
-      "title": "Apollo Circles KKR's Atlantic Aviation In $10 Billion Acquisition Move - Benzinga",
-      "body": "Apollo Circles KKR's Atlantic Aviation In $10 Billion Acquisition Move Benzinga",
-      "author": null,
-      "language": "en",
-      "ticker": "APO",
-      "tickers_hint": [
-        "APO"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "benzinga.com",
-      "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "APO"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "2504ce6c-125a-5280-9019-24562bd4bf6f",
-      "timestamp_utc": "2026-03-31T14:32:16+00:00",
-      "source": "benzinga",
-      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNa0lDZDZuaHNPOVZmNEJST3EwWHI1bTdVTWVicklJZWlDMVQxX3E5UjdPUHFKY041ckRWekJpYmloMkxyNjVXY3FsWXlwMlQyX053bWZuLU5wSjFHYm50c1BWVFZOQ3FnT1RNQzNnbm1MQW9qeW5MNGgtRXQ1dHZWUl9oUVZ6cm0yRWRNZHp0TzFEcmFiZFZiaGFDWlJCRzZKZU5sX2pUUW9YcktPNWtQWmJMWTdUb0YyWklLMElkOEtyWkZIWUFyS1JiNTVkRHFMVEdXSFV5Sk02eFk2VC1waU1wcGd3ZnBYZXVweEYxTzRpRm9mcWhoRDdDMWtXeS1SNy1RYndmdUt6NzB4eHZDdlNmY0pzdzhhSm9maGVZR05zb2JZc3pwVTNvLTNmU09xLUhzUDFwOXZ5bnpyRjVOS3praDJxN0lnbEsxaHREa1JHRFhsSUthYWIzczFxR1V0WmZ2aW5OaF9SOGstVnc?oc=5",
-      "title": "APO INVESTOR ALERT - Benzinga - Benzinga",
-      "body": "APO INVESTOR ALERT - Benzinga Benzinga",
-      "author": null,
-      "language": "en",
-      "ticker": "APO",
-      "tickers_hint": [
-        "APO"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "benzinga.com",
-      "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "APO"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "baa0f6ad-e1ec-5338-8d31-ca12887b87ed",
-      "timestamp_utc": "2026-04-01T10:17:25+00:00",
-      "source": "stock_titan",
-      "url": "https://www.stocktitan.net/news/APO/apollo-to-announce-first-quarter-2026-financial-results-on-may-6-uezcfgx88j3s.html",
-      "title": "Apollo investors get Q1 results May 6, webcast starts at 8:30 ET - Stock Titan",
-      "body": "Apollo Global Mgmt Inc NYSE:APO View APO Stock Overview → APO Rankings #248 Ranked by Market Cap #1075 Ranked by Dividends #1666 52-Week Gainer #1863 YTD Gainer #1571 Ranked by Short %Change APO Latest News Apr 1, 2026 Intel to Repurchase 49% Equity Interest in Ireland Fab Joint Venture Apr 1, 2026 Apollo Funds Acquire Gatehouse Living Group from Gatehouse Bank Apr 1, 2026 New Era Energy & Digital Partners with Stream Data Centers for Flagship TCDC Campus Mar 25, 2026 Apollo Prices Offering of Senior Notes Mar 23, 2026 Apollo Funds Announce Strategic Investment in NSG Group, a Global Leader in Glass Manufacturing APO Latest SEC Filings Apr 1, 2026 [8-K] Apollo Global Management, Inc.\n\nReports Material Event Mar 30, 2026 [8-K] Apollo Global Management, Inc.\n\nReports Material Event Mar 26, 2026 [424B5] Apollo Global Management, Inc.\n\nProspectus Supplement (Debt Securities) Mar 26, 2026 [SCHEDULE 13G/A] Apollo Global Management, Inc.\n\nAmended Passive Investment Disclosure Mar 25, 2026 [424B5] Apollo Global Management, Inc.\n\nProspectus Supplement (Debt Securities) APO Stock Data Market Cap 63.58B Float 420.52M Industry Asset Management Sector Investment Advice Website Link Country United States City NEW YORK",
+      "id": "a5ca4a78-849a-502f-bbe3-11e1638fcb61",
+      "timestamp_utc": "2026-04-08T10:03:45+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782002/barclays-maintains-overweight-rating-on-apo-lowers-price-target-apo-stock-news?mobile=true",
+      "title": "Barclays Maintains Overweight Rating on APO, Lowers Price Target - GuruFocus",
+      "body": "Barclays Maintains Overweight Rating on APO, Lowers Price Target GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "APO",
@@ -79,28 +15,26 @@
         "APO"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "APO"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.465,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "a4b53400-a7c5-56b3-b7d0-8f60b3ce4138",
-      "timestamp_utc": "2026-04-01T02:00:00+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRTdhVzkzNkhNUUZFV2Z6c1V2WklLX1ZvLXMya3M1MEs4RktOR0RkZnI3ZUVkNG5HRkZhZ05RYjdYWmo5aEtieGd2V0dnTXhHMWk4dC1RR2xDVk5ad0JUZXJKbDR2VWRxTmJhM1hDZVJHbkxRdmFuc3lscS1pdjNwTkFBQUZBTS1ITXU1SkYxVUR1dEdMSW1FZWpldkJyVFdLSVEtXy1fLXMzUFN5VlJmaXJn?oc=5",
-      "title": "Apollo buys UK rental-home platform managing more than 10,000 homes - Stock Titan",
-      "body": "Apollo buys UK rental-home platform managing more than 10,000 homes Stock Titan",
+      "id": "338a4bb8-6fe0-5b28-9a1e-779ac0543260",
+      "timestamp_utc": "2026-04-08T14:55:40+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ORHRJUjB2UmE1dVFNb3NtS01nVzgwcjdGMHM0ME50V3dfTGhYM0lTblBkQUdlSkIwNUlnOTZuRzFVakFiX1JyQkJIbVNrdEVoRVRtZjFLdjZuMl9MblJBWkVtWTA?oc=5",
+      "title": "APO Apr 2026 96.000 call (APO260410C00096000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "APO Apr 2026 96.000 call (APO260410C00096000) Stock Price, News, Quote & History Yahoo! Finance Canada",
       "author": null,
       "language": "en",
       "ticker": "APO",
@@ -108,95 +42,56 @@
         "APO"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "yahoo! finance canada",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
         "event_origin": "news",
-        "query_tickers": [
-          "APO"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.445,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "fd59f3ce-d257-540b-ac3e-77d9f85e484f",
+      "timestamp_utc": "2026-04-08T09:36:50+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/APO/financials",
+      "title": "APO Financials: Revenue Breakdown, Margins & Competitor Comparison - Intellectia AI",
+      "body": "APO Financials: Revenue Breakdown, Margins & Competitor Comparison Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "APO",
+      "tickers_hint": [
+        "APO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "53766f5c-61c3-5554-aa15-87d5aa43ffe2",
-      "timestamp_utc": "2026-03-31T10:03:23+00:00",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/markets/private-markets/26/03/51582944/apollo-kkr-atlantic-aviation-10-billion-acquisition",
-      "title": "Apollo Circles KKR's Atlantic Aviation In $10 Billion Acquisition Move - Benzinga",
-      "body": "Apollo Circles KKR's Atlantic Aviation In $10 Billion Acquisition Move Benzinga",
-      "author": null,
-      "language": "en",
-      "ticker": "APO",
-      "tickers_hint": [
-        "APO"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "benzinga.com",
-      "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "APO"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "2504ce6c-125a-5280-9019-24562bd4bf6f",
-      "timestamp_utc": "2026-03-31T14:32:16+00:00",
-      "source": "benzinga",
-      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNa0lDZDZuaHNPOVZmNEJST3EwWHI1bTdVTWVicklJZWlDMVQxX3E5UjdPUHFKY041ckRWekJpYmloMkxyNjVXY3FsWXlwMlQyX053bWZuLU5wSjFHYm50c1BWVFZOQ3FnT1RNQzNnbm1MQW9qeW5MNGgtRXQ1dHZWUl9oUVZ6cm0yRWRNZHp0TzFEcmFiZFZiaGFDWlJCRzZKZU5sX2pUUW9YcktPNWtQWmJMWTdUb0YyWklLMElkOEtyWkZIWUFyS1JiNTVkRHFMVEdXSFV5Sk02eFk2VC1waU1wcGd3ZnBYZXVweEYxTzRpRm9mcWhoRDdDMWtXeS1SNy1RYndmdUt6NzB4eHZDdlNmY0pzdzhhSm9maGVZR05zb2JZc3pwVTNvLTNmU09xLUhzUDFwOXZ5bnpyRjVOS3praDJxN0lnbEsxaHREa1JHRFhsSUthYWIzczFxR1V0WmZ2aW5OaF9SOGstVnc?oc=5",
-      "title": "APO INVESTOR ALERT - Benzinga - Benzinga",
-      "body": "APO INVESTOR ALERT - Benzinga Benzinga",
-      "author": null,
-      "language": "en",
-      "ticker": "APO",
-      "tickers_hint": [
-        "APO"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "benzinga.com",
-      "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "APO"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "baa0f6ad-e1ec-5338-8d31-ca12887b87ed",
-      "timestamp_utc": "2026-04-01T10:17:25+00:00",
-      "source": "stock_titan",
-      "url": "https://www.stocktitan.net/news/APO/apollo-to-announce-first-quarter-2026-financial-results-on-may-6-uezcfgx88j3s.html",
-      "title": "Apollo investors get Q1 results May 6, webcast starts at 8:30 ET - Stock Titan",
-      "body": "Apollo Global Mgmt Inc NYSE:APO View APO Stock Overview → APO Rankings #248 Ranked by Market Cap #1075 Ranked by Dividends #1666 52-Week Gainer #1863 YTD Gainer #1571 Ranked by Short %Change APO Latest News Apr 1, 2026 Intel to Repurchase 49% Equity Interest in Ireland Fab Joint Venture Apr 1, 2026 Apollo Funds Acquire Gatehouse Living Group from Gatehouse Bank Apr 1, 2026 New Era Energy & Digital Partners with Stream Data Centers for Flagship TCDC Campus Mar 25, 2026 Apollo Prices Offering of Senior Notes Mar 23, 2026 Apollo Funds Announce Strategic Investment in NSG Group, a Global Leader in Glass Manufacturing APO Latest SEC Filings Apr 1, 2026 [8-K] Apollo Global Management, Inc.\n\nReports Material Event Mar 30, 2026 [8-K] Apollo Global Management, Inc.\n\nReports Material Event Mar 26, 2026 [424B5] Apollo Global Management, Inc.\n\nProspectus Supplement (Debt Securities) Mar 26, 2026 [SCHEDULE 13G/A] Apollo Global Management, Inc.\n\nAmended Passive Investment Disclosure Mar 25, 2026 [424B5] Apollo Global Management, Inc.\n\nProspectus Supplement (Debt Securities) APO Stock Data Market Cap 63.58B Float 420.52M Industry Asset Management Sector Investment Advice Website Link Country United States City NEW YORK",
+      "id": "a5ca4a78-849a-502f-bbe3-11e1638fcb61",
+      "timestamp_utc": "2026-04-08T10:03:45+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782002/barclays-maintains-overweight-rating-on-apo-lowers-price-target-apo-stock-news?mobile=true",
+      "title": "Barclays Maintains Overweight Rating on APO, Lowers Price Target - GuruFocus",
+      "body": "Barclays Maintains Overweight Rating on APO, Lowers Price Target GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "APO",
@@ -204,28 +99,26 @@
         "APO"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "APO"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.465,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "a4b53400-a7c5-56b3-b7d0-8f60b3ce4138",
-      "timestamp_utc": "2026-04-01T02:00:00+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRTdhVzkzNkhNUUZFV2Z6c1V2WklLX1ZvLXMya3M1MEs4RktOR0RkZnI3ZUVkNG5HRkZhZ05RYjdYWmo5aEtieGd2V0dnTXhHMWk4dC1RR2xDVk5ad0JUZXJKbDR2VWRxTmJhM1hDZVJHbkxRdmFuc3lscS1pdjNwTkFBQUZBTS1ITXU1SkYxVUR1dEdMSW1FZWpldkJyVFdLSVEtXy1fLXMzUFN5VlJmaXJn?oc=5",
-      "title": "Apollo buys UK rental-home platform managing more than 10,000 homes - Stock Titan",
-      "body": "Apollo buys UK rental-home platform managing more than 10,000 homes Stock Titan",
+      "id": "338a4bb8-6fe0-5b28-9a1e-779ac0543260",
+      "timestamp_utc": "2026-04-08T14:55:40+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ORHRJUjB2UmE1dVFNb3NtS01nVzgwcjdGMHM0ME50V3dfTGhYM0lTblBkQUdlSkIwNUlnOTZuRzFVakFiX1JyQkJIbVNrdEVoRVRtZjFLdjZuMl9MblJBWkVtWTA?oc=5",
+      "title": "APO Apr 2026 96.000 call (APO260410C00096000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "APO Apr 2026 96.000 call (APO260410C00096000) Stock Price, News, Quote & History Yahoo! Finance Canada",
       "author": null,
       "language": "en",
       "ticker": "APO",
@@ -233,20 +126,45 @@
         "APO"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "yahoo! finance canada",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
         "event_origin": "news",
-        "query_tickers": [
-          "APO"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.445,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "fd59f3ce-d257-540b-ac3e-77d9f85e484f",
+      "timestamp_utc": "2026-04-08T09:36:50+00:00",
+      "source": "intellectia_ai",
+      "url": "https://intellectia.ai/en/stock/APO/financials",
+      "title": "APO Financials: Revenue Breakdown, Margins & Competitor Comparison - Intellectia AI",
+      "body": "APO Financials: Revenue Breakdown, Margins & Competitor Comparison Intellectia AI",
+      "author": null,
+      "language": "en",
+      "ticker": "APO",
+      "tickers_hint": [
+        "APO"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "intellectia ai",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Intellectia AI",
+        "source_domain": "intellectiaai.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

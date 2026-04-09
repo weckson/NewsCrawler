@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "f659bc68-0d48-50c7-ae9b-42679d67e546",
-      "timestamp_utc": "2026-04-01T07:16:22+00:00",
-      "source": "seeking_alpha",
-      "url": "https://seekingalpha.com/article/4887890-argan-earnings-report-wasnt-luck-it-was-a-sign",
-      "title": "Argan’s Earnings Report Wasn’t Luck, It Was A Sign (NYSE:AGX) - Seeking Alpha",
-      "body": "As electricity demand has risen due to AI infrastructure, data centers and aging grids are needing to be upgraded or replaced, Argan (AGX) keeps finding itself in the exact right place at the right time. And while Argan isn’t a\n\nBest Stocks Now Premium gives you access to Bill Gunderson, professional money manager & analyst with 23 years of experience.\n\nYou get Bill's daily \"live\" buys and sells in his four portfolios: Emerging Growth, Ultra-Growth, Premier Growth, and Dividend & Growth. Our Ultra-Growth portfolio has tripled the returns of the S&P 500 since its 1/1/2019 inception, while our Premier Growth portfolio has doubled the returns of the market during that same time-period.\n\nJOIN NOW to get daily \"live\" buys and sells, weekly in-depth market-timing newsletter, access to Bill's proprietary database with daily rankings on over 5,300 securities, and a daily live radio show!\n\nAnalyst’s Disclosure: I/we have a beneficial long position in the shares of AGX either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+      "id": "905a6521-4c05-5bca-b0da-5c593ff3cfe7",
+      "timestamp_utc": "2026-04-08T05:05:00+00:00",
+      "source": "marketwatch",
+      "url": "https://www.marketwatch.com/story/two-reasons-at-ts-stock-is-missing-out-on-the-markets-cease-fire-rally-da7d191f",
+      "title": "Two reasons AT&T’s stock is missing out on the market’s cease-fire rally - MarketWatch",
+      "body": "Two reasons AT&T’s stock is missing out on the market’s cease-fire rally MarketWatch",
       "author": null,
       "language": "en",
       "ticker": "T",
@@ -15,62 +15,26 @@
         "T"
       ],
       "source_quality": "high",
-      "publisher_raw": "seekingalpha.com",
+      "publisher_raw": "marketwatch.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Seeking Alpha",
-        "source_domain": "seekingalpha.com",
-        "trust_tier": 3,
-        "relevance": 0.6500000000000001,
+        "source_name": "MarketWatch",
+        "source_domain": "marketwatch.com",
         "event_origin": "news",
-        "query_tickers": [
-          "T"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.69,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "c50812b4-85cb-5c6a-b5d3-70455c08c19b",
-      "timestamp_utc": "2026-03-31T15:52:56+00:00",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/news/politics/26/03/51589266/trump-says-well-be-leaving-very-soon-from-iran-and-they-dont-have-to-make-a-deal-dow-futures-spike-96-points",
-      "title": "Trump Says 'We'll Be Leaving Very Soon' From Iran And 'They Don't Have To Make A Deal' — Dow Futures Spik - Benzinga",
-      "body": "Trump Says 'We'll Be Leaving Very Soon' From Iran And 'They Don't Have To Make A Deal' — Dow Futures Spik Benzinga",
-      "author": null,
-      "language": "en",
-      "ticker": "DOW",
-      "tickers_hint": [
-        "DOW",
-        "T"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "benzinga.com",
-      "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW",
-          "T"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "7918fa08-f7dd-5239-a975-9b2b127df74b",
-      "timestamp_utc": "2026-04-01T15:49:06+00:00",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/news/26/04/51616912/bank-of-america-paris-offices-targeted-with-explosives-three-arrested-as-french-police-probes-iran-t",
-      "title": "Bank Of America Paris Offices Targeted With Explosives: Three Arrested As French Police Probes Iran Ties - Benzinga",
-      "body": "Bank Of America Paris Offices Targeted With Explosives: Three Arrested As French Police Probes Iran Ties Benzinga",
+      "id": "e6c6a3c9-4e68-5a82-bf80-4ade4cd8eaa8",
+      "timestamp_utc": "2026-04-08T06:39:27+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/verizon-vs-t-one-telecom-163927552.html",
+      "title": "Verizon vs. AT&T: One Telecom Dividend Is on Shaky Ground - Yahoo Finance",
+      "body": "Verizon vs. AT&T: One Telecom Dividend Is on Shaky Ground Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "T",
@@ -78,65 +42,53 @@
         "T"
       ],
       "source_quality": "high",
-      "publisher_raw": "benzinga.com",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.6000000000000001,
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "T"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.6475,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "80e90c95-9862-5e77-8543-6ef2b3b5f1ce",
-      "timestamp_utc": "2026-04-01T10:31:15+00:00",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/news/topics/26/04/51613779/robert-de-niro-82-has-no-plans-to-retire-despite-500m-net-worth-and-a-toddler-i-have-too-much-going-on-i-have-young-children",
-      "title": "Robert De Niro, 82, Has No Plans to Retire Despite $500M Net Worth And A Toddler — 'I Have Too Much Going - Benzinga",
-      "body": "Robert De Niro, 82, Has No Plans to Retire Despite $500M Net Worth And A Toddler — 'I Have Too Much Going Benzinga",
+      "id": "92569011-7014-591b-a0e8-f0533d0deb5e",
+      "timestamp_utc": "2026-04-08T11:45:04+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/t-t-stock-sinks-market-214504241.html",
+      "title": "AT&T (T) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
+      "body": "AT&T (T) Stock Sinks As Market Gains: What You Should Know Yahoo Finance",
       "author": null,
       "language": "en",
-      "ticker": "DE",
+      "ticker": "T",
       "tickers_hint": [
-        "DE",
         "T"
       ],
       "source_quality": "high",
-      "publisher_raw": "benzinga.com",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.6000000000000001,
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DE",
-          "T"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.645,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "c740c452-4898-5504-8c5e-8e406b06b1e5",
-      "timestamp_utc": "2026-04-01T08:29:02+00:00",
+      "id": "5e283ee6-a152-57d0-93cd-9f5638fd92d0",
+      "timestamp_utc": "2026-04-08T04:23:09+00:00",
       "source": "benzinga",
-      "url": "https://www.benzinga.com/markets/tech/26/04/51609820/exxon-just-overtook-nvidia-in-a-twist-unthinkable-three-months-ago",
-      "title": "Exxon Just Overtook Nvidia — In A Twist Unthinkable Three Months Ago - Benzinga",
-      "body": "Exxon Just Overtook Nvidia — In A Twist Unthinkable Three Months Ago Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVzZxbk1FMTJwLXNva2ZxMHdIZi02LThROTlrX0NkTC1YR0I4RE9DcFR3U1ZVSTM2cDZQZDk3VDJaMGs4bFJuT2dLeGlBN1NqOGtoZzI1OG02TVdKUXZYbzM0MThMd3BNYm16VDV4blZCeG0wa2wxRFhJb2ZMMDB4SW1QY3YtZU5qbFEwUTYxeUk3R0d0a2N4enlsLTBzUQ?oc=5",
+      "title": "Why AT&T Shares Are Falling Wednesday - Benzinga",
+      "body": "Why AT&T Shares Are Falling Wednesday Benzinga",
       "author": null,
       "language": "en",
       "ticker": "T",
@@ -145,30 +97,55 @@
       ],
       "source_quality": "high",
       "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_benzinga",
         "source_name": "Benzinga",
         "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.6000000000000001,
         "event_origin": "news",
-        "query_tickers": [
-          "T"
-        ],
-        "alt_sources": [
+        "relevance": 0.5,
+        "quality_score": 0.621,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
           "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        ]
+      }
     },
     {
-      "id": "e410dafc-b70f-5776-a5cd-511ee8271659",
-      "timestamp_utc": "2026-04-01T11:30:10+00:00",
-      "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8765864/att-t-stock-scotiabank-raises-price-target-to-3150-t-stock-news",
-      "title": "AT&T (T) Stock: Scotiabank Raises Price Target to $31.50 | T Sto - GuruFocus",
-      "body": "AT&T (T) Stock: Scotiabank Raises Price Target to $31.50 | T Sto GuruFocus",
+      "id": "a63db373-c813-56c5-9031-18e0b8cdcd9a",
+      "timestamp_utc": "2026-04-08T05:00:00+00:00",
+      "source": "motley_fool",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWW1fdDA5WlJpUmxOZy1LSkx1M0JxQnRyZDFDZzdFODVqQldkTUhOa1RoekdodnhxS3BnZGdEUkZRSEZEZEp1U18wNHJxb0dIMy1rSk5ZazVYMElGeHNtdU45T0FBTmVwSW5uc3d3ZEwwaE9Mc2xzTHY5dG9ESTNqcTVGMzBXRzJrRElUUVh5SHQ0dw?oc=5",
+      "title": "SpaceX Just Gave Bad News to AT&T, Verizon, and T-Mobile Investors - The Motley Fool",
+      "body": "SpaceX Just Gave Bad News to AT&T, Verizon, and T-Mobile Investors The Motley Fool",
+      "author": null,
+      "language": "en",
+      "ticker": "T",
+      "tickers_hint": [
+        "T"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "fool.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "The Motley Fool",
+        "source_domain": "fool.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.62,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "0da0409d-6e4d-5a73-bc8b-0c55f9f3260e",
+      "timestamp_utc": "2026-04-08T12:54:36+00:00",
+      "source": "national_today",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaWZ6WWFhRi1tY0hTM3dPQ3lqUFZXWlpqWW4zdUlMR1g0U0cza1NsQ1pnbjBtb3Bid00ySGZCaTdDaWFSOE9NWmxJX3IwLU5TWUl5SGdEaGJwQTM0ZldwNW9vLVFQczFER3FLR2NNMXc4cUx4V3RZQjYxWlFiZDQyMFB6a2M0ZlM2LVZVR0NhOTdRR2ZIa0NXbXBDTQ?oc=5",
+      "title": "AT&T Shares Dip 2.5% Amid Market Rotation - National Today",
+      "body": "AT&T Shares Dip 2.5% Amid Market Rotation National Today",
       "author": null,
       "language": "en",
       "ticker": "T",
@@ -176,118 +153,29 @@
         "T"
       ],
       "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
+      "publisher_raw": "national today",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
+        "source_name": "National Today",
+        "source_domain": "nationaltoday.com",
         "event_origin": "news",
-        "query_tickers": [
-          "T"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "13c9e0cf-c3cd-5c65-a786-d148e86cb8e4",
-      "timestamp_utc": "2026-03-31T12:13:52+00:00",
-      "source": "sole_retriever",
-      "url": "https://www.soleretriever.com/news/articles/nike-q3-fy26-earnings-call-nike-mind-success-potential-converse-sale",
-      "title": "Nike Earnings Report: Nike Mind is Massive and Converse isn't Going Anywhere - Sole Retriever",
-      "body": "Nike Earnings Report: Nike Mind is Massive and Converse isn't Going Anywhere Sole Retriever",
-      "author": null,
-      "language": "en",
-      "ticker": "T",
-      "tickers_hint": [
-        "T"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "sole retriever",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Sole Retriever",
-        "source_domain": "soleretriever.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "T"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "08142d1d-0e8e-5cbe-a49b-87cdcdac9a2f",
-      "timestamp_utc": "2026-04-01T00:00:00+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMkJ4X0dmbE4tbDg1X3JadGNhYjJRMEItbjczOXQ4Ni1VdkowNmRrQlN4R2F1TE0yaGl5TkJkNF90X3Y3aDhvdkVjMDZKSTUwSW1mUkVCdXN6VVJSOVlNR1ZaeGNVQUtaanBJT0kxUDlxUGI3YWVOb3JEVUw4d1VLclBBS3I0MHRuZTVXS1VHR0dFYjFwRU9EUWR1ejJiTXB2RGY2NnZHUFRXU1d2MmJQMlBzU1RtX2FSdE1hMQ?oc=5",
-      "title": "Capitan finds 41.1-metre silver zone as drilling pushes deeper in Mexico - Stock Titan",
-      "body": "Capitan finds 41.1-metre silver zone as drilling pushes deeper in Mexico Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "T",
-      "tickers_hint": [
-        "T"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "T"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "733506b2-214a-5de3-bd84-87864c2fc00f",
-      "timestamp_utc": "2026-03-31T05:13:00+00:00",
-      "source": "espn",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPR1J3MDJjdFNTYTNpVEdYMEhwclNjSXdKTDJwZ0JScmdUMWZOdmZ4VEE0blB5V0puWFgtRm91MFZPWWZteW05eVFKd0hkVnliY1R5NEJOMHE2WnM2ZUVYT3UxWXJoMWpTWk5mT3d0cE1OZDRvTXBIbmQ4STFMTjE1Tzg0M3Y4VEJKZkJZNW5nNDRHLWhOWW4xcGNOV1BlRkY4RjBZbHFRUmg5bzViUDkzLVc4YnZRQWl4YXloR2MzLURhdTI1NmdFRXNVOWlodnNlQ1AxYTdfUlZaWlZxZjhRODBuVQ?oc=5",
-      "title": "Fantasy baseball closer stock watch: Don't run from Carlos Estevez just yet - ESPN",
-      "body": "Fantasy baseball closer stock watch: Don't run from Carlos Estevez just yet ESPN",
-      "author": null,
-      "language": "en",
-      "ticker": "T",
-      "tickers_hint": [
-        "T"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "espn",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "ESPN",
-        "source_domain": "espn.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "T"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.451,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "f659bc68-0d48-50c7-ae9b-42679d67e546",
-      "timestamp_utc": "2026-04-01T07:16:22+00:00",
-      "source": "seeking_alpha",
-      "url": "https://seekingalpha.com/article/4887890-argan-earnings-report-wasnt-luck-it-was-a-sign",
-      "title": "Argan’s Earnings Report Wasn’t Luck, It Was A Sign (NYSE:AGX) - Seeking Alpha",
-      "body": "As electricity demand has risen due to AI infrastructure, data centers and aging grids are needing to be upgraded or replaced, Argan (AGX) keeps finding itself in the exact right place at the right time. And while Argan isn’t a\n\nBest Stocks Now Premium gives you access to Bill Gunderson, professional money manager & analyst with 23 years of experience.\n\nYou get Bill's daily \"live\" buys and sells in his four portfolios: Emerging Growth, Ultra-Growth, Premier Growth, and Dividend & Growth. Our Ultra-Growth portfolio has tripled the returns of the S&P 500 since its 1/1/2019 inception, while our Premier Growth portfolio has doubled the returns of the market during that same time-period.\n\nJOIN NOW to get daily \"live\" buys and sells, weekly in-depth market-timing newsletter, access to Bill's proprietary database with daily rankings on over 5,300 securities, and a daily live radio show!\n\nAnalyst’s Disclosure: I/we have a beneficial long position in the shares of AGX either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+      "id": "905a6521-4c05-5bca-b0da-5c593ff3cfe7",
+      "timestamp_utc": "2026-04-08T05:05:00+00:00",
+      "source": "marketwatch",
+      "url": "https://www.marketwatch.com/story/two-reasons-at-ts-stock-is-missing-out-on-the-markets-cease-fire-rally-da7d191f",
+      "title": "Two reasons AT&T’s stock is missing out on the market’s cease-fire rally - MarketWatch",
+      "body": "Two reasons AT&T’s stock is missing out on the market’s cease-fire rally MarketWatch",
       "author": null,
       "language": "en",
       "ticker": "T",
@@ -295,62 +183,26 @@
         "T"
       ],
       "source_quality": "high",
-      "publisher_raw": "seekingalpha.com",
+      "publisher_raw": "marketwatch.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Seeking Alpha",
-        "source_domain": "seekingalpha.com",
-        "trust_tier": 3,
-        "relevance": 0.6500000000000001,
+        "source_name": "MarketWatch",
+        "source_domain": "marketwatch.com",
         "event_origin": "news",
-        "query_tickers": [
-          "T"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.69,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "c50812b4-85cb-5c6a-b5d3-70455c08c19b",
-      "timestamp_utc": "2026-03-31T15:52:56+00:00",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/news/politics/26/03/51589266/trump-says-well-be-leaving-very-soon-from-iran-and-they-dont-have-to-make-a-deal-dow-futures-spike-96-points",
-      "title": "Trump Says 'We'll Be Leaving Very Soon' From Iran And 'They Don't Have To Make A Deal' — Dow Futures Spik - Benzinga",
-      "body": "Trump Says 'We'll Be Leaving Very Soon' From Iran And 'They Don't Have To Make A Deal' — Dow Futures Spik Benzinga",
-      "author": null,
-      "language": "en",
-      "ticker": "DOW",
-      "tickers_hint": [
-        "DOW",
-        "T"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "benzinga.com",
-      "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW",
-          "T"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "7918fa08-f7dd-5239-a975-9b2b127df74b",
-      "timestamp_utc": "2026-04-01T15:49:06+00:00",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/news/26/04/51616912/bank-of-america-paris-offices-targeted-with-explosives-three-arrested-as-french-police-probes-iran-t",
-      "title": "Bank Of America Paris Offices Targeted With Explosives: Three Arrested As French Police Probes Iran Ties - Benzinga",
-      "body": "Bank Of America Paris Offices Targeted With Explosives: Three Arrested As French Police Probes Iran Ties Benzinga",
+      "id": "e6c6a3c9-4e68-5a82-bf80-4ade4cd8eaa8",
+      "timestamp_utc": "2026-04-08T06:39:27+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/verizon-vs-t-one-telecom-163927552.html",
+      "title": "Verizon vs. AT&T: One Telecom Dividend Is on Shaky Ground - Yahoo Finance",
+      "body": "Verizon vs. AT&T: One Telecom Dividend Is on Shaky Ground Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "T",
@@ -358,65 +210,53 @@
         "T"
       ],
       "source_quality": "high",
-      "publisher_raw": "benzinga.com",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.6000000000000001,
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "T"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.6475,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "80e90c95-9862-5e77-8543-6ef2b3b5f1ce",
-      "timestamp_utc": "2026-04-01T10:31:15+00:00",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/news/topics/26/04/51613779/robert-de-niro-82-has-no-plans-to-retire-despite-500m-net-worth-and-a-toddler-i-have-too-much-going-on-i-have-young-children",
-      "title": "Robert De Niro, 82, Has No Plans to Retire Despite $500M Net Worth And A Toddler — 'I Have Too Much Going - Benzinga",
-      "body": "Robert De Niro, 82, Has No Plans to Retire Despite $500M Net Worth And A Toddler — 'I Have Too Much Going Benzinga",
+      "id": "92569011-7014-591b-a0e8-f0533d0deb5e",
+      "timestamp_utc": "2026-04-08T11:45:04+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/t-t-stock-sinks-market-214504241.html",
+      "title": "AT&T (T) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
+      "body": "AT&T (T) Stock Sinks As Market Gains: What You Should Know Yahoo Finance",
       "author": null,
       "language": "en",
-      "ticker": "DE",
+      "ticker": "T",
       "tickers_hint": [
-        "DE",
         "T"
       ],
       "source_quality": "high",
-      "publisher_raw": "benzinga.com",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.6000000000000001,
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DE",
-          "T"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.645,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "c740c452-4898-5504-8c5e-8e406b06b1e5",
-      "timestamp_utc": "2026-04-01T08:29:02+00:00",
+      "id": "5e283ee6-a152-57d0-93cd-9f5638fd92d0",
+      "timestamp_utc": "2026-04-08T04:23:09+00:00",
       "source": "benzinga",
-      "url": "https://www.benzinga.com/markets/tech/26/04/51609820/exxon-just-overtook-nvidia-in-a-twist-unthinkable-three-months-ago",
-      "title": "Exxon Just Overtook Nvidia — In A Twist Unthinkable Three Months Ago - Benzinga",
-      "body": "Exxon Just Overtook Nvidia — In A Twist Unthinkable Three Months Ago Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVzZxbk1FMTJwLXNva2ZxMHdIZi02LThROTlrX0NkTC1YR0I4RE9DcFR3U1ZVSTM2cDZQZDk3VDJaMGs4bFJuT2dLeGlBN1NqOGtoZzI1OG02TVdKUXZYbzM0MThMd3BNYm16VDV4blZCeG0wa2wxRFhJb2ZMMDB4SW1QY3YtZU5qbFEwUTYxeUk3R0d0a2N4enlsLTBzUQ?oc=5",
+      "title": "Why AT&T Shares Are Falling Wednesday - Benzinga",
+      "body": "Why AT&T Shares Are Falling Wednesday Benzinga",
       "author": null,
       "language": "en",
       "ticker": "T",
@@ -425,30 +265,55 @@
       ],
       "source_quality": "high",
       "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_benzinga",
         "source_name": "Benzinga",
         "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.6000000000000001,
         "event_origin": "news",
-        "query_tickers": [
-          "T"
-        ],
-        "alt_sources": [
+        "relevance": 0.5,
+        "quality_score": 0.621,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
           "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        ]
+      }
     },
     {
-      "id": "e410dafc-b70f-5776-a5cd-511ee8271659",
-      "timestamp_utc": "2026-04-01T11:30:10+00:00",
-      "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8765864/att-t-stock-scotiabank-raises-price-target-to-3150-t-stock-news",
-      "title": "AT&T (T) Stock: Scotiabank Raises Price Target to $31.50 | T Sto - GuruFocus",
-      "body": "AT&T (T) Stock: Scotiabank Raises Price Target to $31.50 | T Sto GuruFocus",
+      "id": "a63db373-c813-56c5-9031-18e0b8cdcd9a",
+      "timestamp_utc": "2026-04-08T05:00:00+00:00",
+      "source": "motley_fool",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWW1fdDA5WlJpUmxOZy1LSkx1M0JxQnRyZDFDZzdFODVqQldkTUhOa1RoekdodnhxS3BnZGdEUkZRSEZEZEp1U18wNHJxb0dIMy1rSk5ZazVYMElGeHNtdU45T0FBTmVwSW5uc3d3ZEwwaE9Mc2xzTHY5dG9ESTNqcTVGMzBXRzJrRElUUVh5SHQ0dw?oc=5",
+      "title": "SpaceX Just Gave Bad News to AT&T, Verizon, and T-Mobile Investors - The Motley Fool",
+      "body": "SpaceX Just Gave Bad News to AT&T, Verizon, and T-Mobile Investors The Motley Fool",
+      "author": null,
+      "language": "en",
+      "ticker": "T",
+      "tickers_hint": [
+        "T"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "fool.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "The Motley Fool",
+        "source_domain": "fool.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.62,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "0da0409d-6e4d-5a73-bc8b-0c55f9f3260e",
+      "timestamp_utc": "2026-04-08T12:54:36+00:00",
+      "source": "national_today",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaWZ6WWFhRi1tY0hTM3dPQ3lqUFZXWlpqWW4zdUlMR1g0U0cza1NsQ1pnbjBtb3Bid00ySGZCaTdDaWFSOE9NWmxJX3IwLU5TWUl5SGdEaGJwQTM0ZldwNW9vLVFQczFER3FLR2NNMXc4cUx4V3RZQjYxWlFiZDQyMFB6a2M0ZlM2LVZVR0NhOTdRR2ZIa0NXbXBDTQ?oc=5",
+      "title": "AT&T Shares Dip 2.5% Amid Market Rotation - National Today",
+      "body": "AT&T Shares Dip 2.5% Amid Market Rotation National Today",
       "author": null,
       "language": "en",
       "ticker": "T",
@@ -456,107 +321,18 @@
         "T"
       ],
       "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
+      "publisher_raw": "national today",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
+        "source_name": "National Today",
+        "source_domain": "nationaltoday.com",
         "event_origin": "news",
-        "query_tickers": [
-          "T"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "13c9e0cf-c3cd-5c65-a786-d148e86cb8e4",
-      "timestamp_utc": "2026-03-31T12:13:52+00:00",
-      "source": "sole_retriever",
-      "url": "https://www.soleretriever.com/news/articles/nike-q3-fy26-earnings-call-nike-mind-success-potential-converse-sale",
-      "title": "Nike Earnings Report: Nike Mind is Massive and Converse isn't Going Anywhere - Sole Retriever",
-      "body": "Nike Earnings Report: Nike Mind is Massive and Converse isn't Going Anywhere Sole Retriever",
-      "author": null,
-      "language": "en",
-      "ticker": "T",
-      "tickers_hint": [
-        "T"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "sole retriever",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Sole Retriever",
-        "source_domain": "soleretriever.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "T"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "08142d1d-0e8e-5cbe-a49b-87cdcdac9a2f",
-      "timestamp_utc": "2026-04-01T00:00:00+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMkJ4X0dmbE4tbDg1X3JadGNhYjJRMEItbjczOXQ4Ni1VdkowNmRrQlN4R2F1TE0yaGl5TkJkNF90X3Y3aDhvdkVjMDZKSTUwSW1mUkVCdXN6VVJSOVlNR1ZaeGNVQUtaanBJT0kxUDlxUGI3YWVOb3JEVUw4d1VLclBBS3I0MHRuZTVXS1VHR0dFYjFwRU9EUWR1ejJiTXB2RGY2NnZHUFRXU1d2MmJQMlBzU1RtX2FSdE1hMQ?oc=5",
-      "title": "Capitan finds 41.1-metre silver zone as drilling pushes deeper in Mexico - Stock Titan",
-      "body": "Capitan finds 41.1-metre silver zone as drilling pushes deeper in Mexico Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "T",
-      "tickers_hint": [
-        "T"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "T"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "733506b2-214a-5de3-bd84-87864c2fc00f",
-      "timestamp_utc": "2026-03-31T05:13:00+00:00",
-      "source": "espn",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPR1J3MDJjdFNTYTNpVEdYMEhwclNjSXdKTDJwZ0JScmdUMWZOdmZ4VEE0blB5V0puWFgtRm91MFZPWWZteW05eVFKd0hkVnliY1R5NEJOMHE2WnM2ZUVYT3UxWXJoMWpTWk5mT3d0cE1OZDRvTXBIbmQ4STFMTjE1Tzg0M3Y4VEJKZkJZNW5nNDRHLWhOWW4xcGNOV1BlRkY4RjBZbHFRUmg5bzViUDkzLVc4YnZRQWl4YXloR2MzLURhdTI1NmdFRXNVOWlodnNlQ1AxYTdfUlZaWlZxZjhRODBuVQ?oc=5",
-      "title": "Fantasy baseball closer stock watch: Don't run from Carlos Estevez just yet - ESPN",
-      "body": "Fantasy baseball closer stock watch: Don't run from Carlos Estevez just yet ESPN",
-      "author": null,
-      "language": "en",
-      "ticker": "T",
-      "tickers_hint": [
-        "T"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "espn",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "ESPN",
-        "source_domain": "espn.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "T"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.451,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

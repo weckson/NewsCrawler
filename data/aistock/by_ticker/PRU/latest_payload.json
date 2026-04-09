@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "fc84a5c0-e2d3-57aa-800a-d6205f71183e",
-      "timestamp_utc": "2026-04-04T15:06:08+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/PRU/earnings",
-      "title": "PRU Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "PRU Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "f5950b17-9400-5d73-b640-7f869ca0150c",
+      "timestamp_utc": "2026-04-08T08:07:23+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782311/prudential-financial-pru-analyst-rating-update-barclays-lowers-price-target-pru-stock-news?mobile=true",
+      "title": "Prudential Financial (PRU) Analyst Rating Update: Barclays Lowers Price Target | PRU Stock News - GuruFocus",
+      "body": "Prudential Financial (PRU) Analyst Rating Update: Barclays Lowers Price Target | PRU Stock News GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "PRU",
@@ -15,31 +15,56 @@
         "PRU"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "PRU"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.7500000000000001,
+        "quality_score": 0.5325,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "fd31bc48-3cca-5b34-8ab0-542f231ccf1e",
+      "timestamp_utc": "2026-04-08T06:57:24+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/barclays-issues-pessimistic-forecast-for-prudential-financial-nysepru-stock-price-2026-04-08/",
+      "title": "Barclays Issues Pessimistic Forecast for Prudential Financial (NYSE:PRU) Stock Price - MarketBeat",
+      "body": "Barclays Issues Pessimistic Forecast for Prudential Financial (NYSE:PRU) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "PRU",
+      "tickers_hint": [
+        "PRU"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "fc84a5c0-e2d3-57aa-800a-d6205f71183e",
-      "timestamp_utc": "2026-04-04T15:06:08+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/PRU/earnings",
-      "title": "PRU Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "PRU Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "f5950b17-9400-5d73-b640-7f869ca0150c",
+      "timestamp_utc": "2026-04-08T08:07:23+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782311/prudential-financial-pru-analyst-rating-update-barclays-lowers-price-target-pru-stock-news?mobile=true",
+      "title": "Prudential Financial (PRU) Analyst Rating Update: Barclays Lowers Price Target | PRU Stock News - GuruFocus",
+      "body": "Prudential Financial (PRU) Analyst Rating Update: Barclays Lowers Price Target | PRU Stock News GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "PRU",
@@ -47,20 +72,45 @@
         "PRU"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "PRU"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.7500000000000001,
+        "quality_score": 0.5325,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "fd31bc48-3cca-5b34-8ab0-542f231ccf1e",
+      "timestamp_utc": "2026-04-08T06:57:24+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/barclays-issues-pessimistic-forecast-for-prudential-financial-nysepru-stock-price-2026-04-08/",
+      "title": "Barclays Issues Pessimistic Forecast for Prudential Financial (NYSE:PRU) Stock Price - MarketBeat",
+      "body": "Barclays Issues Pessimistic Forecast for Prudential Financial (NYSE:PRU) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "PRU",
+      "tickers_hint": [
+        "PRU"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

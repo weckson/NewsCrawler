@@ -1,69 +1,11 @@
 [
   {
-    "id": "09bddd37-814e-584d-a543-6d39dafc113e",
-    "timestamp_utc": "2026-04-01T12:14:24+00:00",
-    "source": "tipranks",
-    "url": "https://www.tipranks.com/news/company-announcements/stitch-fix-resumes-share-repurchase-program-signals-confidence",
-    "title": "Stitch Fix Resumes Share Repurchase Program, Signals Confidence - TipRanks",
-    "body": "Stitch Fix Resumes Share Repurchase Program, Signals Confidence TipRanks",
-    "author": null,
-    "language": "en",
-    "ticker": "FIX",
-    "tickers_hint": [
-      "FIX"
-    ],
-    "source_quality": "high",
-    "publisher_raw": "tipranks.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "TipRanks",
-      "source_domain": "tipranks.com",
-      "trust_tier": 3,
-      "relevance": 0.55,
-      "event_origin": "news",
-      "query_tickers": [
-        "FIX"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "ceb2e742-becf-5be8-bae8-6ea79f1069d6",
-    "timestamp_utc": "2026-04-01T12:39:00+00:00",
-    "source": "wsj",
-    "url": "https://www.wsj.com/business/retail/nikes-road-to-recovery-in-china-is-hitting-new-hurdles-5aced75f?gaa_at=eafs&gaa_n=AWEtsqfCztrugzsVcR4135uScmzABd256pJarz-q6-gsfyATRh3ZhnaBLofM&gaa_ts=69cdf73a&gaa_sig=tMv5p9JTq40pOuzGgp9-1Fs1v023Sm3QoS0AWp_CGvGnHLZuU1KTuqwVK7RDPrP2BZKHHFykIj5Jm8f4ppWwSQ%3D%3D",
-    "title": "Nike Can’t Fix Its China Problem and That’s Tanking Its Stock - WSJ",
-    "body": "Nike Can’t Fix Its China Problem and That’s Tanking Its Stock WSJ",
-    "author": null,
-    "language": "en",
-    "ticker": "FIX",
-    "tickers_hint": [
-      "FIX"
-    ],
-    "source_quality": "high",
-    "publisher_raw": "wsj.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "WSJ",
-      "source_domain": "wsj.com",
-      "trust_tier": 3,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "FIX"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "f2da939e-b4e7-5de8-acad-04cd49c5f528",
-    "timestamp_utc": "2026-04-01T11:00:00+00:00",
-    "source": "stock_titan",
-    "url": "https://www.stocktitan.net/news/SFIX/stitch-fix-resumes-share-repurchase-xg7x6jldpska.html",
-    "title": "Stitch Fix restarts stock buybacks, spends $15M since March 17 - Stock Titan",
-    "body": "Stitch Fix NASDAQ:SFIX View SFIX Stock Overview → SFIX Rankings #3558 Ranked by Market Cap N/A Ranked by Dividends SFIX Latest News Mar 11, 2026 Stitch Fix Announces Second Quarter of Fiscal 2026 Financial Results Feb 18, 2026 Stitch Fix Announces Date for Second Quarter 2026 Financial Results and Conference Call Dec 29, 2025 Stitch Fix to Participate in 2026 ICR Conference Dec 11, 2025 Stitch Fix Unveils the Top Trends of Women’s Fashion in 2025 and the Style Shift to Watch for in 2026 Dec 5, 2025 Stitch Fix to Participate in KeyBanc Capital Markets Virtual December Consumer Spotlight SFIX Latest SEC Filings Apr 1, 2026 [8-K] Stitch Fix, Inc.\n\nReports Material Event Mar 27, 2026 [SCHEDULE 13G/A] Stitch Fix, Inc.\n\nAmended Passive Investment Disclosure Mar 20, 2026 [Form 4] Stitch Fix, Inc.\n\nInsider Trading Activity Mar 20, 2026 [Form 4] Stitch Fix, Inc.\n\nInsider Trading Activity Mar 20, 2026 [Form 4] Stitch Fix, Inc.\n\nInsider Trading Activity SFIX Stock Data Market Cap 451.89M Float 115.46M Industry Apparel Retail Sector Retail-catalog & Mail-order Houses Website Link Country United States City SAN FRANCISCO",
+    "id": "560e1975-53ab-54d2-bc91-13eb38bccfff",
+    "timestamp_utc": "2026-04-08T19:05:33+00:00",
+    "source": "national_today",
+    "url": "https://nationaltoday.com/us/ca/san-francisco/news/2026/04/09/stitch-fix-cfo-sells-over-200k-in-stock/",
+    "title": "Stitch Fix CFO Sells Over $200K in Stock - National Today",
+    "body": "The transaction represents a 5.28% decrease in the CFO's position.\n\nGot story updates? Submit your updates here. ›\n\nStitch Fix, Inc. (NASDAQ:SFIX) CFO David Aufderhaar sold 65,709 shares of the company's stock in a transaction on Tuesday, April 7th. The shares were sold at an average price of $3.09, for a total transaction value of $203,040.81. Following the sale, Aufderhaar directly owns 1,178,037 shares in the company, valued at $3,640,134.33.\n\nThis insider sale by Stitch Fix's CFO represents a significant decrease in his personal stake in the company, which could signal a shift in his confidence or the company's outlook.\n\nThe transaction was executed under a pre-arranged Rule 10b5-1 trading plan. Aufderhaar also previously sold 24,114 shares of Stitch Fix stock on January 20th for $123,704.82.\n\nThe Chief Financial Officer of Stitch Fix, Inc.\n\nAn online personal styling service that uses data science and human expertise to deliver curated clothing and accessory selections to its customers.\n\nThis insider sale by Stitch Fix's CFO could signal a shift in confidence or outlook for the company, though the transaction was pre-planned. Investors will likely watch closely to see if other executives or insiders make similar moves in the coming months.",
     "author": null,
     "language": "en",
     "ticker": "FIX",
@@ -71,19 +13,44 @@
       "FIX"
     ],
     "source_quality": "low",
-    "publisher_raw": "stock titan",
+    "publisher_raw": "national today",
+    "trust_tier": 1,
+    "body_kind": "article_text",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
+      "source_name": "National Today",
+      "source_domain": "nationaltoday.com",
       "event_origin": "news",
-      "query_tickers": [
-        "FIX"
-      ],
-      "body_kind": "article_text"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4785,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "35bb9e61-3213-58c5-bcbf-8b66c211ea70",
+    "timestamp_utc": "2026-04-08T22:53:05+00:00",
+    "source": "stockstory",
+    "url": "https://stockstory.org/us/stocks/nasdaq/pesi/news/earnings/waste-management-stocks-q4-in-review-perma-fix-nasdaqpesi-vs-peers",
+    "title": "Waste Management Stocks Q4 In Review: Perma-Fix (NASDAQ:PESI) Vs Peers - StockStory",
+    "body": "Wrapping up Q4 earnings, we look at the numbers and key takeaways for the waste management stocks, including Perma-Fix (NASDAQ:PESI) and its peers.\n\nWaste management companies can possess licenses permitting them to handle hazardous materials. Furthermore, many services are performed through contracts and statutorily mandated, non-discretionary, or recurring, leading to more predictable revenue streams. However, regulation can be a headwind, rendering existing services obsolete or forcing companies to invest precious capital to comply with new, more environmentally-friendly rules. Lastly, waste management companies are at the whim of economic cycles. Interest rates, for example, can greatly impact industrial production or commercial projects that create waste and byproducts.\n\nThe 9 waste management stocks we track reported a mixed Q4. As a group, revenues missed analysts’ consensus estimates by 1.4%.\n\nWhile some waste management stocks have fared somewhat better than others, they have collectively declined. On average, share prices are down 3.3% since the latest earnings results.\n\nTackling hazardous waste challenges since 1990, Perma-Fix (NASDAQ:PESI) provides environmental waste treatment services.\n\nPerma-Fix reported revenues of $15.72 million, up 6.9% year on year. This print fell short of analysts’ expectations by 11.2%. Overall, it was a disappointing quarter for the company with a significant miss of analysts’ revenue and EBITDA estimates.\n\nMark Duff, President and Chief Executive Officer of the Company, commented, “During 2025, we focused on strengthening Perma-Fix’s operational foundation and positioning the Company for the next phase of growth tied to the U.S. Department of Energy’s (“DOE”) Hanford cleanup mission.\n\nPerma-Fix delivered the weakest performance against analyst estimates of the whole group. Interestingly, the stock is up 1.6% since reporting and currently trades at $12.25.\n\nRead our full report on Perma-Fix here, it’s free.\n\nCooling America’s first indoor ice rink in the 19th century, Enviri (NYSE:NVRI) offers steel and waste handling services.\n\nEnviri reported revenues of $555 million, flat year on year, outperforming analysts’ expectations by 0.7%. The business had an exceptional quarter with a beat of analysts’ EPS and EBITDA estimates.\n\nThe market seems content with the results as the stock is up 3.2% since reporting. It currently trades at $19.73.\n\nIs now the time to buy Enviri? Access our full analysis of the earnings results here, it’s free.\n\nRecycling corporate waste to help companies be more sustainable, Quest Resource (NASDAQ:QRHC) is a provider of waste and recycling services.\n\nQuest Resource reported revenues of $58.91 million, down 15.8% year on year, falling short of analysts’ expectations by 3.8%. It was a disappointing quarter as it posted a significant miss of analysts’ revenue and EBITDA estimates.\n\nQuest Resource delivered the slowest revenue growth in the group. As expected, the stock is down 21.4% since the results and currently trades at $1.14.\n\nRead our full analysis of Quest Resource’s results here.\n\nOperating a network of municipal solid waste landfills in the U.S. and Canada, Waste Connections (NYSE:WCN) is North America's third-largest waste management company providing collection, disposal, and recycling services.\n\nWaste Connections reported revenues of $2.37 billion, up 5% year on year. This print was in line with analysts’ expectations. Zooming out, it was a mixed quarter as it also produced a narrow beat of analysts’ EBITDA estimates but full-year revenue guidance meeting analysts’ expectations.\n\nThe stock is down 5.1% since reporting and currently trades at $162.91.\n\nRead our full, actionable report on Waste Connections here, it’s free.\n\nHeadquartered in Houston, Waste Management (NYSE:WM) is a provider of comprehensive waste management services in North America.\n\nWaste Management reported revenues of $6.31 billion, up 7.1% year on year. This number missed analysts’ expectations by 1.3%. It was a slower quarter as it also logged a slight miss of analysts’ revenue estimates and a miss of analysts’ adjusted operating income estimates.\n\nWaste Management delivered the highest full-year guidance raise among its peers. The stock is flat since reporting and currently trades at $231.11.\n\nRead our full, actionable report on Waste Management here, it’s free.\n\nLate in 2025 into early 2026, there was hand wringing around artificial intelligence. For software companies, the fear was that AI would erode pricing power and compress margins as new tools made it easier to replicate what once required expensive enterprise platforms. Crypto investors had their own version of the same anxiety: if AI agents could trade, allocate capital, and manage wallets autonomously, what exactly was the long-term value of today’s crypto infrastructure?\n\nThese concerns triggered a noticeable rotation away from these sectors and into safer havens. But markets rarely dwell on one narrative for long. Spring 2026 came, and the focus shifted abruptly from technological disruption to geopolitical risk. The US’ conflict with Iran became the dominant driver of market psychology, and when geopolitics takes center stage, the script changes quickly. Investors stop debating growth rates and start worrying about oil supply, inflation, and global stability.\n\nWant to invest in winners with rock-solid fundamentals? Check out our Top 5 Growth Stocks and add them to your watchlist. These companies are poised for growth regardless of the political or macroeconomic climate.\n\nStockStory’s analyst team — all seasoned professional investors — uses quantitative analysis and automation to deliver market-beating insights faster and with higher quality.",
+    "author": null,
+    "language": "en",
+    "ticker": "FIX",
+    "tickers_hint": [
+      "FIX"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stockstory",
+    "trust_tier": 1,
+    "body_kind": "article_text",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "StockStory",
+      "source_domain": "stockstory.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4575,
+      "_channel": "google_broad"
+    }
   }
 ]

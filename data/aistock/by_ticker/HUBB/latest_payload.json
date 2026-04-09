@@ -2,65 +2,67 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "0e0ae398-b63c-583d-af92-0c6db5e7325c",
-      "timestamp_utc": "2026-04-01T06:53:38+00:00",
-      "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8765569/hubb-wells-fargo-lowers-price-target-but-maintains-overweight-rating-hubb-stock-news",
-      "title": "HUBB: Wells Fargo Lowers Price Target but Maintains Overweight R - GuruFocus",
-      "body": "HUBB: Wells Fargo Lowers Price Target but Maintains Overweight R GuruFocus",
+      "id": "3d5b7a38-6caa-54f9-b288-b09572b1866a",
+      "timestamp_utc": "2026-04-09T00:37:47+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/electrical-systems-stocks-q4-recap-103747938.html",
+      "title": "Electrical Systems Stocks Q4 Recap: Benchmarking Hubbell (NYSE:HUBB) - Yahoo Finance",
+      "body": "Electrical Systems Stocks Q4 Recap: Benchmarking Hubbell (NYSE:HUBB) Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "HUBB",
       "tickers_hint": [
         "HUBB"
       ],
-      "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "HUBB"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.6775,
+        "_channel": "google_broad",
+        "_alt_sources": [
+          "StockStory"
+        ]
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "0e0ae398-b63c-583d-af92-0c6db5e7325c",
-      "timestamp_utc": "2026-04-01T06:53:38+00:00",
-      "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8765569/hubb-wells-fargo-lowers-price-target-but-maintains-overweight-rating-hubb-stock-news",
-      "title": "HUBB: Wells Fargo Lowers Price Target but Maintains Overweight R - GuruFocus",
-      "body": "HUBB: Wells Fargo Lowers Price Target but Maintains Overweight R GuruFocus",
+      "id": "3d5b7a38-6caa-54f9-b288-b09572b1866a",
+      "timestamp_utc": "2026-04-09T00:37:47+00:00",
+      "source": "yahoo_finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/electrical-systems-stocks-q4-recap-103747938.html",
+      "title": "Electrical Systems Stocks Q4 Recap: Benchmarking Hubbell (NYSE:HUBB) - Yahoo Finance",
+      "body": "Electrical Systems Stocks Q4 Recap: Benchmarking Hubbell (NYSE:HUBB) Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "HUBB",
       "tickers_hint": [
         "HUBB"
       ],
-      "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "Yahoo Finance",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "HUBB"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.6775,
+        "_channel": "google_broad",
+        "_alt_sources": [
+          "StockStory"
+        ]
+      }
     }
   ]
 }

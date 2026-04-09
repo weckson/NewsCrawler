@@ -2,41 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "a3af369f-8144-52ed-a35c-21843f218861",
-      "timestamp_utc": "2026-04-01T10:31:18+00:00",
-      "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8765786/barclays-adjusts-price-target-for-smurfit-westrock-sw-to-54-sw-stock-news",
-      "title": "Barclays Adjusts Price Target for Smurfit WestRock (SW) to $54 | SW Stock News - GuruFocus",
-      "body": "Barclays Adjusts Price Target for Smurfit WestRock (SW) to $54 | SW Stock News GuruFocus",
-      "author": null,
-      "language": "en",
-      "ticker": "SW",
-      "tickers_hint": [
-        "SW"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "SW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "09be5343-ef09-5f69-a348-e9a232afe461",
-      "timestamp_utc": "2026-04-01T09:08:32+00:00",
+      "id": "3e073a71-920e-53d8-b19b-fbc1054007b6",
+      "timestamp_utc": "2026-04-09T00:36:36+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/barclays-has-lowered-expectations-for-smurfit-westrock-nysesw-stock-price-2026-04-01/",
-      "title": "Barclays Has Lowered Expectations for Smurfit Westrock (NYSE:SW) Stock Price - MarketBeat",
-      "body": "Barclays Has Lowered Expectations for Smurfit Westrock (NYSE:SW) Stock Price MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/smurfit-westrock-nysesw-lowered-to-strong-sell-rating-by-zacks-research-2026-04-09/",
+      "title": "Smurfit Westrock (NYSE:SW) Lowered to Strong Sell Rating by Zacks Research - MarketBeat",
+      "body": "Smurfit Westrock (NYSE:SW) Lowered to Strong Sell Rating by Zacks Research MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "SW",
@@ -45,59 +16,55 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
         "event_origin": "news",
-        "query_tickers": [
-          "SW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.7000000000000001,
+        "quality_score": 0.495,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "e3aebb8c-46cd-5dfa-bfbf-325f816849b0",
+      "timestamp_utc": "2026-04-07T22:45:58+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bip-wealth-llc-acquires-new-position-in-smurfit-westrock-plc-sw-2026-04-08/",
+      "title": "BIP Wealth LLC Acquires New Position in Smurfit Westrock PLC $SW - MarketBeat",
+      "body": "BIP Wealth LLC Acquires New Position in Smurfit Westrock PLC $SW MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "SW",
+      "tickers_hint": [
+        "SW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4425,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "a3af369f-8144-52ed-a35c-21843f218861",
-      "timestamp_utc": "2026-04-01T10:31:18+00:00",
-      "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8765786/barclays-adjusts-price-target-for-smurfit-westrock-sw-to-54-sw-stock-news",
-      "title": "Barclays Adjusts Price Target for Smurfit WestRock (SW) to $54 | SW Stock News - GuruFocus",
-      "body": "Barclays Adjusts Price Target for Smurfit WestRock (SW) to $54 | SW Stock News GuruFocus",
-      "author": null,
-      "language": "en",
-      "ticker": "SW",
-      "tickers_hint": [
-        "SW"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "SW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "09be5343-ef09-5f69-a348-e9a232afe461",
-      "timestamp_utc": "2026-04-01T09:08:32+00:00",
+      "id": "3e073a71-920e-53d8-b19b-fbc1054007b6",
+      "timestamp_utc": "2026-04-09T00:36:36+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/barclays-has-lowered-expectations-for-smurfit-westrock-nysesw-stock-price-2026-04-01/",
-      "title": "Barclays Has Lowered Expectations for Smurfit Westrock (NYSE:SW) Stock Price - MarketBeat",
-      "body": "Barclays Has Lowered Expectations for Smurfit Westrock (NYSE:SW) Stock Price MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/smurfit-westrock-nysesw-lowered-to-strong-sell-rating-by-zacks-research-2026-04-09/",
+      "title": "Smurfit Westrock (NYSE:SW) Lowered to Strong Sell Rating by Zacks Research - MarketBeat",
+      "body": "Smurfit Westrock (NYSE:SW) Lowered to Strong Sell Rating by Zacks Research MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "SW",
@@ -106,19 +73,44 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
         "event_origin": "news",
-        "query_tickers": [
-          "SW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.7000000000000001,
+        "quality_score": 0.495,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "e3aebb8c-46cd-5dfa-bfbf-325f816849b0",
+      "timestamp_utc": "2026-04-07T22:45:58+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bip-wealth-llc-acquires-new-position-in-smurfit-westrock-plc-sw-2026-04-08/",
+      "title": "BIP Wealth LLC Acquires New Position in Smurfit Westrock PLC $SW - MarketBeat",
+      "body": "BIP Wealth LLC Acquires New Position in Smurfit Westrock PLC $SW MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "SW",
+      "tickers_hint": [
+        "SW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4425,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

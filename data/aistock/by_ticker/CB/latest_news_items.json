@@ -1,11 +1,11 @@
 [
   {
-    "id": "d0a7eeb4-de44-5004-8630-cb4eaad3d339",
-    "timestamp_utc": "2026-04-04T21:26:00+00:00",
-    "source": "quiverquant.com",
-    "url": "https://www.quiverquant.com/news/Chubb+Ltd+%28%24CB%29+CEO+2025+Pay+Revealed",
-    "title": "Chubb Ltd ($CB) CEO 2025 Pay Revealed - quiverquant.com",
-    "body": "We estimate that the CEO of Chubb Ltd ($CB), Evan G. Greenberg, received a compensation of $33,180,582 in 2025. This is an increase of 9.17% from an estimated $30,138,094 in 2024.\n\nThese estimates are based on a new DEF14A filing, filed with the SEC on April 03, 2026. Note that parsing errors may occur.\n\nYou can track $CB on Quiver Quantitative's $CB stock dashboard.\n\n$CB Stock insiders have traded $CB stock on the open market 14 times in the past 6 months. Of those trades, 0 have been purchases and 14 have been sales.\n\nHere’s a breakdown of recent trading of $CB stock by insiders over the last 6 months:\n\nTo track insider transactions, check out Quiver Quantitative's insider trading dashboard.\n\nMembers of Congress have traded $CB stock 1 times in the past 6 months. Of those trades, 1 have been purchases and 0 have been sales.\n\nHere’s a breakdown of recent trading of $CB stock by members of Congress over the last 6 months:\n\nTo track congressional stock trading, check out Quiver Quantitative's congressional trading dashboard.\n\nWe have seen 925 institutional investors add shares of $CB Stock stock to their portfolio, and 807 decrease their positions in their most recent quarter.\n\nHere are some of the largest recent moves:\n\nTo track hedge funds' stock portfolios, check out Quiver Quantitative's institutional holdings dashboard.\n\nWall Street analysts have issued reports on $CB in the last several months. We have seen 3 firms issue buy ratings on the stock, and 0 firms issue sell ratings.\n\nTo track analyst ratings and price targets for $CB Stock, check out Quiver Quantitative's $CB forecast page.\n\nMultiple analysts have issued price targets for $CB recently. We have seen 18 analysts offer price targets for $CB in the last 6 months, with a median target of $337.5.\n\nThis article is not financial advice. See Quiver Quantitative's disclaimers for more information. Note that there may be inaccuracies due to mistakes in ticker-mapping, and other anomalies.\n\nAdd Quiver Quantitative to your preferred sources on Google",
+    "id": "9c438d8f-93f3-5e31-8d38-60e468684615",
+    "timestamp_utc": "2026-04-08T06:24:31+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8782020/chubb-cb-analyst-alex-scott-of-barclays-raises-price-target-to-374-cb-stock-news?mobile=true",
+    "title": "Chubb (CB): Analyst Alex Scott of Barclays Raises Price Target t - GuruFocus",
+    "body": "Chubb (CB): Analyst Alex Scott of Barclays Raises Price Target t GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "CB",
@@ -13,19 +13,44 @@
       "CB"
     ],
     "source_quality": "low",
-    "publisher_raw": "quiverquant.com",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "quiverquant.com",
-      "source_domain": "quiverquantcom.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
       "event_origin": "news",
-      "query_tickers": [
-        "CB"
-      ],
-      "body_kind": "article_text"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6,
+      "quality_score": 0.465,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "c10c2bfd-e10a-52c6-aa49-2313a8563075",
+    "timestamp_utc": "2026-04-08T03:30:51+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/the-goldman-sachs-group-issues-positive-forecast-for-chubb-nysecb-stock-price-2026-04-08/",
+    "title": "The Goldman Sachs Group Issues Positive Forecast for Chubb (NYSE:CB) Stock Price - MarketBeat",
+    "body": "The Goldman Sachs Group Issues Positive Forecast for Chubb (NYSE:CB) Stock Price MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "CB",
+    "tickers_hint": [
+      "CB"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4375,
+      "_channel": "google_broad"
+    }
   }
 ]

@@ -1,11 +1,11 @@
 [
   {
-    "id": "bb048ecd-586b-5eba-9059-06ae82be5999",
-    "timestamp_utc": "2026-04-04T05:12:02+00:00",
-    "source": "yahoo_finance_uk",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zRjM3MGFLR1laTEVKMV80Z1FsNXdDRFJkX0lxRnAyTVExSkNZaFNGejBhSXFqVjJkZGVUdE9wc2FsVGFfdDdXeG1wbFJBbFkzRUE?oc=5",
-    "title": "Kenvue Inc. (KVUE) stock price, news, quote and history - Yahoo Finance UK",
-    "body": "Kenvue Inc. (KVUE) stock price, news, quote and history Yahoo Finance UK",
+    "id": "878000c1-0c17-5357-a9e0-5d20c1b90d0c",
+    "timestamp_utc": "2026-04-07T09:21:28+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/ubs-group-issues-pessimistic-forecast-for-kenvue-nysekvue-stock-price-2026-04-07/",
+    "title": "UBS Group Issues Pessimistic Forecast for Kenvue (NYSE:KVUE) Stock Price - MarketBeat",
+    "body": "UBS Group Issues Pessimistic Forecast for Kenvue (NYSE:KVUE) Stock Price MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "KVUE",
@@ -13,22 +13,17 @@
       "KVUE"
     ],
     "source_quality": "low",
-    "publisher_raw": "yahoo finance uk",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance UK",
-      "source_domain": "yahoofinanceuk.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
       "event_origin": "news",
-      "query_tickers": [
-        "KVUE"
-      ],
-      "alt_sources": [
-        "Yahoo Finance Australia"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4175,
+      "_channel": "google_broad"
+    }
   }
 ]

@@ -2,133 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "c92efdab-fcb6-53e2-a80e-756e13cde7cf",
-      "timestamp_utc": "2026-04-01T11:01:30+00:00",
-      "source": "benzinga",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVlgwdURPaFo1b3BVQ3F5eENhc2hSazBVZUFtS05KU09FQzVId2x5UDBDbGFKYmYzaTVITUoxdWRnQ3ljcDc4U29xS0lobXljUXdWcmRTUElzd2NQdkxBUEhCNHM5Rlh5N2JBM3JKeGx3Z054UWxnT3BCSTNrSVV6Um1rNlAxTFhJN2hUQ18zamFqaGlaYlFuYmdjRHhHVDVlZGNpR3JpcmNqSENOZFBnMER2a1gyR216OWZMbFFrVkNfaU1pQmN6dm1LWll4VVBnRTB3NzhJTXA?oc=5",
-      "title": "Here's How Much $100 Invested In CF Industries Holdings 20 Years Ago Would Be Worth Today - Benzinga",
-      "body": "Here's How Much $100 Invested In CF Industries Holdings 20 Years Ago Would Be Worth Today Benzinga",
-      "author": null,
-      "language": "en",
-      "ticker": "A",
-      "tickers_hint": [
-        "A",
-        "CF"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "benzinga.com",
-      "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "A",
-          "CF"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "068d90a2-7cc1-5085-b7d8-608ddc1cadc5",
-      "timestamp_utc": "2026-03-31T07:38:59+00:00",
-      "source": "tipranks",
-      "url": "https://www.tipranks.com/news/catalyst/why-cf-industries-stock-keeps-dropping-despite-upgrade",
-      "title": "Why Cf Industries Stock Keeps Dropping Despite Upgrade - TipRanks",
-      "body": "Why Cf Industries Stock Keeps Dropping Despite Upgrade TipRanks",
-      "author": null,
-      "language": "en",
-      "ticker": "CF",
-      "tickers_hint": [
-        "CF"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "tipranks.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "TipRanks",
-        "source_domain": "tipranks.com",
-        "trust_tier": 3,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "CF"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "f1658309-7a18-5d98-9145-5c1bc0bed0eb",
-      "timestamp_utc": "2026-04-01T11:06:00+00:00",
-      "source": "marketwatch",
-      "url": "https://www.marketwatch.com/data-news/cf-industries-holdings-inc-stock-underperforms-wednesday-when-compared-to-competitors-0f7820e8-1b94e06250bc?mod=mw_quote_news&gaa_at=eafs&gaa_n=AWEtsqdF_3eMIqUc8CzVYJ4yF5SJcLgUmdTPSVbXt0Hr8tlM-tGRe0aiw-nx&gaa_ts=69cdeef5&gaa_sig=wKRMDfla7GJjFNpQ8TUS2jxxgjU1ArRtsXipNnIKCgvB2_3ED8cIT2kFC2YKrtqyQQV7iPyPzUWC5pKr76RrJw%3D%3D",
-      "title": "CF Industries Holdings Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "body": "CF Industries Holdings Inc. stock underperforms Wednesday when compared to competitors MarketWatch",
-      "author": null,
-      "language": "en",
-      "ticker": "CF",
-      "tickers_hint": [
-        "CF"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "marketwatch.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketWatch",
-        "source_domain": "marketwatch.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "CF"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "338ed74c-df1e-5d19-8565-470d79a637ea",
-      "timestamp_utc": "2026-03-31T11:05:00+00:00",
-      "source": "marketwatch",
-      "url": "https://www.marketwatch.com/data-news/cf-industries-holdings-inc-stock-underperforms-tuesday-when-compared-to-competitors-211a65ae-78a1d7336a55?mod=mw_quote_news&gaa_at=eafs&gaa_n=AWEtsqeQ6j63Tfqn3wu05kIRE0zhkpf4uqnt3pl1C8I4f6VvkkXQVQ2p9goL&gaa_ts=69cdeef5&gaa_sig=sJWSkH7r0YMzoOgBz5qLKfN7IV5naC5kT-9k8fNEARaymCzcWcj1WseFn8AI5eJZMLPNOEx_rwWz5hYH5yfj3g%3D%3D",
-      "title": "CF Industries Holdings Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
-      "body": "CF Industries Holdings Inc. stock underperforms Tuesday when compared to competitors MarketWatch",
-      "author": null,
-      "language": "en",
-      "ticker": "CF",
-      "tickers_hint": [
-        "CF"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "marketwatch.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketWatch",
-        "source_domain": "marketwatch.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "CF"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "0682047f-dc8b-5dea-aa1e-7639a61c8261",
-      "timestamp_utc": "2026-03-31T07:38:58+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/cf-industries-nysecf-stock-price-down-34-whats-next-2026-03-31/",
-      "title": "CF Industries (NYSE:CF) Stock Price Down 3.4% - What's Next? - MarketBeat",
-      "body": "CF Industries (NYSE:CF) Stock Price Down 3.4% - What's Next? MarketBeat",
+      "id": "bd108fed-5bb6-5169-a6d9-3ab4dc7d3838",
+      "timestamp_utc": "2026-04-07T19:57:13+00:00",
+      "source": "defense_world",
+      "url": "https://www.defenseworld.net/2026/04/08/cf-industries-nysecf-stock-price-up-5-3-after-analyst-upgrade.html",
+      "title": "CF Industries (NYSE:CF) Stock Price Up 5.3% After Analyst Upgrade - Defense World",
+      "body": "Air Armament Engines Fighter Aircraft Helicopters Land Armored Vehicles and Tanks Ordinance and Artillery Personnel Equipment Small Arms Missiles and Space Air Defense Military Satellites Missile Technology Naval Civil Aviation Accidents Airlines Engines Manufacturers MRO Economy Management Appointments Market Trends and Finance Mergers and Acquisitions Companies",
       "author": null,
       "language": "en",
       "ticker": "CF",
@@ -136,28 +15,53 @@
         "CF"
       ],
       "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "publisher_raw": "defense world",
+      "trust_tier": 1,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
         "event_origin": "news",
-        "query_tickers": [
-          "CF"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.475,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "8e778e0b-5bce-57c2-8035-d6a3c99be058",
-      "timestamp_utc": "2026-03-31T06:07:30+00:00",
+      "id": "c9e5b8c6-f41e-5f3c-8c57-7b98a493d769",
+      "timestamp_utc": "2026-04-08T23:03:29+00:00",
+      "source": "msn",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNNWVLaVdGRlZJclJKYnVaemxuZTlCdDBJZnlHUnk2SzlmRkFpMVBVOWw0M19qMWhZNzVtZFhxS3k2MF9uak1jWW5HRzJZU1ZvSm1COW5MOUtVQXg3dnZzaHgwRG5CdkV5bzMyZjhabFpNcmg3aHZucnctQngyNHNQeE04dDcxbVlIR2lJT0k2MzV6UWRHbk5jdTlPaFhPUTh0SVBIVUlPTlB5bGNHQ0FocVB1aDBDZkdydloyV1ZyZWNVbnNsdUJ3d3cxVGtUMjk1ZXhqNE9IME02clRFcnRUZkFVeW5YdjU5SGtCZTZIamNlTzJMN2RXMENjS3JRdWFkT1c1ZA?oc=5",
+      "title": "Has CF stock topped out? How US-Iran ceasefire erodes key competitive edge for fertilizer maker - MSN",
+      "body": "Has CF stock topped out? How US-Iran ceasefire erodes key competitive edge for fertilizer maker MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "CF",
+      "tickers_hint": [
+        "CF"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.445,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "f75e776a-6295-56b9-af18-59a7221ac111",
+      "timestamp_utc": "2026-04-08T05:14:24+00:00",
       "source": "gurufocus",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQkEzRzNXbmpLYVlFUnVsTWxTUUFHV1BLUEZLRmtTWlBEVlprSTRwa2xwZENCOFU4YnFHbWFPM2lVM2ppYkhUTEMybTRZQ1hVWWljYkw5NGpJYVFwd01DYXlXdXlDRTg2RlJhLVllZTVseUJ2SzlhRzVnWVBxSEU4V0xFdEJaU2YzNV9veGMxZXEzc0lPQmE3UGFzTzEwWFk2SE1CVjVwc3VpY0tfT2V3dFBHXzJWem8yOGlrbHBrODd6bmpJZDZhRnVURzBHRW1KTXZRQ0NQT29UUkZja0FPOS00eTNtdGZYVUpPTi16VHR2cXdsYVZN?oc=5",
-      "title": "CF Industries Holdings (CF) Sees Maintained 'Underperform' Ratin - GuruFocus",
-      "body": "CF Industries Holdings (CF) Sees Maintained 'Underperform' Ratin GuruFocus",
+      "url": "https://www.gurufocus.com/news/8781885/cf-industries-cf-receives-maintained-rating-and-raised-price-target-by-morgan-stanley-cf-stock-news",
+      "title": "CF Industries (CF) Receives Maintained Rating and Raised Price T - GuruFocus",
+      "body": "CF Industries (CF) Receives Maintained Rating and Raised Price T GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "CF",
@@ -166,56 +70,25 @@
       ],
       "source_quality": "low",
       "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "GuruFocus",
         "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
         "event_origin": "news",
-        "query_tickers": [
-          "CF"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "1f98d4b6-c17c-5d02-aa02-c9d8ef8c9930",
-      "timestamp_utc": "2026-04-01T02:45:00+00:00",
-      "source": "stock_titan",
-      "url": "https://www.stocktitan.net/news/CFBK/cf-bankshares-inc-parent-of-cfbank-na-announces-quarterly-cash-8tgcrl34mhby.html",
-      "title": "CF Bankshares sets April 21 payout for $0.09 common dividend - Stock Titan",
-      "body": "CF Bankshares Inc NASDAQ:CFBK View CFBK Stock Overview → CFBK Rankings #4574 Ranked by Market Cap N/A Ranked by Dividends CFBK Latest News Feb 5, 2026 CF BANKSHARES INC., PARENT OF CFBANK NA, REPORTS RESULTS FOR THE 4th QUARTER AND FULL YEAR 2025.\n\nJan 21, 2026 CF BANKSHARES INC., PARENT OF CFBANK, NA, ANNOUNCES ADDITION OF JOHN WILGUS AS SENIOR VICE PRESIDENT Jan 5, 2026 CF BANKSHARES INC., PARENT OF CFBANK, NA, ANNOUNCES 13% INCREASE IN ITS QUARTERLY CASH DIVIDEND Dec 18, 2025 CF BANKSHARES INC.\n\nANNOUNCES EXTENSION OF STOCK REPURCHASE PROGRAM Nov 3, 2025 CF BANKSHARES INC., PARENT OF CFBANK NA, REPORTS RESULTS FOR THE 3rd QUARTER 2025.\n\nCFBK Latest SEC Filings Mar 26, 2026 [8-K] CF BANKSHARES INC.\n\nReports Material Event Mar 25, 2026 [Form 4/A] CF BANKSHARES INC.\n\nAmended Insider Trading Activity Mar 12, 2026 [10-K] CF BANKSHARES INC.\n\nFiles Annual Report Feb 25, 2026 [Form 4] CF BANKSHARES INC.\n\nInsider Trading Activity Feb 25, 2026 [Form 4] CF BANKSHARES INC.\n\nInsider Trading Activity CFBK Stock Data Market Cap 181.00M Float 4.97M Industry Banks - Regional Sector National Commercial Banks Website Link Country United States City COLUMBUS",
-      "author": null,
-      "language": "en",
-      "ticker": "CF",
-      "tickers_hint": [
-        "CF"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
         "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "CF"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "70931a41-a878-522d-a727-c3828f874770",
-      "timestamp_utc": "2026-04-01T01:30:00+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUhpcW1KUFV5RDByN0U5TnVWUVpfMFJaTUoyS1FHQ0hzMkV1dTdIU3BsOHV2YVFpX0hpTjllZXJrZmpRSGpLeFN1bk9lbnpYZXQtSmcxakZNZ3lEejRJOTAzMHNpUmQzQ0pCLXpyaHRPMUdVdDRFSUx0cHhneE9RSW94c0M3MlRLZm1EaU1TVWVEUTdtSExpWEZaMTRpNGxTajl0X3Q3NjVJMHlBWkw5ZWladEc0SjFZU1gxUg?oc=5",
-      "title": "FDA move makes 800 more US patients eligible for Vertex CF drugs - Stock Titan",
-      "body": "FDA move makes 800 more US patients eligible for Vertex CF drugs Stock Titan",
+      "id": "c8ba5706-9a7e-512f-af54-8e7be73e5e0d",
+      "timestamp_utc": "2026-04-08T03:30:47+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-issues-positive-forecast-for-cf-industries-nysecf-stock-price-2026-04-08/",
+      "title": "Morgan Stanley Issues Positive Forecast for CF Industries (NYSE:CF) Stock Price - MarketBeat",
+      "body": "Morgan Stanley Issues Positive Forecast for CF Industries (NYSE:CF) Stock Price MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "CF",
@@ -223,152 +96,56 @@
         "CF"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "CF"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "6290a745-1614-5622-b3f6-c01e7d1fe013",
+      "timestamp_utc": "2026-04-07T22:42:37+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRGNOTnE2UlN2SExVUUphQzNnTXBkRDZRRGQ0T2RmRTFqdHZ6VGJyVGctSFVycWN3VkJDS1dOaEZrNUk2STVTVDZ6ck9YajN6eGFTS0hoaDhKdG1VR3dCLVRaODdMVDF2UlY5LWUxNTBHZnlhRHdxVHYxREFvRzZobDB4QUNoRFhWMFUyRjFmYzBMMnhhUnB2YU83eVFyR0pnT01sWjlVekhOWEJrS0MwdWhjRDVuR1BodDU4WlltZml5WndHUFE?oc=5",
+      "title": "Royal Bank Of Canada Issues Positive Forecast for CF Industries (NYSE:CF) Stock Price - Defense World",
+      "body": "Royal Bank Of Canada Issues Positive Forecast for CF Industries (NYSE:CF) Stock Price Defense World",
+      "author": null,
+      "language": "en",
+      "ticker": "CF",
+      "tickers_hint": [
+        "CF"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.405,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "c92efdab-fcb6-53e2-a80e-756e13cde7cf",
-      "timestamp_utc": "2026-04-01T11:01:30+00:00",
-      "source": "benzinga",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVlgwdURPaFo1b3BVQ3F5eENhc2hSazBVZUFtS05KU09FQzVId2x5UDBDbGFKYmYzaTVITUoxdWRnQ3ljcDc4U29xS0lobXljUXdWcmRTUElzd2NQdkxBUEhCNHM5Rlh5N2JBM3JKeGx3Z054UWxnT3BCSTNrSVV6Um1rNlAxTFhJN2hUQ18zamFqaGlaYlFuYmdjRHhHVDVlZGNpR3JpcmNqSENOZFBnMER2a1gyR216OWZMbFFrVkNfaU1pQmN6dm1LWll4VVBnRTB3NzhJTXA?oc=5",
-      "title": "Here's How Much $100 Invested In CF Industries Holdings 20 Years Ago Would Be Worth Today - Benzinga",
-      "body": "Here's How Much $100 Invested In CF Industries Holdings 20 Years Ago Would Be Worth Today Benzinga",
-      "author": null,
-      "language": "en",
-      "ticker": "A",
-      "tickers_hint": [
-        "A",
-        "CF"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "benzinga.com",
-      "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "A",
-          "CF"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "068d90a2-7cc1-5085-b7d8-608ddc1cadc5",
-      "timestamp_utc": "2026-03-31T07:38:59+00:00",
-      "source": "tipranks",
-      "url": "https://www.tipranks.com/news/catalyst/why-cf-industries-stock-keeps-dropping-despite-upgrade",
-      "title": "Why Cf Industries Stock Keeps Dropping Despite Upgrade - TipRanks",
-      "body": "Why Cf Industries Stock Keeps Dropping Despite Upgrade TipRanks",
-      "author": null,
-      "language": "en",
-      "ticker": "CF",
-      "tickers_hint": [
-        "CF"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "tipranks.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "TipRanks",
-        "source_domain": "tipranks.com",
-        "trust_tier": 3,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "CF"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "f1658309-7a18-5d98-9145-5c1bc0bed0eb",
-      "timestamp_utc": "2026-04-01T11:06:00+00:00",
-      "source": "marketwatch",
-      "url": "https://www.marketwatch.com/data-news/cf-industries-holdings-inc-stock-underperforms-wednesday-when-compared-to-competitors-0f7820e8-1b94e06250bc?mod=mw_quote_news&gaa_at=eafs&gaa_n=AWEtsqdF_3eMIqUc8CzVYJ4yF5SJcLgUmdTPSVbXt0Hr8tlM-tGRe0aiw-nx&gaa_ts=69cdeef5&gaa_sig=wKRMDfla7GJjFNpQ8TUS2jxxgjU1ArRtsXipNnIKCgvB2_3ED8cIT2kFC2YKrtqyQQV7iPyPzUWC5pKr76RrJw%3D%3D",
-      "title": "CF Industries Holdings Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "body": "CF Industries Holdings Inc. stock underperforms Wednesday when compared to competitors MarketWatch",
-      "author": null,
-      "language": "en",
-      "ticker": "CF",
-      "tickers_hint": [
-        "CF"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "marketwatch.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketWatch",
-        "source_domain": "marketwatch.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "CF"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "338ed74c-df1e-5d19-8565-470d79a637ea",
-      "timestamp_utc": "2026-03-31T11:05:00+00:00",
-      "source": "marketwatch",
-      "url": "https://www.marketwatch.com/data-news/cf-industries-holdings-inc-stock-underperforms-tuesday-when-compared-to-competitors-211a65ae-78a1d7336a55?mod=mw_quote_news&gaa_at=eafs&gaa_n=AWEtsqeQ6j63Tfqn3wu05kIRE0zhkpf4uqnt3pl1C8I4f6VvkkXQVQ2p9goL&gaa_ts=69cdeef5&gaa_sig=sJWSkH7r0YMzoOgBz5qLKfN7IV5naC5kT-9k8fNEARaymCzcWcj1WseFn8AI5eJZMLPNOEx_rwWz5hYH5yfj3g%3D%3D",
-      "title": "CF Industries Holdings Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
-      "body": "CF Industries Holdings Inc. stock underperforms Tuesday when compared to competitors MarketWatch",
-      "author": null,
-      "language": "en",
-      "ticker": "CF",
-      "tickers_hint": [
-        "CF"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "marketwatch.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketWatch",
-        "source_domain": "marketwatch.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "CF"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "0682047f-dc8b-5dea-aa1e-7639a61c8261",
-      "timestamp_utc": "2026-03-31T07:38:58+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/cf-industries-nysecf-stock-price-down-34-whats-next-2026-03-31/",
-      "title": "CF Industries (NYSE:CF) Stock Price Down 3.4% - What's Next? - MarketBeat",
-      "body": "CF Industries (NYSE:CF) Stock Price Down 3.4% - What's Next? MarketBeat",
+      "id": "bd108fed-5bb6-5169-a6d9-3ab4dc7d3838",
+      "timestamp_utc": "2026-04-07T19:57:13+00:00",
+      "source": "defense_world",
+      "url": "https://www.defenseworld.net/2026/04/08/cf-industries-nysecf-stock-price-up-5-3-after-analyst-upgrade.html",
+      "title": "CF Industries (NYSE:CF) Stock Price Up 5.3% After Analyst Upgrade - Defense World",
+      "body": "Air Armament Engines Fighter Aircraft Helicopters Land Armored Vehicles and Tanks Ordinance and Artillery Personnel Equipment Small Arms Missiles and Space Air Defense Military Satellites Missile Technology Naval Civil Aviation Accidents Airlines Engines Manufacturers MRO Economy Management Appointments Market Trends and Finance Mergers and Acquisitions Companies",
       "author": null,
       "language": "en",
       "ticker": "CF",
@@ -376,28 +153,53 @@
         "CF"
       ],
       "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "publisher_raw": "defense world",
+      "trust_tier": 1,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
         "event_origin": "news",
-        "query_tickers": [
-          "CF"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.475,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "8e778e0b-5bce-57c2-8035-d6a3c99be058",
-      "timestamp_utc": "2026-03-31T06:07:30+00:00",
+      "id": "c9e5b8c6-f41e-5f3c-8c57-7b98a493d769",
+      "timestamp_utc": "2026-04-08T23:03:29+00:00",
+      "source": "msn",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNNWVLaVdGRlZJclJKYnVaemxuZTlCdDBJZnlHUnk2SzlmRkFpMVBVOWw0M19qMWhZNzVtZFhxS3k2MF9uak1jWW5HRzJZU1ZvSm1COW5MOUtVQXg3dnZzaHgwRG5CdkV5bzMyZjhabFpNcmg3aHZucnctQngyNHNQeE04dDcxbVlIR2lJT0k2MzV6UWRHbk5jdTlPaFhPUTh0SVBIVUlPTlB5bGNHQ0FocVB1aDBDZkdydloyV1ZyZWNVbnNsdUJ3d3cxVGtUMjk1ZXhqNE9IME02clRFcnRUZkFVeW5YdjU5SGtCZTZIamNlTzJMN2RXMENjS3JRdWFkT1c1ZA?oc=5",
+      "title": "Has CF stock topped out? How US-Iran ceasefire erodes key competitive edge for fertilizer maker - MSN",
+      "body": "Has CF stock topped out? How US-Iran ceasefire erodes key competitive edge for fertilizer maker MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "CF",
+      "tickers_hint": [
+        "CF"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.445,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "f75e776a-6295-56b9-af18-59a7221ac111",
+      "timestamp_utc": "2026-04-08T05:14:24+00:00",
       "source": "gurufocus",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQkEzRzNXbmpLYVlFUnVsTWxTUUFHV1BLUEZLRmtTWlBEVlprSTRwa2xwZENCOFU4YnFHbWFPM2lVM2ppYkhUTEMybTRZQ1hVWWljYkw5NGpJYVFwd01DYXlXdXlDRTg2RlJhLVllZTVseUJ2SzlhRzVnWVBxSEU4V0xFdEJaU2YzNV9veGMxZXEzc0lPQmE3UGFzTzEwWFk2SE1CVjVwc3VpY0tfT2V3dFBHXzJWem8yOGlrbHBrODd6bmpJZDZhRnVURzBHRW1KTXZRQ0NQT29UUkZja0FPOS00eTNtdGZYVUpPTi16VHR2cXdsYVZN?oc=5",
-      "title": "CF Industries Holdings (CF) Sees Maintained 'Underperform' Ratin - GuruFocus",
-      "body": "CF Industries Holdings (CF) Sees Maintained 'Underperform' Ratin GuruFocus",
+      "url": "https://www.gurufocus.com/news/8781885/cf-industries-cf-receives-maintained-rating-and-raised-price-target-by-morgan-stanley-cf-stock-news",
+      "title": "CF Industries (CF) Receives Maintained Rating and Raised Price T - GuruFocus",
+      "body": "CF Industries (CF) Receives Maintained Rating and Raised Price T GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "CF",
@@ -406,56 +208,25 @@
       ],
       "source_quality": "low",
       "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "GuruFocus",
         "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
         "event_origin": "news",
-        "query_tickers": [
-          "CF"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "1f98d4b6-c17c-5d02-aa02-c9d8ef8c9930",
-      "timestamp_utc": "2026-04-01T02:45:00+00:00",
-      "source": "stock_titan",
-      "url": "https://www.stocktitan.net/news/CFBK/cf-bankshares-inc-parent-of-cfbank-na-announces-quarterly-cash-8tgcrl34mhby.html",
-      "title": "CF Bankshares sets April 21 payout for $0.09 common dividend - Stock Titan",
-      "body": "CF Bankshares Inc NASDAQ:CFBK View CFBK Stock Overview → CFBK Rankings #4574 Ranked by Market Cap N/A Ranked by Dividends CFBK Latest News Feb 5, 2026 CF BANKSHARES INC., PARENT OF CFBANK NA, REPORTS RESULTS FOR THE 4th QUARTER AND FULL YEAR 2025.\n\nJan 21, 2026 CF BANKSHARES INC., PARENT OF CFBANK, NA, ANNOUNCES ADDITION OF JOHN WILGUS AS SENIOR VICE PRESIDENT Jan 5, 2026 CF BANKSHARES INC., PARENT OF CFBANK, NA, ANNOUNCES 13% INCREASE IN ITS QUARTERLY CASH DIVIDEND Dec 18, 2025 CF BANKSHARES INC.\n\nANNOUNCES EXTENSION OF STOCK REPURCHASE PROGRAM Nov 3, 2025 CF BANKSHARES INC., PARENT OF CFBANK NA, REPORTS RESULTS FOR THE 3rd QUARTER 2025.\n\nCFBK Latest SEC Filings Mar 26, 2026 [8-K] CF BANKSHARES INC.\n\nReports Material Event Mar 25, 2026 [Form 4/A] CF BANKSHARES INC.\n\nAmended Insider Trading Activity Mar 12, 2026 [10-K] CF BANKSHARES INC.\n\nFiles Annual Report Feb 25, 2026 [Form 4] CF BANKSHARES INC.\n\nInsider Trading Activity Feb 25, 2026 [Form 4] CF BANKSHARES INC.\n\nInsider Trading Activity CFBK Stock Data Market Cap 181.00M Float 4.97M Industry Banks - Regional Sector National Commercial Banks Website Link Country United States City COLUMBUS",
-      "author": null,
-      "language": "en",
-      "ticker": "CF",
-      "tickers_hint": [
-        "CF"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
         "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "CF"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "70931a41-a878-522d-a727-c3828f874770",
-      "timestamp_utc": "2026-04-01T01:30:00+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUhpcW1KUFV5RDByN0U5TnVWUVpfMFJaTUoyS1FHQ0hzMkV1dTdIU3BsOHV2YVFpX0hpTjllZXJrZmpRSGpLeFN1bk9lbnpYZXQtSmcxakZNZ3lEejRJOTAzMHNpUmQzQ0pCLXpyaHRPMUdVdDRFSUx0cHhneE9RSW94c0M3MlRLZm1EaU1TVWVEUTdtSExpWEZaMTRpNGxTajl0X3Q3NjVJMHlBWkw5ZWladEc0SjFZU1gxUg?oc=5",
-      "title": "FDA move makes 800 more US patients eligible for Vertex CF drugs - Stock Titan",
-      "body": "FDA move makes 800 more US patients eligible for Vertex CF drugs Stock Titan",
+      "id": "c8ba5706-9a7e-512f-af54-8e7be73e5e0d",
+      "timestamp_utc": "2026-04-08T03:30:47+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-issues-positive-forecast-for-cf-industries-nysecf-stock-price-2026-04-08/",
+      "title": "Morgan Stanley Issues Positive Forecast for CF Industries (NYSE:CF) Stock Price - MarketBeat",
+      "body": "Morgan Stanley Issues Positive Forecast for CF Industries (NYSE:CF) Stock Price MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "CF",
@@ -463,20 +234,45 @@
         "CF"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "CF"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "6290a745-1614-5622-b3f6-c01e7d1fe013",
+      "timestamp_utc": "2026-04-07T22:42:37+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRGNOTnE2UlN2SExVUUphQzNnTXBkRDZRRGQ0T2RmRTFqdHZ6VGJyVGctSFVycWN3VkJDS1dOaEZrNUk2STVTVDZ6ck9YajN6eGFTS0hoaDhKdG1VR3dCLVRaODdMVDF2UlY5LWUxNTBHZnlhRHdxVHYxREFvRzZobDB4QUNoRFhWMFUyRjFmYzBMMnhhUnB2YU83eVFyR0pnT01sWjlVekhOWEJrS0MwdWhjRDVuR1BodDU4WlltZml5WndHUFE?oc=5",
+      "title": "Royal Bank Of Canada Issues Positive Forecast for CF Industries (NYSE:CF) Stock Price - Defense World",
+      "body": "Royal Bank Of Canada Issues Positive Forecast for CF Industries (NYSE:CF) Stock Price Defense World",
+      "author": null,
+      "language": "en",
+      "ticker": "CF",
+      "tickers_hint": [
+        "CF"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.405,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

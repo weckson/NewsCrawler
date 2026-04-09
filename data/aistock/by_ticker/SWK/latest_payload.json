@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "2f2c39b1-039b-5b68-9fb0-ba6a707def7d",
-      "timestamp_utc": "2026-04-01T09:16:39+00:00",
+      "id": "11d6ac4d-ce7a-5421-adb9-742917915815",
+      "timestamp_utc": "2026-04-08T09:35:36+00:00",
       "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8765787/barclays-maintains-overweight-rating-on-swk-lowers-price-target-to-95-swk-stock-news",
-      "title": "Barclays Maintains Overweight Rating on SWK, Lowers Price Target to $95 | SWK Stock News - GuruFocus",
-      "body": "Barclays Maintains Overweight Rating on SWK, Lowers Price Target to $95 | SWK Stock News GuruFocus",
+      "url": "https://www.gurufocus.com/news/8782407/swk-wells-fargo-lowers-price-target-on-stanley-black-decker-swk-stock-news",
+      "title": "SWK: Wells Fargo Lowers Price Target on Stanley Black & Decker | - GuruFocus",
+      "body": "SWK: Wells Fargo Lowers Price Target on Stanley Black & Decker | GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "SWK",
@@ -16,30 +16,28 @@
       ],
       "source_quality": "low",
       "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "GuruFocus",
         "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.7000000000000001,
         "event_origin": "news",
-        "query_tickers": [
-          "SWK"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "2f2c39b1-039b-5b68-9fb0-ba6a707def7d",
-      "timestamp_utc": "2026-04-01T09:16:39+00:00",
+      "id": "11d6ac4d-ce7a-5421-adb9-742917915815",
+      "timestamp_utc": "2026-04-08T09:35:36+00:00",
       "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8765787/barclays-maintains-overweight-rating-on-swk-lowers-price-target-to-95-swk-stock-news",
-      "title": "Barclays Maintains Overweight Rating on SWK, Lowers Price Target to $95 | SWK Stock News - GuruFocus",
-      "body": "Barclays Maintains Overweight Rating on SWK, Lowers Price Target to $95 | SWK Stock News GuruFocus",
+      "url": "https://www.gurufocus.com/news/8782407/swk-wells-fargo-lowers-price-target-on-stanley-black-decker-swk-stock-news",
+      "title": "SWK: Wells Fargo Lowers Price Target on Stanley Black & Decker | - GuruFocus",
+      "body": "SWK: Wells Fargo Lowers Price Target on Stanley Black & Decker | GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "SWK",
@@ -48,19 +46,17 @@
       ],
       "source_quality": "low",
       "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "GuruFocus",
         "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.7000000000000001,
         "event_origin": "news",
-        "query_tickers": [
-          "SWK"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

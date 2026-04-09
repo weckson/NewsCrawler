@@ -1,489 +1,58 @@
 [
   {
-    "id": "cdee0433-1930-5728-8561-399faf1c528d",
-    "timestamp_utc": "2026-04-01T07:00:36+00:00",
+    "id": "4af2bd21-3b57-5098-9394-45c4195abb1b",
+    "timestamp_utc": "2026-04-08T04:20:03+00:00",
     "source": "benzinga",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNajlCbkdETTM5T2JfWV9kWHlIUHlFY1NrMlhiU0paVTg1eWg4ME9YQjA0SnF0aDNCeDJSZTNPN004M05BclRPSE43ckVnZU5sMFd3cmZtWk1WZVlIbGFnd25WNzhKZURIT0RBMmxWZHQ5SXZPY2FmOUlMd2ozT1Z1Ul9lZm9xR1hQaFZ1aHpGRFZBQmZ5TVdpYjRmUHQyOVk?oc=5",
-    "title": "What's Behind The Jump In Amazon Stock? - Benzinga",
-    "body": "What's Behind The Jump In Amazon Stock? Benzinga",
+    "url": "https://www.benzinga.com/markets/tech/26/04/51706010/while-amazon-microsoft-google-struggle-with-ai-on-land-china-looks-to-the-sea",
+    "title": "Amazon, Microsoft, Google AI Footprint Faces Pressure - Amazon.com (NASDAQ:AMZN), Alphabet (NASDAQ:GOOG) - Benzinga",
+    "body": "Amazon, Microsoft, Google AI Footprint Faces Pressure - Amazon.com (NASDAQ:AMZN), Alphabet (NASDAQ:GOOG) Benzinga",
     "author": null,
     "language": "en",
-    "ticker": "A",
+    "ticker": "AMZN",
     "tickers_hint": [
-      "A",
       "AMZN",
-      "ON"
-    ],
-    "source_quality": "high",
-    "publisher_raw": "benzinga.com",
-    "meta": {
-      "channel": "google_benzinga",
-      "source_name": "Benzinga",
-      "source_domain": "benzinga.com",
-      "trust_tier": 3,
-      "relevance": 0.6000000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "A",
-        "AMZN",
-        "ON"
-      ],
-      "alt_sources": [
-        "Benzinga"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "258564f8-9fc8-58db-94ae-c146c110e78a",
-    "timestamp_utc": "2026-04-01T09:21:46+00:00",
-    "source": "benzinga",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSVNOMlF4aTV1eGFxbDBqbWp6VHMzbURrQlRsT2ZCWVpnc2ZFdUk0eTVaMWY3bnRYRTI3bU05RXZ2T2g0NWJibFpNdjZrM3ZSS2VZb1hld1c1bFBNVUZ3bHVrTV9DVUNaazBhRXN2T2E2S1Y3cGVMQVd3dTJobGZXbXp1ME1OUmFENXU1QWNQbTczQ1VNaWpDUzVHanFBYTJVcDBxNHpQdHNGNnNJTDFMVnJ6NHROcmE5WVNjUklFalI3Z0dlbENPb01xdmlEOWpfUHpWZkNVYnd0SkhlRzhPa3lFOTc?oc=5",
-    "title": "Magnificent Seven Stocks Not So Magnificent In 2026 — Apple Surprises, Microsoft Craters - Amazon.com (NA - Benzinga",
-    "body": "Magnificent Seven Stocks Not So Magnificent In 2026 — Apple Surprises, Microsoft Craters - Amazon.com (NA Benzinga",
-    "author": null,
-    "language": "en",
-    "ticker": "AAPL",
-    "tickers_hint": [
-      "AAPL",
-      "AMZN",
+      "GOOGL",
       "MSFT"
     ],
     "source_quality": "high",
     "publisher_raw": "benzinga.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_benzinga",
       "source_name": "Benzinga",
       "source_domain": "benzinga.com",
-      "trust_tier": 3,
-      "relevance": 0.5,
       "event_origin": "news",
-      "query_tickers": [
-        "AAPL",
-        "AMZN",
-        "MSFT"
-      ],
-      "alt_sources": [
-        "Benzinga"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.64,
+      "_channel": "google_benzinga"
+    }
   },
   {
-    "id": "ba1b133c-aafc-5d9b-812f-a7dcec5e4ec0",
-    "timestamp_utc": "2026-04-01T05:19:29+00:00",
-    "source": "insider_monkey",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeDRkOVN0UUVIX293X2JWd0lGaERXUW4zU25iVllxVmJnd0g4VjZuV1dKYmY1QURSRndCY2szZU5ETDcyWUVTV01qUUw1VlRjQmVVQy1aN0FKMWRocVc4NjFXN3M5SEliLWFHc1piQXloVGpXQ2hON2RLbkExSTBaeU9TVzZZejhnclh0MHVlVkYtX0laOUNLQXBXOG5qaGRwWlNocnNuQXh6UUJLYkRJLU5Hd0_SAbwBQVVfeXFMTm9RSnNRTWcwanZvMFR4MEM0S2NYc1RObWdZWUVFbGRXbjhLZVdtMm16a3BlczVEX0xSNVZFWEdqeVVVNG03MzBGMmVfMjdlWFc4eVByTUc5bVExSlZHa1k1Mll3d0N6SlVYTDRmMzVSSzFqekRkZUdDYVN3MlBGaVRLaDF0bEJJcnpJMW5nck5zMGtDSTdBdW1VRDIxU2cwWkhzX2syNnNHRVNtS1VjLWlQM1UwMHNqYjN0Q0c?oc=5",
-    "title": "Amazon.com, Inc. (AMZN): Billionaire Paul Tudor Jones Likes This Tech Stock - Insider Monkey",
-    "body": "Amazon.com, Inc. (AMZN): Billionaire Paul Tudor Jones Likes This Tech Stock Insider Monkey",
-    "author": null,
-    "language": "en",
-    "ticker": "AMZN",
-    "tickers_hint": [
-      "AMZN",
-      "TECH"
-    ],
-    "source_quality": "medium",
-    "publisher_raw": "insidermonkey.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Insider Monkey",
-      "source_domain": "insidermonkey.com",
-      "trust_tier": 2,
-      "relevance": 0.6000000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "AMZN",
-        "TECH"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "8e959680-3ad2-5055-bda1-c99ed7499cbd",
-    "timestamp_utc": "2026-03-31T11:16:23+00:00",
-    "source": "tipranks",
-    "url": "https://www.tipranks.com/news/amazon-amzn-finally-ends-its-long-running-battle-with-the-teamsters-union",
-    "title": "Amazon (AMZN) Finally Ends Its Long-Running Battle With the Teamsters Union - TipRanks",
-    "body": "Amazon (AMZN) Finally Ends Its Long-Running Battle With the Teamsters Union TipRanks",
-    "author": null,
-    "language": "en",
-    "ticker": "AMZN",
-    "tickers_hint": [
-      "AMZN"
-    ],
-    "source_quality": "high",
-    "publisher_raw": "tipranks.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "TipRanks",
-      "source_domain": "tipranks.com",
-      "trust_tier": 3,
-      "relevance": 0.6000000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "AMZN"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "11c1b545-9229-5d33-9eb9-0e6a630d574d",
-    "timestamp_utc": "2026-04-01T13:58:09+00:00",
-    "source": "cnbc",
-    "url": "https://www.cnbc.com/2026/04/01/globalstar-stock-pops-15percent-on-report-amazon-is-weighing-an-acquisition.html",
-    "title": "Globalstar stock surges 15% on report Amazon is weighing an acquisition - CNBC",
-    "body": "Globalstar stock surges 15% on report Amazon is weighing an acquisition CNBC",
-    "author": null,
-    "language": "en",
-    "ticker": "AMZN",
-    "tickers_hint": [
-      "AMZN"
-    ],
-    "source_quality": "high",
-    "publisher_raw": "cnbc.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "CNBC",
-      "source_domain": "cnbc.com",
-      "trust_tier": 3,
-      "relevance": 0.6,
-      "event_origin": "news",
-      "query_tickers": [
-        "AMZN"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "80c5f42e-5c7f-5de2-90a8-6cf0d1f12aa2",
-    "timestamp_utc": "2026-04-01T10:59:20+00:00",
-    "source": "tipranks",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOczk1S3ExYTBNN2VIY3RwVmd5Uy11YWFjanBhWkRkeW5ia2g0Rnp0a2FmZGRBV3ZUeDVPOWgwVGJ6V1FTb1ZBNlVTS0hYMVMtUDRTYjhvZ3dTZVBwUk50V1F4LW9jT2hVQWxmdV96SFhBNXdOTkp0clRmb3dERnBBbXF2TGRTa3JkOHp3cHZQd01nMU9WUzlnN1pGQ0dqR014RmxraDE4NDlTdzI2UGtaekE5YTFSa0xqUDJocXVWTDY?oc=5",
-    "title": "Amazon Stock Climbs as It Bets a Jaw-Dropping $50 Billion on OpenAI’s Meteoric $852 Billion Rise - TipRanks",
-    "body": "Amazon Stock Climbs as It Bets a Jaw-Dropping $50 Billion on OpenAI’s Meteoric $852 Billion Rise TipRanks",
-    "author": null,
-    "language": "en",
-    "ticker": "AMZN",
-    "tickers_hint": [
-      "AMZN"
-    ],
-    "source_quality": "high",
-    "publisher_raw": "tipranks.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "TipRanks",
-      "source_domain": "tipranks.com",
-      "trust_tier": 3,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "AMZN"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "c3c1a7b7-5a62-57c3-851e-9e9517b5adb1",
-    "timestamp_utc": "2026-03-31T23:10:00+00:00",
+    "id": "1913f62e-7a7c-5bbe-9d28-42a1d1cc8347",
+    "timestamp_utc": "2026-04-08T16:33:00+00:00",
     "source": "motley_fool",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSG5WR2tpRUhfSTNWZy1EcENXT0ZoLTBGV05FYS1ieWlzVS1fd2JZOXJpR1hwdjhwZElPV1pSUEs1azY5T3I3UWdwTlZla0xfTmp4d0FVX3VpNS16SDBLTnRTN1pKMkxHd01Ba2pieHlhZmpmYndaNHhqQTV6LUs5TlBrOERQSzBNQ2ww?oc=5",
-    "title": "Better Stock to Buy Right Now: Costco vs. Amazon - The Motley Fool",
-    "body": "Better Stock to Buy Right Now: Costco vs. Amazon The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xamc3cDljMkFIbzlDTzBqaHdfUW5WRTZRTjlnTlk1UEpGQkZ1ai1YLTB3MGFHc3prM1RfT0dIclE0SzJzWHlvSGVudTkxMGt4S1g3M0VsZUlVYUROMXVHTU5RWXU3alBwalZHSGdMM0ZYcktPWnJicTFYb20?oc=5",
+    "title": "Why Amazon Stock Jumped Today - The Motley Fool",
+    "body": "Why Amazon Stock Jumped Today The Motley Fool",
     "author": null,
     "language": "en",
     "ticker": "AMZN",
     "tickers_hint": [
-      "AMZN",
-      "NOW"
+      "AMZN"
     ],
     "source_quality": "high",
     "publisher_raw": "fool.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "The Motley Fool",
       "source_domain": "fool.com",
-      "trust_tier": 3,
+      "event_origin": "news",
       "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "AMZN",
-        "NOW"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "0fb900ee-2192-5566-81a0-cc88a556484e",
-    "timestamp_utc": "2026-03-31T09:47:21+00:00",
-    "source": "cnbc",
-    "url": "https://www.cnbc.com/2026/03/31/amazon-settles-teamsters-warehouse-strike.html",
-    "title": "Amazon settles Teamsters case alleging it retaliated against striking workers - CNBC",
-    "body": "Amazon settles Teamsters case alleging it retaliated against striking workers CNBC",
-    "author": null,
-    "language": "en",
-    "ticker": "AMZN",
-    "tickers_hint": [
-      "AMZN"
-    ],
-    "source_quality": "high",
-    "publisher_raw": "cnbc.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "CNBC",
-      "source_domain": "cnbc.com",
-      "trust_tier": 3,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "AMZN"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "52007ddc-7b26-5dbf-b0a4-3cd190290ba6",
-    "timestamp_utc": "2026-03-31T05:43:23+00:00",
-    "source": "benzinga",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQzdYQVZFczRpMmh3LVBJSHBremNpRGd3MW5ZYkozdnozRWtZVllHSXJYTEpEeGJBYUR3VjNfZVRyQTROUnBzTlpSSlZoaHB6Q1dzY2FfRTA3Q3pNT1ZrTWpZdjdlT3RYTjlJNWRQQjlaUDJ4TlFYNkVwY1hWYXNwNVVVejhEZFh5b3hLT2dYZDhULXFaVWhMYVJTRU9QQW5wbl8tTEpTMDFXX1Fv?oc=5",
-    "title": "Amazon Stock Is Climbing Tuesday — What's Going On? - Benzinga",
-    "body": "Amazon Stock Is Climbing Tuesday — What's Going On? Benzinga",
-    "author": null,
-    "language": "en",
-    "ticker": "AMZN",
-    "tickers_hint": [
-      "AMZN",
-      "MA"
-    ],
-    "source_quality": "high",
-    "publisher_raw": "benzinga.com",
-    "meta": {
-      "channel": "google_benzinga",
-      "source_name": "Benzinga",
-      "source_domain": "benzinga.com",
-      "trust_tier": 3,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "AMZN",
-        "MA"
-      ],
-      "alt_sources": [
-        "Benzinga"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "a59d685c-ae72-5ff7-86a8-c2021ae50cd8",
-    "timestamp_utc": "2026-03-31T04:33:07+00:00",
-    "source": "cnbc",
-    "url": "https://www.cnbc.com/2026/03/31/project-hail-mary-box-office-amazon-mgm.html",
-    "title": "'Project Hail Mary' is the box office proof point Amazon MGM has been waiting for - CNBC",
-    "body": "'Project Hail Mary' is the box office proof point Amazon MGM has been waiting for CNBC",
-    "author": null,
-    "language": "en",
-    "ticker": "AMZN",
-    "tickers_hint": [
-      "AMZN"
-    ],
-    "source_quality": "high",
-    "publisher_raw": "cnbc.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "CNBC",
-      "source_domain": "cnbc.com",
-      "trust_tier": 3,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "AMZN"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "b4b876f4-e7c7-5708-95f9-db737a17b17f",
-    "timestamp_utc": "2026-04-01T11:23:50+00:00",
-    "source": "insider_monkey",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0tjVVQ0czBoZEtmMGxhQ3ltSjR1RGx4c2dFM1piejNjNnFqMExGRVVoVGtsOFc0ZEdBVmVoYUVDRlhFcVZud1FwbHE2ekItdHM3dGtnbllsNVRPM1IwUndibnJlT21RejJmRmpWcGtLMDQya0lGSHNBcVJPUENuVjluVjNFUEttV21IMkNjcEphd2lzenVkdThmTDdUY2ZUYlHSAaoBQVVfeXFMTlNLcFFDX1M3NTdyeUkzOXAwa3d1dmlIemhkakN0RHFHTnZSLXQ0c25QOW95UzMtanNMeEc3Q1pfSlRrMUN5U201SC1tRDZYV3Iwekx1QU1CX0lGT0hJODhTeVlfWnVUZWY3Q3hyeUY0bVVVRE5vZ0pnb3lGU2tnZHhZRzZFaGNwRVgtQi15TkdHNGh0Zk5kSFBnSW9MOVItckxSZFpLZ2l5Qmc?oc=5",
-    "title": "Amazon.com Inc. (AMZN): D. E. Shaw Turns Bullish on Tech Giant - Insider Monkey",
-    "body": "Amazon.com Inc. (AMZN): D. E. Shaw Turns Bullish on Tech Giant Insider Monkey",
-    "author": null,
-    "language": "en",
-    "ticker": "AMZN",
-    "tickers_hint": [
-      "AMZN"
-    ],
-    "source_quality": "medium",
-    "publisher_raw": "insidermonkey.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Insider Monkey",
-      "source_domain": "insidermonkey.com",
-      "trust_tier": 2,
-      "relevance": 0.6000000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "AMZN"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "5f4e1f0b-9895-5945-9457-1afe25670ff8",
-    "timestamp_utc": "2026-03-31T23:32:08+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-lvm-capital-management-ltd-mi-buys-59010-shares-of-amazoncom-inc-amzn-2026-04-01/",
-    "title": "LVM Capital Management Ltd. MI Buys 59,010 Shares of Amazon.com, Inc. $AMZN - MarketBeat",
-    "body": "LVM Capital Management Ltd. MI Buys 59,010 Shares of Amazon.com, Inc. $AMZN MarketBeat",
-    "author": null,
-    "language": "en",
-    "ticker": "AMZN",
-    "tickers_hint": [
-      "AMZN"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.6500000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "AMZN"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "56de853e-cb4a-5029-92e1-7c654d6b554f",
-    "timestamp_utc": "2026-03-31T21:47:11+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-amazoncom-inc-amzn-stock-position-raised-by-cordant-inc-2026-04-01/",
-    "title": "Amazon.com, Inc. $AMZN Stock Position Raised by Cordant Inc. - MarketBeat",
-    "body": "Amazon.com, Inc. $AMZN Stock Position Raised by Cordant Inc. MarketBeat",
-    "author": null,
-    "language": "en",
-    "ticker": "AMZN",
-    "tickers_hint": [
-      "AMZN"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.6500000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "AMZN"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "a4a54252-db50-5ad8-81c6-ad460ee017eb",
-    "timestamp_utc": "2026-03-31T04:44:00+00:00",
-    "source": "yahoo_finance_singapore",
-    "url": "https://sg.finance.yahoo.com/news/amazons-advertising-revenue-momentum-drive-144400338.html",
-    "title": "Can Amazon's Advertising Revenue Momentum Drive Upside for AMZN Stock? - Yahoo Finance Singapore",
-    "body": "Can Amazon's Advertising Revenue Momentum Drive Upside for AMZN Stock? Yahoo Finance Singapore",
-    "author": null,
-    "language": "en",
-    "ticker": "AMZN",
-    "tickers_hint": [
-      "AMZN"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "yahoo finance singapore",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance Singapore",
-      "source_domain": "yahoofinancesingapore.com",
-      "trust_tier": 1,
-      "relevance": 0.6500000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "AMZN"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "4afcc29e-47a6-569c-94f3-b19f2e201f26",
-    "timestamp_utc": "2026-03-31T22:20:31+00:00",
-    "source": "coincentral",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUS1mMzVQNWg3Rl95aDNQMFpwZmktVmNvWTdTSEI5WFNGdjExVERKRERMVnFTZGd3ZDlyQ2h1Skg1ZkVwYXFtemxCLXNaa1RNMW4zcXVfOGhsUGVJbUhfZlpSSlNPZTZ2NW5fZUJQLW16M3IxOWxvWjFXakdTLThRUjVUUUxYa3E4TkRGTy11eW9TUzdTbW9ZeVcyU19CbFp2UEE2N3Zyaw?oc=5",
-    "title": "Amazon (AMZN) Stock: New Business Credit Cards Launch With U.S. Bank and Mastercard - CoinCentral",
-    "body": "Amazon (AMZN) Stock: New Business Credit Cards Launch With U.S. Bank and Mastercard CoinCentral",
-    "author": null,
-    "language": "en",
-    "ticker": "AMZN",
-    "tickers_hint": [
-      "AMZN"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "coincentral",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "CoinCentral",
-      "source_domain": "coincentral.com",
-      "trust_tier": 1,
-      "relevance": 0.6000000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "AMZN"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "55d8d200-0fbb-5ad4-a8e7-8fcfcc31c76e",
-    "timestamp_utc": "2026-04-01T13:37:04+00:00",
-    "source": "bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMi1yQlpINDdHYW9meWJuRE1uQkVXbTNXb3dnVUVWMDkwWlMwMW1PU3lxTHdjeUd0STd3YjZ3dVd0RGVwZFp6NkF1ZG1pMEZVVG9MMFY2WEdqTEwzdllEd2o0TlNtODFfeWZWcHJVSmFWOFNyMFBqbGNGYVdveWtCZDBBX1hXTHBnb0VDNGE5OEhKYWhzSDBZUkhJZm8ta1YwR2pMWTdmV0xOWjkyTUZv?oc=5",
-    "title": "Globalstar Rallies on Report That Amazon Is in Buyout Talks - Bloomberg.com",
-    "body": "Globalstar Rallies on Report That Amazon Is in Buyout Talks Bloomberg.com",
-    "author": null,
-    "language": "en",
-    "ticker": "AMZN",
-    "tickers_hint": [
-      "AMZN"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "bloomberg.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Bloomberg.com",
-      "source_domain": "bloombergcom.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "AMZN"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.622,
+      "_channel": "google_broad"
+    }
   }
 ]

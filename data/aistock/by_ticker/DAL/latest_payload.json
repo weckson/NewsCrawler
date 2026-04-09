@@ -2,41 +2,154 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "5da0fa5f-b4fa-54fd-9cfd-ab6b2592689d",
-      "timestamp_utc": "2026-04-03T21:30:04+00:00",
-      "source": "stock_titan",
-      "url": "https://www.stocktitan.net/sec-filings/DAL/form-4-delta-air-lines-inc-insider-trading-activity-0e649daa2211.html",
-      "title": "Delta Air Lines (DAL) grants CFO 7,400 restricted shares - Stock Titan",
-      "body": "⛶ Fullscreen SEC Form 4 FORM 4UNITED STATES SECURITIES AND EXCHANGE COMMISSIONWashington, D.C.\n\n20549STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIPFiled pursuant to Section 16(a) of the Securities Exchange Act of 1934or Section 30(h) of the Investment Company Act of 1940OMB APPROVALOMB Number:3235-0287Estimated average burdenhours per response:0.5 Check this box if no longer subject to Section 16.\n\nCheck this box to indicate that a transaction was made pursuant to a contract, instruction or written plan for the purchase or sale of equity securities of the issuer that is intended to satisfy the affirmative defense conditions of Rule 10b5-1(c).\n\nName and Address of Reporting Person*Snell Erik Storey(Last)(First)(Middle)C/O DELTA AIR LINES, INC., DEPT.\n\n9811030 DELTA BLVD.(Street)ATLANTA GEORGIA 30354(City)(State)(Zip)UNITED STATES(Country)2.\n\nIssuer Name and Ticker or Trading Symbol DELTA AIR LINES, INC.\n\nRelationship of Reporting Person(s) to Issuer (Check all applicable)Director10% OwnerXOfficer (give title below)Other (specify below)EVP & Chief Financial Officer2a.\n\nIndividual or Joint/Group Filing (Check Applicable Line) XForm filed by One Reporting PersonForm filed by More than One Reporting Person4.\n\nIf Amendment, Date of Original Filed (Month/Day/Year)Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned1.\n\nAmount of Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeVAmount(A) or (D)PriceCommon Stock04/01/2026A7,400(1)A(1)48,898DTable II - Derivative Securities Acquired, Disposed of, or Beneficially Owned(e.g., puts, calls, warrants, options, convertible securities)1.\n\nNumber of Derivative Securities Acquired (A) or Disposed of (D) (Instr.\n\nTitle and Amount of Securities Underlying Derivative Security (Instr.\n\nNumber of derivative Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeV(A)(D)Date ExercisableExpiration DateTitleAmount or Number of SharesExplanation of Responses:1.\n\nThe Personnel & Compensation Committee of Delta's Board of Directors (the \"Committee\") granted Mr.\n\nSnell 7,400 shares of restricted common stock under Delta's 2026 long-term incentive program.\n\nThe shares will vest pursuant to the terms of the award agreement.\n\nThis grant was approved by the Committee and is exempt from Section 16(b) of the Securities Exchange Act of 1934 under Rule 16b-3(d)(1)./s/ Alan T.\n\nSnell04/03/2026** Signature of Reporting PersonDateReminder: Report on a separate line for each class of securities beneficially owned directly or indirectly.* If the form is filed by more than one reporting person, see Instruction 4 (b)(v).** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C.\n\n78ff(a).Note: File three copies of this Form, one of which must be manually signed.\n\nIf space is insufficient, see Instruction 6 for procedure.Persons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB Number.* Form 4: SEC 1474 (03-26)",
+      "id": "fe4a011b-7349-5001-9e20-a7ff5f21ce41",
+      "timestamp_utc": "2026-04-08T04:28:49+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/delta-air-lines-stock-dal-soars-on-q1-earnings-beat-and-oil-price-drop-after-u-s-iran-ceasefire",
+      "title": "Delta Air Lines Stock (DAL) Soars on Q1 Earnings Beat and Oil Price Drop after U.S.-Iran Ceasefire - TipRanks",
+      "body": "Delta Air Lines Stock (DAL) Soars on Q1 Earnings Beat and Oil Price Drop after U.S.-Iran Ceasefire TipRanks",
       "author": null,
       "language": "en",
       "ticker": "DAL",
       "tickers_hint": [
         "DAL"
       ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.65,
+        "quality_score": 0.7475,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "c80645af-4d15-56c8-876f-155a91aead46",
+      "timestamp_utc": "2026-04-08T04:57:25+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/04/51707676/delta-beats-q1-earnings-what-does-the-iran-ceasefire-mean-for-dal",
+      "title": "Delta Beats Q1 Earnings: What Does The Iran Ceasefire Mean For DAL? - Benzinga",
+      "body": "Delta Beats Q1 Earnings: What Does The Iran Ceasefire Mean For DAL? Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "DAL",
+      "tickers_hint": [
+        "DAL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.65,
+        "quality_score": 0.7275,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
+    },
+    {
+      "id": "863d638c-ef0b-5e25-88cb-b87408522c11",
+      "timestamp_utc": "2026-04-08T04:14:05+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/04/51705692/delta-ceo-says-demand-is-strong-but-fuel-surge-clouds-outlook",
+      "title": "Why Is Delta Air Lines Stock Soaring Wednesday? - Delta Air Lines (NYSE:DAL) - Benzinga",
+      "body": "Why Is Delta Air Lines Stock Soaring Wednesday? - Delta Air Lines (NYSE:DAL) Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "DAL",
+      "tickers_hint": [
+        "DAL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
         "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "DAL"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.6575,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
     },
     {
-      "id": "ba1ea251-b036-5dd7-91c6-18355d049111",
-      "timestamp_utc": "2026-04-03T21:30:08+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT0pReG01N0YwNzZBNlA3Q2JfcHFlR3RzaXB5N0JWVmRycmxSNVY2LUE0OFVobU1vaVhFZ2kxdmUyajkyQzBURWFTV2xRNndJcmlUYWttWUszcEJXOHZ6cXhqRElDYnhOd1JrSXhEWVBtaVhXX0V2NndpMnlZbnd2bE1xOE95cEZQcUJVZS0yXzZldk9ac0piRVlDVEgxUmMwVGJPUWNacEdpSEpDaDFyY2dR?oc=5",
-      "title": "Delta Air Lines (DAL) COO Daniel Janki receives 5,550-share restricted stock grant - Stock Titan",
-      "body": "Delta Air Lines (DAL) COO Daniel Janki receives 5,550-share restricted stock grant Stock Titan",
+      "id": "d9a1734e-11f5-572b-ae22-f8562969949c",
+      "timestamp_utc": "2026-04-08T01:06:09+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/aal-dal-ual-airline-stocks-jump-on-u-s-iran-2-week-ceasefire-deal",
+      "title": "AAL, DAL, UAL: Airline Stocks Jump on 2-Week Ceasefire Deal in U.S.-Iran War - TipRanks",
+      "body": "AAL, DAL, UAL: Airline Stocks Jump on 2-Week Ceasefire Deal in U.S.-Iran War TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "DAL",
+      "tickers_hint": [
+        "DAL",
+        "UAL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.6425,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "0342e21d-99f1-5183-a8e2-873cb4879a75",
+      "timestamp_utc": "2026-04-07T23:05:40+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMVlBV3BqWVNVdlU1R2UwbFppUzQzemM0R1NiZWVCYmlXMVh6QkRuTDRFODdNNzVkdnpKbDNETnFNSzAyLXpWRWRralM0bGQtYURsLS01RXc0MjFxZC1DTzVEeE1HaXlqUTNZbk5WRVQxNGV0ZVdVbVZXQ3NKR0xqTUc0OE9TWWFyWXhpSGVIM3hDYVJ2dW1FNk5B?oc=5",
+      "title": "Airline stocks jump as U.S.-Iran ceasefire lifts oil fears (DAL:NYSE) - Seeking Alpha",
+      "body": "Airline stocks jump as U.S.-Iran ceasefire lifts oil fears (DAL:NYSE) Seeking Alpha",
+      "author": null,
+      "language": "en",
+      "ticker": "DAL",
+      "tickers_hint": [
+        "DAL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.615,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "ad4b5b66-0d3d-509b-934f-d78c9e07d014",
+      "timestamp_utc": "2026-04-08T02:23:08+00:00",
+      "source": "moneycheck",
+      "url": "https://moneycheck.com/delta-air-lines-dal-stock-surges-13-following-strong-q1-earnings-report/",
+      "title": "Delta Air Lines (DAL) Stock Surges 13% Following Strong Q1 Earnings Report - MoneyCheck",
+      "body": "Binance Unveils Binance Ai Pro Beta For AI Crypto Trading On OpenClawMarch 25, 2026 MoonPay Unveils Open Wallet Standard For AI Agents To Transact Across Chains TodayMarch 24, 2026 Mark Zuckerberg Deploys Personal AI Assistant to Revolutionize Meta OperationsMarch 23, 2026 Gemini Cuts Workforce By 30% As AI Drive Fails To Curb Widening 2025 Net LossesMarch 20, 2026 Nebius And Nvidia Forge $2 Billion Pact To Build Next Gen AI Cloud Hubs WorldwideMarch 11, 2026",
       "author": null,
       "language": "en",
       "ticker": "DAL",
@@ -44,28 +157,26 @@
         "DAL"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "moneycheck",
+      "trust_tier": 1,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MoneyCheck",
+        "source_domain": "moneycheck.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DAL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.65,
+        "quality_score": 0.5225,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "88b3ed4b-86b6-590d-8ca3-45dd7963b033",
-      "timestamp_utc": "2026-04-03T21:30:06+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQREs5MGUtdE9hU3ZRZDhiVEN2d1JiQkRvQXEtY2JnUkJURTFxdUxYVUJ2Z1ZHTUR3NUlVb3pCLWhyY1BuYm1wZW93d3FrZU5IMTk4Z3hHd1pSc3pHX0poOXNReXFKWVFWYmh6QWtQTWh5YS1TTkg5YWVEY0pHTll4RVcxRjVsLWpVbWJtanNkN0xvY2tMYjBRLWxaYzY4NTByeTFyWTJUUDJtekRRRmI5YnNR?oc=5",
-      "title": "Delta Air Lines (NYSE: DAL) grants 2,470 restricted shares to EVP - Stock Titan",
-      "body": "Delta Air Lines (NYSE: DAL) grants 2,470 restricted shares to EVP Stock Titan",
+      "id": "94dec742-cae8-57a4-b116-5919ea2ae336",
+      "timestamp_utc": "2026-04-08T06:26:46+00:00",
+      "source": "stockstory",
+      "url": "https://stockstory.org/us/stocks/nyse/dal/news/earnings/delta-nysedal-exceeds-q1-cy2026-expectations-stock-jumps-118percent",
+      "title": "Delta (NYSE:DAL) Exceeds Q1 CY2026 Expectations, Stock Jumps 11.8% - StockStory",
+      "body": "Delta (NYSE:DAL) Exceeds Q1 CY2026 Expectations, Stock Jumps 11.8% StockStory",
       "author": null,
       "language": "en",
       "ticker": "DAL",
@@ -73,28 +184,26 @@
         "DAL"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "stockstory",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "StockStory",
+        "source_domain": "stockstory.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DAL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.495,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "792280b1-5e30-5a2a-950d-619287971ff1",
-      "timestamp_utc": "2026-04-03T21:30:05+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM1pVTjRQTmRCZ2M1TFJndnQ3bXF6VFpDZTZBYkpDcGtXVTNhdk1Zd2VERGxWOVlkOWJQNTY4U1k5cGFhTnl5a2FhbGNGeWlheWhoRXhzVnBWZ1lMTjB1U3d3YTZveTBjSU9XbEZEOEpNWFk2dG5idjhEWUNkRkhWVC15MUprTUdpZHQ3NlA3aVVlRnkycUltT1kxalA5RzE1UXU3R3ktLVJqdFktMHdHUC13?oc=5",
-      "title": "Delta Air Lines (DAL) president receives 2,960 restricted shares in 2026 incentive grant - Stock Titan",
-      "body": "Delta Air Lines (DAL) president receives 2,960 restricted shares in 2026 incentive grant Stock Titan",
+      "id": "2f61797c-14bd-5aa6-82c3-d098a65d51a6",
+      "timestamp_utc": "2026-04-07T23:05:07+00:00",
+      "source": "stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNTVYTFF3c3FFQjhQVkozOWNZWUpoemJRUlZpdTBNQVVDMnNfZk5uSGR0TmliZHFTMV91S2h6MjZVSmNVQ3BuT0dnUi1GUDh0UDRkeU00TDNSRVh0WWM0VzF4b1F5dVBsSHJ0M2d2UldYV1czSW1IdGg5NV9hRVZCeHdCSkgtOG8wbVFSY05Nci1xWmN1aVB2UHVmN2RIT3oxa0s0Yk9QbkphazZEZGR6V2Y1MzU3dENTOG9pZEVUZzZDODJOdHFtenFfeVFQMkZxMnRF?oc=5",
+      "title": "Dow Futures Soar 1,100 Points, Oil Tanks Over 16% As Trump Declares Iran Ceasefire — AEHR, TSLA, INTC, DAL Among Stocks Trending Pre-Market Today - Stocktwits",
+      "body": "Dow Futures Soar 1,100 Points, Oil Tanks Over 16% As Trump Declares Iran Ceasefire — AEHR, TSLA, INTC, DAL Among Stocks Trending Pre-Market Today Stocktwits",
       "author": null,
       "language": "en",
       "ticker": "DAL",
@@ -102,60 +211,198 @@
         "DAL"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "stocktwits",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Stocktwits",
+        "source_domain": "stocktwits.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DAL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.45,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "c9a4a3ba-23fd-544f-885e-e1faac941e15",
+      "timestamp_utc": "2026-04-07T21:54:40+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/delta-dal-q1-earnings-report-preview-what-to-look-for/ar-AA20iFLF",
+      "title": "Delta (DAL) Q1 earnings report preview: What to look for - MSN",
+      "body": "Delta (DAL) Q1 earnings report preview: What to look for MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "DAL",
+      "tickers_hint": [
+        "DAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "event_origin": "news",
+        "relevance": 0.6,
+        "quality_score": 0.445,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "5da0fa5f-b4fa-54fd-9cfd-ab6b2592689d",
-      "timestamp_utc": "2026-04-03T21:30:04+00:00",
-      "source": "stock_titan",
-      "url": "https://www.stocktitan.net/sec-filings/DAL/form-4-delta-air-lines-inc-insider-trading-activity-0e649daa2211.html",
-      "title": "Delta Air Lines (DAL) grants CFO 7,400 restricted shares - Stock Titan",
-      "body": "⛶ Fullscreen SEC Form 4 FORM 4UNITED STATES SECURITIES AND EXCHANGE COMMISSIONWashington, D.C.\n\n20549STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIPFiled pursuant to Section 16(a) of the Securities Exchange Act of 1934or Section 30(h) of the Investment Company Act of 1940OMB APPROVALOMB Number:3235-0287Estimated average burdenhours per response:0.5 Check this box if no longer subject to Section 16.\n\nCheck this box to indicate that a transaction was made pursuant to a contract, instruction or written plan for the purchase or sale of equity securities of the issuer that is intended to satisfy the affirmative defense conditions of Rule 10b5-1(c).\n\nName and Address of Reporting Person*Snell Erik Storey(Last)(First)(Middle)C/O DELTA AIR LINES, INC., DEPT.\n\n9811030 DELTA BLVD.(Street)ATLANTA GEORGIA 30354(City)(State)(Zip)UNITED STATES(Country)2.\n\nIssuer Name and Ticker or Trading Symbol DELTA AIR LINES, INC.\n\nRelationship of Reporting Person(s) to Issuer (Check all applicable)Director10% OwnerXOfficer (give title below)Other (specify below)EVP & Chief Financial Officer2a.\n\nIndividual or Joint/Group Filing (Check Applicable Line) XForm filed by One Reporting PersonForm filed by More than One Reporting Person4.\n\nIf Amendment, Date of Original Filed (Month/Day/Year)Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned1.\n\nAmount of Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeVAmount(A) or (D)PriceCommon Stock04/01/2026A7,400(1)A(1)48,898DTable II - Derivative Securities Acquired, Disposed of, or Beneficially Owned(e.g., puts, calls, warrants, options, convertible securities)1.\n\nNumber of Derivative Securities Acquired (A) or Disposed of (D) (Instr.\n\nTitle and Amount of Securities Underlying Derivative Security (Instr.\n\nNumber of derivative Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeV(A)(D)Date ExercisableExpiration DateTitleAmount or Number of SharesExplanation of Responses:1.\n\nThe Personnel & Compensation Committee of Delta's Board of Directors (the \"Committee\") granted Mr.\n\nSnell 7,400 shares of restricted common stock under Delta's 2026 long-term incentive program.\n\nThe shares will vest pursuant to the terms of the award agreement.\n\nThis grant was approved by the Committee and is exempt from Section 16(b) of the Securities Exchange Act of 1934 under Rule 16b-3(d)(1)./s/ Alan T.\n\nSnell04/03/2026** Signature of Reporting PersonDateReminder: Report on a separate line for each class of securities beneficially owned directly or indirectly.* If the form is filed by more than one reporting person, see Instruction 4 (b)(v).** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C.\n\n78ff(a).Note: File three copies of this Form, one of which must be manually signed.\n\nIf space is insufficient, see Instruction 6 for procedure.Persons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB Number.* Form 4: SEC 1474 (03-26)",
+      "id": "fe4a011b-7349-5001-9e20-a7ff5f21ce41",
+      "timestamp_utc": "2026-04-08T04:28:49+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/delta-air-lines-stock-dal-soars-on-q1-earnings-beat-and-oil-price-drop-after-u-s-iran-ceasefire",
+      "title": "Delta Air Lines Stock (DAL) Soars on Q1 Earnings Beat and Oil Price Drop after U.S.-Iran Ceasefire - TipRanks",
+      "body": "Delta Air Lines Stock (DAL) Soars on Q1 Earnings Beat and Oil Price Drop after U.S.-Iran Ceasefire TipRanks",
       "author": null,
       "language": "en",
       "ticker": "DAL",
       "tickers_hint": [
         "DAL"
       ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.65,
+        "quality_score": 0.7475,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "c80645af-4d15-56c8-876f-155a91aead46",
+      "timestamp_utc": "2026-04-08T04:57:25+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/04/51707676/delta-beats-q1-earnings-what-does-the-iran-ceasefire-mean-for-dal",
+      "title": "Delta Beats Q1 Earnings: What Does The Iran Ceasefire Mean For DAL? - Benzinga",
+      "body": "Delta Beats Q1 Earnings: What Does The Iran Ceasefire Mean For DAL? Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "DAL",
+      "tickers_hint": [
+        "DAL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.65,
+        "quality_score": 0.7275,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
+    },
+    {
+      "id": "863d638c-ef0b-5e25-88cb-b87408522c11",
+      "timestamp_utc": "2026-04-08T04:14:05+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/04/51705692/delta-ceo-says-demand-is-strong-but-fuel-surge-clouds-outlook",
+      "title": "Why Is Delta Air Lines Stock Soaring Wednesday? - Delta Air Lines (NYSE:DAL) - Benzinga",
+      "body": "Why Is Delta Air Lines Stock Soaring Wednesday? - Delta Air Lines (NYSE:DAL) Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "DAL",
+      "tickers_hint": [
+        "DAL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
         "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "DAL"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.6575,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
     },
     {
-      "id": "ba1ea251-b036-5dd7-91c6-18355d049111",
-      "timestamp_utc": "2026-04-03T21:30:08+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT0pReG01N0YwNzZBNlA3Q2JfcHFlR3RzaXB5N0JWVmRycmxSNVY2LUE0OFVobU1vaVhFZ2kxdmUyajkyQzBURWFTV2xRNndJcmlUYWttWUszcEJXOHZ6cXhqRElDYnhOd1JrSXhEWVBtaVhXX0V2NndpMnlZbnd2bE1xOE95cEZQcUJVZS0yXzZldk9ac0piRVlDVEgxUmMwVGJPUWNacEdpSEpDaDFyY2dR?oc=5",
-      "title": "Delta Air Lines (DAL) COO Daniel Janki receives 5,550-share restricted stock grant - Stock Titan",
-      "body": "Delta Air Lines (DAL) COO Daniel Janki receives 5,550-share restricted stock grant Stock Titan",
+      "id": "d9a1734e-11f5-572b-ae22-f8562969949c",
+      "timestamp_utc": "2026-04-08T01:06:09+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/aal-dal-ual-airline-stocks-jump-on-u-s-iran-2-week-ceasefire-deal",
+      "title": "AAL, DAL, UAL: Airline Stocks Jump on 2-Week Ceasefire Deal in U.S.-Iran War - TipRanks",
+      "body": "AAL, DAL, UAL: Airline Stocks Jump on 2-Week Ceasefire Deal in U.S.-Iran War TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "DAL",
+      "tickers_hint": [
+        "DAL",
+        "UAL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.6425,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "0342e21d-99f1-5183-a8e2-873cb4879a75",
+      "timestamp_utc": "2026-04-07T23:05:40+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMVlBV3BqWVNVdlU1R2UwbFppUzQzemM0R1NiZWVCYmlXMVh6QkRuTDRFODdNNzVkdnpKbDNETnFNSzAyLXpWRWRralM0bGQtYURsLS01RXc0MjFxZC1DTzVEeE1HaXlqUTNZbk5WRVQxNGV0ZVdVbVZXQ3NKR0xqTUc0OE9TWWFyWXhpSGVIM3hDYVJ2dW1FNk5B?oc=5",
+      "title": "Airline stocks jump as U.S.-Iran ceasefire lifts oil fears (DAL:NYSE) - Seeking Alpha",
+      "body": "Airline stocks jump as U.S.-Iran ceasefire lifts oil fears (DAL:NYSE) Seeking Alpha",
+      "author": null,
+      "language": "en",
+      "ticker": "DAL",
+      "tickers_hint": [
+        "DAL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.615,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "ad4b5b66-0d3d-509b-934f-d78c9e07d014",
+      "timestamp_utc": "2026-04-08T02:23:08+00:00",
+      "source": "moneycheck",
+      "url": "https://moneycheck.com/delta-air-lines-dal-stock-surges-13-following-strong-q1-earnings-report/",
+      "title": "Delta Air Lines (DAL) Stock Surges 13% Following Strong Q1 Earnings Report - MoneyCheck",
+      "body": "Binance Unveils Binance Ai Pro Beta For AI Crypto Trading On OpenClawMarch 25, 2026 MoonPay Unveils Open Wallet Standard For AI Agents To Transact Across Chains TodayMarch 24, 2026 Mark Zuckerberg Deploys Personal AI Assistant to Revolutionize Meta OperationsMarch 23, 2026 Gemini Cuts Workforce By 30% As AI Drive Fails To Curb Widening 2025 Net LossesMarch 20, 2026 Nebius And Nvidia Forge $2 Billion Pact To Build Next Gen AI Cloud Hubs WorldwideMarch 11, 2026",
       "author": null,
       "language": "en",
       "ticker": "DAL",
@@ -163,28 +410,26 @@
         "DAL"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "moneycheck",
+      "trust_tier": 1,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MoneyCheck",
+        "source_domain": "moneycheck.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DAL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.65,
+        "quality_score": 0.5225,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "88b3ed4b-86b6-590d-8ca3-45dd7963b033",
-      "timestamp_utc": "2026-04-03T21:30:06+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQREs5MGUtdE9hU3ZRZDhiVEN2d1JiQkRvQXEtY2JnUkJURTFxdUxYVUJ2Z1ZHTUR3NUlVb3pCLWhyY1BuYm1wZW93d3FrZU5IMTk4Z3hHd1pSc3pHX0poOXNReXFKWVFWYmh6QWtQTWh5YS1TTkg5YWVEY0pHTll4RVcxRjVsLWpVbWJtanNkN0xvY2tMYjBRLWxaYzY4NTByeTFyWTJUUDJtekRRRmI5YnNR?oc=5",
-      "title": "Delta Air Lines (NYSE: DAL) grants 2,470 restricted shares to EVP - Stock Titan",
-      "body": "Delta Air Lines (NYSE: DAL) grants 2,470 restricted shares to EVP Stock Titan",
+      "id": "94dec742-cae8-57a4-b116-5919ea2ae336",
+      "timestamp_utc": "2026-04-08T06:26:46+00:00",
+      "source": "stockstory",
+      "url": "https://stockstory.org/us/stocks/nyse/dal/news/earnings/delta-nysedal-exceeds-q1-cy2026-expectations-stock-jumps-118percent",
+      "title": "Delta (NYSE:DAL) Exceeds Q1 CY2026 Expectations, Stock Jumps 11.8% - StockStory",
+      "body": "Delta (NYSE:DAL) Exceeds Q1 CY2026 Expectations, Stock Jumps 11.8% StockStory",
       "author": null,
       "language": "en",
       "ticker": "DAL",
@@ -192,28 +437,26 @@
         "DAL"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "stockstory",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "StockStory",
+        "source_domain": "stockstory.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DAL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.495,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "792280b1-5e30-5a2a-950d-619287971ff1",
-      "timestamp_utc": "2026-04-03T21:30:05+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM1pVTjRQTmRCZ2M1TFJndnQ3bXF6VFpDZTZBYkpDcGtXVTNhdk1Zd2VERGxWOVlkOWJQNTY4U1k5cGFhTnl5a2FhbGNGeWlheWhoRXhzVnBWZ1lMTjB1U3d3YTZveTBjSU9XbEZEOEpNWFk2dG5idjhEWUNkRkhWVC15MUprTUdpZHQ3NlA3aVVlRnkycUltT1kxalA5RzE1UXU3R3ktLVJqdFktMHdHUC13?oc=5",
-      "title": "Delta Air Lines (DAL) president receives 2,960 restricted shares in 2026 incentive grant - Stock Titan",
-      "body": "Delta Air Lines (DAL) president receives 2,960 restricted shares in 2026 incentive grant Stock Titan",
+      "id": "2f61797c-14bd-5aa6-82c3-d098a65d51a6",
+      "timestamp_utc": "2026-04-07T23:05:07+00:00",
+      "source": "stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNTVYTFF3c3FFQjhQVkozOWNZWUpoemJRUlZpdTBNQVVDMnNfZk5uSGR0TmliZHFTMV91S2h6MjZVSmNVQ3BuT0dnUi1GUDh0UDRkeU00TDNSRVh0WWM0VzF4b1F5dVBsSHJ0M2d2UldYV1czSW1IdGg5NV9hRVZCeHdCSkgtOG8wbVFSY05Nci1xWmN1aVB2UHVmN2RIT3oxa0s0Yk9QbkphazZEZGR6V2Y1MzU3dENTOG9pZEVUZzZDODJOdHFtenFfeVFQMkZxMnRF?oc=5",
+      "title": "Dow Futures Soar 1,100 Points, Oil Tanks Over 16% As Trump Declares Iran Ceasefire — AEHR, TSLA, INTC, DAL Among Stocks Trending Pre-Market Today - Stocktwits",
+      "body": "Dow Futures Soar 1,100 Points, Oil Tanks Over 16% As Trump Declares Iran Ceasefire — AEHR, TSLA, INTC, DAL Among Stocks Trending Pre-Market Today Stocktwits",
       "author": null,
       "language": "en",
       "ticker": "DAL",
@@ -221,20 +464,45 @@
         "DAL"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "stocktwits",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Stocktwits",
+        "source_domain": "stocktwits.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DAL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.45,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "c9a4a3ba-23fd-544f-885e-e1faac941e15",
+      "timestamp_utc": "2026-04-07T21:54:40+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/delta-dal-q1-earnings-report-preview-what-to-look-for/ar-AA20iFLF",
+      "title": "Delta (DAL) Q1 earnings report preview: What to look for - MSN",
+      "body": "Delta (DAL) Q1 earnings report preview: What to look for MSN",
+      "author": null,
+      "language": "en",
+      "ticker": "DAL",
+      "tickers_hint": [
+        "DAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "event_origin": "news",
+        "relevance": 0.6,
+        "quality_score": 0.445,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

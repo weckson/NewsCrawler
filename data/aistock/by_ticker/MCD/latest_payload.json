@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "b7d270bc-ddd8-56bf-89aa-56fd3b60058a",
-      "timestamp_utc": "2026-04-04T10:34:13+00:00",
+      "id": "002f7cac-e86e-51dc-8038-49a675bc70ff",
+      "timestamp_utc": "2026-04-08T22:27:00+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-thurston-springer-miller-herd-titak-inc-buys-4647-shares-of-mcdonalds-corporation-mcd-2026-04-04/",
-      "title": "Thurston Springer Miller Herd & Titak Inc. Buys 4,647 Shares of McDonald's Corporation $MCD - MarketBeat",
-      "body": "Thurston Springer Miller Herd & Titak Inc. Buys 4,647 Shares of McDonald's Corporation $MCD MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-franklin-street-advisors-inc-nc-buys-8028-shares-of-mcdonalds-corporation-mcd-2026-04-09/",
+      "title": "Franklin Street Advisors Inc. NC Buys 8,028 Shares of McDonald's Corporation $MCD - MarketBeat",
+      "body": "Franklin Street Advisors Inc. NC Buys 8,028 Shares of McDonald's Corporation $MCD MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "MCD",
@@ -16,30 +16,28 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
         "event_origin": "news",
-        "query_tickers": [
-          "MCD"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4425,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "b7d270bc-ddd8-56bf-89aa-56fd3b60058a",
-      "timestamp_utc": "2026-04-04T10:34:13+00:00",
+      "id": "002f7cac-e86e-51dc-8038-49a675bc70ff",
+      "timestamp_utc": "2026-04-08T22:27:00+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-thurston-springer-miller-herd-titak-inc-buys-4647-shares-of-mcdonalds-corporation-mcd-2026-04-04/",
-      "title": "Thurston Springer Miller Herd & Titak Inc. Buys 4,647 Shares of McDonald's Corporation $MCD - MarketBeat",
-      "body": "Thurston Springer Miller Herd & Titak Inc. Buys 4,647 Shares of McDonald's Corporation $MCD MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-franklin-street-advisors-inc-nc-buys-8028-shares-of-mcdonalds-corporation-mcd-2026-04-09/",
+      "title": "Franklin Street Advisors Inc. NC Buys 8,028 Shares of McDonald's Corporation $MCD - MarketBeat",
+      "body": "Franklin Street Advisors Inc. NC Buys 8,028 Shares of McDonald's Corporation $MCD MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "MCD",
@@ -48,19 +46,17 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
         "event_origin": "news",
-        "query_tickers": [
-          "MCD"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4425,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

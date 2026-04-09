@@ -2,12 +2,95 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "9ffe70b3-ace9-55e7-a31e-3dfc634878c8",
-      "timestamp_utc": "2026-03-31T10:24:07+00:00",
+      "id": "31e31e0f-a4a2-5238-abd5-4af9b938faa7",
+      "timestamp_utc": "2026-04-08T04:18:46+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/top-analysts-weigh-in-on-exxon-mobil-stock-xom-in-light-of-the-u-s-iran-ceasefire-agreement",
+      "title": "Top Analysts Weigh In on Exxon Mobil Stock (XOM) In Light of the U.S.-Iran Ceasefire Agreement - TipRanks",
+      "body": "Top Analysts Weigh In on Exxon Mobil Stock (XOM) In Light of the U.S.-Iran Ceasefire Agreement TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "XOM",
+      "tickers_hint": [
+        "XOM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.6775,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "b15e6e65-5bc7-5c03-be50-422e35e97e89",
+      "timestamp_utc": "2026-04-08T02:38:25+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/news/4573263-exxon-says-6-of-its-worldwide-production-shut-in-q1-from-middle-east-war",
+      "title": "Exxon says 6% of its worldwide production shut in Q1 from Middle East war (XOM:NYSE) - Seeking Alpha",
+      "body": "Exxon Mobil (XOM) said Wednesday that disruptions to its assets in Qatar and the United Arab Emirates will reduce its global oil-equivalent production by 6% in Q1 compared to the previous quarter, as the Iran war paralyzed much of the",
+      "author": null,
+      "language": "en",
+      "ticker": "XOM",
+      "tickers_hint": [
+        "XOM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.6775,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "e26a45c5-104a-5196-aa3a-46f4839fb7a7",
+      "timestamp_utc": "2026-04-08T00:02:41+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWmM5MzJrUGxSdHplVFdIamFJOU1NN2Q3LVBaYkdORjVZR1lkRU5oYnlRTWtINTJFMjl5dllOTkd6eFpTNHcwWnkxY1dVYjRsYjdzdlBSNkhGT1huVW1ka0dQTk1ZMXFJaXYxdHBSY2JvN3pwcG42a0RnbjRvVGNFUWhjTXg4TFdzelpQazJZRmxDN3Vta2ZIMjdDTkFsN0Nad3N2VTNsTQ?oc=5",
+      "title": "XOM, CVX, COP Stocks Sink as Crude Drops Below $100 on U.S.-Iran Ceasefire — What’s Next? - TipRanks",
+      "body": "XOM, CVX, COP Stocks Sink as Crude Drops Below $100 on U.S.-Iran Ceasefire — What’s Next? TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "COP",
+      "tickers_hint": [
+        "COP",
+        "CVX",
+        "XOM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.645,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "6d4fd0a3-56be-544f-b2a7-77f987f239f2",
+      "timestamp_utc": "2026-04-08T04:34:41+00:00",
       "source": "benzinga",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdTVCQnBhVUFkYXVad2ZiM3JCOFNSMUlBdXdScl96T3pLTk5oeXUzQUFWcWo3ZnZ1MjEzYndEdi1iWVJWem56TmNabE16WWZ5S1pzUXNRamkyNW8ySkx3eDVNZ2hNc0hvbWt2Q1RQVnlFNHdwRzR4anFUemNjTWp0ZHdKZVZOTUhyRk9udFN3M2NGZkZXYm9NVlhJaW94ZElPZEZwVXo2Q2duZHR3MzZqOA?oc=5",
-      "title": "Why Exxon Mobil Stock Is Falling Tuesday Afternoon - Exxon Mobil (NYSE:XOM) - Benzinga",
-      "body": "Why Exxon Mobil Stock Is Falling Tuesday Afternoon - Exxon Mobil (NYSE:XOM) Benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/04/51706700/why-is-exxon-mobil-stock-falling-today",
+      "title": "Why Is Exxon Mobil Stock Falling Today? - Exxon Mobil (NYSE:XOM) - Benzinga",
+      "body": "Why Is Exxon Mobil Stock Falling Today? - Exxon Mobil (NYSE:XOM) Benzinga",
       "author": null,
       "language": "en",
       "ticker": "XOM",
@@ -16,30 +99,55 @@
       ],
       "source_quality": "high",
       "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_benzinga",
         "source_name": "Benzinga",
         "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
         "event_origin": "news",
-        "query_tickers": [
-          "XOM"
-        ],
-        "alt_sources": [
+        "relevance": 0.55,
+        "quality_score": 0.6425,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
           "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        ]
+      }
     },
     {
-      "id": "c4436832-a578-54a9-90ad-de22a778cfa7",
-      "timestamp_utc": "2026-04-01T07:27:08+00:00",
-      "source": "seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ0NuR2Z4ZWpST1JUYzUtNWNmUzZRYlJGbXoySTNjazVjSm9ZSnM0OWNLb0pwWldLVTVqS3pZTHVWeUlndDhhcXRlR3VheVRQTHc2RE05TDd4c29zVFl4TGRJMkJsdlZMWkRXcjBYSFZNT2NWUVRXNExrNmtqbXNWamhvTmJoU2hiTTlTb0YwWEJ1dzY4dkxoelE1WE1yUlpuU1FYZg?oc=5",
-      "title": "Exxon leads energy stock rout, on pace for biggest drop in a year (XOM:NYSE) - seekingalpha.com",
-      "body": "Exxon leads energy stock rout, on pace for biggest drop in a year (XOM:NYSE) seekingalpha.com",
+      "id": "9a3b88d1-9047-5f31-85c5-005459377270",
+      "timestamp_utc": "2026-04-07T14:50:31+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/why-ubs-significantly-increased-its-price-target-on-exxon-mobil-xom-stock",
+      "title": "Why UBS Significantly Increased Its Price Target on Exxon Mobil (XOM) Stock - TipRanks",
+      "body": "Why UBS Significantly Increased Its Price Target on Exxon Mobil (XOM) Stock TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "XOM",
+      "tickers_hint": [
+        "XOM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.6275,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "93133cbb-4ffb-55a2-adb3-f9e70d46198d",
+      "timestamp_utc": "2026-04-08T10:55:58+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/exxon-mobil-nysexom-stock-price-down-47-following-analyst-downgrade-2026-04-08/",
+      "title": "Exxon Mobil (NYSE:XOM) Stock Price Down 4.7% Following Analyst Downgrade - MarketBeat",
+      "body": "Exxon Mobil (NYSE:XOM) Stock Price Down 4.7% Following Analyst Downgrade MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "XOM",
@@ -47,28 +155,26 @@
         "XOM"
       ],
       "source_quality": "low",
-      "publisher_raw": "seekingalpha.com",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "seekingalpha.com",
-        "source_domain": "seekingalphacom.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "XOM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.65,
+        "quality_score": 0.5075,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "78adde0f-7008-5b37-bd16-c81594b18b6b",
-      "timestamp_utc": "2026-04-01T00:58:03+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/XOM/earnings",
-      "title": "XOM Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "XOM Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "761fddae-b7b2-53e1-bc52-c28f8e0a24ef",
+      "timestamp_utc": "2026-04-08T13:34:15+00:00",
+      "source": "mshale",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kVGMzajZmcDR1dkstTkFPZW5fRWhZMVZ4c1Q1MEt3V3phWWViekZxLXVDdnB0XzhDS3Z4a0kyRS1rSGMzb0x1WURIYm10eFhWOFpHX2FRTEhOY0h6ZkxZdjhJYw?oc=5",
+      "title": "XOM Stock (Exxon Mobil Corporation) XOM Stock Analysis | April 7, 2026 Link Website (mHcdgTWuhx) - Mshale",
+      "body": "XOM Stock (Exxon Mobil Corporation) XOM Stock Analysis | April 7, 2026 Link Website (mHcdgTWuhx) Mshale",
       "author": null,
       "language": "en",
       "ticker": "XOM",
@@ -76,31 +182,193 @@
         "XOM"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "mshale",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Mshale",
+        "source_domain": "mshale.com",
         "event_origin": "news",
-        "query_tickers": [
-          "XOM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.47,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "40edb739-3dc6-5add-b751-e08b580bf050",
+      "timestamp_utc": "2026-04-08T04:32:48+00:00",
+      "source": "mexc_exchange",
+      "url": "https://www.mexc.co/news/1012882",
+      "title": "Exxon (XOM), Chevron (CVX), and ConocoPhillips (COP) Stocks Plunge on Iran Ceasefire News - MEXC Exchange",
+      "body": "President Donald Trump’s late Tuesday announcement of a two-week ceasefire involving the United States, Israel, and Iran triggered a dramatic collapse in oil markets, erasing substantial gains throughout the energy sector.\n\nThe surprise declaration arrived moments before Trump’s self-imposed April 7th ultimatum, delivered at 8 p.m. Eastern Time. The president had previously issued stern warnings that Iran would face catastrophic repercussions unless it reopened the strategically vital Strait of Hormuz.\n\nTrump revealed the agreement via Truth Social at 6:32 p.m. ET, stating that Iran had accepted the ceasefire terms, which require the “complete, immediate, and safe opening” of the Strait of Hormuz.\n\nThis critical maritime chokepoint facilitates the transport of approximately 20% of global crude oil supplies. Its blockade had been a primary catalyst for elevated oil prices throughout recent months.\n\nOil prices had climbed above $110 per barrel earlier in the day, following Trump’s weekend threat to strike Iranian infrastructure including power facilities and bridges should the waterway remain obstructed.\n\nIn the aftermath of the ceasefire revelation, Brent crude futures plunged over 10% to $96.73. West Texas Intermediate crashed nearly 14% to $95.45, falling beneath the psychologically significant $100 per barrel threshold.\n\nExxon Mobil plummeted 6.3% during premarket sessions. Chevron declined 4.8%, while Occidental Petroleum sank 8.5%. Exploration company APA tumbled 10%, with Diamondback Energy and Devon Energy recording losses of 7.7% and 6.4% respectively.\n\nConocoPhillips similarly experienced substantial declines. The three dominant oil producers — Exxon, Chevron, and ConocoPhillips — had accumulated gains of approximately 37%, 34%, and 42% respectively since the beginning of January.\n\nExxon achieved its strongest quarterly performance on record during Q1 2026, soaring 41%. Chevron advanced 36% throughout the identical timeframe. Both energy giants had continued their ascent as regional hostilities intensified.\n\nExxon submitted a regulatory filing Wednesday indicating anticipated oil production will decline roughly 6% in Q1 versus Q4 2025, attributed to operational disruptions in Qatar and the United Arab Emirates.\n\nThe corporation projected that favorable pricing conditions would enhance upstream earnings by $2.1 to $2.9 billion compared to the previous quarter. Nevertheless, volume disruptions are forecast to reduce combined upstream and downstream operations by $400 million to $800 million.\n\nExxon is scheduled to publish complete Q1 financial results on May 1.\n\nShell disclosed that liquefied natural gas output would similarly contract in Q1 due to conflict-related impacts on Qatari operations. Shell shares dropped 5.4% in London trading and 4.2% during U.S. premarket hours.\n\nNot every energy company faces negative consequences. Decreased crude costs enhance refining profit margins.\n\nValero Energy, Phillips 66, and Marathon Petroleum represent refining companies poised to capitalize on more affordable oil.\n\nOilfield services providers including Halliburton and Schlumberger, conversely, confront earnings challenges alongside the major oil producers.\n\nTrump indicated that most disputed matters between the United States and Iran have reached consensus. The two-week period is designed to formalize these understandings.\n\nShould the ceasefire prove durable and the Strait of Hormuz resume full operations, market analysts anticipate oil prices may experience additional declines in coming weeks.\n\nThe post Exxon (XOM), Chevron (CVX), and ConocoPhillips (COP) Stocks Plunge on Iran Ceasefire News appeared first on Blockonomi.",
+      "author": null,
+      "language": "en",
+      "ticker": "XOM",
+      "tickers_hint": [
+        "XOM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "mexc exchange",
+      "trust_tier": 1,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MEXC Exchange",
+        "source_domain": "mexcexchange.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4675,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "e555d7fe-9475-5dcf-b88c-48f5249d5ed9",
+      "timestamp_utc": "2026-04-08T03:38:14+00:00",
+      "source": "rolling_out",
+      "url": "https://rollingout.com/2026/04/08/erste-group-raises-xom-stock-earnings/",
+      "title": "Erste Group raises XOM stock earnings forecast for 2026 - Rolling Out",
+      "body": "Erste Group raises XOM stock earnings forecast for 2026 Rolling Out",
+      "author": null,
+      "language": "en",
+      "ticker": "XOM",
+      "tickers_hint": [
+        "XOM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "rolling out",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Rolling Out",
+        "source_domain": "rollingout.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4525,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "e825ca38-5efb-5c81-90dc-8066c2eb940c",
+      "timestamp_utc": "2026-04-08T11:08:44+00:00",
+      "source": "stockstory",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS0E3dUY3Y21xQ1F1S1hDdkpCMHlKejJYNXUyZVQySmFkQUh2clhuSVg0cTJXd2lyejBBQjEydmdVR1VLNWVZRmtaOXkyekRVeG5pSTNCOWVWMU02ZEJ1b1NSUlZOcW00RU5LR2pWWkwwUnF1UHBpUVNDRnBld3RZZk5qbE0tYWJjMVhwMnQ5NzJfZnU0S3JHTTYzZkxwYThVdTRQTQ?oc=5",
+      "title": "Why ExxonMobil (XOM) Shares Are Falling Today - StockStory",
+      "body": "Why ExxonMobil (XOM) Shares Are Falling Today StockStory",
+      "author": null,
+      "language": "en",
+      "ticker": "XOM",
+      "tickers_hint": [
+        "XOM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stockstory",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "StockStory",
+        "source_domain": "stockstory.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.401,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "9ffe70b3-ace9-55e7-a31e-3dfc634878c8",
-      "timestamp_utc": "2026-03-31T10:24:07+00:00",
+      "id": "31e31e0f-a4a2-5238-abd5-4af9b938faa7",
+      "timestamp_utc": "2026-04-08T04:18:46+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/top-analysts-weigh-in-on-exxon-mobil-stock-xom-in-light-of-the-u-s-iran-ceasefire-agreement",
+      "title": "Top Analysts Weigh In on Exxon Mobil Stock (XOM) In Light of the U.S.-Iran Ceasefire Agreement - TipRanks",
+      "body": "Top Analysts Weigh In on Exxon Mobil Stock (XOM) In Light of the U.S.-Iran Ceasefire Agreement TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "XOM",
+      "tickers_hint": [
+        "XOM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.6775,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "b15e6e65-5bc7-5c03-be50-422e35e97e89",
+      "timestamp_utc": "2026-04-08T02:38:25+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/news/4573263-exxon-says-6-of-its-worldwide-production-shut-in-q1-from-middle-east-war",
+      "title": "Exxon says 6% of its worldwide production shut in Q1 from Middle East war (XOM:NYSE) - Seeking Alpha",
+      "body": "Exxon Mobil (XOM) said Wednesday that disruptions to its assets in Qatar and the United Arab Emirates will reduce its global oil-equivalent production by 6% in Q1 compared to the previous quarter, as the Iran war paralyzed much of the",
+      "author": null,
+      "language": "en",
+      "ticker": "XOM",
+      "tickers_hint": [
+        "XOM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.6775,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "e26a45c5-104a-5196-aa3a-46f4839fb7a7",
+      "timestamp_utc": "2026-04-08T00:02:41+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWmM5MzJrUGxSdHplVFdIamFJOU1NN2Q3LVBaYkdORjVZR1lkRU5oYnlRTWtINTJFMjl5dllOTkd6eFpTNHcwWnkxY1dVYjRsYjdzdlBSNkhGT1huVW1ka0dQTk1ZMXFJaXYxdHBSY2JvN3pwcG42a0RnbjRvVGNFUWhjTXg4TFdzelpQazJZRmxDN3Vta2ZIMjdDTkFsN0Nad3N2VTNsTQ?oc=5",
+      "title": "XOM, CVX, COP Stocks Sink as Crude Drops Below $100 on U.S.-Iran Ceasefire — What’s Next? - TipRanks",
+      "body": "XOM, CVX, COP Stocks Sink as Crude Drops Below $100 on U.S.-Iran Ceasefire — What’s Next? TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "COP",
+      "tickers_hint": [
+        "COP",
+        "CVX",
+        "XOM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.645,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "6d4fd0a3-56be-544f-b2a7-77f987f239f2",
+      "timestamp_utc": "2026-04-08T04:34:41+00:00",
       "source": "benzinga",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdTVCQnBhVUFkYXVad2ZiM3JCOFNSMUlBdXdScl96T3pLTk5oeXUzQUFWcWo3ZnZ1MjEzYndEdi1iWVJWem56TmNabE16WWZ5S1pzUXNRamkyNW8ySkx3eDVNZ2hNc0hvbWt2Q1RQVnlFNHdwRzR4anFUemNjTWp0ZHdKZVZOTUhyRk9udFN3M2NGZkZXYm9NVlhJaW94ZElPZEZwVXo2Q2duZHR3MzZqOA?oc=5",
-      "title": "Why Exxon Mobil Stock Is Falling Tuesday Afternoon - Exxon Mobil (NYSE:XOM) - Benzinga",
-      "body": "Why Exxon Mobil Stock Is Falling Tuesday Afternoon - Exxon Mobil (NYSE:XOM) Benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/04/51706700/why-is-exxon-mobil-stock-falling-today",
+      "title": "Why Is Exxon Mobil Stock Falling Today? - Exxon Mobil (NYSE:XOM) - Benzinga",
+      "body": "Why Is Exxon Mobil Stock Falling Today? - Exxon Mobil (NYSE:XOM) Benzinga",
       "author": null,
       "language": "en",
       "ticker": "XOM",
@@ -109,30 +377,55 @@
       ],
       "source_quality": "high",
       "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_benzinga",
         "source_name": "Benzinga",
         "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
         "event_origin": "news",
-        "query_tickers": [
-          "XOM"
-        ],
-        "alt_sources": [
+        "relevance": 0.55,
+        "quality_score": 0.6425,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
           "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        ]
+      }
     },
     {
-      "id": "c4436832-a578-54a9-90ad-de22a778cfa7",
-      "timestamp_utc": "2026-04-01T07:27:08+00:00",
-      "source": "seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ0NuR2Z4ZWpST1JUYzUtNWNmUzZRYlJGbXoySTNjazVjSm9ZSnM0OWNLb0pwWldLVTVqS3pZTHVWeUlndDhhcXRlR3VheVRQTHc2RE05TDd4c29zVFl4TGRJMkJsdlZMWkRXcjBYSFZNT2NWUVRXNExrNmtqbXNWamhvTmJoU2hiTTlTb0YwWEJ1dzY4dkxoelE1WE1yUlpuU1FYZg?oc=5",
-      "title": "Exxon leads energy stock rout, on pace for biggest drop in a year (XOM:NYSE) - seekingalpha.com",
-      "body": "Exxon leads energy stock rout, on pace for biggest drop in a year (XOM:NYSE) seekingalpha.com",
+      "id": "9a3b88d1-9047-5f31-85c5-005459377270",
+      "timestamp_utc": "2026-04-07T14:50:31+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/why-ubs-significantly-increased-its-price-target-on-exxon-mobil-xom-stock",
+      "title": "Why UBS Significantly Increased Its Price Target on Exxon Mobil (XOM) Stock - TipRanks",
+      "body": "Why UBS Significantly Increased Its Price Target on Exxon Mobil (XOM) Stock TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "XOM",
+      "tickers_hint": [
+        "XOM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.6275,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "93133cbb-4ffb-55a2-adb3-f9e70d46198d",
+      "timestamp_utc": "2026-04-08T10:55:58+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/exxon-mobil-nysexom-stock-price-down-47-following-analyst-downgrade-2026-04-08/",
+      "title": "Exxon Mobil (NYSE:XOM) Stock Price Down 4.7% Following Analyst Downgrade - MarketBeat",
+      "body": "Exxon Mobil (NYSE:XOM) Stock Price Down 4.7% Following Analyst Downgrade MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "XOM",
@@ -140,28 +433,26 @@
         "XOM"
       ],
       "source_quality": "low",
-      "publisher_raw": "seekingalpha.com",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "seekingalpha.com",
-        "source_domain": "seekingalphacom.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "XOM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.65,
+        "quality_score": 0.5075,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "78adde0f-7008-5b37-bd16-c81594b18b6b",
-      "timestamp_utc": "2026-04-01T00:58:03+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/XOM/earnings",
-      "title": "XOM Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "XOM Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "761fddae-b7b2-53e1-bc52-c28f8e0a24ef",
+      "timestamp_utc": "2026-04-08T13:34:15+00:00",
+      "source": "mshale",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kVGMzajZmcDR1dkstTkFPZW5fRWhZMVZ4c1Q1MEt3V3phWWViekZxLXVDdnB0XzhDS3Z4a0kyRS1rSGMzb0x1WURIYm10eFhWOFpHX2FRTEhOY0h6ZkxZdjhJYw?oc=5",
+      "title": "XOM Stock (Exxon Mobil Corporation) XOM Stock Analysis | April 7, 2026 Link Website (mHcdgTWuhx) - Mshale",
+      "body": "XOM Stock (Exxon Mobil Corporation) XOM Stock Analysis | April 7, 2026 Link Website (mHcdgTWuhx) Mshale",
       "author": null,
       "language": "en",
       "ticker": "XOM",
@@ -169,20 +460,99 @@
         "XOM"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "mshale",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Mshale",
+        "source_domain": "mshale.com",
         "event_origin": "news",
-        "query_tickers": [
-          "XOM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.47,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "40edb739-3dc6-5add-b751-e08b580bf050",
+      "timestamp_utc": "2026-04-08T04:32:48+00:00",
+      "source": "mexc_exchange",
+      "url": "https://www.mexc.co/news/1012882",
+      "title": "Exxon (XOM), Chevron (CVX), and ConocoPhillips (COP) Stocks Plunge on Iran Ceasefire News - MEXC Exchange",
+      "body": "President Donald Trump’s late Tuesday announcement of a two-week ceasefire involving the United States, Israel, and Iran triggered a dramatic collapse in oil markets, erasing substantial gains throughout the energy sector.\n\nThe surprise declaration arrived moments before Trump’s self-imposed April 7th ultimatum, delivered at 8 p.m. Eastern Time. The president had previously issued stern warnings that Iran would face catastrophic repercussions unless it reopened the strategically vital Strait of Hormuz.\n\nTrump revealed the agreement via Truth Social at 6:32 p.m. ET, stating that Iran had accepted the ceasefire terms, which require the “complete, immediate, and safe opening” of the Strait of Hormuz.\n\nThis critical maritime chokepoint facilitates the transport of approximately 20% of global crude oil supplies. Its blockade had been a primary catalyst for elevated oil prices throughout recent months.\n\nOil prices had climbed above $110 per barrel earlier in the day, following Trump’s weekend threat to strike Iranian infrastructure including power facilities and bridges should the waterway remain obstructed.\n\nIn the aftermath of the ceasefire revelation, Brent crude futures plunged over 10% to $96.73. West Texas Intermediate crashed nearly 14% to $95.45, falling beneath the psychologically significant $100 per barrel threshold.\n\nExxon Mobil plummeted 6.3% during premarket sessions. Chevron declined 4.8%, while Occidental Petroleum sank 8.5%. Exploration company APA tumbled 10%, with Diamondback Energy and Devon Energy recording losses of 7.7% and 6.4% respectively.\n\nConocoPhillips similarly experienced substantial declines. The three dominant oil producers — Exxon, Chevron, and ConocoPhillips — had accumulated gains of approximately 37%, 34%, and 42% respectively since the beginning of January.\n\nExxon achieved its strongest quarterly performance on record during Q1 2026, soaring 41%. Chevron advanced 36% throughout the identical timeframe. Both energy giants had continued their ascent as regional hostilities intensified.\n\nExxon submitted a regulatory filing Wednesday indicating anticipated oil production will decline roughly 6% in Q1 versus Q4 2025, attributed to operational disruptions in Qatar and the United Arab Emirates.\n\nThe corporation projected that favorable pricing conditions would enhance upstream earnings by $2.1 to $2.9 billion compared to the previous quarter. Nevertheless, volume disruptions are forecast to reduce combined upstream and downstream operations by $400 million to $800 million.\n\nExxon is scheduled to publish complete Q1 financial results on May 1.\n\nShell disclosed that liquefied natural gas output would similarly contract in Q1 due to conflict-related impacts on Qatari operations. Shell shares dropped 5.4% in London trading and 4.2% during U.S. premarket hours.\n\nNot every energy company faces negative consequences. Decreased crude costs enhance refining profit margins.\n\nValero Energy, Phillips 66, and Marathon Petroleum represent refining companies poised to capitalize on more affordable oil.\n\nOilfield services providers including Halliburton and Schlumberger, conversely, confront earnings challenges alongside the major oil producers.\n\nTrump indicated that most disputed matters between the United States and Iran have reached consensus. The two-week period is designed to formalize these understandings.\n\nShould the ceasefire prove durable and the Strait of Hormuz resume full operations, market analysts anticipate oil prices may experience additional declines in coming weeks.\n\nThe post Exxon (XOM), Chevron (CVX), and ConocoPhillips (COP) Stocks Plunge on Iran Ceasefire News appeared first on Blockonomi.",
+      "author": null,
+      "language": "en",
+      "ticker": "XOM",
+      "tickers_hint": [
+        "XOM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "mexc exchange",
+      "trust_tier": 1,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MEXC Exchange",
+        "source_domain": "mexcexchange.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4675,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "e555d7fe-9475-5dcf-b88c-48f5249d5ed9",
+      "timestamp_utc": "2026-04-08T03:38:14+00:00",
+      "source": "rolling_out",
+      "url": "https://rollingout.com/2026/04/08/erste-group-raises-xom-stock-earnings/",
+      "title": "Erste Group raises XOM stock earnings forecast for 2026 - Rolling Out",
+      "body": "Erste Group raises XOM stock earnings forecast for 2026 Rolling Out",
+      "author": null,
+      "language": "en",
+      "ticker": "XOM",
+      "tickers_hint": [
+        "XOM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "rolling out",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Rolling Out",
+        "source_domain": "rollingout.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4525,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "e825ca38-5efb-5c81-90dc-8066c2eb940c",
+      "timestamp_utc": "2026-04-08T11:08:44+00:00",
+      "source": "stockstory",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS0E3dUY3Y21xQ1F1S1hDdkpCMHlKejJYNXUyZVQySmFkQUh2clhuSVg0cTJXd2lyejBBQjEydmdVR1VLNWVZRmtaOXkyekRVeG5pSTNCOWVWMU02ZEJ1b1NSUlZOcW00RU5LR2pWWkwwUnF1UHBpUVNDRnBld3RZZk5qbE0tYWJjMVhwMnQ5NzJfZnU0S3JHTTYzZkxwYThVdTRQTQ?oc=5",
+      "title": "Why ExxonMobil (XOM) Shares Are Falling Today - StockStory",
+      "body": "Why ExxonMobil (XOM) Shares Are Falling Today StockStory",
+      "author": null,
+      "language": "en",
+      "ticker": "XOM",
+      "tickers_hint": [
+        "XOM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stockstory",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "StockStory",
+        "source_domain": "stockstory.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.401,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

@@ -2,65 +2,61 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "91d94271-4bef-5f58-8e3b-530a69358f68",
-      "timestamp_utc": "2026-04-02T20:37:30+00:00",
-      "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8769041/nke-downgraded-by-goldman-sachs-target-price-lowered-to-52-nke-stock-news",
-      "title": "NKE Downgraded by Goldman Sachs, Target Price Lowered to $52 | N - GuruFocus",
-      "body": "NKE Downgraded by Goldman Sachs, Target Price Lowered to $52 | N GuruFocus",
+      "id": "2fb0aadf-20a2-52cc-b857-618f2dc8945f",
+      "timestamp_utc": "2026-04-08T08:47:00+00:00",
+      "source": "the_street",
+      "url": "https://www.thestreet.com/investing/stocks/down-76-from-all-time-highs-nike-nke-stock-offers-a-dividend-yield-of-4",
+      "title": "Down 76% from highs, Nike stock offers a dividend yield of about 4% | NKE - thestreet.com",
+      "body": "Down 76% from highs, Nike stock offers a dividend yield of about 4% | NKE thestreet.com",
       "author": null,
       "language": "en",
       "ticker": "NKE",
       "tickers_hint": [
         "NKE"
       ],
-      "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
+      "source_quality": "high",
+      "publisher_raw": "thestreet.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "thestreet.com",
+        "source_domain": "thestreet.com",
         "event_origin": "news",
-        "query_tickers": [
-          "NKE"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.6975,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "91d94271-4bef-5f58-8e3b-530a69358f68",
-      "timestamp_utc": "2026-04-02T20:37:30+00:00",
-      "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8769041/nke-downgraded-by-goldman-sachs-target-price-lowered-to-52-nke-stock-news",
-      "title": "NKE Downgraded by Goldman Sachs, Target Price Lowered to $52 | N - GuruFocus",
-      "body": "NKE Downgraded by Goldman Sachs, Target Price Lowered to $52 | N GuruFocus",
+      "id": "2fb0aadf-20a2-52cc-b857-618f2dc8945f",
+      "timestamp_utc": "2026-04-08T08:47:00+00:00",
+      "source": "the_street",
+      "url": "https://www.thestreet.com/investing/stocks/down-76-from-all-time-highs-nike-nke-stock-offers-a-dividend-yield-of-4",
+      "title": "Down 76% from highs, Nike stock offers a dividend yield of about 4% | NKE - thestreet.com",
+      "body": "Down 76% from highs, Nike stock offers a dividend yield of about 4% | NKE thestreet.com",
       "author": null,
       "language": "en",
       "ticker": "NKE",
       "tickers_hint": [
         "NKE"
       ],
-      "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
+      "source_quality": "high",
+      "publisher_raw": "thestreet.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "thestreet.com",
+        "source_domain": "thestreet.com",
         "event_origin": "news",
-        "query_tickers": [
-          "NKE"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.6975,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

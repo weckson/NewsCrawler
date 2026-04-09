@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "5109f923-69d9-533a-b9ae-5e13c54406fd",
-      "timestamp_utc": "2026-04-01T10:31:19+00:00",
-      "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8765720/allegion-alle-analyst-rating-update-barclays-lowers-price-target-alle-stock-news",
-      "title": "Allegion (ALLE) Analyst Rating Update: Barclays Lowers Price Tar - GuruFocus",
-      "body": "Allegion (ALLE) Analyst Rating Update: Barclays Lowers Price Tar GuruFocus",
+      "id": "9e8f48da-f30a-5d7b-ae10-7bb24817fb3b",
+      "timestamp_utc": "2026-04-07T23:40:01+00:00",
+      "source": "stock_traders_daily",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOW12eWZoajVtLWtwTTBqTVpCM19scUJSUWF1VzlRX2hVSmt6WVRsaFU2UmVTbHRfVVcyZWQtSFNDWjJRUEtERzJsT2pPN3VDM0ZaVU9RdEJndzFqQUpKQXh5UkMxVU5OdFpUcE9HLTFvYnlrcTBfSUVRWEptNDFoVF9jUVlXUFVQc1dMT2FUOERyTk94Wk85YW5yZkZrYVlrYjdhVzJXN3dFLXNkeGJWM0o5akl3S3hpalo2dlE2VjZ2NVVFdTlrMTBKVQ?oc=5",
+      "title": "(ALLE) Price Dynamics and Execution-Aware Positioning - Stock Traders Daily",
+      "body": "(ALLE) Price Dynamics and Execution-Aware Positioning Stock Traders Daily",
       "author": null,
       "language": "en",
       "ticker": "ALLE",
@@ -15,121 +15,29 @@
         "ALLE"
       ],
       "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
+      "publisher_raw": "stock traders daily",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.7000000000000001,
+        "source_name": "Stock Traders Daily",
+        "source_domain": "stocktradersdaily.com",
         "event_origin": "news",
-        "query_tickers": [
-          "ALLE"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "cb607d3e-1254-5188-b824-f31b7fbb78f4",
-      "timestamp_utc": "2026-04-01T08:24:08+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/barclays-issues-pessimistic-forecast-for-allegion-nysealle-stock-price-2026-04-01/",
-      "title": "Barclays Issues Pessimistic Forecast for Allegion (NYSE:ALLE) Stock Price - MarketBeat",
-      "body": "Barclays Issues Pessimistic Forecast for Allegion (NYSE:ALLE) Stock Price MarketBeat",
-      "author": null,
-      "language": "en",
-      "ticker": "ALLE",
-      "tickers_hint": [
-        "ALLE"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "ALLE"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "d632841a-0f24-5dcc-a65d-97de12e51a51",
-      "timestamp_utc": "2026-04-01T07:36:02+00:00",
-      "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8765560/alle-wells-fargo-lowers-price-target-to-155-alle-stock-news",
-      "title": "ALLE: Wells Fargo Lowers Price Target to $155 | ALLE Stock News - GuruFocus",
-      "body": "ALLE: Wells Fargo Lowers Price Target to $155 | ALLE Stock News GuruFocus",
-      "author": null,
-      "language": "en",
-      "ticker": "ALLE",
-      "tickers_hint": [
-        "ALLE"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "ALLE"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "a3487e63-0b5d-5fbf-aca1-d2907d367305",
-      "timestamp_utc": "2026-04-01T13:17:10+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wOGF6VHV0and2YUpHX2RPVEVUbDJpSWlaSFhYQ1dBNHBYU3dtMWxGSjlvTHRLcEloeG12bkpidmNBUEg5MzZManZQWVA0THFDVGM4aE1hT2EzeWVXM0UyVXBqcm5tQQ?oc=5",
-      "title": "ALLE SEC Filings - Allegion Plc 10-K, 10-Q, 8-K Forms - Stock Titan",
-      "body": "ALLE SEC Filings - Allegion Plc 10-K, 10-Q, 8-K Forms Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "ALLE",
-      "tickers_hint": [
-        "ALLE"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "ALLE"
-        ],
-        "alt_sources": [
-          "Stock Titan"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.39,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "5109f923-69d9-533a-b9ae-5e13c54406fd",
-      "timestamp_utc": "2026-04-01T10:31:19+00:00",
-      "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8765720/allegion-alle-analyst-rating-update-barclays-lowers-price-target-alle-stock-news",
-      "title": "Allegion (ALLE) Analyst Rating Update: Barclays Lowers Price Tar - GuruFocus",
-      "body": "Allegion (ALLE) Analyst Rating Update: Barclays Lowers Price Tar GuruFocus",
+      "id": "9e8f48da-f30a-5d7b-ae10-7bb24817fb3b",
+      "timestamp_utc": "2026-04-07T23:40:01+00:00",
+      "source": "stock_traders_daily",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOW12eWZoajVtLWtwTTBqTVpCM19scUJSUWF1VzlRX2hVSmt6WVRsaFU2UmVTbHRfVVcyZWQtSFNDWjJRUEtERzJsT2pPN3VDM0ZaVU9RdEJndzFqQUpKQXh5UkMxVU5OdFpUcE9HLTFvYnlrcTBfSUVRWEptNDFoVF9jUVlXUFVQc1dMT2FUOERyTk94Wk85YW5yZkZrYVlrYjdhVzJXN3dFLXNkeGJWM0o5akl3S3hpalo2dlE2VjZ2NVVFdTlrMTBKVQ?oc=5",
+      "title": "(ALLE) Price Dynamics and Execution-Aware Positioning - Stock Traders Daily",
+      "body": "(ALLE) Price Dynamics and Execution-Aware Positioning Stock Traders Daily",
       "author": null,
       "language": "en",
       "ticker": "ALLE",
@@ -137,110 +45,18 @@
         "ALLE"
       ],
       "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
+      "publisher_raw": "stock traders daily",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.7000000000000001,
+        "source_name": "Stock Traders Daily",
+        "source_domain": "stocktradersdaily.com",
         "event_origin": "news",
-        "query_tickers": [
-          "ALLE"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "cb607d3e-1254-5188-b824-f31b7fbb78f4",
-      "timestamp_utc": "2026-04-01T08:24:08+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/barclays-issues-pessimistic-forecast-for-allegion-nysealle-stock-price-2026-04-01/",
-      "title": "Barclays Issues Pessimistic Forecast for Allegion (NYSE:ALLE) Stock Price - MarketBeat",
-      "body": "Barclays Issues Pessimistic Forecast for Allegion (NYSE:ALLE) Stock Price MarketBeat",
-      "author": null,
-      "language": "en",
-      "ticker": "ALLE",
-      "tickers_hint": [
-        "ALLE"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "ALLE"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "d632841a-0f24-5dcc-a65d-97de12e51a51",
-      "timestamp_utc": "2026-04-01T07:36:02+00:00",
-      "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8765560/alle-wells-fargo-lowers-price-target-to-155-alle-stock-news",
-      "title": "ALLE: Wells Fargo Lowers Price Target to $155 | ALLE Stock News - GuruFocus",
-      "body": "ALLE: Wells Fargo Lowers Price Target to $155 | ALLE Stock News GuruFocus",
-      "author": null,
-      "language": "en",
-      "ticker": "ALLE",
-      "tickers_hint": [
-        "ALLE"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "ALLE"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "a3487e63-0b5d-5fbf-aca1-d2907d367305",
-      "timestamp_utc": "2026-04-01T13:17:10+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wOGF6VHV0and2YUpHX2RPVEVUbDJpSWlaSFhYQ1dBNHBYU3dtMWxGSjlvTHRLcEloeG12bkpidmNBUEg5MzZManZQWVA0THFDVGM4aE1hT2EzeWVXM0UyVXBqcm5tQQ?oc=5",
-      "title": "ALLE SEC Filings - Allegion Plc 10-K, 10-Q, 8-K Forms - Stock Titan",
-      "body": "ALLE SEC Filings - Allegion Plc 10-K, 10-Q, 8-K Forms Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "ALLE",
-      "tickers_hint": [
-        "ALLE"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "ALLE"
-        ],
-        "alt_sources": [
-          "Stock Titan"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.39,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

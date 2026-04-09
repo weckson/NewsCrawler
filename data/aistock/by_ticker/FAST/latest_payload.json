@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "2c55f003-f039-5d88-837e-48033c91a7f5",
-      "timestamp_utc": "2026-03-31T23:50:49+00:00",
-      "source": "tipranks",
-      "url": "https://www.tipranks.com/news/catalyst/why-sasols-hot-stock-rally-is-cooling-fast",
-      "title": "Why Sasol’s Hot Stock Rally Is Cooling Fast - TipRanks",
-      "body": "Why Sasol’s Hot Stock Rally Is Cooling Fast TipRanks",
+      "id": "1fcee29e-be55-5484-8d30-5666920e26e2",
+      "timestamp_utc": "2026-04-09T02:01:00+00:00",
+      "source": "barrons",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdWdwd0dQTTZkQXhCdDVDR0NMZlFfNmJNTzhtV2pBVXIyOTNISzlDZEt0SUxfc2h0WWJFUThiZnJtcl91OFVfV2xVeTlIU1VraXpqSFpmNWtMN3pHcjZKVVpFaUdacEF1cjM2SGNFbDc2dVJKVFM3MHk0TllySmQ1YVV1YUo4QQ?oc=5",
+      "title": "Buy Canadian Pacific Stock. It’s Headed to the Fast Track. - Barron's",
+      "body": "Buy Canadian Pacific Stock. It’s Headed to the Fast Track. Barron's",
       "author": null,
       "language": "en",
       "ticker": "FAST",
@@ -15,147 +15,59 @@
         "FAST"
       ],
       "source_quality": "high",
-      "publisher_raw": "tipranks.com",
+      "publisher_raw": "barrons.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "TipRanks",
-        "source_domain": "tipranks.com",
-        "trust_tier": 3,
-        "relevance": 0.55,
+        "source_name": "Barron's",
+        "source_domain": "barrons.com",
         "event_origin": "news",
-        "query_tickers": [
-          "FAST"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "b310e50d-b550-5ddb-a656-fd54a634e0e8",
-      "timestamp_utc": "2026-04-01T08:20:00+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTWdBeUp2TDRyQ2d6aHdYdUNTN1pOa2k1ZlVmT29MR3hWMW1xM2ZyaTRHV0x4RE5WMUIzOGpkTE9xSkN1dXBjUENHRWV4LVBxQklLeWswWHJMRG9oX2FyaTFiTkx4TFN6YU9ZRUU2Z3JyQXlyQnJ3NFBJUzBlSC1oWTV4NGpXaXlHS2M0U1RVMlhlbkxEMzFUNFZYY1BycXc2bm9JUkpTOENqeVBNZklSeWhSY2pOZWxSYjk4eA?oc=5",
-      "title": "Fast Company ranks cancer-device maker RenovoRx No. 10 for innovation - Stock Titan",
-      "body": "Fast Company ranks cancer-device maker RenovoRx No. 10 for innovation Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "FAST",
-      "tickers_hint": [
-        "FAST"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
         "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "FAST"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.66,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "8706915e-c73a-501e-9fcd-6a676ec1d6fd",
-      "timestamp_utc": "2026-03-31T09:08:11+00:00",
-      "source": "travel_and_tour_world",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxORlVKQ1pmWTNwOGVSS3hFSWlPZHJGYVJNRExZR0FyNW9nMklZMXhsdHItaXE0eFZUMF9mbElqSUhiWndrdjFzd2MzdG9qQXJwRmQ2SjkyVl9NRDFyM0o5OFltY1kzZm1CSEN4TjA4YmFhZHJSb0dlejVYdFhMRFpQcmpCR0hUTWZ3ZS12X01rTndESE03WWpYX3AycWRLd0lBV0hIUDlhSWhMTkZ0WkViMzM5NlhKM0ROR0d0Qms1WmdnM29pVVVFSmFVN2ZiSHBya3RWWFlNbE1iUldMLXhxek1ueW5hTVljQVNVZndJQ21lMVc3Rnl4a1lDMEJoXzl0Q3lvazI2NE9yRGozUVZzaG9kcDl6V1JXY2lxU180Rkx3TlNOX1RldTMwcXVRY3FheVQ1aC02SlhzcFVJUzg4RVlTYnZ1QVFRc0htOFQ0aw?oc=5",
-      "title": "Marriott Joins Hyatt, Hilton, Wyndham, Accor and More Luxury Hotels Making Investment Fast track as Stock Prices Soaring High, Will Market Boost as US Willing to End Long Drawn Iran War - Travel And Tour World",
-      "body": "Marriott Joins Hyatt, Hilton, Wyndham, Accor and More Luxury Hotels Making Investment Fast track as Stock Prices Soaring High, Will Market Boost as US Willing to End Long Drawn Iran War Travel And Tour World",
+      "id": "ff05a0c2-7ecd-5f46-aa0b-0a73519b0b3f",
+      "timestamp_utc": "2026-04-08T22:41:04+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XTHJfREZjd1VXWm1zYy11SDJLVU9BOFFlSmY5NXFPZGx3UXItVElMSHB3OC1zOVp1NDgwTjdUalIwVWRPU0JhUnJXVWptU0luei1FYjktd3hQakFFREZQOXpvTDh0WHQyQ2xoSk1tUDhfdzQ?oc=5",
+      "title": "Fast Greeks. Smart Spreads. Managing Risk from LEAPS to 0DTE - Benzinga",
+      "body": "Fast Greeks. Smart Spreads. Managing Risk from LEAPS to 0DTE Benzinga",
       "author": null,
       "language": "en",
       "ticker": "FAST",
       "tickers_hint": [
         "FAST"
       ],
-      "source_quality": "low",
-      "publisher_raw": "travel and tour world",
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Travel And Tour World",
-        "source_domain": "travelandtourworld.com",
-        "trust_tier": 1,
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
         "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "FAST"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "c9417e02-4e81-5619-9a93-29f4cf888553",
-      "timestamp_utc": "2026-03-31T05:30:05+00:00",
-      "source": "fast_company",
-      "url": "https://www.fastcompany.com/91519209/oracle-mass-layoffs-today-employees-shocked-sudden-job-cuts",
-      "title": "Oracle layoffs: Stock price rises as sudden job cuts shock employees - Fast Company",
-      "body": "Oracle layoffs: Stock price rises as sudden job cuts shock employees Fast Company",
-      "author": null,
-      "language": "en",
-      "ticker": "FAST",
-      "tickers_hint": [
-        "FAST"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "fast company",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Fast Company",
-        "source_domain": "fastcompany.com",
-        "trust_tier": 1,
-        "relevance": 0.2,
-        "event_origin": "news",
-        "query_tickers": [
-          "FAST"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "9a516229-82cc-535c-9488-1f34778a153e",
-      "timestamp_utc": "2026-03-31T06:37:40+00:00",
-      "source": "fast_company",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORWMxRkxTUnBIUjNPbnltUlI2eGFoVHRJVnBod2JMc0ZrZkFCUTUzd0E2YzI4UjlhV3lrQ21vVTQ0bDhkcmtzSzlsRHZuV3hRRXVEeDhxSE8tM1hWMHladDNYeUNTVk9NQ3NBSWJrYVBPMWJUOUxUYVRnN3h2YlJuWjRPLVhMM3JYXzRQZzB6XzR6aFBBU21SaUxYaTZ4QktwWVI4?oc=5",
-      "title": "What happened to Allbirds? - Fast Company",
-      "body": "What happened to Allbirds? Fast Company",
-      "author": null,
-      "language": "en",
-      "ticker": "FAST",
-      "tickers_hint": [
-        "FAST"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "fast company",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Fast Company",
-        "source_domain": "fastcompany.com",
-        "trust_tier": 1,
-        "relevance": 0.15000000000000002,
-        "event_origin": "news",
-        "query_tickers": [
-          "FAST"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.65,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "2c55f003-f039-5d88-837e-48033c91a7f5",
-      "timestamp_utc": "2026-03-31T23:50:49+00:00",
-      "source": "tipranks",
-      "url": "https://www.tipranks.com/news/catalyst/why-sasols-hot-stock-rally-is-cooling-fast",
-      "title": "Why Sasol’s Hot Stock Rally Is Cooling Fast - TipRanks",
-      "body": "Why Sasol’s Hot Stock Rally Is Cooling Fast TipRanks",
+      "id": "1fcee29e-be55-5484-8d30-5666920e26e2",
+      "timestamp_utc": "2026-04-09T02:01:00+00:00",
+      "source": "barrons",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdWdwd0dQTTZkQXhCdDVDR0NMZlFfNmJNTzhtV2pBVXIyOTNISzlDZEt0SUxfc2h0WWJFUThiZnJtcl91OFVfV2xVeTlIU1VraXpqSFpmNWtMN3pHcjZKVVpFaUdacEF1cjM2SGNFbDc2dVJKVFM3MHk0TllySmQ1YVV1YUo4QQ?oc=5",
+      "title": "Buy Canadian Pacific Stock. It’s Headed to the Fast Track. - Barron's",
+      "body": "Buy Canadian Pacific Stock. It’s Headed to the Fast Track. Barron's",
       "author": null,
       "language": "en",
       "ticker": "FAST",
@@ -163,136 +75,48 @@
         "FAST"
       ],
       "source_quality": "high",
-      "publisher_raw": "tipranks.com",
+      "publisher_raw": "barrons.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "TipRanks",
-        "source_domain": "tipranks.com",
-        "trust_tier": 3,
-        "relevance": 0.55,
+        "source_name": "Barron's",
+        "source_domain": "barrons.com",
         "event_origin": "news",
-        "query_tickers": [
-          "FAST"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "b310e50d-b550-5ddb-a656-fd54a634e0e8",
-      "timestamp_utc": "2026-04-01T08:20:00+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTWdBeUp2TDRyQ2d6aHdYdUNTN1pOa2k1ZlVmT29MR3hWMW1xM2ZyaTRHV0x4RE5WMUIzOGpkTE9xSkN1dXBjUENHRWV4LVBxQklLeWswWHJMRG9oX2FyaTFiTkx4TFN6YU9ZRUU2Z3JyQXlyQnJ3NFBJUzBlSC1oWTV4NGpXaXlHS2M0U1RVMlhlbkxEMzFUNFZYY1BycXc2bm9JUkpTOENqeVBNZklSeWhSY2pOZWxSYjk4eA?oc=5",
-      "title": "Fast Company ranks cancer-device maker RenovoRx No. 10 for innovation - Stock Titan",
-      "body": "Fast Company ranks cancer-device maker RenovoRx No. 10 for innovation Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "FAST",
-      "tickers_hint": [
-        "FAST"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
         "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "FAST"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.66,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "8706915e-c73a-501e-9fcd-6a676ec1d6fd",
-      "timestamp_utc": "2026-03-31T09:08:11+00:00",
-      "source": "travel_and_tour_world",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxORlVKQ1pmWTNwOGVSS3hFSWlPZHJGYVJNRExZR0FyNW9nMklZMXhsdHItaXE0eFZUMF9mbElqSUhiWndrdjFzd2MzdG9qQXJwRmQ2SjkyVl9NRDFyM0o5OFltY1kzZm1CSEN4TjA4YmFhZHJSb0dlejVYdFhMRFpQcmpCR0hUTWZ3ZS12X01rTndESE03WWpYX3AycWRLd0lBV0hIUDlhSWhMTkZ0WkViMzM5NlhKM0ROR0d0Qms1WmdnM29pVVVFSmFVN2ZiSHBya3RWWFlNbE1iUldMLXhxek1ueW5hTVljQVNVZndJQ21lMVc3Rnl4a1lDMEJoXzl0Q3lvazI2NE9yRGozUVZzaG9kcDl6V1JXY2lxU180Rkx3TlNOX1RldTMwcXVRY3FheVQ1aC02SlhzcFVJUzg4RVlTYnZ1QVFRc0htOFQ0aw?oc=5",
-      "title": "Marriott Joins Hyatt, Hilton, Wyndham, Accor and More Luxury Hotels Making Investment Fast track as Stock Prices Soaring High, Will Market Boost as US Willing to End Long Drawn Iran War - Travel And Tour World",
-      "body": "Marriott Joins Hyatt, Hilton, Wyndham, Accor and More Luxury Hotels Making Investment Fast track as Stock Prices Soaring High, Will Market Boost as US Willing to End Long Drawn Iran War Travel And Tour World",
+      "id": "ff05a0c2-7ecd-5f46-aa0b-0a73519b0b3f",
+      "timestamp_utc": "2026-04-08T22:41:04+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XTHJfREZjd1VXWm1zYy11SDJLVU9BOFFlSmY5NXFPZGx3UXItVElMSHB3OC1zOVp1NDgwTjdUalIwVWRPU0JhUnJXVWptU0luei1FYjktd3hQakFFREZQOXpvTDh0WHQyQ2xoSk1tUDhfdzQ?oc=5",
+      "title": "Fast Greeks. Smart Spreads. Managing Risk from LEAPS to 0DTE - Benzinga",
+      "body": "Fast Greeks. Smart Spreads. Managing Risk from LEAPS to 0DTE Benzinga",
       "author": null,
       "language": "en",
       "ticker": "FAST",
       "tickers_hint": [
         "FAST"
       ],
-      "source_quality": "low",
-      "publisher_raw": "travel and tour world",
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Travel And Tour World",
-        "source_domain": "travelandtourworld.com",
-        "trust_tier": 1,
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
         "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "FAST"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "c9417e02-4e81-5619-9a93-29f4cf888553",
-      "timestamp_utc": "2026-03-31T05:30:05+00:00",
-      "source": "fast_company",
-      "url": "https://www.fastcompany.com/91519209/oracle-mass-layoffs-today-employees-shocked-sudden-job-cuts",
-      "title": "Oracle layoffs: Stock price rises as sudden job cuts shock employees - Fast Company",
-      "body": "Oracle layoffs: Stock price rises as sudden job cuts shock employees Fast Company",
-      "author": null,
-      "language": "en",
-      "ticker": "FAST",
-      "tickers_hint": [
-        "FAST"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "fast company",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Fast Company",
-        "source_domain": "fastcompany.com",
-        "trust_tier": 1,
-        "relevance": 0.2,
-        "event_origin": "news",
-        "query_tickers": [
-          "FAST"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "9a516229-82cc-535c-9488-1f34778a153e",
-      "timestamp_utc": "2026-03-31T06:37:40+00:00",
-      "source": "fast_company",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORWMxRkxTUnBIUjNPbnltUlI2eGFoVHRJVnBod2JMc0ZrZkFCUTUzd0E2YzI4UjlhV3lrQ21vVTQ0bDhkcmtzSzlsRHZuV3hRRXVEeDhxSE8tM1hWMHladDNYeUNTVk9NQ3NBSWJrYVBPMWJUOUxUYVRnN3h2YlJuWjRPLVhMM3JYXzRQZzB6XzR6aFBBU21SaUxYaTZ4QktwWVI4?oc=5",
-      "title": "What happened to Allbirds? - Fast Company",
-      "body": "What happened to Allbirds? Fast Company",
-      "author": null,
-      "language": "en",
-      "ticker": "FAST",
-      "tickers_hint": [
-        "FAST"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "fast company",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Fast Company",
-        "source_domain": "fastcompany.com",
-        "trust_tier": 1,
-        "relevance": 0.15000000000000002,
-        "event_origin": "news",
-        "query_tickers": [
-          "FAST"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.65,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
     }
   ]
 }

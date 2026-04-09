@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "507a7fb6-19e1-5779-8470-3d20af6d2b35",
-      "timestamp_utc": "2026-04-01T08:47:12+00:00",
-      "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8765626/wells-fargo-lowers-price-target-for-parker-hannifin-ph-to-980-ph-stock-news?mobile=true",
-      "title": "Wells Fargo Lowers Price Target for Parker Hannifin (PH) to $980 - GuruFocus",
-      "body": "Wells Fargo Lowers Price Target for Parker Hannifin (PH) to $980 GuruFocus",
+      "id": "7844b4e5-b0b2-5634-b001-3dd6a3a484eb",
+      "timestamp_utc": "2026-04-09T00:40:05+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/will-parker-hannifin-ph-beat-estimates-again-in-its-next-earnings-report/ar-AA20mgyF?ocid=finance-verthp-feeds&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "title": "Will Parker-Hannifin (PH) beat estimates again in its next earnings report? - MSN",
+      "body": "Will Parker-Hannifin (PH) beat estimates again in its next earnings report? MSN",
       "author": null,
       "language": "en",
       "ticker": "PH",
@@ -15,31 +15,56 @@
         "PH"
       ],
       "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
+      "publisher_raw": "msn",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "MSN",
+        "source_domain": "msn.com",
         "event_origin": "news",
-        "query_tickers": [
-          "PH"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.485,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "0b35ec30-4af7-5606-a35a-7a85a5512fca",
+      "timestamp_utc": "2026-04-07T23:28:20+00:00",
+      "source": "gma_network",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcXRzZWR0ZW1wMkpVMHI1VF9QRWxsaG1ZNU9uYy1fM0FhNjVnZGlpXzVNdnVvZkNfODhuV3d5UlA2UnlBLTU5bnplUTBzZmFlQzRXMU5ETzBXTTlON0tXSi1SMklQb2xpOHN0cG40S3drTm1MQTJyYXg5dkhPamZ1TUNSZ3k1QmNVNVV1dHo4OUZPWFdrS3BXUUlLNDlobnlyZnI5a01GVWZqSnB3aWd1UG9QNEtXeWZMNUNjVFN4bGpMUdIBxwFBVV95cUxQRmdYRkhqcG1UZ1BsZmRFWS1DVTUtRmxjQ0lWWUlxbTh4c1hhSG8yMDRhMVlZSmRhS1VxSGdjdnVYYXpieTZ0Z2ZBbjI4cnR4UzFqNjNTN25PRUI5RHJSQkZPWkNIRlNpdEhtc0QteXZzdHFJYWd4U3JUUXR1UklscEthSXV5MTJFR2dSZkVWNWloVEZldGE4bzZxZVprSG90UWcxQWk1R1NSYjN3OF9EZWJDLTlHU3BqV0ZIOXEtRDBlRTVRd0pB?oc=5",
+      "title": "PH stocks jump, peso strengthens to P59.43:$1 on US-Iran ceasefire - GMA Network",
+      "body": "PH stocks jump, peso strengthens to P59.43:$1 on US-Iran ceasefire GMA Network",
+      "author": null,
+      "language": "en",
+      "ticker": "PH",
+      "tickers_hint": [
+        "PH"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gma network",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "GMA Network",
+        "source_domain": "gmanetwork.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.435,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "507a7fb6-19e1-5779-8470-3d20af6d2b35",
-      "timestamp_utc": "2026-04-01T08:47:12+00:00",
-      "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8765626/wells-fargo-lowers-price-target-for-parker-hannifin-ph-to-980-ph-stock-news?mobile=true",
-      "title": "Wells Fargo Lowers Price Target for Parker Hannifin (PH) to $980 - GuruFocus",
-      "body": "Wells Fargo Lowers Price Target for Parker Hannifin (PH) to $980 GuruFocus",
+      "id": "7844b4e5-b0b2-5634-b001-3dd6a3a484eb",
+      "timestamp_utc": "2026-04-09T00:40:05+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/will-parker-hannifin-ph-beat-estimates-again-in-its-next-earnings-report/ar-AA20mgyF?ocid=finance-verthp-feeds&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "title": "Will Parker-Hannifin (PH) beat estimates again in its next earnings report? - MSN",
+      "body": "Will Parker-Hannifin (PH) beat estimates again in its next earnings report? MSN",
       "author": null,
       "language": "en",
       "ticker": "PH",
@@ -47,20 +72,45 @@
         "PH"
       ],
       "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
+      "publisher_raw": "msn",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "MSN",
+        "source_domain": "msn.com",
         "event_origin": "news",
-        "query_tickers": [
-          "PH"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.485,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "0b35ec30-4af7-5606-a35a-7a85a5512fca",
+      "timestamp_utc": "2026-04-07T23:28:20+00:00",
+      "source": "gma_network",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcXRzZWR0ZW1wMkpVMHI1VF9QRWxsaG1ZNU9uYy1fM0FhNjVnZGlpXzVNdnVvZkNfODhuV3d5UlA2UnlBLTU5bnplUTBzZmFlQzRXMU5ETzBXTTlON0tXSi1SMklQb2xpOHN0cG40S3drTm1MQTJyYXg5dkhPamZ1TUNSZ3k1QmNVNVV1dHo4OUZPWFdrS3BXUUlLNDlobnlyZnI5a01GVWZqSnB3aWd1UG9QNEtXeWZMNUNjVFN4bGpMUdIBxwFBVV95cUxQRmdYRkhqcG1UZ1BsZmRFWS1DVTUtRmxjQ0lWWUlxbTh4c1hhSG8yMDRhMVlZSmRhS1VxSGdjdnVYYXpieTZ0Z2ZBbjI4cnR4UzFqNjNTN25PRUI5RHJSQkZPWkNIRlNpdEhtc0QteXZzdHFJYWd4U3JUUXR1UklscEthSXV5MTJFR2dSZkVWNWloVEZldGE4bzZxZVprSG90UWcxQWk1R1NSYjN3OF9EZWJDLTlHU3BqV0ZIOXEtRDBlRTVRd0pB?oc=5",
+      "title": "PH stocks jump, peso strengthens to P59.43:$1 on US-Iran ceasefire - GMA Network",
+      "body": "PH stocks jump, peso strengthens to P59.43:$1 on US-Iran ceasefire GMA Network",
+      "author": null,
+      "language": "en",
+      "ticker": "PH",
+      "tickers_hint": [
+        "PH"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gma network",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "GMA Network",
+        "source_domain": "gmanetwork.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.435,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

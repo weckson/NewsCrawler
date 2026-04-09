@@ -2,12 +2,95 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "50131142-1756-5e24-8d95-f5fb88a65f64",
-      "timestamp_utc": "2026-04-03T12:36:22+00:00",
-      "source": "coincentral",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWlV4X2RhMjFVVnhMQlFDaUxaWU1QWlZXVWM4Z3dNRERKbU9GdU5mWWN5VzM3bV93MnFXYU5mVnpnQmU5UVFRNzNIek9yVWlHZEZyaG8wcEdnblBDNGtoRlQxV2s3dnVtaDdVXy1UUktHaVBiTVh3VkE1bUpRaTI1R3BZX1d3VDhzQkFMZWV2TUM2SWpvREE?oc=5",
-      "title": "SanDisk (SNDK) Stock Drops on Google News — Bernstein Says Buy the Dip - CoinCentral",
-      "body": "SanDisk (SNDK) Stock Drops on Google News — Bernstein Says Buy the Dip CoinCentral",
+      "id": "0b44e792-1102-5dd5-bec4-b8a4356ada36",
+      "timestamp_utc": "2026-04-07T23:23:00+00:00",
+      "source": "stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-stx-wdc-memory-stocks-lead-chip-rebound-after-us-iran-truce/cZJOMWPRIq8",
+      "title": "MU, SNDK, STX, WDC: Memory Stocks Lead Chip Rebound After US-Iran Truce - Stocktwits",
+      "body": "MU, SNDK, STX, WDC: Memory Stocks Lead Chip Rebound After US-Iran Truce Stocktwits",
+      "author": null,
+      "language": "en",
+      "ticker": "SNDK",
+      "tickers_hint": [
+        "SNDK",
+        "STX",
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktwits",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Stocktwits",
+        "source_domain": "stocktwits.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4025,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "338c4a2b-2870-5782-8267-ed104dde000d",
+      "timestamp_utc": "2026-04-09T02:39:39+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/sandisk-stock-sndk-extends-rally-after-hitting-all-time-high",
+      "title": "SanDisk Stock (SNDK) Extends Rally after Hitting All-Time High - TipRanks",
+      "body": "SanDisk Stock (SNDK) Extends Rally after Hitting All-Time High TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "SNDK",
+      "tickers_hint": [
+        "SNDK"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.6875,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "717b3cea-965f-55af-8392-9801fa8ec45c",
+      "timestamp_utc": "2026-04-08T03:53:39+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc2VLSkpaWmF1NUFPVHNLS2Y4eEZIUEdlU2d6M29vREh3Sm13ZTBOSFAyc0lWbV82d1p6SG9OdjNnVDhnekUxaWhPNHFfSWJZd3pNa1lPY0pKTkNRbFRfYVdoY1hUa3B5bkU0cUI1Vnhqel9nWFB5OFdTV3JtTHZfUWVBTkQtYVRnb010eTVCdEJKR3lrUHFmeGZKV19fbDVuWVVYUk1mZTlRRURveDhLeHhtc3pqNHc?oc=5",
+      "title": "Why SanDisk (SNDK) Stock Jumped Today – and Why a Top Investor Still Calls It a ‘Strong Buy’ - TipRanks",
+      "body": "Why SanDisk (SNDK) Stock Jumped Today – and Why a Top Investor Still Calls It a ‘Strong Buy’ TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "SNDK",
+      "tickers_hint": [
+        "SNDK"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.635,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "579e07a8-eddf-5ef1-8bfd-3f00a7514581",
+      "timestamp_utc": "2026-04-08T10:58:55+00:00",
+      "source": "mshale",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10dVhjN1BFeWNKYVVpYS15YzlGcFZ3TGZMbV9TZ1FPRnE2MjFrT1BGdTdnZ25QSXlYU2h3Ynh3SEdWMEp1QVdCUmFjaTkzXzVFRjJkVW9Za21QS3d2ZXFrSmpSaw?oc=5",
+      "title": "SNDK Stock (Sandisk Corporation) SNDK Stock Analysis | March 31, 2026 Main Page (kzepP0swhK) - Mshale",
+      "body": "SNDK Stock (Sandisk Corporation) SNDK Stock Analysis | March 31, 2026 Main Page (kzepP0swhK) Mshale",
       "author": null,
       "language": "en",
       "ticker": "SNDK",
@@ -15,31 +98,112 @@
         "SNDK"
       ],
       "source_quality": "low",
-      "publisher_raw": "coincentral",
+      "publisher_raw": "mshale",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "CoinCentral",
-        "source_domain": "coincentral.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Mshale",
+        "source_domain": "mshale.com",
         "event_origin": "news",
-        "query_tickers": [
-          "SNDK"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.435,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "50131142-1756-5e24-8d95-f5fb88a65f64",
-      "timestamp_utc": "2026-04-03T12:36:22+00:00",
-      "source": "coincentral",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWlV4X2RhMjFVVnhMQlFDaUxaWU1QWlZXVWM4Z3dNRERKbU9GdU5mWWN5VzM3bV93MnFXYU5mVnpnQmU5UVFRNzNIek9yVWlHZEZyaG8wcEdnblBDNGtoRlQxV2s3dnVtaDdVXy1UUktHaVBiTVh3VkE1bUpRaTI1R3BZX1d3VDhzQkFMZWV2TUM2SWpvREE?oc=5",
-      "title": "SanDisk (SNDK) Stock Drops on Google News — Bernstein Says Buy the Dip - CoinCentral",
-      "body": "SanDisk (SNDK) Stock Drops on Google News — Bernstein Says Buy the Dip CoinCentral",
+      "id": "0b44e792-1102-5dd5-bec4-b8a4356ada36",
+      "timestamp_utc": "2026-04-07T23:23:00+00:00",
+      "source": "stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-stx-wdc-memory-stocks-lead-chip-rebound-after-us-iran-truce/cZJOMWPRIq8",
+      "title": "MU, SNDK, STX, WDC: Memory Stocks Lead Chip Rebound After US-Iran Truce - Stocktwits",
+      "body": "MU, SNDK, STX, WDC: Memory Stocks Lead Chip Rebound After US-Iran Truce Stocktwits",
+      "author": null,
+      "language": "en",
+      "ticker": "SNDK",
+      "tickers_hint": [
+        "SNDK",
+        "STX",
+        "WDC"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktwits",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Stocktwits",
+        "source_domain": "stocktwits.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4025,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "338c4a2b-2870-5782-8267-ed104dde000d",
+      "timestamp_utc": "2026-04-09T02:39:39+00:00",
+      "source": "tipranks",
+      "url": "https://www.tipranks.com/news/sandisk-stock-sndk-extends-rally-after-hitting-all-time-high",
+      "title": "SanDisk Stock (SNDK) Extends Rally after Hitting All-Time High - TipRanks",
+      "body": "SanDisk Stock (SNDK) Extends Rally after Hitting All-Time High TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "SNDK",
+      "tickers_hint": [
+        "SNDK"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.6875,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "717b3cea-965f-55af-8392-9801fa8ec45c",
+      "timestamp_utc": "2026-04-08T03:53:39+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc2VLSkpaWmF1NUFPVHNLS2Y4eEZIUEdlU2d6M29vREh3Sm13ZTBOSFAyc0lWbV82d1p6SG9OdjNnVDhnekUxaWhPNHFfSWJZd3pNa1lPY0pKTkNRbFRfYVdoY1hUa3B5bkU0cUI1Vnhqel9nWFB5OFdTV3JtTHZfUWVBTkQtYVRnb010eTVCdEJKR3lrUHFmeGZKV19fbDVuWVVYUk1mZTlRRURveDhLeHhtc3pqNHc?oc=5",
+      "title": "Why SanDisk (SNDK) Stock Jumped Today – and Why a Top Investor Still Calls It a ‘Strong Buy’ - TipRanks",
+      "body": "Why SanDisk (SNDK) Stock Jumped Today – and Why a Top Investor Still Calls It a ‘Strong Buy’ TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "SNDK",
+      "tickers_hint": [
+        "SNDK"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.635,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "579e07a8-eddf-5ef1-8bfd-3f00a7514581",
+      "timestamp_utc": "2026-04-08T10:58:55+00:00",
+      "source": "mshale",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10dVhjN1BFeWNKYVVpYS15YzlGcFZ3TGZMbV9TZ1FPRnE2MjFrT1BGdTdnZ25QSXlYU2h3Ynh3SEdWMEp1QVdCUmFjaTkzXzVFRjJkVW9Za21QS3d2ZXFrSmpSaw?oc=5",
+      "title": "SNDK Stock (Sandisk Corporation) SNDK Stock Analysis | March 31, 2026 Main Page (kzepP0swhK) - Mshale",
+      "body": "SNDK Stock (Sandisk Corporation) SNDK Stock Analysis | March 31, 2026 Main Page (kzepP0swhK) Mshale",
       "author": null,
       "language": "en",
       "ticker": "SNDK",
@@ -47,20 +211,18 @@
         "SNDK"
       ],
       "source_quality": "low",
-      "publisher_raw": "coincentral",
+      "publisher_raw": "mshale",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "CoinCentral",
-        "source_domain": "coincentral.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Mshale",
+        "source_domain": "mshale.com",
         "event_origin": "news",
-        "query_tickers": [
-          "SNDK"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.435,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

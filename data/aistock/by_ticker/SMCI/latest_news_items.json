@@ -1,11 +1,68 @@
 [
   {
-    "id": "ce48aa1b-b55c-575e-bb70-473b143d7752",
-    "timestamp_utc": "2026-04-01T11:45:04+00:00",
+    "id": "0331c94b-6a81-5daa-9a14-d977f82e74c8",
+    "timestamp_utc": "2026-04-07T18:05:35+00:00",
+    "source": "benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUmVlb1lpT19QYWk3bzlrdU1ZUnM5ZEFLdGppbTg0dDFHcWpCU0p1LU1SV3JQTG5ycVJjNVdGMEZqdkx5Ul9hTjZPQUItRmdkNndUcFFabUY5aHlVODM1VUsyZmhJQ1BTYmJnT0dMWUk4dk9MRFJwREdXVC1WckttWWZjZXA1cnlzQXpzTWVjOUMwMUdyRnNqOGxKNjJYeXA4c3g0Ry1sY0JSb1g3ZUVwQ2xtaw?oc=5",
+    "title": "Super Micro Computer (SMCI) Stock Spikes 3.35% Overnight As Company Launches Independent Probe Into Co-Fo - Benzinga",
+    "body": "Super Micro Computer (SMCI) Stock Spikes 3.35% Overnight As Company Launches Independent Probe Into Co-Fo Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "SMCI",
+    "tickers_hint": [
+      "SMCI"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.67,
+      "_channel": "google_benzinga",
+      "_alt_sources": [
+        "Benzinga"
+      ]
+    }
+  },
+  {
+    "id": "42d240f6-4980-5c18-86f9-2909d03a2e04",
+    "timestamp_utc": "2026-04-09T02:23:00+00:00",
+    "source": "globenewswire",
+    "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOUlZiNEx6Z2dIRDV0RWJfdXphUFRMeV9HT2FXWk82aXo0SFh4QVlqRlcyVG1lMl80elZVQkxOMmRDTTJFNW1fQWdudUZmNF85YjNBdFpTSVhuWnJlVjg5eUlqSU5sd01sOEF0UzF2UnZyaUNnZDhCb2pROXhCUWRQclV4YmxJQm5NUk9ORXBZaVdXZEdQSUZybG1YY0tBb3hsdElUekVXM1JBekpIYXdlMlozeDNVVHM4R0xLcnJwVzJDeGhfVGwxaFNJMm5TS3FDajhJb0llNWxjdUlIaURpMjQxUloyNmJxZVlKWUZVN1hOa3dvMV85RUZHQWdtQ1I3eU1DNVh5TGQwQTZPck1zRTlabWYxNXBmcm1ZTVpxR0RoSWg4bkstQWVKYw?oc=5",
+    "title": "SUPER MICRO COMPUTER, INC. (SMCI) DEADLINE ALERT Bernstein - GlobeNewswire",
+    "body": "SUPER MICRO COMPUTER, INC. (SMCI) DEADLINE ALERT Bernstein GlobeNewswire",
+    "author": null,
+    "language": "en",
+    "ticker": "SMCI",
+    "tickers_hint": [
+      "SMCI"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "globenewswire.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "GlobeNewswire",
+      "source_domain": "globenewswire.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.66,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "48d72eff-25f3-505d-b255-874371cccbbd",
+    "timestamp_utc": "2026-04-08T05:14:31+00:00",
     "source": "yahoo_finance",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQelphY0w0YzVRdnlPQXNreUI0WUJLLXYxMHVJSk5jY0RBellSSlF3OGowRUh2M1RKWDZUbGxlaHRuME5zVUhZZjRERDFMQmRwT0ZaSkd3anhPMDBVaFdHdk5RN3VzeEhHMHlEb21wdVBGR0xkLVVlY2t0Qm9LV1BXejJrNHJidlJTS0RCbDMtWkhlaDYwY2p3TU1CUE4?oc=5",
-    "title": "Super Micro Computer (SMCI) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
-    "body": "Super Micro Computer (SMCI) Stock Declines While Market Improves: Some Information for Investors Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-smci-one-most-142331831.html",
+    "title": "Does Super Micro (SMCI) Rank Among the Most Oversold Data Center Stocks to Invest In? - Yahoo Finance",
+    "body": "Does Super Micro (SMCI) Rank Among the Most Oversold Data Center Stocks to Invest In? Yahoo Finance",
     "author": null,
     "language": "en",
     "ticker": "SMCI",
@@ -14,27 +71,25 @@
     ],
     "source_quality": "high",
     "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "Yahoo Finance",
       "source_domain": "finance.yahoo.com",
-      "trust_tier": 3,
-      "relevance": 0.5,
       "event_origin": "news",
-      "query_tickers": [
-        "SMCI"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.6325,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "3b071639-5979-5f5b-9f42-7cbf110a0052",
-    "timestamp_utc": "2026-04-01T06:08:07+00:00",
-    "source": "yahoo_finance",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcjdSSmlDSTRVSDdpLWJ0Z3JrLWRhc2JpNDhhbjY3TmRiT0syc01ROVhUU25CcExfdFU3TG1fSGF0dk5LcVdJRVJnY3IwU0ZBc3NYOHpfSUZPX2RvdkcxdERZTzdmTzJHS3NJZDJQUXhrYlZqdXViNzBxWHpyb0RlV1JRZzd5M1RSbWJIVFYyMUlwX1dXRHZQbmo2Um0wRWx4S2tXQmJLdw?oc=5",
-    "title": "Investors Are Losing Confidence in Super Micro Computer (SMCI) Stock: ‘It’s Uninvestable’ - Yahoo Finance",
-    "body": "Investors Are Losing Confidence in Super Micro Computer (SMCI) Stock: ‘It’s Uninvestable’ Yahoo Finance",
+    "id": "aa845a3d-0691-5e8f-9661-d403bf633ac9",
+    "timestamp_utc": "2026-04-07T21:27:58+00:00",
+    "source": "tipranks",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeUhwZkpZc2RGZ09MdVpTWkhlaFFicGR0TGFOUmhyMnJYZXFxVXBfVmhPbnlpcjAtQU1QRG9Eb01GaEdBV0d1Vy1naE5wTmxYZW1EYlhUSy1TNkFTTkpiYXd1TXpjZzVUOHI2QS0wMU1ublNCaUZGWTJNdlBaRDRVbzF3SlZPMDc2ZGlHV0ZDQXcxbFVOeG5xWXNId25sWUlsMmpnZlMzRlpYeWo0LThsYjhSTWloSUNEV2c?oc=5",
+    "title": "Super Micro Stock (SMCI) Rises on Independent Probe into Co-Founder-Related Smuggling Case - TipRanks",
+    "body": "Super Micro Stock (SMCI) Rises on Independent Probe into Co-Founder-Related Smuggling Case TipRanks",
     "author": null,
     "language": "en",
     "ticker": "SMCI",
@@ -42,77 +97,17 @@
       "SMCI"
     ],
     "source_quality": "high",
-    "publisher_raw": "finance.yahoo.com",
+    "publisher_raw": "tipranks.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance",
-      "source_domain": "finance.yahoo.com",
-      "trust_tier": 3,
-      "relevance": 0.5,
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
       "event_origin": "news",
-      "query_tickers": [
-        "SMCI"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "21c43c38-882b-54c8-a1cc-d9a1c0610e36",
-    "timestamp_utc": "2026-04-01T10:54:28+00:00",
-    "source": "mshale",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HQklqMnFjeEFCNTJwMldlRWN6MTBtS25KNW1NblY5RnNKNW40RjFZZjVxXy1EcHJLZHgza0VrdDNiWEV1am54Q0ZaYkI4Q1p2aVJIUERQaTlBbHllekFEOG1ZMA?oc=5",
-    "title": "SMCI Stock BUYING NOW OR? (crazy, Thank Me Later) Super Micro Computer [45d278] - Mshale",
-    "body": "SMCI Stock BUYING NOW OR? (crazy, Thank Me Later) Super Micro Computer [45d278] Mshale",
-    "author": null,
-    "language": "en",
-    "ticker": "SMCI",
-    "tickers_hint": [
-      "SMCI"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "mshale",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Mshale",
-      "source_domain": "mshale.com",
-      "trust_tier": 1,
       "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "SMCI"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "9616a920-3eec-516a-a525-e842c5f9ee15",
-    "timestamp_utc": "2026-03-31T07:23:43+00:00",
-    "source": "coincentral",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNclc5OTQ5X0lGM1ZUdDRydTgxaTdlRzlRaUhrMk5jaVhxOUFraGdSY1ZTYjRNbVE1MS0xNjR0MWstQ05kYW00d2VjckxPRV9DZHg1OHM5bW5fY0pxRTBmS2JPckpSSHdyZFlkSTRoWXBhN2JKVXNDSkNOOEVfQUdLNk4zdlF0aU12RGhTNFZSdmFMLUthLVVaWERwajg5T2FRNm81TkdWc2RVdVE?oc=5",
-    "title": "Super Micro Computer (SMCI) Stock Drops 65% From Peak - Here's Why Investors Are Leaving - CoinCentral",
-    "body": "Super Micro Computer (SMCI) Stock Drops 65% From Peak - Here's Why Investors Are Leaving CoinCentral",
-    "author": null,
-    "language": "en",
-    "ticker": "SMCI",
-    "tickers_hint": [
-      "SMCI"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "coincentral",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "CoinCentral",
-      "source_domain": "coincentral.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "SMCI"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.615,
+      "_channel": "google_broad"
+    }
   }
 ]

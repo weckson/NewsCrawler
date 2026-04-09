@@ -2,12 +2,101 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "a1b1d5b4-cca2-5120-a8d0-04a20d6549e4",
-      "timestamp_utc": "2026-04-01T10:41:17+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOckVOREFBSTFHTWJLMHVhMEhGemFlQkNyMk9aNlY4eGh5NVFxTnZaYklMMUFwYmw5Xzlkc0JsR2NhYVZ4eXM5ZTMtUGQ2YmpyYXBYWXJnaWtBNWFjdnZKMlFKZC00WVZGT29UVW5uYS1pRGFlRlFDS3NhN3F3UGVac1RWMXlUdlBaU0VBbXk5aFI5bEVQMjB5Y1M2b1M4akty?oc=5",
-      "title": "Palo Alto Networks (NASDAQ: PANW) lists 9,733 PSUs/RSUs and 267 ESPP shares in Form 144 - Stock Titan",
-      "body": "Palo Alto Networks (NASDAQ: PANW) lists 9,733 PSUs/RSUs and 267 ESPP shares in Form 144 Stock Titan",
+      "id": "f35a0870-a445-5d70-a9b9-8336abfddaa9",
+      "timestamp_utc": "2026-04-08T09:10:58+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR2d5SFZBNkR2Q2VUTzNlTjBkcjZ5UmNPUmZpVjFVVTFuY3RNaWFrNW9feWVYOGR0QThGR3hRNm92U2czTVgxLTdaT1hiRGpranJHTDVibGNUcVZIeDBMQ0R2a1J4NDJ4VnY0WDlfM3Z0VTNmUnlKNVhzUTMzS1ZjZGxUelVHZGJVZEQzM3hwRmdzOXVFa0JTdUdySzZhNVcyUE5qc1dEa1FBdXRLWWNhdHcwUC1XZzRORDNLZjJqczUyZ3g2RjJkNTZNSTlDVS00Y0pqYXJYaTRPc2s4?oc=5",
+      "title": "Anthropic Locks Down Claude Mythos Over Hack Risk — What It Means For CRWD, PANW - Benzinga",
+      "body": "Anthropic Locks Down Claude Mythos Over Hack Risk — What It Means For CRWD, PANW Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "CRWD",
+      "tickers_hint": [
+        "CRWD",
+        "PANW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.63,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
+    },
+    {
+      "id": "35f6e126-54a2-576f-9f29-66facfed64e3",
+      "timestamp_utc": "2026-04-08T04:39:48+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM05YZkN2OGMteF9Qd3VLMFdVTXlVT1VLNVkwX2d0NEpob0lXNTExTjlSMFpDM3pKVTgyVGc4THpEY2VEMThXVXM5VnZFUFgtY1FpX1N6YmVfbXBQLVprWGN6UGpKZ1lScGtfY0xkM3pYM09PUTRYTE5vWFh3M01mS2p0TzZlVHlTby1ISDR3UVNReWhpeng5bkVUZlVLUQ?oc=5",
+      "title": "Why Palo Alto (PANW) and CrowdStrike (CRWD) Stocks Are Up Today, 4/8/26 - TipRanks",
+      "body": "Why Palo Alto (PANW) and CrowdStrike (CRWD) Stocks Are Up Today, 4/8/26 TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "CRWD",
+      "tickers_hint": [
+        "CRWD",
+        "PANW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.62,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "89a906c2-516e-555c-ac57-e7471abe5010",
+      "timestamp_utc": "2026-04-07T17:10:38+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeElJRXV1WGprb3ozbWh0ek16QVFmSk85cXpyRUVCdFh3ektYX2tlSTRRMnhyWjB6SEVUR0o5ZzdCQ2V5bzhYbjBFemtaWG5nTE5EOFg2eE04ekpwX2syQUMwcV9yY2dkVmtnclhSdVhyWVdiY0ctWV90VHBSS0hJc29zWW1nbzlwcWFaODIteTNnVWhFSzNiTGlmMEd3eVlya3p1R2VHYzJYNGZDWHB3ZXVzTEJMZERmQzVfZ3NnRVg?oc=5",
+      "title": "Palo Alto (PANW) Stock Is Trending Overnight: Here's What Is Happening - Benzinga",
+      "body": "Palo Alto (PANW) Stock Is Trending Overnight: Here's What Is Happening Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "PANW",
+      "tickers_hint": [
+        "PANW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.61,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
+    },
+    {
+      "id": "0d0bba26-85d3-5f23-993c-2d5ede5c9e60",
+      "timestamp_utc": "2026-04-07T20:59:03+00:00",
+      "source": "ebc_financial_group",
+      "url": "https://www.ebc.com/forex/panw-stock-can-ai-drive-a-higher-multiple-for-palo-alto-in-2026",
+      "title": "PANW Stock: Can AI Drive a Higher Multiple for Palo Alto in 2026? - EBC Financial Group",
+      "body": "PANW Stock: Can AI Drive a Higher Multiple for Palo Alto in 2026? EBC Financial Group",
       "author": null,
       "language": "en",
       "ticker": "PANW",
@@ -15,31 +104,118 @@
         "PANW"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "ebc financial group",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "EBC Financial Group",
+        "source_domain": "ebcfinancialgroup.com",
         "event_origin": "news",
-        "query_tickers": [
-          "PANW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4025,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "a1b1d5b4-cca2-5120-a8d0-04a20d6549e4",
-      "timestamp_utc": "2026-04-01T10:41:17+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOckVOREFBSTFHTWJLMHVhMEhGemFlQkNyMk9aNlY4eGh5NVFxTnZaYklMMUFwYmw5Xzlkc0JsR2NhYVZ4eXM5ZTMtUGQ2YmpyYXBYWXJnaWtBNWFjdnZKMlFKZC00WVZGT29UVW5uYS1pRGFlRlFDS3NhN3F3UGVac1RWMXlUdlBaU0VBbXk5aFI5bEVQMjB5Y1M2b1M4akty?oc=5",
-      "title": "Palo Alto Networks (NASDAQ: PANW) lists 9,733 PSUs/RSUs and 267 ESPP shares in Form 144 - Stock Titan",
-      "body": "Palo Alto Networks (NASDAQ: PANW) lists 9,733 PSUs/RSUs and 267 ESPP shares in Form 144 Stock Titan",
+      "id": "f35a0870-a445-5d70-a9b9-8336abfddaa9",
+      "timestamp_utc": "2026-04-08T09:10:58+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR2d5SFZBNkR2Q2VUTzNlTjBkcjZ5UmNPUmZpVjFVVTFuY3RNaWFrNW9feWVYOGR0QThGR3hRNm92U2czTVgxLTdaT1hiRGpranJHTDVibGNUcVZIeDBMQ0R2a1J4NDJ4VnY0WDlfM3Z0VTNmUnlKNVhzUTMzS1ZjZGxUelVHZGJVZEQzM3hwRmdzOXVFa0JTdUdySzZhNVcyUE5qc1dEa1FBdXRLWWNhdHcwUC1XZzRORDNLZjJqczUyZ3g2RjJkNTZNSTlDVS00Y0pqYXJYaTRPc2s4?oc=5",
+      "title": "Anthropic Locks Down Claude Mythos Over Hack Risk — What It Means For CRWD, PANW - Benzinga",
+      "body": "Anthropic Locks Down Claude Mythos Over Hack Risk — What It Means For CRWD, PANW Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "CRWD",
+      "tickers_hint": [
+        "CRWD",
+        "PANW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.63,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
+    },
+    {
+      "id": "35f6e126-54a2-576f-9f29-66facfed64e3",
+      "timestamp_utc": "2026-04-08T04:39:48+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM05YZkN2OGMteF9Qd3VLMFdVTXlVT1VLNVkwX2d0NEpob0lXNTExTjlSMFpDM3pKVTgyVGc4THpEY2VEMThXVXM5VnZFUFgtY1FpX1N6YmVfbXBQLVprWGN6UGpKZ1lScGtfY0xkM3pYM09PUTRYTE5vWFh3M01mS2p0TzZlVHlTby1ISDR3UVNReWhpeng5bkVUZlVLUQ?oc=5",
+      "title": "Why Palo Alto (PANW) and CrowdStrike (CRWD) Stocks Are Up Today, 4/8/26 - TipRanks",
+      "body": "Why Palo Alto (PANW) and CrowdStrike (CRWD) Stocks Are Up Today, 4/8/26 TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "CRWD",
+      "tickers_hint": [
+        "CRWD",
+        "PANW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.62,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "89a906c2-516e-555c-ac57-e7471abe5010",
+      "timestamp_utc": "2026-04-07T17:10:38+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeElJRXV1WGprb3ozbWh0ek16QVFmSk85cXpyRUVCdFh3ektYX2tlSTRRMnhyWjB6SEVUR0o5ZzdCQ2V5bzhYbjBFemtaWG5nTE5EOFg2eE04ekpwX2syQUMwcV9yY2dkVmtnclhSdVhyWVdiY0ctWV90VHBSS0hJc29zWW1nbzlwcWFaODIteTNnVWhFSzNiTGlmMEd3eVlya3p1R2VHYzJYNGZDWHB3ZXVzTEJMZERmQzVfZ3NnRVg?oc=5",
+      "title": "Palo Alto (PANW) Stock Is Trending Overnight: Here's What Is Happening - Benzinga",
+      "body": "Palo Alto (PANW) Stock Is Trending Overnight: Here's What Is Happening Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "PANW",
+      "tickers_hint": [
+        "PANW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.61,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
+    },
+    {
+      "id": "0d0bba26-85d3-5f23-993c-2d5ede5c9e60",
+      "timestamp_utc": "2026-04-07T20:59:03+00:00",
+      "source": "ebc_financial_group",
+      "url": "https://www.ebc.com/forex/panw-stock-can-ai-drive-a-higher-multiple-for-palo-alto-in-2026",
+      "title": "PANW Stock: Can AI Drive a Higher Multiple for Palo Alto in 2026? - EBC Financial Group",
+      "body": "PANW Stock: Can AI Drive a Higher Multiple for Palo Alto in 2026? EBC Financial Group",
       "author": null,
       "language": "en",
       "ticker": "PANW",
@@ -47,20 +223,18 @@
         "PANW"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "ebc financial group",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "EBC Financial Group",
+        "source_domain": "ebcfinancialgroup.com",
         "event_origin": "news",
-        "query_tickers": [
-          "PANW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4025,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

@@ -2,41 +2,147 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "44acc5e4-67c8-59a9-ae75-d5d62dcc0c5b",
-      "timestamp_utc": "2026-04-03T14:54:56+00:00",
-      "source": "the_globe_and_mail",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/F/pressreleases/1136413/ford-motor-reports-first-quarter-2026-us-vehicle-sales/",
-      "title": "Ford Motor Reports First-Quarter 2026 U.S. Vehicle Sales - The Globe and Mail",
-      "body": "Ford Motor ( (F) ) just unveiled an announcement.\n\nOn April 2, 2026, Ford Motor Co. issued a news release detailing its U.S. vehicle sales performance for the first quarter of 2026, providing an update on how its models and brands fared in the domestic market. The filing of this sales release as part of its official report underscores the importance of quarterly U.S. sales metrics for investors and other stakeholders tracking Ford’s operational momentum and market position.\n\nThe most recent analyst rating on (F) stock is a Sell with a $10.00 price target. To see the full list of analyst forecasts on Ford Motor stock, see the F Stock Forecast page.\n\nAccording to Spark, TipRanks’ AI Analyst, F is a Neutral.\n\nThe score is held down primarily by weaker financial quality (high leverage and volatile profitability despite strong cash flow) and bearish technical momentum (below key moving averages with negative MACD). Partially offsetting these are a high dividend yield and earnings-call guidance that points to improving 2026 EBIT/FCF, though meaningful EV losses, restructuring charges, and back-half execution risks remain.\n\nTo see Spark’s full report on F stock, click here.\n\nFord Motor Co. is a global automotive manufacturer that designs, produces, and sells cars, trucks, and sport-utility vehicles, as well as providing related mobility and financial services. The company focuses primarily on the mass-market and commercial vehicle segments, competing across North America and worldwide in both retail and fleet markets.\n\nLearn more about F stock on TipRanks’ Stock Analysis page.",
+      "id": "b12122bf-19fb-54d9-8ab9-e317af9b104b",
+      "timestamp_utc": "2026-04-08T13:01:10+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/topics/26/04/51721280/ford-ceo-knew-the-ev-transition-would-hurt-but-the-reality-is-a-4-8b-loss-we-cant-allocate-money-for-things-that-will-not-make-money",
+      "title": "Ford CEO Knew the EV Transition Would Hurt, But the Reality Is a $4.8B Loss — 'We Can't Allocate Money Fo - Benzinga",
+      "body": "Ford CEO Knew the EV Transition Would Hurt, But the Reality Is a $4.8B Loss — 'We Can't Allocate Money Fo Benzinga",
       "author": null,
       "language": "en",
       "ticker": "F",
       "tickers_hint": [
         "F"
       ],
-      "source_quality": "medium",
-      "publisher_raw": "theglobeandmail.com",
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "The Globe and Mail",
-        "source_domain": "theglobeandmail.com",
-        "trust_tier": 2,
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.6,
+        "quality_score": 0.72,
+        "_channel": "google_benzinga"
+      }
+    },
+    {
+      "id": "bcaab5f5-18c9-59be-8c9d-52506fd86aeb",
+      "timestamp_utc": "2026-04-07T18:54:32+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWFBSSVowN29aQUdrcElINnktYTJaRTZMbHpLNmMwR3o5RnFXaWNtRllZRlRVa1pmMGZNcVRyUDhzbnZoY3ItTHc5clBhQWNqVDZiNHFjNzZDYzFrcVl2SndJaHEtRXNNeTMyUmh5bkhVODQ2U1c5c0o1T2tmbUh4UkJuekxwNlVsYVRPcG03NHZ1SWZ3eUs4U0dBVkdjRjhKaVBtQzZMVUhXZHRtenJHcklqajdSOXp5TkRlbEg4dXM2RVpubEp6SVUyNXlIRENzbjltZEdRQXI3V3RUYlZGWGRUOA?oc=5",
+      "title": "Trump Rejects Ford Aluminum Tariff Relief Requests Amid Supply Headwinds From Oswego Fire: Report - Benzinga",
+      "body": "Trump Rejects Ford Aluminum Tariff Relief Requests Amid Supply Headwinds From Oswego Fire: Report Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.66,
+        "_channel": "google_benzinga"
+      }
+    },
+    {
+      "id": "874d23cb-dd5a-5c4f-9bcb-f31c923e80db",
+      "timestamp_utc": "2026-04-08T15:32:46+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaUFXMUp5ZGwydVFWTlE2QWhSV0t5b1cwQ3dVc3VpZGYwdVFsUWh4OUNJTkNpeDZnTnl3aElUV2g1ZXNfbUlkRzU1cDFpdFI2MDhPRnh0aks1cmktVkNvdzFULUNHREJ0OFprd3hDZkI2VmpkSHFoalNDVkdBYnVPa0Juc3NMUTRoTGFpcWREalVyRm5PMDNEMjdab1F6WnBLakZYbFlVcjY3cTVYM0hUSUowMU5lU05nZjJnZk1maExZLVh5SnBtZDVTSWZ3S2g2V0V5ZjE2VnhpYVdVOFpPbDQ1OER6Vnp3?oc=5",
+      "title": "Ford, Applied Digital, U Power, Block And Alphabet: Why These 5 Stocks Are On Investors' Radars Today - Benzinga",
+      "body": "Ford, Applied Digital, U Power, Block And Alphabet: Why These 5 Stocks Are On Investors' Radars Today Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.655,
+        "_channel": "google_benzinga"
+      }
+    },
+    {
+      "id": "f495d3ff-d4b3-53a1-9e72-6a33a00d70d6",
+      "timestamp_utc": "2026-04-07T22:31:00+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/eurozone/26/04/51697241/ford-gm-stellantis-accuse-eu-of-blocking-pickup-truck-sales-report",
+      "title": "Legacy Automakers Ford, GM, Stellantis Accuse EU Of Blocking Pickup Truck Sales: Report - Ford Motor (NYS - Benzinga",
+      "body": "Legacy Automakers Ford, GM, Stellantis Accuse EU Of Blocking Pickup Truck Sales: Report - Ford Motor (NYS Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.64,
+        "_channel": "google_benzinga"
+      }
+    },
+    {
+      "id": "e0ca1623-0f14-5c89-8a8a-829675ea61b5",
+      "timestamp_utc": "2026-04-09T00:36:39+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-oak-thistle-llc-invests-147-million-in-ford-motor-company-f-2026-04-09/",
+      "title": "Oak Thistle LLC Invests $1.47 Million in Ford Motor Company $F - MarketBeat",
+      "body": "Oak Thistle LLC Invests $1.47 Million in Ford Motor Company $F MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
         "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "F"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.5175,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "04702eea-1230-55e3-bbc4-8fd0375c2335",
-      "timestamp_utc": "2026-04-03T13:24:44+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MSXh5blJCNHBSdzhTNzJ2bVlKSGgtT1JoRGNoMnJ3RHVlX3l4RjZQSkRYblZGOEI0SVZvWkdGYWtxRG1BTW5wUWtlSVV6cUZETVRVWWZ0UEVZWGs3ZXBxOWFJSmhQY3M?oc=5",
-      "title": "Ford Motor Company (FMC.F) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "body": "Ford Motor Company (FMC.F) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "id": "9fea9b58-b81e-5943-8419-62c508dd995b",
+      "timestamp_utc": "2026-04-08T11:19:53+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/ford-motor-nysef-trading-up-56-heres-what-happened-2026-04-08/",
+      "title": "Ford Motor (NYSE:F) Trading Up 5.6% - Here's What Happened - MarketBeat",
+      "body": "Ford Motor (NYSE:F) Trading Up 5.6% - Here's What Happened MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "F",
@@ -44,89 +150,164 @@
         "F"
       ],
       "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "F"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "cb3f238f-7599-596b-9212-59f695d97dbf",
-      "timestamp_utc": "2026-04-03T13:00:05+00:00",
-      "source": "yahoo_finance_singapore",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUUFJa1JPdWRtMjNqZ1JJUGFiTnJwZG9VMy11b0RCcldkOExadEZZRU9oNlhlRGhES0tTOFo3ZHF1bl9rcTA4MmI4R1RzNTJkY1I4UzI5RmRiZ1FJWUdRaXdlOGhsbEhmNS03NFlMVjRHQjFteUlGamhabkVWSG10V3FzSi03bUozcWc?oc=5",
-      "title": "Is Trending Stock Ford Motor Company (F) a Buy Now? - Yahoo Finance Singapore",
-      "body": "Is Trending Stock Ford Motor Company (F) a Buy Now? Yahoo Finance Singapore",
-      "author": null,
-      "language": "en",
-      "ticker": "F",
-      "tickers_hint": [
-        "F"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo finance singapore",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance Singapore",
-        "source_domain": "yahoofinancesingapore.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "F"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4775,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "44acc5e4-67c8-59a9-ae75-d5d62dcc0c5b",
-      "timestamp_utc": "2026-04-03T14:54:56+00:00",
-      "source": "the_globe_and_mail",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/F/pressreleases/1136413/ford-motor-reports-first-quarter-2026-us-vehicle-sales/",
-      "title": "Ford Motor Reports First-Quarter 2026 U.S. Vehicle Sales - The Globe and Mail",
-      "body": "Ford Motor ( (F) ) just unveiled an announcement.\n\nOn April 2, 2026, Ford Motor Co. issued a news release detailing its U.S. vehicle sales performance for the first quarter of 2026, providing an update on how its models and brands fared in the domestic market. The filing of this sales release as part of its official report underscores the importance of quarterly U.S. sales metrics for investors and other stakeholders tracking Ford’s operational momentum and market position.\n\nThe most recent analyst rating on (F) stock is a Sell with a $10.00 price target. To see the full list of analyst forecasts on Ford Motor stock, see the F Stock Forecast page.\n\nAccording to Spark, TipRanks’ AI Analyst, F is a Neutral.\n\nThe score is held down primarily by weaker financial quality (high leverage and volatile profitability despite strong cash flow) and bearish technical momentum (below key moving averages with negative MACD). Partially offsetting these are a high dividend yield and earnings-call guidance that points to improving 2026 EBIT/FCF, though meaningful EV losses, restructuring charges, and back-half execution risks remain.\n\nTo see Spark’s full report on F stock, click here.\n\nFord Motor Co. is a global automotive manufacturer that designs, produces, and sells cars, trucks, and sport-utility vehicles, as well as providing related mobility and financial services. The company focuses primarily on the mass-market and commercial vehicle segments, competing across North America and worldwide in both retail and fleet markets.\n\nLearn more about F stock on TipRanks’ Stock Analysis page.",
+      "id": "b12122bf-19fb-54d9-8ab9-e317af9b104b",
+      "timestamp_utc": "2026-04-08T13:01:10+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/topics/26/04/51721280/ford-ceo-knew-the-ev-transition-would-hurt-but-the-reality-is-a-4-8b-loss-we-cant-allocate-money-for-things-that-will-not-make-money",
+      "title": "Ford CEO Knew the EV Transition Would Hurt, But the Reality Is a $4.8B Loss — 'We Can't Allocate Money Fo - Benzinga",
+      "body": "Ford CEO Knew the EV Transition Would Hurt, But the Reality Is a $4.8B Loss — 'We Can't Allocate Money Fo Benzinga",
       "author": null,
       "language": "en",
       "ticker": "F",
       "tickers_hint": [
         "F"
       ],
-      "source_quality": "medium",
-      "publisher_raw": "theglobeandmail.com",
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "The Globe and Mail",
-        "source_domain": "theglobeandmail.com",
-        "trust_tier": 2,
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.6,
+        "quality_score": 0.72,
+        "_channel": "google_benzinga"
+      }
+    },
+    {
+      "id": "bcaab5f5-18c9-59be-8c9d-52506fd86aeb",
+      "timestamp_utc": "2026-04-07T18:54:32+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWFBSSVowN29aQUdrcElINnktYTJaRTZMbHpLNmMwR3o5RnFXaWNtRllZRlRVa1pmMGZNcVRyUDhzbnZoY3ItTHc5clBhQWNqVDZiNHFjNzZDYzFrcVl2SndJaHEtRXNNeTMyUmh5bkhVODQ2U1c5c0o1T2tmbUh4UkJuekxwNlVsYVRPcG03NHZ1SWZ3eUs4U0dBVkdjRjhKaVBtQzZMVUhXZHRtenJHcklqajdSOXp5TkRlbEg4dXM2RVpubEp6SVUyNXlIRENzbjltZEdRQXI3V3RUYlZGWGRUOA?oc=5",
+      "title": "Trump Rejects Ford Aluminum Tariff Relief Requests Amid Supply Headwinds From Oswego Fire: Report - Benzinga",
+      "body": "Trump Rejects Ford Aluminum Tariff Relief Requests Amid Supply Headwinds From Oswego Fire: Report Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.66,
+        "_channel": "google_benzinga"
+      }
+    },
+    {
+      "id": "874d23cb-dd5a-5c4f-9bcb-f31c923e80db",
+      "timestamp_utc": "2026-04-08T15:32:46+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaUFXMUp5ZGwydVFWTlE2QWhSV0t5b1cwQ3dVc3VpZGYwdVFsUWh4OUNJTkNpeDZnTnl3aElUV2g1ZXNfbUlkRzU1cDFpdFI2MDhPRnh0aks1cmktVkNvdzFULUNHREJ0OFprd3hDZkI2VmpkSHFoalNDVkdBYnVPa0Juc3NMUTRoTGFpcWREalVyRm5PMDNEMjdab1F6WnBLakZYbFlVcjY3cTVYM0hUSUowMU5lU05nZjJnZk1maExZLVh5SnBtZDVTSWZ3S2g2V0V5ZjE2VnhpYVdVOFpPbDQ1OER6Vnp3?oc=5",
+      "title": "Ford, Applied Digital, U Power, Block And Alphabet: Why These 5 Stocks Are On Investors' Radars Today - Benzinga",
+      "body": "Ford, Applied Digital, U Power, Block And Alphabet: Why These 5 Stocks Are On Investors' Radars Today Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.655,
+        "_channel": "google_benzinga"
+      }
+    },
+    {
+      "id": "f495d3ff-d4b3-53a1-9e72-6a33a00d70d6",
+      "timestamp_utc": "2026-04-07T22:31:00+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/eurozone/26/04/51697241/ford-gm-stellantis-accuse-eu-of-blocking-pickup-truck-sales-report",
+      "title": "Legacy Automakers Ford, GM, Stellantis Accuse EU Of Blocking Pickup Truck Sales: Report - Ford Motor (NYS - Benzinga",
+      "body": "Legacy Automakers Ford, GM, Stellantis Accuse EU Of Blocking Pickup Truck Sales: Report - Ford Motor (NYS Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.64,
+        "_channel": "google_benzinga"
+      }
+    },
+    {
+      "id": "e0ca1623-0f14-5c89-8a8a-829675ea61b5",
+      "timestamp_utc": "2026-04-09T00:36:39+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-oak-thistle-llc-invests-147-million-in-ford-motor-company-f-2026-04-09/",
+      "title": "Oak Thistle LLC Invests $1.47 Million in Ford Motor Company $F - MarketBeat",
+      "body": "Oak Thistle LLC Invests $1.47 Million in Ford Motor Company $F MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "F",
+      "tickers_hint": [
+        "F"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
         "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "F"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.5175,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "04702eea-1230-55e3-bbc4-8fd0375c2335",
-      "timestamp_utc": "2026-04-03T13:24:44+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MSXh5blJCNHBSdzhTNzJ2bVlKSGgtT1JoRGNoMnJ3RHVlX3l4RjZQSkRYblZGOEI0SVZvWkdGYWtxRG1BTW5wUWtlSVV6cUZETVRVWWZ0UEVZWGs3ZXBxOWFJSmhQY3M?oc=5",
-      "title": "Ford Motor Company (FMC.F) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "body": "Ford Motor Company (FMC.F) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "id": "9fea9b58-b81e-5943-8419-62c508dd995b",
+      "timestamp_utc": "2026-04-08T11:19:53+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/ford-motor-nysef-trading-up-56-heres-what-happened-2026-04-08/",
+      "title": "Ford Motor (NYSE:F) Trading Up 5.6% - Here's What Happened - MarketBeat",
+      "body": "Ford Motor (NYSE:F) Trading Up 5.6% - Here's What Happened MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "F",
@@ -134,49 +315,18 @@
         "F"
       ],
       "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "F"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "cb3f238f-7599-596b-9212-59f695d97dbf",
-      "timestamp_utc": "2026-04-03T13:00:05+00:00",
-      "source": "yahoo_finance_singapore",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUUFJa1JPdWRtMjNqZ1JJUGFiTnJwZG9VMy11b0RCcldkOExadEZZRU9oNlhlRGhES0tTOFo3ZHF1bl9rcTA4MmI4R1RzNTJkY1I4UzI5RmRiZ1FJWUdRaXdlOGhsbEhmNS03NFlMVjRHQjFteUlGamhabkVWSG10V3FzSi03bUozcWc?oc=5",
-      "title": "Is Trending Stock Ford Motor Company (F) a Buy Now? - Yahoo Finance Singapore",
-      "body": "Is Trending Stock Ford Motor Company (F) a Buy Now? Yahoo Finance Singapore",
-      "author": null,
-      "language": "en",
-      "ticker": "F",
-      "tickers_hint": [
-        "F"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo finance singapore",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance Singapore",
-        "source_domain": "yahoofinancesingapore.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "F"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4775,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

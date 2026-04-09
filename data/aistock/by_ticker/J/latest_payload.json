@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "eed0d63d-d81b-526b-9d7f-3d153b72ea07",
-      "timestamp_utc": "2026-03-31T09:17:08+00:00",
-      "source": "stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUDhsc05OUkpOM3ZjdTZoUXRraDFOeUMtU25LWmQ3bG03UGFEMWhkNzF3UjRxaFZwaWUtemIwaTk1Vml1ak5nODRIREVtNkgxVmhtQ3RrVlFUdzVVSndmQlN5Q3A0OEd4eU1BM3dqZC1XZ3FlMTZ5YVFrc211b0Zfby1RNG1HQ29BUHJhNUM4NXBnN1VYOUIxQmg5Smh4eDc4dXc?oc=5",
-      "title": "J. Jill Stock Slumps 26% Today – Why Such A Selloff? - Stocktwits",
-      "body": "J. Jill Stock Slumps 26% Today – Why Such A Selloff? Stocktwits",
+      "id": "7c38e87a-1842-51b2-9d92-83cec700aa27",
+      "timestamp_utc": "2026-04-08T01:56:37+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-oak-thistle-llc-buys-shares-of-16189-jacobs-solutions-inc-j-2026-04-08/",
+      "title": "Oak Thistle LLC Buys Shares of 16,189 Jacobs Solutions Inc. $J - MarketBeat",
+      "body": "Oak Thistle LLC Buys Shares of 16,189 Jacobs Solutions Inc. $J MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "J",
@@ -15,31 +15,29 @@
         "J"
       ],
       "source_quality": "low",
-      "publisher_raw": "stocktwits",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stocktwits",
-        "source_domain": "stocktwits.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "J"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4475,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "eed0d63d-d81b-526b-9d7f-3d153b72ea07",
-      "timestamp_utc": "2026-03-31T09:17:08+00:00",
-      "source": "stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUDhsc05OUkpOM3ZjdTZoUXRraDFOeUMtU25LWmQ3bG03UGFEMWhkNzF3UjRxaFZwaWUtemIwaTk1Vml1ak5nODRIREVtNkgxVmhtQ3RrVlFUdzVVSndmQlN5Q3A0OEd4eU1BM3dqZC1XZ3FlMTZ5YVFrc211b0Zfby1RNG1HQ29BUHJhNUM4NXBnN1VYOUIxQmg5Smh4eDc4dXc?oc=5",
-      "title": "J. Jill Stock Slumps 26% Today – Why Such A Selloff? - Stocktwits",
-      "body": "J. Jill Stock Slumps 26% Today – Why Such A Selloff? Stocktwits",
+      "id": "7c38e87a-1842-51b2-9d92-83cec700aa27",
+      "timestamp_utc": "2026-04-08T01:56:37+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-oak-thistle-llc-buys-shares-of-16189-jacobs-solutions-inc-j-2026-04-08/",
+      "title": "Oak Thistle LLC Buys Shares of 16,189 Jacobs Solutions Inc. $J - MarketBeat",
+      "body": "Oak Thistle LLC Buys Shares of 16,189 Jacobs Solutions Inc. $J MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "J",
@@ -47,20 +45,18 @@
         "J"
       ],
       "source_quality": "low",
-      "publisher_raw": "stocktwits",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stocktwits",
-        "source_domain": "stocktwits.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "J"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4475,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

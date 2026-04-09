@@ -2,12 +2,42 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "979bd87f-8f9a-5fc1-928a-f393e5c49783",
-      "timestamp_utc": "2026-04-03T20:56:53+00:00",
-      "source": "stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMWloOFd1T3pWdmNxWm5sMlN1dm9qclVxLTJNU1ZxZ0d5SkptdkR1Q1JXWm5wYk56NmVxYzJUSEtfZmx2Nm9sdVBOaXVfOFJBWUNUWTVwZXVhMjgxS2hrMTFYQ0c3TTktV0F2MFJGNThxNThQSmFNRjNHblpTTW91R0o2Y3JBNy1UOUpjSHZ5X2NTa0I0OFJTYVlCRkJHT21OLVp2aG1PRUhsRUsxSjdPQnpwTWZrZlZ5U1FZ?oc=5",
-      "title": "Capital One (COF) banking president sells 1,692 shares via 10b5-1 plan - stocktitan.net",
-      "body": "Capital One (COF) banking president sells 1,692 shares via 10b5-1 plan stocktitan.net",
+      "id": "ae04fb40-0833-55cf-84c7-0b9b6561dbeb",
+      "timestamp_utc": "2026-04-07T23:25:39+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQak9oLVA0YlcyVzRHZU9WVkpjQUVsSmdOb2dWdmRUVU05ekVaWThHanZPUlUtNDRxQWVjaVpfMjdEVlZ0emNUSkZBTmRYRXUxNjF2TVQzbmZtTWNfSWY2UmhBUmwtcnpMT3dSVEN4ejlJUlF4ZTRYcVlFbnBpc01NT0Y4NEI5cF9yOVRZMjZCQ3lFNURDVlM2emk1cmRoRFAwM0NMSFM0TVNIOVlfNThkTDltdmpRTUZVcEo0eQ?oc=5",
+      "title": "Americans Are More Productive With AI— But Less Sure About Their Jobs - Capital One Financial (NYSE:COF) - Benzinga",
+      "body": "Americans Are More Productive With AI— But Less Sure About Their Jobs - Capital One Financial (NYSE:COF) Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "COF",
+      "tickers_hint": [
+        "COF"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.625,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
+    },
+    {
+      "id": "be8fd861-62a6-5542-ba6e-2259f5f03b52",
+      "timestamp_utc": "2026-04-08T03:30:49+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/ubs-group-issues-pessimistic-forecast-for-capital-one-financial-nysecof-stock-price-2026-04-08/",
+      "title": "UBS Group Issues Pessimistic Forecast for Capital One Financial (NYSE:COF) Stock Price - MarketBeat",
+      "body": "UBS Group Issues Pessimistic Forecast for Capital One Financial (NYSE:COF) Stock Price MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "COF",
@@ -15,31 +45,86 @@
         "COF"
       ],
       "source_quality": "low",
-      "publisher_raw": "stocktitan.net",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "stocktitan.net",
-        "source_domain": "stocktitannet.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "COF"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "6279bc66-3ccd-58b4-b490-fd765b74958c",
+      "timestamp_utc": "2026-04-07T21:33:43+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-asio-capital-llc-raises-stock-position-in-capital-one-financial-corporation-cof-2026-04-08/",
+      "title": "Asio Capital LLC Raises Stock Position in Capital One Financial Corporation $COF - MarketBeat",
+      "body": "Asio Capital LLC Raises Stock Position in Capital One Financial Corporation $COF MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "COF",
+      "tickers_hint": [
+        "COF"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4025,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "979bd87f-8f9a-5fc1-928a-f393e5c49783",
-      "timestamp_utc": "2026-04-03T20:56:53+00:00",
-      "source": "stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMWloOFd1T3pWdmNxWm5sMlN1dm9qclVxLTJNU1ZxZ0d5SkptdkR1Q1JXWm5wYk56NmVxYzJUSEtfZmx2Nm9sdVBOaXVfOFJBWUNUWTVwZXVhMjgxS2hrMTFYQ0c3TTktV0F2MFJGNThxNThQSmFNRjNHblpTTW91R0o2Y3JBNy1UOUpjSHZ5X2NTa0I0OFJTYVlCRkJHT21OLVp2aG1PRUhsRUsxSjdPQnpwTWZrZlZ5U1FZ?oc=5",
-      "title": "Capital One (COF) banking president sells 1,692 shares via 10b5-1 plan - stocktitan.net",
-      "body": "Capital One (COF) banking president sells 1,692 shares via 10b5-1 plan stocktitan.net",
+      "id": "ae04fb40-0833-55cf-84c7-0b9b6561dbeb",
+      "timestamp_utc": "2026-04-07T23:25:39+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQak9oLVA0YlcyVzRHZU9WVkpjQUVsSmdOb2dWdmRUVU05ekVaWThHanZPUlUtNDRxQWVjaVpfMjdEVlZ0emNUSkZBTmRYRXUxNjF2TVQzbmZtTWNfSWY2UmhBUmwtcnpMT3dSVEN4ejlJUlF4ZTRYcVlFbnBpc01NT0Y4NEI5cF9yOVRZMjZCQ3lFNURDVlM2emk1cmRoRFAwM0NMSFM0TVNIOVlfNThkTDltdmpRTUZVcEo0eQ?oc=5",
+      "title": "Americans Are More Productive With AI— But Less Sure About Their Jobs - Capital One Financial (NYSE:COF) - Benzinga",
+      "body": "Americans Are More Productive With AI— But Less Sure About Their Jobs - Capital One Financial (NYSE:COF) Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "COF",
+      "tickers_hint": [
+        "COF"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.625,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
+    },
+    {
+      "id": "be8fd861-62a6-5542-ba6e-2259f5f03b52",
+      "timestamp_utc": "2026-04-08T03:30:49+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/ubs-group-issues-pessimistic-forecast-for-capital-one-financial-nysecof-stock-price-2026-04-08/",
+      "title": "UBS Group Issues Pessimistic Forecast for Capital One Financial (NYSE:COF) Stock Price - MarketBeat",
+      "body": "UBS Group Issues Pessimistic Forecast for Capital One Financial (NYSE:COF) Stock Price MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "COF",
@@ -47,20 +132,45 @@
         "COF"
       ],
       "source_quality": "low",
-      "publisher_raw": "stocktitan.net",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "stocktitan.net",
-        "source_domain": "stocktitannet.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "COF"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "6279bc66-3ccd-58b4-b490-fd765b74958c",
+      "timestamp_utc": "2026-04-07T21:33:43+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-asio-capital-llc-raises-stock-position-in-capital-one-financial-corporation-cof-2026-04-08/",
+      "title": "Asio Capital LLC Raises Stock Position in Capital One Financial Corporation $COF - MarketBeat",
+      "body": "Asio Capital LLC Raises Stock Position in Capital One Financial Corporation $COF MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "COF",
+      "tickers_hint": [
+        "COF"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4025,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

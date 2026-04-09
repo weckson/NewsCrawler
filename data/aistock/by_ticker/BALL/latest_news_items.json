@@ -1,11 +1,11 @@
 [
   {
-    "id": "d5d24b6a-6e99-58e8-ba17-bcab82bc60db",
-    "timestamp_utc": "2026-04-01T07:36:12+00:00",
-    "source": "gurufocus",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWjVFQmF0X3hrU24wTXQ1ZUU3MWJmdVNfQzBGWVlodlNCdlZZNjAzZmQ5THNNdGpzZ2NxaTlKd3N1THNReHQ2Y0lFRGhPWmhsNWtHN291VlA0Mkx1eU0yUklIU2xQNXU1dlFEVDZYU3d6S0hmMWxGYzluS0hRamtxQXYwVDdCV0hhcTdMSnZJOGlNTnBYRkd6bElsUEljTGtGRGNNelhIZmYtblZYVEJvdV9RT01qSUk?oc=5",
-    "title": "Deutsche Bank Initiates Coverage on Ball (BALL) with 'Buy' Ratin - GuruFocus",
-    "body": "Deutsche Bank Initiates Coverage on Ball (BALL) with 'Buy' Ratin GuruFocus",
+    "id": "63eeb9c1-3520-526c-bd45-13c9fd405924",
+    "timestamp_utc": "2026-04-07T11:19:52+00:00",
+    "source": "finviz",
+    "url": "https://finviz.com/news/342994/ball-to-announce-first-quarter-earnings-on-may-5-2026",
+    "title": "Ball to Announce First Quarter Earnings on May 5, 2026 - Finviz",
+    "body": "Ball to Announce First Quarter Earnings on May 5, 2026 Finviz",
     "author": null,
     "language": "en",
     "ticker": "BALL",
@@ -13,19 +13,17 @@
       "BALL"
     ],
     "source_quality": "low",
-    "publisher_raw": "gurufocus.com",
+    "publisher_raw": "finviz",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "GuruFocus",
-      "source_domain": "gurufocus.com",
-      "trust_tier": 1,
-      "relevance": 0.6000000000000001,
+      "source_name": "Finviz",
+      "source_domain": "finviz.com",
       "event_origin": "news",
-      "query_tickers": [
-        "BALL"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6,
+      "quality_score": 0.445,
+      "_channel": "google_broad"
+    }
   }
 ]

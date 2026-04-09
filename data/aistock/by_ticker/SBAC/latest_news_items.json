@@ -1,40 +1,11 @@
 [
   {
-    "id": "9d9a5565-7f9d-57e8-84b3-58c93750e117",
-    "timestamp_utc": "2026-03-31T04:40:52+00:00",
-    "source": "insider_monkey",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZVZqNEdRbDF1QnNtVFRVWXNVUzd5d3dBTFJxZWFjaEhjdzVlOHZBTF93cXA5ODdLTGRpR2pmRExmbnlqZWtQLTNTTGV4VkQ4dlVPQjN5Z3FmZ1FaWExBRVJQVnNYbGJpY29QckFQUk9lMEFKNXlKWlRoVUpJQnM0b3hhSjhjUHZUQnFQQTVZTzhfZnZtM1BUcUF3VDJQQXhUVndURmx2Tkh5VXJNWWRwQWxORVRjcE51eFEtVzFNZWJzemh3SVN1WXlkZGM5aXhwUUVjQmVn0gHWAUFVX3lxTFBlVmo0R1FsMXVCc21UVFVZc1VTN3l3d0FMUnFlYWNoSGN3NWU4dkFMX3dxcDk4N0tMZGlHamZETGZueWpla1AtM1NMZXhWRDh2VU9CM3lncWZnUVpYTEFFUlBWc1hsYmljb1ByQVBST2UwQUo1eUpaVGhVSklCczRveGFKOGNQdlRCcVBBNVlPOF9mdm0zUFRxQXdUMlBBeFRWd1RGbHZOSHlVck1ZZHBBbE5FVGNwTnV4US1XMU1lYnN6aHdJU3VZeWRkYzlpeHBRRWNCZWc?oc=5",
-    "title": "SBA Communications Corporation (SBAC) Set to Become Largest Tower Operator with 10,000+ Sites - Insider Monkey",
-    "body": "SBA Communications Corporation (SBAC) Set to Become Largest Tower Operator with 10,000+ Sites Insider Monkey",
-    "author": null,
-    "language": "en",
-    "ticker": "SBAC",
-    "tickers_hint": [
-      "SBAC"
-    ],
-    "source_quality": "medium",
-    "publisher_raw": "insidermonkey.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Insider Monkey",
-      "source_domain": "insidermonkey.com",
-      "trust_tier": 2,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "SBAC"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "6fac0ec7-242c-512e-acbd-ba80b80be5db",
-    "timestamp_utc": "2026-03-31T07:22:38+00:00",
+    "id": "eaefb478-05fc-5718-bd52-143c2acbcb01",
+    "timestamp_utc": "2026-04-07T04:48:11+00:00",
     "source": "gurufocus",
-    "url": "https://www.gurufocus.com/news/8761608/sbac-analyst-update-truist-securities-initiates-coverage-with-hold-rating-sbac-stock-news?mobile=true",
-    "title": "SBAC Analyst Update: Truist Securities Initiates Coverage with H - GuruFocus",
-    "body": "SBAC Analyst Update: Truist Securities Initiates Coverage with H GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPejhsaFl6bWU3bm5vMlpua3hmYkJSRi02bjgzX1ljRVVJaVV0NHlLVlBHOGJHN3VadUpKWmo2ejJsVlNUeGhkMnlsWWRWdHlpX1dsY2ZkS0d3Mjh6WWF1TEdMeDZlelFXVG9aWnFiOGlfX00wVVV5dnB3UFJhTkFPbmhvZ01ISE1oSU53UnpudTBQc3Y1RmFnUkxyc0tISHUyc3hucXNSbEprUlNqNVJ2bGVSX0VyaTJVRWtYRXp4c1BOdU9vYUY3SQ?oc=5",
+    "title": "SBA Communications (SBAC) Sees New Target Price from Wells Fargo - GuruFocus",
+    "body": "SBA Communications (SBAC) Sees New Target Price from Wells Fargo GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "SBAC",
@@ -43,47 +14,16 @@
     ],
     "source_quality": "low",
     "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "GuruFocus",
       "source_domain": "gurufocus.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
       "event_origin": "news",
-      "query_tickers": [
-        "SBAC"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "216d6bfb-f692-52d5-a77e-33b785618d93",
-    "timestamp_utc": "2026-03-31T22:27:18+00:00",
-    "source": "defense_world",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY1hZVUNIaXREUy12Sm1kV0hrTWRSOS1sdjlnMndmdkIzVmNfQXlEaHJTWWV6ZjNLdlRQUlIxQ3JmMHlHSVVRNVU1R3JZY0ROUFJpYmVuRE1zdTlrTTcyU3QyaHRSUFZhSVVDYnBubzhxYmJrZHR6ZjZPbkRLX0tpUHQyQ1BsaGVuY0c0YUVOeVBTeDhRS0hpVGFhRUV4YWdyZ3ZPSnFSWWY4djF1VHQyTmtrY3daRXJpckZ0R2EtVXhfZUJfcjVvRkRuQVctWVI5?oc=5",
-    "title": "Exchange Traded Concepts LLC Has $3.10 Million Stake in SBA Communications Corporation $SBAC - Defense World",
-    "body": "Exchange Traded Concepts LLC Has $3.10 Million Stake in SBA Communications Corporation $SBAC Defense World",
-    "author": null,
-    "language": "en",
-    "ticker": "SBAC",
-    "tickers_hint": [
-      "SBAC"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "defense world",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Defense World",
-      "source_domain": "defenseworld.com",
-      "trust_tier": 1,
       "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "SBAC"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.39,
+      "_channel": "google_broad"
+    }
   }
 ]

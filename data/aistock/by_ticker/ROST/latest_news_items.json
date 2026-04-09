@@ -1,31 +1,29 @@
 [
   {
-    "id": "da4053a6-013a-5fea-aa3b-0b0351e66f74",
-    "timestamp_utc": "2026-04-04T01:13:48+00:00",
-    "source": "msn.com",
-    "url": "https://www.msn.com/en-us/money/topstocks/ross-stores-rost-up-3-since-last-earnings-report-can-it-continue/ar-AA201ijQ",
-    "title": "Ross Stores (ROST) up 3% since last earnings report: Can it continue? - msn.com",
-    "body": "Ross Stores (ROST) up 3% since last earnings report: Can it continue? msn.com",
+    "id": "85e7cd5c-657c-501d-b357-8fa110d9e9c0",
+    "timestamp_utc": "2026-04-08T21:31:59+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yTGZKX0JJZTNsb1pnT3QzNFNJWTJRamRfM3g3MVdKbklNLVlhSkdjWGdSVTJlOFZlaFQ1NURkc21jXzlfYldLWkdvSE0xRkc2N0E?oc=5",
+    "title": "Ross Stores, Inc. (ROST) stock price, news, quote and history - Yahoo Finance Singapore",
+    "body": "Ross Stores, Inc. (ROST) stock price, news, quote and history Yahoo Finance Singapore",
     "author": null,
     "language": "en",
     "ticker": "ROST",
     "tickers_hint": [
       "ROST"
     ],
-    "source_quality": "low",
-    "publisher_raw": "msn.com",
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "msn.com",
-      "source_domain": "msncom.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
+      "source_name": "Yahoo Finance Singapore",
+      "source_domain": "finance.yahoo.com",
       "event_origin": "news",
-      "query_tickers": [
-        "ROST"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.64,
+      "_channel": "google_broad"
+    }
   }
 ]

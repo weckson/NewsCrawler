@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "2fd8793d-cb45-54e0-a792-7e3d91c8112c",
-      "timestamp_utc": "2026-04-03T16:10:04+00:00",
+      "id": "6f62927c-6f86-5770-90ee-1b9b75f8f429",
+      "timestamp_utc": "2026-04-08T11:20:02+00:00",
       "source": "yahoo_finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-brands-stz-beat-estimates-161004236.html",
-      "title": "Will Constellation Brands (STZ) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
-      "body": "Will Constellation Brands (STZ) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-brands-stz-q4-earnings-212002803.html",
+      "title": "Constellation Brands (STZ) Q4 Earnings and Revenues Top Estimates - Yahoo Finance",
+      "body": "Constellation Brands (STZ) Q4 Earnings and Revenues Top Estimates Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "STZ",
@@ -16,27 +16,136 @@
       ],
       "source_quality": "high",
       "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "Yahoo Finance",
         "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.6,
         "event_origin": "news",
-        "query_tickers": [
-          "STZ"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.65,
+        "quality_score": 0.7025,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "81592cb1-caa6-50de-bdf9-8e02e80c9788",
-      "timestamp_utc": "2026-04-04T22:38:58+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/STZ/earnings",
-      "title": "STZ Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "STZ Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "48a0b7b9-a5e1-5dca-aafc-5927eceeb589",
+      "timestamp_utc": "2026-04-08T11:34:01+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/news/4573562-stocks-to-watch-after-market-on-wednesday-iccc-cost-stz",
+      "title": "Stocks to watch after market on Wednesday: ICCC, COST, STZ (STZ:NYSE) - Seeking Alpha",
+      "body": "Wall Street rallied and closed higher on Wednesday after President Donald Trump agreed to pause planned strikes on Iran for two weeks, contingent on the reopening of the Strait of Hormuz.\n\nThe tech-focused Nasdaq Composite (COMP:IND) added +2.8%, while the benchmark",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.645,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "318087dd-2962-5100-b599-b4e677b2bbe1",
+      "timestamp_utc": "2026-04-09T01:33:17+00:00",
+      "source": "cnbc",
+      "url": "https://www.cnbc.com/2026/04/09/stocks-making-the-biggest-moves-premarket-.html",
+      "title": "Stocks making the biggest moves premarket: STZ, DDOG, OXY, CCL - CNBC",
+      "body": "Check out the companies making the biggest moves in premarket trading: Datadog — The software company rose 2.3% following an upgrade to buy from neutral at Guggenheim.\n\nThe firm said it believes Datadog is the primarily beneficiary of artificial intelligence-driven growth in data volumes and information technology complexity.\n\nCoreWeave — The AI cloud computing stock gained more than 5% after CoreWeave announced a $21 billion expanded infrastructure deal with Meta Platforms.\n\n\"The dedicated capacity will be deployed across multiple locations and will include some of the initial deployments of the NVIDIA Vera Rubin platform.\n\nThis distributed approach is designed to optimize performance, resilience, and scalability for Meta's AI operations,\" CoreWeave said in a release .\n\nConstellation Brands — The Modelo and Corona maker slipped less than 1% after it withdrew its 2028 guidance due to uncertainty and reported \"subdued\" demand.\n\nIts full-year earnings guidance fell short of expectations, while its fourth-quarter results came in above the Street's estimates.\n\nOil companies — Shares of energy companies moved higher as the price of oil ticked back up, a day after U.S.\n\nWest Texas Intermediate crude had its biggest single-day drop since 2020.\n\nOccidental Petroleum and APA both added nearly 2%, while ConocoPhillips , Chevron and BP each gained about 1%.\n\nAlaska Air dropped roughly 2%, while United Airlines , American Airlines and Delta Air Lines shed 1%.\n\nCruise operators — Cruise companies also slipped on the back of rising oil.\n\nRoyal Caribbean and Norwegian Cruise Line each lost nearly 2%.\n\nApplied Digital — Shares dipped less than 1% even after the maker and operator of high-performance data centers blew past estimates in its latest earnings, with third-quarter adjusted EBITDA of $44.1 million exceeding the FactSet consensus estimate of $19.3 million.\n\nThe stock had run up heading into the report, rallying 17% just this month and higher by more than 13% this year.\n\nTexas Instruments — Shares climbed nearly 2% after Stifel upgraded the chipmaker to buy from hold.\n\nThe investment firm said Texas Instruments is benefiting from several tailwinds, like an end to its recent capital expenditures cycle and its data center business growth, that support Texas Instruments' outlook.\n\nStaar Surgical — The implantable eye lens maker jumped 27% after it guided for first-quarter revenue in excess of $90 million, well above the $67.6 million expected from analysts polled by FactSet.\n\nZscaler — The cloud security company was downgraded by BTIG to neutral from buy and removed from BTIG's first half 2026 top picks list.\n\n—CNBC's Sarah Min, Fred Imbert and Davis Giangiulio contributed reporting.",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "cnbc.com",
+      "trust_tier": 3,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "CNBC",
+        "source_domain": "cnbc.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.64,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "99ef07f6-6072-58bc-a5c8-8f8dcd337df2",
+      "timestamp_utc": "2026-04-08T07:37:33+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAyeXNGRk9XQlNjT1lvU0ZCNkZNOG5IZU9UUmlwSTBlMFY2MnQ3NHhhSUNfSnBZQThfZHhlSzZYRXExQ2dXYV9RbjZB?oc=5",
+      "title": "Constellation Brands Inc (STZ) Stock Price, Quote, News & History - Benzinga",
+      "body": "Constellation Brands Inc (STZ) Stock Price, Quote, News & History Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.63,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
+    },
+    {
+      "id": "e1ebdb9d-5cac-514d-b199-6afbc177f7a9",
+      "timestamp_utc": "2026-04-08T10:20:53+00:00",
+      "source": "tradingview",
+      "url": "https://www.tradingview.com/news/stockstory:399720aaa094b:0-constellation-brands-nyse-stz-surprises-with-q1-cy2026-sales/",
+      "title": "Constellation Brands (NYSE:STZ) Surprises With Q1 CY2026 Sales - TradingView",
+      "body": "Beer, wine, and spirits company Constellation Brands STZ announced better-than-expected revenue in Q1 CY2026, but sales fell by 11.3% year on year to $1.92 billion. On the other hand, the company’s full-year revenue guidance of $9 billion at the midpoint came in 1.6% below analysts’ estimates. Its non-GAAP profit of $1.90 per share was 10.9% above analysts’ consensus estimates.\n\nConstellation Brands (STZ) Q1 CY2026 Highlights:\n\nWith a presence in more than 100 countries, Constellation Brands STZ is a globally renowned producer and marketer of beer, wine, and spirits.\n\nReviewing a company’s long-term sales performance reveals insights into its quality. Any business can put up a good quarter or two, but the best consistently grow over the long haul.\n\nWith $9.14 billion in revenue over the past 12 months, Constellation Brands is one of the larger consumer staples companies and benefits from a well-known brand that influences purchasing decisions. However, its scale is a double-edged sword because it’s harder to find incremental growth when your existing brands have penetrated most of the market. To expand meaningfully, Constellation Brands likely needs to tweak its prices, innovate with new products, or enter new markets.\n\nAs you can see below, Constellation Brands’s demand was weak over the last three years. Its sales fell by 1.1% annually, a poor baseline for our analysis.\n\nThis quarter, Constellation Brands’s revenue fell by 11.3% year on year to $1.92 billion but beat Wall Street’s estimates by 2.4%.\n\nLooking ahead, sell-side analysts expect revenue to remain flat over the next 12 months. Although this projection indicates its newer products will spur better top-line performance, it is still below the sector average.\n\nONE MORE THING: 3 Hidden Platforms Growing 3X Faster than Amazon, Google, and PayPal. Amazon, Google, and Meta all followed the same playbook: Dominate an ignored market. Build an unbeatable moat. Scale until you’re unstoppable.\n\nThese three platforms are running that exact playbook right now. The early investors in Amazon made fortunes. The early investors in these could do the same. Get All 3 Stocks Here for FREE.\n\nWhen analyzing revenue growth, we care most about organic revenue growth. This metric captures a business’s performance excluding one-time events such as mergers, acquisitions, and divestitures as well as foreign currency fluctuations.\n\nThe demand for Constellation Brands’s products has barely risen over the last eight quarters. On average, the company’s organic sales have been flat.\n\nIn the latest quarter, Constellation Brands’s year on year organic sales were flat. This performance was more or less in line with its historical levels.\n\nKey Takeaways from Constellation Brands’s Q1 Results\n\nWe were impressed by how significantly Constellation Brands blew past analysts’ organic revenue expectations this quarter. We were also happy its revenue outperformed Wall Street’s estimates. On the other hand, its EBITDA missed and its full-year EPS guidance fell short of Wall Street’s estimates. Overall, this was a weaker quarter. The stock traded down 2.1% to $147.76 immediately following the results.\n\nConstellation Brands underperformed this quarter, but does that create an opportunity to invest right now? When making that decision, it’s important to consider its valuation, business qualities, as well as what has happened in the latest quarter. We cover that in our actionable full research report which you can read here (it’s free).",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "trust_tier": 2,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.5575,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "c02ffab7-2e4b-5531-93eb-2308288fd76e",
+      "timestamp_utc": "2026-04-08T18:06:17+00:00",
+      "source": "msn",
+      "url": "http://www.msn.com/en-us/money/topstocks/stz-stock-drops-after-hours-on-disappointing-q4-earnings-fy27-guidance/ar-AA20rHsl?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "title": "STZ stock drops after-hours on disappointing Q4 earnings, FY27 guidance - MSN",
+      "body": "STZ stock drops after-hours on disappointing Q4 earnings, FY27 guidance MSN",
       "author": null,
       "language": "en",
       "ticker": "STZ",
@@ -44,31 +153,140 @@
         "STZ"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "msn",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MSN",
+        "source_domain": "msn.com",
         "event_origin": "news",
-        "query_tickers": [
-          "STZ"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.7,
+        "quality_score": 0.54,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "4bbdcb37-3d2c-59a4-ad03-4b78ecbd163b",
+      "timestamp_utc": "2026-04-08T14:28:00+00:00",
+      "source": "stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/stz-stock-drops-after-hours-on-disappointing-q4-earnings-fy27-guidance/cZJf9q5RIAM",
+      "title": "STZ Stock Drops After-Hours On Disappointing FY27 Guidance — Retail Stays Optimistic For Impending Rally - Stocktwits",
+      "body": "STZ Stock Drops After-Hours On Disappointing FY27 Guidance — Retail Stays Optimistic For Impending Rally Stocktwits",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktwits",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Stocktwits",
+        "source_domain": "stocktwits.com",
+        "event_origin": "news",
+        "relevance": 0.65,
+        "quality_score": 0.5275,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "76760119-83fa-5c02-b090-18effa616b62",
+      "timestamp_utc": "2026-04-08T10:41:05+00:00",
+      "source": "chartmill",
+      "url": "https://www.chartmill.com/news/STZ/Chartmill-45148-Constellation-Brands-NYSESTZ-Beats-Q4-Earnings-Estimates-but-Shares-Fall-on-Growth-Concerns",
+      "title": "Constellation Brands (NYSE:STZ) Beats Q4 Earnings Estimates but Shares Fall on Growth Concerns - ChartMill",
+      "body": "Constellation Brands (NYSE:STZ) Beats Q4 Earnings Estimates but Shares Fall on Growth Concerns ChartMill",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "chartmill",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "ChartMill",
+        "source_domain": "chartmill.com",
+        "event_origin": "news",
+        "relevance": 0.65,
+        "quality_score": 0.5175,
+        "_channel": "google_broad",
+        "_alt_sources": [
+          "ChartMill"
+        ]
+      }
+    },
+    {
+      "id": "0363b109-d74b-5b84-8f2a-3a165c052a61",
+      "timestamp_utc": "2026-04-08T09:53:30+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782372/stz-stock-update-wells-fargo-raises-price-target-to-180-stz-stock-news?mobile=true",
+      "title": "STZ Stock Update: Wells Fargo Raises Price Target to $180 | STZ - GuruFocus",
+      "body": "STZ Stock Update: Wells Fargo Raises Price Target to $180 | STZ GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4925,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "404558b9-8404-55c8-b19c-38438524edfc",
+      "timestamp_utc": "2026-04-08T10:57:44+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVGd5eDlUcG9QNnhXWnVOeXB3ZzVXbV9URkdXOGlvcGZsa3B1bm5nemtpc3Q1MHBZX2dBaU1HVkFUYjY5TlpHSkRuTjNVUzFmZUYxX2ZIMnFmdkpQdXIxY2ZzUXROWEFQVTRIVjFuakRTelRxY3pYOTE4YkE5UUNBQUtqX0lxUDBWMjZxaXJkaUVjRTRfQnF6YUg0QktDZF95VFdfeGFDYjlmc0o2RHk3N3NPRW92QQ?oc=5",
+      "title": "Constellation Brands (STZ) Shares Drop Following Q4 Results and Fiscal Outlook - GuruFocus",
+      "body": "Constellation Brands (STZ) Shares Drop Following Q4 Results and Fiscal Outlook GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4525,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "2fd8793d-cb45-54e0-a792-7e3d91c8112c",
-      "timestamp_utc": "2026-04-03T16:10:04+00:00",
+      "id": "6f62927c-6f86-5770-90ee-1b9b75f8f429",
+      "timestamp_utc": "2026-04-08T11:20:02+00:00",
       "source": "yahoo_finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-brands-stz-beat-estimates-161004236.html",
-      "title": "Will Constellation Brands (STZ) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
-      "body": "Will Constellation Brands (STZ) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-brands-stz-q4-earnings-212002803.html",
+      "title": "Constellation Brands (STZ) Q4 Earnings and Revenues Top Estimates - Yahoo Finance",
+      "body": "Constellation Brands (STZ) Q4 Earnings and Revenues Top Estimates Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "STZ",
@@ -77,27 +295,136 @@
       ],
       "source_quality": "high",
       "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "Yahoo Finance",
         "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.6,
         "event_origin": "news",
-        "query_tickers": [
-          "STZ"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.65,
+        "quality_score": 0.7025,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "81592cb1-caa6-50de-bdf9-8e02e80c9788",
-      "timestamp_utc": "2026-04-04T22:38:58+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/STZ/earnings",
-      "title": "STZ Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "STZ Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "48a0b7b9-a5e1-5dca-aafc-5927eceeb589",
+      "timestamp_utc": "2026-04-08T11:34:01+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/news/4573562-stocks-to-watch-after-market-on-wednesday-iccc-cost-stz",
+      "title": "Stocks to watch after market on Wednesday: ICCC, COST, STZ (STZ:NYSE) - Seeking Alpha",
+      "body": "Wall Street rallied and closed higher on Wednesday after President Donald Trump agreed to pause planned strikes on Iran for two weeks, contingent on the reopening of the Strait of Hormuz.\n\nThe tech-focused Nasdaq Composite (COMP:IND) added +2.8%, while the benchmark",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.645,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "318087dd-2962-5100-b599-b4e677b2bbe1",
+      "timestamp_utc": "2026-04-09T01:33:17+00:00",
+      "source": "cnbc",
+      "url": "https://www.cnbc.com/2026/04/09/stocks-making-the-biggest-moves-premarket-.html",
+      "title": "Stocks making the biggest moves premarket: STZ, DDOG, OXY, CCL - CNBC",
+      "body": "Check out the companies making the biggest moves in premarket trading: Datadog — The software company rose 2.3% following an upgrade to buy from neutral at Guggenheim.\n\nThe firm said it believes Datadog is the primarily beneficiary of artificial intelligence-driven growth in data volumes and information technology complexity.\n\nCoreWeave — The AI cloud computing stock gained more than 5% after CoreWeave announced a $21 billion expanded infrastructure deal with Meta Platforms.\n\n\"The dedicated capacity will be deployed across multiple locations and will include some of the initial deployments of the NVIDIA Vera Rubin platform.\n\nThis distributed approach is designed to optimize performance, resilience, and scalability for Meta's AI operations,\" CoreWeave said in a release .\n\nConstellation Brands — The Modelo and Corona maker slipped less than 1% after it withdrew its 2028 guidance due to uncertainty and reported \"subdued\" demand.\n\nIts full-year earnings guidance fell short of expectations, while its fourth-quarter results came in above the Street's estimates.\n\nOil companies — Shares of energy companies moved higher as the price of oil ticked back up, a day after U.S.\n\nWest Texas Intermediate crude had its biggest single-day drop since 2020.\n\nOccidental Petroleum and APA both added nearly 2%, while ConocoPhillips , Chevron and BP each gained about 1%.\n\nAlaska Air dropped roughly 2%, while United Airlines , American Airlines and Delta Air Lines shed 1%.\n\nCruise operators — Cruise companies also slipped on the back of rising oil.\n\nRoyal Caribbean and Norwegian Cruise Line each lost nearly 2%.\n\nApplied Digital — Shares dipped less than 1% even after the maker and operator of high-performance data centers blew past estimates in its latest earnings, with third-quarter adjusted EBITDA of $44.1 million exceeding the FactSet consensus estimate of $19.3 million.\n\nThe stock had run up heading into the report, rallying 17% just this month and higher by more than 13% this year.\n\nTexas Instruments — Shares climbed nearly 2% after Stifel upgraded the chipmaker to buy from hold.\n\nThe investment firm said Texas Instruments is benefiting from several tailwinds, like an end to its recent capital expenditures cycle and its data center business growth, that support Texas Instruments' outlook.\n\nStaar Surgical — The implantable eye lens maker jumped 27% after it guided for first-quarter revenue in excess of $90 million, well above the $67.6 million expected from analysts polled by FactSet.\n\nZscaler — The cloud security company was downgraded by BTIG to neutral from buy and removed from BTIG's first half 2026 top picks list.\n\n—CNBC's Sarah Min, Fred Imbert and Davis Giangiulio contributed reporting.",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "cnbc.com",
+      "trust_tier": 3,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "CNBC",
+        "source_domain": "cnbc.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.64,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "99ef07f6-6072-58bc-a5c8-8f8dcd337df2",
+      "timestamp_utc": "2026-04-08T07:37:33+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAyeXNGRk9XQlNjT1lvU0ZCNkZNOG5IZU9UUmlwSTBlMFY2MnQ3NHhhSUNfSnBZQThfZHhlSzZYRXExQ2dXYV9RbjZB?oc=5",
+      "title": "Constellation Brands Inc (STZ) Stock Price, Quote, News & History - Benzinga",
+      "body": "Constellation Brands Inc (STZ) Stock Price, Quote, News & History Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.63,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
+    },
+    {
+      "id": "e1ebdb9d-5cac-514d-b199-6afbc177f7a9",
+      "timestamp_utc": "2026-04-08T10:20:53+00:00",
+      "source": "tradingview",
+      "url": "https://www.tradingview.com/news/stockstory:399720aaa094b:0-constellation-brands-nyse-stz-surprises-with-q1-cy2026-sales/",
+      "title": "Constellation Brands (NYSE:STZ) Surprises With Q1 CY2026 Sales - TradingView",
+      "body": "Beer, wine, and spirits company Constellation Brands STZ announced better-than-expected revenue in Q1 CY2026, but sales fell by 11.3% year on year to $1.92 billion. On the other hand, the company’s full-year revenue guidance of $9 billion at the midpoint came in 1.6% below analysts’ estimates. Its non-GAAP profit of $1.90 per share was 10.9% above analysts’ consensus estimates.\n\nConstellation Brands (STZ) Q1 CY2026 Highlights:\n\nWith a presence in more than 100 countries, Constellation Brands STZ is a globally renowned producer and marketer of beer, wine, and spirits.\n\nReviewing a company’s long-term sales performance reveals insights into its quality. Any business can put up a good quarter or two, but the best consistently grow over the long haul.\n\nWith $9.14 billion in revenue over the past 12 months, Constellation Brands is one of the larger consumer staples companies and benefits from a well-known brand that influences purchasing decisions. However, its scale is a double-edged sword because it’s harder to find incremental growth when your existing brands have penetrated most of the market. To expand meaningfully, Constellation Brands likely needs to tweak its prices, innovate with new products, or enter new markets.\n\nAs you can see below, Constellation Brands’s demand was weak over the last three years. Its sales fell by 1.1% annually, a poor baseline for our analysis.\n\nThis quarter, Constellation Brands’s revenue fell by 11.3% year on year to $1.92 billion but beat Wall Street’s estimates by 2.4%.\n\nLooking ahead, sell-side analysts expect revenue to remain flat over the next 12 months. Although this projection indicates its newer products will spur better top-line performance, it is still below the sector average.\n\nONE MORE THING: 3 Hidden Platforms Growing 3X Faster than Amazon, Google, and PayPal. Amazon, Google, and Meta all followed the same playbook: Dominate an ignored market. Build an unbeatable moat. Scale until you’re unstoppable.\n\nThese three platforms are running that exact playbook right now. The early investors in Amazon made fortunes. The early investors in these could do the same. Get All 3 Stocks Here for FREE.\n\nWhen analyzing revenue growth, we care most about organic revenue growth. This metric captures a business’s performance excluding one-time events such as mergers, acquisitions, and divestitures as well as foreign currency fluctuations.\n\nThe demand for Constellation Brands’s products has barely risen over the last eight quarters. On average, the company’s organic sales have been flat.\n\nIn the latest quarter, Constellation Brands’s year on year organic sales were flat. This performance was more or less in line with its historical levels.\n\nKey Takeaways from Constellation Brands’s Q1 Results\n\nWe were impressed by how significantly Constellation Brands blew past analysts’ organic revenue expectations this quarter. We were also happy its revenue outperformed Wall Street’s estimates. On the other hand, its EBITDA missed and its full-year EPS guidance fell short of Wall Street’s estimates. Overall, this was a weaker quarter. The stock traded down 2.1% to $147.76 immediately following the results.\n\nConstellation Brands underperformed this quarter, but does that create an opportunity to invest right now? When making that decision, it’s important to consider its valuation, business qualities, as well as what has happened in the latest quarter. We cover that in our actionable full research report which you can read here (it’s free).",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "trust_tier": 2,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.5575,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "c02ffab7-2e4b-5531-93eb-2308288fd76e",
+      "timestamp_utc": "2026-04-08T18:06:17+00:00",
+      "source": "msn",
+      "url": "http://www.msn.com/en-us/money/topstocks/stz-stock-drops-after-hours-on-disappointing-q4-earnings-fy27-guidance/ar-AA20rHsl?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "title": "STZ stock drops after-hours on disappointing Q4 earnings, FY27 guidance - MSN",
+      "body": "STZ stock drops after-hours on disappointing Q4 earnings, FY27 guidance MSN",
       "author": null,
       "language": "en",
       "ticker": "STZ",
@@ -105,20 +432,129 @@
         "STZ"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "msn",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MSN",
+        "source_domain": "msn.com",
         "event_origin": "news",
-        "query_tickers": [
-          "STZ"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.7,
+        "quality_score": 0.54,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "4bbdcb37-3d2c-59a4-ad03-4b78ecbd163b",
+      "timestamp_utc": "2026-04-08T14:28:00+00:00",
+      "source": "stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/stz-stock-drops-after-hours-on-disappointing-q4-earnings-fy27-guidance/cZJf9q5RIAM",
+      "title": "STZ Stock Drops After-Hours On Disappointing FY27 Guidance — Retail Stays Optimistic For Impending Rally - Stocktwits",
+      "body": "STZ Stock Drops After-Hours On Disappointing FY27 Guidance — Retail Stays Optimistic For Impending Rally Stocktwits",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stocktwits",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Stocktwits",
+        "source_domain": "stocktwits.com",
+        "event_origin": "news",
+        "relevance": 0.65,
+        "quality_score": 0.5275,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "76760119-83fa-5c02-b090-18effa616b62",
+      "timestamp_utc": "2026-04-08T10:41:05+00:00",
+      "source": "chartmill",
+      "url": "https://www.chartmill.com/news/STZ/Chartmill-45148-Constellation-Brands-NYSESTZ-Beats-Q4-Earnings-Estimates-but-Shares-Fall-on-Growth-Concerns",
+      "title": "Constellation Brands (NYSE:STZ) Beats Q4 Earnings Estimates but Shares Fall on Growth Concerns - ChartMill",
+      "body": "Constellation Brands (NYSE:STZ) Beats Q4 Earnings Estimates but Shares Fall on Growth Concerns ChartMill",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "chartmill",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "ChartMill",
+        "source_domain": "chartmill.com",
+        "event_origin": "news",
+        "relevance": 0.65,
+        "quality_score": 0.5175,
+        "_channel": "google_broad",
+        "_alt_sources": [
+          "ChartMill"
+        ]
+      }
+    },
+    {
+      "id": "0363b109-d74b-5b84-8f2a-3a165c052a61",
+      "timestamp_utc": "2026-04-08T09:53:30+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782372/stz-stock-update-wells-fargo-raises-price-target-to-180-stz-stock-news?mobile=true",
+      "title": "STZ Stock Update: Wells Fargo Raises Price Target to $180 | STZ - GuruFocus",
+      "body": "STZ Stock Update: Wells Fargo Raises Price Target to $180 | STZ GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4925,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "404558b9-8404-55c8-b19c-38438524edfc",
+      "timestamp_utc": "2026-04-08T10:57:44+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVGd5eDlUcG9QNnhXWnVOeXB3ZzVXbV9URkdXOGlvcGZsa3B1bm5nemtpc3Q1MHBZX2dBaU1HVkFUYjY5TlpHSkRuTjNVUzFmZUYxX2ZIMnFmdkpQdXIxY2ZzUXROWEFQVTRIVjFuakRTelRxY3pYOTE4YkE5UUNBQUtqX0lxUDBWMjZxaXJkaUVjRTRfQnF6YUg0QktDZF95VFdfeGFDYjlmc0o2RHk3N3NPRW92QQ?oc=5",
+      "title": "Constellation Brands (STZ) Shares Drop Following Q4 Results and Fiscal Outlook - GuruFocus",
+      "body": "Constellation Brands (STZ) Shares Drop Following Q4 Results and Fiscal Outlook GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "STZ",
+      "tickers_hint": [
+        "STZ"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4525,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

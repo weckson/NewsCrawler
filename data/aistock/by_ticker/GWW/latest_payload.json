@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "f63a6054-d020-57ce-a635-bb6feef922f9",
-      "timestamp_utc": "2026-04-04T15:24:27+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/GWW/financials",
-      "title": "GWW Financials: Revenue Breakdown, Margins & Competitor Comparison - Intellectia AI",
-      "body": "GWW Financials: Revenue Breakdown, Margins & Competitor Comparison Intellectia AI",
+      "id": "c4a59e5c-17b5-54af-b50e-5f631ac97ac6",
+      "timestamp_utc": "2026-04-05T23:03:29+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVTDNFOXdDdlVhYlNxb3puOGtGdWJHQ1pHaUpKNWJxcUpwa3dtN0dMNTRxVG4ydGRLaGtfcC0xOWpmUzZNRjJrM2ZXdGcya045YzRJN2ZIUGowMlk3YVVwck5KbUY?oc=5",
+      "title": "GWW Jul 2026 1240.000 call (GWW260717C01240000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "GWW Jul 2026 1240.000 call (GWW260717C01240000) Stock Price, News, Quote & History Yahoo! Finance Canada",
       "author": null,
       "language": "en",
       "ticker": "GWW",
@@ -15,31 +15,29 @@
         "GWW"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "yahoo! finance canada",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
         "event_origin": "news",
-        "query_tickers": [
-          "GWW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.405,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "f63a6054-d020-57ce-a635-bb6feef922f9",
-      "timestamp_utc": "2026-04-04T15:24:27+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/GWW/financials",
-      "title": "GWW Financials: Revenue Breakdown, Margins & Competitor Comparison - Intellectia AI",
-      "body": "GWW Financials: Revenue Breakdown, Margins & Competitor Comparison Intellectia AI",
+      "id": "c4a59e5c-17b5-54af-b50e-5f631ac97ac6",
+      "timestamp_utc": "2026-04-05T23:03:29+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVTDNFOXdDdlVhYlNxb3puOGtGdWJHQ1pHaUpKNWJxcUpwa3dtN0dMNTRxVG4ydGRLaGtfcC0xOWpmUzZNRjJrM2ZXdGcya045YzRJN2ZIUGowMlk3YVVwck5KbUY?oc=5",
+      "title": "GWW Jul 2026 1240.000 call (GWW260717C01240000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "GWW Jul 2026 1240.000 call (GWW260717C01240000) Stock Price, News, Quote & History Yahoo! Finance Canada",
       "author": null,
       "language": "en",
       "ticker": "GWW",
@@ -47,20 +45,18 @@
         "GWW"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "yahoo! finance canada",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
         "event_origin": "news",
-        "query_tickers": [
-          "GWW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.405,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

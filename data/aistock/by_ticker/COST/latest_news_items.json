@@ -1,11 +1,96 @@
 [
   {
-    "id": "a8dc9690-6c1a-514b-8dd8-f06e6d3ba3f0",
-    "timestamp_utc": "2026-04-03T12:16:44+00:00",
+    "id": "884bb7f0-873b-53db-afc7-2fb8136ff010",
+    "timestamp_utc": "2026-04-08T10:30:59+00:00",
+    "source": "stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOU2o5RUpaSW91QTAtWUUwbVJwWkxIai1XRHl0YzhUbjBOcnhvNGtOS2Z0V3dHS3hGSGJ5OXROaFRfYWJNczdaRC1oTklJZEFmbWVLWmtrNVFLR1ZpMm1zaWlyelQtdXkxaGxTa2hYTmU5UEtHWEtfSWlMeDdmZ18wb1dsWHBpSTJLMVpMTnlRRVZpX1cxUEwzMG9ERDVnSnQzSmxpQWM0X0thUDNQTGl5UVFoVk1lWHRpY1Y4U3F1N1ZJVFhRY0RVbUp0TGE0Zw?oc=5",
+    "title": "Dow, S&P 500, Nasdaq Futures Dip As US-Iran Ceasefire Doubts Resurface: Why APLD, BRK.B, PLTR, COST Stocks Are Trending After-Hours - Stocktwits",
+    "body": "Dow, S&P 500, Nasdaq Futures Dip As US-Iran Ceasefire Doubts Resurface: Why APLD, BRK.B, PLTR, COST Stocks Are Trending After-Hours Stocktwits",
+    "author": null,
+    "language": "en",
+    "ticker": "BRK.B",
+    "tickers_hint": [
+      "BRK.B",
+      "COST"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stocktwits",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Stocktwits",
+      "source_domain": "stocktwits.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.44,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "73144b38-9cd9-5a48-ac22-7b0a8a1a0b41",
+    "timestamp_utc": "2026-04-08T19:02:50+00:00",
+    "source": "benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdFJGY2FObk5oQWFGUmlsMk1ONUdiTTU3MWlZZF9Lb0kzdGk4US12cUN0ZGJCcWlXVjVkOXg3ZFhJLVl0NzIteGc0WDZhT3VJTmRDcWQxeXlzNS1OTlcwNkVlSTRTaFNQeURIWmY3RkwzNnhKSmg5NVpXNVhkZHIwcTJWSlY4X1J3eF9mXzdjQ3Y2LWtrMDk4VlR5My11RTFzWmxNa19naGo2TnJpYWxtbWl3NnkzYnhIU1Q2MWV1dmlGWDZBT2ZlUmtRUEZNZ01SZE8tUmYyRWtBMWZm?oc=5",
+    "title": "National Survey: Middle-Income Americans Reprioritizing Spending as Cost Pressures Persist - Benzinga - Benzinga",
+    "body": "National Survey: Middle-Income Americans Reprioritizing Spending as Cost Pressures Persist - Benzinga Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "COST",
+    "tickers_hint": [
+      "COST"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.665,
+      "_channel": "google_benzinga",
+      "_alt_sources": [
+        "Benzinga"
+      ]
+    }
+  },
+  {
+    "id": "2794312c-aa01-52cb-80d7-22ee803444f3",
+    "timestamp_utc": "2026-04-09T01:26:16+00:00",
+    "source": "seeking_alpha",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQlM5RUwzUkFjam5KQTRmN2YyZnVwblppemZPV1BrbFVpZVdzcXA1VG8zRjRXY1NTZEU4TlF0eTMzUDZIN2hKSGdfRmtQU3FrbmRIU3ItNW5JLTJnYWx5UDJxRURGRk1kYkw5Ymx2UTVpNkZQcV83TmxlYkRKNjFOX2xZdnJKbVNuNjBzX0p4cnBiVmRuSHpXYmJySXBERDhkRDYw?oc=5",
+    "title": "Costco: Stock's Premium Valuation Is Hard To Justify (NASDAQ:COST) - Seeking Alpha",
+    "body": "Costco: Stock's Premium Valuation Is Hard To Justify (NASDAQ:COST) Seeking Alpha",
+    "author": null,
+    "language": "en",
+    "ticker": "COST",
+    "tickers_hint": [
+      "COST"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "seekingalpha.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Seeking Alpha",
+      "source_domain": "seekingalpha.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.64,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "e4ab4b9d-e0a1-57ff-a2f3-be188a79519a",
+    "timestamp_utc": "2026-04-08T22:51:41+00:00",
     "source": "tipranks",
-    "url": "https://www.tipranks.com/news/costco-stock-cost-pops-on-significant-growth-runway-for-another-50-years",
-    "title": "Costco Stock (COST): Analyst Flags “Growth Runway for Another 50+ Years” - TipRanks",
-    "body": "Costco Stock (COST): Analyst Flags “Growth Runway for Another 50+ Years” TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY1k4SU02c0ljb0JyZkpmU1g1eThkdEp1OWVJaVZzUFhZM05SWlhWdVBQek9ubVNZR2dibmtVR01rTGZhV0J2Qm00ZTFQTW9QSldDOXlWb0U5NkZNWUEzWmJNd1I4ZHBpSFhFTkV4NzhuT0QzRldhVXBrSE85TWo2Y2gtZFhkMjVZaWJWZ3R6aFNoSmEtV2N3SG91TTgwYUh3aXplSVRPdVNmSEs1S1EwMQ?oc=5",
+    "title": "Costco Stock (COST) Rises on ‘Solid’ March Sales, But Truist Sticks with Hold — Here’s Why - TipRanks",
+    "body": "Costco Stock (COST) Rises on ‘Solid’ March Sales, But Truist Sticks with Hold — Here’s Why TipRanks",
     "author": null,
     "language": "en",
     "ticker": "COST",
@@ -14,27 +99,52 @@
     ],
     "source_quality": "high",
     "publisher_raw": "tipranks.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "TipRanks",
       "source_domain": "tipranks.com",
-      "trust_tier": 3,
-      "relevance": 0.55,
       "event_origin": "news",
-      "query_tickers": [
-        "COST"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.64,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "7a278e6c-f41d-5b49-b679-bf39d0e82690",
-    "timestamp_utc": "2026-04-04T11:47:44+00:00",
-    "source": "yahoo_finance_uk",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jRk9SQ2NqNy05OU5iaUUxZzB1U3BzZXV2N1V3Rkg1Yjd4T09ycVNZWUE2amJfeDN1bHhIR0R3dk5xWk5uZ25SV2hyNzd0OWF0OUE?oc=5",
-    "title": "Costco Wholesale Corporation (COST) stock price, news, quote and history - Yahoo Finance UK",
-    "body": "Costco Wholesale Corporation (COST) stock price, news, quote and history Yahoo Finance UK",
+    "id": "466d353b-2fdc-5fe6-8783-ef79ece73cfa",
+    "timestamp_utc": "2026-04-09T01:07:25+00:00",
+    "source": "investing.com",
+    "url": "https://www.investing.com/news/analyst-ratings/truist-downgrades-tronox-stock-rating-to-hold-on-cost-pressures-93CH-4605003",
+    "title": "Truist downgrades Tronox stock rating to hold on cost pressures - Investing.com",
+    "body": "Truist downgrades Tronox stock rating to hold on cost pressures Investing.com",
+    "author": null,
+    "language": "en",
+    "ticker": "COST",
+    "tickers_hint": [
+      "COST"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "investing.com",
+    "trust_tier": 2,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Investing.com",
+      "source_domain": "investing.com",
+      "event_origin": "news",
+      "relevance": 0.6,
+      "quality_score": 0.605,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "513745db-599d-541f-a158-773f4fa43f23",
+    "timestamp_utc": "2026-04-09T02:12:29+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/telsey-advisory-group-issues-positive-forecast-for-costco-wholesale-nasdaqcost-stock-price-2026-04-09/",
+    "title": "Telsey Advisory Group Issues Positive Forecast for Costco Wholesale (NASDAQ:COST) Stock Price - MarketBeat",
+    "body": "Telsey Advisory Group Issues Positive Forecast for Costco Wholesale (NASDAQ:COST) Stock Price MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "COST",
@@ -42,19 +152,44 @@
       "COST"
     ],
     "source_quality": "low",
-    "publisher_raw": "yahoo finance uk",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance UK",
-      "source_domain": "yahoofinanceuk.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
       "event_origin": "news",
-      "query_tickers": [
-        "COST"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4925,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "7c7ac0bc-ff68-561d-8f4d-8821d2c35cc0",
+    "timestamp_utc": "2026-04-07T22:39:53+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-bip-wealth-llc-increases-stock-position-in-costco-wholesale-corporation-cost-2026-04-08/",
+    "title": "BIP Wealth LLC Increases Stock Position in Costco Wholesale Corporation $COST - MarketBeat",
+    "body": "BIP Wealth LLC Increases Stock Position in Costco Wholesale Corporation $COST MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "COST",
+    "tickers_hint": [
+      "COST"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4025,
+      "_channel": "google_broad"
+    }
   }
 ]

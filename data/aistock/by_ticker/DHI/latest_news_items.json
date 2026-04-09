@@ -1,31 +1,56 @@
 [
   {
-    "id": "e2761414-05ab-53dd-a388-5ef272a0627e",
-    "timestamp_utc": "2026-04-03T15:40:03+00:00",
-    "source": "yahoo_finance",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbDlUY2VKLU5BSDRzRXRWdXdKYWlPNno4UUIyS0FVNXlyZUpib1ljWWI5b3lYeDdBbW1hcndRMjAwRl9yQU53eUhjNUxmczFGNjMxZ3Nzd2xTZG4xZF9NNzIwLTBjLXdkXzBWSlR5NlBWUmw1VlBIenVteUJmSkJfRE9MZ0k2bnpWdzduaVdvUnhIQQ?oc=5",
-    "title": "DHI vs. NVR: Which Stock Is the Better Value Option? - Yahoo Finance",
-    "body": "DHI vs. NVR: Which Stock Is the Better Value Option? Yahoo Finance",
+    "id": "462ef83a-fe2a-58b5-9a2e-1314eb3d40e6",
+    "timestamp_utc": "2026-04-08T08:04:09+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8782114/dhi-stock-rating-barclays-lowers-price-target-to-usd-128-dhi-stock-news?mobile=true",
+    "title": "DHI Stock Rating: Barclays Lowers Price Target to USD 128 | DHI - GuruFocus",
+    "body": "DHI Stock Rating: Barclays Lowers Price Target to USD 128 | DHI GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "DHI",
     "tickers_hint": [
       "DHI"
     ],
-    "source_quality": "high",
-    "publisher_raw": "finance.yahoo.com",
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance",
-      "source_domain": "finance.yahoo.com",
-      "trust_tier": 3,
-      "relevance": 0.5,
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
       "event_origin": "news",
-      "query_tickers": [
-        "DHI"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.7000000000000001,
+      "quality_score": 0.49,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "912bcee1-85a3-5e68-bc3a-61ba4ab132b6",
+    "timestamp_utc": "2026-04-08T06:00:22+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/barclays-issues-pessimistic-forecast-for-dr-horton-nysedhi-stock-price-2026-04-08/",
+    "title": "Barclays Issues Pessimistic Forecast for D.R. Horton (NYSE:DHI) Stock Price - MarketBeat",
+    "body": "Barclays Issues Pessimistic Forecast for D.R. Horton (NYSE:DHI) Stock Price MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "DHI",
+    "tickers_hint": [
+      "DHI"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4375,
+      "_channel": "google_broad"
+    }
   }
 ]

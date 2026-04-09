@@ -2,123 +2,61 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "78e55cfa-a79d-5f4d-9efd-e46401962210",
-      "timestamp_utc": "2026-04-02T18:49:30+00:00",
-      "source": "yahoo_finance",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnRkVISTFHZXNHNHRYS1hFOWlKRlhVaVk1RlBxR0lROGV4dVJveXZsNFh6OTFVWTdGUmFwbkRMcmdMTEFwalpmNVM2M1NKanNFVFFF?oc=5",
-      "title": "State Street Corporation (STT) Latest Stock News & Headlines - Yahoo Finance",
-      "body": "State Street Corporation (STT) Latest Stock News & Headlines Yahoo Finance",
+      "id": "b1089c22-a745-5df4-9a9e-6f0c7f40916a",
+      "timestamp_utc": "2026-04-08T05:35:00+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMWM2SzZENWFsaThNNE1WNVM2Sml5S0hVVlZBUExvcjJVZUtZWGVqbDl1ZVFNWDhMN2tZb3NBWnN2aEd6MElxdy1QOTk4QkZ3cEdJNVpLcldHMXdlUHF5VXpyazAtUV9hQW0xcDlFcnU3TXBXam9zNnNYRmk2NVh4bHdSWWhzUmtsYkQ0MVlFTDNVeHVCRk9ucFdscU1nOFNnVExhOUh2T3JBOGJDQXNsQkw0b09RZWh5bVE?oc=5",
+      "title": "BLK & STT Enter Nasdaq 100 Index ETFs, Challenge Invesco QQQ Fund - TradingView",
+      "body": "BLK & STT Enter Nasdaq 100 Index ETFs, Challenge Invesco QQQ Fund TradingView",
       "author": null,
       "language": "en",
       "ticker": "STT",
       "tickers_hint": [
         "STT"
       ],
-      "source_quality": "high",
-      "publisher_raw": "finance.yahoo.com",
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
-        "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
         "event_origin": "news",
-        "query_tickers": [
-          "STT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "2458e695-88ec-5fab-8ca0-18fc96528247",
-      "timestamp_utc": "2026-04-02T02:03:31+00:00",
-      "source": "mint",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOXzFYREdOaGRKSlFzMi1fOF9fNkpuSE1lOFR4bDlkaHJDTnE1ZXFiMERSQmx1bDlueWhBeHpYaUFkYjBIQ0ktRERRamdyZW5GQ1RuMWVZZWdMd3RITmZNbGZpTXRqcUdMMnJJaUJVTGZEclRkeUVvOEIzaFYzaTFaenJiQWNyYWpPYnloNGEzTkt3TlhZcWxqOTVJampUTkpsUFB3NXYyRTdteWlHYXVScFVSU09VbFFwTDk5bmNYYlpqTUN4SmtTdmNtZ21pZmZ3YWZUR1VORWJtb2l4U3VJUGdqTndXWEkwRkJpdllEdDRqUzhRTkdJNGZnMHhaUFll0gGGAkFVX3lxTE90eDNSdHZEVjdPQjJmUElaSUxscWtHTmxLMHBXT3R6QUtrZnFVeTlTX1l0a0NxdHdMU29uRHZOYVhvdFgzX0NmclVkWFZhdmJaeHk3eVZJM184YmJnRXBOcDR2di0tcVZEaEdHTHRISjM5OGxjbllZYW8xVXlOZjV1Sm1KQk9UM3JRQmVCcXJMOVkwUjhRMGo5Tjh5OWZJZWk0dGg4N2Rpd3Y3ODhmcnQ5SjIzY1dLdWx5bkM3MlNpNE5obXRkYkZncjVvMkxINVdXUXlvWk1nMTVyX1RRYkhsLU5pc3QzQjdMZ2JTRllzMWVuNnhfa0ZHX3RuSERqbmc4ZUZndEE?oc=5",
-      "title": "STT hike on F&O kicks in from April 1: Will it worsen pain for traders amid US-Iran war-led volatility? - Mint",
-      "body": "STT hike on F&O kicks in from April 1: Will it worsen pain for traders amid US-Iran war-led volatility? Mint",
-      "author": null,
-      "language": "en",
-      "ticker": "STT",
-      "tickers_hint": [
-        "STT"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "mint",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Mint",
-        "source_domain": "mint.com",
-        "trust_tier": 1,
         "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "STT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.53,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "78e55cfa-a79d-5f4d-9efd-e46401962210",
-      "timestamp_utc": "2026-04-02T18:49:30+00:00",
-      "source": "yahoo_finance",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnRkVISTFHZXNHNHRYS1hFOWlKRlhVaVk1RlBxR0lROGV4dVJveXZsNFh6OTFVWTdGUmFwbkRMcmdMTEFwalpmNVM2M1NKanNFVFFF?oc=5",
-      "title": "State Street Corporation (STT) Latest Stock News & Headlines - Yahoo Finance",
-      "body": "State Street Corporation (STT) Latest Stock News & Headlines Yahoo Finance",
+      "id": "b1089c22-a745-5df4-9a9e-6f0c7f40916a",
+      "timestamp_utc": "2026-04-08T05:35:00+00:00",
+      "source": "tradingview",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMWM2SzZENWFsaThNNE1WNVM2Sml5S0hVVlZBUExvcjJVZUtZWGVqbDl1ZVFNWDhMN2tZb3NBWnN2aEd6MElxdy1QOTk4QkZ3cEdJNVpLcldHMXdlUHF5VXpyazAtUV9hQW0xcDlFcnU3TXBXam9zNnNYRmk2NVh4bHdSWWhzUmtsYkQ0MVlFTDNVeHVCRk9ucFdscU1nOFNnVExhOUh2T3JBOGJDQXNsQkw0b09RZWh5bVE?oc=5",
+      "title": "BLK & STT Enter Nasdaq 100 Index ETFs, Challenge Invesco QQQ Fund - TradingView",
+      "body": "BLK & STT Enter Nasdaq 100 Index ETFs, Challenge Invesco QQQ Fund TradingView",
       "author": null,
       "language": "en",
       "ticker": "STT",
       "tickers_hint": [
         "STT"
       ],
-      "source_quality": "high",
-      "publisher_raw": "finance.yahoo.com",
+      "source_quality": "medium",
+      "publisher_raw": "tradingview.com",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
-        "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
+        "source_name": "TradingView",
+        "source_domain": "tradingview.com",
         "event_origin": "news",
-        "query_tickers": [
-          "STT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "2458e695-88ec-5fab-8ca0-18fc96528247",
-      "timestamp_utc": "2026-04-02T02:03:31+00:00",
-      "source": "mint",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOXzFYREdOaGRKSlFzMi1fOF9fNkpuSE1lOFR4bDlkaHJDTnE1ZXFiMERSQmx1bDlueWhBeHpYaUFkYjBIQ0ktRERRamdyZW5GQ1RuMWVZZWdMd3RITmZNbGZpTXRqcUdMMnJJaUJVTGZEclRkeUVvOEIzaFYzaTFaenJiQWNyYWpPYnloNGEzTkt3TlhZcWxqOTVJampUTkpsUFB3NXYyRTdteWlHYXVScFVSU09VbFFwTDk5bmNYYlpqTUN4SmtTdmNtZ21pZmZ3YWZUR1VORWJtb2l4U3VJUGdqTndXWEkwRkJpdllEdDRqUzhRTkdJNGZnMHhaUFll0gGGAkFVX3lxTE90eDNSdHZEVjdPQjJmUElaSUxscWtHTmxLMHBXT3R6QUtrZnFVeTlTX1l0a0NxdHdMU29uRHZOYVhvdFgzX0NmclVkWFZhdmJaeHk3eVZJM184YmJnRXBOcDR2di0tcVZEaEdHTHRISjM5OGxjbllZYW8xVXlOZjV1Sm1KQk9UM3JRQmVCcXJMOVkwUjhRMGo5Tjh5OWZJZWk0dGg4N2Rpd3Y3ODhmcnQ5SjIzY1dLdWx5bkM3MlNpNE5obXRkYkZncjVvMkxINVdXUXlvWk1nMTVyX1RRYkhsLU5pc3QzQjdMZ2JTRllzMWVuNnhfa0ZHX3RuSERqbmc4ZUZndEE?oc=5",
-      "title": "STT hike on F&O kicks in from April 1: Will it worsen pain for traders amid US-Iran war-led volatility? - Mint",
-      "body": "STT hike on F&O kicks in from April 1: Will it worsen pain for traders amid US-Iran war-led volatility? Mint",
-      "author": null,
-      "language": "en",
-      "ticker": "STT",
-      "tickers_hint": [
-        "STT"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "mint",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Mint",
-        "source_domain": "mint.com",
-        "trust_tier": 1,
         "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "STT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.53,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

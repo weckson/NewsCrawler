@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "6cd8467c-d82c-5a65-9f04-a8856c33f76e",
-      "timestamp_utc": "2026-04-01T07:52:02+00:00",
-      "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8765659/quanta-services-pwr-receives-price-target-adjustment-from-evercore-isi-group-pwr-stock-news",
-      "title": "Quanta Services (PWR) Receives Price Target Adjustment from Ever - GuruFocus",
-      "body": "Quanta Services (PWR) Receives Price Target Adjustment from Ever GuruFocus",
+      "id": "eac8f65a-db3c-5171-9aa5-8edb1b4ee393",
+      "timestamp_utc": "2026-04-06T13:40:42+00:00",
+      "source": "bitget.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1maldtY1Y2Tkhua3pzUjVNc1VyWVJaZUhsamhEbEJnUm5xYWc4TG9MQTRjaWVOMEFqRHFHYkdqMWt3bUgtWWY5a2x6NjdZaGg0TVEtWVFlY0VmU1pnc3Q3WTJRb9IBY0FVX3lxTE1maldtY1Y2Tkhua3pzUjVNc1VyWVJaZUhsamhEbEJnUm5xYWc4TG9MQTRjaWVOMEFqRHFHYkdqMWt3bUgtWWY5a2x6NjdZaGg0TVEtWVFlY0VmU1pnc3Q3WTJRbw?oc=5",
+      "title": "Quanta Services (PWR) Shares Decline Despite Market Gains: Key Information for Investors - bitget.com",
+      "body": "Quanta Services (PWR) Shares Decline Despite Market Gains: Key Information for Investors bitget.com",
       "author": null,
       "language": "en",
       "ticker": "PWR",
@@ -15,31 +15,29 @@
         "PWR"
       ],
       "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
+      "publisher_raw": "bitget.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "bitget.com",
+        "source_domain": "bitgetcom.com",
         "event_origin": "news",
-        "query_tickers": [
-          "PWR"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.39,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "6cd8467c-d82c-5a65-9f04-a8856c33f76e",
-      "timestamp_utc": "2026-04-01T07:52:02+00:00",
-      "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8765659/quanta-services-pwr-receives-price-target-adjustment-from-evercore-isi-group-pwr-stock-news",
-      "title": "Quanta Services (PWR) Receives Price Target Adjustment from Ever - GuruFocus",
-      "body": "Quanta Services (PWR) Receives Price Target Adjustment from Ever GuruFocus",
+      "id": "eac8f65a-db3c-5171-9aa5-8edb1b4ee393",
+      "timestamp_utc": "2026-04-06T13:40:42+00:00",
+      "source": "bitget.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1maldtY1Y2Tkhua3pzUjVNc1VyWVJaZUhsamhEbEJnUm5xYWc4TG9MQTRjaWVOMEFqRHFHYkdqMWt3bUgtWWY5a2x6NjdZaGg0TVEtWVFlY0VmU1pnc3Q3WTJRb9IBY0FVX3lxTE1maldtY1Y2Tkhua3pzUjVNc1VyWVJaZUhsamhEbEJnUm5xYWc4TG9MQTRjaWVOMEFqRHFHYkdqMWt3bUgtWWY5a2x6NjdZaGg0TVEtWVFlY0VmU1pnc3Q3WTJRbw?oc=5",
+      "title": "Quanta Services (PWR) Shares Decline Despite Market Gains: Key Information for Investors - bitget.com",
+      "body": "Quanta Services (PWR) Shares Decline Despite Market Gains: Key Information for Investors bitget.com",
       "author": null,
       "language": "en",
       "ticker": "PWR",
@@ -47,20 +45,18 @@
         "PWR"
       ],
       "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
+      "publisher_raw": "bitget.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
+        "source_name": "bitget.com",
+        "source_domain": "bitgetcom.com",
         "event_origin": "news",
-        "query_tickers": [
-          "PWR"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.39,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

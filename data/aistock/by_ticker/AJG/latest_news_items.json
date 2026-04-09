@@ -1,11 +1,11 @@
 [
   {
-    "id": "59c23ec9-78cc-552b-8b0f-3201c716b5da",
-    "timestamp_utc": "2026-04-04T13:45:55+00:00",
-    "source": "intellectia_ai",
-    "url": "https://intellectia.ai/en/stock/AJG/earnings",
-    "title": "AJG Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-    "body": "AJG Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+    "id": "ee09b868-4b58-5bf7-aead-b077df85bd53",
+    "timestamp_utc": "2026-04-08T05:23:09+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8781980/barclays-raises-price-target-for-arthur-j-gallagher-ajg-to-27500-ajg-stock-news?utm_source=marketwatch&utm_medium=syndication&utm_campaign=headlines&r=4bf001661e6fdd88d0cd7a5659ff9748&mod=mw_quote_news",
+    "title": "Barclays Raises Price Target for Arthur J. Gallagher (AJG) to $2 - GuruFocus",
+    "body": "Barclays Raises Price Target for Arthur J. Gallagher (AJG) to $2 GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "AJG",
@@ -13,19 +13,44 @@
       "AJG"
     ],
     "source_quality": "low",
-    "publisher_raw": "intellectia ai",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Intellectia AI",
-      "source_domain": "intellectiaai.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
       "event_origin": "news",
-      "query_tickers": [
-        "AJG"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4675,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "7ed16f0f-f29e-5f80-874b-7fbccb859de4",
+    "timestamp_utc": "2026-04-08T02:38:42+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-4886-shares-in-arthur-j-gallagher-co-ajg-purchased-by-v2-financial-group-llc-2026-04-08/",
+    "title": "4,886 Shares in Arthur J. Gallagher & Co. $AJG Purchased by V2 Financial group LLC - MarketBeat",
+    "body": "4,886 Shares in Arthur J. Gallagher & Co. $AJG Purchased by V2 Financial group LLC MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "AJG",
+    "tickers_hint": [
+      "AJG"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4225,
+      "_channel": "google_broad"
+    }
   }
 ]

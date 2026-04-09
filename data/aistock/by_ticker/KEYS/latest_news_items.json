@@ -1,11 +1,11 @@
 [
   {
-    "id": "ec34af73-7fcc-53dc-907c-f97889a86625",
-    "timestamp_utc": "2026-04-03T09:28:29+00:00",
-    "source": "intellectia_ai",
-    "url": "https://intellectia.ai/en/stock/KEYS/news",
-    "title": "KEYS Stock News Today | Earnings, Events & Price Alerts - Intellectia AI",
-    "body": "KEYS Stock News Today | Earnings, Events & Price Alerts Intellectia AI",
+    "id": "0cb8970e-a448-5052-b20d-5b876c55203a",
+    "timestamp_utc": "2026-04-06T15:16:32+00:00",
+    "source": "msn",
+    "url": "https://www.msn.com/en-us/money/topstocks/keysight-keys-down-1-since-last-earnings-report-can-it-rebound/ar-AA1Zo7ef",
+    "title": "Keysight (KEYS) down 1% since last earnings report: Can it rebound? - MSN",
+    "body": "Keysight (KEYS) down 1% since last earnings report: Can it rebound? MSN",
     "author": null,
     "language": "en",
     "ticker": "KEYS",
@@ -13,22 +13,17 @@
       "KEYS"
     ],
     "source_quality": "low",
-    "publisher_raw": "intellectia ai",
+    "publisher_raw": "msn",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Intellectia AI",
-      "source_domain": "intellectiaai.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
+      "source_name": "MSN",
+      "source_domain": "msn.com",
       "event_origin": "news",
-      "query_tickers": [
-        "KEYS"
-      ],
-      "alt_sources": [
-        "Intellectia AI"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4475,
+      "_channel": "google_broad"
+    }
   }
 ]

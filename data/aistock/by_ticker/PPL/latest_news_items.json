@@ -1,11 +1,38 @@
 [
   {
-    "id": "8be96287-f4f1-5d88-bcce-387bbeee55a7",
-    "timestamp_utc": "2026-04-03T12:00:19+00:00",
+    "id": "38120b18-b572-51a4-96dd-2edbe026fd58",
+    "timestamp_utc": "2026-04-08T18:11:40+00:00",
+    "source": "trefis",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT1lQVUdLTGlnQVdXU0g0ZTktd0NCTnJBVXFhU3REQWdFbXpkdEtVNXUxQl8zOTVWUV9TcHg0X1ZPV1hLa2RBbE9abUFoZ2Fack83UDNSaFNBOFFXTVBENlhpeEMzNzRXLWIyRFYxVWVvVWlQVDBrZnhQVmhuZFU1MnRobVAtUHdnSm8wLTNUN1RTQlRXWHlyRWlNLS1lZHl1MWNYTllGSFRWYVM0U01oMFN2eERIUkNTaVgzUw?oc=5",
+    "title": "PPL Stock On Fire: Up 7.1% With 12-Day Winning Streak - Trefis",
+    "body": "PPL Stock On Fire: Up 7.1% With 12-Day Winning Streak Trefis",
+    "author": null,
+    "language": "en",
+    "ticker": "PPL",
+    "tickers_hint": [
+      "PPL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "trefis",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Trefis",
+      "source_domain": "trefis.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.475,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "7f3b3a50-0f38-58e8-a299-f3563eb8f9f0",
+    "timestamp_utc": "2026-04-08T07:26:54+00:00",
     "source": "gurufocus",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqUGNEYjZXcmRoSkpILTF4Q3FUQk56T0tjUUFWcWZNUy1GZjd5dlhXcmtJMzdpRVRtVTVENmpsS2wtdFN6TFZzMEduUDg1Q1l3clhVcDZ4bHhKZlFOaWg0REs5X0hWQ1N5RmttY1FR?oc=5",
-    "title": "PPL Corp (PPL) Stock Price, Trades & News - GuruFocus",
-    "body": "PPL Corp (PPL) Stock Price, Trades & News GuruFocus",
+    "url": "https://www.gurufocus.com/news/8782309/barclays-raises-price-target-for-ppl-to-41-maintains-overweight-rating-ppl-stock-news?mobile=true",
+    "title": "Barclays Raises Price Target for PPL to $41, Maintains Overweigh - GuruFocus",
+    "body": "Barclays Raises Price Target for PPL to $41, Maintains Overweigh GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "PPL",
@@ -14,27 +41,82 @@
     ],
     "source_quality": "low",
     "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "GuruFocus",
       "source_domain": "gurufocus.com",
-      "trust_tier": 1,
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4675,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "f6a1f31c-0c6b-5acc-91ae-005815a3d862",
+    "timestamp_utc": "2026-04-07T18:32:47+00:00",
+    "source": "trefis",
+    "url": "https://www.trefis.com/stock/ppl/articles/596029/ppl-stock-surges-6-3-with-a-11-day-winning-spree/2026-04-08",
+    "title": "PPL Stock Surges 6.3%, With A 11-Day Winning Spree - Trefis",
+    "body": "PPL (PPL) – a provider of electricity and natural gas services in Kentucky – hit a 11-day winning streak, with cumulative gains over this period amounting to 6.3%. The company’s market cap has surged by about $1.7 Bil over the last 11 days and currently stands at $29 Bil.\n\nIs this an opportunity or a trap? There are a few things to fear in PPL stock given its overall Moderate operating performance and financial condition. Hence, despite its Moderate valuation, this makes the stock look Risky (For details, see Buy or Sell PPL).\n\nBut here is the interesting part. You are reading about this 6.3% move after it happened. The market has already priced in the news. To catch the next winner before the headlines, you need predictive signals, not notifications. High Quality Portfolio is based on an architecture that includes such signals.\n\nThe following table summarizes the return for PPL stock vs. the S&P 500 index over different periods, including the current streak:\n\nHowever, big gains can follow sharp reversals – but how has PPL behaved after prior drops? See PPL Dip Buyer Analysis to learn more.\n\nGains and Losses Streaks: S&P 500 Constituents\n\nThere are currently 69 S&P constituents with 3 days or more of consecutive gains and 33 constituents with 3 days or more of consecutive losses.\n\nWhile PPL stock looks attractive given its winning streak, investing in a single stock without detailed, thorough analysis can be risky. The Trefis High Quality (HQ) Portfolio, with a collection of 30 stocks, has a track record of comfortably outperforming its benchmark that includes all 3 — the S&P 500, S&P mid-cap, and Russell 2000 indices. Why is that? As a group, HQ Portfolio stocks provided better returns with less risk versus the benchmark index; less of a roller-coaster ride, as evident in HQ Portfolio performance metrics.",
+    "author": null,
+    "language": "en",
+    "ticker": "PPL",
+    "tickers_hint": [
+      "PPL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "trefis",
+    "trust_tier": 1,
+    "body_kind": "article_text",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Trefis",
+      "source_domain": "trefis.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4575,
+      "_channel": "google_broad",
+      "_alt_sources": [
+        "Trefis"
+      ]
+    }
+  },
+  {
+    "id": "95f605b0-999c-51b6-9bb8-afdc7f749546",
+    "timestamp_utc": "2026-04-08T22:36:30+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91Wjg3VzRWN0tHQTloVkxHQUpuaXBDWEpDWU9YdlZhYmRiZXhGV1ZxZXM5eWhuRFdkVmZoUFJyT0lhVkJORG1DTlVoLUVXN0d6?oc=5",
+    "title": "PPL Corporation (PPL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "body": "PPL Corporation (PPL) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "author": null,
+    "language": "en",
+    "ticker": "PPL",
+    "tickers_hint": [
+      "PPL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "yahoo! finance canada",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
+      "event_origin": "news",
       "relevance": 0.6000000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "PPL"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.455,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "51ed3605-742d-5f8e-86e8-adada32aaa4f",
-    "timestamp_utc": "2026-04-04T02:47:24+00:00",
-    "source": "yahoo_finance_singapore",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90TG1OdUg5MVRCMUxUNElnY2pQZjZuUDVQWFlQbGRNSzk5cTctLVhfWjlFWW80aHhqcjBSWVlIMDBfMnBwdHE4aHVrY0xla0NGcWRiNDlVV0dNRXNLZENLVU1JREY?oc=5",
-    "title": "PPL Jul 2026 35.000 call (PPL260717C00035000) stock price, news, quote and history - Yahoo Finance Singapore",
-    "body": "PPL Jul 2026 35.000 call (PPL260717C00035000) stock price, news, quote and history Yahoo Finance Singapore",
+    "id": "787635b3-1df5-5f3e-9c6d-be594883e6e7",
+    "timestamp_utc": "2026-04-07T23:33:00+00:00",
+    "source": "financialcontent",
+    "url": "https://www.financialcontent.com/article/barchart-2026-4-8-ppl-corporations-q1-2026-earnings-what-to-expect",
+    "title": "PPL Corporation’s Q1 2026 Earnings: What to Expect - FinancialContent",
+    "body": "PPL Corporation’s Q1 2026 Earnings: What to Expect FinancialContent",
     "author": null,
     "language": "en",
     "ticker": "PPL",
@@ -42,28 +124,29 @@
       "PPL"
     ],
     "source_quality": "low",
-    "publisher_raw": "yahoo finance singapore",
+    "publisher_raw": "financialcontent",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance Singapore",
-      "source_domain": "yahoofinancesingapore.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "FinancialContent",
+      "source_domain": "financialcontent.com",
       "event_origin": "news",
-      "query_tickers": [
-        "PPL"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6,
+      "quality_score": 0.455,
+      "_channel": "google_broad",
+      "_alt_sources": [
+        "Inkl"
+      ]
+    }
   },
   {
-    "id": "10a43e6a-9b4b-57ad-b8c7-1d2831ed470b",
-    "timestamp_utc": "2026-04-03T21:48:26+00:00",
-    "source": "msn.com",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONndiTU9JQmVTeXhIVVVCLXRjc1lKbWt1R3RyNkEzbXd5aXJRZTJDSkRLTWs4TW5IalR2VHhVRzFzVkktbkxrNW5zM3FJbENuZldVVlREaHhySUlSSTEzbDFIODdtajNjQjZWNGdOQWQtenktZkEtMjc0WnVLc0tZZA?oc=5",
-    "title": "PEMBINA PIPELINE CORPORATION (PPL) - msn.com",
-    "body": "PEMBINA PIPELINE CORPORATION (PPL) msn.com",
+    "id": "857bd3e9-3c82-55ca-b507-c374ce51e0b8",
+    "timestamp_utc": "2026-04-08T08:45:49+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/national-bank-financial-forecasts-strong-price-appreciation-for-pembina-pipeline-tseppl-stock-2026-04-08/",
+    "title": "National Bank Financial Forecasts Strong Price Appreciation for Pembina Pipeline (TSE:PPL) Stock - MarketBeat",
+    "body": "National Bank Financial Forecasts Strong Price Appreciation for Pembina Pipeline (TSE:PPL) Stock MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "PPL",
@@ -71,19 +154,98 @@
       "PPL"
     ],
     "source_quality": "low",
-    "publisher_raw": "msn.com",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "msn.com",
-      "source_domain": "msncom.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
       "event_origin": "news",
-      "query_tickers": [
-        "PPL"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4525,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "fc5ac146-56a6-56be-a2f1-7fc3cfc9cca4",
+    "timestamp_utc": "2026-04-08T10:24:54+00:00",
+    "source": "investing.com_india",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMXZrcWhHZkJNQnEzWFhNZUVTZWZoTFNEZFV0M3BseFpaR3hNcVJtY3JpdlF6ZDZDdmdTYzV4c0x0UUZXTzEtOFdpVXNlU0VMeVFONUxlSG1kTjZrMThWdjhuR0ZUcGFrUnlEcE5kcnNSU0pzTFdJdDJhMGNHeWpyekFxYmNNaV9nOF83M2t6XzFVTHVG?oc=5",
+    "title": "PPL stock hits 52-week high at $39.09 By Investing.com - Investing.com India",
+    "body": "PPL stock hits 52-week high at $39.09 By Investing.com Investing.com India",
+    "author": null,
+    "language": "en",
+    "ticker": "PPL",
+    "tickers_hint": [
+      "PPL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "investing.com india",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Investing.com India",
+      "source_domain": "investingcomindia.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.44,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "a17a99d0-beba-5ded-9e26-20f88511460c",
+    "timestamp_utc": "2026-04-08T08:45:49+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/barclays-forecasts-strong-price-appreciation-for-pembina-pipeline-tseppl-stock-2026-04-08/",
+    "title": "Barclays Forecasts Strong Price Appreciation for Pembina Pipeline (TSE:PPL) Stock - MarketBeat",
+    "body": "Barclays Forecasts Strong Price Appreciation for Pembina Pipeline (TSE:PPL) Stock MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "PPL",
+    "tickers_hint": [
+      "PPL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4375,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "1375548a-23c0-5c27-aa78-f50c0f369892",
+    "timestamp_utc": "2026-04-07T21:27:30+00:00",
+    "source": "defense_world",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRjEyQjFpek0tUTN3R3ExcXl4WnVzdU1tc1AwMVJaQkFTVXZsNjlpZms5MGt5cmlvMjVOakk3M1lYbHJ1REZ2cUktNjVaZGhVNk81aGhkZF8yMURFOU5ZZXE3RzdpblZMN0l4cXF3SUFOOXlDX2l0ejdKTlJkZGI2ek01X01TQUtOdDRaWlB3amozTENYQmdoQ252RG9CU2x3cEhTTzVnN0FpTHE1a1hQVzZR?oc=5",
+    "title": "PPL (NYSE:PPL) Stock Crosses Above 200-Day Moving Average – Time to Sell? - Defense World",
+    "body": "PPL (NYSE:PPL) Stock Crosses Above 200-Day Moving Average – Time to Sell? Defense World",
+    "author": null,
+    "language": "en",
+    "ticker": "PPL",
+    "tickers_hint": [
+      "PPL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "defense world",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Defense World",
+      "source_domain": "defenseworld.com",
+      "event_origin": "news",
+      "relevance": 0.6000000000000001,
+      "quality_score": 0.415,
+      "_channel": "google_broad"
+    }
   }
 ]

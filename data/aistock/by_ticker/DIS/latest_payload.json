@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "e67fcf05-ec0a-520c-9a76-329afb8351ac",
-      "timestamp_utc": "2026-04-02T22:01:51+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMkt6bURQNEJDQ3owLURvaE5LZEZRaTgxdEtDdTdTbmpXWVdOdnBwSlNRMk1uY0I5RnpoNllPUUpsQTlEbE5zMC0zcUZwbmZGY1pORmc2aWp0SEJxUGk1Y0Z3NHBGMEZBSmduNGp6MldXZTdQcmZmeDhmN08wakRVd0g2SkxfUXA0b05SOGF2WXAxd056Ui1CTDA5X2JySk5WX1N6TEVUbkhhaUE?oc=5",
-      "title": "Disney (NYSE: DIS) director Carolyn Everson granted 1,064.7 shares in award - Stock Titan",
-      "body": "Disney (NYSE: DIS) director Carolyn Everson granted 1,064.7 shares in award Stock Titan",
+      "id": "7fb5ee67-722e-5659-9433-1c304db20b04",
+      "timestamp_utc": "2026-04-08T23:46:46+00:00",
+      "source": "stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/dis-stock-falls-premarket-media-giant-reportedly-plans-to-lay-off-1-000-staff-as-new-ceo-takes-over/cZJgClNRIrg",
+      "title": "DIS Stock Falls Premarket: Media Giant Reportedly Plans To Lay Off 1,000 Staff As New CEO Takes Over - Stocktwits",
+      "body": "DIS Stock Falls Premarket: Media Giant Reportedly Plans To Lay Off 1,000 Staff As New CEO Takes Over Stocktwits",
       "author": null,
       "language": "en",
       "ticker": "DIS",
@@ -15,31 +15,110 @@
         "DIS"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "stocktwits",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Stocktwits",
+        "source_domain": "stocktwits.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DIS"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4725,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "afda4c52-d53e-5344-8133-8f65e238a0b7",
+      "timestamp_utc": "2026-04-08T07:58:45+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782347/dis-barclays-lowers-price-target-on-walt-disney-maintains-overweight-rating-dis-stock-news",
+      "title": "DIS: Barclays Lowers Price Target on Walt Disney, Maintains Over - GuruFocus",
+      "body": "DIS: Barclays Lowers Price Target on Walt Disney, Maintains Over GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "DIS",
+      "tickers_hint": [
+        "DIS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "6c94ce99-7ed6-5984-a627-f0fc73778967",
+      "timestamp_utc": "2026-04-08T22:39:56+00:00",
+      "source": "vocal.media",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHJMT0hXalowdEtJS0JEXzBEc0dURDJZN1B6Z0owYTNFVEFjLVFUZmpHb1dHSnBlT0RpMUhEOHFvS0RLOVprX0JKRm52MGZhd0lVR0U5dUZjZ3BnQjNnWWNLclcwNEJJbU11Z2ZTM3N4N0JJWUs3ZktwckFFbF9ZZUNMTzhtdE00V0FhTzBB?oc=5",
+      "title": "DIS Stock: In-Depth Analysis, Market Trends, and 2026 Outlook - vocal.media",
+      "body": "DIS Stock: In-Depth Analysis, Market Trends, and 2026 Outlook vocal.media",
+      "author": null,
+      "language": "en",
+      "ticker": "DIS",
+      "tickers_hint": [
+        "DIS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "vocal.media",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "vocal.media",
+        "source_domain": "vocalmedia.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.43,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "d2f0b28d-de26-524c-bd93-cd80bbfba73d",
+      "timestamp_utc": "2026-04-08T22:11:05+00:00",
+      "source": "watcher_guru",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS21YeGFWWlBoRF9mb0xqdFZwX2pMTnI2NmdpLS1qb1lJRjFXbkxKVFhtU0ktM2F4STRzc3VGTzlaNlVvYl9YVjNRZnpMckdUZzYzQ1RWUDRVSjBWeEpTcGhrdXYzeS1fVXNMR1pnbHNVNDRGcG1BZUNaM3h4b2xTekR3NVNxWWs?oc=5",
+      "title": "Disney To Cut 1,000 Jobs: How Will This Affect DIS Stock? - Watcher Guru",
+      "body": "Disney To Cut 1,000 Jobs: How Will This Affect DIS Stock? Watcher Guru",
+      "author": null,
+      "language": "en",
+      "ticker": "DIS",
+      "tickers_hint": [
+        "DIS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "watcher guru",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Watcher Guru",
+        "source_domain": "watcherguru.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.43,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "e67fcf05-ec0a-520c-9a76-329afb8351ac",
-      "timestamp_utc": "2026-04-02T22:01:51+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMkt6bURQNEJDQ3owLURvaE5LZEZRaTgxdEtDdTdTbmpXWVdOdnBwSlNRMk1uY0I5RnpoNllPUUpsQTlEbE5zMC0zcUZwbmZGY1pORmc2aWp0SEJxUGk1Y0Z3NHBGMEZBSmduNGp6MldXZTdQcmZmeDhmN08wakRVd0g2SkxfUXA0b05SOGF2WXAxd056Ui1CTDA5X2JySk5WX1N6TEVUbkhhaUE?oc=5",
-      "title": "Disney (NYSE: DIS) director Carolyn Everson granted 1,064.7 shares in award - Stock Titan",
-      "body": "Disney (NYSE: DIS) director Carolyn Everson granted 1,064.7 shares in award Stock Titan",
+      "id": "7fb5ee67-722e-5659-9433-1c304db20b04",
+      "timestamp_utc": "2026-04-08T23:46:46+00:00",
+      "source": "stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/dis-stock-falls-premarket-media-giant-reportedly-plans-to-lay-off-1-000-staff-as-new-ceo-takes-over/cZJgClNRIrg",
+      "title": "DIS Stock Falls Premarket: Media Giant Reportedly Plans To Lay Off 1,000 Staff As New CEO Takes Over - Stocktwits",
+      "body": "DIS Stock Falls Premarket: Media Giant Reportedly Plans To Lay Off 1,000 Staff As New CEO Takes Over Stocktwits",
       "author": null,
       "language": "en",
       "ticker": "DIS",
@@ -47,20 +126,99 @@
         "DIS"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "stocktwits",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Stocktwits",
+        "source_domain": "stocktwits.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DIS"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4725,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "afda4c52-d53e-5344-8133-8f65e238a0b7",
+      "timestamp_utc": "2026-04-08T07:58:45+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782347/dis-barclays-lowers-price-target-on-walt-disney-maintains-overweight-rating-dis-stock-news",
+      "title": "DIS: Barclays Lowers Price Target on Walt Disney, Maintains Over - GuruFocus",
+      "body": "DIS: Barclays Lowers Price Target on Walt Disney, Maintains Over GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "DIS",
+      "tickers_hint": [
+        "DIS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "6c94ce99-7ed6-5984-a627-f0fc73778967",
+      "timestamp_utc": "2026-04-08T22:39:56+00:00",
+      "source": "vocal.media",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHJMT0hXalowdEtJS0JEXzBEc0dURDJZN1B6Z0owYTNFVEFjLVFUZmpHb1dHSnBlT0RpMUhEOHFvS0RLOVprX0JKRm52MGZhd0lVR0U5dUZjZ3BnQjNnWWNLclcwNEJJbU11Z2ZTM3N4N0JJWUs3ZktwckFFbF9ZZUNMTzhtdE00V0FhTzBB?oc=5",
+      "title": "DIS Stock: In-Depth Analysis, Market Trends, and 2026 Outlook - vocal.media",
+      "body": "DIS Stock: In-Depth Analysis, Market Trends, and 2026 Outlook vocal.media",
+      "author": null,
+      "language": "en",
+      "ticker": "DIS",
+      "tickers_hint": [
+        "DIS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "vocal.media",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "vocal.media",
+        "source_domain": "vocalmedia.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.43,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "d2f0b28d-de26-524c-bd93-cd80bbfba73d",
+      "timestamp_utc": "2026-04-08T22:11:05+00:00",
+      "source": "watcher_guru",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS21YeGFWWlBoRF9mb0xqdFZwX2pMTnI2NmdpLS1qb1lJRjFXbkxKVFhtU0ktM2F4STRzc3VGTzlaNlVvYl9YVjNRZnpMckdUZzYzQ1RWUDRVSjBWeEpTcGhrdXYzeS1fVXNMR1pnbHNVNDRGcG1BZUNaM3h4b2xTekR3NVNxWWs?oc=5",
+      "title": "Disney To Cut 1,000 Jobs: How Will This Affect DIS Stock? - Watcher Guru",
+      "body": "Disney To Cut 1,000 Jobs: How Will This Affect DIS Stock? Watcher Guru",
+      "author": null,
+      "language": "en",
+      "ticker": "DIS",
+      "tickers_hint": [
+        "DIS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "watcher guru",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Watcher Guru",
+        "source_domain": "watcherguru.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.43,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

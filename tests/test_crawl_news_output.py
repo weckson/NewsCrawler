@@ -19,6 +19,7 @@ def test_to_news_item_maps_current_article_to_newsitem_schema():
         "_source_domain": "www.reuters.com",
         "_trust": 3,
         "_relevance": 0.92,
+        "_quality_score": 0.85,
         "_channel": "google_broad",
         "_ticker": "AMD",
         "_alt_sources": ["CNBC"],
@@ -26,32 +27,29 @@ def test_to_news_item_maps_current_article_to_newsitem_schema():
 
     item = to_news_item(article)
 
-    assert item == {
-        "id": "article-1",
-        "timestamp_utc": "2026-03-29T10:30:45+00:00",
-        "source": "reuters",
-        "url": "https://example.com/amd-deal",
-        "title": "AMD wins major AI server deal",
-        "body": "AMD secured a new hyperscaler contract.",
-        "author": None,
-        "language": "en",
-        "ticker": "AMD",
-        "tickers_hint": ["AMD"],
-        "source_quality": "high",
-        "publisher_raw": "reuters.com",
-        "meta": {
-            "channel": "google_broad",
-            "source_name": "Reuters",
-            "source_domain": "www.reuters.com",
-            "trust_tier": 3,
-            "relevance": 0.92,
-            "event_origin": "news",
-            "query_tickers": ["AMD"],
-            "alt_sources": ["CNBC"],
-            "body_kind": "summary_snippet",
-        },
-        "stream_type": "soft",
-    }
+    assert item["id"] == "article-1"
+    assert item["timestamp_utc"] == "2026-03-29T10:30:45+00:00"
+    assert item["source"] == "reuters"
+    assert item["url"] == "https://example.com/amd-deal"
+    assert item["title"] == "AMD wins major AI server deal"
+    assert item["body"] == "AMD secured a new hyperscaler contract."
+    assert item["author"] is None
+    assert item["language"] == "en"
+    assert item["ticker"] == "AMD"
+    assert item["tickers_hint"] == ["AMD"]
+    assert item["source_quality"] == "high"
+    assert item["publisher_raw"] == "reuters.com"
+    assert item["trust_tier"] == 3
+    assert item["body_kind"] == "summary_snippet"
+    assert item["ingest_source"] == "newscrawler_local"
+    # Meta fields
+    assert item["meta"]["source_name"] == "Reuters"
+    assert item["meta"]["source_domain"] == "www.reuters.com"
+    assert item["meta"]["event_origin"] == "news"
+    assert item["meta"]["relevance"] == 0.92
+    assert item["meta"]["quality_score"] == 0.85
+    assert item["meta"]["_channel"] == "google_broad"
+    assert item["meta"]["_alt_sources"] == ["CNBC"]
 
 
 def test_to_news_items_preserves_array_shape():
@@ -70,7 +68,7 @@ def test_to_news_items_preserves_array_shape():
     assert items[0]["id"] == "article-1"
     assert items[0]["source"] == "unknown"
     assert items[0]["source_quality"] == "low"
-    assert items[0]["stream_type"] == "soft"
+    assert items[0]["ingest_source"] == "newscrawler_local"
 
 
 def test_to_news_item_prefers_article_body_when_present():
@@ -86,7 +84,7 @@ def test_to_news_item_prefers_article_body_when_present():
     item = to_news_item(article)
 
     assert item["body"] == "Paragraph one.\n\nParagraph two."
-    assert item["meta"]["body_kind"] == "article_text"
+    assert item["body_kind"] == "article_text"
 
 
 def test_extract_article_text_reads_paragraphs_from_article_html():

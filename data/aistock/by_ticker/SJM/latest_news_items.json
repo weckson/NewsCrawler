@@ -1,11 +1,11 @@
 [
   {
-    "id": "1c7bce97-6bc3-52a4-b9b6-5424a5c5769e",
-    "timestamp_utc": "2026-03-31T07:43:45+00:00",
-    "source": "msn",
-    "url": "https://www.msn.com/en-us/money/topstocks/sjm-surges-9-but-hostess-weakness-clouds-outlook/ar-AA1Xs969",
-    "title": "SJM surges 9%, but Hostess weakness clouds outlook - MSN",
-    "body": "SJM surges 9%, but Hostess weakness clouds outlook MSN",
+    "id": "32f6951d-5e05-570a-8d4a-fd6511d8dcd1",
+    "timestamp_utc": "2026-04-08T10:03:45+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8782391/sjm-wells-fargo-maintains-overweight-rating-lowers-price-target-sjm-stock-news",
+    "title": "SJM: Wells Fargo Maintains Overweight Rating, Lowers Price Targe - GuruFocus",
+    "body": "SJM: Wells Fargo Maintains Overweight Rating, Lowers Price Targe GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "SJM",
@@ -13,19 +13,17 @@
       "SJM"
     ],
     "source_quality": "low",
-    "publisher_raw": "msn",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "MSN",
-      "source_domain": "msn.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
       "event_origin": "news",
-      "query_tickers": [
-        "SJM"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4375,
+      "_channel": "google_broad"
+    }
   }
 ]

@@ -1,89 +1,56 @@
 [
   {
-    "id": "0aa56c57-c827-5600-b983-9a80c456bfc7",
-    "timestamp_utc": "2026-04-01T12:00:04+00:00",
-    "source": "yahoo_finance",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMHFSVHZIVzg4VGFobzNkM3BnSks4Y2lFbVEwWDVCdFQxSEJreUI1WE0xMy0wSHN2dXJCSVZsRWpyZWliUWpicDdBdlE1T1Qzc0FkYmJKalpVMmtIaWQ4ejNOdEdBMzNfUTg3cW91RTR0X2QyandrMkdPN1RNWkQtV0JxS3NZbmEzQm1IRG1CSWxPVUxEWWJ1NE04LUwwOExE?oc=5",
-    "title": "Interactive Brokers Group, Inc. (IBKR) Outpaces Stock Market Gains: What You Should Know - Yahoo Finance",
-    "body": "Interactive Brokers Group, Inc. (IBKR) Outpaces Stock Market Gains: What You Should Know Yahoo Finance",
+    "id": "b0f12920-aa88-5cd7-9f8c-d21e56cc3d8e",
+    "timestamp_utc": "2026-04-08T06:25:47+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8782154/ibkr-barclays-raises-price-target-to-8500-maintains-overweight-rating-ibkr-stock-news",
+    "title": "IBKR: Barclays Raises Price Target to $85.00, Maintains Overweig - GuruFocus",
+    "body": "IBKR: Barclays Raises Price Target to $85.00, Maintains Overweig GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "IBKR",
     "tickers_hint": [
       "IBKR"
     ],
-    "source_quality": "high",
-    "publisher_raw": "finance.yahoo.com",
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance",
-      "source_domain": "finance.yahoo.com",
-      "trust_tier": 3,
-      "relevance": 0.5,
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
       "event_origin": "news",
-      "query_tickers": [
-        "IBKR"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4675,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "32e633bc-f42d-5abc-abce-c4d81f52f6df",
-    "timestamp_utc": "2026-03-31T16:53:00+00:00",
-    "source": "yahoo_finance",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQmhLUkVqb1JuSHVNb05UY2ZmTUNXdlRjTjRGRHp2NVJOQTMtd2o4MEJpaE9mdDlQbWRfY1NpbWNCUmR0bWowb05HZkF2RzVrWm5qZmhHaU80TjZvSmNWdkZNUzRycjhid3VzTHJaX3N0Z3pTQ0hMT1NtbVdOdmFhX0FjV0p1SFFPeXFEU0ZqbWZvNTlLUzFURXdVMG5SN2s1RFE?oc=5",
-    "title": "Interactive Brokers (IBKR) Stock Is Up, What You Need To Know - Yahoo Finance",
-    "body": "Interactive Brokers (IBKR) Stock Is Up, What You Need To Know Yahoo Finance",
+    "id": "dc98c7e7-399e-589a-92dc-7e75361a45d8",
+    "timestamp_utc": "2026-04-08T04:03:45+00:00",
+    "source": "gurufocus",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeUVySHUzWFJkdWxFTGszNmNuUTBDY0F2RXBaWXFTV2JBaTFUVHRJdEdTQzkyTE1iTmhEX0VSSWV3enBXYk9CUktJSFJ6VkNFbTZzWTFuMzhqVmI3ZmVVeXRRcmhSaUg1T2U4bjA5dFJmRVdWQXpZdGtjMnJQWG9Cd0x2bXZyNGhiZE9DQXRneHRybEJZSzJBNDk1dEhlXzNFckZ5cHdWLWhvN2tCU3pQX2x6QVkwTFFPZFNYM1YtM2dpS3QyV1Z0a2pKekFSd3JvSHdtQXhEbkJ5YlhYRVM1a25NenlFd2M?oc=5",
+    "title": "Interactive Brokers Group (IBKR) Reinstated with Market Perform by Keefe, Bruyette & Woods | IBKR Stock News - GuruFocus",
+    "body": "Interactive Brokers Group (IBKR) Reinstated with Market Perform by Keefe, Bruyette & Woods | IBKR Stock News GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "IBKR",
     "tickers_hint": [
       "IBKR"
     ],
-    "source_quality": "high",
-    "publisher_raw": "finance.yahoo.com",
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance",
-      "source_domain": "finance.yahoo.com",
-      "trust_tier": 3,
-      "relevance": 0.5,
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
       "event_origin": "news",
-      "query_tickers": [
-        "IBKR"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "c4c88015-248e-5b6f-98aa-50be500543c1",
-    "timestamp_utc": "2026-04-01T06:53:00+00:00",
-    "source": "tradingview",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRmtwMnFmT3RkMjFBeEdQY1J3UUpMS2lSOV9raUROeEU2NmdrRTRfS2JRVldFeDFxZkltdU40enU2alhweEpZU2k1bFVLZlotandsOU1QUGl1MElvelZCUW9tczBXbnNuU0V5Zm0zc1lCY1ZDY0JtRUY1WlZ2YXNyZ1R6V3hMcUF1enFWNUJVdFJyTkZLSXREWUFqREY1S2dzbnJFM25SY0FSX083NS02blBaNHVEMi1LNDhLdXpVZlE?oc=5",
-    "title": "IBKR Unveils Unified Crypto Trading Platform for European Investors - TradingView",
-    "body": "IBKR Unveils Unified Crypto Trading Platform for European Investors TradingView",
-    "author": null,
-    "language": "en",
-    "ticker": "IBKR",
-    "tickers_hint": [
-      "IBKR"
-    ],
-    "source_quality": "medium",
-    "publisher_raw": "tradingview.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "TradingView",
-      "source_domain": "tradingview.com",
-      "trust_tier": 2,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "IBKR"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6000000000000001,
+      "quality_score": 0.45,
+      "_channel": "google_broad"
+    }
   }
 ]

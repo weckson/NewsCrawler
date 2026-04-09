@@ -2,70 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "1d5cdfc4-ab24-53e9-9c9d-a32657876239",
-      "timestamp_utc": "2026-04-01T09:39:29+00:00",
-      "source": "seeking_alpha",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNWszbm9na1V1OTBXOUh3bi1HekhhZS1ja0xDQXNHd3A3dlM5X0tnNjlXVnZCdjB5TlFuZUNPbElkOEx0MmcwdVRnb21Jb18tNWluSmdKbmNOM2p0aXVrRWJUREpCUUlQSDJ3SnBqbGFmQXJxSzB2Mnd0Zl9tYXFodlRPT3hBTFZLU1cwMGNEdUVUUzVVMEdLcTZkYlFoVkVfV2ZhdXZrSWZPRlNId2ViU2JzNnluX2VNUnYxUWRMb0xwSkE3VlVtQnVoSlJWdGNsS1E?oc=5",
-      "title": "Nucor, Commercial Metals rated Buy at Goldman in bullish view of U.S. steel stocks (NUE:NYSE) - Seeking Alpha",
-      "body": "Nucor, Commercial Metals rated Buy at Goldman in bullish view of U.S. steel stocks (NUE:NYSE) Seeking Alpha",
-      "author": null,
-      "language": "en",
-      "ticker": "NUE",
-      "tickers_hint": [
-        "NUE"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "seekingalpha.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Seeking Alpha",
-        "source_domain": "seekingalpha.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "NUE"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "c4ae0ca6-2bcf-52d1-bfba-edd2da5b4fed",
-      "timestamp_utc": "2026-03-31T10:36:19+00:00",
-      "source": "yahoo_finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaENYRzVpVmtxbUkxZWtjS3FjaEdDQ24wTU9IWjlDTl9jeXVzcGthdkRiVkpad2Vmc1lxdVFXbEdCUFZFX3B1eGxvZzBnYkJJREdvQzdPVkZWTnNVdFkwTDZZNnplOG1TandHc2dxU2ZFZF8xT2ZGTHFyYkxVSmJESDBrLUZpeGZSNm5kLVdEQXJ1elc3S1ljakp3dw?oc=5",
-      "title": "Is Nucor Corporation (NUE) One of the Best Stocks to Invest in for Good Returns? - Yahoo Finance",
-      "body": "Is Nucor Corporation (NUE) One of the Best Stocks to Invest in for Good Returns? Yahoo Finance",
-      "author": null,
-      "language": "en",
-      "ticker": "NUE",
-      "tickers_hint": [
-        "NUE"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "finance.yahoo.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
-        "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "NUE"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "c66f5c2f-3df5-5901-9c2d-372d0e09c2f6",
-      "timestamp_utc": "2026-04-01T03:57:56+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/NUE/earnings",
-      "title": "NUE Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "NUE Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "352582df-05f4-5736-9b4e-dd3ec0c604e0",
+      "timestamp_utc": "2026-04-08T07:58:07+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbXNFX19ORnp2d1lCeGVHSTB6SzFkSE5mU0FsRVAzdXhqZzVxVmd4NEMwNlhaZHp5ckdLcFgwNHFrczdvSWhLYkFSSzhNWHlEQ2Q4SmtJQ3pPcG44WUs1SFVXNUlTeEdfMXc3U2JJb1gtS3J5MGs0YnVvY0pyYXljMTRwSW5fUENKdFpETkhkbzJIQQ?oc=5",
+      "title": "Nucor Corp (NUE) Shares Up 3.93% on Apr 8 - GuruFocus",
+      "body": "Nucor Corp (NUE) Shares Up 3.93% on Apr 8 GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "NUE",
@@ -73,28 +15,26 @@
         "NUE"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "NUE"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.431,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "e04ae19c-1495-5e28-ae05-22918c4c111c",
-      "timestamp_utc": "2026-03-31T15:54:57+00:00",
-      "source": "bitget",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBobEhiNm9SekhOZkVNazNYX2pReXRfeG9BcW9OaU90OXJObnVWRzZMbGJNQWpfWUw5cG11R0FZV0ZEMnFkYjRNQWpzejJtVkdEMVhjOVNpNnlSOTFMY3huMF9rY9IBY0FVX3lxTFBobEhiNm9SekhOZkVNazNYX2pReXRfeG9BcW9OaU90OXJObnVWRzZMbGJNQWpfWUw5cG11R0FZV0ZEMnFkYjRNQWpzejJtVkdEMVhjOVNpNnlSOTFMY3huMF9rYw?oc=5",
-      "title": "Nucor (NUE) Moves Upward Yet Trails the Market: Key Points to Consider - Bitget",
-      "body": "Nucor (NUE) Moves Upward Yet Trails the Market: Key Points to Consider Bitget",
+      "id": "b50ee2e8-fc40-5960-908b-35a3f11aa531",
+      "timestamp_utc": "2026-04-08T22:53:12+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yQ1FNdzBJSXhQX01rTGpmeFpLMVJReGFpay12anVRaG5vamJMZjdqallKQ3l3UnFIX0VoV0RQZllFeHY0VHlTcXBHSE5Rem81?oc=5",
+      "title": "Nucor Corporation (NUE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Nucor Corporation (NUE) Stock Price, News, Quote & History Yahoo! Finance Canada",
       "author": null,
       "language": "en",
       "ticker": "NUE",
@@ -102,89 +42,29 @@
         "NUE"
       ],
       "source_quality": "low",
-      "publisher_raw": "bitget",
+      "publisher_raw": "yahoo! finance canada",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Bitget",
-        "source_domain": "bitget.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
         "event_origin": "news",
-        "query_tickers": [
-          "NUE"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.43,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "1d5cdfc4-ab24-53e9-9c9d-a32657876239",
-      "timestamp_utc": "2026-04-01T09:39:29+00:00",
-      "source": "seeking_alpha",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNWszbm9na1V1OTBXOUh3bi1HekhhZS1ja0xDQXNHd3A3dlM5X0tnNjlXVnZCdjB5TlFuZUNPbElkOEx0MmcwdVRnb21Jb18tNWluSmdKbmNOM2p0aXVrRWJUREpCUUlQSDJ3SnBqbGFmQXJxSzB2Mnd0Zl9tYXFodlRPT3hBTFZLU1cwMGNEdUVUUzVVMEdLcTZkYlFoVkVfV2ZhdXZrSWZPRlNId2ViU2JzNnluX2VNUnYxUWRMb0xwSkE3VlVtQnVoSlJWdGNsS1E?oc=5",
-      "title": "Nucor, Commercial Metals rated Buy at Goldman in bullish view of U.S. steel stocks (NUE:NYSE) - Seeking Alpha",
-      "body": "Nucor, Commercial Metals rated Buy at Goldman in bullish view of U.S. steel stocks (NUE:NYSE) Seeking Alpha",
-      "author": null,
-      "language": "en",
-      "ticker": "NUE",
-      "tickers_hint": [
-        "NUE"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "seekingalpha.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Seeking Alpha",
-        "source_domain": "seekingalpha.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "NUE"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "c4ae0ca6-2bcf-52d1-bfba-edd2da5b4fed",
-      "timestamp_utc": "2026-03-31T10:36:19+00:00",
-      "source": "yahoo_finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaENYRzVpVmtxbUkxZWtjS3FjaEdDQ24wTU9IWjlDTl9jeXVzcGthdkRiVkpad2Vmc1lxdVFXbEdCUFZFX3B1eGxvZzBnYkJJREdvQzdPVkZWTnNVdFkwTDZZNnplOG1TandHc2dxU2ZFZF8xT2ZGTHFyYkxVSmJESDBrLUZpeGZSNm5kLVdEQXJ1elc3S1ljakp3dw?oc=5",
-      "title": "Is Nucor Corporation (NUE) One of the Best Stocks to Invest in for Good Returns? - Yahoo Finance",
-      "body": "Is Nucor Corporation (NUE) One of the Best Stocks to Invest in for Good Returns? Yahoo Finance",
-      "author": null,
-      "language": "en",
-      "ticker": "NUE",
-      "tickers_hint": [
-        "NUE"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "finance.yahoo.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
-        "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "NUE"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "c66f5c2f-3df5-5901-9c2d-372d0e09c2f6",
-      "timestamp_utc": "2026-04-01T03:57:56+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/NUE/earnings",
-      "title": "NUE Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "NUE Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "352582df-05f4-5736-9b4e-dd3ec0c604e0",
+      "timestamp_utc": "2026-04-08T07:58:07+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbXNFX19ORnp2d1lCeGVHSTB6SzFkSE5mU0FsRVAzdXhqZzVxVmd4NEMwNlhaZHp5ckdLcFgwNHFrczdvSWhLYkFSSzhNWHlEQ2Q4SmtJQ3pPcG44WUs1SFVXNUlTeEdfMXc3U2JJb1gtS3J5MGs0YnVvY0pyYXljMTRwSW5fUENKdFpETkhkbzJIQQ?oc=5",
+      "title": "Nucor Corp (NUE) Shares Up 3.93% on Apr 8 - GuruFocus",
+      "body": "Nucor Corp (NUE) Shares Up 3.93% on Apr 8 GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "NUE",
@@ -192,28 +72,26 @@
         "NUE"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "NUE"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.431,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "e04ae19c-1495-5e28-ae05-22918c4c111c",
-      "timestamp_utc": "2026-03-31T15:54:57+00:00",
-      "source": "bitget",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBobEhiNm9SekhOZkVNazNYX2pReXRfeG9BcW9OaU90OXJObnVWRzZMbGJNQWpfWUw5cG11R0FZV0ZEMnFkYjRNQWpzejJtVkdEMVhjOVNpNnlSOTFMY3huMF9rY9IBY0FVX3lxTFBobEhiNm9SekhOZkVNazNYX2pReXRfeG9BcW9OaU90OXJObnVWRzZMbGJNQWpfWUw5cG11R0FZV0ZEMnFkYjRNQWpzejJtVkdEMVhjOVNpNnlSOTFMY3huMF9rYw?oc=5",
-      "title": "Nucor (NUE) Moves Upward Yet Trails the Market: Key Points to Consider - Bitget",
-      "body": "Nucor (NUE) Moves Upward Yet Trails the Market: Key Points to Consider Bitget",
+      "id": "b50ee2e8-fc40-5960-908b-35a3f11aa531",
+      "timestamp_utc": "2026-04-08T22:53:12+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yQ1FNdzBJSXhQX01rTGpmeFpLMVJReGFpay12anVRaG5vamJMZjdqallKQ3l3UnFIX0VoV0RQZllFeHY0VHlTcXBHSE5Rem81?oc=5",
+      "title": "Nucor Corporation (NUE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "body": "Nucor Corporation (NUE) Stock Price, News, Quote & History Yahoo! Finance Canada",
       "author": null,
       "language": "en",
       "ticker": "NUE",
@@ -221,20 +99,18 @@
         "NUE"
       ],
       "source_quality": "low",
-      "publisher_raw": "bitget",
+      "publisher_raw": "yahoo! finance canada",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Bitget",
-        "source_domain": "bitget.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
         "event_origin": "news",
-        "query_tickers": [
-          "NUE"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.43,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

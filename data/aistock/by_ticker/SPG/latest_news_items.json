@@ -1,89 +1,29 @@
 [
   {
-    "id": "cf3645e1-1141-5602-ab00-c73fa63fa58b",
-    "timestamp_utc": "2026-04-04T21:35:48+00:00",
-    "source": "intellectia_ai",
-    "url": "https://intellectia.ai/en/stock/SPG/financials",
-    "title": "SPG Financials: Revenue Breakdown, Margins & Competitor Comparison - Intellectia AI",
-    "body": "SPG Financials: Revenue Breakdown, Margins & Competitor Comparison Intellectia AI",
+    "id": "aa606875-c698-5ffd-95de-f74c9d0a50eb",
+    "timestamp_utc": "2026-04-07T01:47:49+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91cWx2c0JQenRzanhyMWRCT0tzTkpXd3lXSzlKcHhaZURQYmRnc2tlTVk5d0Q4R0djd3BWaTJWWnpLdV9ZeXFXbzhCR21rRTJJQ1ZwVzFOWQ?oc=5",
+    "title": "Simon Property Group, Inc. (SPG) latest stock news and headlines - Yahoo Finance UK",
+    "body": "Simon Property Group, Inc. (SPG) latest stock news and headlines Yahoo Finance UK",
     "author": null,
     "language": "en",
     "ticker": "SPG",
     "tickers_hint": [
       "SPG"
     ],
-    "source_quality": "low",
-    "publisher_raw": "intellectia ai",
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Intellectia AI",
-      "source_domain": "intellectiaai.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
+      "source_name": "Yahoo Finance UK",
+      "source_domain": "finance.yahoo.com",
       "event_origin": "news",
-      "query_tickers": [
-        "SPG"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "af67bcdc-f6d4-5460-a76e-8965f4c06b92",
-    "timestamp_utc": "2026-04-04T15:09:48+00:00",
-    "source": "intellectia_ai",
-    "url": "https://intellectia.ai/en/stock/SPG/technical",
-    "title": "SPG Technical Analysis & Stock Price Forecast - Intellectia AI",
-    "body": "SPG Technical Analysis & Stock Price Forecast Intellectia AI",
-    "author": null,
-    "language": "en",
-    "ticker": "SPG",
-    "tickers_hint": [
-      "SPG"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "intellectia ai",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Intellectia AI",
-      "source_domain": "intellectiaai.com",
-      "trust_tier": 1,
       "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "SPG"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "c3c3855c-6bab-50eb-b4e3-eb2ab04dc384",
-    "timestamp_utc": "2026-04-04T08:50:25+00:00",
-    "source": "yahoo_finance_singapore",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZSm9Hcnd5TXdMbnE0UDhNU0JRdHhZQ0F6bnJYcm1kQjBfOEVlcWF0TXotaHVTWGd2emhaOUlpemg2dmYyN0Y2MTRTdmhxYkIydmpnR2xTMlVtbm0tOGJobHROMVg?oc=5",
-    "title": "SPG Oct 2026 185.000 call (SPG261016C00185000) stock price, news, quote and history - Yahoo Finance Singapore",
-    "body": "SPG Oct 2026 185.000 call (SPG261016C00185000) stock price, news, quote and history Yahoo Finance Singapore",
-    "author": null,
-    "language": "en",
-    "ticker": "SPG",
-    "tickers_hint": [
-      "SPG"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "yahoo finance singapore",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance Singapore",
-      "source_domain": "yahoofinancesingapore.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "SPG"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.62,
+      "_channel": "google_broad"
+    }
   }
 ]

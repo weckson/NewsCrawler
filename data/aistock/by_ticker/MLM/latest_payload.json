@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "c724dd74-adfc-54b5-bf7f-ffbacba1db7e",
-      "timestamp_utc": "2026-03-31T08:43:39+00:00",
+      "id": "71245921-6b49-5770-8aec-9ce787bb91cd",
+      "timestamp_utc": "2026-04-08T08:56:15+00:00",
       "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8762040/barclays-lowers-price-target-for-martin-marietta-materials-mlm-to-640-mlm-stock-news?mobile=true",
-      "title": "Barclays Lowers Price Target for Martin Marietta Materials (MLM) to $640 | MLM Stock News - GuruFocus",
-      "body": "Barclays Lowers Price Target for Martin Marietta Materials (MLM) to $640 | MLM Stock News GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNai1IV0R4UWE3eU94c2psWU9GQVdoaDZFUzVfSVA4RmRDbEZUNjNEblZETkFNZlJBdlJWMi1OSVllRXBXWmhodEdvYWRoNGN2WVh3Y2M3ckpSdG9yS0l5YlJwUXZEX29mRk1ibEhHZjFvVHRBRVQ0bGZwMHlOMlZRMVJaRmlwTWVxTmlucFo5SG9xSklwTzdNNzBCVVhRcW56bklSdUVOZjR5TVk?oc=5",
+      "title": "Martin Marietta Materials Inc (MLM) Shares Up 4.85% on Apr 8 - GuruFocus",
+      "body": "Martin Marietta Materials Inc (MLM) Shares Up 4.85% on Apr 8 GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "MLM",
@@ -16,59 +16,28 @@
       ],
       "source_quality": "low",
       "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "GuruFocus",
         "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
         "event_origin": "news",
-        "query_tickers": [
-          "MLM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "eccc2fb6-06cb-5bfb-b92d-029a1527e46a",
-      "timestamp_utc": "2026-03-31T06:54:09+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/martin-marietta-materials-nysemlm-given-new-64000-price-target-at-barclays-2026-03-31/",
-      "title": "Martin Marietta Materials (NYSE:MLM) Given New $640.00 Price Target at Barclays - MarketBeat",
-      "body": "Martin Marietta Materials (NYSE:MLM) Given New $640.00 Price Target at Barclays MarketBeat",
-      "author": null,
-      "language": "en",
-      "ticker": "MLM",
-      "tickers_hint": [
-        "MLM"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6,
-        "event_origin": "news",
-        "query_tickers": [
-          "MLM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.44,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "c724dd74-adfc-54b5-bf7f-ffbacba1db7e",
-      "timestamp_utc": "2026-03-31T08:43:39+00:00",
+      "id": "71245921-6b49-5770-8aec-9ce787bb91cd",
+      "timestamp_utc": "2026-04-08T08:56:15+00:00",
       "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8762040/barclays-lowers-price-target-for-martin-marietta-materials-mlm-to-640-mlm-stock-news?mobile=true",
-      "title": "Barclays Lowers Price Target for Martin Marietta Materials (MLM) to $640 | MLM Stock News - GuruFocus",
-      "body": "Barclays Lowers Price Target for Martin Marietta Materials (MLM) to $640 | MLM Stock News GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNai1IV0R4UWE3eU94c2psWU9GQVdoaDZFUzVfSVA4RmRDbEZUNjNEblZETkFNZlJBdlJWMi1OSVllRXBXWmhodEdvYWRoNGN2WVh3Y2M3ckpSdG9yS0l5YlJwUXZEX29mRk1ibEhHZjFvVHRBRVQ0bGZwMHlOMlZRMVJaRmlwTWVxTmlucFo5SG9xSklwTzdNNzBCVVhRcW56bklSdUVOZjR5TVk?oc=5",
+      "title": "Martin Marietta Materials Inc (MLM) Shares Up 4.85% on Apr 8 - GuruFocus",
+      "body": "Martin Marietta Materials Inc (MLM) Shares Up 4.85% on Apr 8 GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "MLM",
@@ -77,48 +46,17 @@
       ],
       "source_quality": "low",
       "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "GuruFocus",
         "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
         "event_origin": "news",
-        "query_tickers": [
-          "MLM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "eccc2fb6-06cb-5bfb-b92d-029a1527e46a",
-      "timestamp_utc": "2026-03-31T06:54:09+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/martin-marietta-materials-nysemlm-given-new-64000-price-target-at-barclays-2026-03-31/",
-      "title": "Martin Marietta Materials (NYSE:MLM) Given New $640.00 Price Target at Barclays - MarketBeat",
-      "body": "Martin Marietta Materials (NYSE:MLM) Given New $640.00 Price Target at Barclays MarketBeat",
-      "author": null,
-      "language": "en",
-      "ticker": "MLM",
-      "tickers_hint": [
-        "MLM"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6,
-        "event_origin": "news",
-        "query_tickers": [
-          "MLM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.44,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

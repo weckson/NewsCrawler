@@ -2,41 +2,72 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "273b0ab2-f0a8-5866-bbb3-9212fff082cd",
-      "timestamp_utc": "2026-03-31T11:49:19+00:00",
-      "source": "yahoo_finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-stock-trades-why-214919691.html",
-      "title": "Alphabet (GOOGL) Stock Trades Up, Here Is Why - Yahoo Finance",
-      "body": "Alphabet (GOOGL) Stock Trades Up, Here Is Why Yahoo Finance",
+      "id": "37a12a5a-bc3c-5c2e-861a-c3af4d76c23d",
+      "timestamp_utc": "2026-04-08T06:11:04+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/downgrades/26/04/51710904/broadcom-analyst-is-no-longer-bullish-despite-recent-google-agreement",
+      "title": "Broadcom Analyst No Longer Bullish Despite Google Agreement - Broadcom (NASDAQ:AVGO) - Benzinga",
+      "body": "Broadcom Analyst No Longer Bullish Despite Google Agreement - Broadcom (NASDAQ:AVGO) Benzinga",
       "author": null,
       "language": "en",
-      "ticker": "GOOGL",
+      "ticker": "AVGO",
       "tickers_hint": [
+        "AVGO",
         "GOOGL"
       ],
       "source_quality": "high",
-      "publisher_raw": "finance.yahoo.com",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
-        "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.6000000000000001,
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
         "event_origin": "news",
-        "query_tickers": [
-          "GOOGL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.6825,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
     },
     {
-      "id": "22de4ed6-5519-5f2a-94dd-27a2bf2a9052",
-      "timestamp_utc": "2026-03-31T08:22:00+00:00",
-      "source": "yahoo_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaDUzRU4zSUZIdlF6MkhTdlRqTG1aMGtrRmtRSkY5dXlMdjFqYndDTjgyV0h0LVlRdkw1bkhNY0JTWkdXU3JTSzl4TG1rTkN3ZVRqd2VnVllxR1ZOazMxUW53Q1VhNm10c2phQW05Ymx4NU54X3ZITWFhN1NCZTh5MmdnUENiZ3A5VGJfZGRsSUt0b1FnYnRabmNFQWxzMWtD?oc=5",
-      "title": "Prediction: This Will Be Alphabet's Stock Price in 5 Years - Yahoo Finance",
-      "body": "Prediction: This Will Be Alphabet's Stock Price in 5 Years Yahoo Finance",
+      "id": "4af2bd21-3b57-5098-9394-45c4195abb1b",
+      "timestamp_utc": "2026-04-08T04:20:03+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/04/51706010/while-amazon-microsoft-google-struggle-with-ai-on-land-china-looks-to-the-sea",
+      "title": "Amazon, Microsoft, Google AI Footprint Faces Pressure - Amazon.com (NASDAQ:AMZN), Alphabet (NASDAQ:GOOG) - Benzinga",
+      "body": "Amazon, Microsoft, Google AI Footprint Faces Pressure - Amazon.com (NASDAQ:AMZN), Alphabet (NASDAQ:GOOG) Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "AMZN",
+      "tickers_hint": [
+        "AMZN",
+        "GOOGL",
+        "MSFT"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.64,
+        "_channel": "google_benzinga"
+      }
+    },
+    {
+      "id": "66d67604-9144-50e0-9f3c-dabb3c81bc8f",
+      "timestamp_utc": "2026-04-08T02:43:41+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/retail-sales/26/04/51701525/googles-ai-ad-machine-rewrites-search-rules-as-brands-see-up-to-80-revenue-boost-not-some-zero-sum-game",
+      "title": "Google's AI Ad Machine Rewrites Search Rules As Brands See Up To 80% Revenue Boost: 'Not Some Zero-Sum Game' - Benzinga",
+      "body": "Google's AI Ad Machine Rewrites Search Rules As Brands See Up To 80% Revenue Boost: 'Not Some Zero-Sum Game' Benzinga",
       "author": null,
       "language": "en",
       "ticker": "GOOGL",
@@ -44,28 +75,194 @@
         "GOOGL"
       ],
       "source_quality": "high",
-      "publisher_raw": "finance.yahoo.com",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
-        "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.6,
+        "quality_score": 0.705,
+        "_channel": "google_benzinga"
+      }
+    },
+    {
+      "id": "78ce3ca0-a48b-52e4-878b-404f38b1b1b1",
+      "timestamp_utc": "2026-04-08T01:31:42+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdDhHWGg4VzhCb09CNVJtYlhaVk9qemxrTFV1aUVvNUJ4U1VoQ19rQkRrZDhjTGMtWTM1WkY0UHlNMFRkQWFORXhzRTk4Z2NvazQ4NWF5SHd5YlJDSTZLVm45VkJya0FkRm1QM3dJTUx2OHdXRTFkTFBIWUpVVUo0eGhpcUcxb2hvVXBvc3lnd2cxQ3l6aUJXRFRFVkxGUUw3UG9ZbEdkdDlqQVYtd0dWNFJJR1VVZzljMmxOMjhXSUhiUUhaWDhtMDh3NlVvTVV2WWJpOUhXVnVjOGNTQXNua0M1NnZVdWhfWDRjdkF5dDFaOGhUaUlj?oc=5",
+      "title": "Alphabet Sheds Its 'Black Hole' Label With $150 Billion In 'Hidden Assets' From SpaceX And Anthropic, Says Expert - Benzinga",
+      "body": "Alphabet Sheds Its 'Black Hole' Label With $150 Billion In 'Hidden Assets' From SpaceX And Anthropic, Says Expert Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
         "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "GOOGL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.695,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
     },
     {
-      "id": "cf89d1a9-a7c3-553d-978e-a7b45bf18868",
-      "timestamp_utc": "2026-03-31T08:04:00+00:00",
+      "id": "ab149c2c-6039-5b17-8ed7-2a2d3079df62",
+      "timestamp_utc": "2026-04-08T03:30:03+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/article/4889203-alphabet-q1-is-the-moment-of-truth",
+      "title": "Alphabet: Q1 Is The Moment Of Truth (NASDAQ:GOOGL) - Seeking Alpha",
+      "body": "Every quarter, Wall Street breaks down Alphabet Inc. (GOOGL/GOOG) by segments, which is why the company draws so much attention. There’s always something to discuss and argue about. And now, with the first-quarter 2026 earnings potentially\n\nAnalyst’s Disclosure: I/we have a beneficial long position in the shares of GOOGL, AAPL either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.6725,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "d3b05377-3185-5ff0-b564-746ff73f0c38",
+      "timestamp_utc": "2026-04-08T10:23:00+00:00",
+      "source": "marketwatch",
+      "url": "https://www.marketwatch.com/story/googles-ai-lead-is-growing-in-this-key-area-thats-good-news-for-alphabets-stock-b627a691",
+      "title": "Google’s AI lead is growing in this key area. That’s good news for Alphabet’s stock. - MarketWatch",
+      "body": "Google’s AI lead is growing in this key area. That’s good news for Alphabet’s stock. MarketWatch",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "marketwatch.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketWatch",
+        "source_domain": "marketwatch.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.6575,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "83b7755e-3c3d-52db-8bb4-ea0691e7c5b6",
+      "timestamp_utc": "2026-04-08T06:02:35+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/04/51710477/google-finance-gets-ai-overhaul-rolls-out-real-time-insights-to-100-countries",
+      "title": "Google Finance Gets AI Overhaul - Rolls Out Real-Time Insights To 100+ Countries - Benzinga",
+      "body": "Google Finance Gets AI Overhaul - Rolls Out Real-Time Insights To 100+ Countries Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.6325,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "50f89c23-1c17-5cde-86f7-3c0918973458",
+      "timestamp_utc": "2026-04-08T01:50:03+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONnZGYzExYkpuenBvMU1GcFVKMTVQTFNKWG8wdGw2OFdIQTZJNWxwVDhIdzRCcTZZdFdmbjNZc2VjMWUxWTdaTzhfTFZqbXZqTDFoQXpTSi11WmNJLWVpczV4ZWRlR2RmVGRucnhHUHdNRE1YMXQ4dTRQaVJUdWNUd0lVQkIyWTU5Vy0yV195M2s5MzdRbEZsVE5sZnRmUWY1LVNmVmRDWHpHaVB4ckNXdW5XWDl1LU1ub3hTN2tSVXg2ejdoLVFXUnVweUZraE0?oc=5",
+      "title": "Hershey, PepsiCo, Alphabet, Netflix And A Key Financial Stock On CNBC's 'Final Trades' - Benzinga",
+      "body": "Hershey, PepsiCo, Alphabet, Netflix And A Key Financial Stock On CNBC's 'Final Trades' Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.63,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
+    },
+    {
+      "id": "586f0895-c974-506a-8eba-4bdff04f2251",
+      "timestamp_utc": "2026-04-07T21:36:04+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSUw1Z2FLd2pRMC1zVXEyMmdVNmIydkpEQlVPcHo5TWlGNms4TGloZmxxa3N1X2pILXVkM0FKVEQ0RlFmbWUtcm44d2xZcURYeWFzUGpySVNkQ1JQaDd3OGJWUldJNlM0ajRIM3NET29UWnVKdDZkMUdKVWNJSHhCTTEwQjlKS0laZ1dvbXJPU01ZTDVLN1FoMWZDdlQzOWx3VUpKZG9VY0xYTzJTZEI0?oc=5",
+      "title": "Google Chrome Finally Embraces Vertical Tabs After Years Of Resistance: What You Should Know - Benzinga",
+      "body": "Google Chrome Finally Embraces Vertical Tabs After Years Of Resistance: What You Should Know Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.615,
+        "_channel": "google_benzinga"
+      }
+    },
+    {
+      "id": "a43a45b6-b9bb-53fb-bf3c-3f5391333a14",
+      "timestamp_utc": "2026-04-08T07:20:00+00:00",
       "source": "motley_fool",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uUkFnUU5jR0FtT2N3UTZ6QmZaQ0xldnZNOEY5d1F6aVlxa25YWTYxdUp0ZzQwdnhsTFhIcWFoTkpvWjhzcnluWXc1ZnN3TDJSZ0daVEp3ZWVVTlp1cXZYZTZfM3E0d2p6Q0psei1OS2NabGJfQlA5WC1FX0N1YzA?oc=5",
-      "title": "Why Alphabet Stock Popped Today - The Motley Fool",
-      "body": "Why Alphabet Stock Popped Today The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdGxxVXpOcTZEc3l6QTVzRmlwRXhaZ3YxWFI4LWpCejE2RFNUR181TzBIYjZYOFdDall0aE5wMjZyYXIxRnR2OHdIOXM2ZkZZLWVlQWhvaFRJVWZkTUgyM05NS3kwOGdfT0xRRjgtWFRhWEZ1VzY0RkIzNHZUNkN3bXNCUGxSa19EaEFaOVNn?oc=5",
+      "title": "Why Alphabet Stock Was Moving Higher Today - The Motley Fool",
+      "body": "Why Alphabet Stock Was Moving Higher Today The Motley Fool",
       "author": null,
       "language": "en",
       "ticker": "GOOGL",
@@ -74,56 +271,52 @@
       ],
       "source_quality": "high",
       "publisher_raw": "fool.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "The Motley Fool",
         "source_domain": "fool.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
         "event_origin": "news",
-        "query_tickers": [
-          "GOOGL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.611,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "22cc1f85-c456-556c-9071-63d8c5d29147",
-      "timestamp_utc": "2026-03-31T14:45:00+00:00",
-      "source": "investing.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMy1HVVBoZ1N5MzZod1gyZHJXNmphcDVfbzdHeXBWejlQdGhLMTVDV0JXWlotcnlzbnEtdDlpZnR5cURGdzNtTnNFZi1yc01HZkJkOTk5azAxWWNMc3ZSZ1VhenAtTUpLRFFnRTFrVkNOWF9mQll1OWdWT2tISjhxdU80S3dSR0JFX2NtQTZCNzRKV0pkMjlRTW0yeXpZcWdLb2ZuOEFvOVdjb1V2dnZwX3I2b0s2WjB2QzlGVw?oc=5",
-      "title": "Alphabet Inc: director Arnold sells $28,069 in GOOGL stock - investing.com",
-      "body": "Alphabet Inc: director Arnold sells $28,069 in GOOGL stock investing.com",
+      "id": "db99e660-e14c-571c-a915-d96a578938b6",
+      "timestamp_utc": "2026-04-07T16:53:56+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVFU4d3BuUy1MN0tldC1obmNLcUxSYWxRTzdhQ3pyU1hoMm5CRFhxWWJOYmhYZ1hGYnZLSG9pUWNRajlkR2VEUXhHWk1mSlgwRFRvVG83Y2RKRE5GRkhUMHljXzIwcXpTS2xZN3dBREpwajNxVDFIUVg1VGp1ZjlkbEhCVU4wLUFaU1hKWg?oc=5",
+      "title": "Why Alphabet's Growth Story Is Being Misread - Seeking Alpha",
+      "body": "Why Alphabet's Growth Story Is Being Misread Seeking Alpha",
       "author": null,
       "language": "en",
       "ticker": "GOOGL",
       "tickers_hint": [
         "GOOGL"
       ],
-      "source_quality": "medium",
-      "publisher_raw": "investing.com",
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "investing.com",
-        "source_domain": "investing.com",
-        "trust_tier": 2,
-        "relevance": 0.6000000000000001,
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
         "event_origin": "news",
-        "query_tickers": [
-          "GOOGL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.591,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "2c2d1a1e-ef70-551f-abdd-1876fc31eec0",
-      "timestamp_utc": "2026-03-31T08:17:51+00:00",
+      "id": "a2c411ed-ad80-56e0-8c9b-6337f0d0107e",
+      "timestamp_utc": "2026-04-08T09:35:39+00:00",
       "source": "247_wall_st",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcUpzX2UwalVUdm11Q3pjSEgza2ZjSng1cFo5U1NCMDlMRUhxbXVzeWVKeXZsVmFWQW1kbHhwZk12bWZqWGs1MWRUbHV3WnlIWlE3MUNVNm1XRzRaZ2xNWlZmX19ZeHZqeWRlYWFxSWVKeUhRZDdkSjVlVlJlMVJvZnlZVmZvTGZWNmNoeFdVaW1XM3dfOFU0SEJPVTY2SzhmLVB1LVExOGZ0RmlIMk9icjlfaVZhM2hITE94cjllV2hSaE04VzR6dg?oc=5",
-      "title": "Alphabet Climbs 5%: Google’s Nine-Minute Bitcoin Warning Is Turning Heads on Wall Street - 24/7 Wall St.",
-      "body": "Alphabet Climbs 5%: Google’s Nine-Minute Bitcoin Warning Is Turning Heads on Wall Street 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMGVnWmFRWFl0el9TTHVUSWFjTDFnY3A2T05QNzhhWWRPYWwwZTNUZHlYY1kwMk5HRGpTMUNPVTliYVk0cjBZTHNIc2tSa084UDZhRk9WZmRldllIT3NOSThiSTBkYi1KUVpGSHVNbWRfYy10bXBUQmxWbm1lUE1aNnJSNW5YSnJjMkVsakp0YzQ0TVZmYWl4WHdZRWFHYWk0UHFTQmdlUXJJeXh2MzNHWkpBQmtVbW5UbVk0M21RRm9mR3VNQU9pN212R2RseUV5?oc=5",
+      "title": "Alphabet Climbs 4% on Waymo's Nashville Expansion: The Self-Driving Bet Is Starting to Pay Off - 24/7 Wall St.",
+      "body": "Alphabet Climbs 4% on Waymo's Nashville Expansion: The Self-Driving Bet Is Starting to Pay Off 24/7 Wall St.",
       "author": null,
       "language": "en",
       "ticker": "GOOGL",
@@ -132,207 +325,385 @@
       ],
       "source_quality": "medium",
       "publisher_raw": "247wallst.com",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "24/7 Wall St.",
         "source_domain": "247wallst.com",
-        "trust_tier": 2,
-        "relevance": 0.6000000000000001,
         "event_origin": "news",
-        "query_tickers": [
-          "GOOGL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.575,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "4bb9428d-6e05-57b7-9eaf-038b1d93642e",
-      "timestamp_utc": "2026-04-01T10:12:53+00:00",
-      "source": "cdn6.benzinga.com",
-      "url": "https://cdn6.benzinga.com/markets/tech/26/04/51590408/google-ceo-sundar-pichai-urges-users-ditch-outdated-gmail-ids-jack-dorsey-pushes-auto-dark-mode",
-      "title": "Sundar Pichai Urges Users To Ditch Outdated Gmail IDs As Jack Dorsey Pushes For Auto Dark Mode: 'Keep Your Old Username,' Says Google CEO - cdn6.benzinga.com",
-      "body": "NewsEarnings Guidance Dividends M&A Buybacks Legal Interviews Management Retail Sales Offerings IPOs Insider Trades Biotech/FDA \" tabindex=\"1\">Freight Tech MarketsPre-Market After Hours Movers ETFs Forex Cannabis Commodities Options Binary Options Bonds Futures CME Group Global Economics Previews Reviews Small-Cap Cryptocurrency Penny Stocks RatingsAnalyst Color Downgrades Upgrades Initiations Price Target IdeasLong Ideas Short Ideas Technicals From The Press Jim Cramer Rumors Best Penny Stocks Best Blue Chip Stocks Best High-Volume Penny Stocks Best S&P 500 ETFs Best Small Cap ETFs Best Swing Trade Stocks Fintech Personal FinanceStock Brokers Forex Brokers Personal Finance Futures Brokers Cryptocurrency Brokers Webull Binary Option Brokers Options Brokers eToro Altcoin Exchanges Ally Invest Review Binary Options Review eOption Review Etrade Review Interactive Brokers Review Personal Capital Review Suretrader Review TD Ameritrade Review Tradestation Review Yewno|Edge Review Cobra Trading Review ETF Brokers Mutual Fund Brokers Index Fund Brokers Bond Brokers Short Selling Brokers Stock Apps Penny Stocks Stocks Under $5 Stocks Under $10 Stocks Under $20 Stocks Under $50 Stocks Under $100 Invest in Art Invest in Land Invest in Real Estate Invest in Wine Invest in Gold Auto Home Medicare Life Vision Dental Business Pet Health Masterworks Review Motorcycle Renters Workers Comp Refinance Purchase Find a Mortgage Broker CryptoCrypto News Bitcoin Ethereum Blockchain Best Alt Coins How to buy Crypto TVYouTube Video Podcasts ToolsEarnings Calendar IPO Calendar Guidance Calendar FDA Calendar Dividend Calendar Stock Split Calendar Conference Call Calendar Economic Calendar Insider Trades Trade Idea Feed Analyst Ratings Unusual Options Activity Premium",
+      "id": "87e2e2ef-18b5-5786-87ab-91739bb26d4d",
+      "timestamp_utc": "2026-04-08T08:43:00+00:00",
+      "source": "ibd",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX3NYcTF0U2xpZVBvdlhtY2pGcHFCb1h0SzV6MEZaU29tRmtMSjdKb3AwS3pvSXVKVzdXb0U5elphbE9LM05vM0k0bzZEVVJnTzJCZ1pVblB6UTJIV1czR3lwaldySDVHUFNSdkVFcUJqYUZUUjNNbm90bjhwaUdVZEV3cm1Za3VLLTludlE4S0hyb09jMFQ0T3RMNA?oc=5",
+      "title": "Alphabet's Wing Drone Unit, DoorDash Expand Into Atlanta. Google Stock Turns Green In 2026. - Investor's Business Daily",
+      "body": "Alphabet's Wing Drone Unit, DoorDash Expand Into Atlanta. Google Stock Turns Green In 2026. Investor's Business Daily",
       "author": null,
       "language": "en",
       "ticker": "GOOGL",
       "tickers_hint": [
         "GOOGL"
       ],
-      "source_quality": "low",
-      "publisher_raw": "cdn6.benzinga.com",
+      "source_quality": "medium",
+      "publisher_raw": "investors.com",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_benzinga",
-        "source_name": "cdn6.benzinga.com",
-        "source_domain": "cdn6benzingacom.com",
-        "trust_tier": 1,
-        "relevance": 0.7000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "GOOGL"
-        ],
-        "alt_sources": [
-          "cdn6.benzinga.com"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "68e920c8-ad7c-50bd-bb94-c1bd6d184559",
-      "timestamp_utc": "2026-04-01T05:08:12+00:00",
-      "source": "blockonomi",
-      "url": "https://blockonomi.com/alphabet-googl-stock-sees-bullish-analyst-upgrades-amid-2-4m-executive-sale/",
-      "title": "Alphabet (GOOGL) Stock Sees Bullish Analyst Upgrades Amid $2.4M Executive Sale - Blockonomi",
-      "body": "Related Posts Western Digital (WDC) Stock Rallies 11% on Bernstein’s Bullish Upgrade to OutperformApril 1, 2026 Stanley Druckenmiller Doubles Down on Alphabet (GOOGL) and Amazon (AMZN) Stock Amid AI Cloud BoomApril 1, 2026 Microsoft (MSFT) Stock Rebounds: Benchmark Analyst Issues Buy Rating With $450 TargetApril 1, 2026",
-      "author": null,
-      "language": "en",
-      "ticker": "GOOGL",
-      "tickers_hint": [
-        "GOOGL"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "blockonomi",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Blockonomi",
-        "source_domain": "blockonomi.com",
-        "trust_tier": 1,
-        "relevance": 0.7000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "GOOGL"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "dd10590c-c814-5766-800a-b3feda6a4044",
-      "timestamp_utc": "2026-04-01T04:51:30+00:00",
-      "source": "coincentral",
-      "url": "https://coincentral.com/alphabet-googl-stock-two-analysts-raise-price-targets-while-clo-offloads-2-4m/",
-      "title": "Alphabet (GOOGL) Stock — Two Analysts Raise Price Targets While CLO Offloads $2.4M - CoinCentral",
-      "body": "The Best AI Stock Picking Tools in 2026: Your Complete Guide to Smarter InvestingFebruary 3, 2026 Finding The Best Crypto to Invest In: Expert Strategies for Identifying Tomorrow’s WinnersFebruary 27, 2025 Sui Blockchain Explained: How It Works and What You Need to KnowFebruary 6, 2025 Is Trump’s Memecoin Legit?\n\nHere’s What We Know About $TRUMPFebruary 1, 2025 What is Decentralized AI and Why We Need It ASAP?December 29, 2024",
-      "author": null,
-      "language": "en",
-      "ticker": "GOOGL",
-      "tickers_hint": [
-        "GOOGL"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "coincentral",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "CoinCentral",
-        "source_domain": "coincentral.com",
-        "trust_tier": 1,
-        "relevance": 0.7000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "GOOGL"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "321fccfb-a766-5a67-ba24-5fdaeab4b4a2",
-      "timestamp_utc": "2026-04-01T05:07:43+00:00",
-      "source": "blockonomi",
-      "url": "https://blockonomi.com/stanley-druckenmiller-doubles-down-on-alphabet-googl-and-amazon-amzn-stock-amid-ai-cloud-boom/",
-      "title": "Stanley Druckenmiller Doubles Down on Alphabet (GOOGL) and Amazon (AMZN) Stock Amid AI Cloud Boom - Blockonomi",
-      "body": "Related Posts Western Digital (WDC) Stock Rallies 11% on Bernstein’s Bullish Upgrade to OutperformApril 1, 2026 Alphabet (GOOGL) Stock Sees Bullish Analyst Upgrades Amid $2.4M Executive SaleApril 1, 2026 Microsoft (MSFT) Stock Rebounds: Benchmark Analyst Issues Buy Rating With $450 TargetApril 1, 2026",
-      "author": null,
-      "language": "en",
-      "ticker": "GOOGL",
-      "tickers_hint": [
-        "GOOGL"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "blockonomi",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Blockonomi",
-        "source_domain": "blockonomi.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "GOOGL"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "46197a29-85e8-5c77-afac-1c27f167abf0",
-      "timestamp_utc": "2026-03-31T06:18:00+00:00",
-      "source": "investor's_business_daily",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ3RHcWtkOUszb3lIUjQ3ZndGU05XWDlWeU5IQVJJMEJsUjh6NnFUaFdwVGR0QjVadkFOcm9IbkVsejNxUlJieEdzekQ4TXRsQmQ0ejVZMkpHRkw4TnQwWnB5MnJDLTBrSXBzTTVzdlpOc1ZnNEZpcDdBVWhDNG5wcF9NTVZHYVcxR3hCMVpvVU9OeVJhMko0Ym1qMDNiM1R2Wk9qREoyeUVOdGcwNjh2Qg?oc=5",
-      "title": "Alphabet (GOOGL) Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
-      "body": "Alphabet (GOOGL) Stock Quotes, Company News And Chart Analysis Investor's Business Daily",
-      "author": null,
-      "language": "en",
-      "ticker": "GOOGL",
-      "tickers_hint": [
-        "GOOGL"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "investor's business daily",
-      "meta": {
-        "channel": "google_broad",
         "source_name": "Investor's Business Daily",
-        "source_domain": "investorsbusinessdaily.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
+        "source_domain": "investors.com",
         "event_origin": "news",
-        "query_tickers": [
-          "GOOGL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.57,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "0c871ac8-5bab-5ee4-a4e5-59767fee5f23",
+      "timestamp_utc": "2026-04-08T10:43:56+00:00",
+      "source": "insider_monkey",
+      "url": "https://www.insidermonkey.com/blog/alphabet-inc-googl-driving-ai-growth-and-expanding-cybersecurity-capabilities-1733963/",
+      "title": "Alphabet Inc. (GOOGL): Driving AI Growth and Expanding Cybersecurity Capabilities - Insider Monkey",
+      "body": "When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard.\n\nFast forward a year and Amazon’s new CEO Andy Jassy described generative AI as a “once-in-a-lifetime” technology that is already being used across Amazon to reinvent customer experiences.\n\nAt the 8th Future Investment Initiative conference, Elon Musk predicted that by 2040 there would be at least 10 billion humanoid robots, with each priced between $20,000 and $25,000.\n\nDo the math. According to Musk, this technology could be worth $250 trillion by 2040.\n\nPut another way, that’s roughly equal to:\n\nAnd here’s the wild part — this $250 trillion wave isn’t tied to one company, but to an entire ecosystem of AI innovators set to reshape the global economy.\n\nIt’s a leap so massive, it could reshape how businesses, governments, and consumers operate worldwide.\n\nEven if that $250 trillion figure sounds ambitious, major firms like PwC and McKinsey still see AI unlocking multi-trillion-dollar potential.\n\nThe answer lies in a breakthrough so powerful it’s redefining how humanity works, learns, and creates.\n\nAnd this breakthrough has already set off a frenzy among hedge funds and Wall Street’s top investors.\n\nWhat most investors don’t realize is that one under-owned company holds the key to this $250 trillion revolution.\n\nIn fact, Verge argues this company’s supercheap AI technology should concern rivals.\n\nBefore I reveal the details, let’s talk about how some of the richest people on the planet are positioning themselves.\n\nWhen billionaires from Silicon Valley to Wall Street line up behind the same idea — you know it’s worth paying attention to.\n\nEven as we admire what Tesla, Nvidia, Alphabet, and Microsoft have built, we believe an even greater opportunity lies elsewhere…\n\nBut the real story isn’t Nvidia — it’s a much smaller company quietly improving the critical technology that makes this entire revolution possible.\n\nAnd judging by what I’m hearing from both Silicon Valley insiders and Wall Street veterans…\n\nThis prediction might not be bold at all:\n\nA few years from now, you’ll wish you’d owned this stock.\n\nThe best part? You can discover everything about this company and its groundbreaking technology right now.\n\nI’ve compiled everything you need to know about this groundbreaking company in a detailed, members-only report.\n\nTrust me — you’ll want to read this report before putting another dollar into any tech stock.\n\nFor a ridiculously low price of just $9.99 a month, you can unlock a year’s worth of in-depth investment research and exclusive insights – that’s less than a single fast food meal!\n\nHere’s why this is a deal you can’t afford to pass up:\n\n• Access to our Detailed Report on this Game-Changing AI Stock: Our in-depth report dives deep into our #1 AI stock’s groundbreaking technology and massive growth potential.\n\n• 11 New Issues of Our Premium Readership Newsletter: You will also receive 11 new issues and at least one new stock pick per month from our monthly newsletter’s portfolio over the next 12 months. These stocks are handpicked by our research director, Dr. Inan Dogan.\n\n• One free upcoming issue of our 70+ page Quarterly Newsletter: A value of $149\n\n• Bonus Reports: Premium access to members-only fund manager video interviews\n\n• Ad-Free Browsing: Enjoy a year of investment research free from distracting banner and pop-up ads, allowing you to focus on uncovering the next big opportunity.\n\n• 30-Day Money-Back Guarantee: If you’re not absolutely satisfied with our service, we’ll provide a full refund within 30 days, no questions asked.\n\nIf you’re thinking about getting in, don’t wait – because once Wall Street catches wind of this story, the easy money will be gone.\n\nSpace is Limited! Only 1000 spots are available for this exclusive offer. Don’t let this chance slip away – subscribe to our Premium Readership Newsletter today and unlock the potential for a life-changing investment.\n\n1. Head over to our website and subscribe to our Premium Readership Newsletter for just $9.99 a month.\n\n2. Enjoy a year of ad-free browsing, exclusive access to our in-depth report on the revolutionary AI company, and the upcoming issues of our Premium Readership Newsletter over the next 12 months.\n\n3. Sit back, relax, and know that you’re backed by our ironclad 30-day money-back guarantee.\n\nDon’t miss out on this incredible opportunity! Subscribe now and take control of your AI investment future!\n\nNo worries about auto-renewals! Our 30-Day Money-Back Guarantee applies whether you’re joining us for the first time or renewing your subscription a month later!",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "insidermonkey.com",
+      "trust_tier": 2,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Insider Monkey",
+        "source_domain": "insidermonkey.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.5675,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "302b4b57-eea5-53b0-af24-62d20d311cda",
+      "timestamp_utc": "2026-04-07T12:56:00+00:00",
+      "source": "ibd",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeDBXX3RMNzVWV21Xb21UZWRRXzFvUlFhTWtfUzZ1Qm5CdEo0YlIxYXZ0VDFPaWIwMjIxWWt0U2tTbk56TkVwUUJDMF9RclduY0FHdWRjaG5sNmhFN1Y1ZkRZZ0doSE02dnFISGVQUVpIXzl6bVBGRW5oMU4zSnEtaGtwZDNTWm9EaTdFd0tBSExHcnZ4MHc?oc=5",
+      "title": "Google Parent Alphabet Leads 14 Outstanding Names Onto These Best Stock Lists - Investor's Business Daily",
+      "body": "Google Parent Alphabet Leads 14 Outstanding Names Onto These Best Stock Lists Investor's Business Daily",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investors.com",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Investor's Business Daily",
+        "source_domain": "investors.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.55,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "86a526ec-4e1a-5f09-90b5-930780db5efa",
+      "timestamp_utc": "2026-04-08T21:58:59+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-frank-rimerman-advisors-llc-has-7892-million-position-in-alphabet-inc-googl-2026-04-09/",
+      "title": "Frank Rimerman Advisors LLC Has $78.92 Million Position in Alphabet Inc. $GOOGL - MarketBeat",
+      "body": "Frank Rimerman Advisors LLC Has $78.92 Million Position in Alphabet Inc. $GOOGL MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.5175,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "bf3bac45-6e1e-56c4-afcf-32bfa722703f",
+      "timestamp_utc": "2026-04-08T04:30:51+00:00",
+      "source": "traders_union",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeXVuYmdrZWwwdDl1aWQ4WDZ1TTZnUFIwb2gzb1dYbEV3TkNfQlhjRjJ5WlFEbU9FOU1FMUFHMFoyWkFVRktUSDNtWndzUnVMZmdIUVJMRy1Fd2lnNGdGbV9Md29tNzRlN0d2d2hudk00cUhEU2Y1VFBDNWUzTUJWM3ZFZmR1bGZSX3Y1OUo0RUNkYVpSb1JQbGFza0tGUVFu?oc=5",
+      "title": "Custom AI chip deal with Broadcom lifts Alphabet stock to a 3.86% daily gain - Traders Union",
+      "body": "Custom AI chip deal with Broadcom lifts Alphabet stock to a 3.86% daily gain Traders Union",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "traders union",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Traders Union",
+        "source_domain": "tradersunion.com",
+        "event_origin": "news",
+        "relevance": 0.65,
+        "quality_score": 0.4925,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "76366f92-ca5c-5f8d-8718-23b4615d88bb",
+      "timestamp_utc": "2026-04-08T23:13:34+00:00",
+      "source": "national_today",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNXA3UXBBMC1QcHljV1dZVVI3SjNaSzMtVTVRMV9VVnpwdnVjekZuWE9DZl9sZHhyTTBTMElRSDBhMWp0QmhUd3ExSl9MemRMTVdqX0k2TlJ6MXZURmF1WmN0d3BtbzVPd3NaRFZzMFJYMVpiNVExbmt3ZUJKUXJYREpJR2doZEJCN1NZRmVsX3IwM1JCelVyNGN4X2RTU3RmME9WUDA0dlItSDZsWGtTcnBVcnR4RjZlamE1SWp3cE9DV2sxeTVXMGl3?oc=5",
+      "title": "Alphabet (GOOGL) Stock Edges Higher Amid Mixed Fund Bets Ahead of Earnings - National Today",
+      "body": "Alphabet (GOOGL) Stock Edges Higher Amid Mixed Fund Bets Ahead of Earnings National Today",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "national today",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "National Today",
+        "source_domain": "nationaltoday.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4825,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "cc39d2e2-2b92-541b-9b59-33437ae3e0aa",
+      "timestamp_utc": "2026-04-08T23:25:07+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWjJ3b1E5TmxfR0NkaF9LdWU2dDFEZFI2bmlWdE5GV1BYM2hBSWI5UlpTZnM1Vlp5cnB2QmRUajNHaXdqcmlwcFZycmczX285a0RKYW10TEppV3hHMHZGa1c5ckdzVXlJS1RRWlQ3WFNXam5UWDNBd0E4QTdpT3J2YlpJLXR0WUtiVS1zZFJmNGRad19TX0hlTUpnSXdqamV1SU1Md0NyQlJrYmhDQmszTW4za2tKZ0lCWlFJc0dkb3NaMzVQdGxDTVlzZEloaFhTbmZNRnNn?oc=5",
+      "title": "Alphabet Inc. $GOOGL Stock Holdings Lowered by PFG Private Wealth Management LLC - MarketBeat",
+      "body": "Alphabet Inc. $GOOGL Stock Holdings Lowered by PFG Private Wealth Management LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4675,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "e8358942-ea22-5bdb-bb20-cb40d90d83c1",
+      "timestamp_utc": "2026-04-08T03:00:02+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVFRyYndBVWNhZW04OXJfR0stR0E3aDF4WF9NZHY5ckNQSEE3T1h4NXFqVnZxY2Nmd0llc2tiVXJ6Y05ROXlLSHp1OHdicTNHWUcyV28wQ21Fcml6UmswWmVOWXJSUWEtSi02UUs4VUhvcGJ1cHlBaUFlSkJsaGlRaWFveEZLeFdvNzB6WmMzcXE?oc=5",
+      "title": "Alphabet Inc. (GOOGL) is Attracting Investor Attention: Here is What You Should Know - Yahoo! Finance Canada",
+      "body": "Alphabet Inc. (GOOGL) is Attracting Investor Attention: Here is What You Should Know Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.45,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "f8d4bb6b-0acb-50c7-867a-4768b93fc115",
+      "timestamp_utc": "2026-04-08T02:26:46+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMjdTNDBvX3MtaUlFMG90dlJMcVQ1cHdFaXo2NkJ2OTNwRHY1cmtTSWRGZWdkUHF0RnJTdllkR0dHS2JXb2dDaWN4dE1xWDRRXzUzMWsyU0xEMEVnZzJzNWJYMmNQSmJJRkNRNk4xcTVTUUs0UFJrYUNHd2lpQ25RWnZpLXpZZFBiWHFnamhYdERKdDdheE95dmxVS2pDV2VMMWZpYnBiM2Izd0xyRW16bHJrSFpKcEpmd2c?oc=5",
+      "title": "Alphabet Inc. $GOOGL Stake Raised by Westmount Partners LLC - MarketBeat",
+      "body": "Alphabet Inc. $GOOGL Stake Raised by Westmount Partners LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4475,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "d59426a1-6c01-5efb-ac4b-ab3e856ae9fd",
+      "timestamp_utc": "2026-04-08T23:53:21+00:00",
+      "source": "stockstory",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdENvajhPbzhreGxuandldnAxRXVCZWtrd0o2cHZmSEN2bGdjOVB5cFdudU1lWGxCR1RTYVlodXJZVmpLX3B4WWVyakJhVDVmNndaV1FEcmJ0NkE0RDVSUnNjT05DN1pEeHM3SW45Q1hfX2hGNDBtbEY3cHZzZWtXMmpaUXBaVGVIMkJFRnBYSHFNR1U4VEM2UHk5SjZBWm5xNDF4bg?oc=5",
+      "title": "3 Reasons We’re Fans of Alphabet (GOOGL) - StockStory",
+      "body": "3 Reasons We’re Fans of Alphabet (GOOGL) StockStory",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stockstory",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "StockStory",
+        "source_domain": "stockstory.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.446,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "7a4a50c6-5372-5b25-9b2a-6e0733835e0a",
+      "timestamp_utc": "2026-04-07T21:53:55+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbXN6ald1VjJtTjZnWjExbzVDZm9aVHZ4aWxTMjlPazE4cWVXa3I5NUZuelVKRTNkZF9oMEY4WGFoYzVjclRsbjJSYWdPVF9jTHJkemFDelU4RjFGQmJKU0dFR1hNQ0lXNi1OeGkxeG03VGtwd202eGRvSFdBR3JHNHNVZXk2VUN2RENoX2hJY3NKb3VWT2F0SmVoYW5nd1VrUXUxWWlMLUJRT0NYMXp4cUZkeHhTa2JmVWZOanBFcHdrd1hlSXREV3psdEpYQ254bjNBQVlBWQ?oc=5",
+      "title": "Alphabet Inc. $GOOGL Stock Holdings Reduced by Bright Rock Capital Management LLC - MarketBeat",
+      "body": "Alphabet Inc. $GOOGL Stock Holdings Reduced by Bright Rock Capital Management LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4275,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "273b0ab2-f0a8-5866-bbb3-9212fff082cd",
-      "timestamp_utc": "2026-03-31T11:49:19+00:00",
-      "source": "yahoo_finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-stock-trades-why-214919691.html",
-      "title": "Alphabet (GOOGL) Stock Trades Up, Here Is Why - Yahoo Finance",
-      "body": "Alphabet (GOOGL) Stock Trades Up, Here Is Why Yahoo Finance",
+      "id": "37a12a5a-bc3c-5c2e-861a-c3af4d76c23d",
+      "timestamp_utc": "2026-04-08T06:11:04+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/downgrades/26/04/51710904/broadcom-analyst-is-no-longer-bullish-despite-recent-google-agreement",
+      "title": "Broadcom Analyst No Longer Bullish Despite Google Agreement - Broadcom (NASDAQ:AVGO) - Benzinga",
+      "body": "Broadcom Analyst No Longer Bullish Despite Google Agreement - Broadcom (NASDAQ:AVGO) Benzinga",
       "author": null,
       "language": "en",
-      "ticker": "GOOGL",
+      "ticker": "AVGO",
       "tickers_hint": [
+        "AVGO",
         "GOOGL"
       ],
       "source_quality": "high",
-      "publisher_raw": "finance.yahoo.com",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
-        "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.6000000000000001,
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
         "event_origin": "news",
-        "query_tickers": [
-          "GOOGL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.6825,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
     },
     {
-      "id": "22de4ed6-5519-5f2a-94dd-27a2bf2a9052",
-      "timestamp_utc": "2026-03-31T08:22:00+00:00",
-      "source": "yahoo_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaDUzRU4zSUZIdlF6MkhTdlRqTG1aMGtrRmtRSkY5dXlMdjFqYndDTjgyV0h0LVlRdkw1bkhNY0JTWkdXU3JTSzl4TG1rTkN3ZVRqd2VnVllxR1ZOazMxUW53Q1VhNm10c2phQW05Ymx4NU54X3ZITWFhN1NCZTh5MmdnUENiZ3A5VGJfZGRsSUt0b1FnYnRabmNFQWxzMWtD?oc=5",
-      "title": "Prediction: This Will Be Alphabet's Stock Price in 5 Years - Yahoo Finance",
-      "body": "Prediction: This Will Be Alphabet's Stock Price in 5 Years Yahoo Finance",
+      "id": "4af2bd21-3b57-5098-9394-45c4195abb1b",
+      "timestamp_utc": "2026-04-08T04:20:03+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/04/51706010/while-amazon-microsoft-google-struggle-with-ai-on-land-china-looks-to-the-sea",
+      "title": "Amazon, Microsoft, Google AI Footprint Faces Pressure - Amazon.com (NASDAQ:AMZN), Alphabet (NASDAQ:GOOG) - Benzinga",
+      "body": "Amazon, Microsoft, Google AI Footprint Faces Pressure - Amazon.com (NASDAQ:AMZN), Alphabet (NASDAQ:GOOG) Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "AMZN",
+      "tickers_hint": [
+        "AMZN",
+        "GOOGL",
+        "MSFT"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.64,
+        "_channel": "google_benzinga"
+      }
+    },
+    {
+      "id": "66d67604-9144-50e0-9f3c-dabb3c81bc8f",
+      "timestamp_utc": "2026-04-08T02:43:41+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/retail-sales/26/04/51701525/googles-ai-ad-machine-rewrites-search-rules-as-brands-see-up-to-80-revenue-boost-not-some-zero-sum-game",
+      "title": "Google's AI Ad Machine Rewrites Search Rules As Brands See Up To 80% Revenue Boost: 'Not Some Zero-Sum Game' - Benzinga",
+      "body": "Google's AI Ad Machine Rewrites Search Rules As Brands See Up To 80% Revenue Boost: 'Not Some Zero-Sum Game' Benzinga",
       "author": null,
       "language": "en",
       "ticker": "GOOGL",
@@ -340,28 +711,194 @@
         "GOOGL"
       ],
       "source_quality": "high",
-      "publisher_raw": "finance.yahoo.com",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
-        "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.6,
+        "quality_score": 0.705,
+        "_channel": "google_benzinga"
+      }
+    },
+    {
+      "id": "78ce3ca0-a48b-52e4-878b-404f38b1b1b1",
+      "timestamp_utc": "2026-04-08T01:31:42+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdDhHWGg4VzhCb09CNVJtYlhaVk9qemxrTFV1aUVvNUJ4U1VoQ19rQkRrZDhjTGMtWTM1WkY0UHlNMFRkQWFORXhzRTk4Z2NvazQ4NWF5SHd5YlJDSTZLVm45VkJya0FkRm1QM3dJTUx2OHdXRTFkTFBIWUpVVUo0eGhpcUcxb2hvVXBvc3lnd2cxQ3l6aUJXRFRFVkxGUUw3UG9ZbEdkdDlqQVYtd0dWNFJJR1VVZzljMmxOMjhXSUhiUUhaWDhtMDh3NlVvTVV2WWJpOUhXVnVjOGNTQXNua0M1NnZVdWhfWDRjdkF5dDFaOGhUaUlj?oc=5",
+      "title": "Alphabet Sheds Its 'Black Hole' Label With $150 Billion In 'Hidden Assets' From SpaceX And Anthropic, Says Expert - Benzinga",
+      "body": "Alphabet Sheds Its 'Black Hole' Label With $150 Billion In 'Hidden Assets' From SpaceX And Anthropic, Says Expert Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
         "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "GOOGL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.695,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
     },
     {
-      "id": "cf89d1a9-a7c3-553d-978e-a7b45bf18868",
-      "timestamp_utc": "2026-03-31T08:04:00+00:00",
+      "id": "ab149c2c-6039-5b17-8ed7-2a2d3079df62",
+      "timestamp_utc": "2026-04-08T03:30:03+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/article/4889203-alphabet-q1-is-the-moment-of-truth",
+      "title": "Alphabet: Q1 Is The Moment Of Truth (NASDAQ:GOOGL) - Seeking Alpha",
+      "body": "Every quarter, Wall Street breaks down Alphabet Inc. (GOOGL/GOOG) by segments, which is why the company draws so much attention. There’s always something to discuss and argue about. And now, with the first-quarter 2026 earnings potentially\n\nAnalyst’s Disclosure: I/we have a beneficial long position in the shares of GOOGL, AAPL either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.6725,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "d3b05377-3185-5ff0-b564-746ff73f0c38",
+      "timestamp_utc": "2026-04-08T10:23:00+00:00",
+      "source": "marketwatch",
+      "url": "https://www.marketwatch.com/story/googles-ai-lead-is-growing-in-this-key-area-thats-good-news-for-alphabets-stock-b627a691",
+      "title": "Google’s AI lead is growing in this key area. That’s good news for Alphabet’s stock. - MarketWatch",
+      "body": "Google’s AI lead is growing in this key area. That’s good news for Alphabet’s stock. MarketWatch",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "marketwatch.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketWatch",
+        "source_domain": "marketwatch.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.6575,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "83b7755e-3c3d-52db-8bb4-ea0691e7c5b6",
+      "timestamp_utc": "2026-04-08T06:02:35+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/04/51710477/google-finance-gets-ai-overhaul-rolls-out-real-time-insights-to-100-countries",
+      "title": "Google Finance Gets AI Overhaul - Rolls Out Real-Time Insights To 100+ Countries - Benzinga",
+      "body": "Google Finance Gets AI Overhaul - Rolls Out Real-Time Insights To 100+ Countries Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.6325,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "50f89c23-1c17-5cde-86f7-3c0918973458",
+      "timestamp_utc": "2026-04-08T01:50:03+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONnZGYzExYkpuenBvMU1GcFVKMTVQTFNKWG8wdGw2OFdIQTZJNWxwVDhIdzRCcTZZdFdmbjNZc2VjMWUxWTdaTzhfTFZqbXZqTDFoQXpTSi11WmNJLWVpczV4ZWRlR2RmVGRucnhHUHdNRE1YMXQ4dTRQaVJUdWNUd0lVQkIyWTU5Vy0yV195M2s5MzdRbEZsVE5sZnRmUWY1LVNmVmRDWHpHaVB4ckNXdW5XWDl1LU1ub3hTN2tSVXg2ejdoLVFXUnVweUZraE0?oc=5",
+      "title": "Hershey, PepsiCo, Alphabet, Netflix And A Key Financial Stock On CNBC's 'Final Trades' - Benzinga",
+      "body": "Hershey, PepsiCo, Alphabet, Netflix And A Key Financial Stock On CNBC's 'Final Trades' Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.63,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
+    },
+    {
+      "id": "586f0895-c974-506a-8eba-4bdff04f2251",
+      "timestamp_utc": "2026-04-07T21:36:04+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSUw1Z2FLd2pRMC1zVXEyMmdVNmIydkpEQlVPcHo5TWlGNms4TGloZmxxa3N1X2pILXVkM0FKVEQ0RlFmbWUtcm44d2xZcURYeWFzUGpySVNkQ1JQaDd3OGJWUldJNlM0ajRIM3NET29UWnVKdDZkMUdKVWNJSHhCTTEwQjlKS0laZ1dvbXJPU01ZTDVLN1FoMWZDdlQzOWx3VUpKZG9VY0xYTzJTZEI0?oc=5",
+      "title": "Google Chrome Finally Embraces Vertical Tabs After Years Of Resistance: What You Should Know - Benzinga",
+      "body": "Google Chrome Finally Embraces Vertical Tabs After Years Of Resistance: What You Should Know Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.615,
+        "_channel": "google_benzinga"
+      }
+    },
+    {
+      "id": "a43a45b6-b9bb-53fb-bf3c-3f5391333a14",
+      "timestamp_utc": "2026-04-08T07:20:00+00:00",
       "source": "motley_fool",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uUkFnUU5jR0FtT2N3UTZ6QmZaQ0xldnZNOEY5d1F6aVlxa25YWTYxdUp0ZzQwdnhsTFhIcWFoTkpvWjhzcnluWXc1ZnN3TDJSZ0daVEp3ZWVVTlp1cXZYZTZfM3E0d2p6Q0psei1OS2NabGJfQlA5WC1FX0N1YzA?oc=5",
-      "title": "Why Alphabet Stock Popped Today - The Motley Fool",
-      "body": "Why Alphabet Stock Popped Today The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdGxxVXpOcTZEc3l6QTVzRmlwRXhaZ3YxWFI4LWpCejE2RFNUR181TzBIYjZYOFdDall0aE5wMjZyYXIxRnR2OHdIOXM2ZkZZLWVlQWhvaFRJVWZkTUgyM05NS3kwOGdfT0xRRjgtWFRhWEZ1VzY0RkIzNHZUNkN3bXNCUGxSa19EaEFaOVNn?oc=5",
+      "title": "Why Alphabet Stock Was Moving Higher Today - The Motley Fool",
+      "body": "Why Alphabet Stock Was Moving Higher Today The Motley Fool",
       "author": null,
       "language": "en",
       "ticker": "GOOGL",
@@ -370,56 +907,52 @@
       ],
       "source_quality": "high",
       "publisher_raw": "fool.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "The Motley Fool",
         "source_domain": "fool.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
         "event_origin": "news",
-        "query_tickers": [
-          "GOOGL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.611,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "22cc1f85-c456-556c-9071-63d8c5d29147",
-      "timestamp_utc": "2026-03-31T14:45:00+00:00",
-      "source": "investing.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMy1HVVBoZ1N5MzZod1gyZHJXNmphcDVfbzdHeXBWejlQdGhLMTVDV0JXWlotcnlzbnEtdDlpZnR5cURGdzNtTnNFZi1yc01HZkJkOTk5azAxWWNMc3ZSZ1VhenAtTUpLRFFnRTFrVkNOWF9mQll1OWdWT2tISjhxdU80S3dSR0JFX2NtQTZCNzRKV0pkMjlRTW0yeXpZcWdLb2ZuOEFvOVdjb1V2dnZwX3I2b0s2WjB2QzlGVw?oc=5",
-      "title": "Alphabet Inc: director Arnold sells $28,069 in GOOGL stock - investing.com",
-      "body": "Alphabet Inc: director Arnold sells $28,069 in GOOGL stock investing.com",
+      "id": "db99e660-e14c-571c-a915-d96a578938b6",
+      "timestamp_utc": "2026-04-07T16:53:56+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVFU4d3BuUy1MN0tldC1obmNLcUxSYWxRTzdhQ3pyU1hoMm5CRFhxWWJOYmhYZ1hGYnZLSG9pUWNRajlkR2VEUXhHWk1mSlgwRFRvVG83Y2RKRE5GRkhUMHljXzIwcXpTS2xZN3dBREpwajNxVDFIUVg1VGp1ZjlkbEhCVU4wLUFaU1hKWg?oc=5",
+      "title": "Why Alphabet's Growth Story Is Being Misread - Seeking Alpha",
+      "body": "Why Alphabet's Growth Story Is Being Misread Seeking Alpha",
       "author": null,
       "language": "en",
       "ticker": "GOOGL",
       "tickers_hint": [
         "GOOGL"
       ],
-      "source_quality": "medium",
-      "publisher_raw": "investing.com",
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "investing.com",
-        "source_domain": "investing.com",
-        "trust_tier": 2,
-        "relevance": 0.6000000000000001,
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
         "event_origin": "news",
-        "query_tickers": [
-          "GOOGL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.591,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "2c2d1a1e-ef70-551f-abdd-1876fc31eec0",
-      "timestamp_utc": "2026-03-31T08:17:51+00:00",
+      "id": "a2c411ed-ad80-56e0-8c9b-6337f0d0107e",
+      "timestamp_utc": "2026-04-08T09:35:39+00:00",
       "source": "247_wall_st",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcUpzX2UwalVUdm11Q3pjSEgza2ZjSng1cFo5U1NCMDlMRUhxbXVzeWVKeXZsVmFWQW1kbHhwZk12bWZqWGs1MWRUbHV3WnlIWlE3MUNVNm1XRzRaZ2xNWlZmX19ZeHZqeWRlYWFxSWVKeUhRZDdkSjVlVlJlMVJvZnlZVmZvTGZWNmNoeFdVaW1XM3dfOFU0SEJPVTY2SzhmLVB1LVExOGZ0RmlIMk9icjlfaVZhM2hITE94cjllV2hSaE04VzR6dg?oc=5",
-      "title": "Alphabet Climbs 5%: Google’s Nine-Minute Bitcoin Warning Is Turning Heads on Wall Street - 24/7 Wall St.",
-      "body": "Alphabet Climbs 5%: Google’s Nine-Minute Bitcoin Warning Is Turning Heads on Wall Street 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMGVnWmFRWFl0el9TTHVUSWFjTDFnY3A2T05QNzhhWWRPYWwwZTNUZHlYY1kwMk5HRGpTMUNPVTliYVk0cjBZTHNIc2tSa084UDZhRk9WZmRldllIT3NOSThiSTBkYi1KUVpGSHVNbWRfYy10bXBUQmxWbm1lUE1aNnJSNW5YSnJjMkVsakp0YzQ0TVZmYWl4WHdZRWFHYWk0UHFTQmdlUXJJeXh2MzNHWkpBQmtVbW5UbVk0M21RRm9mR3VNQU9pN212R2RseUV5?oc=5",
+      "title": "Alphabet Climbs 4% on Waymo's Nashville Expansion: The Self-Driving Bet Is Starting to Pay Off - 24/7 Wall St.",
+      "body": "Alphabet Climbs 4% on Waymo's Nashville Expansion: The Self-Driving Bet Is Starting to Pay Off 24/7 Wall St.",
       "author": null,
       "language": "en",
       "ticker": "GOOGL",
@@ -428,167 +961,314 @@
       ],
       "source_quality": "medium",
       "publisher_raw": "247wallst.com",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "24/7 Wall St.",
         "source_domain": "247wallst.com",
-        "trust_tier": 2,
-        "relevance": 0.6000000000000001,
         "event_origin": "news",
-        "query_tickers": [
-          "GOOGL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.575,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "4bb9428d-6e05-57b7-9eaf-038b1d93642e",
-      "timestamp_utc": "2026-04-01T10:12:53+00:00",
-      "source": "cdn6.benzinga.com",
-      "url": "https://cdn6.benzinga.com/markets/tech/26/04/51590408/google-ceo-sundar-pichai-urges-users-ditch-outdated-gmail-ids-jack-dorsey-pushes-auto-dark-mode",
-      "title": "Sundar Pichai Urges Users To Ditch Outdated Gmail IDs As Jack Dorsey Pushes For Auto Dark Mode: 'Keep Your Old Username,' Says Google CEO - cdn6.benzinga.com",
-      "body": "NewsEarnings Guidance Dividends M&A Buybacks Legal Interviews Management Retail Sales Offerings IPOs Insider Trades Biotech/FDA \" tabindex=\"1\">Freight Tech MarketsPre-Market After Hours Movers ETFs Forex Cannabis Commodities Options Binary Options Bonds Futures CME Group Global Economics Previews Reviews Small-Cap Cryptocurrency Penny Stocks RatingsAnalyst Color Downgrades Upgrades Initiations Price Target IdeasLong Ideas Short Ideas Technicals From The Press Jim Cramer Rumors Best Penny Stocks Best Blue Chip Stocks Best High-Volume Penny Stocks Best S&P 500 ETFs Best Small Cap ETFs Best Swing Trade Stocks Fintech Personal FinanceStock Brokers Forex Brokers Personal Finance Futures Brokers Cryptocurrency Brokers Webull Binary Option Brokers Options Brokers eToro Altcoin Exchanges Ally Invest Review Binary Options Review eOption Review Etrade Review Interactive Brokers Review Personal Capital Review Suretrader Review TD Ameritrade Review Tradestation Review Yewno|Edge Review Cobra Trading Review ETF Brokers Mutual Fund Brokers Index Fund Brokers Bond Brokers Short Selling Brokers Stock Apps Penny Stocks Stocks Under $5 Stocks Under $10 Stocks Under $20 Stocks Under $50 Stocks Under $100 Invest in Art Invest in Land Invest in Real Estate Invest in Wine Invest in Gold Auto Home Medicare Life Vision Dental Business Pet Health Masterworks Review Motorcycle Renters Workers Comp Refinance Purchase Find a Mortgage Broker CryptoCrypto News Bitcoin Ethereum Blockchain Best Alt Coins How to buy Crypto TVYouTube Video Podcasts ToolsEarnings Calendar IPO Calendar Guidance Calendar FDA Calendar Dividend Calendar Stock Split Calendar Conference Call Calendar Economic Calendar Insider Trades Trade Idea Feed Analyst Ratings Unusual Options Activity Premium",
+      "id": "87e2e2ef-18b5-5786-87ab-91739bb26d4d",
+      "timestamp_utc": "2026-04-08T08:43:00+00:00",
+      "source": "ibd",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX3NYcTF0U2xpZVBvdlhtY2pGcHFCb1h0SzV6MEZaU29tRmtMSjdKb3AwS3pvSXVKVzdXb0U5elphbE9LM05vM0k0bzZEVVJnTzJCZ1pVblB6UTJIV1czR3lwaldySDVHUFNSdkVFcUJqYUZUUjNNbm90bjhwaUdVZEV3cm1Za3VLLTludlE4S0hyb09jMFQ0T3RMNA?oc=5",
+      "title": "Alphabet's Wing Drone Unit, DoorDash Expand Into Atlanta. Google Stock Turns Green In 2026. - Investor's Business Daily",
+      "body": "Alphabet's Wing Drone Unit, DoorDash Expand Into Atlanta. Google Stock Turns Green In 2026. Investor's Business Daily",
       "author": null,
       "language": "en",
       "ticker": "GOOGL",
       "tickers_hint": [
         "GOOGL"
       ],
-      "source_quality": "low",
-      "publisher_raw": "cdn6.benzinga.com",
+      "source_quality": "medium",
+      "publisher_raw": "investors.com",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_benzinga",
-        "source_name": "cdn6.benzinga.com",
-        "source_domain": "cdn6benzingacom.com",
-        "trust_tier": 1,
-        "relevance": 0.7000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "GOOGL"
-        ],
-        "alt_sources": [
-          "cdn6.benzinga.com"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "68e920c8-ad7c-50bd-bb94-c1bd6d184559",
-      "timestamp_utc": "2026-04-01T05:08:12+00:00",
-      "source": "blockonomi",
-      "url": "https://blockonomi.com/alphabet-googl-stock-sees-bullish-analyst-upgrades-amid-2-4m-executive-sale/",
-      "title": "Alphabet (GOOGL) Stock Sees Bullish Analyst Upgrades Amid $2.4M Executive Sale - Blockonomi",
-      "body": "Related Posts Western Digital (WDC) Stock Rallies 11% on Bernstein’s Bullish Upgrade to OutperformApril 1, 2026 Stanley Druckenmiller Doubles Down on Alphabet (GOOGL) and Amazon (AMZN) Stock Amid AI Cloud BoomApril 1, 2026 Microsoft (MSFT) Stock Rebounds: Benchmark Analyst Issues Buy Rating With $450 TargetApril 1, 2026",
-      "author": null,
-      "language": "en",
-      "ticker": "GOOGL",
-      "tickers_hint": [
-        "GOOGL"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "blockonomi",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Blockonomi",
-        "source_domain": "blockonomi.com",
-        "trust_tier": 1,
-        "relevance": 0.7000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "GOOGL"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "dd10590c-c814-5766-800a-b3feda6a4044",
-      "timestamp_utc": "2026-04-01T04:51:30+00:00",
-      "source": "coincentral",
-      "url": "https://coincentral.com/alphabet-googl-stock-two-analysts-raise-price-targets-while-clo-offloads-2-4m/",
-      "title": "Alphabet (GOOGL) Stock — Two Analysts Raise Price Targets While CLO Offloads $2.4M - CoinCentral",
-      "body": "The Best AI Stock Picking Tools in 2026: Your Complete Guide to Smarter InvestingFebruary 3, 2026 Finding The Best Crypto to Invest In: Expert Strategies for Identifying Tomorrow’s WinnersFebruary 27, 2025 Sui Blockchain Explained: How It Works and What You Need to KnowFebruary 6, 2025 Is Trump’s Memecoin Legit?\n\nHere’s What We Know About $TRUMPFebruary 1, 2025 What is Decentralized AI and Why We Need It ASAP?December 29, 2024",
-      "author": null,
-      "language": "en",
-      "ticker": "GOOGL",
-      "tickers_hint": [
-        "GOOGL"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "coincentral",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "CoinCentral",
-        "source_domain": "coincentral.com",
-        "trust_tier": 1,
-        "relevance": 0.7000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "GOOGL"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "321fccfb-a766-5a67-ba24-5fdaeab4b4a2",
-      "timestamp_utc": "2026-04-01T05:07:43+00:00",
-      "source": "blockonomi",
-      "url": "https://blockonomi.com/stanley-druckenmiller-doubles-down-on-alphabet-googl-and-amazon-amzn-stock-amid-ai-cloud-boom/",
-      "title": "Stanley Druckenmiller Doubles Down on Alphabet (GOOGL) and Amazon (AMZN) Stock Amid AI Cloud Boom - Blockonomi",
-      "body": "Related Posts Western Digital (WDC) Stock Rallies 11% on Bernstein’s Bullish Upgrade to OutperformApril 1, 2026 Alphabet (GOOGL) Stock Sees Bullish Analyst Upgrades Amid $2.4M Executive SaleApril 1, 2026 Microsoft (MSFT) Stock Rebounds: Benchmark Analyst Issues Buy Rating With $450 TargetApril 1, 2026",
-      "author": null,
-      "language": "en",
-      "ticker": "GOOGL",
-      "tickers_hint": [
-        "GOOGL"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "blockonomi",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Blockonomi",
-        "source_domain": "blockonomi.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "GOOGL"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "46197a29-85e8-5c77-afac-1c27f167abf0",
-      "timestamp_utc": "2026-03-31T06:18:00+00:00",
-      "source": "investor's_business_daily",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ3RHcWtkOUszb3lIUjQ3ZndGU05XWDlWeU5IQVJJMEJsUjh6NnFUaFdwVGR0QjVadkFOcm9IbkVsejNxUlJieEdzekQ4TXRsQmQ0ejVZMkpHRkw4TnQwWnB5MnJDLTBrSXBzTTVzdlpOc1ZnNEZpcDdBVWhDNG5wcF9NTVZHYVcxR3hCMVpvVU9OeVJhMko0Ym1qMDNiM1R2Wk9qREoyeUVOdGcwNjh2Qg?oc=5",
-      "title": "Alphabet (GOOGL) Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
-      "body": "Alphabet (GOOGL) Stock Quotes, Company News And Chart Analysis Investor's Business Daily",
-      "author": null,
-      "language": "en",
-      "ticker": "GOOGL",
-      "tickers_hint": [
-        "GOOGL"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "investor's business daily",
-      "meta": {
-        "channel": "google_broad",
         "source_name": "Investor's Business Daily",
-        "source_domain": "investorsbusinessdaily.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
+        "source_domain": "investors.com",
         "event_origin": "news",
-        "query_tickers": [
-          "GOOGL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.57,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "0c871ac8-5bab-5ee4-a4e5-59767fee5f23",
+      "timestamp_utc": "2026-04-08T10:43:56+00:00",
+      "source": "insider_monkey",
+      "url": "https://www.insidermonkey.com/blog/alphabet-inc-googl-driving-ai-growth-and-expanding-cybersecurity-capabilities-1733963/",
+      "title": "Alphabet Inc. (GOOGL): Driving AI Growth and Expanding Cybersecurity Capabilities - Insider Monkey",
+      "body": "When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard.\n\nFast forward a year and Amazon’s new CEO Andy Jassy described generative AI as a “once-in-a-lifetime” technology that is already being used across Amazon to reinvent customer experiences.\n\nAt the 8th Future Investment Initiative conference, Elon Musk predicted that by 2040 there would be at least 10 billion humanoid robots, with each priced between $20,000 and $25,000.\n\nDo the math. According to Musk, this technology could be worth $250 trillion by 2040.\n\nPut another way, that’s roughly equal to:\n\nAnd here’s the wild part — this $250 trillion wave isn’t tied to one company, but to an entire ecosystem of AI innovators set to reshape the global economy.\n\nIt’s a leap so massive, it could reshape how businesses, governments, and consumers operate worldwide.\n\nEven if that $250 trillion figure sounds ambitious, major firms like PwC and McKinsey still see AI unlocking multi-trillion-dollar potential.\n\nThe answer lies in a breakthrough so powerful it’s redefining how humanity works, learns, and creates.\n\nAnd this breakthrough has already set off a frenzy among hedge funds and Wall Street’s top investors.\n\nWhat most investors don’t realize is that one under-owned company holds the key to this $250 trillion revolution.\n\nIn fact, Verge argues this company’s supercheap AI technology should concern rivals.\n\nBefore I reveal the details, let’s talk about how some of the richest people on the planet are positioning themselves.\n\nWhen billionaires from Silicon Valley to Wall Street line up behind the same idea — you know it’s worth paying attention to.\n\nEven as we admire what Tesla, Nvidia, Alphabet, and Microsoft have built, we believe an even greater opportunity lies elsewhere…\n\nBut the real story isn’t Nvidia — it’s a much smaller company quietly improving the critical technology that makes this entire revolution possible.\n\nAnd judging by what I’m hearing from both Silicon Valley insiders and Wall Street veterans…\n\nThis prediction might not be bold at all:\n\nA few years from now, you’ll wish you’d owned this stock.\n\nThe best part? You can discover everything about this company and its groundbreaking technology right now.\n\nI’ve compiled everything you need to know about this groundbreaking company in a detailed, members-only report.\n\nTrust me — you’ll want to read this report before putting another dollar into any tech stock.\n\nFor a ridiculously low price of just $9.99 a month, you can unlock a year’s worth of in-depth investment research and exclusive insights – that’s less than a single fast food meal!\n\nHere’s why this is a deal you can’t afford to pass up:\n\n• Access to our Detailed Report on this Game-Changing AI Stock: Our in-depth report dives deep into our #1 AI stock’s groundbreaking technology and massive growth potential.\n\n• 11 New Issues of Our Premium Readership Newsletter: You will also receive 11 new issues and at least one new stock pick per month from our monthly newsletter’s portfolio over the next 12 months. These stocks are handpicked by our research director, Dr. Inan Dogan.\n\n• One free upcoming issue of our 70+ page Quarterly Newsletter: A value of $149\n\n• Bonus Reports: Premium access to members-only fund manager video interviews\n\n• Ad-Free Browsing: Enjoy a year of investment research free from distracting banner and pop-up ads, allowing you to focus on uncovering the next big opportunity.\n\n• 30-Day Money-Back Guarantee: If you’re not absolutely satisfied with our service, we’ll provide a full refund within 30 days, no questions asked.\n\nIf you’re thinking about getting in, don’t wait – because once Wall Street catches wind of this story, the easy money will be gone.\n\nSpace is Limited! Only 1000 spots are available for this exclusive offer. Don’t let this chance slip away – subscribe to our Premium Readership Newsletter today and unlock the potential for a life-changing investment.\n\n1. Head over to our website and subscribe to our Premium Readership Newsletter for just $9.99 a month.\n\n2. Enjoy a year of ad-free browsing, exclusive access to our in-depth report on the revolutionary AI company, and the upcoming issues of our Premium Readership Newsletter over the next 12 months.\n\n3. Sit back, relax, and know that you’re backed by our ironclad 30-day money-back guarantee.\n\nDon’t miss out on this incredible opportunity! Subscribe now and take control of your AI investment future!\n\nNo worries about auto-renewals! Our 30-Day Money-Back Guarantee applies whether you’re joining us for the first time or renewing your subscription a month later!",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "insidermonkey.com",
+      "trust_tier": 2,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Insider Monkey",
+        "source_domain": "insidermonkey.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.5675,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "302b4b57-eea5-53b0-af24-62d20d311cda",
+      "timestamp_utc": "2026-04-07T12:56:00+00:00",
+      "source": "ibd",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeDBXX3RMNzVWV21Xb21UZWRRXzFvUlFhTWtfUzZ1Qm5CdEo0YlIxYXZ0VDFPaWIwMjIxWWt0U2tTbk56TkVwUUJDMF9RclduY0FHdWRjaG5sNmhFN1Y1ZkRZZ0doSE02dnFISGVQUVpIXzl6bVBGRW5oMU4zSnEtaGtwZDNTWm9EaTdFd0tBSExHcnZ4MHc?oc=5",
+      "title": "Google Parent Alphabet Leads 14 Outstanding Names Onto These Best Stock Lists - Investor's Business Daily",
+      "body": "Google Parent Alphabet Leads 14 Outstanding Names Onto These Best Stock Lists Investor's Business Daily",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investors.com",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Investor's Business Daily",
+        "source_domain": "investors.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.55,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "86a526ec-4e1a-5f09-90b5-930780db5efa",
+      "timestamp_utc": "2026-04-08T21:58:59+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-frank-rimerman-advisors-llc-has-7892-million-position-in-alphabet-inc-googl-2026-04-09/",
+      "title": "Frank Rimerman Advisors LLC Has $78.92 Million Position in Alphabet Inc. $GOOGL - MarketBeat",
+      "body": "Frank Rimerman Advisors LLC Has $78.92 Million Position in Alphabet Inc. $GOOGL MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.5175,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "bf3bac45-6e1e-56c4-afcf-32bfa722703f",
+      "timestamp_utc": "2026-04-08T04:30:51+00:00",
+      "source": "traders_union",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeXVuYmdrZWwwdDl1aWQ4WDZ1TTZnUFIwb2gzb1dYbEV3TkNfQlhjRjJ5WlFEbU9FOU1FMUFHMFoyWkFVRktUSDNtWndzUnVMZmdIUVJMRy1Fd2lnNGdGbV9Md29tNzRlN0d2d2hudk00cUhEU2Y1VFBDNWUzTUJWM3ZFZmR1bGZSX3Y1OUo0RUNkYVpSb1JQbGFza0tGUVFu?oc=5",
+      "title": "Custom AI chip deal with Broadcom lifts Alphabet stock to a 3.86% daily gain - Traders Union",
+      "body": "Custom AI chip deal with Broadcom lifts Alphabet stock to a 3.86% daily gain Traders Union",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "traders union",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Traders Union",
+        "source_domain": "tradersunion.com",
+        "event_origin": "news",
+        "relevance": 0.65,
+        "quality_score": 0.4925,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "76366f92-ca5c-5f8d-8718-23b4615d88bb",
+      "timestamp_utc": "2026-04-08T23:13:34+00:00",
+      "source": "national_today",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNXA3UXBBMC1QcHljV1dZVVI3SjNaSzMtVTVRMV9VVnpwdnVjekZuWE9DZl9sZHhyTTBTMElRSDBhMWp0QmhUd3ExSl9MemRMTVdqX0k2TlJ6MXZURmF1WmN0d3BtbzVPd3NaRFZzMFJYMVpiNVExbmt3ZUJKUXJYREpJR2doZEJCN1NZRmVsX3IwM1JCelVyNGN4X2RTU3RmME9WUDA0dlItSDZsWGtTcnBVcnR4RjZlamE1SWp3cE9DV2sxeTVXMGl3?oc=5",
+      "title": "Alphabet (GOOGL) Stock Edges Higher Amid Mixed Fund Bets Ahead of Earnings - National Today",
+      "body": "Alphabet (GOOGL) Stock Edges Higher Amid Mixed Fund Bets Ahead of Earnings National Today",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "national today",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "National Today",
+        "source_domain": "nationaltoday.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4825,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "cc39d2e2-2b92-541b-9b59-33437ae3e0aa",
+      "timestamp_utc": "2026-04-08T23:25:07+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWjJ3b1E5TmxfR0NkaF9LdWU2dDFEZFI2bmlWdE5GV1BYM2hBSWI5UlpTZnM1Vlp5cnB2QmRUajNHaXdqcmlwcFZycmczX285a0RKYW10TEppV3hHMHZGa1c5ckdzVXlJS1RRWlQ3WFNXam5UWDNBd0E4QTdpT3J2YlpJLXR0WUtiVS1zZFJmNGRad19TX0hlTUpnSXdqamV1SU1Md0NyQlJrYmhDQmszTW4za2tKZ0lCWlFJc0dkb3NaMzVQdGxDTVlzZEloaFhTbmZNRnNn?oc=5",
+      "title": "Alphabet Inc. $GOOGL Stock Holdings Lowered by PFG Private Wealth Management LLC - MarketBeat",
+      "body": "Alphabet Inc. $GOOGL Stock Holdings Lowered by PFG Private Wealth Management LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4675,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "e8358942-ea22-5bdb-bb20-cb40d90d83c1",
+      "timestamp_utc": "2026-04-08T03:00:02+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVFRyYndBVWNhZW04OXJfR0stR0E3aDF4WF9NZHY5ckNQSEE3T1h4NXFqVnZxY2Nmd0llc2tiVXJ6Y05ROXlLSHp1OHdicTNHWUcyV28wQ21Fcml6UmswWmVOWXJSUWEtSi02UUs4VUhvcGJ1cHlBaUFlSkJsaGlRaWFveEZLeFdvNzB6WmMzcXE?oc=5",
+      "title": "Alphabet Inc. (GOOGL) is Attracting Investor Attention: Here is What You Should Know - Yahoo! Finance Canada",
+      "body": "Alphabet Inc. (GOOGL) is Attracting Investor Attention: Here is What You Should Know Yahoo! Finance Canada",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "yahoo! finance canada",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.45,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "f8d4bb6b-0acb-50c7-867a-4768b93fc115",
+      "timestamp_utc": "2026-04-08T02:26:46+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMjdTNDBvX3MtaUlFMG90dlJMcVQ1cHdFaXo2NkJ2OTNwRHY1cmtTSWRGZWdkUHF0RnJTdllkR0dHS2JXb2dDaWN4dE1xWDRRXzUzMWsyU0xEMEVnZzJzNWJYMmNQSmJJRkNRNk4xcTVTUUs0UFJrYUNHd2lpQ25RWnZpLXpZZFBiWHFnamhYdERKdDdheE95dmxVS2pDV2VMMWZpYnBiM2Izd0xyRW16bHJrSFpKcEpmd2c?oc=5",
+      "title": "Alphabet Inc. $GOOGL Stake Raised by Westmount Partners LLC - MarketBeat",
+      "body": "Alphabet Inc. $GOOGL Stake Raised by Westmount Partners LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4475,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "d59426a1-6c01-5efb-ac4b-ab3e856ae9fd",
+      "timestamp_utc": "2026-04-08T23:53:21+00:00",
+      "source": "stockstory",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdENvajhPbzhreGxuandldnAxRXVCZWtrd0o2cHZmSEN2bGdjOVB5cFdudU1lWGxCR1RTYVlodXJZVmpLX3B4WWVyakJhVDVmNndaV1FEcmJ0NkE0RDVSUnNjT05DN1pEeHM3SW45Q1hfX2hGNDBtbEY3cHZzZWtXMmpaUXBaVGVIMkJFRnBYSHFNR1U4VEM2UHk5SjZBWm5xNDF4bg?oc=5",
+      "title": "3 Reasons We’re Fans of Alphabet (GOOGL) - StockStory",
+      "body": "3 Reasons We’re Fans of Alphabet (GOOGL) StockStory",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stockstory",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "StockStory",
+        "source_domain": "stockstory.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.446,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "7a4a50c6-5372-5b25-9b2a-6e0733835e0a",
+      "timestamp_utc": "2026-04-07T21:53:55+00:00",
+      "source": "marketbeat",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbXN6ald1VjJtTjZnWjExbzVDZm9aVHZ4aWxTMjlPazE4cWVXa3I5NUZuelVKRTNkZF9oMEY4WGFoYzVjclRsbjJSYWdPVF9jTHJkemFDelU4RjFGQmJKU0dFR1hNQ0lXNi1OeGkxeG03VGtwd202eGRvSFdBR3JHNHNVZXk2VUN2RENoX2hJY3NKb3VWT2F0SmVoYW5nd1VrUXUxWWlMLUJRT0NYMXp4cUZkeHhTa2JmVWZOanBFcHdrd1hlSXREV3psdEpYQ254bjNBQVlBWQ?oc=5",
+      "title": "Alphabet Inc. $GOOGL Stock Holdings Reduced by Bright Rock Capital Management LLC - MarketBeat",
+      "body": "Alphabet Inc. $GOOGL Stock Holdings Reduced by Bright Rock Capital Management LLC MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "GOOGL",
+      "tickers_hint": [
+        "GOOGL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4275,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

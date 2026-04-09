@@ -2,65 +2,115 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "f8722918-3e47-5a2c-8a11-f1db1dd6dad6",
-      "timestamp_utc": "2026-04-04T13:49:05+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/CMCSA/earnings",
-      "title": "CMCSA Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "CMCSA Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "e5289f6e-e4d0-53d1-b508-6c0ae997a294",
+      "timestamp_utc": "2026-04-08T16:36:14+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/article/4889387-comcast-stock-broadband-customer-base-in-focus-ahead-of-q1",
+      "title": "Comcast: Broadband Customer Base In Focus Ahead Of Q1 (NASDAQ:CMCSA) - Seeking Alpha",
+      "body": "Sundry Photography/iStock Editorial via Getty Images\n\nComcast (CMCSA) is one name that I view as interesting at current trading levels. In my 2026 market outlook article, which was published in late 2025, I noted that a key theme\n\nAnalyst’s Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
       "author": null,
       "language": "en",
       "ticker": "CMCSA",
       "tickers_hint": [
         "CMCSA"
       ],
-      "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
         "event_origin": "news",
-        "query_tickers": [
-          "CMCSA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.6675,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "87e4e878-a4a1-532c-837c-f55bee50fc6c",
+      "timestamp_utc": "2026-04-08T06:31:14+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd05zTFVTa0dEY05ERVo0a0ZsSFE3SkpoZ0VPeWlrLUppVW8zV1dZZ3hpSnFRSkx3cm1yUXpyczdvT2p3b09yLWZIR0JpYlJ2VWFqTTkwVUVhR3FER3VBOUZaVk1RRXFpSlZzVmF3SFU0QVBVa19FYjRUWmlPNlhPTy1XSzZoMkhzQ3V2U0VLMVNrTVdOQm1JWUUwZmlxUDlfRWxhRGg3Vk50bzFiVno2Nnp2OXNRWVU?oc=5",
+      "title": "“Bridge the Student Digital Divide”: Comcast Stock (NASDAQ:CMCSA) Notches Up With New Grants - TipRanks",
+      "body": "“Bridge the Student Digital Divide”: Comcast Stock (NASDAQ:CMCSA) Notches Up With New Grants TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "CMCSA",
+      "tickers_hint": [
+        "CMCSA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.635,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "f8722918-3e47-5a2c-8a11-f1db1dd6dad6",
-      "timestamp_utc": "2026-04-04T13:49:05+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/CMCSA/earnings",
-      "title": "CMCSA Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "CMCSA Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "e5289f6e-e4d0-53d1-b508-6c0ae997a294",
+      "timestamp_utc": "2026-04-08T16:36:14+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/article/4889387-comcast-stock-broadband-customer-base-in-focus-ahead-of-q1",
+      "title": "Comcast: Broadband Customer Base In Focus Ahead Of Q1 (NASDAQ:CMCSA) - Seeking Alpha",
+      "body": "Sundry Photography/iStock Editorial via Getty Images\n\nComcast (CMCSA) is one name that I view as interesting at current trading levels. In my 2026 market outlook article, which was published in late 2025, I noted that a key theme\n\nAnalyst’s Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
       "author": null,
       "language": "en",
       "ticker": "CMCSA",
       "tickers_hint": [
         "CMCSA"
       ],
-      "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
         "event_origin": "news",
-        "query_tickers": [
-          "CMCSA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.6675,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "87e4e878-a4a1-532c-837c-f55bee50fc6c",
+      "timestamp_utc": "2026-04-08T06:31:14+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd05zTFVTa0dEY05ERVo0a0ZsSFE3SkpoZ0VPeWlrLUppVW8zV1dZZ3hpSnFRSkx3cm1yUXpyczdvT2p3b09yLWZIR0JpYlJ2VWFqTTkwVUVhR3FER3VBOUZaVk1RRXFpSlZzVmF3SFU0QVBVa19FYjRUWmlPNlhPTy1XSzZoMkhzQ3V2U0VLMVNrTVdOQm1JWUUwZmlxUDlfRWxhRGg3Vk50bzFiVno2Nnp2OXNRWVU?oc=5",
+      "title": "“Bridge the Student Digital Divide”: Comcast Stock (NASDAQ:CMCSA) Notches Up With New Grants - TipRanks",
+      "body": "“Bridge the Student Digital Divide”: Comcast Stock (NASDAQ:CMCSA) Notches Up With New Grants TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "CMCSA",
+      "tickers_hint": [
+        "CMCSA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.635,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

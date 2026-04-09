@@ -1,11 +1,11 @@
 [
   {
-    "id": "f5be163b-adef-5139-94e6-4ba620ab5218",
-    "timestamp_utc": "2026-04-04T15:10:01+00:00",
-    "source": "intellectia_ai",
-    "url": "https://intellectia.ai/en/stock/RJF/technical",
-    "title": "RJF Technical Analysis & Stock Price Forecast - Intellectia AI",
-    "body": "RJF Technical Analysis & Stock Price Forecast Intellectia AI",
+    "id": "274c5cfe-8c86-5fa6-b0b3-0cd3cfe0218b",
+    "timestamp_utc": "2026-04-08T07:26:15+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8782313/barclays-maintains-overweight-rating-for-rjf-with-lowered-price-target-rjf-stock-news?mobile=true",
+    "title": "Barclays Maintains Overweight Rating for RJF with Lowered Price Target | RJF Stock News - GuruFocus",
+    "body": "Barclays Maintains Overweight Rating for RJF with Lowered Price Target | RJF Stock News GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "RJF",
@@ -13,19 +13,71 @@
       "RJF"
     ],
     "source_quality": "low",
-    "publisher_raw": "intellectia ai",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Intellectia AI",
-      "source_domain": "intellectiaai.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
       "event_origin": "news",
-      "query_tickers": [
-        "RJF"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.7000000000000001,
+      "quality_score": 0.49,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "2d8cb4d5-7501-506f-ad1e-2610650ac351",
+    "timestamp_utc": "2026-04-08T10:37:37+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8782485/rjf-ubs-lowers-price-target-for-raymond-james-finl-to-158-rjf-stock-news",
+    "title": "RJF: UBS Lowers Price Target for Raymond James Finl to $158 | RJ - GuruFocus",
+    "body": "RJF: UBS Lowers Price Target for Raymond James Finl to $158 | RJ GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "RJF",
+    "tickers_hint": [
+      "RJF"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4675,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "2fd27400-a7fa-5404-98f9-40ed42878a1f",
+    "timestamp_utc": "2026-04-08T10:29:36+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/ubs-group-has-lowered-expectations-for-raymond-james-financial-nyserjf-stock-price-2026-04-08/",
+    "title": "UBS Group Has Lowered Expectations for Raymond James Financial (NYSE:RJF) Stock Price - MarketBeat",
+    "body": "UBS Group Has Lowered Expectations for Raymond James Financial (NYSE:RJF) Stock Price MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "RJF",
+    "tickers_hint": [
+      "RJF"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4225,
+      "_channel": "google_broad"
+    }
   }
 ]

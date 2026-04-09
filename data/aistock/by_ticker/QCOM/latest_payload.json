@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "944ccd03-4f9a-5483-853c-409b4b068e0e",
-      "timestamp_utc": "2026-04-04T11:24:29+00:00",
+      "id": "9970b693-93ec-56d3-bb93-99a6f201902b",
+      "timestamp_utc": "2026-04-09T01:08:52+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-stratos-wealth-partners-ltd-decreases-stake-in-qualcomm-incorporated-qcom-2026-04-04/",
-      "title": "Stratos Wealth Partners LTD. Decreases Stake in Qualcomm Incorporated $QCOM - MarketBeat",
-      "body": "Stratos Wealth Partners LTD. Decreases Stake in Qualcomm Incorporated $QCOM MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mh-associates-securities-management-corp-adv-acquires-shares-of-20626-qualcomm-incorporated-qcom-2026-04-09/",
+      "title": "MH & Associates Securities Management Corp ADV Acquires Shares of 20,626 Qualcomm Incorporated $QCOM - MarketBeat",
+      "body": "MH & Associates Securities Management Corp ADV Acquires Shares of 20,626 Qualcomm Incorporated $QCOM MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "QCOM",
@@ -16,27 +16,25 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
         "event_origin": "news",
-        "query_tickers": [
-          "QCOM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4975,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "93acbccd-a3ec-5d90-b768-e68bc2992fde",
-      "timestamp_utc": "2026-04-04T10:17:46+00:00",
+      "id": "8b715f82-4f24-5c47-acde-48b9da970f1d",
+      "timestamp_utc": "2026-04-08T02:54:58+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-qualcomm-incorporated-qcom-shares-purchased-by-steelpeak-wealth-llc-2026-04-04/",
-      "title": "Qualcomm Incorporated $QCOM Shares Purchased by SteelPeak Wealth LLC - MarketBeat",
-      "body": "Qualcomm Incorporated $QCOM Shares Purchased by SteelPeak Wealth LLC MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-yousif-capital-management-llc-cuts-position-in-qualcomm-incorporated-qcom-2026-04-08/",
+      "title": "Yousif Capital Management LLC Cuts Position in Qualcomm Incorporated $QCOM - MarketBeat",
+      "body": "Yousif Capital Management LLC Cuts Position in Qualcomm Incorporated $QCOM MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "QCOM",
@@ -45,27 +43,52 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
         "event_origin": "news",
-        "query_tickers": [
-          "QCOM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4475,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "f73670e7-d843-5216-a2e2-c1ca0f0a6bf4",
-      "timestamp_utc": "2026-04-03T12:24:58+00:00",
+      "id": "bb961368-e23e-5368-911c-7e1b2cd0503a",
+      "timestamp_utc": "2026-04-08T08:01:00+00:00",
+      "source": "kalkine_media",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeC1wNi1fRW13emJJZVBjcW9NRXNaMFNuNWczUUNzTFNXaklVaWtIWDdHRVczbGt1TFlzNnNwNzBDTW5qNXFLcFk0dHhCcHBuSXpIWEJnQnRJWVM3YkhuWVU3Tm00Q19FZG9nSWYwQVhrbG1fdUNWZW5mMGN6NlZZcHRkR09PaXlLVDA1WkREczRPbmhhaTJSZ0ExSTVFSERGMnR6QVVpdXlnS190aF9aR0MyMGNQams?oc=5",
+      "title": "Qualcomm (NASDAQ:QCOM) Faces Pressure As Nasdaq Index Reflects Tech Shift - Kalkine Media",
+      "body": "Qualcomm (NASDAQ:QCOM) Faces Pressure As Nasdaq Index Reflects Tech Shift Kalkine Media",
+      "author": null,
+      "language": "en",
+      "ticker": "QCOM",
+      "tickers_hint": [
+        "QCOM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "kalkine media",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Kalkine Media",
+        "source_domain": "kalkinemedia.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.435,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "3a66173f-e63c-5f82-8b1c-d855a73cb50c",
+      "timestamp_utc": "2026-04-07T22:23:50+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-westwood-wealth-management-buys-shares-of-4910-qualcomm-incorporated-qcom-2026-04-03/",
-      "title": "Westwood Wealth Management Buys Shares of 4,910 Qualcomm Incorporated $QCOM - MarketBeat",
-      "body": "Westwood Wealth Management Buys Shares of 4,910 Qualcomm Incorporated $QCOM MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-cane-capital-partners-llc-takes-position-in-qualcomm-incorporated-qcom-2026-04-08/",
+      "title": "Cane Capital Partners LLC Takes Position in Qualcomm Incorporated $QCOM - MarketBeat",
+      "body": "Cane Capital Partners LLC Takes Position in Qualcomm Incorporated $QCOM MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "QCOM",
@@ -74,30 +97,28 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
         "event_origin": "news",
-        "query_tickers": [
-          "QCOM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4275,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "944ccd03-4f9a-5483-853c-409b4b068e0e",
-      "timestamp_utc": "2026-04-04T11:24:29+00:00",
+      "id": "9970b693-93ec-56d3-bb93-99a6f201902b",
+      "timestamp_utc": "2026-04-09T01:08:52+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-stratos-wealth-partners-ltd-decreases-stake-in-qualcomm-incorporated-qcom-2026-04-04/",
-      "title": "Stratos Wealth Partners LTD. Decreases Stake in Qualcomm Incorporated $QCOM - MarketBeat",
-      "body": "Stratos Wealth Partners LTD. Decreases Stake in Qualcomm Incorporated $QCOM MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mh-associates-securities-management-corp-adv-acquires-shares-of-20626-qualcomm-incorporated-qcom-2026-04-09/",
+      "title": "MH & Associates Securities Management Corp ADV Acquires Shares of 20,626 Qualcomm Incorporated $QCOM - MarketBeat",
+      "body": "MH & Associates Securities Management Corp ADV Acquires Shares of 20,626 Qualcomm Incorporated $QCOM MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "QCOM",
@@ -106,27 +127,25 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
         "event_origin": "news",
-        "query_tickers": [
-          "QCOM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4975,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "93acbccd-a3ec-5d90-b768-e68bc2992fde",
-      "timestamp_utc": "2026-04-04T10:17:46+00:00",
+      "id": "8b715f82-4f24-5c47-acde-48b9da970f1d",
+      "timestamp_utc": "2026-04-08T02:54:58+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-qualcomm-incorporated-qcom-shares-purchased-by-steelpeak-wealth-llc-2026-04-04/",
-      "title": "Qualcomm Incorporated $QCOM Shares Purchased by SteelPeak Wealth LLC - MarketBeat",
-      "body": "Qualcomm Incorporated $QCOM Shares Purchased by SteelPeak Wealth LLC MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-yousif-capital-management-llc-cuts-position-in-qualcomm-incorporated-qcom-2026-04-08/",
+      "title": "Yousif Capital Management LLC Cuts Position in Qualcomm Incorporated $QCOM - MarketBeat",
+      "body": "Yousif Capital Management LLC Cuts Position in Qualcomm Incorporated $QCOM MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "QCOM",
@@ -135,27 +154,52 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
         "event_origin": "news",
-        "query_tickers": [
-          "QCOM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4475,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "f73670e7-d843-5216-a2e2-c1ca0f0a6bf4",
-      "timestamp_utc": "2026-04-03T12:24:58+00:00",
+      "id": "bb961368-e23e-5368-911c-7e1b2cd0503a",
+      "timestamp_utc": "2026-04-08T08:01:00+00:00",
+      "source": "kalkine_media",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeC1wNi1fRW13emJJZVBjcW9NRXNaMFNuNWczUUNzTFNXaklVaWtIWDdHRVczbGt1TFlzNnNwNzBDTW5qNXFLcFk0dHhCcHBuSXpIWEJnQnRJWVM3YkhuWVU3Tm00Q19FZG9nSWYwQVhrbG1fdUNWZW5mMGN6NlZZcHRkR09PaXlLVDA1WkREczRPbmhhaTJSZ0ExSTVFSERGMnR6QVVpdXlnS190aF9aR0MyMGNQams?oc=5",
+      "title": "Qualcomm (NASDAQ:QCOM) Faces Pressure As Nasdaq Index Reflects Tech Shift - Kalkine Media",
+      "body": "Qualcomm (NASDAQ:QCOM) Faces Pressure As Nasdaq Index Reflects Tech Shift Kalkine Media",
+      "author": null,
+      "language": "en",
+      "ticker": "QCOM",
+      "tickers_hint": [
+        "QCOM"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "kalkine media",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Kalkine Media",
+        "source_domain": "kalkinemedia.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.435,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "3a66173f-e63c-5f82-8b1c-d855a73cb50c",
+      "timestamp_utc": "2026-04-07T22:23:50+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-westwood-wealth-management-buys-shares-of-4910-qualcomm-incorporated-qcom-2026-04-03/",
-      "title": "Westwood Wealth Management Buys Shares of 4,910 Qualcomm Incorporated $QCOM - MarketBeat",
-      "body": "Westwood Wealth Management Buys Shares of 4,910 Qualcomm Incorporated $QCOM MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-cane-capital-partners-llc-takes-position-in-qualcomm-incorporated-qcom-2026-04-08/",
+      "title": "Cane Capital Partners LLC Takes Position in Qualcomm Incorporated $QCOM - MarketBeat",
+      "body": "Cane Capital Partners LLC Takes Position in Qualcomm Incorporated $QCOM MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "QCOM",
@@ -164,19 +208,17 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
         "event_origin": "news",
-        "query_tickers": [
-          "QCOM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4275,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

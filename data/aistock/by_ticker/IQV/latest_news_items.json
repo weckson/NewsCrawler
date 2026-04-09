@@ -1,11 +1,11 @@
 [
   {
-    "id": "f770d5c0-c203-5ecc-b785-fc36880a7a9e",
-    "timestamp_utc": "2026-04-03T18:56:40+00:00",
-    "source": "yahoo!_finance_canada",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tU2lUSTJzbS1qVWpfYTEyd25VUW9LRDhCdVUtOXlGODZoeUR3M1ZpQ2hKS0MxeGliVU52TmdQWGVucER5MlFHbFZVSTFNcTBs?oc=5",
-    "title": "IQVIA Holdings Inc. (IQV) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "body": "IQVIA Holdings Inc. (IQV) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "id": "ed866025-ad6c-56d0-830c-d85bf53421fa",
+    "timestamp_utc": "2026-04-08T09:18:45+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8782251/iqv-evercore-isi-group-lowers-price-target-while-maintaining-outperform-rating-iqv-stock-news?mobile=true",
+    "title": "IQV: Evercore ISI Group Lowers Price Target while Maintaining Ou - GuruFocus",
+    "body": "IQV: Evercore ISI Group Lowers Price Target while Maintaining Ou GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "IQV",
@@ -13,19 +13,17 @@
       "IQV"
     ],
     "source_quality": "low",
-    "publisher_raw": "yahoo! finance canada",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo! Finance Canada",
-      "source_domain": "yahoofinancecanada.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
       "event_origin": "news",
-      "query_tickers": [
-        "IQV"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4375,
+      "_channel": "google_broad"
+    }
   }
 ]

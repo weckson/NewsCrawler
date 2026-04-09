@@ -1,8 +1,8 @@
 [
   {
-    "id": "505163df-0ac5-5947-98b3-036ea698848c",
-    "title": "NVR Inc. stock rises Tuesday, still underperforms market - MarketWatch",
-    "url": "https://www.marketwatch.com/data-news/nvr-inc-stock-rises-tuesday-still-underperforms-market-0181f33c-c05651612a95?mod=mw_quote_news&gaa_at=eafs&gaa_n=AWEtsqekOWMmm414fBzTIa9Nkh5haygrcX2GEpxapdkja60UHup-QyEBoLiV&gaa_ts=69cded26&gaa_sig=5OlTPjVfPNB0_4N2XOZi9suwnf-nidkU8NGk4aQgEK2Bni5exKm48IJ3p-4sBLt3p00a2idqdxiUBvni3KMyiA%3D%3D",
+    "id": "ca055709-1173-54c5-978a-60b4a7650b3a",
+    "title": "NVR Inc. stock underperforms Wednesday when compared to competitors despite daily gains - MarketWatch",
+    "url": "https://www.marketwatch.com/data-news/nvr-inc-stock-underperforms-wednesday-when-compared-to-competitors-despite-daily-gains-563f0ede-69a72b8a47e1?mod=mw_quote_news",
     "_source_name": "MarketWatch",
     "_source_domain": "marketwatch.com",
     "_trust": 3,
@@ -11,9 +11,28 @@
     "_tickers": [
       "NVR"
     ],
-    "published": "2026-03-31T11:08:00+00:00",
-    "summary": "NVR Inc. stock rises Tuesday, still underperforms market MarketWatch",
+    "published": "2026-04-08T11:07:00+00:00",
+    "summary": "NVR Inc. stock underperforms Wednesday when compared to competitors despite daily gains MarketWatch",
     "_relevance": 0.5,
+    "_quality_score": 0.635,
+    "_alt_sources": []
+  },
+  {
+    "id": "14736ed5-3a22-5e04-b937-58f3a8c181bb",
+    "title": "NVR (NYSE:NVR) Downgraded by Seaport Research Partners to \"Strong Sell\" - MarketBeat",
+    "url": "https://www.marketbeat.com/instant-alerts/nvr-nysenvr-downgraded-by-seaport-research-partners-to-strong-sell-2026-04-08/",
+    "_source_name": "MarketBeat",
+    "_source_domain": "marketbeat.com",
+    "_trust": 1,
+    "_channel": "google_broad",
+    "_ticker": "NVR",
+    "_tickers": [
+      "NVR"
+    ],
+    "published": "2026-04-08T01:26:37+00:00",
+    "summary": "NVR (NYSE:NVR) Downgraded by Seaport Research Partners to \"Strong Sell\" MarketBeat",
+    "_relevance": 0.7000000000000001,
+    "_quality_score": 0.475,
     "_alt_sources": []
   }
 ]

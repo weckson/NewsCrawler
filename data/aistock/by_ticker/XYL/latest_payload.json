@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "4fee168d-96c3-5a78-a546-f088ffec3494",
-      "timestamp_utc": "2026-04-04T21:12:33+00:00",
-      "source": "yahoo_finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTUdIc2hXX3RCdXc5U3oxQTc0Yl9LUWJ0YkJDUHhVOVc5cGdIcmZQVVBPTkFYdVo2LXZLY1VmSUZZNVhrblRwRGJvNTcxMkFZUE14MnhhRXFKOXZOSnZkYWR3ejVhcklYX3E2VUFseU0xdU1MR1BVUmY1Z0pqNE1JS2RWNlh1SnZ1cTNTSTUtTEN3V1ExRnk1Q293UU0?oc=5",
-      "title": "Is Xylem (XYL) Offering Value After Recent Water Technology Spotlight And Mixed Returns - Yahoo Finance",
-      "body": "Is Xylem (XYL) Offering Value After Recent Water Technology Spotlight And Mixed Returns Yahoo Finance",
+      "id": "f0c4a6ca-b527-585d-abd2-dae476019182",
+      "timestamp_utc": "2026-04-08T06:18:00+00:00",
+      "source": "motley_fool",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/04/08/xylem-xyl-q3-2024-earnings-call-transcript/",
+      "title": "Xylem (XYL) Q3 2024 Earnings Call Transcript - The Motley Fool",
+      "body": "Xylem (XYL) Q3 2024 Earnings Call Transcript The Motley Fool",
       "author": null,
       "language": "en",
       "ticker": "XYL",
@@ -15,31 +15,29 @@
         "XYL"
       ],
       "source_quality": "high",
-      "publisher_raw": "finance.yahoo.com",
+      "publisher_raw": "fool.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
-        "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
+        "source_name": "The Motley Fool",
+        "source_domain": "fool.com",
         "event_origin": "news",
-        "query_tickers": [
-          "XYL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.666,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "4fee168d-96c3-5a78-a546-f088ffec3494",
-      "timestamp_utc": "2026-04-04T21:12:33+00:00",
-      "source": "yahoo_finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTUdIc2hXX3RCdXc5U3oxQTc0Yl9LUWJ0YkJDUHhVOVc5cGdIcmZQVVBPTkFYdVo2LXZLY1VmSUZZNVhrblRwRGJvNTcxMkFZUE14MnhhRXFKOXZOSnZkYWR3ejVhcklYX3E2VUFseU0xdU1MR1BVUmY1Z0pqNE1JS2RWNlh1SnZ1cTNTSTUtTEN3V1ExRnk1Q293UU0?oc=5",
-      "title": "Is Xylem (XYL) Offering Value After Recent Water Technology Spotlight And Mixed Returns - Yahoo Finance",
-      "body": "Is Xylem (XYL) Offering Value After Recent Water Technology Spotlight And Mixed Returns Yahoo Finance",
+      "id": "f0c4a6ca-b527-585d-abd2-dae476019182",
+      "timestamp_utc": "2026-04-08T06:18:00+00:00",
+      "source": "motley_fool",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/04/08/xylem-xyl-q3-2024-earnings-call-transcript/",
+      "title": "Xylem (XYL) Q3 2024 Earnings Call Transcript - The Motley Fool",
+      "body": "Xylem (XYL) Q3 2024 Earnings Call Transcript The Motley Fool",
       "author": null,
       "language": "en",
       "ticker": "XYL",
@@ -47,20 +45,18 @@
         "XYL"
       ],
       "source_quality": "high",
-      "publisher_raw": "finance.yahoo.com",
+      "publisher_raw": "fool.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
-        "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
+        "source_name": "The Motley Fool",
+        "source_domain": "fool.com",
         "event_origin": "news",
-        "query_tickers": [
-          "XYL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.666,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

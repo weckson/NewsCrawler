@@ -2,70 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "52f03506-b3a0-55a1-ae92-9f7b0fd8cf6d",
-      "timestamp_utc": "2026-03-31T12:15:03+00:00",
-      "source": "yahoo_finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apa-apa-stock-sinks-market-221503534.html",
-      "title": "APA (APA) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
-      "body": "APA (APA) Stock Sinks As Market Gains: Here's Why Yahoo Finance",
-      "author": null,
-      "language": "en",
-      "ticker": "APA",
-      "tickers_hint": [
-        "APA"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "finance.yahoo.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
-        "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "APA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "e6fd7899-6003-5ce9-b385-e19e08b22fd8",
-      "timestamp_utc": "2026-03-31T07:39:00+00:00",
-      "source": "tipranks",
-      "url": "https://www.tipranks.com/news/catalyst/why-apa-stock-is-sinking-despite-earnings-beat",
-      "title": "Why APA Stock Is Sinking Despite Earnings Beat - TipRanks",
-      "body": "Why APA Stock Is Sinking Despite Earnings Beat TipRanks",
-      "author": null,
-      "language": "en",
-      "ticker": "APA",
-      "tickers_hint": [
-        "APA"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "tipranks.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "TipRanks",
-        "source_domain": "tipranks.com",
-        "trust_tier": 3,
-        "relevance": 0.6,
-        "event_origin": "news",
-        "query_tickers": [
-          "APA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "bfbb91e5-7ec9-5c13-bffd-66d7d4654687",
-      "timestamp_utc": "2026-03-31T11:10:00+00:00",
+      "id": "afd9ba9c-af21-55f6-a164-030dfb0a9f69",
+      "timestamp_utc": "2026-04-08T10:30:00+00:00",
       "source": "marketwatch",
-      "url": "https://www.marketwatch.com/data-news/apa-corp-stock-outperforms-competitors-despite-losses-on-the-day-b7425943-08ff7357099c?mod=mw_quote_news&gaa_at=eafs&gaa_n=AWEtsqfZMBu-qv1Mz04uUh1C6R_JphdWPQ97pngIUtGtbaBi07Jai-9abOEl&gaa_ts=69cdf0c9&gaa_sig=qlS8Q2mgTCBuOHclsAZCk_DaxuEMx9-YqCqKKkETsPzuyOlHlrrlq_rHf89y46Qwj3YTYBAY8i9H5lyW_f0tEg%3D%3D",
-      "title": "APA Corp. stock outperforms competitors despite losses on the day - MarketWatch",
-      "body": "APA Corp. stock outperforms competitors despite losses on the day MarketWatch",
+      "url": "https://www.marketwatch.com/data-news/apa-corp-stock-underperforms-wednesday-when-compared-to-competitors-e6c6db26-fec3396ff58f",
+      "title": "APA Corp. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "body": "APA Corp. stock underperforms Wednesday when compared to competitors MarketWatch",
       "author": null,
       "language": "en",
       "ticker": "APA",
@@ -74,27 +16,25 @@
       ],
       "source_quality": "high",
       "publisher_raw": "marketwatch.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketWatch",
         "source_domain": "marketwatch.com",
-        "trust_tier": 3,
-        "relevance": 0.55,
         "event_origin": "news",
-        "query_tickers": [
-          "APA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.635,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "9804512a-9306-5437-ba49-2d46f7180ae9",
-      "timestamp_utc": "2026-03-31T04:30:24+00:00",
-      "source": "benzinga",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQckhHYmFKQ1pTN01hc0ZRZHBOd2ZyVXAteDBRSHdTOC11Vnd5YVRSek56X2dKcWJRS2I2UkdYNjNzLVMwYnRkLVNBSDYwZmV6TnllTmdxOHVWdDhSNnV6SFhaRWE0Y213bU1kckg2SHlucWlidkRKZGl4YXo5T0VHV2EyQklOb19SZzVPamFoZ2tXeWlqUlAwM1RfMTFlem8tdTVNNktjRk4wUVA0X3NCZzBhU0xzX2doQWdkVm9QcklvTXc?oc=5",
-      "title": "Here's How Much You Would Have Made Owning APA Stock In The Last 5 Years - Benzinga",
-      "body": "Here's How Much You Would Have Made Owning APA Stock In The Last 5 Years Benzinga",
+      "id": "474f48d7-0fd3-54a5-8816-83c9d974f569",
+      "timestamp_utc": "2026-04-08T10:16:00+00:00",
+      "source": "barrons",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tWlJpV0NtbS1nUURfOEdFLVR0OXc0N1N4ck1QNEo1RnMxVFE1V3VYUDBYMnBidUE3SGFTdlFoZGZzelQ5SVgzWFVJRTJWeWk5OTFYOHNBaDFEUDFVUklQbjRlUUg?oc=5",
+      "title": "These Stocks Are Today’s Movers: Carnival, APA, Delta, Sandisk, Meta, Super Micro, LyondellBasell, and More - Barron's",
+      "body": "These Stocks Are Today’s Movers: Carnival, APA, Delta, Sandisk, Meta, Super Micro, LyondellBasell, and More Barron's",
       "author": null,
       "language": "en",
       "ticker": "APA",
@@ -102,31 +42,53 @@
         "APA"
       ],
       "source_quality": "high",
-      "publisher_raw": "benzinga.com",
+      "publisher_raw": "barrons.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
+        "source_name": "Barron's",
+        "source_domain": "barrons.com",
         "event_origin": "news",
-        "query_tickers": [
-          "APA"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.6275,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "c9e8cb8b-8ed4-5f0b-b1ad-b99f54106cf2",
-      "timestamp_utc": "2026-04-01T06:51:01+00:00",
+      "id": "b661490d-35ea-59d7-aaca-91644947284d",
+      "timestamp_utc": "2026-04-07T21:13:26+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYUFFMVRtaVFtREs0T0RXcVZIdWFNTWxmWU5CenB2U1drYjkta0ZpSUwxRDBNQTFucVFMa3JXLVM0WTFPX1RDM0JuM25XOHZZVnVJQk1IVmFYTDVlRTZKZVdEcjRSN1dZNnRkTVBZdzl5eVJnNG5ZUlR5RFlpRnBNUWNzTGd6M3pKLXd2SE1YTmg?oc=5",
+      "title": "Why APA Stock Is Tumbling After Oil’s Sudden Drop - TipRanks",
+      "body": "Why APA Stock Is Tumbling After Oil’s Sudden Drop TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "APA",
+      "tickers_hint": [
+        "APA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.591,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "956ab745-6dbf-56c9-b5bd-d68d2695cb17",
+      "timestamp_utc": "2026-04-08T10:26:12+00:00",
       "source": "tradingview",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZ04zV1dmNFlfNkpPbmM0RWVkTDlmRzg4YzlBSDljck1EWDN4TE5TMGhoV3hoNURtUC16R25SNnNEUU1mTnhJeFRaS1lqWlNGczFQMS1vbkhmTWVCcDVhU3F3RWtuUnJYbHhrZEJzQmZkSWJnTjRrVjlRelBISzc0RDZiczhiYzF1Um1zdnJUMllyZVY4S3ZZRVlxR3R4c1ltUzJmWUpnVkdSVnZ5UnRGZWpOWUtackFlRGhYaUl6aWVpV09paXo4cUdYMHhQdFpnTGFPaUZLZDc1WFd5OWVGZXc5a3NsVEs5ODVWRFluczdGakxVM3NHY3dMalI?oc=5",
-      "title": "BKV, Permian Resources, Range Resources, APA Corporation, and Viper Energy Shares Plummet, What You Need To Know - TradingView",
-      "body": "BKV, Permian Resources, Range Resources, APA Corporation, and Viper Energy Shares Plummet, What You Need To Know TradingView",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNSzlIbmVJV3N3cTFlSTdhZ1lRbG5NYkcyWmRMdWZDdDhvY3ZDM1ppWmUwTEZvMjhmVDR3bHpwQmdSem1ObnB6SEFSQzE3azR6b1N5VUt3bG1mRVlqUjVMTHl6ekM5bmNGa2FnUXV2NmFHRGF5Tmt2cUVEMTVkNml5TW95dXVhRDZnU0xZaXhfVmM5OHczM2NUT25XMXg1NVdYREtQbTY2TE84aUpvYTlubDJhNGlWVFJvbW81MG9uaFpOTk4wY0E2eVV5SkxsOVhJRzhaWHNERGVnc3hud3hsejNSM1dTakp5cHF4bUhYQl8teVYydDlNay1xREd6Z3RPdGp4TEZIYWhpSFJNc2dtZlprWFREanM?oc=5",
+      "title": "APA Corporation, Matador Resources, Chord Energy, Core Natural Resources, and Magnolia Oil & Gas Shares Plummet, What You Need To Know - TradingView",
+      "body": "APA Corporation, Matador Resources, Chord Energy, Core Natural Resources, and Magnolia Oil & Gas Shares Plummet, What You Need To Know TradingView",
       "author": null,
       "language": "en",
       "ticker": "APA",
@@ -135,27 +97,25 @@
       ],
       "source_quality": "medium",
       "publisher_raw": "tradingview.com",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "TradingView",
         "source_domain": "tradingview.com",
-        "trust_tier": 2,
+        "event_origin": "news",
         "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "APA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.545,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "18f675e3-595b-5e33-9358-07cde16558a8",
-      "timestamp_utc": "2026-03-31T08:37:18+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/apa-nasdaqapa-price-target-raised-to-4500-at-stephens-2026-03-31/",
-      "title": "APA (NASDAQ:APA) Price Target Raised to $45.00 at Stephens - MarketBeat",
-      "body": "APA (NASDAQ:APA) Price Target Raised to $45.00 at Stephens MarketBeat",
+      "id": "e8bfaff6-de96-502e-add5-f171a659ae0c",
+      "timestamp_utc": "2026-04-08T05:10:35+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/will-apa-apa-beat-estimates-again-in-its-next-earnings-report/ar-AA20hDNH",
+      "title": "Will APA (APA) beat estimates again in its next earnings report? - MSN",
+      "body": "Will APA (APA) beat estimates again in its next earnings report? MSN",
       "author": null,
       "language": "en",
       "ticker": "APA",
@@ -163,28 +123,26 @@
         "APA"
       ],
       "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "publisher_raw": "msn",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "event_origin": "news",
         "relevance": 0.7000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "APA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.49,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "7b6cd1fb-ac49-5aa9-b475-c2fed2bf45bd",
-      "timestamp_utc": "2026-03-31T08:25:18+00:00",
+      "id": "ae755be8-e5ef-52c5-952d-98aa23affb1d",
+      "timestamp_utc": "2026-04-08T03:57:27+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/apa-nasdaqapa-stock-price-down-47-time-to-sell-2026-03-31/",
-      "title": "APA (NASDAQ:APA) Stock Price Down 4.7% - Time to Sell? - MarketBeat",
-      "body": "APA (NASDAQ:APA) Stock Price Down 4.7% - Time to Sell? MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/apa-nasdaqapa-stock-price-expected-to-rise-royal-bank-of-canada-analyst-says-2026-04-08/",
+      "title": "APA (NASDAQ:APA) Stock Price Expected to Rise, Royal Bank Of Canada Analyst Says - MarketBeat",
+      "body": "APA (NASDAQ:APA) Stock Price Expected to Rise, Royal Bank Of Canada Analyst Says MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "APA",
@@ -193,85 +151,52 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
+        "event_origin": "news",
+        "relevance": 0.7000000000000001,
+        "quality_score": 0.475,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "9c7a9bf5-38b0-5a45-abf9-acf04ce8ef79",
+      "timestamp_utc": "2026-04-08T03:57:27+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/bmo-capital-markets-issues-positive-forecast-for-apa-nasdaqapa-stock-price-2026-04-08/",
+      "title": "BMO Capital Markets Issues Positive Forecast for APA (NASDAQ:APA) Stock Price - MarketBeat",
+      "body": "BMO Capital Markets Issues Positive Forecast for APA (NASDAQ:APA) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "APA",
+      "tickers_hint": [
+        "APA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
         "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "APA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.4625,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "335b2314-590a-5390-9f0f-50922939405c",
-      "timestamp_utc": "2026-03-31T18:31:00+00:00",
-      "source": "stockstory",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTJaVmdHenhsV01JYW5kMzNZNENzWkhzQlVBVFB2QmtTcHZWLXRmQ3FYSGJhcHFwT0lha25RNC1jYlE1THhiVUdnNWdxRG1WUHk0X213Ulp5NThIb0ZLeW1sclI0MW9KeWFpa2xQYzU3UXRCZmp3cldUNVlzWnlfdnZFdUh6eXAxUVpVZ3VFSVhUVEw0WmpYNDFDaFJhaFZaU1ZQSEFoWQ?oc=5",
-      "title": "APA Corporation (APA) Research Report - StockStory",
-      "body": "APA Corporation (APA) Research Report StockStory",
-      "author": null,
-      "language": "en",
-      "ticker": "APA",
-      "tickers_hint": [
-        "APA"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stockstory",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "StockStory",
-        "source_domain": "stockstory.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "APA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "7eae740a-534a-5037-8b3a-65a963459616",
-      "timestamp_utc": "2026-03-31T13:24:02+00:00",
-      "source": "bitget",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAydWdDOVBuWWlFd2pCZlhUTWZrbng0SUczMFRXT3lkcGtzalFlVkN1QmJJMHlDNXFaVXJvdzFHaXMxQmNhck53N1VHZDBtenNBZWVuQnV3bVdaVTlMcXAyMTdYMNIBY0FVX3lxTFAydWdDOVBuWWlFd2pCZlhUTWZrbng0SUczMFRXT3lkcGtzalFlVkN1QmJJMHlDNXFaVXJvdzFHaXMxQmNhck53N1VHZDBtenNBZWVuQnV3bVdaVTlMcXAyMTdYMA?oc=5",
-      "title": "APA (APA) Shares Fall While Broader Market Rises: The Reason Explained - Bitget",
-      "body": "APA (APA) Shares Fall While Broader Market Rises: The Reason Explained Bitget",
-      "author": null,
-      "language": "en",
-      "ticker": "APA",
-      "tickers_hint": [
-        "APA"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "bitget",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Bitget",
-        "source_domain": "bitget.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "APA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "ba80ce15-49c4-5892-b215-b5009fa0a445",
-      "timestamp_utc": "2026-04-01T00:14:23+00:00",
+      "id": "aed28d11-e780-52e1-9798-f1a68470d194",
+      "timestamp_utc": "2026-04-08T06:12:18+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/zacks-research-issues-optimistic-forecast-for-apa-earnings-2026-04-01/",
-      "title": "Zacks Research Issues Optimistic Forecast for APA Earnings - MarketBeat",
-      "body": "Zacks Research Issues Optimistic Forecast for APA Earnings MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/apa-nasdaqapa-shares-gap-down-heres-what-happened-2026-04-08/",
+      "title": "APA (NASDAQ:APA) Shares Gap Down - Here's What Happened - MarketBeat",
+      "body": "APA (NASDAQ:APA) Shares Gap Down - Here's What Happened MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "APA",
@@ -280,149 +205,28 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6,
         "event_origin": "news",
-        "query_tickers": [
-          "APA"
-        ],
-        "alt_sources": [
-          "MarketBeat"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "6ee4ee43-932d-50d9-9f84-109e92e48c62",
-      "timestamp_utc": "2026-04-01T01:16:10+00:00",
-      "source": "bitget",
-      "url": "https://www.bitget.com/news/detail/12560605329287",
-      "title": "Apa’s Strong Technicals Defy Mixed Analyst Sentiment - Bitget",
-      "body": "Apa’s Strong Technicals Defy Mixed Analyst Sentiment Bitget",
-      "author": null,
-      "language": "en",
-      "ticker": "APA",
-      "tickers_hint": [
-        "APA"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "bitget",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Bitget",
-        "source_domain": "bitget.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "APA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "168d352d-9780-5f25-a6a0-33e119d148e3",
-      "timestamp_utc": "2026-03-31T19:57:10+00:00",
-      "source": "defense_world",
-      "url": "https://www.defenseworld.net/2026/04/01/zacks-research-has-positive-estimate-for-apa-fy2028-earnings.html",
-      "title": "Zacks Research Has Positive Estimate for APA FY2028 Earnings - Defense World",
-      "body": "Air Armament Engines Fighter Aircraft Helicopters Land Armored Vehicles and Tanks Ordinance and Artillery Personnel Equipment Small Arms Missiles and Space Air Defense Military Satellites Missile Technology Naval Civil Aviation Accidents Airlines Engines Manufacturers MRO Economy Management Appointments Market Trends and Finance Mergers and Acquisitions Companies",
-      "author": null,
-      "language": "en",
-      "ticker": "APA",
-      "tickers_hint": [
-        "APA"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "defense world",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Defense World",
-        "source_domain": "defenseworld.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "APA"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4475,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "52f03506-b3a0-55a1-ae92-9f7b0fd8cf6d",
-      "timestamp_utc": "2026-03-31T12:15:03+00:00",
-      "source": "yahoo_finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apa-apa-stock-sinks-market-221503534.html",
-      "title": "APA (APA) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
-      "body": "APA (APA) Stock Sinks As Market Gains: Here's Why Yahoo Finance",
-      "author": null,
-      "language": "en",
-      "ticker": "APA",
-      "tickers_hint": [
-        "APA"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "finance.yahoo.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
-        "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "APA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "e6fd7899-6003-5ce9-b385-e19e08b22fd8",
-      "timestamp_utc": "2026-03-31T07:39:00+00:00",
-      "source": "tipranks",
-      "url": "https://www.tipranks.com/news/catalyst/why-apa-stock-is-sinking-despite-earnings-beat",
-      "title": "Why APA Stock Is Sinking Despite Earnings Beat - TipRanks",
-      "body": "Why APA Stock Is Sinking Despite Earnings Beat TipRanks",
-      "author": null,
-      "language": "en",
-      "ticker": "APA",
-      "tickers_hint": [
-        "APA"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "tipranks.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "TipRanks",
-        "source_domain": "tipranks.com",
-        "trust_tier": 3,
-        "relevance": 0.6,
-        "event_origin": "news",
-        "query_tickers": [
-          "APA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "bfbb91e5-7ec9-5c13-bffd-66d7d4654687",
-      "timestamp_utc": "2026-03-31T11:10:00+00:00",
+      "id": "afd9ba9c-af21-55f6-a164-030dfb0a9f69",
+      "timestamp_utc": "2026-04-08T10:30:00+00:00",
       "source": "marketwatch",
-      "url": "https://www.marketwatch.com/data-news/apa-corp-stock-outperforms-competitors-despite-losses-on-the-day-b7425943-08ff7357099c?mod=mw_quote_news&gaa_at=eafs&gaa_n=AWEtsqfZMBu-qv1Mz04uUh1C6R_JphdWPQ97pngIUtGtbaBi07Jai-9abOEl&gaa_ts=69cdf0c9&gaa_sig=qlS8Q2mgTCBuOHclsAZCk_DaxuEMx9-YqCqKKkETsPzuyOlHlrrlq_rHf89y46Qwj3YTYBAY8i9H5lyW_f0tEg%3D%3D",
-      "title": "APA Corp. stock outperforms competitors despite losses on the day - MarketWatch",
-      "body": "APA Corp. stock outperforms competitors despite losses on the day MarketWatch",
+      "url": "https://www.marketwatch.com/data-news/apa-corp-stock-underperforms-wednesday-when-compared-to-competitors-e6c6db26-fec3396ff58f",
+      "title": "APA Corp. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "body": "APA Corp. stock underperforms Wednesday when compared to competitors MarketWatch",
       "author": null,
       "language": "en",
       "ticker": "APA",
@@ -431,27 +235,25 @@
       ],
       "source_quality": "high",
       "publisher_raw": "marketwatch.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketWatch",
         "source_domain": "marketwatch.com",
-        "trust_tier": 3,
-        "relevance": 0.55,
         "event_origin": "news",
-        "query_tickers": [
-          "APA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.635,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "9804512a-9306-5437-ba49-2d46f7180ae9",
-      "timestamp_utc": "2026-03-31T04:30:24+00:00",
-      "source": "benzinga",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQckhHYmFKQ1pTN01hc0ZRZHBOd2ZyVXAteDBRSHdTOC11Vnd5YVRSek56X2dKcWJRS2I2UkdYNjNzLVMwYnRkLVNBSDYwZmV6TnllTmdxOHVWdDhSNnV6SFhaRWE0Y213bU1kckg2SHlucWlidkRKZGl4YXo5T0VHV2EyQklOb19SZzVPamFoZ2tXeWlqUlAwM1RfMTFlem8tdTVNNktjRk4wUVA0X3NCZzBhU0xzX2doQWdkVm9QcklvTXc?oc=5",
-      "title": "Here's How Much You Would Have Made Owning APA Stock In The Last 5 Years - Benzinga",
-      "body": "Here's How Much You Would Have Made Owning APA Stock In The Last 5 Years Benzinga",
+      "id": "474f48d7-0fd3-54a5-8816-83c9d974f569",
+      "timestamp_utc": "2026-04-08T10:16:00+00:00",
+      "source": "barrons",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tWlJpV0NtbS1nUURfOEdFLVR0OXc0N1N4ck1QNEo1RnMxVFE1V3VYUDBYMnBidUE3SGFTdlFoZGZzelQ5SVgzWFVJRTJWeWk5OTFYOHNBaDFEUDFVUklQbjRlUUg?oc=5",
+      "title": "These Stocks Are Today’s Movers: Carnival, APA, Delta, Sandisk, Meta, Super Micro, LyondellBasell, and More - Barron's",
+      "body": "These Stocks Are Today’s Movers: Carnival, APA, Delta, Sandisk, Meta, Super Micro, LyondellBasell, and More Barron's",
       "author": null,
       "language": "en",
       "ticker": "APA",
@@ -459,31 +261,53 @@
         "APA"
       ],
       "source_quality": "high",
-      "publisher_raw": "benzinga.com",
+      "publisher_raw": "barrons.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
+        "source_name": "Barron's",
+        "source_domain": "barrons.com",
         "event_origin": "news",
-        "query_tickers": [
-          "APA"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.6275,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "c9e8cb8b-8ed4-5f0b-b1ad-b99f54106cf2",
-      "timestamp_utc": "2026-04-01T06:51:01+00:00",
+      "id": "b661490d-35ea-59d7-aaca-91644947284d",
+      "timestamp_utc": "2026-04-07T21:13:26+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYUFFMVRtaVFtREs0T0RXcVZIdWFNTWxmWU5CenB2U1drYjkta0ZpSUwxRDBNQTFucVFMa3JXLVM0WTFPX1RDM0JuM25XOHZZVnVJQk1IVmFYTDVlRTZKZVdEcjRSN1dZNnRkTVBZdzl5eVJnNG5ZUlR5RFlpRnBNUWNzTGd6M3pKLXd2SE1YTmg?oc=5",
+      "title": "Why APA Stock Is Tumbling After Oil’s Sudden Drop - TipRanks",
+      "body": "Why APA Stock Is Tumbling After Oil’s Sudden Drop TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "APA",
+      "tickers_hint": [
+        "APA"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.591,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "956ab745-6dbf-56c9-b5bd-d68d2695cb17",
+      "timestamp_utc": "2026-04-08T10:26:12+00:00",
       "source": "tradingview",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZ04zV1dmNFlfNkpPbmM0RWVkTDlmRzg4YzlBSDljck1EWDN4TE5TMGhoV3hoNURtUC16R25SNnNEUU1mTnhJeFRaS1lqWlNGczFQMS1vbkhmTWVCcDVhU3F3RWtuUnJYbHhrZEJzQmZkSWJnTjRrVjlRelBISzc0RDZiczhiYzF1Um1zdnJUMllyZVY4S3ZZRVlxR3R4c1ltUzJmWUpnVkdSVnZ5UnRGZWpOWUtackFlRGhYaUl6aWVpV09paXo4cUdYMHhQdFpnTGFPaUZLZDc1WFd5OWVGZXc5a3NsVEs5ODVWRFluczdGakxVM3NHY3dMalI?oc=5",
-      "title": "BKV, Permian Resources, Range Resources, APA Corporation, and Viper Energy Shares Plummet, What You Need To Know - TradingView",
-      "body": "BKV, Permian Resources, Range Resources, APA Corporation, and Viper Energy Shares Plummet, What You Need To Know TradingView",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNSzlIbmVJV3N3cTFlSTdhZ1lRbG5NYkcyWmRMdWZDdDhvY3ZDM1ppWmUwTEZvMjhmVDR3bHpwQmdSem1ObnB6SEFSQzE3azR6b1N5VUt3bG1mRVlqUjVMTHl6ekM5bmNGa2FnUXV2NmFHRGF5Tmt2cUVEMTVkNml5TW95dXVhRDZnU0xZaXhfVmM5OHczM2NUT25XMXg1NVdYREtQbTY2TE84aUpvYTlubDJhNGlWVFJvbW81MG9uaFpOTk4wY0E2eVV5SkxsOVhJRzhaWHNERGVnc3hud3hsejNSM1dTakp5cHF4bUhYQl8teVYydDlNay1xREd6Z3RPdGp4TEZIYWhpSFJNc2dtZlprWFREanM?oc=5",
+      "title": "APA Corporation, Matador Resources, Chord Energy, Core Natural Resources, and Magnolia Oil & Gas Shares Plummet, What You Need To Know - TradingView",
+      "body": "APA Corporation, Matador Resources, Chord Energy, Core Natural Resources, and Magnolia Oil & Gas Shares Plummet, What You Need To Know TradingView",
       "author": null,
       "language": "en",
       "ticker": "APA",
@@ -492,27 +316,25 @@
       ],
       "source_quality": "medium",
       "publisher_raw": "tradingview.com",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "TradingView",
         "source_domain": "tradingview.com",
-        "trust_tier": 2,
+        "event_origin": "news",
         "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "APA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.545,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "18f675e3-595b-5e33-9358-07cde16558a8",
-      "timestamp_utc": "2026-03-31T08:37:18+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/apa-nasdaqapa-price-target-raised-to-4500-at-stephens-2026-03-31/",
-      "title": "APA (NASDAQ:APA) Price Target Raised to $45.00 at Stephens - MarketBeat",
-      "body": "APA (NASDAQ:APA) Price Target Raised to $45.00 at Stephens MarketBeat",
+      "id": "e8bfaff6-de96-502e-add5-f171a659ae0c",
+      "timestamp_utc": "2026-04-08T05:10:35+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/will-apa-apa-beat-estimates-again-in-its-next-earnings-report/ar-AA20hDNH",
+      "title": "Will APA (APA) beat estimates again in its next earnings report? - MSN",
+      "body": "Will APA (APA) beat estimates again in its next earnings report? MSN",
       "author": null,
       "language": "en",
       "ticker": "APA",
@@ -520,28 +342,26 @@
         "APA"
       ],
       "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "publisher_raw": "msn",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
+        "source_name": "MSN",
+        "source_domain": "msn.com",
+        "event_origin": "news",
         "relevance": 0.7000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "APA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.49,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "7b6cd1fb-ac49-5aa9-b475-c2fed2bf45bd",
-      "timestamp_utc": "2026-03-31T08:25:18+00:00",
+      "id": "ae755be8-e5ef-52c5-952d-98aa23affb1d",
+      "timestamp_utc": "2026-04-08T03:57:27+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/apa-nasdaqapa-stock-price-down-47-time-to-sell-2026-03-31/",
-      "title": "APA (NASDAQ:APA) Stock Price Down 4.7% - Time to Sell? - MarketBeat",
-      "body": "APA (NASDAQ:APA) Stock Price Down 4.7% - Time to Sell? MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/apa-nasdaqapa-stock-price-expected-to-rise-royal-bank-of-canada-analyst-says-2026-04-08/",
+      "title": "APA (NASDAQ:APA) Stock Price Expected to Rise, Royal Bank Of Canada Analyst Says - MarketBeat",
+      "body": "APA (NASDAQ:APA) Stock Price Expected to Rise, Royal Bank Of Canada Analyst Says MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "APA",
@@ -550,85 +370,52 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
+        "event_origin": "news",
+        "relevance": 0.7000000000000001,
+        "quality_score": 0.475,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "9c7a9bf5-38b0-5a45-abf9-acf04ce8ef79",
+      "timestamp_utc": "2026-04-08T03:57:27+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/bmo-capital-markets-issues-positive-forecast-for-apa-nasdaqapa-stock-price-2026-04-08/",
+      "title": "BMO Capital Markets Issues Positive Forecast for APA (NASDAQ:APA) Stock Price - MarketBeat",
+      "body": "BMO Capital Markets Issues Positive Forecast for APA (NASDAQ:APA) Stock Price MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "APA",
+      "tickers_hint": [
+        "APA"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
         "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "APA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.4625,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "335b2314-590a-5390-9f0f-50922939405c",
-      "timestamp_utc": "2026-03-31T18:31:00+00:00",
-      "source": "stockstory",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTJaVmdHenhsV01JYW5kMzNZNENzWkhzQlVBVFB2QmtTcHZWLXRmQ3FYSGJhcHFwT0lha25RNC1jYlE1THhiVUdnNWdxRG1WUHk0X213Ulp5NThIb0ZLeW1sclI0MW9KeWFpa2xQYzU3UXRCZmp3cldUNVlzWnlfdnZFdUh6eXAxUVpVZ3VFSVhUVEw0WmpYNDFDaFJhaFZaU1ZQSEFoWQ?oc=5",
-      "title": "APA Corporation (APA) Research Report - StockStory",
-      "body": "APA Corporation (APA) Research Report StockStory",
-      "author": null,
-      "language": "en",
-      "ticker": "APA",
-      "tickers_hint": [
-        "APA"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stockstory",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "StockStory",
-        "source_domain": "stockstory.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "APA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "7eae740a-534a-5037-8b3a-65a963459616",
-      "timestamp_utc": "2026-03-31T13:24:02+00:00",
-      "source": "bitget",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAydWdDOVBuWWlFd2pCZlhUTWZrbng0SUczMFRXT3lkcGtzalFlVkN1QmJJMHlDNXFaVXJvdzFHaXMxQmNhck53N1VHZDBtenNBZWVuQnV3bVdaVTlMcXAyMTdYMNIBY0FVX3lxTFAydWdDOVBuWWlFd2pCZlhUTWZrbng0SUczMFRXT3lkcGtzalFlVkN1QmJJMHlDNXFaVXJvdzFHaXMxQmNhck53N1VHZDBtenNBZWVuQnV3bVdaVTlMcXAyMTdYMA?oc=5",
-      "title": "APA (APA) Shares Fall While Broader Market Rises: The Reason Explained - Bitget",
-      "body": "APA (APA) Shares Fall While Broader Market Rises: The Reason Explained Bitget",
-      "author": null,
-      "language": "en",
-      "ticker": "APA",
-      "tickers_hint": [
-        "APA"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "bitget",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Bitget",
-        "source_domain": "bitget.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "APA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "ba80ce15-49c4-5892-b215-b5009fa0a445",
-      "timestamp_utc": "2026-04-01T00:14:23+00:00",
+      "id": "aed28d11-e780-52e1-9798-f1a68470d194",
+      "timestamp_utc": "2026-04-08T06:12:18+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/zacks-research-issues-optimistic-forecast-for-apa-earnings-2026-04-01/",
-      "title": "Zacks Research Issues Optimistic Forecast for APA Earnings - MarketBeat",
-      "body": "Zacks Research Issues Optimistic Forecast for APA Earnings MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/apa-nasdaqapa-shares-gap-down-heres-what-happened-2026-04-08/",
+      "title": "APA (NASDAQ:APA) Shares Gap Down - Here's What Happened - MarketBeat",
+      "body": "APA (NASDAQ:APA) Shares Gap Down - Here's What Happened MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "APA",
@@ -637,80 +424,17 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6,
         "event_origin": "news",
-        "query_tickers": [
-          "APA"
-        ],
-        "alt_sources": [
-          "MarketBeat"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "6ee4ee43-932d-50d9-9f84-109e92e48c62",
-      "timestamp_utc": "2026-04-01T01:16:10+00:00",
-      "source": "bitget",
-      "url": "https://www.bitget.com/news/detail/12560605329287",
-      "title": "Apa’s Strong Technicals Defy Mixed Analyst Sentiment - Bitget",
-      "body": "Apa’s Strong Technicals Defy Mixed Analyst Sentiment Bitget",
-      "author": null,
-      "language": "en",
-      "ticker": "APA",
-      "tickers_hint": [
-        "APA"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "bitget",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Bitget",
-        "source_domain": "bitget.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "APA"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "168d352d-9780-5f25-a6a0-33e119d148e3",
-      "timestamp_utc": "2026-03-31T19:57:10+00:00",
-      "source": "defense_world",
-      "url": "https://www.defenseworld.net/2026/04/01/zacks-research-has-positive-estimate-for-apa-fy2028-earnings.html",
-      "title": "Zacks Research Has Positive Estimate for APA FY2028 Earnings - Defense World",
-      "body": "Air Armament Engines Fighter Aircraft Helicopters Land Armored Vehicles and Tanks Ordinance and Artillery Personnel Equipment Small Arms Missiles and Space Air Defense Military Satellites Missile Technology Naval Civil Aviation Accidents Airlines Engines Manufacturers MRO Economy Management Appointments Market Trends and Finance Mergers and Acquisitions Companies",
-      "author": null,
-      "language": "en",
-      "ticker": "APA",
-      "tickers_hint": [
-        "APA"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "defense world",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Defense World",
-        "source_domain": "defenseworld.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "APA"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4475,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

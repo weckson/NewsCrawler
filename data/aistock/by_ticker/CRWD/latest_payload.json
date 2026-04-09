@@ -2,12 +2,71 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "6b0d2d42-cae7-5b9b-85bb-f0555db87e23",
-      "timestamp_utc": "2026-04-01T05:10:05+00:00",
+      "id": "f35a0870-a445-5d70-a9b9-8336abfddaa9",
+      "timestamp_utc": "2026-04-08T09:10:58+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR2d5SFZBNkR2Q2VUTzNlTjBkcjZ5UmNPUmZpVjFVVTFuY3RNaWFrNW9feWVYOGR0QThGR3hRNm92U2czTVgxLTdaT1hiRGpranJHTDVibGNUcVZIeDBMQ0R2a1J4NDJ4VnY0WDlfM3Z0VTNmUnlKNVhzUTMzS1ZjZGxUelVHZGJVZEQzM3hwRmdzOXVFa0JTdUdySzZhNVcyUE5qc1dEa1FBdXRLWWNhdHcwUC1XZzRORDNLZjJqczUyZ3g2RjJkNTZNSTlDVS00Y0pqYXJYaTRPc2s4?oc=5",
+      "title": "Anthropic Locks Down Claude Mythos Over Hack Risk — What It Means For CRWD, PANW - Benzinga",
+      "body": "Anthropic Locks Down Claude Mythos Over Hack Risk — What It Means For CRWD, PANW Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "CRWD",
+      "tickers_hint": [
+        "CRWD",
+        "PANW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.63,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
+    },
+    {
+      "id": "35f6e126-54a2-576f-9f29-66facfed64e3",
+      "timestamp_utc": "2026-04-08T04:39:48+00:00",
       "source": "tipranks",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUnBZa0l1YzhBa2lOUjYwZFpVRDdaMXdOSTV5SnRXblZHOGVRalo5U19jTzR2WVRIUU0yQ3A3ZDl0SXBEMVRPT3VWVmFNeHBWdC02WUhaLWlRSlJzemEyTUJjYWpiZUhQOHFqYlJjbTBaRWF3M0xmWnNBR1d5YUVvdG5BWFh2VVlrME5ITkppQWVQZURrd0w5dnNvUXZTdG1iNk94TEc1azhxdnhq?oc=5",
-      "title": "CrowdStrike (CRWD) Stock Jumps after Benchmark Calls It a Top Cybersecurity Pick - TipRanks",
-      "body": "CrowdStrike (CRWD) Stock Jumps after Benchmark Calls It a Top Cybersecurity Pick TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM05YZkN2OGMteF9Qd3VLMFdVTXlVT1VLNVkwX2d0NEpob0lXNTExTjlSMFpDM3pKVTgyVGc4THpEY2VEMThXVXM5VnZFUFgtY1FpX1N6YmVfbXBQLVprWGN6UGpKZ1lScGtfY0xkM3pYM09PUTRYTE5vWFh3M01mS2p0TzZlVHlTby1ISDR3UVNReWhpeng5bkVUZlVLUQ?oc=5",
+      "title": "Why Palo Alto (PANW) and CrowdStrike (CRWD) Stocks Are Up Today, 4/8/26 - TipRanks",
+      "body": "Why Palo Alto (PANW) and CrowdStrike (CRWD) Stocks Are Up Today, 4/8/26 TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "CRWD",
+      "tickers_hint": [
+        "CRWD",
+        "PANW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.62,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "d0ccfd88-6c4d-5b1c-ae45-c40ece721ce1",
+      "timestamp_utc": "2026-04-09T02:00:00+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSm9FT0hjWFA4M1BuTEduMkxlbkFadUxWNHczaFhST3lidzhEQXFja1c3cGxDaG9TdnMycjBHZWJqa2haV3owYVIxVjVyM1hrOVVWaG1adWtQQUFBZU90TGZYeVZlaVVpa2kxOFczdDF1MDkzSzh5VnZrYmNtWUR6N1JLM0RlNkR4RlhwSVIySV9CZENRTkU2b2MyNTFWOUNrdnc?oc=5",
+      "title": "CrowdStrike Stock: Anthropic’s Project Glasswing Is A Game Changer (NASDAQ:CRWD) - Seeking Alpha",
+      "body": "CrowdStrike Stock: Anthropic’s Project Glasswing Is A Game Changer (NASDAQ:CRWD) Seeking Alpha",
       "author": null,
       "language": "en",
       "ticker": "CRWD",
@@ -15,60 +74,115 @@
         "CRWD"
       ],
       "source_quality": "high",
-      "publisher_raw": "tipranks.com",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "TipRanks",
-        "source_domain": "tipranks.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
         "event_origin": "news",
-        "query_tickers": [
-          "CRWD"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.66,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "5b3b18b4-a096-5706-8c23-aa4ed145137d",
-      "timestamp_utc": "2026-04-01T04:17:00+00:00",
-      "source": "tradingview",
-      "url": "https://www.tradingview.com/news/zacks:5d8a9888e094b:0-will-rising-adoption-of-next-gen-siem-boost-crwd-s-revenue-growth/",
-      "title": "Will Rising Adoption of Next-Gen SIEM Boost CRWD's Revenue Growth? - TradingView",
-      "body": "CrowdStrike’s CRWD Next-Gen SIEM business is becoming an important growth driver. In the fourth quarter of fiscal 2026, CrowdStrike’s Next-Gen SIEM business grew more than 75% year over year and exceeded $585 million in ending annual recurring revenues (ARR). This was much faster than the company’s total ARR growth of 24% in the quarter. Management said the business delivered a record quarter, showing that demand remains strong as more enterprises look to modernize their security operations.\n\nA major reason for this momentum is CrowdStrike’s ability to replace legacy SIEM vendors. Management said its Next-Gen SIEM stands out because of better performance and lower cost. One example shared on the last earnings call was a Fortune 500 retailer that signed a seven-figure deal and replaced its legacy SIEM and attached its point-product data pipeline with CrowdStrike. Here, Falcon’s fully native data pipeline and expected 80% faster query performance were key reasons behind the win.\n\nNowadays, enterprises want to reduce the number of point products they use and move to a single vendor that can handle more of their security needs. CrowdStrike’s Next-Gen SIEM fits well into this strategy because it works closely with the Falcon platform, allowing customers to bring together endpoint, cloud, identity and threat data in one place. This makes detection and response easier and helps lower the total cost of ownership.\n\nFurther, CrowdStrike is combining Next-Gen SIEM with products like Charlotte AI and Falcon Onum. This enables CrowdStrike to help its customers automate investigations, improve response speed and manage larger volumes of security data. With strong growth and increasing customer wins, Next-Gen SIEM should remain an important contributor to CrowdStrike’s revenue growth. The Zacks Consensus Estimate for fiscal 2027 and 2028 revenues indicates a year-over-year increase of around 22.8% and 21.2%, respectively.\n\nCompetitors like Palo Alto Networks PANW and SentinelOne S are also gaining ground through platform expansion and AI innovation.\n\nIn the second quarter of fiscal 2026, Palo Alto Networks saw robust growth in its Next-Gen Security ARR, which increased 33% year over year. The growth was driven by increased customer adoption of PANW’s advanced cybersecurity offerings, including its AI-driven XSIAM platform, SASE and software firewalls.\n\nThough comparatively a small competitor, SentinelOne posted fourth-quarter fiscal 2026 year-over-year growth of 22% in its ARR. The growth was fueled by the rising adoption of SentinelOne’s AI-first Singularity platform and Purple AI.\n\nCRWD’s Price Performance, Valuation and Estimates\n\nShares of CrowdStrike have lost 21.2% in the past six months compared with the Zacks Security industry’s decline of 25.5%.\n\nFrom a valuation standpoint, CrowdStrike trades at a forward price-to-sales ratio of 16.22, way higher than the industry’s average of 9.72. The Zacks Value Score of F also suggests that CRWD stock is overvalued.\n\nThe Zacks Consensus Estimate for CrowdStrike’s fiscal 2027 and 2028 earnings indicates year-over-year growth of 30% and 26.9%, respectively. The estimates for fiscal 2027 and 2028 have been revised upward over the past 60 and 30 days, respectively.\n\nCrowdStrike currently carries a Zacks Rank #3 (Hold). You can see the complete list of today’s Zacks #1 Rank (Strong Buy) stocks here.\n\nEach was handpicked by a Zacks expert as the #1 favorite stock to gain +100% or more in the coming year. While not all picks can be winners, previous recommendations have soared +112%, +171%, +209% and +232%.\n\nMost of the stocks in this report are flying under Wall Street radar, which provides a great opportunity to get in on the ground floor.Today, See These 5 Potential Home Runs >>\n\nWant the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report\n\nSentinelOne, Inc. (S): Free Stock Analysis Report\n\nPalo Alto Networks, Inc. (PANW): Free Stock Analysis Report\n\nCrowdStrike (CRWD): Free Stock Analysis Report\n\nThis article originally published on Zacks Investment Research (zacks.com).",
+      "id": "093b1e5f-0f9c-5c2d-b14a-30b146f3e096",
+      "timestamp_utc": "2026-04-08T19:33:04+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/companies/why-is-crowdstrike-crwd-down-3-5-since-last-earnings-report/ar-AA201skU",
+      "title": "Why is CrowdStrike (CRWD) down 3.5% since last earnings report? - MSN",
+      "body": "Why is CrowdStrike (CRWD) down 3.5% since last earnings report? MSN",
       "author": null,
       "language": "en",
       "ticker": "CRWD",
       "tickers_hint": [
         "CRWD"
       ],
-      "source_quality": "medium",
-      "publisher_raw": "tradingview.com",
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "TradingView",
-        "source_domain": "tradingview.com",
-        "trust_tier": 2,
-        "relevance": 0.55,
+        "source_name": "MSN",
+        "source_domain": "msn.com",
         "event_origin": "news",
-        "query_tickers": [
-          "CRWD"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.5,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "6b0d2d42-cae7-5b9b-85bb-f0555db87e23",
-      "timestamp_utc": "2026-04-01T05:10:05+00:00",
+      "id": "f35a0870-a445-5d70-a9b9-8336abfddaa9",
+      "timestamp_utc": "2026-04-08T09:10:58+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR2d5SFZBNkR2Q2VUTzNlTjBkcjZ5UmNPUmZpVjFVVTFuY3RNaWFrNW9feWVYOGR0QThGR3hRNm92U2czTVgxLTdaT1hiRGpranJHTDVibGNUcVZIeDBMQ0R2a1J4NDJ4VnY0WDlfM3Z0VTNmUnlKNVhzUTMzS1ZjZGxUelVHZGJVZEQzM3hwRmdzOXVFa0JTdUdySzZhNVcyUE5qc1dEa1FBdXRLWWNhdHcwUC1XZzRORDNLZjJqczUyZ3g2RjJkNTZNSTlDVS00Y0pqYXJYaTRPc2s4?oc=5",
+      "title": "Anthropic Locks Down Claude Mythos Over Hack Risk — What It Means For CRWD, PANW - Benzinga",
+      "body": "Anthropic Locks Down Claude Mythos Over Hack Risk — What It Means For CRWD, PANW Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "CRWD",
+      "tickers_hint": [
+        "CRWD",
+        "PANW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.63,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
+    },
+    {
+      "id": "35f6e126-54a2-576f-9f29-66facfed64e3",
+      "timestamp_utc": "2026-04-08T04:39:48+00:00",
       "source": "tipranks",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUnBZa0l1YzhBa2lOUjYwZFpVRDdaMXdOSTV5SnRXblZHOGVRalo5U19jTzR2WVRIUU0yQ3A3ZDl0SXBEMVRPT3VWVmFNeHBWdC02WUhaLWlRSlJzemEyTUJjYWpiZUhQOHFqYlJjbTBaRWF3M0xmWnNBR1d5YUVvdG5BWFh2VVlrME5ITkppQWVQZURrd0w5dnNvUXZTdG1iNk94TEc1azhxdnhq?oc=5",
-      "title": "CrowdStrike (CRWD) Stock Jumps after Benchmark Calls It a Top Cybersecurity Pick - TipRanks",
-      "body": "CrowdStrike (CRWD) Stock Jumps after Benchmark Calls It a Top Cybersecurity Pick TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM05YZkN2OGMteF9Qd3VLMFdVTXlVT1VLNVkwX2d0NEpob0lXNTExTjlSMFpDM3pKVTgyVGc4THpEY2VEMThXVXM5VnZFUFgtY1FpX1N6YmVfbXBQLVprWGN6UGpKZ1lScGtfY0xkM3pYM09PUTRYTE5vWFh3M01mS2p0TzZlVHlTby1ISDR3UVNReWhpeng5bkVUZlVLUQ?oc=5",
+      "title": "Why Palo Alto (PANW) and CrowdStrike (CRWD) Stocks Are Up Today, 4/8/26 - TipRanks",
+      "body": "Why Palo Alto (PANW) and CrowdStrike (CRWD) Stocks Are Up Today, 4/8/26 TipRanks",
+      "author": null,
+      "language": "en",
+      "ticker": "CRWD",
+      "tickers_hint": [
+        "CRWD",
+        "PANW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.62,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "d0ccfd88-6c4d-5b1c-ae45-c40ece721ce1",
+      "timestamp_utc": "2026-04-09T02:00:00+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSm9FT0hjWFA4M1BuTEduMkxlbkFadUxWNHczaFhST3lidzhEQXFja1c3cGxDaG9TdnMycjBHZWJqa2haV3owYVIxVjVyM1hrOVVWaG1adWtQQUFBZU90TGZYeVZlaVVpa2kxOFczdDF1MDkzSzh5VnZrYmNtWUR6N1JLM0RlNkR4RlhwSVIySV9CZENRTkU2b2MyNTFWOUNrdnc?oc=5",
+      "title": "CrowdStrike Stock: Anthropic’s Project Glasswing Is A Game Changer (NASDAQ:CRWD) - Seeking Alpha",
+      "body": "CrowdStrike Stock: Anthropic’s Project Glasswing Is A Game Changer (NASDAQ:CRWD) Seeking Alpha",
       "author": null,
       "language": "en",
       "ticker": "CRWD",
@@ -76,49 +190,45 @@
         "CRWD"
       ],
       "source_quality": "high",
-      "publisher_raw": "tipranks.com",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "TipRanks",
-        "source_domain": "tipranks.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
         "event_origin": "news",
-        "query_tickers": [
-          "CRWD"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.66,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "5b3b18b4-a096-5706-8c23-aa4ed145137d",
-      "timestamp_utc": "2026-04-01T04:17:00+00:00",
-      "source": "tradingview",
-      "url": "https://www.tradingview.com/news/zacks:5d8a9888e094b:0-will-rising-adoption-of-next-gen-siem-boost-crwd-s-revenue-growth/",
-      "title": "Will Rising Adoption of Next-Gen SIEM Boost CRWD's Revenue Growth? - TradingView",
-      "body": "CrowdStrike’s CRWD Next-Gen SIEM business is becoming an important growth driver. In the fourth quarter of fiscal 2026, CrowdStrike’s Next-Gen SIEM business grew more than 75% year over year and exceeded $585 million in ending annual recurring revenues (ARR). This was much faster than the company’s total ARR growth of 24% in the quarter. Management said the business delivered a record quarter, showing that demand remains strong as more enterprises look to modernize their security operations.\n\nA major reason for this momentum is CrowdStrike’s ability to replace legacy SIEM vendors. Management said its Next-Gen SIEM stands out because of better performance and lower cost. One example shared on the last earnings call was a Fortune 500 retailer that signed a seven-figure deal and replaced its legacy SIEM and attached its point-product data pipeline with CrowdStrike. Here, Falcon’s fully native data pipeline and expected 80% faster query performance were key reasons behind the win.\n\nNowadays, enterprises want to reduce the number of point products they use and move to a single vendor that can handle more of their security needs. CrowdStrike’s Next-Gen SIEM fits well into this strategy because it works closely with the Falcon platform, allowing customers to bring together endpoint, cloud, identity and threat data in one place. This makes detection and response easier and helps lower the total cost of ownership.\n\nFurther, CrowdStrike is combining Next-Gen SIEM with products like Charlotte AI and Falcon Onum. This enables CrowdStrike to help its customers automate investigations, improve response speed and manage larger volumes of security data. With strong growth and increasing customer wins, Next-Gen SIEM should remain an important contributor to CrowdStrike’s revenue growth. The Zacks Consensus Estimate for fiscal 2027 and 2028 revenues indicates a year-over-year increase of around 22.8% and 21.2%, respectively.\n\nCompetitors like Palo Alto Networks PANW and SentinelOne S are also gaining ground through platform expansion and AI innovation.\n\nIn the second quarter of fiscal 2026, Palo Alto Networks saw robust growth in its Next-Gen Security ARR, which increased 33% year over year. The growth was driven by increased customer adoption of PANW’s advanced cybersecurity offerings, including its AI-driven XSIAM platform, SASE and software firewalls.\n\nThough comparatively a small competitor, SentinelOne posted fourth-quarter fiscal 2026 year-over-year growth of 22% in its ARR. The growth was fueled by the rising adoption of SentinelOne’s AI-first Singularity platform and Purple AI.\n\nCRWD’s Price Performance, Valuation and Estimates\n\nShares of CrowdStrike have lost 21.2% in the past six months compared with the Zacks Security industry’s decline of 25.5%.\n\nFrom a valuation standpoint, CrowdStrike trades at a forward price-to-sales ratio of 16.22, way higher than the industry’s average of 9.72. The Zacks Value Score of F also suggests that CRWD stock is overvalued.\n\nThe Zacks Consensus Estimate for CrowdStrike’s fiscal 2027 and 2028 earnings indicates year-over-year growth of 30% and 26.9%, respectively. The estimates for fiscal 2027 and 2028 have been revised upward over the past 60 and 30 days, respectively.\n\nCrowdStrike currently carries a Zacks Rank #3 (Hold). You can see the complete list of today’s Zacks #1 Rank (Strong Buy) stocks here.\n\nEach was handpicked by a Zacks expert as the #1 favorite stock to gain +100% or more in the coming year. While not all picks can be winners, previous recommendations have soared +112%, +171%, +209% and +232%.\n\nMost of the stocks in this report are flying under Wall Street radar, which provides a great opportunity to get in on the ground floor.Today, See These 5 Potential Home Runs >>\n\nWant the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report\n\nSentinelOne, Inc. (S): Free Stock Analysis Report\n\nPalo Alto Networks, Inc. (PANW): Free Stock Analysis Report\n\nCrowdStrike (CRWD): Free Stock Analysis Report\n\nThis article originally published on Zacks Investment Research (zacks.com).",
+      "id": "093b1e5f-0f9c-5c2d-b14a-30b146f3e096",
+      "timestamp_utc": "2026-04-08T19:33:04+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/companies/why-is-crowdstrike-crwd-down-3-5-since-last-earnings-report/ar-AA201skU",
+      "title": "Why is CrowdStrike (CRWD) down 3.5% since last earnings report? - MSN",
+      "body": "Why is CrowdStrike (CRWD) down 3.5% since last earnings report? MSN",
       "author": null,
       "language": "en",
       "ticker": "CRWD",
       "tickers_hint": [
         "CRWD"
       ],
-      "source_quality": "medium",
-      "publisher_raw": "tradingview.com",
+      "source_quality": "low",
+      "publisher_raw": "msn",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "TradingView",
-        "source_domain": "tradingview.com",
-        "trust_tier": 2,
-        "relevance": 0.55,
+        "source_name": "MSN",
+        "source_domain": "msn.com",
         "event_origin": "news",
-        "query_tickers": [
-          "CRWD"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.5,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

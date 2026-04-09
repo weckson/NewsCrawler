@@ -2,41 +2,39 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "4f336bf2-7c32-5b19-94a4-a46b9e19eac0",
-      "timestamp_utc": "2026-04-04T14:43:24+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/MET/earnings",
-      "title": "MET Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "MET Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "80b8c27c-7449-5525-95d8-fa574fc3be30",
+      "timestamp_utc": "2026-04-08T04:59:53+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVjNrdzgyUW51LVZ2dDlNSjk0ZTA0T1cwRThOZmFBUHZVUjhwV3lPV282Q1RWQU9GWlUwNFd3VzQ4VzZ6dzVZZTUtTjV0SVpjRzJoV3JXU0ZXNGhCWlhlZklId182eWdKTC1hRTNCZUgwU3ZDWkk1aHlZOFVpVFVsWWphajhrbGRuQ1pJ?oc=5",
+      "title": "Why Warrior Met Coal Stock Is Dropping Today - TipRanks",
+      "body": "Why Warrior Met Coal Stock Is Dropping Today TipRanks",
       "author": null,
       "language": "en",
       "ticker": "MET",
       "tickers_hint": [
         "MET"
       ],
-      "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
         "event_origin": "news",
-        "query_tickers": [
-          "MET"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.611,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "71493de8-1ead-542d-a058-05263d5a3366",
-      "timestamp_utc": "2026-04-03T20:05:41+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbUxXLXJjVjJLc1NUVUwyOTZuUlRnVTFrbkw2T2J3WDA1cmV2TXhvVGg2TUFRb1RVUkR0SkdNVVR2b0VPRlRrRGozdGt2d0l2SENZVVBNdG9Tdk1KcXVpWDZ6QWRDSVpRXzhMeGpjNWJfNy1GTUNYUGsxMUZJbDllN0xrWWkzOEVyTi1YRjZhZm5JQmhiWWNfRUlleXFNdndwU09KRllzaw?oc=5",
-      "title": "MetLife (NYSE: MET) director receives 721 deferred stock shares - Stock Titan",
-      "body": "MetLife (NYSE: MET) director receives 721 deferred stock shares Stock Titan",
+      "id": "3169cddf-7089-54df-b6dd-ad1033fd5245",
+      "timestamp_utc": "2026-04-08T06:37:57+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782265/met-barclays-adjusts-price-target-but-maintains-overweight-rating-for-metlife-met-stock-news?mobile=true",
+      "title": "MET: Barclays Adjusts Price Target but Maintains Overweight Rati - GuruFocus",
+      "body": "MET: Barclays Adjusts Price Target but Maintains Overweight Rati GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "MET",
@@ -44,28 +42,26 @@
         "MET"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "MET"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "e130f284-62aa-5123-a8c5-586cf757b5a2",
-      "timestamp_utc": "2026-04-03T20:05:21+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObGUyNGg4UmJ2R1hFaDdSWVpKLTJxZDVKR1BORG85SXpaU2pNWFZpVkU3MXVYcU9HTFJabDlRMm50YjBucUVVamNTbFR6MEdESWpHNG12MVc1eHpJa2JXUm9ibjZRVkJVWk44QWVJXzZra0J1N2RiMGI2Vmp6ZlRvMkotUk52dXA2eE4xdlZPTHZsaWJ2UEtPV1hFUG5jWl9mb3ZHakF0UQ?oc=5",
-      "title": "Director William Kennard receives 721-share stock grant at MetLife (NYSE: MET) - Stock Titan",
-      "body": "Director William Kennard receives 721-share stock grant at MetLife (NYSE: MET) Stock Titan",
+      "id": "b7ad5cf1-2c4e-513c-a19c-b39ee0c86eb6",
+      "timestamp_utc": "2026-04-08T07:25:06+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSHI5azVvOVA0eDZoRlV6Wl9mMWdpa3VPc3BLX183Q2NLX19qNk9sYWpTaHJfeWZ3Zk5xNUVGVFMyZmJnTU5Hem1uYm1MZU5DUGJTMGhpbzY5UU5US2xnTVNsNnlpUlhiWDUtLXlUNGxWWG82UTNVYk10S3FoLXdCMGs1OUVxYlJFWnFjd3llbVJtaEdlS2w0UEN3?oc=5",
+      "title": "MetLife Inc (MET) Stock Price Up 3.38% on Apr 8 - GuruFocus",
+      "body": "MetLife Inc (MET) Stock Price Up 3.38% on Apr 8 GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "MET",
@@ -73,28 +69,26 @@
         "MET"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "MET"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.431,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "07b1bb60-0b23-52ed-8dab-3bee67c9ac6a",
-      "timestamp_utc": "2026-04-03T20:05:01+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWUxVk1hbE1HQ05QRW5ZekhPcXBmbHBfYl9samVjQU82X0lCUVBvdU9TRHlyZ0FJQTVBaGt6YXdXWERNWHdWQzh5YzhBdkNxQTF5SDFQZ0swMWtlUjFZbnhkckQwQk5kZkpEdFIxOEwzVDIySERuLXlPNFFRR192R3otQzFBQ3JxdWRaUFoyQnBDbjhUZGQtRVNiQVhFbF9zY0tzYnRmRQ?oc=5",
-      "title": "MetLife (NYSE: MET) director granted 1,248 deferred shares as fees - Stock Titan",
-      "body": "MetLife (NYSE: MET) director granted 1,248 deferred shares as fees Stock Titan",
+      "id": "13120661-83f7-57f3-9a49-65a77597be3b",
+      "timestamp_utc": "2026-04-08T13:26:11+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/stocks/NYSE/MET-PE/chart/",
+      "title": "MetLife (MET.PE) Stock Chart and Price History 2026 - MarketBeat",
+      "body": "MetLife (MET.PE) Stock Chart and Price History 2026 MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "MET",
@@ -102,266 +96,56 @@
         "MET"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "MET"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "c7a0649e-58ab-5224-994d-74924a3b2514",
-      "timestamp_utc": "2026-04-03T20:04:43+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaUpKNU5RRm5OWUxHdUNyYUZDRWZnZGlOT2dXb1RNN1ViSEtDOTJEUzVCb2dudEZyZW96UzZQa1BRSzgxTHNpaS16RzRxYjFwQ3hkNmhTc1BJVmZwczFkN0RQbGxWaUNUakxHTVdKSnhPZEwzZjNMOGloNGxqckZWWFd1ZHZKM3ZWTnpPSGZDb3VpT1pYOVNnMDNjZ3JVSU1wWkxzWGVTVQ?oc=5",
-      "title": "MetLife (MET) director receives 721-share stock grant as deferred board fees - Stock Titan",
-      "body": "MetLife (MET) director receives 721-share stock grant as deferred board fees Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "MET",
-      "tickers_hint": [
-        "MET"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "MET"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "cf1d64a4-2b77-569f-8878-c13d1123b693",
-      "timestamp_utc": "2026-04-03T20:04:37+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb290bnRRbVBoWWpsX0VwdE5rWE9NeWc3RndlMF82QkNKcjNXVTRqRDkzMnB5akJscU5pTW82bDZnMzlJUXI4MUdkWFkxYkM3Uy1vMzFicS1seDN6bC1QNzNyRXhTWlBYTTFwcGxCZC1PMGRLbUROQUhRdUd5ZlliOXNFUWFUdzF4SzZGQ0F4V0lMVXFETkptNy1NaFdyM2IxZWlLWlNETQ?oc=5",
-      "title": "MetLife (MET) director Laura J. Hay granted 721 deferred shares as board fees - Stock Titan",
-      "body": "MetLife (MET) director Laura J. Hay granted 721 deferred shares as board fees Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "MET",
-      "tickers_hint": [
-        "MET"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "MET"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "a2e98fd9-6a3c-58cd-bbae-9a4f4edd2861",
-      "timestamp_utc": "2026-04-03T20:04:31+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVWQ3OG9YNFMxVVNxVFVYWGsxdWtVZW1WX1hVWDZhVjNtd2ExUTRMZTdCX1FIOWdvdm00S0pxRm9HTzJZcThwVWRicXBfWjA5QVhUZWxZbUJXSGotYlBnaWJ3TWxmTW9BTk5jTWVJSmlaTWFoY1Q2dW5mX3hlUEE0SDNhN3FtdDVBQnhFRzQ2bm54VEpGaTlkempkV0szelNXWGhzMGlsZw?oc=5",
-      "title": "MetLife director awarded 721 deferred shares | MET Insider Trading - Stock Titan",
-      "body": "MetLife director awarded 721 deferred shares | MET Insider Trading Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "MET",
-      "tickers_hint": [
-        "MET"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "MET"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "4adc4920-3610-52e0-8412-c65982926522",
-      "timestamp_utc": "2026-04-03T20:04:23+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONHVRU2hDdDRScFZhU2hWQzFOSTlJNFhHYS1zejhYTUJZZk9BT1ZIeVpxdk11ZHZsemZuX1c1dVRqdmlpWEdwVmpGZ2REd29NcS1nM2w4VVBDMUlDZ1JxQnlXMDJUelBWa3VfZ0tST0k2Qk05TjZLRVNIcm1XNEppYUM3ZHBwdmdmUXRISEowNFN5czFya2hzU25QMk9rZU9tV01PY0FmMA?oc=5",
-      "title": "MetLife (MET) director Daniel Glaser receives 721-share equity grant and defers payout - Stock Titan",
-      "body": "MetLife (MET) director Daniel Glaser receives 721-share equity grant and defers payout Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "MET",
-      "tickers_hint": [
-        "MET"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "MET"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "c5128268-f842-5545-b406-98c8d6b96f2e",
-      "timestamp_utc": "2026-04-03T20:04:14+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWFpzRzY2dlVjMF9Ha2NKMkFKSURSYTVKcEsybXNYakNyU1Z1WTVXWGhFUkhOQ2RRR3ZZNEtYYlZCbHZ0dm9qby1fWl9ReHpUbWRYMFNJZWN6ZG96c2NXV3VyaEtOODgyXzBvWGRxRjBLS0JLb241N1dVR29aTG04eGtXVkZLWnVOT25NTHQ2MnBxV0FzLTdpcDFtS0R5em0ycU5nS2UtYw?oc=5",
-      "title": "MetLife (NYSE: MET) director awarded 721 shares as board pay - Stock Titan",
-      "body": "MetLife (NYSE: MET) director awarded 721 shares as board pay Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "MET",
-      "tickers_hint": [
-        "MET"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "MET"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "61fb30b0-0b5f-5909-b3da-08d78fc8a24e",
-      "timestamp_utc": "2026-04-03T20:04:08+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3dEZ2JtdjBFQjFnY0pyWXc1X2d6aUVhMnEwSjhTUWlaZEZNaHFSeHZwcUl1NDltRUUxMWE5Mk05OFlsOV9HUmtFNVNyaVJ3eW55OUJvREhqRVVXVnU4UHZwczRRY19MRHZsMmlBeEFQRC1UNFVUQWw1REtQR290aWg1Sm5seWJPSGpfVF9BenM1ZWlpZElsNG93ZTdjWUtQTGpBbW0tNA?oc=5",
-      "title": "MetLife (MET) director Mark A. Weinberger receives 721-share stock grant - Stock Titan",
-      "body": "MetLife (MET) director Mark A. Weinberger receives 721-share stock grant Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "MET",
-      "tickers_hint": [
-        "MET"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "MET"
-        ],
-        "alt_sources": [
-          "Stock Titan"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "23d0927c-de68-58cc-a0db-a1d5a11e7f88",
-      "timestamp_utc": "2026-04-03T20:04:03+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUng2d1hLckcwRmVnc3E2S0FTdXBnWjhJdEMwMFkzR3NVc25DTXplTjI4UGlqV2pHeUJnbDVxMER2MmMwMXBISHJ4RlJkU1EtSW1mSlVLeVpQU1dFSmR3WjcwazRIeEl3R01Maksyb29lWXBTTEhSN3NyblNvRnlaMmhvRWljNDJOT0hZdnhvQ19GdUl6cXBOMDk3c0RkNVNscERRWkVXMA?oc=5",
-      "title": "MetLife (MET) director Jeh C. Johnson granted 721 deferred shares as board pay - Stock Titan",
-      "body": "MetLife (MET) director Jeh C. Johnson granted 721 deferred shares as board pay Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "MET",
-      "tickers_hint": [
-        "MET"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "MET"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4225,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "4f336bf2-7c32-5b19-94a4-a46b9e19eac0",
-      "timestamp_utc": "2026-04-04T14:43:24+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/MET/earnings",
-      "title": "MET Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "MET Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "80b8c27c-7449-5525-95d8-fa574fc3be30",
+      "timestamp_utc": "2026-04-08T04:59:53+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVjNrdzgyUW51LVZ2dDlNSjk0ZTA0T1cwRThOZmFBUHZVUjhwV3lPV282Q1RWQU9GWlUwNFd3VzQ4VzZ6dzVZZTUtTjV0SVpjRzJoV3JXU0ZXNGhCWlhlZklId182eWdKTC1hRTNCZUgwU3ZDWkk1aHlZOFVpVFVsWWphajhrbGRuQ1pJ?oc=5",
+      "title": "Why Warrior Met Coal Stock Is Dropping Today - TipRanks",
+      "body": "Why Warrior Met Coal Stock Is Dropping Today TipRanks",
       "author": null,
       "language": "en",
       "ticker": "MET",
       "tickers_hint": [
         "MET"
       ],
-      "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
         "event_origin": "news",
-        "query_tickers": [
-          "MET"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.611,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "71493de8-1ead-542d-a058-05263d5a3366",
-      "timestamp_utc": "2026-04-03T20:05:41+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbUxXLXJjVjJLc1NUVUwyOTZuUlRnVTFrbkw2T2J3WDA1cmV2TXhvVGg2TUFRb1RVUkR0SkdNVVR2b0VPRlRrRGozdGt2d0l2SENZVVBNdG9Tdk1KcXVpWDZ6QWRDSVpRXzhMeGpjNWJfNy1GTUNYUGsxMUZJbDllN0xrWWkzOEVyTi1YRjZhZm5JQmhiWWNfRUlleXFNdndwU09KRllzaw?oc=5",
-      "title": "MetLife (NYSE: MET) director receives 721 deferred stock shares - Stock Titan",
-      "body": "MetLife (NYSE: MET) director receives 721 deferred stock shares Stock Titan",
+      "id": "3169cddf-7089-54df-b6dd-ad1033fd5245",
+      "timestamp_utc": "2026-04-08T06:37:57+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782265/met-barclays-adjusts-price-target-but-maintains-overweight-rating-for-metlife-met-stock-news?mobile=true",
+      "title": "MET: Barclays Adjusts Price Target but Maintains Overweight Rati - GuruFocus",
+      "body": "MET: Barclays Adjusts Price Target but Maintains Overweight Rati GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "MET",
@@ -369,28 +153,26 @@
         "MET"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "MET"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "e130f284-62aa-5123-a8c5-586cf757b5a2",
-      "timestamp_utc": "2026-04-03T20:05:21+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObGUyNGg4UmJ2R1hFaDdSWVpKLTJxZDVKR1BORG85SXpaU2pNWFZpVkU3MXVYcU9HTFJabDlRMm50YjBucUVVamNTbFR6MEdESWpHNG12MVc1eHpJa2JXUm9ibjZRVkJVWk44QWVJXzZra0J1N2RiMGI2Vmp6ZlRvMkotUk52dXA2eE4xdlZPTHZsaWJ2UEtPV1hFUG5jWl9mb3ZHakF0UQ?oc=5",
-      "title": "Director William Kennard receives 721-share stock grant at MetLife (NYSE: MET) - Stock Titan",
-      "body": "Director William Kennard receives 721-share stock grant at MetLife (NYSE: MET) Stock Titan",
+      "id": "b7ad5cf1-2c4e-513c-a19c-b39ee0c86eb6",
+      "timestamp_utc": "2026-04-08T07:25:06+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSHI5azVvOVA0eDZoRlV6Wl9mMWdpa3VPc3BLX183Q2NLX19qNk9sYWpTaHJfeWZ3Zk5xNUVGVFMyZmJnTU5Hem1uYm1MZU5DUGJTMGhpbzY5UU5US2xnTVNsNnlpUlhiWDUtLXlUNGxWWG82UTNVYk10S3FoLXdCMGs1OUVxYlJFWnFjd3llbVJtaEdlS2w0UEN3?oc=5",
+      "title": "MetLife Inc (MET) Stock Price Up 3.38% on Apr 8 - GuruFocus",
+      "body": "MetLife Inc (MET) Stock Price Up 3.38% on Apr 8 GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "MET",
@@ -398,28 +180,26 @@
         "MET"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "MET"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.431,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "07b1bb60-0b23-52ed-8dab-3bee67c9ac6a",
-      "timestamp_utc": "2026-04-03T20:05:01+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWUxVk1hbE1HQ05QRW5ZekhPcXBmbHBfYl9samVjQU82X0lCUVBvdU9TRHlyZ0FJQTVBaGt6YXdXWERNWHdWQzh5YzhBdkNxQTF5SDFQZ0swMWtlUjFZbnhkckQwQk5kZkpEdFIxOEwzVDIySERuLXlPNFFRR192R3otQzFBQ3JxdWRaUFoyQnBDbjhUZGQtRVNiQVhFbF9zY0tzYnRmRQ?oc=5",
-      "title": "MetLife (NYSE: MET) director granted 1,248 deferred shares as fees - Stock Titan",
-      "body": "MetLife (NYSE: MET) director granted 1,248 deferred shares as fees Stock Titan",
+      "id": "13120661-83f7-57f3-9a49-65a77597be3b",
+      "timestamp_utc": "2026-04-08T13:26:11+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/stocks/NYSE/MET-PE/chart/",
+      "title": "MetLife (MET.PE) Stock Chart and Price History 2026 - MarketBeat",
+      "body": "MetLife (MET.PE) Stock Chart and Price History 2026 MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "MET",
@@ -427,226 +207,18 @@
         "MET"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "MET"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "c7a0649e-58ab-5224-994d-74924a3b2514",
-      "timestamp_utc": "2026-04-03T20:04:43+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaUpKNU5RRm5OWUxHdUNyYUZDRWZnZGlOT2dXb1RNN1ViSEtDOTJEUzVCb2dudEZyZW96UzZQa1BRSzgxTHNpaS16RzRxYjFwQ3hkNmhTc1BJVmZwczFkN0RQbGxWaUNUakxHTVdKSnhPZEwzZjNMOGloNGxqckZWWFd1ZHZKM3ZWTnpPSGZDb3VpT1pYOVNnMDNjZ3JVSU1wWkxzWGVTVQ?oc=5",
-      "title": "MetLife (MET) director receives 721-share stock grant as deferred board fees - Stock Titan",
-      "body": "MetLife (MET) director receives 721-share stock grant as deferred board fees Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "MET",
-      "tickers_hint": [
-        "MET"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "MET"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "cf1d64a4-2b77-569f-8878-c13d1123b693",
-      "timestamp_utc": "2026-04-03T20:04:37+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb290bnRRbVBoWWpsX0VwdE5rWE9NeWc3RndlMF82QkNKcjNXVTRqRDkzMnB5akJscU5pTW82bDZnMzlJUXI4MUdkWFkxYkM3Uy1vMzFicS1seDN6bC1QNzNyRXhTWlBYTTFwcGxCZC1PMGRLbUROQUhRdUd5ZlliOXNFUWFUdzF4SzZGQ0F4V0lMVXFETkptNy1NaFdyM2IxZWlLWlNETQ?oc=5",
-      "title": "MetLife (MET) director Laura J. Hay granted 721 deferred shares as board fees - Stock Titan",
-      "body": "MetLife (MET) director Laura J. Hay granted 721 deferred shares as board fees Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "MET",
-      "tickers_hint": [
-        "MET"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "MET"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "a2e98fd9-6a3c-58cd-bbae-9a4f4edd2861",
-      "timestamp_utc": "2026-04-03T20:04:31+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVWQ3OG9YNFMxVVNxVFVYWGsxdWtVZW1WX1hVWDZhVjNtd2ExUTRMZTdCX1FIOWdvdm00S0pxRm9HTzJZcThwVWRicXBfWjA5QVhUZWxZbUJXSGotYlBnaWJ3TWxmTW9BTk5jTWVJSmlaTWFoY1Q2dW5mX3hlUEE0SDNhN3FtdDVBQnhFRzQ2bm54VEpGaTlkempkV0szelNXWGhzMGlsZw?oc=5",
-      "title": "MetLife director awarded 721 deferred shares | MET Insider Trading - Stock Titan",
-      "body": "MetLife director awarded 721 deferred shares | MET Insider Trading Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "MET",
-      "tickers_hint": [
-        "MET"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "MET"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "4adc4920-3610-52e0-8412-c65982926522",
-      "timestamp_utc": "2026-04-03T20:04:23+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONHVRU2hDdDRScFZhU2hWQzFOSTlJNFhHYS1zejhYTUJZZk9BT1ZIeVpxdk11ZHZsemZuX1c1dVRqdmlpWEdwVmpGZ2REd29NcS1nM2w4VVBDMUlDZ1JxQnlXMDJUelBWa3VfZ0tST0k2Qk05TjZLRVNIcm1XNEppYUM3ZHBwdmdmUXRISEowNFN5czFya2hzU25QMk9rZU9tV01PY0FmMA?oc=5",
-      "title": "MetLife (MET) director Daniel Glaser receives 721-share equity grant and defers payout - Stock Titan",
-      "body": "MetLife (MET) director Daniel Glaser receives 721-share equity grant and defers payout Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "MET",
-      "tickers_hint": [
-        "MET"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "MET"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "c5128268-f842-5545-b406-98c8d6b96f2e",
-      "timestamp_utc": "2026-04-03T20:04:14+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWFpzRzY2dlVjMF9Ha2NKMkFKSURSYTVKcEsybXNYakNyU1Z1WTVXWGhFUkhOQ2RRR3ZZNEtYYlZCbHZ0dm9qby1fWl9ReHpUbWRYMFNJZWN6ZG96c2NXV3VyaEtOODgyXzBvWGRxRjBLS0JLb241N1dVR29aTG04eGtXVkZLWnVOT25NTHQ2MnBxV0FzLTdpcDFtS0R5em0ycU5nS2UtYw?oc=5",
-      "title": "MetLife (NYSE: MET) director awarded 721 shares as board pay - Stock Titan",
-      "body": "MetLife (NYSE: MET) director awarded 721 shares as board pay Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "MET",
-      "tickers_hint": [
-        "MET"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "MET"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "61fb30b0-0b5f-5909-b3da-08d78fc8a24e",
-      "timestamp_utc": "2026-04-03T20:04:08+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3dEZ2JtdjBFQjFnY0pyWXc1X2d6aUVhMnEwSjhTUWlaZEZNaHFSeHZwcUl1NDltRUUxMWE5Mk05OFlsOV9HUmtFNVNyaVJ3eW55OUJvREhqRVVXVnU4UHZwczRRY19MRHZsMmlBeEFQRC1UNFVUQWw1REtQR290aWg1Sm5seWJPSGpfVF9BenM1ZWlpZElsNG93ZTdjWUtQTGpBbW0tNA?oc=5",
-      "title": "MetLife (MET) director Mark A. Weinberger receives 721-share stock grant - Stock Titan",
-      "body": "MetLife (MET) director Mark A. Weinberger receives 721-share stock grant Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "MET",
-      "tickers_hint": [
-        "MET"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "MET"
-        ],
-        "alt_sources": [
-          "Stock Titan"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "23d0927c-de68-58cc-a0db-a1d5a11e7f88",
-      "timestamp_utc": "2026-04-03T20:04:03+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUng2d1hLckcwRmVnc3E2S0FTdXBnWjhJdEMwMFkzR3NVc25DTXplTjI4UGlqV2pHeUJnbDVxMER2MmMwMXBISHJ4RlJkU1EtSW1mSlVLeVpQU1dFSmR3WjcwazRIeEl3R01Maksyb29lWXBTTEhSN3NyblNvRnlaMmhvRWljNDJOT0hZdnhvQ19GdUl6cXBOMDk3c0RkNVNscERRWkVXMA?oc=5",
-      "title": "MetLife (MET) director Jeh C. Johnson granted 721 deferred shares as board pay - Stock Titan",
-      "body": "MetLife (MET) director Jeh C. Johnson granted 721 deferred shares as board pay Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "MET",
-      "tickers_hint": [
-        "MET"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "MET"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4225,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

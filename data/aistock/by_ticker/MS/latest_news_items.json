@@ -1,11 +1,11 @@
 [
   {
-    "id": "c830fccc-fc21-51be-a8c9-be5053434114",
-    "timestamp_utc": "2026-04-02T18:40:53+00:00",
-    "source": "msn",
-    "url": "https://www.msn.com/en-us/money/topstocks/will-morgan-stanley-ms-beat-estimates-again-in-its-next-earnings-report/ar-AA201AhL",
-    "title": "Will Morgan Stanley (MS) beat estimates again in its next earnings report? - MSN",
-    "body": "Will Morgan Stanley (MS) beat estimates again in its next earnings report? MSN",
+    "id": "3ea2e2bc-d5da-5d1d-a4e0-0b49fcfea15f",
+    "timestamp_utc": "2026-04-08T21:26:48+00:00",
+    "source": "parameter.io",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkEzV3l4RVRMVVRBbUhKTFBITFk2R0pEY2hMTXF0dzdzVm5acWZEWmdpM0w2b3htRENISU5ZOVlUekFldC1KNzZvVEwxTjlZcldjZzc2bzlwRzB3bUk4NldwcWc3U05sMGJVT2xSS1plU0V0NDY5aTFuOExmOWNyV2FnVU05QzNxLVBDSWJ0MHBOODhuYmYyTTBxWHY0S29GV2UyaUd3ZHVLdk1WUmlz?oc=5",
+    "title": "Morgan Stanley (MS) Stock: Gains Momentum After Launching MSBT Bitcoin ETF With $34M Inflows - parameter.io",
+    "body": "Morgan Stanley (MS) Stock: Gains Momentum After Launching MSBT Bitcoin ETF With $34M Inflows parameter.io",
     "author": null,
     "language": "en",
     "ticker": "MS",
@@ -13,19 +13,17 @@
       "MS"
     ],
     "source_quality": "low",
-    "publisher_raw": "msn",
+    "publisher_raw": "parameter.io",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "MSN",
-      "source_domain": "msn.com",
-      "trust_tier": 1,
-      "relevance": 0.6,
+      "source_name": "parameter.io",
+      "source_domain": "parameterio.com",
       "event_origin": "news",
-      "query_tickers": [
-        "MS"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.475,
+      "_channel": "google_broad"
+    }
   }
 ]

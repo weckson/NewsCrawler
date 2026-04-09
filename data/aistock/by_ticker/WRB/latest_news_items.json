@@ -1,11 +1,38 @@
 [
   {
-    "id": "a7129f46-808e-53e4-b257-178e044fadba",
-    "timestamp_utc": "2026-04-01T07:19:56+00:00",
+    "id": "809d276a-c935-58e7-94ff-f31664a82971",
+    "timestamp_utc": "2026-04-07T14:20:58+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fdmZuMGlwMl9BN04yMGQzMVp0RHV3T2xKVFhRbkhrY1J6QmR0RDd3MzVnQllqaDlZMlRCQldhRHlKUVVrTExtM3pmLWZfWGQ3UTBfWTJqaGRPVGUzcFRabGZXNGE?oc=5",
+    "title": "WRB Apr 2026 67.500 call (WRB260417C00067500) stock price, news, quote and history - Yahoo Finance UK",
+    "body": "WRB Apr 2026 67.500 call (WRB260417C00067500) stock price, news, quote and history Yahoo Finance UK",
+    "author": null,
+    "language": "en",
+    "ticker": "WRB",
+    "tickers_hint": [
+      "WRB"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Yahoo Finance UK",
+      "source_domain": "finance.yahoo.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.6,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "ee8e5803-0b17-533f-9d9a-8b67dce7b74d",
+    "timestamp_utc": "2026-04-09T02:03:49+00:00",
     "source": "gurufocus",
-    "url": "https://www.gurufocus.com/news/8765552/wrb-keefe-bruyette-woods-lowers-price-target-maintains-rating-wrb-stock-news",
-    "title": "WRB: Keefe, Bruyette & Woods Lowers Price Target, Maintains Rati - GuruFocus",
-    "body": "WRB: Keefe, Bruyette & Woods Lowers Price Target, Maintains Rati GuruFocus",
+    "url": "https://www.gurufocus.com/news/8783458/w-r-berkley-wrb-stock-downgraded-to-neutral-with-price-target-reduced",
+    "title": "W. R. Berkley (WRB) Stock Downgraded to Neutral with Price Targe - GuruFocus",
+    "body": "W. R. Berkley (WRB) Stock Downgraded to Neutral with Price Targe GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "WRB",
@@ -14,18 +41,97 @@
     ],
     "source_quality": "low",
     "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "GuruFocus",
       "source_domain": "gurufocus.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
       "event_origin": "news",
-      "query_tickers": [
-        "WRB"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4775,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "2f8b6286-b6a8-58e2-8c50-db1b76b65a7a",
+    "timestamp_utc": "2026-04-08T07:36:55+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8782349/wrb-barclays-lowers-price-target-maintains-underweight-rating-wrb-stock-news?mobile=true",
+    "title": "WRB: Barclays Lowers Price Target, Maintains Underweight Rating - GuruFocus",
+    "body": "WRB: Barclays Lowers Price Target, Maintains Underweight Rating GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "WRB",
+    "tickers_hint": [
+      "WRB"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "event_origin": "news",
+      "relevance": 0.6,
+      "quality_score": 0.465,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "eb5df317-d3ed-55a2-9d65-1b5ad97ed8e7",
+    "timestamp_utc": "2026-04-08T11:19:08+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8782702/wrb-ubs-lowers-price-target-for-wr-berkley-maintains-neutral-rating-wrb-stock-news?mobile=true",
+    "title": "WRB: UBS Lowers Price Target for WR Berkley, Maintains Neutral R - GuruFocus",
+    "body": "WRB: UBS Lowers Price Target for WR Berkley, Maintains Neutral R GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "WRB",
+    "tickers_hint": [
+      "WRB"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4375,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "27792b80-9a02-523b-8c3c-84c418c444e8",
+    "timestamp_utc": "2026-04-08T11:05:52+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/ubs-group-has-lowered-expectations-for-wr-berkley-nysewrb-stock-price-2026-04-08/",
+    "title": "UBS Group Has Lowered Expectations for W.R. Berkley (NYSE:WRB) Stock Price - MarketBeat",
+    "body": "UBS Group Has Lowered Expectations for W.R. Berkley (NYSE:WRB) Stock Price MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "WRB",
+    "tickers_hint": [
+      "WRB"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4225,
+      "_channel": "google_broad"
+    }
   }
 ]

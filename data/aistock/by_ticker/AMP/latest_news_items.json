@@ -1,34 +1,29 @@
 [
   {
-    "id": "31b9a5df-f262-59eb-a763-66a976600fb3",
-    "timestamp_utc": "2026-04-04T08:10:37+00:00",
-    "source": "intellectia_ai",
-    "url": "https://intellectia.ai/en/stock/AMP/news",
-    "title": "AMP Stock News Today | Earnings, Events & Price Alerts - Intellectia AI",
-    "body": "AMP Stock News Today | Earnings, Events & Price Alerts Intellectia AI",
+    "id": "0ab4a8ce-24ab-5788-8e67-3d9f2dfb5a49",
+    "timestamp_utc": "2026-04-07T21:27:58+00:00",
+    "source": "tipranks",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS2dGQ3I2Y0NuMEwwQlRVTXgtdS0xTC1NZVoxZTltYlhJNVZ5RXdBVFVqUjhHUDVNb0hJT3NTUTBJTzNBLUF3MDlLeWZMTmMxQU5xenhYN3dWNkhtNm9BRGFyRElMRk5kclg4LWpXU0JfRDR3aVVqa3FxbU9GVjdKZkJTNzJtaXJxWGFXSEp3WTIzUG43enBrRFpJVnA5d0Y2cGFJY0hZdW1KVmFHeGRVZHVYdHF0NEtsYnBEUy0zSFlzRDY0RUp5YV9B?oc=5",
+    "title": "AMP Limited Issues 6.5 Million New Shares on Conversion of Unquoted Securities - TipRanks",
+    "body": "AMP Limited Issues 6.5 Million New Shares on Conversion of Unquoted Securities TipRanks",
     "author": null,
     "language": "en",
     "ticker": "AMP",
     "tickers_hint": [
       "AMP"
     ],
-    "source_quality": "low",
-    "publisher_raw": "intellectia ai",
+    "source_quality": "high",
+    "publisher_raw": "tipranks.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Intellectia AI",
-      "source_domain": "intellectiaai.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
       "event_origin": "news",
-      "query_tickers": [
-        "AMP"
-      ],
-      "alt_sources": [
-        "Intellectia AI"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.63,
+      "_channel": "google_broad"
+    }
   }
 ]

@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "c1fb267c-fbf3-5f85-8721-b8f626fd4d2a",
-      "timestamp_utc": "2026-04-03T09:46:50+00:00",
-      "source": "msn",
-      "url": "https://www.msn.com/en-us/money/topstocks/why-arch-capital-acgl-is-poised-to-beat-earnings-estimates-again/ar-AA2013I7",
-      "title": "Why Arch Capital (ACGL) is poised to beat earnings estimates again - MSN",
-      "body": "Why Arch Capital (ACGL) is poised to beat earnings estimates again MSN",
+      "id": "2313fec1-a857-556c-97d4-4484e8716c9e",
+      "timestamp_utc": "2026-04-08T08:56:15+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782004/acgl-barclays-raises-price-target-maintains-equalweight-rating-acgl-stock-news?mobile=true",
+      "title": "ACGL: Barclays Raises Price Target, Maintains Equal-Weight Ratin - GuruFocus",
+      "body": "ACGL: Barclays Raises Price Target, Maintains Equal-Weight Ratin GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "ACGL",
@@ -15,31 +15,56 @@
         "ACGL"
       ],
       "source_quality": "low",
-      "publisher_raw": "msn",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MSN",
-        "source_domain": "msn.com",
-        "trust_tier": 1,
-        "relevance": 0.6,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "ACGL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "f2d37d17-a47a-5f2c-8da3-a4dcafeefdfd",
+      "timestamp_utc": "2026-04-07T20:22:16+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX3VOTk1samxXTk90d2V6bFA4NFBJMEhaNnVQcDJZclFSTENqeDhOMjFvYXpkX0RWcm1rT2NBOEM2ZEozTkVvaWlYSUFIdTYxWVVrTXZYd2NrSkdsSkt5MWdna191bVJVWGtjOTZOLWtMaWZVV09yaVlIRS0yZmh3Y0t5UE8yM1JlT3dOZ0M3TjdhdWlaVDZUU2JZTXhJYzdEcmNVRXFCdHU0NTltblVEanpHYVBzemFKQkd2RV9nREVpVy1heHBhbjNfdTB1Z21WNUE?oc=5",
+      "title": "Keefe, Bruyette & Woods Issues Positive Forecast for Arch Capital Group (NASDAQ:ACGL) Stock Price - Defense World",
+      "body": "Keefe, Bruyette & Woods Issues Positive Forecast for Arch Capital Group (NASDAQ:ACGL) Stock Price Defense World",
+      "author": null,
+      "language": "en",
+      "ticker": "ACGL",
+      "tickers_hint": [
+        "ACGL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.42,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "c1fb267c-fbf3-5f85-8721-b8f626fd4d2a",
-      "timestamp_utc": "2026-04-03T09:46:50+00:00",
-      "source": "msn",
-      "url": "https://www.msn.com/en-us/money/topstocks/why-arch-capital-acgl-is-poised-to-beat-earnings-estimates-again/ar-AA2013I7",
-      "title": "Why Arch Capital (ACGL) is poised to beat earnings estimates again - MSN",
-      "body": "Why Arch Capital (ACGL) is poised to beat earnings estimates again MSN",
+      "id": "2313fec1-a857-556c-97d4-4484e8716c9e",
+      "timestamp_utc": "2026-04-08T08:56:15+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782004/acgl-barclays-raises-price-target-maintains-equalweight-rating-acgl-stock-news?mobile=true",
+      "title": "ACGL: Barclays Raises Price Target, Maintains Equal-Weight Ratin - GuruFocus",
+      "body": "ACGL: Barclays Raises Price Target, Maintains Equal-Weight Ratin GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "ACGL",
@@ -47,20 +72,45 @@
         "ACGL"
       ],
       "source_quality": "low",
-      "publisher_raw": "msn",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MSN",
-        "source_domain": "msn.com",
-        "trust_tier": 1,
-        "relevance": 0.6,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "ACGL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "f2d37d17-a47a-5f2c-8da3-a4dcafeefdfd",
+      "timestamp_utc": "2026-04-07T20:22:16+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX3VOTk1samxXTk90d2V6bFA4NFBJMEhaNnVQcDJZclFSTENqeDhOMjFvYXpkX0RWcm1rT2NBOEM2ZEozTkVvaWlYSUFIdTYxWVVrTXZYd2NrSkdsSkt5MWdna191bVJVWGtjOTZOLWtMaWZVV09yaVlIRS0yZmh3Y0t5UE8yM1JlT3dOZ0M3TjdhdWlaVDZUU2JZTXhJYzdEcmNVRXFCdHU0NTltblVEanpHYVBzemFKQkd2RV9nREVpVy1heHBhbjNfdTB1Z21WNUE?oc=5",
+      "title": "Keefe, Bruyette & Woods Issues Positive Forecast for Arch Capital Group (NASDAQ:ACGL) Stock Price - Defense World",
+      "body": "Keefe, Bruyette & Woods Issues Positive Forecast for Arch Capital Group (NASDAQ:ACGL) Stock Price Defense World",
+      "author": null,
+      "language": "en",
+      "ticker": "ACGL",
+      "tickers_hint": [
+        "ACGL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.42,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

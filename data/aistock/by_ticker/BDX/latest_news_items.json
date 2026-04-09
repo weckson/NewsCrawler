@@ -1,11 +1,11 @@
 [
   {
-    "id": "026be676-8979-5e1c-b7f9-0a1a87f12869",
-    "timestamp_utc": "2026-04-02T23:00:37+00:00",
-    "source": "yahoo_finance_uk",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hcHlXc2ZOeDVEWVBXdEU1ampHNkJ1LXpCMUpjZUt6bmV4UFZFUGY3d3pCZ2hoMnVLVWFJVjZLMDVPdXp1T1laRVhGUU9tWkpW?oc=5",
-    "title": "Becton, Dickinson and Company (BDX) stock price, news, quote and history - Yahoo Finance UK",
-    "body": "Becton, Dickinson and Company (BDX) stock price, news, quote and history Yahoo Finance UK",
+    "id": "eba9484e-aa6c-50bd-a98d-f35c9b9bc93f",
+    "timestamp_utc": "2026-04-07T00:58:03+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-becton-dickinson-and-company-bdx-shares-bought-by-inlet-private-wealth-llc-2026-04-07/",
+    "title": "Becton, Dickinson and Company $BDX Shares Bought by Inlet Private Wealth LLC - MarketBeat",
+    "body": "Becton, Dickinson and Company $BDX Shares Bought by Inlet Private Wealth LLC MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "BDX",
@@ -13,19 +13,44 @@
       "BDX"
     ],
     "source_quality": "low",
-    "publisher_raw": "yahoo finance uk",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance UK",
-      "source_domain": "yahoofinanceuk.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
       "event_origin": "news",
-      "query_tickers": [
-        "BDX"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4025,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "c44bad5a-ef8b-5257-a098-e0d5e442383a",
+    "timestamp_utc": "2026-04-07T00:42:02+00:00",
+    "source": "stock_traders_daily",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSUt0SWF0a1VDVWFIOGptXy0zUkhoaFRmNmoyN3Y5cXJabXZiZV9jUUd6OE40MlFzOVp2WENrMFBqRURHTGU0b2lZekFwbWhidXIydUlZb3pIQkFoZl9KOVM5X0xZU203M1BDUFV5TlZxYm01RlBMWHN5cGJmZXBiUHFkajB3ZTYzajVRY2U1OXI4a1NQUEpNSnJSVjRTelV2dzBoNVUybE5LUTA2TmRaOGo2QWx5VWc?oc=5",
+    "title": "Understanding Momentum Shifts in (BDX) - Stock Traders Daily",
+    "body": "Understanding Momentum Shifts in (BDX) Stock Traders Daily",
+    "author": null,
+    "language": "en",
+    "ticker": "BDX",
+    "tickers_hint": [
+      "BDX"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "stock traders daily",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Stock Traders Daily",
+      "source_domain": "stocktradersdaily.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.381,
+      "_channel": "google_broad"
+    }
   }
 ]

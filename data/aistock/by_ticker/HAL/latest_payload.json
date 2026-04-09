@@ -2,12 +2,39 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "bb73e90c-3ea7-5ad2-b63b-00c71b82d8cf",
-      "timestamp_utc": "2026-04-04T13:46:00+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/HAL/earnings",
-      "title": "HAL Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "HAL Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "c33ab6db-6580-50ba-abb9-f6a4582a864b",
+      "timestamp_utc": "2026-04-08T12:15:03+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa0NZeWowdHZTdFhzOHZrSTVpMlVkRUExOTFjTUQtbnZ0YUNrVWpMX3dzNTg2cW13ZnA4d1VSSHRpcVRLN2pZNUppZm1DM2VTdHBxOGxMRFUwQlEyOWFBVGhyS2VrR3NBRV9wZmxfeUZZbF9OMmJ3aE55a0RFazl6cGlnWVhQdUVGMkpN?oc=5",
+      "title": "Halliburton (HAL) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance Singapore",
+      "body": "Halliburton (HAL) Stock Sinks As Market Gains: What You Should Know Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "finance.yahoo.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.62,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "909559d1-6eeb-5282-a5e6-2db956034f98",
+      "timestamp_utc": "2026-04-08T23:09:00+00:00",
+      "source": "trade_brains",
+      "url": "https://tradebrains.in/why-did-defence-stocks-like-hal-and-others-rally-up-to-16-this-week/",
+      "title": "Why Did Defence Stocks Like HAL and Others Rally Up to 16% This Week? - Trade Brains",
+      "body": "Why Did Defence Stocks Like HAL and Others Rally Up to 16% This Week? Trade Brains",
       "author": null,
       "language": "en",
       "ticker": "HAL",
@@ -15,28 +42,107 @@
         "HAL"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "trade brains",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Trade Brains",
+        "source_domain": "tradebrains.com",
         "event_origin": "news",
-        "query_tickers": [
-          "HAL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4875,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "6acfab82-7a0a-56d3-8f25-a3bd59d8bab1",
-      "timestamp_utc": "2026-04-04T06:00:16+00:00",
+      "id": "57b1b792-0b1e-5f3b-aa62-432c88285a17",
+      "timestamp_utc": "2026-04-09T00:28:34+00:00",
+      "source": "business_today",
+      "url": "https://www.businesstoday.in/markets/stocks/story/bel-beml-mazagon-dock-hal-defence-stocks-to-buy-check-targets-q4-preview-524880-2026-04-09",
+      "title": "BEL, BEML, Mazagon Dock, HAL: Defence stocks to buy; check targets, Q4 preview - Business Today",
+      "body": "BEL, BEML, Mazagon Dock, HAL: Defence stocks to buy; check targets, Q4 preview Business Today",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "business today",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Business Today",
+        "source_domain": "businesstoday.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4575,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "0ee55efd-e2c4-5f82-b2bf-ba824180a46a",
+      "timestamp_utc": "2026-04-08T04:07:37+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/halliburton-nysehal-stock-price-expected-to-rise-ubs-group-analyst-says-2026-04-08/",
+      "title": "Halliburton (NYSE:HAL) Stock Price Expected to Rise, UBS Group Analyst Says - MarketBeat",
+      "body": "Halliburton (NYSE:HAL) Stock Price Expected to Rise, UBS Group Analyst Says MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.6,
+        "quality_score": 0.45,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "a4b082e6-e464-516b-9362-fb99684e0eee",
+      "timestamp_utc": "2026-04-08T20:45:01+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeUNuQklVOXpKYzVtVmRJc1pGRDFYTS1PU0UwbjA3amVTVFl6NjBEZlR6WlFVUmZBVFg5ZmtjMnUtMlhDLWM2elo1b0lTb1F6TldoV1JTMktxVm5jcHVKZUNiZVB0c09mNjhVZ2VPZUZlNnlKdG1UN1RnMkFFQUswNkZFRjE1a3U5RE5OSXFCYm5Dbmo4YkxtNQ?oc=5",
+      "title": "Halliburton (HAL) vs. Its Rivals Financial Analysis - Defense World",
+      "body": "Halliburton (HAL) vs. Its Rivals Financial Analysis Defense World",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.43,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "29873ad5-2ff1-55a9-b4e7-56fc848bc287",
+      "timestamp_utc": "2026-04-08T14:30:43+00:00",
       "source": "mint",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObUZWdDFmT2pJUExyeHRHOXB6UFhHVzlNaW1wbV9XZ3o4aUh5TXREZ0dINnJUUEJGODUxWUdyVlBwUkVnZ2RFcUZ5cUY0OVduWTg5R1pEMGtHMFM5NlBJbXlXQ1FQV1FUVTludWw3WU9RVkwxeDY4ZERpV1FJMWpTWTZELUxNWkZ0aEcwcEpyb1BmTzMyTHVRZXRZeVpYcExDaFQ0d2N2WTdGWHdGT3pNWWIwQ19LY2xoa2c2S0FkRW1jcmVFazhQQWdaTTRJZDJjanhSV01tdVBEa09ubWc2NHdKbG1YaGI5dVgyWU50VFHSAfYBQVVfeXFMUHN5NXZLanNLYVlXWkdORGhjR1U4RE01SjEtN2ZMU05rNXpKQ2V4MnA2MUpUSG05VDBlYlZ5M09ZVURiTmJ2a2szckdsYURzellWQ3JuZ1JHT21sWXE5YmdJUExzVWtUR2JXdXdXbGRmTlBVdFBkWElacG85c2tabUlCSWhLY1BfaUZac090cWh0cXA0cmtFd3ZXRlgzT3I5N1RSZUdRcUZTX1cyMWRCSHlKd3NPMmlVX3FlRjNrRk0zeVEwOS1rVjJwTC1DdFowbFdzVmhlWWR6UnQteTk4VDRMR0NzRXNnLUVlOVEzbTd2UHYyNjdB?oc=5",
-      "title": "HAL, BDL, GRSE, Mazagon Dock Shipbuilders to BEL: Which defence stock to buy amid US-Iran war? - Mint",
-      "body": "HAL, BDL, GRSE, Mazagon Dock Shipbuilders to BEL: Which defence stock to buy amid US-Iran war? Mint",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbGZBZjYycng2M3RLbm56dFdFdnJyTzhSa29fSkhiZVQyVUZfejFkRUpuQU0zR2dBVDFyZGhvLXFabTJmNXhlVW1fWEdmcDNRVFZxVEU1UnAyZWNZS2tUaFlGVE51SDczSGhkczVrN19CUXl5ZGJzVWpWckFsLTAydWl2ZHoyT2xuTVFkLTdJSmlla3dNVUxVMThwZnRyY1ljWHFIeHpXYzVkcWxNeWZmZ0h4RUFnZ9IBuwFBVV95cUxNRzN6blVNeEtxZk9odEdEQUhucXJJd3RYNE5xenQzcFN5RDlrOWhWN3kwYXpBMER5TjVQNHRHY2ZCdWs3Uy0zQW9YWm81ekQ2UUlfeXVHaEtfWTRjSFhaX1Q4N0NJV2NlZkhCN3lqdjNSZ3ViV1hJeWFwS1dua05kaXR2MVl6dVVTM1JKbm5FalVicmdhblZDMUduVmQ3NmtjWGE2ZVpJLU13c0tVQUVIZ2lFaEc4UEU5cmlF?oc=5",
+      "title": "HAL’s growth engines stall: Can record orders offset GE’s delayed deliveries? - Mint",
+      "body": "HAL’s growth engines stall: Can record orders offset GE’s delayed deliveries? Mint",
       "author": null,
       "language": "en",
       "ticker": "HAL",
@@ -45,27 +151,25 @@
       ],
       "source_quality": "low",
       "publisher_raw": "mint",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "Mint",
         "source_domain": "mint.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
         "event_origin": "news",
-        "query_tickers": [
-          "HAL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.43,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "c5053ed8-ef6a-58a3-90f7-543530ecec88",
-      "timestamp_utc": "2026-04-03T21:43:59+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41Y3BsM1FIZ3paakMwRndveWFGTzFpb1VVaU5RQ2VhRS03Mm9wVDBhUzlmX3NPZ2pfLXFiMDRFRUFidGNVaDZTYXBDMllvOWZSTDJzMXl3?oc=5",
-      "title": "HAL Trust (HALA.XD) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "body": "HAL Trust (HALA.XD) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "id": "5d8cefcb-be13-5f8f-8b48-7978ac4ffd7a",
+      "timestamp_utc": "2026-04-08T04:07:37+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/barclays-has-lowered-expectations-for-halliburton-nysehal-stock-price-2026-04-08/",
+      "title": "Barclays Has Lowered Expectations for Halliburton (NYSE:HAL) Stock Price - MarketBeat",
+      "body": "Barclays Has Lowered Expectations for Halliburton (NYSE:HAL) Stock Price MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "HAL",
@@ -73,31 +177,110 @@
         "HAL"
       ],
       "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "HAL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4225,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "745c44a4-c736-51ea-b3ff-39c3092426c7",
+      "timestamp_utc": "2026-04-08T19:29:16+00:00",
+      "source": "the_economic_times",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdUc4TmRVdXE3eUx4LUI3bFBNZFNzV0VDOGI0MVRIdmEtYmwySzB5WXo5SEVIcEpwZC13dTBxZGo1S3QxbUZNZWFYWkppeFR5M19rU3otbjZhUGhrVnRmd01pTmc1VHd1RjVJZ2ZWbk9LdjVwTWlMQkVoT1Q4NFN1N1ZVSGNKNV9zaEIzaWRSY3JGemEwakY4aEIzV3MxNzhaT2RQVnFFMVdmclJvdFBTMFpfSEwtMzTSAbwBQVVfeXFMTmNVVnM1cHctcE9ud1R1NGQ3RjRWZENwQ05LZ09DcWNBMHBTS1I5QWNPX1VWRlNKMVdFTTV3WEpoT0tUNktQemxBYjgyTjJPRlNnWVloT2pnbVFLenh6dlZ4enJxczJEdkJBTGU3TlQ5YUVMQkR4MTJPenBFdkpVeVRIVUEyZTk4RVJZMVI1Q3R0VEtONWJGZlpmUXJidDYtRkdZcG5qaTNXUF9sc19kLU9NLUMtcHYtcWpvcW0?oc=5",
+      "title": "F&O Radar: Bull Call Spread strategy for HAL - The Economic Times",
+      "body": "F&O Radar: Bull Call Spread strategy for HAL The Economic Times",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "the economic times",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "The Economic Times",
+        "source_domain": "theeconomictimes.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.421,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "2c3b8e1a-b76b-5e78-970f-33cd58b2eafa",
+      "timestamp_utc": "2026-04-07T21:24:00+00:00",
+      "source": "trade_brains",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPak5pV3ZzMmZfcXJsazYzVWJneC13RGhoRVNZaHVvRV9kZ1F4b2FMakJkTlB3N1FlT1VTWTFoN3JqWDRiUDBzc3l3bFNiMnUwaE9DbmJobzVTaHFad3BUYnBKZmFtaDUtSWRmSTdlQnp0cGlSalI5OVhabEFRdHN3SGdVRkI5WnhpdHJQR0lGeTJYOWlVeDNMcWFuRTZWdnVGejhn?oc=5",
+      "title": "Electronics manufacturing stock jumps 7% after signing 5 yr agreement with HAL - Trade Brains",
+      "body": "Electronics manufacturing stock jumps 7% after signing 5 yr agreement with HAL Trade Brains",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "trade brains",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Trade Brains",
+        "source_domain": "tradebrains.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.42,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "bb73e90c-3ea7-5ad2-b63b-00c71b82d8cf",
-      "timestamp_utc": "2026-04-04T13:46:00+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/HAL/earnings",
-      "title": "HAL Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "HAL Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "c33ab6db-6580-50ba-abb9-f6a4582a864b",
+      "timestamp_utc": "2026-04-08T12:15:03+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa0NZeWowdHZTdFhzOHZrSTVpMlVkRUExOTFjTUQtbnZ0YUNrVWpMX3dzNTg2cW13ZnA4d1VSSHRpcVRLN2pZNUppZm1DM2VTdHBxOGxMRFUwQlEyOWFBVGhyS2VrR3NBRV9wZmxfeUZZbF9OMmJ3aE55a0RFazl6cGlnWVhQdUVGMkpN?oc=5",
+      "title": "Halliburton (HAL) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance Singapore",
+      "body": "Halliburton (HAL) Stock Sinks As Market Gains: What You Should Know Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "finance.yahoo.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.62,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "909559d1-6eeb-5282-a5e6-2db956034f98",
+      "timestamp_utc": "2026-04-08T23:09:00+00:00",
+      "source": "trade_brains",
+      "url": "https://tradebrains.in/why-did-defence-stocks-like-hal-and-others-rally-up-to-16-this-week/",
+      "title": "Why Did Defence Stocks Like HAL and Others Rally Up to 16% This Week? - Trade Brains",
+      "body": "Why Did Defence Stocks Like HAL and Others Rally Up to 16% This Week? Trade Brains",
       "author": null,
       "language": "en",
       "ticker": "HAL",
@@ -105,28 +288,107 @@
         "HAL"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "trade brains",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Trade Brains",
+        "source_domain": "tradebrains.com",
         "event_origin": "news",
-        "query_tickers": [
-          "HAL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4875,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "6acfab82-7a0a-56d3-8f25-a3bd59d8bab1",
-      "timestamp_utc": "2026-04-04T06:00:16+00:00",
+      "id": "57b1b792-0b1e-5f3b-aa62-432c88285a17",
+      "timestamp_utc": "2026-04-09T00:28:34+00:00",
+      "source": "business_today",
+      "url": "https://www.businesstoday.in/markets/stocks/story/bel-beml-mazagon-dock-hal-defence-stocks-to-buy-check-targets-q4-preview-524880-2026-04-09",
+      "title": "BEL, BEML, Mazagon Dock, HAL: Defence stocks to buy; check targets, Q4 preview - Business Today",
+      "body": "BEL, BEML, Mazagon Dock, HAL: Defence stocks to buy; check targets, Q4 preview Business Today",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "business today",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Business Today",
+        "source_domain": "businesstoday.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4575,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "0ee55efd-e2c4-5f82-b2bf-ba824180a46a",
+      "timestamp_utc": "2026-04-08T04:07:37+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/halliburton-nysehal-stock-price-expected-to-rise-ubs-group-analyst-says-2026-04-08/",
+      "title": "Halliburton (NYSE:HAL) Stock Price Expected to Rise, UBS Group Analyst Says - MarketBeat",
+      "body": "Halliburton (NYSE:HAL) Stock Price Expected to Rise, UBS Group Analyst Says MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.6,
+        "quality_score": 0.45,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "a4b082e6-e464-516b-9362-fb99684e0eee",
+      "timestamp_utc": "2026-04-08T20:45:01+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeUNuQklVOXpKYzVtVmRJc1pGRDFYTS1PU0UwbjA3amVTVFl6NjBEZlR6WlFVUmZBVFg5ZmtjMnUtMlhDLWM2elo1b0lTb1F6TldoV1JTMktxVm5jcHVKZUNiZVB0c09mNjhVZ2VPZUZlNnlKdG1UN1RnMkFFQUswNkZFRjE1a3U5RE5OSXFCYm5Dbmo4YkxtNQ?oc=5",
+      "title": "Halliburton (HAL) vs. Its Rivals Financial Analysis - Defense World",
+      "body": "Halliburton (HAL) vs. Its Rivals Financial Analysis Defense World",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.43,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "29873ad5-2ff1-55a9-b4e7-56fc848bc287",
+      "timestamp_utc": "2026-04-08T14:30:43+00:00",
       "source": "mint",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObUZWdDFmT2pJUExyeHRHOXB6UFhHVzlNaW1wbV9XZ3o4aUh5TXREZ0dINnJUUEJGODUxWUdyVlBwUkVnZ2RFcUZ5cUY0OVduWTg5R1pEMGtHMFM5NlBJbXlXQ1FQV1FUVTludWw3WU9RVkwxeDY4ZERpV1FJMWpTWTZELUxNWkZ0aEcwcEpyb1BmTzMyTHVRZXRZeVpYcExDaFQ0d2N2WTdGWHdGT3pNWWIwQ19LY2xoa2c2S0FkRW1jcmVFazhQQWdaTTRJZDJjanhSV01tdVBEa09ubWc2NHdKbG1YaGI5dVgyWU50VFHSAfYBQVVfeXFMUHN5NXZLanNLYVlXWkdORGhjR1U4RE01SjEtN2ZMU05rNXpKQ2V4MnA2MUpUSG05VDBlYlZ5M09ZVURiTmJ2a2szckdsYURzellWQ3JuZ1JHT21sWXE5YmdJUExzVWtUR2JXdXdXbGRmTlBVdFBkWElacG85c2tabUlCSWhLY1BfaUZac090cWh0cXA0cmtFd3ZXRlgzT3I5N1RSZUdRcUZTX1cyMWRCSHlKd3NPMmlVX3FlRjNrRk0zeVEwOS1rVjJwTC1DdFowbFdzVmhlWWR6UnQteTk4VDRMR0NzRXNnLUVlOVEzbTd2UHYyNjdB?oc=5",
-      "title": "HAL, BDL, GRSE, Mazagon Dock Shipbuilders to BEL: Which defence stock to buy amid US-Iran war? - Mint",
-      "body": "HAL, BDL, GRSE, Mazagon Dock Shipbuilders to BEL: Which defence stock to buy amid US-Iran war? Mint",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbGZBZjYycng2M3RLbm56dFdFdnJyTzhSa29fSkhiZVQyVUZfejFkRUpuQU0zR2dBVDFyZGhvLXFabTJmNXhlVW1fWEdmcDNRVFZxVEU1UnAyZWNZS2tUaFlGVE51SDczSGhkczVrN19CUXl5ZGJzVWpWckFsLTAydWl2ZHoyT2xuTVFkLTdJSmlla3dNVUxVMThwZnRyY1ljWHFIeHpXYzVkcWxNeWZmZ0h4RUFnZ9IBuwFBVV95cUxNRzN6blVNeEtxZk9odEdEQUhucXJJd3RYNE5xenQzcFN5RDlrOWhWN3kwYXpBMER5TjVQNHRHY2ZCdWs3Uy0zQW9YWm81ekQ2UUlfeXVHaEtfWTRjSFhaX1Q4N0NJV2NlZkhCN3lqdjNSZ3ViV1hJeWFwS1dua05kaXR2MVl6dVVTM1JKbm5FalVicmdhblZDMUduVmQ3NmtjWGE2ZVpJLU13c0tVQUVIZ2lFaEc4UEU5cmlF?oc=5",
+      "title": "HAL’s growth engines stall: Can record orders offset GE’s delayed deliveries? - Mint",
+      "body": "HAL’s growth engines stall: Can record orders offset GE’s delayed deliveries? Mint",
       "author": null,
       "language": "en",
       "ticker": "HAL",
@@ -135,27 +397,25 @@
       ],
       "source_quality": "low",
       "publisher_raw": "mint",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "Mint",
         "source_domain": "mint.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
         "event_origin": "news",
-        "query_tickers": [
-          "HAL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.43,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "c5053ed8-ef6a-58a3-90f7-543530ecec88",
-      "timestamp_utc": "2026-04-03T21:43:59+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41Y3BsM1FIZ3paakMwRndveWFGTzFpb1VVaU5RQ2VhRS03Mm9wVDBhUzlmX3NPZ2pfLXFiMDRFRUFidGNVaDZTYXBDMllvOWZSTDJzMXl3?oc=5",
-      "title": "HAL Trust (HALA.XD) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "body": "HAL Trust (HALA.XD) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "id": "5d8cefcb-be13-5f8f-8b48-7978ac4ffd7a",
+      "timestamp_utc": "2026-04-08T04:07:37+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/barclays-has-lowered-expectations-for-halliburton-nysehal-stock-price-2026-04-08/",
+      "title": "Barclays Has Lowered Expectations for Halliburton (NYSE:HAL) Stock Price - MarketBeat",
+      "body": "Barclays Has Lowered Expectations for Halliburton (NYSE:HAL) Stock Price MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "HAL",
@@ -163,20 +423,72 @@
         "HAL"
       ],
       "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "HAL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4225,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "745c44a4-c736-51ea-b3ff-39c3092426c7",
+      "timestamp_utc": "2026-04-08T19:29:16+00:00",
+      "source": "the_economic_times",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdUc4TmRVdXE3eUx4LUI3bFBNZFNzV0VDOGI0MVRIdmEtYmwySzB5WXo5SEVIcEpwZC13dTBxZGo1S3QxbUZNZWFYWkppeFR5M19rU3otbjZhUGhrVnRmd01pTmc1VHd1RjVJZ2ZWbk9LdjVwTWlMQkVoT1Q4NFN1N1ZVSGNKNV9zaEIzaWRSY3JGemEwakY4aEIzV3MxNzhaT2RQVnFFMVdmclJvdFBTMFpfSEwtMzTSAbwBQVVfeXFMTmNVVnM1cHctcE9ud1R1NGQ3RjRWZENwQ05LZ09DcWNBMHBTS1I5QWNPX1VWRlNKMVdFTTV3WEpoT0tUNktQemxBYjgyTjJPRlNnWVloT2pnbVFLenh6dlZ4enJxczJEdkJBTGU3TlQ5YUVMQkR4MTJPenBFdkpVeVRIVUEyZTk4RVJZMVI1Q3R0VEtONWJGZlpmUXJidDYtRkdZcG5qaTNXUF9sc19kLU9NLUMtcHYtcWpvcW0?oc=5",
+      "title": "F&O Radar: Bull Call Spread strategy for HAL - The Economic Times",
+      "body": "F&O Radar: Bull Call Spread strategy for HAL The Economic Times",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "the economic times",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "The Economic Times",
+        "source_domain": "theeconomictimes.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.421,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "2c3b8e1a-b76b-5e78-970f-33cd58b2eafa",
+      "timestamp_utc": "2026-04-07T21:24:00+00:00",
+      "source": "trade_brains",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPak5pV3ZzMmZfcXJsazYzVWJneC13RGhoRVNZaHVvRV9kZ1F4b2FMakJkTlB3N1FlT1VTWTFoN3JqWDRiUDBzc3l3bFNiMnUwaE9DbmJobzVTaHFad3BUYnBKZmFtaDUtSWRmSTdlQnp0cGlSalI5OVhabEFRdHN3SGdVRkI5WnhpdHJQR0lGeTJYOWlVeDNMcWFuRTZWdnVGejhn?oc=5",
+      "title": "Electronics manufacturing stock jumps 7% after signing 5 yr agreement with HAL - Trade Brains",
+      "body": "Electronics manufacturing stock jumps 7% after signing 5 yr agreement with HAL Trade Brains",
+      "author": null,
+      "language": "en",
+      "ticker": "HAL",
+      "tickers_hint": [
+        "HAL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "trade brains",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Trade Brains",
+        "source_domain": "tradebrains.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.42,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

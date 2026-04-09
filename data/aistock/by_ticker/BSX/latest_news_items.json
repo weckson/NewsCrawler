@@ -1,31 +1,29 @@
 [
   {
-    "id": "9842aa2b-846d-5e76-90db-682eae8ac23e",
-    "timestamp_utc": "2026-03-31T06:37:11+00:00",
-    "source": "mexc",
-    "url": "https://www.mexc.com/news/995021",
-    "title": "Boston Scientific (BSX) Stock Plunges 9% on Watchman Trial Concerns and Rating Cut - MEXC",
-    "body": "Boston Scientific (BSX) Stock Plunges 9% on Watchman Trial Concerns and Rating Cut MEXC",
+    "id": "985b57ad-b578-5da6-8d70-ca707934b19e",
+    "timestamp_utc": "2026-04-09T02:23:00+00:00",
+    "source": "globenewswire",
+    "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNRjVMbnlJelR2STR5MEhabmdBRGNNTDk4b1gxNHBzRzhCbm4waDFHMzVralZqd2lPZU5UZWFRbHFFMThVZnA2Um5Yc09VZXFOQW01eHpjVllsb3EyVjB6MlM3YzNQQUZISFl6UEVIbXNxaGZmMXk1aUtYLUNpTlhUa0tEV1lpRm9TdGt0TU1TWGt2dGFMZEVWOG5ja2NlTHdMTm1LTFhTaFc0bjBKdGV6SUtFWXRhNTEwY2w4dzVucjJPVUJINmlBV2x2QnE1ZFFJTmtvNDI3bzZldTY1Zm96OGdqWUxKZ2NLakpQNUdXSWU0eEcxNHZad2d5bklBaTJzcXpueXlFZTM1WUVtM1BVeUh2S0NWSXRYZDRhM0hlSndwMEY4X0NtYnhpbEpPaFB4YXItempNVQ?oc=5",
+    "title": "BOSTON SCIENTIFIC CORPORATION (BSX) DEADLINE ALERT - GlobeNewswire",
+    "body": "BOSTON SCIENTIFIC CORPORATION (BSX) DEADLINE ALERT GlobeNewswire",
     "author": null,
     "language": "en",
     "ticker": "BSX",
     "tickers_hint": [
       "BSX"
     ],
-    "source_quality": "low",
-    "publisher_raw": "mexc",
+    "source_quality": "high",
+    "publisher_raw": "globenewswire.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "MEXC",
-      "source_domain": "mexc.com",
-      "trust_tier": 1,
-      "relevance": 0.6,
+      "source_name": "GlobeNewswire",
+      "source_domain": "globenewswire.com",
       "event_origin": "news",
-      "query_tickers": [
-        "BSX"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.66,
+      "_channel": "google_broad"
+    }
   }
 ]

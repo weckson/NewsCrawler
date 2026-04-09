@@ -1,11 +1,11 @@
 [
   {
-    "id": "af5dc8fb-15cb-5bba-b88a-a75457776278",
-    "timestamp_utc": "2026-04-01T12:49:37+00:00",
-    "source": "stock_titan",
-    "url": "https://www.stocktitan.net/sec-filings/TYL/form-4-tyler-technologies-inc-insider-trading-activity-e74608ce7550.html",
-    "title": "Tyler Technologies (TYL) CFO adds shares through 2004 employee stock plan - Stock Titan",
-    "body": "⛶ Fullscreen SEC Form 4 FORM 4UNITED STATES SECURITIES AND EXCHANGE COMMISSIONWashington, D.C.\n\n20549STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIPFiled pursuant to Section 16(a) of the Securities Exchange Act of 1934or Section 30(h) of the Investment Company Act of 1940OMB APPROVALOMB Number:3235-0287Estimated average burdenhours per response:0.5 Check this box if no longer subject to Section 16.\n\nCheck this box to indicate that a transaction was made pursuant to a contract, instruction or written plan for the purchase or sale of equity securities of the issuer that is intended to satisfy the affirmative defense conditions of Rule 10b5-1(c).\n\nName and Address of Reporting Person*MILLER BRIAN K(Last)(First)(Middle)5101 TENNYSON PARKWAY(Street)PLANO TEXAS 75024(City)(State)(Zip)UNITED STATES(Country)2.\n\nIssuer Name and Ticker or Trading Symbol TYLER TECHNOLOGIES INC [ TYL ] 5.\n\nRelationship of Reporting Person(s) to Issuer (Check all applicable)Director10% OwnerXOfficer (give title below)Other (specify below)Executive VP and CFO2a.\n\nIndividual or Joint/Group Filing (Check Applicable Line) XForm filed by One Reporting PersonForm filed by More than One Reporting Person4.\n\nIf Amendment, Date of Original Filed (Month/Day/Year)Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned1.\n\nAmount of Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeVAmount(A) or (D)PriceCommon Stock03/31/2026A57.3618A$291.023(1)25,395.0038DCommon Stock13,695ISee footnote (2)(2)Table II - Derivative Securities Acquired, Disposed of, or Beneficially Owned(e.g., puts, calls, warrants, options, convertible securities)1.\n\nNumber of Derivative Securities Acquired (A) or Disposed of (D) (Instr.\n\nTitle and Amount of Securities Underlying Derivative Security (Instr.\n\nNumber of derivative Securities Beneficially Owned Following Reported Transaction(s) (Instr.\n\n4) CodeV(A)(D)Date ExercisableExpiration DateTitleAmount or Number of SharesExplanation of Responses:1.\n\nIncludes shares owned indirectly by the reporting person as follows: (a) 4,369 shares owned indirectly, which are owned by a family trust for which the reporting person's spouse is the beneficiary and trustee; (b) 4,583 shares owned indirectly, which are owned by a family trust for which one of the reporting person's children is a beneficiary and the reporting person is the trustee; and (c) 4,743 shares owned indirectly, which are owned by a family trust for which one of the reporting person's children is a beneficiary and the reporting person is the trustee.Randall G.\n\nRay, attorney-in-fact04/01/2026** Signature of Reporting PersonDateReminder: Report on a separate line for each class of securities beneficially owned directly or indirectly.* If the form is filed by more than one reporting person, see Instruction 4 (b)(v).** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C.\n\n78ff(a).Note: File three copies of this Form, one of which must be manually signed.\n\nIf space is insufficient, see Instruction 6 for procedure.Persons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB Number.* Form 4: SEC 1474 (03-26)",
+    "id": "52a7dd81-a989-56dc-a6c9-68a18446bc19",
+    "timestamp_utc": "2026-04-07T21:21:54+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-apella-capital-llc-invests-155-million-in-tyler-technologies-inc-tyl-2026-04-08/",
+    "title": "Apella Capital LLC Invests $1.55 Million in Tyler Technologies, Inc. $TYL - MarketBeat",
+    "body": "Apella Capital LLC Invests $1.55 Million in Tyler Technologies, Inc. $TYL MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "TYL",
@@ -13,48 +13,17 @@
       "TYL"
     ],
     "source_quality": "low",
-    "publisher_raw": "stock titan",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.6500000000000001,
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
       "event_origin": "news",
-      "query_tickers": [
-        "TYL"
-      ],
-      "body_kind": "article_text"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "da60f594-c20c-56b6-b360-e2cf3c9fd140",
-    "timestamp_utc": "2026-04-01T12:53:00+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON0hfQ1ppQk5xWjZwREpZUEE1NHRNdTQtcGplc05zdTZBM3BEVjA3ejMzdGZZNlRvSXNMQm9nSTFoRWh3SWEwNldGUzVLaTlpYTBoZ1BUNi1MV01JcERzQTJqbDZobmVTNHZSNFNzRXdNVTRqS09tNDdmUkw1Q2h2bXhjTnl2ek90ZkpNQmk2bDRwdWoyMjlPOEVTVm1LcFlsVE1UeERGcUpFbjVjZ0NWMjhPeDhHZw?oc=5",
-    "title": "[Form 4] TYLER TECHNOLOGIES INC Insider Trading Activity - Stock Titan",
-    "body": "[Form 4] TYLER TECHNOLOGIES INC Insider Trading Activity Stock Titan",
-    "author": null,
-    "language": "en",
-    "ticker": "TYL",
-    "tickers_hint": [
-      "TYL"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "TYL"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4725,
+      "_channel": "google_broad"
+    }
   }
 ]

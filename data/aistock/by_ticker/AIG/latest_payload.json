@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "f9951ad3-5230-5341-b698-c17142804519",
-      "timestamp_utc": "2026-04-05T06:08:00+00:00",
+      "id": "0af8590a-786b-5be5-8480-85d2be916083",
+      "timestamp_utc": "2026-04-08T06:10:05+00:00",
       "source": "yahoo_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVjlNbDhEWmczcTVTN3dNeXRSNnFVYy1remVxRkRFS0JvdnFETzhLdGNud1dlUHhvN1F6SnRjbmtSYklqTE1oS0VaX2tJY00ybmJCQkdGU2hyV2U2TjBLbWVIcjh5Sk9fbVlwR3NIWEU5OV80S0xKclZQZXUwdVNQSnVMZjdob3pWaV9mU1dtczFSMVg4cVV4bUwtZW1iVkJ5OGhjNjFuWGI?oc=5",
-      "title": "Is American International Group (AIG) Pricing Reflect Its Recent Share Price Pullback? - Yahoo Finance",
-      "body": "Is American International Group (AIG) Pricing Reflect Its Recent Share Price Pullback? Yahoo Finance",
+      "url": "https://uk.finance.yahoo.com/news/american-international-group-aig-beat-161005606.html",
+      "title": "Will American International Group (AIG) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance UK",
+      "body": "Will American International Group (AIG) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance UK",
       "author": null,
       "language": "en",
       "ticker": "AIG",
@@ -16,56 +16,25 @@
       ],
       "source_quality": "high",
       "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
+        "source_name": "Yahoo Finance UK",
         "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
         "event_origin": "news",
-        "query_tickers": [
-          "AIG"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.69,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "93753999-7cb5-5485-be3a-d09eb849865c",
-      "timestamp_utc": "2026-04-04T22:34:07+00:00",
-      "source": "yahoo_finance",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDVTdVd0E2Z2xDQkZ2R2c3SlU0dllObW5XSDU4N0VkazFIRWhqNDVhRFVMZ1kzOTVMeDY0Wlh5OVZHRmI3MFV6eE1TOEpsVEtmTGJrLWtDTU5sNGtXSmIybEMtQ2RnZ0pYTWFYcDVNR1h5bjUyLWZGcW9wb1JpQQ?oc=5",
-      "title": "1 Stock That's a Big Opportunity: AIG - Yahoo",
-      "body": "1 Stock That's a Big Opportunity: AIG Yahoo",
-      "author": null,
-      "language": "en",
-      "ticker": "AIG",
-      "tickers_hint": [
-        "AIG"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "yahoo.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo",
-        "source_domain": "yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "AIG"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "517bebbc-acc7-55d2-a5f8-0c217570ae46",
-      "timestamp_utc": "2026-04-04T04:11:47+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9adUh4OVJYbmlSQWlVX1lvN3hURloxY3FrNEJzc2pSSW9tVUgzdFpuQTlpWDQxWWMxVFFsZ3I1WG80ek53dHFUcklpeUQ4XzNp?oc=5",
-      "title": "American International Group, Inc. (AIG) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "body": "American International Group, Inc. (AIG) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "id": "597fe16c-e505-5586-9be7-bd3cb2ddfc8d",
+      "timestamp_utc": "2026-04-08T04:48:45+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8781933/aig-receives-updated-analyst-rating-and-price-target-from-barclays-aig-stock-news?mobile=true",
+      "title": "AIG Receives Updated Analyst Rating and Price Target from Barcla - GuruFocus",
+      "body": "AIG Receives Updated Analyst Rating and Price Target from Barcla GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "AIG",
@@ -73,60 +42,29 @@
         "AIG"
       ],
       "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "AIG"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "0a44b4ae-b70f-5124-b923-9e9422e090b9",
-      "timestamp_utc": "2026-04-04T00:11:52+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kZm1JS0lIUjVaU19KTHVFQV9HVGh2bUFudlZTa3BmUzJoOXZSQkdMY2Jqbk80amxVRHB1TV9FUUo0bHktSmYxcTF1ejdsdTVqeHg5YkExclNqRF9jVkZGWjRyeGdRQQ?oc=5",
-      "title": "AIG SEC Filings - American Intl Group Inc 10-K, 10-Q, 8-K Forms - Stock Titan",
-      "body": "AIG SEC Filings - American Intl Group Inc 10-K, 10-Q, 8-K Forms Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "AIG",
-      "tickers_hint": [
-        "AIG"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "AIG"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.65,
+        "quality_score": 0.4925,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "f9951ad3-5230-5341-b698-c17142804519",
-      "timestamp_utc": "2026-04-05T06:08:00+00:00",
+      "id": "0af8590a-786b-5be5-8480-85d2be916083",
+      "timestamp_utc": "2026-04-08T06:10:05+00:00",
       "source": "yahoo_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVjlNbDhEWmczcTVTN3dNeXRSNnFVYy1remVxRkRFS0JvdnFETzhLdGNud1dlUHhvN1F6SnRjbmtSYklqTE1oS0VaX2tJY00ybmJCQkdGU2hyV2U2TjBLbWVIcjh5Sk9fbVlwR3NIWEU5OV80S0xKclZQZXUwdVNQSnVMZjdob3pWaV9mU1dtczFSMVg4cVV4bUwtZW1iVkJ5OGhjNjFuWGI?oc=5",
-      "title": "Is American International Group (AIG) Pricing Reflect Its Recent Share Price Pullback? - Yahoo Finance",
-      "body": "Is American International Group (AIG) Pricing Reflect Its Recent Share Price Pullback? Yahoo Finance",
+      "url": "https://uk.finance.yahoo.com/news/american-international-group-aig-beat-161005606.html",
+      "title": "Will American International Group (AIG) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance UK",
+      "body": "Will American International Group (AIG) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance UK",
       "author": null,
       "language": "en",
       "ticker": "AIG",
@@ -135,56 +73,25 @@
       ],
       "source_quality": "high",
       "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
+        "source_name": "Yahoo Finance UK",
         "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
         "event_origin": "news",
-        "query_tickers": [
-          "AIG"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.69,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "93753999-7cb5-5485-be3a-d09eb849865c",
-      "timestamp_utc": "2026-04-04T22:34:07+00:00",
-      "source": "yahoo_finance",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDVTdVd0E2Z2xDQkZ2R2c3SlU0dllObW5XSDU4N0VkazFIRWhqNDVhRFVMZ1kzOTVMeDY0Wlh5OVZHRmI3MFV6eE1TOEpsVEtmTGJrLWtDTU5sNGtXSmIybEMtQ2RnZ0pYTWFYcDVNR1h5bjUyLWZGcW9wb1JpQQ?oc=5",
-      "title": "1 Stock That's a Big Opportunity: AIG - Yahoo",
-      "body": "1 Stock That's a Big Opportunity: AIG Yahoo",
-      "author": null,
-      "language": "en",
-      "ticker": "AIG",
-      "tickers_hint": [
-        "AIG"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "yahoo.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo",
-        "source_domain": "yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "AIG"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "517bebbc-acc7-55d2-a5f8-0c217570ae46",
-      "timestamp_utc": "2026-04-04T04:11:47+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9adUh4OVJYbmlSQWlVX1lvN3hURloxY3FrNEJzc2pSSW9tVUgzdFpuQTlpWDQxWWMxVFFsZ3I1WG80ek53dHFUcklpeUQ4XzNp?oc=5",
-      "title": "American International Group, Inc. (AIG) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "body": "American International Group, Inc. (AIG) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "id": "597fe16c-e505-5586-9be7-bd3cb2ddfc8d",
+      "timestamp_utc": "2026-04-08T04:48:45+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8781933/aig-receives-updated-analyst-rating-and-price-target-from-barclays-aig-stock-news?mobile=true",
+      "title": "AIG Receives Updated Analyst Rating and Price Target from Barcla - GuruFocus",
+      "body": "AIG Receives Updated Analyst Rating and Price Target from Barcla GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "AIG",
@@ -192,49 +99,18 @@
         "AIG"
       ],
       "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "AIG"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "0a44b4ae-b70f-5124-b923-9e9422e090b9",
-      "timestamp_utc": "2026-04-04T00:11:52+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kZm1JS0lIUjVaU19KTHVFQV9HVGh2bUFudlZTa3BmUzJoOXZSQkdMY2Jqbk80amxVRHB1TV9FUUo0bHktSmYxcTF1ejdsdTVqeHg5YkExclNqRF9jVkZGWjRyeGdRQQ?oc=5",
-      "title": "AIG SEC Filings - American Intl Group Inc 10-K, 10-Q, 8-K Forms - Stock Titan",
-      "body": "AIG SEC Filings - American Intl Group Inc 10-K, 10-Q, 8-K Forms Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "AIG",
-      "tickers_hint": [
-        "AIG"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "AIG"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.65,
+        "quality_score": 0.4925,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

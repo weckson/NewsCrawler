@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "4cbde442-8784-526f-9e77-c864e7f6c53b",
-      "timestamp_utc": "2026-04-04T14:15:59+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/TRV/earnings",
-      "title": "TRV Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "TRV Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "6e5a8032-bdd4-5c9a-a561-aff03c745134",
+      "timestamp_utc": "2026-04-08T19:29:41+00:00",
+      "source": "defense_world",
+      "url": "https://www.defenseworld.net/2026/04/09/travelers-companies-trv-projected-to-post-earnings-on-thursday.html",
+      "title": "Travelers Companies (TRV) Projected to Post Earnings on Thursday - Defense World",
+      "body": "Air Armament Engines Fighter Aircraft Helicopters Land Armored Vehicles and Tanks Ordinance and Artillery Personnel Equipment Small Arms Missiles and Space Air Defense Military Satellites Missile Technology Naval Civil Aviation Accidents Airlines Engines Manufacturers MRO Economy Management Appointments Market Trends and Finance Mergers and Acquisitions Companies",
       "author": null,
       "language": "en",
       "ticker": "TRV",
@@ -15,31 +15,56 @@
         "TRV"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "defense world",
+      "trust_tier": 1,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
         "event_origin": "news",
-        "query_tickers": [
-          "TRV"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4575,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "9ed087e3-5db3-5878-8920-650b7036fc29",
+      "timestamp_utc": "2026-04-08T07:20:51+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782331/travelers-companies-trv-barclays-adjusts-price-target-and-maintains-rating-trv-stock-news",
+      "title": "Travelers Companies (TRV): Barclays Adjusts Price Target and Mai - GuruFocus",
+      "body": "Travelers Companies (TRV): Barclays Adjusts Price Target and Mai GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "TRV",
+      "tickers_hint": [
+        "TRV"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "event_origin": "news",
+        "relevance": 0.6,
+        "quality_score": 0.45,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "4cbde442-8784-526f-9e77-c864e7f6c53b",
-      "timestamp_utc": "2026-04-04T14:15:59+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/TRV/earnings",
-      "title": "TRV Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "TRV Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "6e5a8032-bdd4-5c9a-a561-aff03c745134",
+      "timestamp_utc": "2026-04-08T19:29:41+00:00",
+      "source": "defense_world",
+      "url": "https://www.defenseworld.net/2026/04/09/travelers-companies-trv-projected-to-post-earnings-on-thursday.html",
+      "title": "Travelers Companies (TRV) Projected to Post Earnings on Thursday - Defense World",
+      "body": "Air Armament Engines Fighter Aircraft Helicopters Land Armored Vehicles and Tanks Ordinance and Artillery Personnel Equipment Small Arms Missiles and Space Air Defense Military Satellites Missile Technology Naval Civil Aviation Accidents Airlines Engines Manufacturers MRO Economy Management Appointments Market Trends and Finance Mergers and Acquisitions Companies",
       "author": null,
       "language": "en",
       "ticker": "TRV",
@@ -47,20 +72,45 @@
         "TRV"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "defense world",
+      "trust_tier": 1,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
         "event_origin": "news",
-        "query_tickers": [
-          "TRV"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4575,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "9ed087e3-5db3-5878-8920-650b7036fc29",
+      "timestamp_utc": "2026-04-08T07:20:51+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782331/travelers-companies-trv-barclays-adjusts-price-target-and-maintains-rating-trv-stock-news",
+      "title": "Travelers Companies (TRV): Barclays Adjusts Price Target and Mai - GuruFocus",
+      "body": "Travelers Companies (TRV): Barclays Adjusts Price Target and Mai GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "TRV",
+      "tickers_hint": [
+        "TRV"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "event_origin": "news",
+        "relevance": 0.6,
+        "quality_score": 0.45,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

@@ -1,11 +1,11 @@
 [
   {
-    "id": "8eef7f87-392f-5024-bb9b-e45faca70df7",
-    "timestamp_utc": "2026-04-03T12:12:42+00:00",
-    "source": "bitget",
-    "url": "https://www.bitget.com/news/detail/12560605335581",
-    "title": "Aon’s Earnings Precision Play: Miss Revenue, Trigger Fresh Sell-Off — Or Beat, and Force a Re-Rating - Bitget",
-    "body": "Aon’s Earnings Precision Play: Miss Revenue, Trigger Fresh Sell-Off — Or Beat, and Force a Re-Rating Bitget",
+    "id": "30f1e4b9-b7bd-5bb4-b6ba-1a99ced92104",
+    "timestamp_utc": "2026-04-08T09:55:04+00:00",
+    "source": "msn",
+    "url": "https://www.msn.com/en-us/money/topstocks/will-aon-aon-beat-estimates-again-in-its-next-earnings-report/ar-AA20rjO7",
+    "title": "Will Aon (AON) beat estimates again in its next earnings report? - MSN",
+    "body": "Will Aon (AON) beat estimates again in its next earnings report? MSN",
     "author": null,
     "language": "en",
     "ticker": "AON",
@@ -13,19 +13,71 @@
       "AON"
     ],
     "source_quality": "low",
-    "publisher_raw": "bitget",
+    "publisher_raw": "msn",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Bitget",
-      "source_domain": "bitget.com",
-      "trust_tier": 1,
-      "relevance": 0.75,
+      "source_name": "MSN",
+      "source_domain": "msn.com",
       "event_origin": "news",
-      "query_tickers": [
-        "AON"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.7000000000000001,
+      "quality_score": 0.49,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "5b8040d3-9d84-54db-a847-fe9539474e27",
+    "timestamp_utc": "2026-04-07T20:12:14+00:00",
+    "source": "defense_world",
+    "url": "https://www.defenseworld.net/2026/04/08/aon-nyseaon-given-new-401-00-price-target-at-keefe-bruyette-woods.html",
+    "title": "AON (NYSE:AON) Given New $401.00 Price Target at Keefe, Bruyette & Woods - Defense World",
+    "body": "Air Armament Engines Fighter Aircraft Helicopters Land Armored Vehicles and Tanks Ordinance and Artillery Personnel Equipment Small Arms Missiles and Space Air Defense Military Satellites Missile Technology Naval Civil Aviation Accidents Airlines Engines Manufacturers MRO Economy Management Appointments Market Trends and Finance Mergers and Acquisitions Companies",
+    "author": null,
+    "language": "en",
+    "ticker": "AON",
+    "tickers_hint": [
+      "AON"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "defense world",
+    "trust_tier": 1,
+    "body_kind": "article_text",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Defense World",
+      "source_domain": "defenseworld.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.4725,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "2646b442-e917-5a70-9ac3-e15b89245896",
+    "timestamp_utc": "2026-04-08T05:38:43+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8782001/barclays-lowers-price-target-for-aon-to-372-maintains-equalweight-rating-aon-stock-news?mobile=true",
+    "title": "Barclays Lowers Price Target for AON to $372, Maintains Equal-We - GuruFocus",
+    "body": "Barclays Lowers Price Target for AON to $372, Maintains Equal-We GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "AON",
+    "tickers_hint": [
+      "AON"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4675,
+      "_channel": "google_broad"
+    }
   }
 ]

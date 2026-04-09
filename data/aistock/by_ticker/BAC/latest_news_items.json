@@ -1,31 +1,29 @@
 [
   {
-    "id": "4af7b225-0b28-5b9e-96cf-ce50ad6ea623",
-    "timestamp_utc": "2026-04-04T10:17:49+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-stock-holdings-increased-by-steelpeak-wealth-llc-2026-04-04/",
-    "title": "Bank of America Corporation $BAC Stock Holdings Increased by SteelPeak Wealth LLC - MarketBeat",
-    "body": "Bank of America Corporation $BAC Stock Holdings Increased by SteelPeak Wealth LLC MarketBeat",
+    "id": "d6ea622c-1f25-56c2-a8d8-7e03d304dcab",
+    "timestamp_utc": "2026-04-08T03:00:05+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORnllWUZ6b0tEQk14TlB2cHdHWDM4NzhOOENUblBGcUI2R2dnTzViUmt3NXJEMW9STnpzRlFXVUcwQm5PRVZDMzdHS1hKX2R4VVYtLU1qUVhCekFVTWl2b2l3UUxCYWl2UWxGUXZVRnlkdXRKT20xVGh2T0dsTVM3ZWhGZ0pRUTZhZVFHdkw5dUp0UQ?oc=5",
+    "title": "Is Trending Stock Bank of America Corporation (BAC) a Buy Now? - Yahoo Finance UK",
+    "body": "Is Trending Stock Bank of America Corporation (BAC) a Buy Now? Yahoo Finance UK",
     "author": null,
     "language": "en",
     "ticker": "BAC",
     "tickers_hint": [
       "BAC"
     ],
-    "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
+      "source_name": "Yahoo Finance UK",
+      "source_domain": "finance.yahoo.com",
       "event_origin": "news",
-      "query_tickers": [
-        "BAC"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.62,
+      "_channel": "google_broad"
+    }
   }
 ]

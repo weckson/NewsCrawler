@@ -1,11 +1,11 @@
 [
   {
-    "id": "3e178fa0-49ce-5ed4-a1af-a9eba8ec3d4a",
-    "timestamp_utc": "2026-04-04T14:07:01+00:00",
-    "source": "yahoo_finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/time-reconsider-otis-worldwide-otis-140701681.html",
-    "title": "Is It Time To Reconsider Otis Worldwide (OTIS) After The Recent Share Price Slide? - Yahoo Finance",
-    "body": "Is It Time To Reconsider Otis Worldwide (OTIS) After The Recent Share Price Slide? Yahoo Finance",
+    "id": "1d2466d3-ada9-5098-a1c2-aa12189da3ce",
+    "timestamp_utc": "2026-04-08T09:59:44+00:00",
+    "source": "seeking_alpha",
+    "url": "https://seekingalpha.com/news/4573497-otis-worldwide-downgraded-by-wolfe-research-on-earnings-uncertainty",
+    "title": "Otis Worldwide downgraded by Wolfe Research on earnings uncertainty (OTIS:NYSE) - Seeking Alpha",
+    "body": "Wolfe Research analysts on Wednesday downgraded Otis Worldwide Corp. (OTIS) to Peer Perform from Outperform after a weaker-than-expected update for the first half of 2026 raised concerns about earnings visibility. The firm cut its 2026 earnings estimates and now expects",
     "author": null,
     "language": "en",
     "ticker": "OTIS",
@@ -13,28 +13,83 @@
       "OTIS"
     ],
     "source_quality": "high",
-    "publisher_raw": "finance.yahoo.com",
+    "publisher_raw": "seekingalpha.com",
+    "trust_tier": 3,
+    "body_kind": "article_text",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance",
-      "source_domain": "finance.yahoo.com",
-      "trust_tier": 3,
-      "relevance": 0.6000000000000001,
+      "source_name": "Seeking Alpha",
+      "source_domain": "seekingalpha.com",
       "event_origin": "news",
-      "query_tickers": [
-        "OTIS"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.7000000000000001,
+      "quality_score": 0.7,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "502f0568-fc87-5a86-850a-f78636b967c2",
-    "timestamp_utc": "2026-04-03T21:42:25+00:00",
-    "source": "yahoo!_finance_canada",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JRlVRSHBRancxRWFQaDlKZTVNb2dOMFUtc2ZqNGxJRjV4azhvT1VFeVlpRXZpZF9QTU5vLWpNMFZTTHZGbEVCbExGdTRSX3BGeFllT2R4NVdoWTRhMFkyOGdEM2RXQQ?oc=5",
-    "title": "OTIS Sep 2026 100.000 call (OTIS260918C00100000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "body": "OTIS Sep 2026 100.000 call (OTIS260918C00100000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "id": "6a14315b-ab51-5eab-b755-26706fa8a672",
+    "timestamp_utc": "2026-04-08T10:56:00+00:00",
+    "source": "marketwatch",
+    "url": "https://www.marketwatch.com/data-news/otis-worldwide-corp-stock-rises-wednesday-still-underperforms-market-ca629fcf-b1463846ab28",
+    "title": "Otis Worldwide Corp. stock rises Wednesday, still underperforms market - MarketWatch",
+    "body": "Otis Worldwide Corp. stock rises Wednesday, still underperforms market MarketWatch",
+    "author": null,
+    "language": "en",
+    "ticker": "OTIS",
+    "tickers_hint": [
+      "OTIS"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "marketwatch.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketWatch",
+      "source_domain": "marketwatch.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.635,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "943eabde-387d-5505-af46-caa3eacd2309",
+    "timestamp_utc": "2026-04-08T00:00:05+00:00",
+    "source": "investing.com",
+    "url": "https://www.investing.com/news/analyst-ratings/wolfe-research-downgrades-otis-worldwide-stock-rating-on-earnings-concerns-93CH-4602382",
+    "title": "Wolfe Research downgrades Otis Worldwide stock rating on earnings concerns - Investing.com",
+    "body": "Wolfe Research downgrades Otis Worldwide stock rating on earnings concerns Investing.com",
+    "author": null,
+    "language": "en",
+    "ticker": "OTIS",
+    "tickers_hint": [
+      "OTIS"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "investing.com",
+    "trust_tier": 2,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Investing.com",
+      "source_domain": "investing.com",
+      "event_origin": "news",
+      "relevance": 0.65,
+      "quality_score": 0.6025,
+      "_channel": "google_broad",
+      "_alt_sources": [
+        "Investing.com"
+      ]
+    }
+  },
+  {
+    "id": "6a1ef6c5-b232-5286-871d-a4da2ebc0fd8",
+    "timestamp_utc": "2026-04-08T04:37:51+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8781931/otis-downgraded-to-peer-perform-by-wolfe-research-otis-stock-news?mobile=true",
+    "title": "OTIS Downgraded to Peer Perform by Wolfe Research | OTIS Stock N - GuruFocus",
+    "body": "OTIS Downgraded to Peer Perform by Wolfe Research | OTIS Stock N GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "OTIS",
@@ -42,19 +97,17 @@
       "OTIS"
     ],
     "source_quality": "low",
-    "publisher_raw": "yahoo! finance canada",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo! Finance Canada",
-      "source_domain": "yahoofinancecanada.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
       "event_origin": "news",
-      "query_tickers": [
-        "OTIS"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.4625,
+      "_channel": "google_broad"
+    }
   }
 ]

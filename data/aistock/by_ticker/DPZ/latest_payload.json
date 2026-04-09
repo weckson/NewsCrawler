@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "2edf61a5-f7c8-5196-81ee-615dff66a108",
-      "timestamp_utc": "2026-03-31T05:11:15+00:00",
+      "id": "3b37a3bf-c36b-522e-bde5-5a1756b8b025",
+      "timestamp_utc": "2026-04-07T10:15:00+00:00",
       "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8761315/dominos-pizza-dpz-analyst-rating-update-wells-fargo-lowers-price-target-dpz-stock-news?mobile=true",
-      "title": "Domino's Pizza (DPZ) Analyst Rating Update: Wells Fargo Lowers P - GuruFocus",
-      "body": "Domino's Pizza (DPZ) Analyst Rating Update: Wells Fargo Lowers P GuruFocus",
+      "url": "https://www.gurufocus.com/news/8779584/dpz-citigroup-maintains-rating-lowers-price-target-to-425-dpz-stock-news?mobile=true",
+      "title": "DPZ: Citigroup Maintains Rating, Lowers Price Target to $425 | D - GuruFocus",
+      "body": "DPZ: Citigroup Maintains Rating, Lowers Price Target to $425 | D GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "DPZ",
@@ -16,30 +16,28 @@
       ],
       "source_quality": "low",
       "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "GuruFocus",
         "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.6,
         "event_origin": "news",
-        "query_tickers": [
-          "DPZ"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.475,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "2edf61a5-f7c8-5196-81ee-615dff66a108",
-      "timestamp_utc": "2026-03-31T05:11:15+00:00",
+      "id": "3b37a3bf-c36b-522e-bde5-5a1756b8b025",
+      "timestamp_utc": "2026-04-07T10:15:00+00:00",
       "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8761315/dominos-pizza-dpz-analyst-rating-update-wells-fargo-lowers-price-target-dpz-stock-news?mobile=true",
-      "title": "Domino's Pizza (DPZ) Analyst Rating Update: Wells Fargo Lowers P - GuruFocus",
-      "body": "Domino's Pizza (DPZ) Analyst Rating Update: Wells Fargo Lowers P GuruFocus",
+      "url": "https://www.gurufocus.com/news/8779584/dpz-citigroup-maintains-rating-lowers-price-target-to-425-dpz-stock-news?mobile=true",
+      "title": "DPZ: Citigroup Maintains Rating, Lowers Price Target to $425 | D - GuruFocus",
+      "body": "DPZ: Citigroup Maintains Rating, Lowers Price Target to $425 | D GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "DPZ",
@@ -48,19 +46,17 @@
       ],
       "source_quality": "low",
       "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "GuruFocus",
         "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.6,
         "event_origin": "news",
-        "query_tickers": [
-          "DPZ"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.475,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

@@ -1,301 +1,56 @@
 [
   {
-    "id": "f434e369-296a-53c3-83c5-70cc9bf8e31a",
-    "timestamp_utc": "2026-04-03T21:09:52+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc0hsMThWaDR0SXlnQ2xYbjdqVGEtenZsOHNrMlJ2TnZIelFIcHZlREc2di1oX2ExeUVNRDNFbWJsOTBEMlVoUlVSMWVIaFNvR0p6SDRfM3pTbWM1LV8wUnBXdmVaYjQxOEwwd2ZlcThvNGx2enBoVlMxQURvd0U1d2tHNFdLM1B2NEJiUzRSZVlNdktXakl4X2M0eVduMzI5bkJlWjNJR2ZYZDE4NWNRTjJPdmhvZFdPZlNxNktxaw?oc=5",
-    "title": "Patricia Russo (HPE: HPE) defers 14.5K vested RSUs into HPE shares - Stock Titan",
-    "body": "Patricia Russo (HPE: HPE) defers 14.5K vested RSUs into HPE shares Stock Titan",
+    "id": "cae01c5c-97c3-5b52-856d-ae86f1aa2b67",
+    "timestamp_utc": "2026-04-08T05:30:03+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/news/hewlett-packard-enterprise-hpe-16-153003108.html",
+    "title": "Hewlett Packard Enterprise (HPE) Up 16.7% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
+    "body": "Hewlett Packard Enterprise (HPE) Up 16.7% Since Last Earnings Report: Can It Continue? Yahoo Finance",
     "author": null,
     "language": "en",
     "ticker": "HPE",
     "tickers_hint": [
       "HPE"
     ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.6000000000000001,
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
       "event_origin": "news",
-      "query_tickers": [
-        "HPE"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.6925,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "1f9c7c41-8298-54cb-bbcb-885fb6bbf942",
-    "timestamp_utc": "2026-04-03T21:04:52+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZWRseHVDYjh1X0NHSDBfTXJpUmo5bFc5My1nWURPSkJib2tfcnVNY0laZG1iVlhoZFhlZUFsOUk3M1Qya1k4aW5Bc0ROVmxIZWpvOEdHajZVczhFNm5Ca0VaVzdUM210YXBpZmVvLTItbWpLS1o5OTF1V2NyQkR0QjlIcjhycWt6ZjdIeUFvUHlucExJRDFNc0JKMjhyd3JscEh1eGlocERKQ3lUY2hBX1hnMVJ4UDhoS3pNVkhxYw?oc=5",
-    "title": "HPE (NYSE: HPE) director converts 14,500 RSUs into common stock holdings - Stock Titan",
-    "body": "HPE (NYSE: HPE) director converts 14,500 RSUs into common stock holdings Stock Titan",
+    "id": "68312af6-f5f3-56aa-ac06-975d458194b9",
+    "timestamp_utc": "2026-04-08T03:50:03+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYmQ1LUxxWWVCcko0NzFRb0d1b1BVVXlYTjREekU0TmlkWWQ2Y0RUcEU3bVN4NFVhY2pxOVEtSE9TcXRMRW0wRGhJVEpldDNkYjE1enVJZEQ4SGV5ckxRTXE0dzlhX0NrSDNTZzE2RV9EdGJudjY2aVBLVExRdmNDMVhoUy13OUVoSGJwaWRQUHJEVENPN3Ftb2ZGUkctdGN3eHZV?oc=5",
+    "title": "Here's Why Hewlett Packard Enterprise (HPE) is a Strong Momentum Stock - Yahoo Finance",
+    "body": "Here's Why Hewlett Packard Enterprise (HPE) is a Strong Momentum Stock Yahoo Finance",
     "author": null,
     "language": "en",
     "ticker": "HPE",
     "tickers_hint": [
       "HPE"
     ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.6000000000000001,
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
       "event_origin": "news",
-      "query_tickers": [
-        "HPE"
-      ],
-      "alt_sources": [
-        "Stock Titan"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "a8468adc-c852-5948-99a5-1eea8df88ca3",
-    "timestamp_utc": "2026-04-03T20:51:32+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX0FIZ3AzZkdldHgydENsYlZxRTJTWENLU0FtZmJCRWRGTmgzcHE4c1dGME1jakkxaDA5UDdSRGNtZjNZNDJqM1lRMkYzQWF6TDUyYm4ya01QZnhnSWJmbmNkSmVFRHhSclFxelZKazk5OThZUm1wNEcyc01oWnpOX2NmTmluLTJKLURKQTZPNmhIYnlzT09BMWpFc3JQR25ocHQ1c3V4TnZsODM5QnkyNTcyMmhRSGxwcnFkLWhHcw?oc=5",
-    "title": "Calderoni acquires 8,008 HPE (NYSE: HPE) shares through RSU vesting - Stock Titan",
-    "body": "Calderoni acquires 8,008 HPE (NYSE: HPE) shares through RSU vesting Stock Titan",
-    "author": null,
-    "language": "en",
-    "ticker": "HPE",
-    "tickers_hint": [
-      "HPE"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.6000000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "HPE"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "665e0287-0714-5b18-9109-b160be9c4af0",
-    "timestamp_utc": "2026-04-03T21:00:39+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdGU5SmdiOUFJRHEwZEM4VGRwcXk1OGl1R1FucE5fdVl3YnVHSFJSaGpDeHRFeWdsNjhFNkl6Yzh6LUdkcU5OclFzSkp4eEM1TWtOUmxReTg5WjdWYzR4Zk44Z1hnMnZyc0NnM2ZCZG1adEFtY2tmLUptMjdrb2x5aWhjS053aEVuN29hN1N4d3NKSTJuNEtnTlZKWXcxamxGSFV3VTREMWpKd2xPYXFRUmtnM1JWelR6bXhXNllLNA?oc=5",
-    "title": "Hewlett Packard Enterprise (HPE) director defers 14.5K RSUs into stock - Stock Titan",
-    "body": "Hewlett Packard Enterprise (HPE) director defers 14.5K RSUs into stock Stock Titan",
-    "author": null,
-    "language": "en",
-    "ticker": "HPE",
-    "tickers_hint": [
-      "HPE"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
       "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "HPE"
-      ],
-      "alt_sources": [
-        "Stock Titan"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "4c7951dd-a69d-5248-aaac-26d4dd8865cc",
-    "timestamp_utc": "2026-04-03T20:58:26+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWU5CMWFfcnpqN1BPdmNLQm9HVVlDcjgyY3F4bExFLTlIeXNjY2ZoWWR2Ml9PSFNvSG9pT3RaQlZ4aHdSUTQtdlBEeDNWS1JrU3VodXU3Q0ducF9pbG1qNlA5N2hZRk5RdVZLd2NrYUM3eEhueUpjMWtqQkxtNmNqWVFPZ2h2NnZnQXJQa1dYdU5wZ1I0QlZnaXo1blhzVE9JZzd0VHNUdGxPdldQZDVfSDJRcE5uOU1ka00xS2ZJaw?oc=5",
-    "title": "Frank A. D’Amelio of Hewlett Packard Enterprise (HPE) exercises 14.5K RSUs - Stock Titan",
-    "body": "Frank A. D’Amelio of Hewlett Packard Enterprise (HPE) exercises 14.5K RSUs Stock Titan",
-    "author": null,
-    "language": "en",
-    "ticker": "HPE",
-    "tickers_hint": [
-      "HPE"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "HPE"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "29804f83-0b05-5b60-a07b-ad75bcf4eaf2",
-    "timestamp_utc": "2026-04-03T20:49:03+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYVNJSksyUEFMUm11Zm1tMzBFUDk4RnhpTk5yMmFzM2owY19ZNkdJVWdJbXhRVjZrYzdVdlVlMlZiRHo1RWlINTV2SmZiTm0yZlZESXF1cVQ1bndaeXRoTnpadzhjei1BR1NLRExvS0UtLVNwME41dUJSSVpQRGo2YWg1cC16U2NvZkhJVEE5aGR1MzZxN0FYSUZ0SzFvRUpLWC1zeldENkRaMXZ1dkpNLXRMaVFRMGVTWm9jMkRRbw?oc=5",
-    "title": "Hewlett Packard Enterprise (HPE) director exercises 14,500 RSUs into stock - Stock Titan",
-    "body": "Hewlett Packard Enterprise (HPE) director exercises 14,500 RSUs into stock Stock Titan",
-    "author": null,
-    "language": "en",
-    "ticker": "HPE",
-    "tickers_hint": [
-      "HPE"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "HPE"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "43bbbc57-4272-5ab9-8fe4-b0d3fadb8576",
-    "timestamp_utc": "2026-04-03T20:46:49+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZGMwZ3BBeHppOV9RLUNTMmVzNlpGNnMwN050TUlPR0FwdTFsMFk5TEdaczVZS19nR1lNWUxvMEJ6WGNUN294WWlJVS1RbHdzQmUxX1B5eWtnaGhKTXdsSDBrZVcwdWNYb0xXOGFpUFZPWFFfYUpkVTgzdm9FVVN0YmRKdk41Z05VOFpCTEtMQmtnMks4ZElnQnBtdkJyUWpfM2d6WmsyZW5GendvVDVWQ0VoRGFwcEQteUMtbnFCcw?oc=5",
-    "title": "Bethany Mayer (HPE) converts 14,500 RSUs to stock, holds added shares - Stock Titan",
-    "body": "Bethany Mayer (HPE) converts 14,500 RSUs to stock, holds added shares Stock Titan",
-    "author": null,
-    "language": "en",
-    "ticker": "HPE",
-    "tickers_hint": [
-      "HPE"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "HPE"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "52485359-2009-5a8a-80aa-af01707916ec",
-    "timestamp_utc": "2026-04-03T20:44:42+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPak5GNU14T0ZGa2V4TVZpOGF4ZTVsX2VkUDdoVWFoNmFDWkNjWlVxdjNkcVRnbTJQOG5rVmZRX2hWWjAySVhnekRHMXlDcnBhaWkyOVpreEVhYmgxZ29DNFJNZm5VekJSVTlfUk5vM09yemtockNRenZwSjJQVDUydkZnbndLWWxfbVd2VGxkQWs2enNKaVgtRUdGbVJTT1BYZnVvR1hfQ2l2WGc0c3NGekxhQWRUcmp4NkVzV3pCUQ?oc=5",
-    "title": "Hewlett Packard Enterprise (HPE) director converts 14,500 RSUs into common stock - Stock Titan",
-    "body": "Hewlett Packard Enterprise (HPE) director converts 14,500 RSUs into common stock Stock Titan",
-    "author": null,
-    "language": "en",
-    "ticker": "HPE",
-    "tickers_hint": [
-      "HPE"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "HPE"
-      ],
-      "alt_sources": [
-        "Stock Titan"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "7bb01d9d-80c5-52c9-9a67-0f5a60057dc3",
-    "timestamp_utc": "2026-04-03T15:38:13+00:00",
-    "source": "gurufocus",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNmw3LXl6WkVmUU9KeHhzSU5FY2JQaGZ5LWxBd3lpNldObkVRTHkwUXFVWWVFZWJuRl9hVXd2OV8ySGJVTU9DdVlwaW43TmwzcmhkYnl6RjJiR294NjZLUWZja2ZmbG53a3JXOU9Uek1mM0tmMmZJS3dQMnk2R1o1cmtBam5qdTJfLTRVVmNETUNoeG93Y04zZXBFY1VtY2RmUTNJekFrYkl4c0JxbkY3bkZkMHRJNlFleEZXVXh4dDV0dw?oc=5",
-    "title": "Hewlett Packard Enterprise (HPE) Expands Stock Incentive Plan wi - GuruFocus",
-    "body": "Hewlett Packard Enterprise (HPE) Expands Stock Incentive Plan wi GuruFocus",
-    "author": null,
-    "language": "en",
-    "ticker": "HPE",
-    "tickers_hint": [
-      "HPE"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "gurufocus.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "GuruFocus",
-      "source_domain": "gurufocus.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "HPE"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "ba60a1b5-7e16-5c27-891e-0f82feca0fad",
-    "timestamp_utc": "2026-04-03T13:50:38+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVERDWTk5Z0VkVFNaM3RIMHFISC1rc25wam5pd1kzT1NfZ2hUQTM5UmJkR1hzN254THZjUGdyV0tYbUxqS3Y4cThoX2k4am52bnR3a2RrSGdXT2pvQmpTQ2RZTU1vLVNuRTdGbmhuaUVnUUdPSnNvOVl1NklWWlN1cTNFZElBZDlodlpGQ1FER0xRSWVFMzF6cUNQQlpSeG1lM25pVVdrcko3a19PREhkdFd1eHllTjRN?oc=5",
-    "title": "Shareholders at Hewlett Packard Enterprise (NYSE: HPE) back stock plan boost - Stock Titan",
-    "body": "Shareholders at Hewlett Packard Enterprise (NYSE: HPE) back stock plan boost Stock Titan",
-    "author": null,
-    "language": "en",
-    "ticker": "HPE",
-    "tickers_hint": [
-      "HPE"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "HPE"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.62,
+      "_channel": "google_broad"
+    }
   }
 ]

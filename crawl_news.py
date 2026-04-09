@@ -135,6 +135,43 @@ ARTICLE_MAX_BODY_CHARS = 20000
 DEFAULT_FULLTEXT_MODE = "high-value"
 DEFAULT_FULLTEXT_MAX_ARTICLES = 8
 
+# ── Concurrency & rate-limit tuning ──────────────────────────────────────────
+TICKER_CONCURRENCY = 5          # tickers fetched in parallel
+DOMAIN_DELAY: dict[str, float] = {
+    "news.google.com": 0.3,     # Google RSS is very tolerant
+    "www.benzinga.com": 1.5,    # Benzinga RSS — be polite
+    "default": 1.0,             # everything else
+}
+
+
+class _DomainRateLimiter:
+    """Per-domain async rate limiter — different delays for different hosts."""
+
+    def __init__(self) -> None:
+        self._last: dict[str, float] = {}
+        self._locks: dict[str, asyncio.Lock] = {}
+
+    def _lock_for(self, domain: str) -> asyncio.Lock:
+        if domain not in self._locks:
+            self._locks[domain] = asyncio.Lock()
+        return self._locks[domain]
+
+    async def wait(self, url: str) -> None:
+        from urllib.parse import urlparse as _urlparse
+        import time as _time
+        domain = _urlparse(url).netloc
+        delay = DOMAIN_DELAY.get(domain, DOMAIN_DELAY["default"])
+        lock = self._lock_for(domain)
+        async with lock:
+            now = _time.monotonic()
+            elapsed = now - self._last.get(domain, 0.0)
+            if elapsed < delay:
+                await asyncio.sleep(delay - elapsed)
+            self._last[domain] = _time.monotonic()
+
+
+_rate_limiter = _DomainRateLimiter()
+
 SEMICONDUCTOR_TICKERS = [
     "AMD", "NVDA", "INTC", "AVGO", "TSM",
     "QCOM", "MU", "MRVL", "ARM", "ADI",
@@ -240,12 +277,19 @@ SOURCE_TRUST: dict[str, int] = {
 }
 
 BLOCKED_DOMAINS = {
-    "talkmarkets.com", "stocktitan.net", "accesswire.com",
+    "talkmarkets.com", "stocktitan.net", "stocktitan.com", "accesswire.com",
     "wallstreetzen.com", "smarteranalyst.com", "analystratings.net",
     "tickeron.com", "macroaxis.com", "wisesheets.io",
     "fxleadnews.com", "fxlead.com", "meyka.com", "direxion.com",
     "quiverquant.com", "quiverquantitative.com", "tradingkey.com",
     "simplywall.st",
+    # Crypto exchanges (irrelevant for stock news)
+    "bitget.com", "coincentral.com", "blockonomi.com", "mexc.com",
+    "coingape.com", "cryptonews.com", "beincrypto.com",
+    # Non-English / low-value aggregators
+    "adhocnews.com", "adhocnewsde.com",
+    # Auto-generated press release spam
+    "stocktitannet.com", "marketbeatcom.com",
 }
 
 JUNK_TITLE_PATTERNS = [
@@ -298,6 +342,56 @@ NEWS_CONTENT_KEYWORDS = [
     "beat", "miss", "exceed", "surge", "plunge", "rally",
     "quarter", "q1", "q2", "q3", "q4", "annual",
     "why is", "trading lower", "trading higher",
+]
+
+# ── Quality scoring system ───────────────────────────────────────────────────
+# Composite score modeled on RavenPack / Bloomberg / GDELT evaluation methods.
+# 7 orthogonal signals, weighted sum → [0.0, 1.0].  Threshold gates entry.
+
+QUALITY_WEIGHTS = {
+    "source_authority":          0.30,
+    "ticker_relevance":          0.25,
+    "headline_informativeness":  0.15,
+    "temporal_freshness":        0.10,
+    "content_specificity":       0.10,
+    "summary_richness":          0.05,
+    "source_diversity":          0.05,
+}
+QUALITY_THRESHOLD = 0.40       # articles below this are dropped
+QUALITY_THRESHOLD_RELAXED = 0.35  # fallback for tickers with < 2 articles
+
+CLICKBAIT_PATTERNS = [
+    r"you won'?t believe",
+    r"this stock will",
+    r"one stock to",
+    r"secret.{0,20}(invest|stock|buy)",
+    r"what (?:no one|nobody) (?:is telling|tells) you",
+    r"the next (?:tesla|nvidia|amazon|apple)",
+    r"become a millionaire",
+    r"get rich",
+    r"don'?t miss (?:this|out)",
+    r"explosive growth",
+    r"retire (?:early|rich)",
+    r"\bhidden gem\b",
+    r"once.in.a.lifetime",
+    r"\d+x (?:return|gain|potential)",
+]
+
+# Financial action words that indicate actionable news (used by headline signal)
+_ACTION_KEYWORDS = [
+    "earnings", "revenue", "profit", "loss", "guidance", "forecast",
+    "acquisition", "acquire", "merger", "merge", "deal", "buyout",
+    "layoff", "restructur", "downgrade", "upgrade", "outperform", "underperform",
+    "analyst", "rating", "price target", "initiate", "reiterate",
+    "ceo", "cfo", "appoint", "resign", "hire", "fire", "step down",
+    "dividend", "buyback", "share repurchase", "split",
+    "lawsuit", "settlement", "patent", "fda", "approval", "reject",
+    "beat", "miss", "exceed", "surge", "plunge", "rally", "crash", "soar",
+    "q1", "q2", "q3", "q4", "quarter", "annual", "fiscal",
+    "ipo", "sec filing", "insider", "bankruptcy", "default",
+    "tariff", "sanction", "regulation", "antitrust",
+    "contract", "partnership", "joint venture", "spinoff",
+    "recall", "investigation", "probe", "subpoena",
 ]
 
 COMPANY_NAMES = {
@@ -528,6 +622,28 @@ SOURCE_NAME_TO_DOMAIN = {
     "nasdaq": "nasdaq.com", "morningstar": "morningstar.com",
     "simply wall st": "simplywall.st", "simplywall.st": "simplywall.st",
     "tradingkey": "tradingkey.com",
+    # Yahoo Finance international variants → canonical domain
+    "yahoo finance canada": "finance.yahoo.com",
+    "yahoo finance uk": "finance.yahoo.com",
+    "yahoo finance singapore": "finance.yahoo.com",
+    "yahoo finance australia": "finance.yahoo.com",
+    "yahoo! finance": "finance.yahoo.com",
+    # Other common misses from Google News source names
+    "investors business daily": "investors.com",
+    "investor's business daily": "investors.com",
+    "barchart.com": "barchart.com",
+    "thestreet.com": "thestreet.com",
+    "the wall street journal": "wsj.com",
+    "wall street journal": "wsj.com",
+    "financial times": "ft.com",
+    "the financial times": "ft.com",
+    "stocktitan": "stocktitan.com",
+    "stock titan": "stocktitan.com",
+    "gurufocus": "gurufocus.com",
+    "intellectia ai": "intellectiaai.com",
+    "intellectia.ai": "intellectiaai.com",
+    "msn": "msn.com",
+    "msn money": "msn.com",
 }
 
 DOMAIN_TO_AISTOCK_SOURCE = {
@@ -651,6 +767,158 @@ def is_weak_signal(title: str, source_domain: str) -> bool:
         if re.search(pat, t, re.IGNORECASE):
             return True
     return False
+
+
+# ── Quality scoring signals ──────────────────────────────────────────────────
+
+def _signal_source_authority(trust: int) -> float:
+    """Map trust tier to [0, 1]. Dominant signal — source reputation."""
+    return {3: 1.0, 2: 0.7, 1: 0.3, 0: 0.0}.get(trust, 0.3)
+
+
+def _signal_ticker_relevance(relevance: float) -> float:
+    """Pass through existing relevance score (already 0.0-1.0)."""
+    return max(0.0, min(1.0, relevance))
+
+
+def _signal_headline_informativeness(title: str) -> float:
+    """Score title quality: action keywords, length, clickbait/listicle penalty."""
+    t = title.lower()
+
+    # Action keyword density
+    hits = sum(1 for kw in _ACTION_KEYWORDS if kw in t)
+    action_score = min(1.0, hits * 0.20)
+
+    # Title length — very short = likely auto-generated
+    tlen = len(title)
+    if tlen >= 50:
+        length_score = 1.0
+    elif tlen >= 35:
+        length_score = 0.7
+    elif tlen >= 25:
+        length_score = 0.4
+    else:
+        length_score = 0.0
+
+    # Clickbait penalty
+    clickbait_score = 1.0
+    for pat in CLICKBAIT_PATTERNS:
+        if re.search(pat, t):
+            clickbait_score = 0.0
+            break
+
+    # Listicle penalty (softer than is_junk hard filter)
+    listicle_score = 1.0
+    if re.search(r"^\d+ (?:best|top|stocks?|picks?|ways?)", t):
+        listicle_score = 0.0
+
+    return (action_score * 0.50
+            + length_score * 0.20
+            + clickbait_score * 0.15
+            + listicle_score * 0.15)
+
+
+def _signal_temporal_freshness(published: str | None, now: datetime | None = None) -> float:
+    """Continuous decay — newer is better. Not a hard cutoff."""
+    if not published:
+        return 0.3  # unknown age gets middling score
+    try:
+        pub = datetime.fromisoformat(published)
+        if pub.tzinfo is None:
+            pub = pub.replace(tzinfo=timezone.utc)
+    except Exception:
+        return 0.3
+    if now is None:
+        now = datetime.now(timezone.utc)
+    age_hours = max(0.0, (now - pub).total_seconds() / 3600)
+    if age_hours <= 4:
+        return 1.0
+    if age_hours <= 12:
+        return 0.8
+    if age_hours <= 24:
+        return 0.6
+    if age_hours <= 36:
+        return 0.4
+    if age_hours <= 48:
+        return 0.2
+    return 0.0
+
+
+def _signal_content_specificity(title: str, summary: str, ticker: str) -> float:
+    """Penalize roundups (many tickers); reward specific entities ($, %, M/B)."""
+    text = f"{title} {summary}".lower()
+
+    # Multi-ticker penalty: if many other major tickers appear, likely a roundup
+    major_tickers = [
+        "nvda", "intc", "tsla", "aapl", "msft", "googl", "amzn", "meta",
+        "tsm", "avgo", "qcom", "arm", "amd", "jpm", "bac", "wmt",
+    ]
+    other_tickers = [t for t in major_tickers if t != ticker.lower()]
+    other_count = sum(1 for t in other_tickers if re.search(rf"\b{re.escape(t)}\b", text))
+    multi_ticker_score = max(0.0, 1.0 - other_count * 0.15)
+
+    # Named entity density: $amounts, percentages, millions/billions
+    entity_patterns = [
+        r"\$[\d,.]+\s*(?:million|billion|m\b|b\b|k\b)?",  # $123, $1.2M, $3B
+        r"\d+(?:\.\d+)?%",                                   # 15%, 3.2%
+        r"\d+(?:\.\d+)?\s*(?:million|billion)",              # 100 million
+    ]
+    entity_count = sum(len(re.findall(pat, text, re.IGNORECASE)) for pat in entity_patterns)
+    entity_score = min(1.0, entity_count * 0.3)
+
+    return multi_ticker_score * 0.50 + entity_score * 0.50
+
+
+def _signal_summary_richness(summary: str | None, body: str | None) -> float:
+    """Reward articles with substantial text content."""
+    if body and len(body) > 300:
+        return 1.0
+    text = summary or ""
+    if len(text) >= 100:
+        return 0.7
+    if len(text) >= 40:
+        return 0.4
+    return 0.1
+
+
+def _signal_source_diversity(alt_sources_count: int) -> float:
+    """Multi-source confirmation = more likely genuinely newsworthy."""
+    if alt_sources_count >= 3:
+        return 1.0
+    if alt_sources_count == 2:
+        return 0.7
+    if alt_sources_count == 1:
+        return 0.4
+    return 0.2
+
+
+def article_quality_score(article: dict, ticker: str, *, now: datetime | None = None) -> float:
+    """Composite quality score [0.0, 1.0] from 7 orthogonal signals.
+
+    Based on evaluation methods used by RavenPack, Bloomberg Terminal, GDELT,
+    and Refinitiv News Analytics. No ML training needed — rule-based signals
+    combined via weighted sum.
+    """
+    title = (article.get("title") or "").rsplit(" - ", 1)[0]
+    summary = article.get("summary") or ""
+    body = article.get("body") or None
+    trust = article.get("_trust", 1)
+    relevance = article.get("_relevance", 0.0)
+    published = article.get("published")
+    alt_count = len(article.get("_alt_sources", []))
+
+    signals = {
+        "source_authority":          _signal_source_authority(trust),
+        "ticker_relevance":          _signal_ticker_relevance(relevance),
+        "headline_informativeness":  _signal_headline_informativeness(title),
+        "temporal_freshness":        _signal_temporal_freshness(published, now),
+        "content_specificity":       _signal_content_specificity(title, summary, ticker),
+        "summary_richness":          _signal_summary_richness(summary, body),
+        "source_diversity":          _signal_source_diversity(alt_count),
+    }
+
+    score = sum(QUALITY_WEIGHTS[k] * v for k, v in signals.items())
+    return round(max(0.0, min(1.0, score)), 4)
 
 
 def _load_aistock_watchlist() -> list[str]:
@@ -969,6 +1237,7 @@ def dedup_articles(articles: list[dict]) -> list[dict]:
 
 def quality_filter(articles: list[dict], ticker: str, hours: int) -> list[dict]:
     cutoff = datetime.now(timezone.utc) - timedelta(hours=hours)
+    now = datetime.now(timezone.utc)
     passed = []
 
     for a in articles:
@@ -976,7 +1245,9 @@ def quality_filter(articles: list[dict], ticker: str, hours: int) -> list[dict]:
         summary = a.get("summary", "") or ""
         clean_title = title.rsplit(" - ", 1)[0] if " - " in title else title
 
-        # ① Time recency
+        # ── Hard pre-filters (fast, binary) ──────────────────────────────
+
+        # ① Time recency (hard cutoff)
         if a.get("published"):
             try:
                 pub = datetime.fromisoformat(a["published"])
@@ -994,7 +1265,7 @@ def quality_filter(articles: list[dict], ticker: str, hours: int) -> list[dict]:
 
         # ③ Relevance (must be about our ticker)
         rel = relevance_score(clean_title, summary, ticker)
-        if rel < 0.15:
+        if rel < 0.10:
             continue
         if a.get("_channel") == "benzinga_rss" and rel < 0.55:
             continue
@@ -1008,27 +1279,47 @@ def quality_filter(articles: list[dict], ticker: str, hours: int) -> list[dict]:
         if is_weak_signal(clean_title, a.get("_source_domain", "")):
             continue
 
-        # ⑤ Title too short
+        # ⑥ Title too short
         if len(clean_title) < 25:
             continue
 
+        # ── Composite quality score ──────────────────────────────────────
+        # ⑦ Multi-signal quality scoring (7 signals, weighted)
+        qscore = article_quality_score(a, ticker, now=now)
+        a["_quality_score"] = qscore
+
         passed.append(a)
 
-    log.info("quality_filter", input=len(articles), passed=len(passed))
+    log.info("quality_filter", input=len(articles), pre_filter=len(passed))
 
-    # ⑥ Dedup
+    # ⑧ Dedup (preserves alt_sources for source_diversity signal)
     deduped = dedup_articles(passed)
     log.info("dedup", before=len(passed), after=len(deduped))
 
-    # ⑦ Sort: trust desc -> relevance desc -> newest first
-    deduped.sort(key=lambda a: (
-        -a.get("_trust", 0),
-        -a.get("_relevance", 0),
+    # ⑨ Post-dedup: recompute quality score with source_diversity signal
+    for a in deduped:
+        a["_quality_score"] = article_quality_score(a, ticker, now=now)
+
+    # ⑩ Quality gate — drop below threshold
+    threshold = QUALITY_THRESHOLD
+    gated = [a for a in deduped if a["_quality_score"] >= threshold]
+
+    # Adaptive: if too few pass, relax threshold for this ticker
+    if len(gated) < 2 and len(deduped) > len(gated):
+        gated = [a for a in deduped if a["_quality_score"] >= QUALITY_THRESHOLD_RELAXED]
+        if gated:
+            log.info("quality_gate_relaxed", ticker=ticker, threshold=QUALITY_THRESHOLD_RELAXED, passed=len(gated))
+
+    log.info("quality_gate", ticker=ticker, before_gate=len(deduped), after_gate=len(gated), threshold=threshold)
+
+    # ⑪ Sort: quality_score desc (primary), then newest first (tiebreak)
+    gated.sort(key=lambda a: (
+        -a.get("_quality_score", 0),
         -(datetime.fromisoformat(a["published"]).timestamp()
           if a.get("published") else 0),
     ))
 
-    return deduped
+    return gated
 
 
 def is_high_value_article(article: dict) -> bool:
@@ -1318,8 +1609,10 @@ async def enrich_articles_with_bodies(articles: list[dict]) -> None:
         async def enrich(article: dict) -> None:
             async with semaphore:
                 await resolve_article_url(session, article)
+                url = article.get("url") or ""
+                if url:
+                    await _rate_limiter.wait(url)
                 await fetch_article_body(session, article)
-                await asyncio.sleep(0.2)
 
         await asyncio.gather(*(enrich(article) for article in articles))
 
@@ -1448,30 +1741,49 @@ async def crawl(
     include_global_feeds: bool = True,
     fulltext_mode: str = DEFAULT_FULLTEXT_MODE,
     fulltext_max_articles: int = DEFAULT_FULLTEXT_MAX_ARTICLES,
+    _session: aiohttp.ClientSession | None = None,
+    _shared_bz_articles: list[dict] | None = None,
 ):
     conn = init_db()
     sources = build_sources(ticker, include_global_feeds=include_global_feeds)
     all_raw: list[dict] = []
     channel_stats: dict[str, int] = defaultdict(int)
 
-    _progress(f"▶ [{ticker}] fetching {len(sources)} channel(s)")
-    connector = aiohttp.TCPConnector(limit=5, ttl_dns_cache=300)
-    async with aiohttp.ClientSession(connector=connector) as session:
+    # Inject shared Benzinga RSS articles (already fetched once globally)
+    if _shared_bz_articles is not None:
+        bz_for_ticker = [dict(a, _ticker=ticker) for a in _shared_bz_articles]
+        channel_stats["benzinga_rss"] += len(bz_for_ticker)
+        all_raw.extend(bz_for_ticker)
+        sources = [s for s in sources if s["tag"] != "benzinga_rss"]
+
+    n_sources = len(sources)
+    if n_sources or all_raw:
+        _progress(f"  [{ticker}] fetching {n_sources} channel(s)" + (f" (+{len(all_raw)} shared BZ)" if _shared_bz_articles else ""))
+
+    owns_session = _session is None
+    if owns_session:
+        connector = aiohttp.TCPConnector(limit=5, ttl_dns_cache=300)
+        _session = aiohttp.ClientSession(connector=connector)
+
+    try:
         for i, source in enumerate(sources, 1):
             tag = source["tag"]
             log.info("crawling", channel=source["name"], tag=tag)
             for url in source["urls"]:
-                await asyncio.sleep(2)  # polite delay
-                body = await fetch_url(session, url)
+                await _rate_limiter.wait(url)
+                body = await fetch_url(_session, url)
                 if body is None:
-                    _progress(f"  [{ticker}] {i}/{len(sources)} {source['name']} — no response")
+                    _progress(f"  [{ticker}] {i}/{n_sources} {source['name']} — no response")
                     continue
                 save_raw(body, tag)
                 articles = parse_rss(body, tag, ticker)
                 channel_stats[tag] += len(articles)
                 all_raw.extend(articles)
-                _progress(f"  [{ticker}] {i}/{len(sources)} {source['name']}", raw=len(articles))
+                _progress(f"  [{ticker}] {i}/{n_sources} {source['name']}", raw=len(articles))
                 log.info("parsed", channel=tag, raw=len(articles))
+    finally:
+        if owns_session:
+            await _session.close()
 
     # Quality pipeline
     _progress(f"  [{ticker}] quality filter", raw=len(all_raw))
@@ -1543,6 +1855,25 @@ def merge_articles_by_url(articles: list[dict]) -> list[dict]:
     return list(merged.values())
 
 
+async def _fetch_shared_benzinga_rss(session: aiohttp.ClientSession) -> list[dict]:
+    """Fetch Benzinga RSS once globally — shared across all tickers."""
+    bz_urls = [
+        "https://www.benzinga.com/feed",
+        "https://www.benzinga.com/news/feed",
+    ]
+    all_articles: list[dict] = []
+    for url in bz_urls:
+        await _rate_limiter.wait(url)
+        body = await fetch_url(session, url)
+        if body is None:
+            continue
+        save_raw(body, "benzinga_rss")
+        articles = parse_rss(body, "benzinga_rss", "")
+        all_articles.extend(articles)
+    _progress(f"  [global] Benzinga RSS fetched once", articles=len(all_articles))
+    return all_articles
+
+
 async def crawl_watchlist(
     tickers: list[str],
     hours: int,
@@ -1550,6 +1881,9 @@ async def crawl_watchlist(
     fulltext_mode: str = DEFAULT_FULLTEXT_MODE,
     fulltext_max_articles: int = DEFAULT_FULLTEXT_MAX_ARTICLES,
 ):
+    import time as _time
+    t0 = _time.monotonic()
+
     conn = init_db()
     all_filtered: list[dict] = []
     all_raw: list[dict] = []
@@ -1557,29 +1891,54 @@ async def crawl_watchlist(
     per_ticker_stats: dict[str, int] = {}
     total_new_count = 0
 
-    for idx, ticker in enumerate(tickers, 1):
-        _progress(f"── ticker {idx}/{len(tickers)}: {ticker}")
-        filtered, raw, stats, _, _ = await crawl(
-            ticker,
-            hours,
-            save_results=False,
-            include_global_feeds=False,
-            fulltext_mode=fulltext_mode,
-            fulltext_max_articles=fulltext_max_articles,
-        )
+    # Shared HTTP session for all tickers — connection pooling
+    connector = aiohttp.TCPConnector(limit=20, ttl_dns_cache=300)
+    async with aiohttp.ClientSession(connector=connector) as session:
+        # Step 1: fetch Benzinga RSS once, share with all tickers
+        shared_bz = await _fetch_shared_benzinga_rss(session)
+
+        # Step 2: crawl tickers in parallel batches
+        sem = asyncio.Semaphore(TICKER_CONCURRENCY)
+        completed = 0
+
+        async def _crawl_one(ticker: str) -> tuple[str, list, list, dict]:
+            nonlocal completed
+            async with sem:
+                filtered, raw, stats, _, _ = await crawl(
+                    ticker,
+                    hours,
+                    save_results=False,
+                    include_global_feeds=False,
+                    fulltext_mode=fulltext_mode,
+                    fulltext_max_articles=fulltext_max_articles,
+                    _session=session,
+                    _shared_bz_articles=shared_bz,
+                )
+                completed += 1
+                if completed % 10 == 0 or completed == len(tickers):
+                    elapsed = _time.monotonic() - t0
+                    _progress(f"-- progress {completed}/{len(tickers)} tickers  ({elapsed:.0f}s)")
+                return ticker, filtered, raw, stats
+
+        results = await asyncio.gather(*(_crawl_one(t) for t in tickers))
+
+    for ticker, filtered, raw, stats in results:
         all_filtered.extend(filtered)
         all_raw.extend(raw)
         per_ticker_stats[ticker] = len(filtered)
         for channel, count in stats.items():
             channel_stats[channel] += count
 
-    _progress(f"── merging & dedup across {len(tickers)} tickers", total_raw=len(all_filtered))
+    _progress(f"-- merging & dedup across {len(tickers)} tickers", total_raw=len(all_filtered))
     merged_articles = merge_articles_by_url(all_filtered)
     bz_count = sum(1 for article in merged_articles if "benzinga" in article.get("_source_domain", ""))
     for article in merged_articles:
         if save_article(conn, article):
             total_new_count += 1
-    _progress(f"── saved to DB", new=total_new_count, merged=len(merged_articles))
+
+    elapsed = _time.monotonic() - t0
+    _progress(f"-- saved to DB", new=total_new_count, merged=len(merged_articles))
+    _progress(f"-- total crawl time: {elapsed:.1f}s ({elapsed/60:.1f}min)")
     conn.close()
     return merged_articles, all_raw, channel_stats, total_new_count, bz_count, per_ticker_stats
 
@@ -1635,6 +1994,7 @@ def to_news_item(article: dict) -> dict:
         "source_domain": article.get("_source_domain"),
         "event_origin": "news",
         "relevance": article.get("_relevance"),
+        "quality_score": article.get("_quality_score"),
         "_channel": article.get("_channel"),
     }
     alt_sources = article.get("_alt_sources") or []
@@ -1708,7 +2068,7 @@ def print_results(articles, raw_articles, channel_stats, new_count, bz_count,
     print("    - Benzinga HTML: SKIPPED (Cloudflare JS challenge blocks simple HTTP)")
     print("    - Benzinga RSS:  /feed + /news/feed (no CF, structured XML)")
     print("    - Google->BZ:    site:benzinga.com (Google already crawled, no CF)")
-    print("    - Polite crawl:  2s delay, standard UA, no JS execution needed")
+    print(f"    - Polite crawl:  per-domain rate limit {DOMAIN_DELAY}, no JS execution needed")
     print()
 
     if not articles:
@@ -1758,7 +2118,8 @@ def _print_articles(articles):
         alt = a.get("_alt_sources", [])
         alt_str = f"  (also: {', '.join(alt[:3])})" if alt else ""
 
-        print(f"  {i:3d}. [{trust_str}] [{pub_str}] [rel:{rel:.2f}] [{channel}]")
+        qs = a.get("_quality_score", 0)
+        print(f"  {i:3d}. [{trust_str}] [{pub_str}] [Q:{qs:.2f}] [rel:{rel:.2f}] [{channel}]")
         print(f"       {title}")
         print(f"       Source: {source}{alt_str}")
         if a.get("summary"):
@@ -1830,13 +2191,17 @@ async def main():
     run_dir = make_run_dir(f"{'_'.join(tickers[:3])}_{len(tickers)}")
     log_path = setup_run_logging(run_dir)
 
+    import time as _time
     _progress("=" * 60)
     _progress(f"NewsCrawler  tickers={len(tickers)}  hours={hours}h  fulltext={args.fulltext_mode}")
+    _progress(f"concurrency = {TICKER_CONCURRENCY} tickers  delays = {DOMAIN_DELAY}")
     _progress(f"data_dir  = {runtime_paths['DATA_DIR']}")
     _progress(f"run_dir   = {run_dir}")
     _progress(f"log       = {log_path}")
     _progress("=" * 60)
     log.info("run_start", run_dir=str(run_dir), data_dir=str(runtime_paths["DATA_DIR"]), tickers=tickers, hours=hours)
+
+    t0 = _time.monotonic()
 
     if len(tickers) == 1:
         run_label = tickers[0]
@@ -1895,8 +2260,9 @@ async def main():
         label = TRUST_LABEL.get(a.get("_trust", 1), "???")
         trust_counts[label] = trust_counts.get(label, 0) + 1
     trust_str = "  ".join(f"{k}:{v}" for k, v in sorted(trust_counts.items()))
+    elapsed = _time.monotonic() - t0
     _progress("=" * 60)
-    _progress(f"DONE  {run_label}")
+    _progress(f"DONE  {run_label}  in {elapsed:.1f}s ({elapsed/60:.1f}min)")
     _progress(f"  raw={len(raw)}  filtered={len(articles)}  news_items={len(news_items)}  new_to_db={new_count}")
     _progress(f"  trust  {trust_str}")
     _progress(f"  bz={bz_count}  log={log_path}")

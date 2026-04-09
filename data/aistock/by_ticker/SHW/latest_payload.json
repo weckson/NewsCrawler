@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "9a8f24ac-184b-5f72-a20e-94422ac4acbd",
-      "timestamp_utc": "2026-04-05T07:34:53+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HVFBsZXA0S3Jac3ItUnZxRGp1V2FpLTRJc2lRTE9RWDE3eXRZM014cVh2TTBjaUdVRXlPUnhnbmt0Tm5UenJrU2ZqQmh4NS1VbTJhUFVFY3VfcGJ5UDN3cQ?oc=5",
-      "title": "The Sherwin-Williams Company (SHW) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "body": "The Sherwin-Williams Company (SHW) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "id": "87c13231-0ee8-5e81-a856-4ab0084c258b",
+      "timestamp_utc": "2026-04-08T21:24:46+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-sherwin-williams-company-shw-shares-acquired-by-addenda-capital-inc-2026-04-09/",
+      "title": "The Sherwin-Williams Company $SHW Shares Acquired by Addenda Capital Inc. - MarketBeat",
+      "body": "The Sherwin-Williams Company $SHW Shares Acquired by Addenda Capital Inc. MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "SHW",
@@ -15,60 +15,29 @@
         "SHW"
       ],
       "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "SHW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "bc006b69-af43-5437-a093-3aca562316cd",
-      "timestamp_utc": "2026-04-04T05:53:02+00:00",
-      "source": "yahoo_finance_uk",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tOU1GNjdHMUZuTG1fN2RqZDV0QWlrS3V5ZjFMcGFtZktYRlpNNmFBRlJFc1pSbTZ0TXJCN1BBcElabjF0QUJBMkpLNjN6ZURRUE1DSEtiRQ?oc=5",
-      "title": "The Sherwin-Williams Company (SHW) latest stock news and headlines - Yahoo Finance UK",
-      "body": "The Sherwin-Williams Company (SHW) latest stock news and headlines Yahoo Finance UK",
-      "author": null,
-      "language": "en",
-      "ticker": "SHW",
-      "tickers_hint": [
-        "SHW"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo finance uk",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance UK",
-        "source_domain": "yahoofinanceuk.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "SHW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4575,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "9a8f24ac-184b-5f72-a20e-94422ac4acbd",
-      "timestamp_utc": "2026-04-05T07:34:53+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HVFBsZXA0S3Jac3ItUnZxRGp1V2FpLTRJc2lRTE9RWDE3eXRZM014cVh2TTBjaUdVRXlPUnhnbmt0Tm5UenJrU2ZqQmh4NS1VbTJhUFVFY3VfcGJ5UDN3cQ?oc=5",
-      "title": "The Sherwin-Williams Company (SHW) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "body": "The Sherwin-Williams Company (SHW) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "id": "87c13231-0ee8-5e81-a856-4ab0084c258b",
+      "timestamp_utc": "2026-04-08T21:24:46+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-sherwin-williams-company-shw-shares-acquired-by-addenda-capital-inc-2026-04-09/",
+      "title": "The Sherwin-Williams Company $SHW Shares Acquired by Addenda Capital Inc. - MarketBeat",
+      "body": "The Sherwin-Williams Company $SHW Shares Acquired by Addenda Capital Inc. MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "SHW",
@@ -76,49 +45,18 @@
         "SHW"
       ],
       "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "SHW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "bc006b69-af43-5437-a093-3aca562316cd",
-      "timestamp_utc": "2026-04-04T05:53:02+00:00",
-      "source": "yahoo_finance_uk",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tOU1GNjdHMUZuTG1fN2RqZDV0QWlrS3V5ZjFMcGFtZktYRlpNNmFBRlJFc1pSbTZ0TXJCN1BBcElabjF0QUJBMkpLNjN6ZURRUE1DSEtiRQ?oc=5",
-      "title": "The Sherwin-Williams Company (SHW) latest stock news and headlines - Yahoo Finance UK",
-      "body": "The Sherwin-Williams Company (SHW) latest stock news and headlines Yahoo Finance UK",
-      "author": null,
-      "language": "en",
-      "ticker": "SHW",
-      "tickers_hint": [
-        "SHW"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo finance uk",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance UK",
-        "source_domain": "yahoofinanceuk.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "SHW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4575,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

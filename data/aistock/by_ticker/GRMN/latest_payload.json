@@ -2,65 +2,61 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "0913c298-1326-5f34-a6ca-b48f147d1593",
-      "timestamp_utc": "2026-04-03T22:16:46+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KTzVUTkItRW5MeEJKMk05ODlsLXVTSVNqVFFyN2V1NWJnTUtoMEgtRGF2c3padFRJTzR5MVY2MWJsbTV4LTJIdWEyV2s5ZE1xSGR5RnM1ZENPcFFOM0I2YU93?oc=5",
-      "title": "Garmin Ltd. (GRMN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "body": "Garmin Ltd. (GRMN) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "id": "66ad2fb7-2adb-58d3-bcd1-95f47c913a34",
+      "timestamp_utc": "2026-04-09T00:59:17+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54cEtfWDdVYkg5ajhNMUtJdTd2dVlZMUZhUHpRb3pKYklNQ1JYRUtRQUdsT2xUcFRLOHd6cGdRdDNiakFjd2ViZUotdXBPRnhMcXc?oc=5",
+      "title": "Garmin Ltd. (GRMN) stock price, news, quote and history - Yahoo Finance Australia",
+      "body": "Garmin Ltd. (GRMN) stock price, news, quote and history Yahoo Finance Australia",
       "author": null,
       "language": "en",
       "ticker": "GRMN",
       "tickers_hint": [
         "GRMN"
       ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Yahoo Finance Australia",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "GRMN"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.66,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "0913c298-1326-5f34-a6ca-b48f147d1593",
-      "timestamp_utc": "2026-04-03T22:16:46+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KTzVUTkItRW5MeEJKMk05ODlsLXVTSVNqVFFyN2V1NWJnTUtoMEgtRGF2c3padFRJTzR5MVY2MWJsbTV4LTJIdWEyV2s5ZE1xSGR5RnM1ZENPcFFOM0I2YU93?oc=5",
-      "title": "Garmin Ltd. (GRMN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "body": "Garmin Ltd. (GRMN) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "id": "66ad2fb7-2adb-58d3-bcd1-95f47c913a34",
+      "timestamp_utc": "2026-04-09T00:59:17+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54cEtfWDdVYkg5ajhNMUtJdTd2dVlZMUZhUHpRb3pKYklNQ1JYRUtRQUdsT2xUcFRLOHd6cGdRdDNiakFjd2ViZUotdXBPRnhMcXc?oc=5",
+      "title": "Garmin Ltd. (GRMN) stock price, news, quote and history - Yahoo Finance Australia",
+      "body": "Garmin Ltd. (GRMN) stock price, news, quote and history Yahoo Finance Australia",
       "author": null,
       "language": "en",
       "ticker": "GRMN",
       "tickers_hint": [
         "GRMN"
       ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Yahoo Finance Australia",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "GRMN"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.66,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

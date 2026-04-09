@@ -2,65 +2,127 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "2e6d2d4f-a329-58fd-9a7f-959909d46824",
-      "timestamp_utc": "2026-04-01T04:24:22+00:00",
-      "source": "bitget",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxQzAzaGxCbkFBaFo0MmczMThBek1pMGZrOGF0TFZOeVFiU1pCWWJ2MWdkd21BWnV4TW1Vc0RfRXZ6SVByLUtpWDVnNDBMWTh5dWtsSVZXRTlfd2lFc2o4SHNRd9IBY0FVX3lxTFBxQzAzaGxCbkFBaFo0MmczMThBek1pMGZrOGF0TFZOeVFiU1pCWWJ2MWdkd21BWnV4TW1Vc0RfRXZ6SVByLUtpWDVnNDBMWTh5dWtsSVZXRTlfd2lFc2o4SHNRdw?oc=5",
-      "title": "CRM Options Indicate a Significant Preference for Puts as the Put/Call Ratio Reaches 0.87: Steps Traders Should Take Ahead of Friday - Bitget",
-      "body": "CRM Options Indicate a Significant Preference for Puts as the Put/Call Ratio Reaches 0.87: Steps Traders Should Take Ahead of Friday Bitget",
+      "id": "37008d6b-fc2d-5af5-a55b-c1cec42cc929",
+      "timestamp_utc": "2026-04-08T07:33:10+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVC1LbHhVa1BsdmxkT3ZrMEJNbzl4U1lWOGRWV1o1SmxWb1BxMFZKRjA0Sl9iZGxiOGpudWFhdGlGbWxkdHNoQUxkM3p2bXlhMGZWVDZubmk4MGVyNHBNTnVUT2ppTVBtYTIxMWRpU2lSUVZySURtVV9Bd1pCTE14Uk9pNGdRX09sbXg3LURrQ1A2Vzh1MXJzQm1rUmR5RldaVFdoQWFYUWNqd2d2NWdrZlJ2S3k?oc=5",
+      "title": "Dan Ives Says Microsoft, Salesforce Sell-Off Overdone - Salesforce (NYSE:CRM), Microsoft (NASDAQ:MSFT), S - Benzinga",
+      "body": "Dan Ives Says Microsoft, Salesforce Sell-Off Overdone - Salesforce (NYSE:CRM), Microsoft (NASDAQ:MSFT), S Benzinga",
       "author": null,
       "language": "en",
       "ticker": "CRM",
       "tickers_hint": [
         "CRM"
       ],
-      "source_quality": "low",
-      "publisher_raw": "bitget",
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Bitget",
-        "source_domain": "bitget.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
         "event_origin": "news",
-        "query_tickers": [
-          "CRM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.6375,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
+    },
+    {
+      "id": "2362658a-d63a-5944-942e-72a298cf77e1",
+      "timestamp_utc": "2026-04-08T08:53:11+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVNXhGMHhuMmIxQXp5Zmx3WFdqeFNTNDQwQ2I5M1dYWVRzZW5UTmtNdmtkUGtLMEdWR0RiYW5nT2dPY28xWW1ROFhWU2U1cEZx?oc=5",
+      "title": "Latest Salesforce Stock News | NYSE:CRM - Benzinga",
+      "body": "Latest Salesforce Stock News | NYSE:CRM Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "CRM",
+      "tickers_hint": [
+        "CRM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.621,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "2e6d2d4f-a329-58fd-9a7f-959909d46824",
-      "timestamp_utc": "2026-04-01T04:24:22+00:00",
-      "source": "bitget",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxQzAzaGxCbkFBaFo0MmczMThBek1pMGZrOGF0TFZOeVFiU1pCWWJ2MWdkd21BWnV4TW1Vc0RfRXZ6SVByLUtpWDVnNDBMWTh5dWtsSVZXRTlfd2lFc2o4SHNRd9IBY0FVX3lxTFBxQzAzaGxCbkFBaFo0MmczMThBek1pMGZrOGF0TFZOeVFiU1pCWWJ2MWdkd21BWnV4TW1Vc0RfRXZ6SVByLUtpWDVnNDBMWTh5dWtsSVZXRTlfd2lFc2o4SHNRdw?oc=5",
-      "title": "CRM Options Indicate a Significant Preference for Puts as the Put/Call Ratio Reaches 0.87: Steps Traders Should Take Ahead of Friday - Bitget",
-      "body": "CRM Options Indicate a Significant Preference for Puts as the Put/Call Ratio Reaches 0.87: Steps Traders Should Take Ahead of Friday Bitget",
+      "id": "37008d6b-fc2d-5af5-a55b-c1cec42cc929",
+      "timestamp_utc": "2026-04-08T07:33:10+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVC1LbHhVa1BsdmxkT3ZrMEJNbzl4U1lWOGRWV1o1SmxWb1BxMFZKRjA0Sl9iZGxiOGpudWFhdGlGbWxkdHNoQUxkM3p2bXlhMGZWVDZubmk4MGVyNHBNTnVUT2ppTVBtYTIxMWRpU2lSUVZySURtVV9Bd1pCTE14Uk9pNGdRX09sbXg3LURrQ1A2Vzh1MXJzQm1rUmR5RldaVFdoQWFYUWNqd2d2NWdrZlJ2S3k?oc=5",
+      "title": "Dan Ives Says Microsoft, Salesforce Sell-Off Overdone - Salesforce (NYSE:CRM), Microsoft (NASDAQ:MSFT), S - Benzinga",
+      "body": "Dan Ives Says Microsoft, Salesforce Sell-Off Overdone - Salesforce (NYSE:CRM), Microsoft (NASDAQ:MSFT), S Benzinga",
       "author": null,
       "language": "en",
       "ticker": "CRM",
       "tickers_hint": [
         "CRM"
       ],
-      "source_quality": "low",
-      "publisher_raw": "bitget",
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Bitget",
-        "source_domain": "bitget.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
         "event_origin": "news",
-        "query_tickers": [
-          "CRM"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.6375,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
+    },
+    {
+      "id": "2362658a-d63a-5944-942e-72a298cf77e1",
+      "timestamp_utc": "2026-04-08T08:53:11+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVNXhGMHhuMmIxQXp5Zmx3WFdqeFNTNDQwQ2I5M1dYWVRzZW5UTmtNdmtkUGtLMEdWR0RiYW5nT2dPY28xWW1ROFhWU2U1cEZx?oc=5",
+      "title": "Latest Salesforce Stock News | NYSE:CRM - Benzinga",
+      "body": "Latest Salesforce Stock News | NYSE:CRM Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "CRM",
+      "tickers_hint": [
+        "CRM"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.621,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
     }
   ]
 }

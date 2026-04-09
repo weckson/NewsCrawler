@@ -2,73 +2,61 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "f20531c5-3d07-5d65-b703-7674a1667d0a",
-      "timestamp_utc": "2026-04-01T06:15:41+00:00",
-      "source": "seeking_alpha",
-      "url": "https://seekingalpha.com/news/4570606-healthcare-among-laggards-in-q1-mrna-and-dva-lead-gainers-while-hum-drags",
-      "title": "Healthcare among laggards in Q1; MRNA and DVA lead gainers while HUM drags - Seeking Alpha",
-      "body": "The Health Care Select Sector SPDR Fund (XLV) declined 5.29% in the first quarter of 2026; it slightly underperformed the broader S&P 500 Index, which fell 4.63% over the same period. Market sentiment suffered due to persistent inflation, rising Treasury yields, and",
+      "id": "3e2b0abe-69ed-5183-aaf2-af791c730a5d",
+      "timestamp_utc": "2026-04-07T22:30:21+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8ydjBhdzBJTks4OEhiUEhTc0NoMHAxRFAzaFFWNzdydzlPajNhUm5KdjB6Qno0RnFGNXkwNHpGSFUzb3JhVUJCejhLZ2dabldMdWc?oc=5",
+      "title": "Moderna, Inc. (MRNA) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Moderna, Inc. (MRNA) stock price, news, quote and history Yahoo Finance UK",
       "author": null,
       "language": "en",
-      "ticker": "DVA",
+      "ticker": "MRNA",
       "tickers_hint": [
-        "DVA",
-        "HUM",
         "MRNA"
       ],
       "source_quality": "high",
-      "publisher_raw": "seekingalpha.com",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Seeking Alpha",
-        "source_domain": "seekingalpha.com",
-        "trust_tier": 3,
-        "relevance": 0.55,
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DVA",
-          "HUM",
-          "MRNA"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.62,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "f20531c5-3d07-5d65-b703-7674a1667d0a",
-      "timestamp_utc": "2026-04-01T06:15:41+00:00",
-      "source": "seeking_alpha",
-      "url": "https://seekingalpha.com/news/4570606-healthcare-among-laggards-in-q1-mrna-and-dva-lead-gainers-while-hum-drags",
-      "title": "Healthcare among laggards in Q1; MRNA and DVA lead gainers while HUM drags - Seeking Alpha",
-      "body": "The Health Care Select Sector SPDR Fund (XLV) declined 5.29% in the first quarter of 2026; it slightly underperformed the broader S&P 500 Index, which fell 4.63% over the same period. Market sentiment suffered due to persistent inflation, rising Treasury yields, and",
+      "id": "3e2b0abe-69ed-5183-aaf2-af791c730a5d",
+      "timestamp_utc": "2026-04-07T22:30:21+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8ydjBhdzBJTks4OEhiUEhTc0NoMHAxRFAzaFFWNzdydzlPajNhUm5KdjB6Qno0RnFGNXkwNHpGSFUzb3JhVUJCejhLZ2dabldMdWc?oc=5",
+      "title": "Moderna, Inc. (MRNA) stock price, news, quote and history - Yahoo Finance UK",
+      "body": "Moderna, Inc. (MRNA) stock price, news, quote and history Yahoo Finance UK",
       "author": null,
       "language": "en",
-      "ticker": "DVA",
+      "ticker": "MRNA",
       "tickers_hint": [
-        "DVA",
-        "HUM",
         "MRNA"
       ],
       "source_quality": "high",
-      "publisher_raw": "seekingalpha.com",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Seeking Alpha",
-        "source_domain": "seekingalpha.com",
-        "trust_tier": 3,
-        "relevance": 0.55,
+        "source_name": "Yahoo Finance UK",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DVA",
-          "HUM",
-          "MRNA"
-        ],
-        "body_kind": "article_text"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.62,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

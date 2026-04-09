@@ -2,71 +2,115 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "76ebef11-0ff6-5185-81a1-b10e05c2ba46",
-      "timestamp_utc": "2026-04-03T10:04:50+00:00",
-      "source": "yahoo_finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/regional-banks-stocks-q4-recap-100450372.html",
-      "title": "Regional Banks Stocks Q4 Recap: Benchmarking Fifth Third Bancorp (NASDAQ:FITB) - Yahoo Finance",
-      "body": "Regional Banks Stocks Q4 Recap: Benchmarking Fifth Third Bancorp (NASDAQ:FITB) Yahoo Finance",
+      "id": "dd4855a9-adaf-5792-bad7-0a234bd743fd",
+      "timestamp_utc": "2026-04-08T06:33:52+00:00",
+      "source": "baoquankhu1.vn",
+      "url": "http://baoquankhu1.vn/baofun/889/Can-IVCAW-deliver-consistent-dividends",
+      "title": "CEO Moves: Is FITB showing insider buying - Earnings Trend Report & AI Enhanced Trading Signals - baoquankhu1.vn",
+      "body": "CEO Moves: Is FITB showing insider buying - Earnings Trend Report & AI Enhanced Trading Signals baoquankhu1.vn",
       "author": null,
       "language": "en",
       "ticker": "FITB",
       "tickers_hint": [
         "FITB"
       ],
-      "source_quality": "high",
-      "publisher_raw": "finance.yahoo.com",
+      "source_quality": "low",
+      "publisher_raw": "baoquankhu1.vn",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
-        "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.55,
+        "source_name": "baoquankhu1.vn",
+        "source_domain": "baoquankhu1vn.com",
         "event_origin": "news",
-        "query_tickers": [
-          "FITB"
-        ],
-        "alt_sources": [
-          "StockStory"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.65,
+        "quality_score": 0.5075,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "a7f488d8-b0bc-551d-bcd0-734b0971aca1",
+      "timestamp_utc": "2026-04-07T20:57:17+00:00",
+      "source": "defense_world",
+      "url": "https://www.defenseworld.net/2026/04/08/fifth-third-bancorp-nasdaqfitb-price-target-raised-to-53-00-at-jpmorgan-chase-co.html",
+      "title": "Fifth Third Bancorp (NASDAQ:FITB) Price Target Raised to $53.00 at JPMorgan Chase & Co. - Defense World",
+      "body": "Air Armament Engines Fighter Aircraft Helicopters Land Armored Vehicles and Tanks Ordinance and Artillery Personnel Equipment Small Arms Missiles and Space Air Defense Military Satellites Missile Technology Naval Civil Aviation Accidents Airlines Engines Manufacturers MRO Economy Management Appointments Market Trends and Finance Mergers and Acquisitions Companies",
+      "author": null,
+      "language": "en",
+      "ticker": "FITB",
+      "tickers_hint": [
+        "FITB"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "trust_tier": 1,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4625,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "76ebef11-0ff6-5185-81a1-b10e05c2ba46",
-      "timestamp_utc": "2026-04-03T10:04:50+00:00",
-      "source": "yahoo_finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/regional-banks-stocks-q4-recap-100450372.html",
-      "title": "Regional Banks Stocks Q4 Recap: Benchmarking Fifth Third Bancorp (NASDAQ:FITB) - Yahoo Finance",
-      "body": "Regional Banks Stocks Q4 Recap: Benchmarking Fifth Third Bancorp (NASDAQ:FITB) Yahoo Finance",
+      "id": "dd4855a9-adaf-5792-bad7-0a234bd743fd",
+      "timestamp_utc": "2026-04-08T06:33:52+00:00",
+      "source": "baoquankhu1.vn",
+      "url": "http://baoquankhu1.vn/baofun/889/Can-IVCAW-deliver-consistent-dividends",
+      "title": "CEO Moves: Is FITB showing insider buying - Earnings Trend Report & AI Enhanced Trading Signals - baoquankhu1.vn",
+      "body": "CEO Moves: Is FITB showing insider buying - Earnings Trend Report & AI Enhanced Trading Signals baoquankhu1.vn",
       "author": null,
       "language": "en",
       "ticker": "FITB",
       "tickers_hint": [
         "FITB"
       ],
-      "source_quality": "high",
-      "publisher_raw": "finance.yahoo.com",
+      "source_quality": "low",
+      "publisher_raw": "baoquankhu1.vn",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
-        "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.55,
+        "source_name": "baoquankhu1.vn",
+        "source_domain": "baoquankhu1vn.com",
         "event_origin": "news",
-        "query_tickers": [
-          "FITB"
-        ],
-        "alt_sources": [
-          "StockStory"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.65,
+        "quality_score": 0.5075,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "a7f488d8-b0bc-551d-bcd0-734b0971aca1",
+      "timestamp_utc": "2026-04-07T20:57:17+00:00",
+      "source": "defense_world",
+      "url": "https://www.defenseworld.net/2026/04/08/fifth-third-bancorp-nasdaqfitb-price-target-raised-to-53-00-at-jpmorgan-chase-co.html",
+      "title": "Fifth Third Bancorp (NASDAQ:FITB) Price Target Raised to $53.00 at JPMorgan Chase & Co. - Defense World",
+      "body": "Air Armament Engines Fighter Aircraft Helicopters Land Armored Vehicles and Tanks Ordinance and Artillery Personnel Equipment Small Arms Missiles and Space Air Defense Military Satellites Missile Technology Naval Civil Aviation Accidents Airlines Engines Manufacturers MRO Economy Management Appointments Market Trends and Finance Mergers and Acquisitions Companies",
+      "author": null,
+      "language": "en",
+      "ticker": "FITB",
+      "tickers_hint": [
+        "FITB"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "defense world",
+      "trust_tier": 1,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4625,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

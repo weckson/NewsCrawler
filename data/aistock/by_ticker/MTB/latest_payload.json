@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "7cb4edf5-d725-5fda-963f-00f2114288f8",
-      "timestamp_utc": "2026-04-04T13:43:49+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/MTB/technical",
-      "title": "MTB Technical Analysis & Stock Price Forecast - Intellectia AI",
-      "body": "MTB Technical Analysis & Stock Price Forecast Intellectia AI",
+      "id": "6f2b96ab-8676-5537-849c-208d82385c65",
+      "timestamp_utc": "2026-04-07T19:31:17+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/mt-bank-mtb-projected-to-post-earnings-on-wednesday-2026-04-08/",
+      "title": "M&T Bank (MTB) Projected to Post Earnings on Wednesday - MarketBeat",
+      "body": "M&T Bank (MTB) Projected to Post Earnings on Wednesday MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "MTB",
@@ -15,28 +15,29 @@
         "MTB"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "MTB"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.44,
+        "_channel": "google_broad",
+        "_alt_sources": [
+          "Defense World"
+        ]
+      }
     },
     {
-      "id": "67d42187-ddc5-5f26-ab08-dd811e13f8ae",
-      "timestamp_utc": "2026-04-03T10:47:07+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/MTB/earnings",
-      "title": "MTB Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "MTB Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "287ab6e2-da20-5dbe-9693-58fcaef7157a",
+      "timestamp_utc": "2026-04-07T19:07:12+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaWxZMmtpaEpoaDJZcjl3N2ptajRpakNTam1jM21OZE9pNW9LZHlwQmo1bVdzaVhsSDZvdEtZblVtOVBTTHZOOUdsRTlINUhHV19kZW1wMXBTRml5aDg0dUdMWlRuS2c5c3ozVE1rbzR6ZzRUWXJNSkVNb3NpV3pSNF9FNk9mQ2E5WDZUMjJDbm5MOEFqRUdmQzRCTl95eWhqd1c0VlA3cDlqOEdSQ3Zna1NoaGx6LVJsaUhBMmRMVmtMVUNpME5xOEdn?oc=5",
+      "title": "The Goldman Sachs Group Forecasts Strong Price Appreciation for M&T Bank (NYSE:MTB) Stock - Defense World",
+      "body": "The Goldman Sachs Group Forecasts Strong Price Appreciation for M&T Bank (NYSE:MTB) Stock Defense World",
       "author": null,
       "language": "en",
       "ticker": "MTB",
@@ -44,31 +45,29 @@
         "MTB"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "defense world",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
         "event_origin": "news",
-        "query_tickers": [
-          "MTB"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.42,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "7cb4edf5-d725-5fda-963f-00f2114288f8",
-      "timestamp_utc": "2026-04-04T13:43:49+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/MTB/technical",
-      "title": "MTB Technical Analysis & Stock Price Forecast - Intellectia AI",
-      "body": "MTB Technical Analysis & Stock Price Forecast Intellectia AI",
+      "id": "6f2b96ab-8676-5537-849c-208d82385c65",
+      "timestamp_utc": "2026-04-07T19:31:17+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/mt-bank-mtb-projected-to-post-earnings-on-wednesday-2026-04-08/",
+      "title": "M&T Bank (MTB) Projected to Post Earnings on Wednesday - MarketBeat",
+      "body": "M&T Bank (MTB) Projected to Post Earnings on Wednesday MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "MTB",
@@ -76,28 +75,29 @@
         "MTB"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "MTB"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.44,
+        "_channel": "google_broad",
+        "_alt_sources": [
+          "Defense World"
+        ]
+      }
     },
     {
-      "id": "67d42187-ddc5-5f26-ab08-dd811e13f8ae",
-      "timestamp_utc": "2026-04-03T10:47:07+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/MTB/earnings",
-      "title": "MTB Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "MTB Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "287ab6e2-da20-5dbe-9693-58fcaef7157a",
+      "timestamp_utc": "2026-04-07T19:07:12+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaWxZMmtpaEpoaDJZcjl3N2ptajRpakNTam1jM21OZE9pNW9LZHlwQmo1bVdzaVhsSDZvdEtZblVtOVBTTHZOOUdsRTlINUhHV19kZW1wMXBTRml5aDg0dUdMWlRuS2c5c3ozVE1rbzR6ZzRUWXJNSkVNb3NpV3pSNF9FNk9mQ2E5WDZUMjJDbm5MOEFqRUdmQzRCTl95eWhqd1c0VlA3cDlqOEdSQ3Zna1NoaGx6LVJsaUhBMmRMVmtMVUNpME5xOEdn?oc=5",
+      "title": "The Goldman Sachs Group Forecasts Strong Price Appreciation for M&T Bank (NYSE:MTB) Stock - Defense World",
+      "body": "The Goldman Sachs Group Forecasts Strong Price Appreciation for M&T Bank (NYSE:MTB) Stock Defense World",
       "author": null,
       "language": "en",
       "ticker": "MTB",
@@ -105,20 +105,18 @@
         "MTB"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "defense world",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
         "event_origin": "news",
-        "query_tickers": [
-          "MTB"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.42,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

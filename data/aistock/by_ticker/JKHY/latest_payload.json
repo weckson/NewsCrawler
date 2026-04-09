@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "0d786958-f4ca-5f9b-b171-ea00e7a34056",
-      "timestamp_utc": "2026-03-31T11:14:18+00:00",
-      "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8762636/jkhy-initiated-with-a-buy-rating-by-loop-capital-jkhy-stock-news",
-      "title": "JKHY Initiated with a 'Buy' Rating by Loop Capital | JKHY Stock News - GuruFocus",
-      "body": "JKHY Initiated with a 'Buy' Rating by Loop Capital | JKHY Stock News GuruFocus",
+      "id": "910d26cb-76a2-5509-946d-db34482f7ada",
+      "timestamp_utc": "2026-04-08T11:35:35+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcFM3N0kxOGt0djZVajd2Zmx4dE44VlZBSXI3QjV4aFhQdW1zS202NWpvVGZhcGxPV3NIWk9IRWdCSlJ1NHV4UzFfMFlsTTQ4MG1Zd0pKZVF3NVRKSnVLSWpfWTVIeHFSXzhtdmYxZnl1MVZsLUktOUVLSUF4bE1nVFFnYjJPcXVvUDhCbkJDYU9MUUk?oc=5",
+      "title": "Jack Henry & Associates, Inc. (JKHY) Stock Forecasts - Yahoo! Finance Canada",
+      "body": "Jack Henry & Associates, Inc. (JKHY) Stock Forecasts Yahoo! Finance Canada",
       "author": null,
       "language": "en",
       "ticker": "JKHY",
@@ -15,31 +15,29 @@
         "JKHY"
       ],
       "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
+      "publisher_raw": "yahoo! finance canada",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
         "event_origin": "news",
-        "query_tickers": [
-          "JKHY"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.425,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "0d786958-f4ca-5f9b-b171-ea00e7a34056",
-      "timestamp_utc": "2026-03-31T11:14:18+00:00",
-      "source": "gurufocus",
-      "url": "https://www.gurufocus.com/news/8762636/jkhy-initiated-with-a-buy-rating-by-loop-capital-jkhy-stock-news",
-      "title": "JKHY Initiated with a 'Buy' Rating by Loop Capital | JKHY Stock News - GuruFocus",
-      "body": "JKHY Initiated with a 'Buy' Rating by Loop Capital | JKHY Stock News GuruFocus",
+      "id": "910d26cb-76a2-5509-946d-db34482f7ada",
+      "timestamp_utc": "2026-04-08T11:35:35+00:00",
+      "source": "yahoo!_finance_canada",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcFM3N0kxOGt0djZVajd2Zmx4dE44VlZBSXI3QjV4aFhQdW1zS202NWpvVGZhcGxPV3NIWk9IRWdCSlJ1NHV4UzFfMFlsTTQ4MG1Zd0pKZVF3NVRKSnVLSWpfWTVIeHFSXzhtdmYxZnl1MVZsLUktOUVLSUF4bE1nVFFnYjJPcXVvUDhCbkJDYU9MUUk?oc=5",
+      "title": "Jack Henry & Associates, Inc. (JKHY) Stock Forecasts - Yahoo! Finance Canada",
+      "body": "Jack Henry & Associates, Inc. (JKHY) Stock Forecasts Yahoo! Finance Canada",
       "author": null,
       "language": "en",
       "ticker": "JKHY",
@@ -47,20 +45,18 @@
         "JKHY"
       ],
       "source_quality": "low",
-      "publisher_raw": "gurufocus.com",
+      "publisher_raw": "yahoo! finance canada",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "GuruFocus",
-        "source_domain": "gurufocus.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
+        "source_name": "Yahoo! Finance Canada",
+        "source_domain": "yahoofinancecanada.com",
         "event_origin": "news",
-        "query_tickers": [
-          "JKHY"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.425,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

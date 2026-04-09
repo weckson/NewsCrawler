@@ -2,46 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "c50812b4-85cb-5c6a-b5d3-70455c08c19b",
-      "timestamp_utc": "2026-03-31T15:52:56+00:00",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/news/politics/26/03/51589266/trump-says-well-be-leaving-very-soon-from-iran-and-they-dont-have-to-make-a-deal-dow-futures-spike-96-points",
-      "title": "Trump Says 'We'll Be Leaving Very Soon' From Iran And 'They Don't Have To Make A Deal' — Dow Futures Spik - Benzinga",
-      "body": "Trump Says 'We'll Be Leaving Very Soon' From Iran And 'They Don't Have To Make A Deal' — Dow Futures Spik Benzinga",
-      "author": null,
-      "language": "en",
-      "ticker": "DOW",
-      "tickers_hint": [
-        "DOW",
-        "T"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "benzinga.com",
-      "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW",
-          "T"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "e7c26ed4-443b-5d12-b658-d0093cac51fe",
-      "timestamp_utc": "2026-03-31T10:34:48+00:00",
+      "id": "70c8cb4a-df48-5bb0-ae57-a06f04b8c305",
+      "timestamp_utc": "2026-04-08T10:03:05+00:00",
       "source": "yahoo_finance",
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-soars-1000-points-sp-500-and-nasdaq-surge-in-upbeat-end-to-brutal-quarter-184154822.html",
-      "title": "Stock market today: Dow soars 1,000 points, S&P 500 and Nasdaq surge in upbeat end to brutal quarter - Yahoo Finance",
-      "body": "Stock market today: Dow soars 1,000 points, S&P 500 and Nasdaq surge in upbeat end to brutal quarter Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-soars-over-1000-points-sp-500-and-nasdaq-surge-on-news-of-2-week-us-iran-ceasefire-133232224.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq surge, oil plunges after US-Iran ceasefire sparks relief rally - Yahoo Finance",
+      "body": "Stock market today: Dow, S&P 500, Nasdaq surge, oil plunges after US-Iran ceasefire sparks relief rally Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "DOW",
@@ -50,88 +16,25 @@
       ],
       "source_quality": "high",
       "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "Yahoo Finance",
         "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
+        "event_origin": "news",
         "relevance": 0.65,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.7325,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "33606aba-fde5-5105-916f-3a7e1906a1c7",
-      "timestamp_utc": "2026-04-01T04:33:12+00:00",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/markets/market-summary/26/04/51601173/dow-jumps-over-200-points-nike-shares-tumble-after-q3-results",
-      "title": "Dow Jumps Over 200 Points; Nike Shares Tumble After Q3 Results - Benzinga",
-      "body": "Dow Jumps Over 200 Points; Nike Shares Tumble After Q3 Results Benzinga",
-      "author": null,
-      "language": "en",
-      "ticker": "DOW",
-      "tickers_hint": [
-        "DOW"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "benzinga.com",
-      "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "d07b34e1-d36c-545f-8a96-544115d149da",
-      "timestamp_utc": "2026-04-01T01:30:00+00:00",
-      "source": "yahoo_finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-dow-stocks-set-continue-113000817.html",
-      "title": "Nasdaq and Dow stocks set to continue rally on hopes for end of Iran war - Yahoo Finance",
-      "body": "Nasdaq and Dow stocks set to continue rally on hopes for end of Iran war Yahoo Finance",
-      "author": null,
-      "language": "en",
-      "ticker": "DOW",
-      "tickers_hint": [
-        "DOW"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "finance.yahoo.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
-        "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "26c2851d-9715-5904-b144-c616a2cd4fb5",
-      "timestamp_utc": "2026-03-31T13:26:03+00:00",
+      "id": "4ebcd420-dd10-5ab7-b377-883d873127c7",
+      "timestamp_utc": "2026-04-08T10:13:36+00:00",
       "source": "investopedia",
-      "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-03312026-11937854",
-      "title": "Markets News, March 31, 2026: Stocks End Weak Quarter on High Note as Investors Optimistic Iran War May End Soon; Dow Soars More Than 1,100 Points - Investopedia",
-      "body": "Markets News, March 31, 2026: Stocks End Weak Quarter on High Note as Investors Optimistic Iran War May End Soon; Dow Soars More Than 1,100 Points Investopedia",
+      "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-04082026-11945255",
+      "title": "Markets News, April 8, 2026: U.S. Indexes End Sharply Higher, Oil Plunges as US, Iran Agree to Ceasefire; Dow Jumps 1,300 Points - Investopedia",
+      "body": "Markets News, April 8, 2026: U.S. Indexes End Sharply Higher, Oil Plunges as US, Iran Agree to Ceasefire; Dow Jumps 1,300 Points Investopedia",
       "author": null,
       "language": "en",
       "ticker": "DOW",
@@ -140,27 +43,55 @@
       ],
       "source_quality": "high",
       "publisher_raw": "investopedia.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "Investopedia",
         "source_domain": "investopedia.com",
-        "trust_tier": 3,
+        "event_origin": "news",
         "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.6775,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "e9c09f80-b64a-537f-8c19-618a77cce4f0",
-      "timestamp_utc": "2026-04-01T07:00:29+00:00",
+      "id": "a35a26cc-bac4-5904-9da6-6301beb9723c",
+      "timestamp_utc": "2026-04-07T15:17:45+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaHFrUmZWSnJfdTN3SWVVOTFHZVl2SHE4SG92M3ljN0RVZmhzVjJQN0QtS29RT1pDamg3R05sT3Q2RDJMZG9oU1hoRGtTQm44eF91V2RXS0gxTXNvZ1o2bW9qeEZQT1RScHZZWnc2V3ptRjVoUTdCaldveDlyVmtGQXIzMkJUX3B6ZU95WU5vSFBYdXNZbzltVDZMZmJpc1hMMEdhSmRHdGdQWE92dEVkOE9yTGs?oc=5",
+      "title": "Dow Futures Shoot Up 900 Points, Oil Crashes 13% As Trump Agrees To 'Suspend' Bombing Iran For 2 Weeks In - Benzinga",
+      "body": "Dow Futures Shoot Up 900 Points, Oil Crashes 13% As Trump Agrees To 'Suspend' Bombing Iran For 2 Weeks In Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "DOW",
+      "tickers_hint": [
+        "DOW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.67,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
+    },
+    {
+      "id": "7104c273-781b-5676-9d96-9874028520c7",
+      "timestamp_utc": "2026-04-08T03:33:32+00:00",
       "source": "tipranks",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaURfbXZwdG96UFRaSVpFX05TdVF0RnZ4N043U1NYQmN0UFNKTGYzZ2U0ckNieWc1cnpXNnhNQXBwYVBPMDFuV3pHQTJINGt6bVRWMDl0WFl1b2RST0RpNlYwLXF2aDR3cFRXMDQtYjd4ZDE0STN0TWpVN1NvZ3dvNGFXYy03SU5jYVVvN2xaVHkzNWZBNHVPV2kzSW94M0YxWlR4MXV1N2VZRVYzdkIwR2lR?oc=5",
-      "title": "Dow Jones Today: DJIA Rallies on U.S.-Iran Ceasefire Optimism; Resilient Retail Sales - TipRanks",
-      "body": "Dow Jones Today: DJIA Rallies on U.S.-Iran Ceasefire Optimism; Resilient Retail Sales TipRanks",
+      "url": "https://www.tipranks.com/news/dow-jones-surges-as-u-s-iran-reach-2-week-ceasefire",
+      "title": "Dow Jones Surges as U.S.-Iran Reach 2-Week Ceasefire - TipRanks",
+      "body": "Dow Jones Surges as U.S.-Iran Reach 2-Week Ceasefire TipRanks",
       "author": null,
       "language": "en",
       "ticker": "DOW",
@@ -169,27 +100,79 @@
       ],
       "source_quality": "high",
       "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "TipRanks",
         "source_domain": "tipranks.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
         "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.6625,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "7e2600a5-9343-54f1-8549-0a9eb46a53d4",
-      "timestamp_utc": "2026-04-01T03:30:05+00:00",
+      "id": "58ce3950-9489-5bcf-b3a5-85d9bb0a1271",
+      "timestamp_utc": "2026-04-08T10:28:00+00:00",
+      "source": "cnbc",
+      "url": "https://www.cnbc.com/2026/04/07/stock-market-today-live-updates.html",
+      "title": "Dow jumps 1,300 points for best day since April 2025 as U.S.-Iran ceasefire pushes oil lower: Live updates - CNBC",
+      "body": "Dow jumps 1,300 points for best day since April 2025 as U.S.-Iran ceasefire pushes oil lower: Live updates CNBC",
+      "author": null,
+      "language": "en",
+      "ticker": "DOW",
+      "tickers_hint": [
+        "DOW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "cnbc.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "CNBC",
+        "source_domain": "cnbc.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.65,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "348d04e4-54e2-538f-9467-ee562f2d4d5d",
+      "timestamp_utc": "2026-04-08T08:50:00+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcmxyUWhmSl9udXhQTkljQ2RzUWczVi1KUW03WGs1ZmNtWFhvSS1rRFQyM2JRVVl2RHVfNWZ5OW5uUEdISnlNNXVoY0JHN1pRZDlNV3pSSUdFVlFxNGhTTjFnVi1EZ05yVXEyZ1BiZ01uRHhNaWtWNzhZalE5cFdCVm1qWGhHNU5ycUotbFdCV016aDMxR1FxNVVlcndSVXg1MXp2SUpYOWc1T1I0bnQ5RUJMWQ?oc=5",
+      "title": "Dow Jones And U.S. Stock Market Outlook - Bulls Are Back In Vengeance After The U.S.-Iran Ceasefire - Seeking Alpha",
+      "body": "Dow Jones And U.S. Stock Market Outlook - Bulls Are Back In Vengeance After The U.S.-Iran Ceasefire Seeking Alpha",
+      "author": null,
+      "language": "en",
+      "ticker": "DOW",
+      "tickers_hint": [
+        "DOW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.65,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "996f390b-b957-5d31-ad74-c19193963056",
+      "timestamp_utc": "2026-04-08T06:30:39+00:00",
       "source": "tipranks",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTzI2dUg3TTlSa0piLWZCMzYtSE95TzB0NlpVam5oUGhwbXYxRTF6bDJ5Um45RHJXUkpwOTA1WmxBSUJlTTd3ZUhNYzNpd2pWeGV5U1JzSzZ1VXBRNXJjZm43cnI3ZVloQ1FDSWNlYmFqZVhKUXV5cG52VEd3cEVKeVlNM2Q1cDJmSWtZZG93MA?oc=5",
-      "title": "Dow Jones Advances as Trump Says Iran Requests Ceasefire - TipRanks",
-      "body": "Dow Jones Advances as Trump Says Iran Requests Ceasefire TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc1E3RlpFZU9JeDZnNFpTSTZqWWFuTTJTQWJRSUZqcWt1N2swc09QbXJscUlzdzhXUlhYeDFNMHB5RHBsdWpNWG1teHlXS3RFWmZ5Z3FtcTZaYnoxaUIwcExoZnROVzBjakowODVlVjMxV3c3QlR2MWhiQ25xX0NidFVNVno5bjh0aVNUYmVhY05KX0oySE5FOW9LaFE5UFp4X1JGeDZmR2ZKYXhJ?oc=5",
+      "title": "Dow Jones Today: DJIA Rallies on U.S.-Iran Ceasefire ahead of Friday Peace Talks - TipRanks",
+      "body": "Dow Jones Today: DJIA Rallies on U.S.-Iran Ceasefire ahead of Friday Peace Talks TipRanks",
       "author": null,
       "language": "en",
       "ticker": "DOW",
@@ -198,85 +181,163 @@
       ],
       "source_quality": "high",
       "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "TipRanks",
         "source_domain": "tipranks.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
         "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.635,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "a61e0432-9a7c-552b-bef5-a39374b45637",
-      "timestamp_utc": "2026-04-01T00:06:00+00:00",
-      "source": "motley_fool",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMVpmaU14NmhyMENzMDR2Y0dWWF90YVM0N29Zc3VsdWhqd0xPQUtYMDdwRi1QejVVT0plYlJlSG95UjhqUW9WVTBxLUtHeWtabG9kNmhIUGVScW1jQUM1SjVIV2pQaWYzbEhKM3ZfWng3R2dZOW8wZ2VIZ3h4MV9fSk9BSEM2dW1pUldsbzNfZDhNcktlRGc?oc=5",
-      "title": "This Is the Smartest ETF to Buy as the Dow Jones Industrial Average and Nasdaq Composite Enter Correction Territory - The Motley Fool",
-      "body": "This Is the Smartest ETF to Buy as the Dow Jones Industrial Average and Nasdaq Composite Enter Correction Territory The Motley Fool",
+      "id": "041fd7e0-8eaa-5bc8-beb3-6fc98a729d99",
+      "timestamp_utc": "2026-04-09T00:06:10+00:00",
+      "source": "invezz",
+      "url": "https://invezz.com/news/2026/04/09/dow-futures-plunge-200-points-5-things-to-know-before-market-opens/",
+      "title": "Dow futures plunge 200 points: 5 things to know before market opens - Invezz",
+      "body": "Dow futures plunge 200 points: 5 things to know before market opens Invezz",
       "author": null,
       "language": "en",
       "ticker": "DOW",
       "tickers_hint": [
         "DOW"
       ],
-      "source_quality": "high",
-      "publisher_raw": "fool.com",
+      "source_quality": "medium",
+      "publisher_raw": "invezz",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "The Motley Fool",
-        "source_domain": "fool.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
+        "source_name": "Invezz",
+        "source_domain": "invezz.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.5775,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "1dd3a4f0-8910-56df-9cbc-1f063a3d3037",
-      "timestamp_utc": "2026-03-31T10:44:00+00:00",
-      "source": "marketwatch",
-      "url": "https://www.marketwatch.com/livecoverage/s-p-500-nasdaq-dow-jones-rise-donald-trump-iran-war-strait-of-hormuz?gaa_at=eafs&gaa_n=AWEtsqdXSUe4tpZ3ehWVp-q_v9ubM6kGUi3racvwxyh4M_Ar4NL_6sEfAGiQ&gaa_ts=69cdecb3&gaa_sig=LrMM6EY2yf3cO_suC0EfGjF4KfFDy1f0Wj-Ojvboo7naAOZ-J8nxdJKTB_-h08gIfuic4NxjnYjaM6rucDyq9A%3D%3D",
-      "title": "Stock Market News, March 31, 2026: Dow ends up over 1,100 points, S&P 500 and Nasdaq book best day in nearly a year on optimism about U.S. and Iran's potential openness to ending the war - MarketWatch",
-      "body": "Stock Market News, March 31, 2026: Dow ends up over 1,100 points, S&P 500 and Nasdaq book best day in nearly a year on optimism about U.S. and Iran's potential openness to ending the war MarketWatch",
+      "id": "80391622-2464-52e9-9edc-7f42538f00a1",
+      "timestamp_utc": "2026-04-08T10:29:00+00:00",
+      "source": "ibd",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-iran-ceasefire/",
+      "title": "Stock Market Today: Dow Rallies 1,300 Points Amid Iran Ceasefire; This Chip Stock Breaks Out (Live Coverage) - Investor's Business Daily",
+      "body": "About Us Reviews Site Map Your Ad Choices Advertising Contact us IBD Stock Charts IBD Stock Checkup Stock Quotes Stock Market Today The Big Picture My Stock Lists Terms of Use Privacy Notice Accessibility",
       "author": null,
       "language": "en",
       "ticker": "DOW",
       "tickers_hint": [
         "DOW"
       ],
-      "source_quality": "high",
-      "publisher_raw": "marketwatch.com",
+      "source_quality": "medium",
+      "publisher_raw": "investors.com",
+      "trust_tier": 2,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketWatch",
-        "source_domain": "marketwatch.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
+        "source_name": "Investor's Business Daily",
+        "source_domain": "investors.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.5725,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "e168e78b-54c5-569e-bf32-de1f6bd839e2",
-      "timestamp_utc": "2026-04-01T13:49:29+00:00",
+      "id": "2b88265c-1800-5b25-924b-962ca54e1d29",
+      "timestamp_utc": "2026-04-08T11:16:00+00:00",
+      "source": "ap_news",
+      "url": "https://apnews.com/article/stock-markets-trump-iran-ceasefire-oil-2fc5ac7823bea71984b3578ec36aacee",
+      "title": "Oil plunges below $95 as the Dow surges 1,300 in a worldwide rally following a ceasefire with Iran - AP News",
+      "body": "The narrow, bending waterway in the Persian Gulf is a key trade route between the Middle East and the rest of the world, with global impact. It links crude oil producers in the Middle East to key markets in Asia, Europe, North America and beyond, with around 20% of the world’s traded crude oil, and a similar share of natural gas passing through it. The AP’s Luke Garratt explains.\n\nOil prices are plunging back toward $95 per barrel, and stock markets are surging worldwide after President Donald Trump pulled back from his threat to force a whole civilization to die in the war with Iran.\n\nJohn Mauro works on the floor at the New York Stock Exchange in New York, Tuesday, April 7, 2026. (AP Photo/Seth Wenig)\n\nThe narrow, bending waterway in the Persian Gulf is a key trade route between the Middle East and the rest of the world, with global impact. It links crude oil producers in the Middle East to key markets in Asia, Europe, North America and beyond, with around 20% of the world’s traded crude oil, and a similar share of natural gas passing through it. The AP’s Luke Garratt explains.\n\nOil prices are plunging back toward $95 per barrel, and stock markets are surging worldwide after President Donald Trump pulled back from his threat to force a whole civilization to die in the war with Iran.\n\nJohn Mauro works on the floor at the New York Stock Exchange in New York, Tuesday, April 7, 2026. (AP Photo/Seth Wenig)\n\nJohn Mauro works on the floor at the New York Stock Exchange in New York, Tuesday, April 7, 2026. (AP Photo/Seth Wenig)\n\nNEW YORK (AP) — Oil prices plunged below $95 per barrel, and stock markets surged worldwide Wednesday after President Donald Trump pulled back from his threat to destroy Iran.\n\nThe S&P 500 leaped 2.5% after Trump announced a two-week ceasefire with Iran, less than 90 minutes before a deadline Trump had set for it to open the Strait of Hormuz and allow oil tankers to exit the Persian Gulf. The Dow Jones Industrial Average rallied 1,325 points, or 2.8%, and the Nasdaq composite soared 2.8% following even bigger gains in European and Asian stock markets.\n\nTo be sure, stock prices are still below where they were before the war. And oil prices are still higher because of the threat of a resumption to the war. The ceasefire already looks precarious, and Iran closed the Strait of Hormuz again Wednesday in response to Israeli attacks in Lebanon.\n\nSuch uncertainty caused some of the euphoria that fueled financial markets in the morning to fade as Wednesday’s trading progressed, and financial markets have been prone to sharp and sudden reversals since the war began.\n\n“There is a reason to be optimistic, but it is still too early to tell, because, as you know, after all, it is Trump,” said Takashi Hiroki, chief strategist at MONEX.\n\nWall Street is reacting to the two-week ceasefire in the Iran war.\n\nSo far in the war, Trump has set several deadlines for Iran to open the Strait of Hormuz, a main thoroughfare for oil to reach customers worldwide from the Persian Gulf, and has threatened big repercussions if Iran doesn’t, only to delay them.\n\nIt’s similar to a year ago, when Trump threatened stiff tariffs on imports from other countries on “Liberation Day.” After a couple delays, his administration eventually negotiated lower tariffs with many countries, though still higher than from before his second term. That led some investors to allege Trump “always chickens out,” or “TACO,” if financial markets show enough pain.\n\n“Is it just kicking of the can down the road, moving the goalposts, TACO Tuesday, or whatever metaphor we’d like, to only to have tempers flare and bombs drop again?” Brian Jacobsen, chief economic strategist at Annex Wealth Management, asked about the two-week ceasefire with Iran. “Who knows? But it’s good enough for now to elicit a positive response from the markets.”\n\nThe price for a barrel of benchmark U.S. crude oil plunged 16.4% to settle at $94.41 after almost dropping to $91 earlier in the morning.\n\nBrent crude, the international standard, tumbled 13.3% to $94.75 per barrel. It had briefly topped $119 when worries about the war with Iran were at their highest, but it’s still above its roughly $70 price from before the war.\n\nThe next moves for oil prices will depend on how many oil tankers can start exiting the Strait of Hormuz and how easy their passage is. Despite claims from the White House on Wednesday about an uptick in ships transiting the strait, independent analysts say they have seen no change in traffic through it.\n\nWindward, a maritime intelligence firm that tracks international shipping, said all ships transiting the strait must still coordinate safe passage with Iranian authorities, who are requiring hefty tolls of up to $1 a barrel for outbound oil, paid in cryptocurrency. The largest supertankers carry up to 3 million barrels of crude.\n\nWhite House press secretary Karoline Leavitt said the closing of the strait reported in Iranian state media was “completely unacceptable.” She repeated Trump’s “expectation and demand” that the channel be reopened.\n\nIn Asia, where countries are more reliant on oil from the Middle East, South Korea’s Kospi stock index surged 6.9%. Japan’s Nikkei 225 leaped 5.4%, and Hong Kong’s Hang Seng jumped 3.1%.\n\nEuropean stock indexes rose nearly as much. Germany’s DAX returned 5.1%, and France’s CAC 40 rallied 4.5%.\n\nOn Wall Street, companies with big fuel bills rallied to trim some of the sharp losses taken on worries about oil prices staying high.\n\nUnited Airlines soared 7.9% and cut into its loss for the year, which came into the day at 20.1%. Cruise ship operator Carnival climbed 11.2%.\n\nDelta Air Lines rose 3.7% after it reported stronger results for the latest quarter than analysts expected. CEO Ed Bastian said demand for flights remains strong, and it’s making moves to make up for higher fuel bills. Delta on Tuesday became the latest airline to raise its fees for checking bags.\n\nAll told, the S&P 500 rose 165.96 points to 6,782.81. The Dow Jones Industrial Average jumped 1,325.46 to 47,909.92, and the Nasdaq composite rallied 617.15 to 22,635.00.\n\nIn the bond market, Treasury yields dropped as hopes built that easing oil prices could let the Federal Reserve resume its cuts to interest rates later this year.\n\nThe yield on the 10-year Treasury fell to 4.29% from 4.33% late Tuesday. Lower Treasury yields give a boost to prices for stocks, bonds and all kinds of other investments. They should also ease some of the recent rise in rates for mortgages and other loans taken out by U.S. households and businesses.\n\nWhen oil prices were screaming higher because of the war, some traders were betting on the possibility that the Fed would have to raise interest rates to keep a lid on inflation. Now, they’re seeing a nearly 25% chance that the Fed could resume its cuts to rates in 2026, according to data from CME Group.\n\nAP journalists Yuri Kageyama, Matt Ott, Mayuko Ono, Jon Gambrell and Michael Biesecker contributed to this report.",
+      "author": null,
+      "language": "en",
+      "ticker": "DOW",
+      "tickers_hint": [
+        "DOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "ap news",
+      "trust_tier": 1,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "AP News",
+        "source_domain": "apnews.com",
+        "event_origin": "news",
+        "relevance": 0.65,
+        "quality_score": 0.5625,
+        "_channel": "google_broad",
+        "_alt_sources": [
+          "Spectrum News"
+        ]
+      }
+    },
+    {
+      "id": "d7bef85f-87fe-596b-823a-d8b716f0abbb",
+      "timestamp_utc": "2026-04-08T02:00:00+00:00",
+      "source": "ibd",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcWRqSzRGczJoQVVrVlhWU3kyUTNSeW90V0RKWjJCREt2MjlWdGxiQTdfTUNGOV8wNWJ5TXdQM3ZjOXBDVGxWYTVHa3NKS0UtMlk3WExWbUdnM0xtcUczZHlQVUVPMW4yYW5PQlFpWlE4M2Y5YjZITmZaZENTZU02MGxyLVBOZ1o1WkRtT1pkdTZCc2haRF9BenlOSGhObXFGRGtINUFQeEg3Y0VtQjlwSHdoNEc5aEctLVhVZUtsOUVKTnhrWGNKZQ?oc=5",
+      "title": "Dow Jones Futures Spike 1,300 Points, Oil Prices Dive On Trump-Iran Ceasefire; What To Do Now - Investor's Business Daily",
+      "body": "Dow Jones Futures Spike 1,300 Points, Oil Prices Dive On Trump-Iran Ceasefire; What To Do Now Investor's Business Daily",
+      "author": null,
+      "language": "en",
+      "ticker": "DOW",
+      "tickers_hint": [
+        "DOW"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investors.com",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Investor's Business Daily",
+        "source_domain": "investors.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.56,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "d4ad37b5-f60f-5cd4-8b71-4b6d48ed3697",
+      "timestamp_utc": "2026-04-08T10:10:46+00:00",
+      "source": "kiplinger",
+      "url": "https://www.kiplinger.com/investing/stocks/dow-climbs-1-325-points-in-relief-rally-stock-market-today",
+      "title": "Dow Climbs 1,325 Points in Relief Rally: Stock Market Today - Kiplinger",
+      "body": "Dow Climbs 1,325 Points in Relief Rally: Stock Market Today Kiplinger",
+      "author": null,
+      "language": "en",
+      "ticker": "DOW",
+      "tickers_hint": [
+        "DOW"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "kiplinger.com",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Kiplinger",
+        "source_domain": "kiplinger.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.5575,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "e0c13fc9-6117-54af-9b3f-f5428e2a9e47",
+      "timestamp_utc": "2026-04-07T14:26:21+00:00",
       "source": "investing.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa05yeEY5REZTRFF4OFpSSzRDb2pTWmNjZVhGWllNWWJwbU52OXZ2X3ZaOUllXzIybmYydGozaXo1cHZtRXB3WG5VS2M5X0hJRFFueXNUMXA4LTJ6OElmVUZaT2o5WnB1VWxBdkRXVlByckxUR1hQRFFrUlFDNVh4NTIyWEZ3VnQyMG5OYnljYVYyY3htX1RSc01CVmE4elYydmlWRkRVWDhGRUp4S2NGdGZjVHhwcC15ekNmczJBR0VHTDZ3V2c?oc=5",
-      "title": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.48% - investing.com",
-      "body": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.48% investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTFZYVnM3VEkyX2Z3VnFXdnNiRzdQRllFWTlMQ1Z4QkRYM2tVdXVRNEpDTVpVR0V0dDNWRmFHWFZzQy0zeWw1aFFqUmxHNUI3Mk9wSklELUNWOVg5Sm5pa2VmM21aNDVRZGxwM2NROXp4TjM3c096RVdaZG84UUpoelJfZW1qRHZZaEViQXBTWERWWmFnQVV5MzVPZ0V2aG9ONG1HY29TdUR2bmpoU09vUzVlVk5BVndMSVU0eUZJSzM?oc=5",
+      "title": "Stocks soar, Dow posts best day in a year as Trump, Iran agree to 2-week ceasefire - Investing.com",
+      "body": "Stocks soar, Dow posts best day in a year as Trump, Iran agree to 2-week ceasefire Investing.com",
       "author": null,
       "language": "en",
       "ticker": "DOW",
@@ -285,56 +346,25 @@
       ],
       "source_quality": "medium",
       "publisher_raw": "investing.com",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "investing.com",
+        "source_name": "Investing.com",
         "source_domain": "investing.com",
-        "trust_tier": 2,
-        "relevance": 0.5,
         "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.54,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "c1fe38b3-b660-5b3c-850f-430960e49baf",
-      "timestamp_utc": "2026-04-01T03:39:40+00:00",
-      "source": "tradingview",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbjFMaFE5cTBSYldZUFcyRl9qSWZGbUI4eU45cEluLThKbmEzMlk4UW5KNFAzV1BCMTd1NzhpRU5VcW40X3ZLQ21zYkJaQ1FFeURxd0hYcTlEOUFGcWJTSVZXZUF5akhGdnQtWll0Q1E4TkVOTjJUZkpXS2Z1aWRwb0RqbnJ2bF9MT0JOaXRyWEh3OGhiOTFJSm94enBCbFlnOVBFS1JWbDRsMWlPTjhnZTYxNmdKX19NbWh4S0hoU0FFcXc?oc=5",
-      "title": "Dow Jones jumps over 300 points as hopes of Iran war end lift stocks - TradingView",
-      "body": "Dow Jones jumps over 300 points as hopes of Iran war end lift stocks TradingView",
-      "author": null,
-      "language": "en",
-      "ticker": "DOW",
-      "tickers_hint": [
-        "DOW"
-      ],
-      "source_quality": "medium",
-      "publisher_raw": "tradingview.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "TradingView",
-        "source_domain": "tradingview.com",
-        "trust_tier": 2,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "b9af0ea6-ce98-5b71-9db7-1ee4dc597391",
-      "timestamp_utc": "2026-03-31T05:55:02+00:00",
-      "source": "barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOalE3VDhmUndKVkdSbFNGZmk4MWxHUHVLSE5QX1dIRGpTNXM1TlR4UHRIekJJTUpXVkdzajVjYmd5c1ppeFlrZ1NVaUtTY2s2XzZDbWZVOVZ4cEp4T0hWcndVWW0yc0RLd1dSWGNUQVVMN2dfNUlmNVU5eGxMSDJDYV9kdWJJNTRWYTJHRTdldTBLV1pvekw0TUlLcF9nWENNRldnTg?oc=5",
-      "title": "The Dow Jones May Be Down, But DOW Stock Is Winning in 2026 - Barchart.com",
-      "body": "The Dow Jones May Be Down, But DOW Stock Is Winning in 2026 Barchart.com",
+      "id": "573a6e4e-2850-52a1-9567-6d082b15f03d",
+      "timestamp_utc": "2026-04-08T09:58:13+00:00",
+      "source": "pbs",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1Q1Y3REcC03RURzSHJLREVfMmRMUGNtVHE3cFNZdndKSFhSa0d0bUoySlRiWl9jUmVaSFBBdVdaRjdiOERGVi1nLUdZdGtNYjhPWHYxbEdVQTJ2dkNXSUdGb05jNl9pSDNYQ21pZjhLeGszVEZBUzRBd1FwSUUwTE53OUM2VkpDcGVxOWpSUXJjYWp4RFg4SjV4MXN0NEw1QUhwTVBJYTVhZ9IBrwFBVV95cUxOUG11SVJKdmlsVGdFTFk2N2tqUF9RZGNLbFAwdEpxYl9abTlqTm9XUU5qSGhpU0c1MUZ1bEZiZGljY2ppWjRqZ1k5M0tRYWRPMnhvTW5FcVZxOGUzMmIxRFljeWF6eUV1ZWxTWl9PR3ljVE1vNU9SR2JKWFJzVlZxREJqeUNaMnh0NEppQ2lYTF9iMTA2bXdJbHdMd2M3RGI5cW15Wk5CRzRBQVRicWxn?oc=5",
+      "title": "Oil plunges below $95 as Dow surges 1,100 following Iran ceasefire deal - PBS",
+      "body": "Oil plunges below $95 as Dow surges 1,100 following Iran ceasefire deal PBS",
       "author": null,
       "language": "en",
       "ticker": "DOW",
@@ -342,28 +372,26 @@
         "DOW"
       ],
       "source_quality": "low",
-      "publisher_raw": "barchart.com",
+      "publisher_raw": "pbs",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Barchart.com",
-        "source_domain": "barchartcom.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
+        "source_name": "PBS",
+        "source_domain": "pbs.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.65,
+        "quality_score": 0.5375,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "86304445-1228-5d6b-8ca0-4480354f4d59",
-      "timestamp_utc": "2026-04-01T00:38:00+00:00",
-      "source": "marketpulse.com",
-      "url": "https://www.marketpulse.com/markets/chart-alert-us-stock-indices-rally-smells-like-a-dead-cat-bounce-outlook-on-sp-500-nasdaq-100-and-dow-jones-djia/",
-      "title": "Chart alert: US stock indices rally smells like a dead cat bounce – outlook on S&P 500, Nasdaq 100, and Dow Jones (DJIA) - marketpulse.com",
-      "body": "Chart alert: US stock indices rally smells like a dead cat bounce – outlook on S&P 500, Nasdaq 100, and Dow Jones (DJIA) marketpulse.com",
+      "id": "f75130a8-2659-5b11-8329-a47a7533734f",
+      "timestamp_utc": "2026-04-08T10:04:14+00:00",
+      "source": "the_economic_times",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZW5XX05rZ0ZkU2dVRE81OTdKclIydUhhMVNTZzhCMkVQbEM4a0hBUmlzbFd1alpSal9hb2ZaVDlpN1VRVGppS285WnRIdGZjV1JISUpuUWdzdHdKTmRaR0NWcERFdUNOUEhLc0UyUnRZNnpWRFJjd2pVV1M0STlaWkZkOWJPbXdtaXMyWGpzQWZYQjRCdHNoVVBUQ0pzOXN4Z29lckplMy1ZY3BLMzJDNUFFc3lsQlZIZW5aX2dvTE5RTWRkbVc4X0dFclZXTUFVSGxWdzgzN1ZoY1HSAeABQVVfeXFMTTFjSzBEajdQeEtFOW11ZGg2cHdaQjFfWlI2ZEw5Y1dsN1J0OUI1MUpyd3ZvZmlIZ2NuQkRwcERKa2UyRm1JZ3pteHRHZjJwZkpfUE5ncVIwNDR2TW5ST3J6MUxjSGRsYXBINlQ5TzZVT0V5cXlwTTd0OHZQT05ma25veG9YX19KZnoyclEzSWtIdzNsQVBNc21KSENBVDdDY2d3ZTVEYUJSOHhXbzRfNGs3T0NKMmIwUHV5bW54cFZfZ0VjWFhDU3dlSUkwOUdJdzFTbENJU0VmZjRDdnJNckg?oc=5",
+      "title": "US stocks today: Dow Jones surges 1,300 points, S&P, Nasdaq 2% on U.S.-Iran ceasefire - The Economic Times",
+      "body": "US stocks today: Dow Jones surges 1,300 points, S&P, Nasdaq 2% on U.S.-Iran ceasefire The Economic Times",
       "author": null,
       "language": "en",
       "ticker": "DOW",
@@ -371,28 +399,26 @@
         "DOW"
       ],
       "source_quality": "low",
-      "publisher_raw": "marketpulse.com",
+      "publisher_raw": "the economic times",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "marketpulse.com",
-        "source_domain": "marketpulsecom.com",
-        "trust_tier": 1,
+        "source_name": "The Economic Times",
+        "source_domain": "theeconomictimes.com",
+        "event_origin": "news",
         "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.4975,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "ca8c53ea-38ea-5a9f-8c54-1043d012a934",
-      "timestamp_utc": "2026-04-01T10:36:46+00:00",
-      "source": "msn",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY1A2dmpvdkFKaWQ2VnVhWDNlWmxzWlpma2IxS2JRb0RJaWp6Ul9VcHNsWGFxb0xVX3JCTlMyYVlrc3FuTzI1emd3Nm5zOXZOQmZDcmd0d1NBQ3ZvX1ZoTDBkdnczSzM5a053blZtNUs2aVZnLWJIb0lJb2FRcGdUQmtQblFIRy01ME9YRDEwbmtwMi10Y3VMVkdrdDVRVUVYVjFZd1dyRHcwclg5eGx2UHR4TnZ4OXhPdnAwUk1UWHdZZHEySThXdWFlSTYzTzBhLTVWaw?oc=5",
-      "title": "In a dreadful month for the Dow Jones Index, one stock shined - MSN",
-      "body": "In a dreadful month for the Dow Jones Index, one stock shined MSN",
+      "id": "de55f717-4242-5341-bbdf-dec496293a1b",
+      "timestamp_utc": "2026-04-08T10:21:35+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMnlOTzZnYzAwNnZPYTliZExNMTVhWlItS081SS1vdkRPMHV3X0R0cGtOeG9PNllhS24yOW4ybXJnSjhVQXJqaE1BeVBjaDFvTllnT2VVOWlzd0hmN2luWUdwekpwWTcwa2dJRHJtR0JFZGJ0UUxLUEh4S1FCVC1wWEk3cDJSckxoRmtxTWlMM1U2S2w4ZGtYRGdQaFg2c3l2UWlTd0ljempmMmc2S3JpSHhDVFV1bkFsLXZLVUZWTGFJdnM3YmhkV1UxOGY?oc=5",
+      "title": "Citigroup Raises Price Target for Dow (DOW) to $48.00 while Main - GuruFocus",
+      "body": "Citigroup Raises Price Target for Dow (DOW) to $48.00 while Main GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "DOW",
@@ -400,28 +426,26 @@
         "DOW"
       ],
       "source_quality": "low",
-      "publisher_raw": "msn",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MSN",
-        "source_domain": "msn.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4925,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "b6d79b75-ce67-5604-868d-f3b3d160c678",
-      "timestamp_utc": "2026-04-01T10:00:00+00:00",
-      "source": "diya_tv",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oNEJJNUxSc0VaVmd6aUk3RmJ2U0dWNGRUT1FHZE8zQll3dXFNOF9zSjV0b2hWQTdfcE92MHU4N24zWExPQ1A3bEFfMFBkcnBrS21GMWZLYkI1SnhlSnpfVmxycnJkV0J1ZDFCOHFQdnRiQQ?oc=5",
-      "title": "Dow Jones jumps 1,125 on US-Iran war hopes - Diya TV",
-      "body": "Dow Jones jumps 1,125 on US-Iran war hopes Diya TV",
+      "id": "3d30d0f8-901b-5a5c-bf31-489084fb3f28",
+      "timestamp_utc": "2026-04-08T16:50:53+00:00",
+      "source": "ebc_financial_group",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT3RNZGlkNlRfNGZSSVJhV0dxd2lwS3A3MVI1N2NlUTV5TFJpREVUWURrcG5feDlCaWZvcGMxMkJZcHdvUDhnMWVzbFFrRUFzMXU3aUxZbW5hS01CbHVWcEFaQ0ZxZ3dPSmUwSEVPVjI4Ymh4MWFYcERNTGNtLUZPaDNzaXlOOW8?oc=5",
+      "title": "Dow Jones Rally After Iran Ceasefire Stuns Wall Street - EBC Financial Group",
+      "body": "Dow Jones Rally After Iran Ceasefire Stuns Wall Street EBC Financial Group",
       "author": null,
       "language": "en",
       "ticker": "DOW",
@@ -429,28 +453,215 @@
         "DOW"
       ],
       "source_quality": "low",
-      "publisher_raw": "diya tv",
+      "publisher_raw": "ebc financial group",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Diya TV",
-        "source_domain": "diyatv.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "EBC Financial Group",
+        "source_domain": "ebcfinancialgroup.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4725,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "8f7d226b-9a90-58fa-a3e3-b4f0ec81c183",
-      "timestamp_utc": "2026-04-01T09:48:00+00:00",
+      "id": "cc60d11e-d965-5340-a543-6e7ec805d34d",
+      "timestamp_utc": "2026-04-08T06:51:11+00:00",
+      "source": "fxstreet",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM0tmdUE1V0hEa3hPZHJYaXlGTXRYdndHRlUwQW5jVEpRVmR6OHczRnRIUHVmeXpWRURkUmE3Q25KbHNXNlRGcjltZjk3V1lHN2dGY2NfRXJWLXBxWXZCZ3NxTUp2clN4OTBpNEJ2d3dvTXAydG8zTXlwaDd3YmYwVm5jNXo0TEVYWVN4U2ctTGQ1T09RS3BHTjhfQlllbW80S0hxZjYteWM3MldvWDJjWWN5M0hRalBCUnpxQmRiY0RYYTZVVlRLZEk5T2lmRHU4?oc=5",
+      "title": "Dow Jones Industrial Average futures surge 1,200 points on ceasefire, but cracks are emerging - FXStreet",
+      "body": "Dow Jones Industrial Average futures surge 1,200 points on ceasefire, but cracks are emerging FXStreet",
+      "author": null,
+      "language": "en",
+      "ticker": "DOW",
+      "tickers_hint": [
+        "DOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "fxstreet",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "FXStreet",
+        "source_domain": "fxstreet.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4675,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "d83d610a-0886-5301-82ad-f3bd81e21571",
+      "timestamp_utc": "2026-04-08T18:00:00+00:00",
+      "source": "富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmJoQ2M4X2IyOG5oMUtTU1RYWWN4bUNLZnVQWGNHeDk2ZVVsTXlYQW1lVExKQlF5STFEekR6UWYxSF8tSHc4bFhWbHo4c2pqaTlkbGdwZk45alJ1aHRWZnJHWUYxQkhBMlZKdzZGU1o5YW9iMm0zQnIxTElLQ2h5eXZMQW9Fc3N3SHhQdXNXSTRuUG90eHV6UlZ3UQ?oc=5",
+      "title": "Dow Jones Top Financial Services Headlines at 12 AM ET: Why Fed Rate-Cut Prospects Have Dimmed, With or Without a Cease-Fire | Why ... - 富途牛牛",
+      "body": "Dow Jones Top Financial Services Headlines at 12 AM ET: Why Fed Rate-Cut Prospects Have Dimmed, With or Without a Cease-Fire | Why ... 富途牛牛",
+      "author": null,
+      "language": "en",
+      "ticker": "DOW",
+      "tickers_hint": [
+        "DOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "富途牛牛",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "富途牛牛",
+        "source_domain": ".com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.46,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "9d62a1a1-f0df-5358-9313-9aa22908aa95",
+      "timestamp_utc": "2026-04-08T04:29:26+00:00",
+      "source": "rolling_out",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CeF9OR2gxRVloeWhkbFJUVlpnejdOc1kzMTMtd3NBNGhJNjhPQTJOWk5FMmxIa0JBY2R1XzQ1SEJjQkNTeHM5bnNtcXNqTzNEQnk3blM2ZlNlTkZCak1BbXl3c0ZhVFhSbXF1c1cxWFBxNS1ENmptcnVfVlYydDg?oc=5",
+      "title": "Dow Jones surges 1,378 points on US-Iran ceasefire news - Rolling Out",
+      "body": "Dow Jones surges 1,378 points on US-Iran ceasefire news Rolling Out",
+      "author": null,
+      "language": "en",
+      "ticker": "DOW",
+      "tickers_hint": [
+        "DOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "rolling out",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Rolling Out",
+        "source_domain": "rollingout.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4525,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "cd556adc-e569-5915-9bc6-1d4d163cafae",
+      "timestamp_utc": "2026-04-08T02:57:00+00:00",
+      "source": "cbs_news",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uaUFiZmtTSzdUMjMwYW5jMGlOMTVkbHRrN3BjTDJDRmFKN181QWl0TWNBcWI5TnNSLURIeFN3N3FkTEJWZUUxSXFucXJwUHlxRGVBaDItM0FRQ2VjSGwxT01xOUZ4MDRTaFQxZjRJSGZtN2hWMU9VM2tWeWPSAYIBQVVfeXFMTWh1YmhLMUJ2UmRMdllGRWlxVGJTU3dPUVVxc3BRSVIxZXNrcmpfSDNBZVc3WmNwSlZIQm9Nc1lMd0tJMUVvckMyR0Z3T0hnWnE4N2NhS3hWTVc0dWNVcDljTF9ocTNpOTVoQnE1VW9TVUdZc2UyMGpMeW4zUkRIT0thdw?oc=5",
+      "title": "Dow surges more than 1,300 points as investors embrace U.S.-Iran ceasefire - CBS News",
+      "body": "Dow surges more than 1,300 points as investors embrace U.S.-Iran ceasefire CBS News",
+      "author": null,
+      "language": "en",
+      "ticker": "DOW",
+      "tickers_hint": [
+        "DOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "cbs news",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "CBS News",
+        "source_domain": "cbsnews.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4525,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "0b66f7bb-d391-5a14-9ed1-fce8ed32ce89",
+      "timestamp_utc": "2026-04-08T22:13:09+00:00",
+      "source": "fxstreet",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUkxUT20tU2szcFV4a0F5VzNnVkpaQkl6b1RSbjFnR1czVnRDbEtGZzVqcThacUF1SFU0bVRxV3k5aVRnTE5HUXZKc3VXYXo5Q2lGUE8xamV5WHBRQlV1Q3NrTXNtc3dPcEtzNUJGN2NYZVFlZGdWQ29HWGJDZU43bmNzRkVid3NiczVDdWVfZFdqbFN3eWhkMmRFc2tpYXZEa1p0Rmh4ZklMUQ?oc=5",
+      "title": "Dow Jones futures slip due to fading US-Iran ceasefire optimism - FXStreet",
+      "body": "Dow Jones futures slip due to fading US-Iran ceasefire optimism FXStreet",
+      "author": null,
+      "language": "en",
+      "ticker": "DOW",
+      "tickers_hint": [
+        "DOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "fxstreet",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "FXStreet",
+        "source_domain": "fxstreet.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.445,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "cb421b53-fc3f-5828-85fb-e81fdb77f905",
+      "timestamp_utc": "2026-04-08T10:03:24+00:00",
+      "source": "moomoo",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQU43YmZZY3p3V0hGbXFIMGFHUm9mVHA0MG5iSEFTVDJPZEFnNTJ3bjRYMUxvSEk2MFo1T01TcVVVR3NfSW14cnJPcGhlYzZGWVN0dnA4UE9HRGd0ZGpSWnJNS2cxUlZ3bi1yV2tWcEVKaXlQWGFDNUpJNnNWLXFldjJQWnFsZE94LWlfeUh2RUs?oc=5",
+      "title": "Dow Jones Top Energy Headlines at 4 PM ET: Oil Prices Continue to Tumble After Cease-Fire Despite Slow Reopening of Strait of Hormuz | U.S. ... - Moomoo",
+      "body": "Dow Jones Top Energy Headlines at 4 PM ET: Oil Prices Continue to Tumble After Cease-Fire Despite Slow Reopening of Strait of Hormuz | U.S. ... Moomoo",
+      "author": null,
+      "language": "en",
+      "ticker": "DOW",
+      "tickers_hint": [
+        "DOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "moomoo",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Moomoo",
+        "source_domain": "moomoo.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.44,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "1e5a6f0d-e7f9-5d3c-826f-7594ad57a76f",
+      "timestamp_utc": "2026-04-08T04:23:31+00:00",
+      "source": "marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY1Boam5KYWo5dC1nR0tNT0tzcGRPRG1vT3R1ZUdRU0stZ1JkYUx6dUZPUk9uRUhjZ1F3TTVsUEF5UHI2bnBkbXB5YlQxWkI3R1huX19XRldzMWRnLW1RbEk1SXFkWjhuVlJoR09qRUZYSDZxM3M5d3FMMGtVNEY3YUtLTUF1TlNoa0dNeFB6VTlhdFRIcml5R2pTbGN4ZTROMF9uNVpGLUI5Y0dRMlFhUHNpbw?oc=5",
+      "title": "Dow Jones Transport Average Index hits record high, last up 3% - marketscreener.com",
+      "body": "Dow Jones Transport Average Index hits record high, last up 3% marketscreener.com",
+      "author": null,
+      "language": "en",
+      "ticker": "DOW",
+      "tickers_hint": [
+        "DOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketscreener.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "marketscreener.com",
+        "source_domain": "marketscreenercom.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.44,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "d303cfee-4fb0-5cc7-b087-b0e0df1db666",
+      "timestamp_utc": "2026-04-08T03:40:00+00:00",
       "source": "fxempire",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaklkRVVEM18tMTduOHpyWTVuS3FMdzM1SlhxZzZpa1I1dGJWT2M2SkwwNktLMmJsWjhRc3FpcXBvUXZ2b3ZkRnFZRXJUbmQyUkpMWWZla0lPOGtKcEF0ODd4dmNVRnRiOHE0TndHOGIzNjRFeUFfZ3ZfOUlkS1VMam1zUU9qalRTbUVhdXZaYmFSOEdfNHBHaWVBZnQzTV9pWmx1VGhLdVpvakQ5X2V5WXRCQnl6RTZ3Z2R1U2o2ejNGeXQ4Sk9IWlpXcmY?oc=5",
-      "title": "NASDAQ Index, SP500, Dow Jones Forecasts – NASDAQ Rallies As Western Digital Soars 11% - FXEmpire",
-      "body": "NASDAQ Index, SP500, Dow Jones Forecasts – NASDAQ Rallies As Western Digital Soars 11% FXEmpire",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWxLRkRodDc5YWQyWlRFSDBwM0tmVV9vTnhWQ0FUTS1TUGJ3OFdTS25TQ1ZEMXpWdmUxT1E2TTRRT044VTVPREY0Vlh1ZDFQbF9iVTZ2R1BveERpWmdRZHQtcmhTMUJLaHRUakwtS1E1dWdWZzRRNHFQdEpUT0dzT1duMTN1Sm5PdVoyd0x2Nmk4ZUpzWGR5d2JsRDBIWC1hRk1iYVlmZkRWSVU0cVZMYUpYanpzcE8zNXZDTkF2OXhMbjhPU0E?oc=5",
+      "title": "Nasdaq 100, Dow Jones 30 and S&P 500 Forecasts – US Indices Rise After Ceasefire - FXEmpire",
+      "body": "Nasdaq 100, Dow Jones 30 and S&P 500 Forecasts – US Indices Rise After Ceasefire FXEmpire",
       "author": null,
       "language": "en",
       "ticker": "DOW",
@@ -459,27 +670,25 @@
       ],
       "source_quality": "low",
       "publisher_raw": "fxempire",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "FXEmpire",
         "source_domain": "fxempire.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
         "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.44,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "a12f0cac-04f4-52a4-bc9c-5927924ca33f",
-      "timestamp_utc": "2026-04-01T07:04:46+00:00",
-      "source": "fxstreet",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd01McDAxdXRHZGx2MU1vZENNSi1MMXZrcm9ZQWJ2TWdYb2NJWExMajNhZmVHdlVWQWt6VVlnM1BobUZTVEcyb2tKVkZ5UlBXd3ZKVE8wTEkwYzBMOVQ3Z3ZYdTBrUF93YXBaTm1lSldWWXBFcThlTWlWb29PXzZRd0xLbEhUMUZfSHV1QzJHenlqYmp4aUJKQTFGZDBtUVNVbnJCMk9hdWswOHFZVE1XNExYQQ?oc=5",
-      "title": "Dow Jones Industrial Average rallies as ceasefire hopes lift sentiment - FXStreet",
-      "body": "Dow Jones Industrial Average rallies as ceasefire hopes lift sentiment FXStreet",
+      "id": "9cd33f14-14a5-5f4d-9ddc-3ddf9e5ed5af",
+      "timestamp_utc": "2026-04-08T03:04:32+00:00",
+      "source": "moomoo",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZkVFZTFYU3BtYi0zSEl0blhSWk1Kdm5La2dZZkhxS0hyVFFQVUxsdnJJSGNhbHhjOVVsV2RRY3lodVIwX0gwOE1fTGZJTzVieDRrdnZRRUlGblJvdkplS0VFb1dGT0J4M0UtcmJjdWVmcUhCSkdZalBfeGhPcTZ0UVo4SGs3REQyM0hvT0NZaU1tQThi?oc=5",
+      "title": "Dow Jones Top Markets Headlines at 9 AM ET: Stock Futures Soar After U.S., Iran Walk Back From the Brink | Oil ... - Moomoo",
+      "body": "Dow Jones Top Markets Headlines at 9 AM ET: Stock Futures Soar After U.S., Iran Walk Back From the Brink | Oil ... Moomoo",
       "author": null,
       "language": "en",
       "ticker": "DOW",
@@ -487,202 +696,26 @@
         "DOW"
       ],
       "source_quality": "low",
-      "publisher_raw": "fxstreet",
+      "publisher_raw": "moomoo",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "FXStreet",
-        "source_domain": "fxstreet.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Moomoo",
+        "source_domain": "moomoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.44,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "d5a8b43d-2bef-5ea3-9c02-0138b005724d",
-      "timestamp_utc": "2026-04-01T03:09:49+00:00",
-      "source": "let's_data_science",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONnpkZnZCR250MUxSdk83Y2tuSWNVbHpLcnhtX2VuNzFzVjBUNm50WEtSM1ZtWXR6SFZXc2g0QmdDd1RjcE9sbmc2TkF3V0JPZDR6MWxLV2JMZ1dudEdhWFM0Nm1vUHpVTWVBWFhBX2dKWmt5ZVp2cEpQRTZTQmJiQ2pjWmFTeExEQXduZ19iQQ?oc=5",
-      "title": "Dow Jones Rises On Middle East De-Escalation - Let's Data Science",
-      "body": "Dow Jones Rises On Middle East De-Escalation Let's Data Science",
-      "author": null,
-      "language": "en",
-      "ticker": "DOW",
-      "tickers_hint": [
-        "DOW"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "let's data science",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Let's Data Science",
-        "source_domain": "letsdatascience.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "84ced2ff-4bde-592a-b686-5376714ba4d8",
-      "timestamp_utc": "2026-04-01T02:08:00+00:00",
-      "source": "investor's_business_daily",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbThzcmlZSFRVemhCcXExMmE4U0otSGlXcGNaYVJzOUNvS2FPeE1EcFJFWGRaQTZsTkE2eE5xRkxmZmt6SFplb2lHZWFIeFRPQTRWMmZ2T0ppRUVwT0RKZ1FZY295UlJPY29kS0huTkJxX1dON1U4bUxSZGVWblNZVjBLdXhxTG9RQVhVR0N4U3ZVbW11SHpZOWwydW4xdEM0RXdOcnpYc1NGem1jWlR2elAxMlVkZ3pEMGRLX01R?oc=5",
-      "title": "Dow Jones Futures Rise, Oil Prices Fall Below $100; Trump To Speak To Nation On Iran War - Investor's Business Daily",
-      "body": "Dow Jones Futures Rise, Oil Prices Fall Below $100; Trump To Speak To Nation On Iran War Investor's Business Daily",
-      "author": null,
-      "language": "en",
-      "ticker": "DOW",
-      "tickers_hint": [
-        "DOW"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "investor's business daily",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Investor's Business Daily",
-        "source_domain": "investorsbusinessdaily.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "6d49d975-f7cc-5480-bfd1-8d6e2c485040",
-      "timestamp_utc": "2026-03-31T22:18:30+00:00",
-      "source": "fxstreet",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZlFRbTJjVzJuUGgyZkJwOU5GVVVwY1pVS0VpZDNkem5kdHc2dmFHUktjRmk0S3JOTDlEd3pmcUpnT3cyX0lqaVRCMVdxckxfa1pkLXk5ZVEtcDNwZEJhUTdtdXNmWFRrSlRVa1J6NGVOV1BkT2p2ZGpwOHdsUWpHOUxvODBDdXhvQWJsV3JHWmV4RkRYdjY4aDd6Vjk0bFNkcDY3anpn0gGrAUFVX3lxTFBBRlduYjZhRm5WVmZtRWZSWHFFS0V2eXNzTEUzMm1iUkRLdDY1QXNWLU9ieUNpdTN2U2E0TkpYWlpMZHFEekc3VzZISXlldDJWTnp0ZGluU19lanRmNEpHUHdJeEpETjdiTmtxb3pzTkkzNFI5RFZxZUIzdUlDVUdkTFg2RnpBNUhlUnpCcEczeHZsUmJna25hV3Y3Sml6aXpGX2FCT2pBdDBmaw?oc=5",
-      "title": "Dow Jones futures rise on de-escalating Middle East tensions - FXStreet",
-      "body": "Dow Jones futures rise on de-escalating Middle East tensions FXStreet",
-      "author": null,
-      "language": "en",
-      "ticker": "DOW",
-      "tickers_hint": [
-        "DOW"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "fxstreet",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "FXStreet",
-        "source_domain": "fxstreet.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "450c544c-7537-5e72-8f13-7c2c4e43fa4a",
-      "timestamp_utc": "2026-03-31T14:54:26+00:00",
-      "source": "denver7",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVVNxeHNJWG95RkZOblJrSE9IeUVLQjNsYWtaZ2o3QmRaem9zd0JfMjYybTluSWNlQlNtWU5EVnoxaXc3T0FLNW15dkZoR1FDN0dfbG4zOS1iUFFBcEwxX1NqMTdBQ3ZvckE5T1AzVFdaN3pRR0tDa0xBUmZiNGJCdlJLcGkyNVdOVWxsaEc2VzhHdTFIOFhqc3hwQVRFb1hXMUxMSkNWUDFjUHVPQXdCX1Nma05rRnVnMktqVDNvQVl2cVJ4algwblN4S2lpMkRUazNEQ2RZVQ?oc=5",
-      "title": "Dow jumps over 1,000 points as Trump suggests ending the Iran war without reopening Strait of Hormuz - Denver7",
-      "body": "Dow jumps over 1,000 points as Trump suggests ending the Iran war without reopening Strait of Hormuz Denver7",
-      "author": null,
-      "language": "en",
-      "ticker": "DOW",
-      "tickers_hint": [
-        "DOW"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "denver7",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Denver7",
-        "source_domain": "denver7.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "37b672e0-8c11-5e2c-b4d7-3b87000242b0",
-      "timestamp_utc": "2026-03-31T11:06:27+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/DOW/earnings",
-      "title": "DOW Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "DOW Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
-      "author": null,
-      "language": "en",
-      "ticker": "DOW",
-      "tickers_hint": [
-        "DOW"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "intellectia ai",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "d030303d-3088-5bc9-a1a9-e883c1175de1",
-      "timestamp_utc": "2026-03-31T10:28:00+00:00",
-      "source": "investor's_business_daily",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU2R2OF94MlVTOF9tcGRZRjBBWUJuMnBNTkNNTXR1bmkzdkhuQ2I3TjdNdk5YOXZjWVBWN2s3Ym81QzVjUE04WGs3cHpRTjl4YWZ0ekhRVkdkZndGMGo3d2txOGFHZVROSDJBR3ZlbHlmMG1zM3VKWUJlMHdJSmt4ck1rTE9VS1BPclBYMjNlaGJqZUptU0lodlFTYnJybVkxVzVwS2FGWS1NS1JWQUdxV0RvQQ?oc=5",
-      "title": "Stock Market Today: Dow Gains 1,100 Points Amid Huge Recovery; Micron, Nvidia Score Big Wins (Live Coverage) - Investor's Business Daily",
-      "body": "Stock Market Today: Dow Gains 1,100 Points Amid Huge Recovery; Micron, Nvidia Score Big Wins (Live Coverage) Investor's Business Daily",
-      "author": null,
-      "language": "en",
-      "ticker": "DOW",
-      "tickers_hint": [
-        "DOW"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "investor's business daily",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Investor's Business Daily",
-        "source_domain": "investorsbusinessdaily.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "cabd0ff0-33f8-5310-8445-8ad4c1c07a1a",
-      "timestamp_utc": "2026-03-31T10:05:59+00:00",
+      "id": "45368ccc-9497-5e82-a964-14bad93483ae",
+      "timestamp_utc": "2026-04-07T13:52:17+00:00",
       "source": "cnn",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdFl4cllCRzVqa05rREpVSnR4Zk9sZVEyUm4wUm43RkpFbXpJZkU2UmZpSnFqcXJ4Nl9oR2w2VGIyVFIxUW1yaXU3cWlkVmVCN01fTEtCRmRTTUhOY3VuZC00ZTU2UXZrV2tPZ0NLdERlaEs0YWYwQW4tTlBaSU1EcUk5Sl8?oc=5",
-      "title": "What in the world just happened to the Dow? - CNN",
-      "body": "What in the world just happened to the Dow? CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TMC1lTUpRV0VGWmRwNDFLTktBTlh1RExYWk5rWC1NcV9GQW5icmw3cV80VGVkV05sNlFaeVNqcW8ybVNNd083bEUydkl2SUl2N29vR19lVGU3N2Y3SHdkRUp5WTRCWVhxWHRab0ZtcENNaWpWRnpHN1lqeHhDQQ?oc=5",
+      "title": "Oil plunges, Dow sees its best day in a year after US-Iran ceasefire, but ‘hurdles remain’ - CNN",
+      "body": "Oil plunges, Dow sees its best day in a year after US-Iran ceasefire, but ‘hurdles remain’ CNN",
       "author": null,
       "language": "en",
       "ticker": "DOW",
@@ -691,27 +724,25 @@
       ],
       "source_quality": "low",
       "publisher_raw": "cnn",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "CNN",
         "source_domain": "cnn.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
         "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4325,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "5e4cdef5-758d-5235-bdbe-16569df52574",
-      "timestamp_utc": "2026-03-31T04:17:59+00:00",
-      "source": "forex.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN1NPVGxCUzhDV2RaTGE2aG43SHItcklqMlAtR0V2bUJvUWtnNjAtXzJaQjlXaHpMU0kwTnJ3bHBlNFhPRlh2OWhxWlVXTmo0QzZSTHZRdmtnUTByY3N2NDZoeDJlNVM4dlRiVG5YZXpOMzRGUGt6ZGt1QXViQldUdFJON21UQzBOZktiT2dLb0VtaWRuekdJcUVvdnFxeldaLWZGTjF2dWhSYUdlTWg3V3JWZVQwSEZ6YW5zYTJaZXdLcDB0ZUJLUEdR0gHWAUFVX3lxTE8xQjR1SVhtQm9USzBPNXNfRnFSeEdSM19fdmZiSzgtNEN6Z0RYWUVNamV1V3lhdG9hbC00cHVPQ1poQmh3eGVWTzZQTnB3Yk5OWUppUV9pU2VES00yM0FjMXRmckRLc0hXX0pTTnRsNm1zT0J3SzN6Yl8zWm9zUENsNzZ6WFdQN2dJSzJ4cGRSQzRia0FOMG9uX2R6YlFNMUtleFFQX0Jxcl94Snh0NC1QMXFLRW5QT21PdVkwaU81STZ1c3I0ZnJFbXVib29XcVV2T2NoZ0E?oc=5",
-      "title": "Dow Jones Forecast: DJIA rebounds as Trump seeks exit plan as mixed messaging continues - forex.com",
-      "body": "Dow Jones Forecast: DJIA rebounds as Trump seeks exit plan as mixed messaging continues forex.com",
+      "id": "b406b5f8-80aa-5382-96e3-d03c5596751f",
+      "timestamp_utc": "2026-04-08T21:26:31+00:00",
+      "source": "news.az",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS21lM1psR1pJOElSd2dnS3VMQXZQc3BURUo3NERiOWtDWkVlNHp3ZzFvUUlCLTd5a1VITUhieG5lWmRuT1RVa0RoYzNtNHh4MDBGX0R0c2xWeF82cm92SHMtcXJnLVBkQWh5UXd3TzQ4eXJ1SUdXalR1VXgzOFR3Y242X24?oc=5",
+      "title": "Dow, S&P 500, Nasdaq futures edge lower on Middle East news - News.az",
+      "body": "Dow, S&P 500, Nasdaq futures edge lower on Middle East news News.az",
       "author": null,
       "language": "en",
       "ticker": "DOW",
@@ -719,65 +750,29 @@
         "DOW"
       ],
       "source_quality": "low",
-      "publisher_raw": "forex.com",
+      "publisher_raw": "news.az",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "forex.com",
-        "source_domain": "forexcom.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "News.az",
+        "source_domain": "newsaz.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.43,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "c50812b4-85cb-5c6a-b5d3-70455c08c19b",
-      "timestamp_utc": "2026-03-31T15:52:56+00:00",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/news/politics/26/03/51589266/trump-says-well-be-leaving-very-soon-from-iran-and-they-dont-have-to-make-a-deal-dow-futures-spike-96-points",
-      "title": "Trump Says 'We'll Be Leaving Very Soon' From Iran And 'They Don't Have To Make A Deal' — Dow Futures Spik - Benzinga",
-      "body": "Trump Says 'We'll Be Leaving Very Soon' From Iran And 'They Don't Have To Make A Deal' — Dow Futures Spik Benzinga",
-      "author": null,
-      "language": "en",
-      "ticker": "DOW",
-      "tickers_hint": [
-        "DOW",
-        "T"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "benzinga.com",
-      "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW",
-          "T"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "e7c26ed4-443b-5d12-b658-d0093cac51fe",
-      "timestamp_utc": "2026-03-31T10:34:48+00:00",
+      "id": "70c8cb4a-df48-5bb0-ae57-a06f04b8c305",
+      "timestamp_utc": "2026-04-08T10:03:05+00:00",
       "source": "yahoo_finance",
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-soars-1000-points-sp-500-and-nasdaq-surge-in-upbeat-end-to-brutal-quarter-184154822.html",
-      "title": "Stock market today: Dow soars 1,000 points, S&P 500 and Nasdaq surge in upbeat end to brutal quarter - Yahoo Finance",
-      "body": "Stock market today: Dow soars 1,000 points, S&P 500 and Nasdaq surge in upbeat end to brutal quarter Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-soars-over-1000-points-sp-500-and-nasdaq-surge-on-news-of-2-week-us-iran-ceasefire-133232224.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq surge, oil plunges after US-Iran ceasefire sparks relief rally - Yahoo Finance",
+      "body": "Stock market today: Dow, S&P 500, Nasdaq surge, oil plunges after US-Iran ceasefire sparks relief rally Yahoo Finance",
       "author": null,
       "language": "en",
       "ticker": "DOW",
@@ -786,88 +781,25 @@
       ],
       "source_quality": "high",
       "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "Yahoo Finance",
         "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
+        "event_origin": "news",
         "relevance": 0.65,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.7325,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "33606aba-fde5-5105-916f-3a7e1906a1c7",
-      "timestamp_utc": "2026-04-01T04:33:12+00:00",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/markets/market-summary/26/04/51601173/dow-jumps-over-200-points-nike-shares-tumble-after-q3-results",
-      "title": "Dow Jumps Over 200 Points; Nike Shares Tumble After Q3 Results - Benzinga",
-      "body": "Dow Jumps Over 200 Points; Nike Shares Tumble After Q3 Results Benzinga",
-      "author": null,
-      "language": "en",
-      "ticker": "DOW",
-      "tickers_hint": [
-        "DOW"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "benzinga.com",
-      "meta": {
-        "channel": "google_benzinga",
-        "source_name": "Benzinga",
-        "source_domain": "benzinga.com",
-        "trust_tier": 3,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "alt_sources": [
-          "Benzinga"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "d07b34e1-d36c-545f-8a96-544115d149da",
-      "timestamp_utc": "2026-04-01T01:30:00+00:00",
-      "source": "yahoo_finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-dow-stocks-set-continue-113000817.html",
-      "title": "Nasdaq and Dow stocks set to continue rally on hopes for end of Iran war - Yahoo Finance",
-      "body": "Nasdaq and Dow stocks set to continue rally on hopes for end of Iran war Yahoo Finance",
-      "author": null,
-      "language": "en",
-      "ticker": "DOW",
-      "tickers_hint": [
-        "DOW"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "finance.yahoo.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance",
-        "source_domain": "finance.yahoo.com",
-        "trust_tier": 3,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "26c2851d-9715-5904-b144-c616a2cd4fb5",
-      "timestamp_utc": "2026-03-31T13:26:03+00:00",
+      "id": "4ebcd420-dd10-5ab7-b377-883d873127c7",
+      "timestamp_utc": "2026-04-08T10:13:36+00:00",
       "source": "investopedia",
-      "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-03312026-11937854",
-      "title": "Markets News, March 31, 2026: Stocks End Weak Quarter on High Note as Investors Optimistic Iran War May End Soon; Dow Soars More Than 1,100 Points - Investopedia",
-      "body": "Markets News, March 31, 2026: Stocks End Weak Quarter on High Note as Investors Optimistic Iran War May End Soon; Dow Soars More Than 1,100 Points Investopedia",
+      "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-04082026-11945255",
+      "title": "Markets News, April 8, 2026: U.S. Indexes End Sharply Higher, Oil Plunges as US, Iran Agree to Ceasefire; Dow Jumps 1,300 Points - Investopedia",
+      "body": "Markets News, April 8, 2026: U.S. Indexes End Sharply Higher, Oil Plunges as US, Iran Agree to Ceasefire; Dow Jumps 1,300 Points Investopedia",
       "author": null,
       "language": "en",
       "ticker": "DOW",
@@ -876,27 +808,55 @@
       ],
       "source_quality": "high",
       "publisher_raw": "investopedia.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "Investopedia",
         "source_domain": "investopedia.com",
-        "trust_tier": 3,
+        "event_origin": "news",
         "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.6775,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "e9c09f80-b64a-537f-8c19-618a77cce4f0",
-      "timestamp_utc": "2026-04-01T07:00:29+00:00",
+      "id": "a35a26cc-bac4-5904-9da6-6301beb9723c",
+      "timestamp_utc": "2026-04-07T15:17:45+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaHFrUmZWSnJfdTN3SWVVOTFHZVl2SHE4SG92M3ljN0RVZmhzVjJQN0QtS29RT1pDamg3R05sT3Q2RDJMZG9oU1hoRGtTQm44eF91V2RXS0gxTXNvZ1o2bW9qeEZQT1RScHZZWnc2V3ptRjVoUTdCaldveDlyVmtGQXIzMkJUX3B6ZU95WU5vSFBYdXNZbzltVDZMZmJpc1hMMEdhSmRHdGdQWE92dEVkOE9yTGs?oc=5",
+      "title": "Dow Futures Shoot Up 900 Points, Oil Crashes 13% As Trump Agrees To 'Suspend' Bombing Iran For 2 Weeks In - Benzinga",
+      "body": "Dow Futures Shoot Up 900 Points, Oil Crashes 13% As Trump Agrees To 'Suspend' Bombing Iran For 2 Weeks In Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "DOW",
+      "tickers_hint": [
+        "DOW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.67,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
+    },
+    {
+      "id": "7104c273-781b-5676-9d96-9874028520c7",
+      "timestamp_utc": "2026-04-08T03:33:32+00:00",
       "source": "tipranks",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaURfbXZwdG96UFRaSVpFX05TdVF0RnZ4N043U1NYQmN0UFNKTGYzZ2U0ckNieWc1cnpXNnhNQXBwYVBPMDFuV3pHQTJINGt6bVRWMDl0WFl1b2RST0RpNlYwLXF2aDR3cFRXMDQtYjd4ZDE0STN0TWpVN1NvZ3dvNGFXYy03SU5jYVVvN2xaVHkzNWZBNHVPV2kzSW94M0YxWlR4MXV1N2VZRVYzdkIwR2lR?oc=5",
-      "title": "Dow Jones Today: DJIA Rallies on U.S.-Iran Ceasefire Optimism; Resilient Retail Sales - TipRanks",
-      "body": "Dow Jones Today: DJIA Rallies on U.S.-Iran Ceasefire Optimism; Resilient Retail Sales TipRanks",
+      "url": "https://www.tipranks.com/news/dow-jones-surges-as-u-s-iran-reach-2-week-ceasefire",
+      "title": "Dow Jones Surges as U.S.-Iran Reach 2-Week Ceasefire - TipRanks",
+      "body": "Dow Jones Surges as U.S.-Iran Reach 2-Week Ceasefire TipRanks",
       "author": null,
       "language": "en",
       "ticker": "DOW",
@@ -905,27 +865,79 @@
       ],
       "source_quality": "high",
       "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "TipRanks",
         "source_domain": "tipranks.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
         "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.6625,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "7e2600a5-9343-54f1-8549-0a9eb46a53d4",
-      "timestamp_utc": "2026-04-01T03:30:05+00:00",
+      "id": "58ce3950-9489-5bcf-b3a5-85d9bb0a1271",
+      "timestamp_utc": "2026-04-08T10:28:00+00:00",
+      "source": "cnbc",
+      "url": "https://www.cnbc.com/2026/04/07/stock-market-today-live-updates.html",
+      "title": "Dow jumps 1,300 points for best day since April 2025 as U.S.-Iran ceasefire pushes oil lower: Live updates - CNBC",
+      "body": "Dow jumps 1,300 points for best day since April 2025 as U.S.-Iran ceasefire pushes oil lower: Live updates CNBC",
+      "author": null,
+      "language": "en",
+      "ticker": "DOW",
+      "tickers_hint": [
+        "DOW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "cnbc.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "CNBC",
+        "source_domain": "cnbc.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.65,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "348d04e4-54e2-538f-9467-ee562f2d4d5d",
+      "timestamp_utc": "2026-04-08T08:50:00+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcmxyUWhmSl9udXhQTkljQ2RzUWczVi1KUW03WGs1ZmNtWFhvSS1rRFQyM2JRVVl2RHVfNWZ5OW5uUEdISnlNNXVoY0JHN1pRZDlNV3pSSUdFVlFxNGhTTjFnVi1EZ05yVXEyZ1BiZ01uRHhNaWtWNzhZalE5cFdCVm1qWGhHNU5ycUotbFdCV016aDMxR1FxNVVlcndSVXg1MXp2SUpYOWc1T1I0bnQ5RUJMWQ?oc=5",
+      "title": "Dow Jones And U.S. Stock Market Outlook - Bulls Are Back In Vengeance After The U.S.-Iran Ceasefire - Seeking Alpha",
+      "body": "Dow Jones And U.S. Stock Market Outlook - Bulls Are Back In Vengeance After The U.S.-Iran Ceasefire Seeking Alpha",
+      "author": null,
+      "language": "en",
+      "ticker": "DOW",
+      "tickers_hint": [
+        "DOW"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.65,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "996f390b-b957-5d31-ad74-c19193963056",
+      "timestamp_utc": "2026-04-08T06:30:39+00:00",
       "source": "tipranks",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTzI2dUg3TTlSa0piLWZCMzYtSE95TzB0NlpVam5oUGhwbXYxRTF6bDJ5Um45RHJXUkpwOTA1WmxBSUJlTTd3ZUhNYzNpd2pWeGV5U1JzSzZ1VXBRNXJjZm43cnI3ZVloQ1FDSWNlYmFqZVhKUXV5cG52VEd3cEVKeVlNM2Q1cDJmSWtZZG93MA?oc=5",
-      "title": "Dow Jones Advances as Trump Says Iran Requests Ceasefire - TipRanks",
-      "body": "Dow Jones Advances as Trump Says Iran Requests Ceasefire TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc1E3RlpFZU9JeDZnNFpTSTZqWWFuTTJTQWJRSUZqcWt1N2swc09QbXJscUlzdzhXUlhYeDFNMHB5RHBsdWpNWG1teHlXS3RFWmZ5Z3FtcTZaYnoxaUIwcExoZnROVzBjakowODVlVjMxV3c3QlR2MWhiQ25xX0NidFVNVno5bjh0aVNUYmVhY05KX0oySE5FOW9LaFE5UFp4X1JGeDZmR2ZKYXhJ?oc=5",
+      "title": "Dow Jones Today: DJIA Rallies on U.S.-Iran Ceasefire ahead of Friday Peace Talks - TipRanks",
+      "body": "Dow Jones Today: DJIA Rallies on U.S.-Iran Ceasefire ahead of Friday Peace Talks TipRanks",
       "author": null,
       "language": "en",
       "ticker": "DOW",
@@ -934,85 +946,163 @@
       ],
       "source_quality": "high",
       "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "TipRanks",
         "source_domain": "tipranks.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
         "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.635,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "a61e0432-9a7c-552b-bef5-a39374b45637",
-      "timestamp_utc": "2026-04-01T00:06:00+00:00",
-      "source": "motley_fool",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMVpmaU14NmhyMENzMDR2Y0dWWF90YVM0N29Zc3VsdWhqd0xPQUtYMDdwRi1QejVVT0plYlJlSG95UjhqUW9WVTBxLUtHeWtabG9kNmhIUGVScW1jQUM1SjVIV2pQaWYzbEhKM3ZfWng3R2dZOW8wZ2VIZ3h4MV9fSk9BSEM2dW1pUldsbzNfZDhNcktlRGc?oc=5",
-      "title": "This Is the Smartest ETF to Buy as the Dow Jones Industrial Average and Nasdaq Composite Enter Correction Territory - The Motley Fool",
-      "body": "This Is the Smartest ETF to Buy as the Dow Jones Industrial Average and Nasdaq Composite Enter Correction Territory The Motley Fool",
+      "id": "041fd7e0-8eaa-5bc8-beb3-6fc98a729d99",
+      "timestamp_utc": "2026-04-09T00:06:10+00:00",
+      "source": "invezz",
+      "url": "https://invezz.com/news/2026/04/09/dow-futures-plunge-200-points-5-things-to-know-before-market-opens/",
+      "title": "Dow futures plunge 200 points: 5 things to know before market opens - Invezz",
+      "body": "Dow futures plunge 200 points: 5 things to know before market opens Invezz",
       "author": null,
       "language": "en",
       "ticker": "DOW",
       "tickers_hint": [
         "DOW"
       ],
-      "source_quality": "high",
-      "publisher_raw": "fool.com",
+      "source_quality": "medium",
+      "publisher_raw": "invezz",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "The Motley Fool",
-        "source_domain": "fool.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
+        "source_name": "Invezz",
+        "source_domain": "invezz.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.5775,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "1dd3a4f0-8910-56df-9cbc-1f063a3d3037",
-      "timestamp_utc": "2026-03-31T10:44:00+00:00",
-      "source": "marketwatch",
-      "url": "https://www.marketwatch.com/livecoverage/s-p-500-nasdaq-dow-jones-rise-donald-trump-iran-war-strait-of-hormuz?gaa_at=eafs&gaa_n=AWEtsqdXSUe4tpZ3ehWVp-q_v9ubM6kGUi3racvwxyh4M_Ar4NL_6sEfAGiQ&gaa_ts=69cdecb3&gaa_sig=LrMM6EY2yf3cO_suC0EfGjF4KfFDy1f0Wj-Ojvboo7naAOZ-J8nxdJKTB_-h08gIfuic4NxjnYjaM6rucDyq9A%3D%3D",
-      "title": "Stock Market News, March 31, 2026: Dow ends up over 1,100 points, S&P 500 and Nasdaq book best day in nearly a year on optimism about U.S. and Iran's potential openness to ending the war - MarketWatch",
-      "body": "Stock Market News, March 31, 2026: Dow ends up over 1,100 points, S&P 500 and Nasdaq book best day in nearly a year on optimism about U.S. and Iran's potential openness to ending the war MarketWatch",
+      "id": "80391622-2464-52e9-9edc-7f42538f00a1",
+      "timestamp_utc": "2026-04-08T10:29:00+00:00",
+      "source": "ibd",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-iran-ceasefire/",
+      "title": "Stock Market Today: Dow Rallies 1,300 Points Amid Iran Ceasefire; This Chip Stock Breaks Out (Live Coverage) - Investor's Business Daily",
+      "body": "About Us Reviews Site Map Your Ad Choices Advertising Contact us IBD Stock Charts IBD Stock Checkup Stock Quotes Stock Market Today The Big Picture My Stock Lists Terms of Use Privacy Notice Accessibility",
       "author": null,
       "language": "en",
       "ticker": "DOW",
       "tickers_hint": [
         "DOW"
       ],
-      "source_quality": "high",
-      "publisher_raw": "marketwatch.com",
+      "source_quality": "medium",
+      "publisher_raw": "investors.com",
+      "trust_tier": 2,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketWatch",
-        "source_domain": "marketwatch.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
+        "source_name": "Investor's Business Daily",
+        "source_domain": "investors.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.5725,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "e168e78b-54c5-569e-bf32-de1f6bd839e2",
-      "timestamp_utc": "2026-04-01T13:49:29+00:00",
+      "id": "2b88265c-1800-5b25-924b-962ca54e1d29",
+      "timestamp_utc": "2026-04-08T11:16:00+00:00",
+      "source": "ap_news",
+      "url": "https://apnews.com/article/stock-markets-trump-iran-ceasefire-oil-2fc5ac7823bea71984b3578ec36aacee",
+      "title": "Oil plunges below $95 as the Dow surges 1,300 in a worldwide rally following a ceasefire with Iran - AP News",
+      "body": "The narrow, bending waterway in the Persian Gulf is a key trade route between the Middle East and the rest of the world, with global impact. It links crude oil producers in the Middle East to key markets in Asia, Europe, North America and beyond, with around 20% of the world’s traded crude oil, and a similar share of natural gas passing through it. The AP’s Luke Garratt explains.\n\nOil prices are plunging back toward $95 per barrel, and stock markets are surging worldwide after President Donald Trump pulled back from his threat to force a whole civilization to die in the war with Iran.\n\nJohn Mauro works on the floor at the New York Stock Exchange in New York, Tuesday, April 7, 2026. (AP Photo/Seth Wenig)\n\nThe narrow, bending waterway in the Persian Gulf is a key trade route between the Middle East and the rest of the world, with global impact. It links crude oil producers in the Middle East to key markets in Asia, Europe, North America and beyond, with around 20% of the world’s traded crude oil, and a similar share of natural gas passing through it. The AP’s Luke Garratt explains.\n\nOil prices are plunging back toward $95 per barrel, and stock markets are surging worldwide after President Donald Trump pulled back from his threat to force a whole civilization to die in the war with Iran.\n\nJohn Mauro works on the floor at the New York Stock Exchange in New York, Tuesday, April 7, 2026. (AP Photo/Seth Wenig)\n\nJohn Mauro works on the floor at the New York Stock Exchange in New York, Tuesday, April 7, 2026. (AP Photo/Seth Wenig)\n\nNEW YORK (AP) — Oil prices plunged below $95 per barrel, and stock markets surged worldwide Wednesday after President Donald Trump pulled back from his threat to destroy Iran.\n\nThe S&P 500 leaped 2.5% after Trump announced a two-week ceasefire with Iran, less than 90 minutes before a deadline Trump had set for it to open the Strait of Hormuz and allow oil tankers to exit the Persian Gulf. The Dow Jones Industrial Average rallied 1,325 points, or 2.8%, and the Nasdaq composite soared 2.8% following even bigger gains in European and Asian stock markets.\n\nTo be sure, stock prices are still below where they were before the war. And oil prices are still higher because of the threat of a resumption to the war. The ceasefire already looks precarious, and Iran closed the Strait of Hormuz again Wednesday in response to Israeli attacks in Lebanon.\n\nSuch uncertainty caused some of the euphoria that fueled financial markets in the morning to fade as Wednesday’s trading progressed, and financial markets have been prone to sharp and sudden reversals since the war began.\n\n“There is a reason to be optimistic, but it is still too early to tell, because, as you know, after all, it is Trump,” said Takashi Hiroki, chief strategist at MONEX.\n\nWall Street is reacting to the two-week ceasefire in the Iran war.\n\nSo far in the war, Trump has set several deadlines for Iran to open the Strait of Hormuz, a main thoroughfare for oil to reach customers worldwide from the Persian Gulf, and has threatened big repercussions if Iran doesn’t, only to delay them.\n\nIt’s similar to a year ago, when Trump threatened stiff tariffs on imports from other countries on “Liberation Day.” After a couple delays, his administration eventually negotiated lower tariffs with many countries, though still higher than from before his second term. That led some investors to allege Trump “always chickens out,” or “TACO,” if financial markets show enough pain.\n\n“Is it just kicking of the can down the road, moving the goalposts, TACO Tuesday, or whatever metaphor we’d like, to only to have tempers flare and bombs drop again?” Brian Jacobsen, chief economic strategist at Annex Wealth Management, asked about the two-week ceasefire with Iran. “Who knows? But it’s good enough for now to elicit a positive response from the markets.”\n\nThe price for a barrel of benchmark U.S. crude oil plunged 16.4% to settle at $94.41 after almost dropping to $91 earlier in the morning.\n\nBrent crude, the international standard, tumbled 13.3% to $94.75 per barrel. It had briefly topped $119 when worries about the war with Iran were at their highest, but it’s still above its roughly $70 price from before the war.\n\nThe next moves for oil prices will depend on how many oil tankers can start exiting the Strait of Hormuz and how easy their passage is. Despite claims from the White House on Wednesday about an uptick in ships transiting the strait, independent analysts say they have seen no change in traffic through it.\n\nWindward, a maritime intelligence firm that tracks international shipping, said all ships transiting the strait must still coordinate safe passage with Iranian authorities, who are requiring hefty tolls of up to $1 a barrel for outbound oil, paid in cryptocurrency. The largest supertankers carry up to 3 million barrels of crude.\n\nWhite House press secretary Karoline Leavitt said the closing of the strait reported in Iranian state media was “completely unacceptable.” She repeated Trump’s “expectation and demand” that the channel be reopened.\n\nIn Asia, where countries are more reliant on oil from the Middle East, South Korea’s Kospi stock index surged 6.9%. Japan’s Nikkei 225 leaped 5.4%, and Hong Kong’s Hang Seng jumped 3.1%.\n\nEuropean stock indexes rose nearly as much. Germany’s DAX returned 5.1%, and France’s CAC 40 rallied 4.5%.\n\nOn Wall Street, companies with big fuel bills rallied to trim some of the sharp losses taken on worries about oil prices staying high.\n\nUnited Airlines soared 7.9% and cut into its loss for the year, which came into the day at 20.1%. Cruise ship operator Carnival climbed 11.2%.\n\nDelta Air Lines rose 3.7% after it reported stronger results for the latest quarter than analysts expected. CEO Ed Bastian said demand for flights remains strong, and it’s making moves to make up for higher fuel bills. Delta on Tuesday became the latest airline to raise its fees for checking bags.\n\nAll told, the S&P 500 rose 165.96 points to 6,782.81. The Dow Jones Industrial Average jumped 1,325.46 to 47,909.92, and the Nasdaq composite rallied 617.15 to 22,635.00.\n\nIn the bond market, Treasury yields dropped as hopes built that easing oil prices could let the Federal Reserve resume its cuts to interest rates later this year.\n\nThe yield on the 10-year Treasury fell to 4.29% from 4.33% late Tuesday. Lower Treasury yields give a boost to prices for stocks, bonds and all kinds of other investments. They should also ease some of the recent rise in rates for mortgages and other loans taken out by U.S. households and businesses.\n\nWhen oil prices were screaming higher because of the war, some traders were betting on the possibility that the Fed would have to raise interest rates to keep a lid on inflation. Now, they’re seeing a nearly 25% chance that the Fed could resume its cuts to rates in 2026, according to data from CME Group.\n\nAP journalists Yuri Kageyama, Matt Ott, Mayuko Ono, Jon Gambrell and Michael Biesecker contributed to this report.",
+      "author": null,
+      "language": "en",
+      "ticker": "DOW",
+      "tickers_hint": [
+        "DOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "ap news",
+      "trust_tier": 1,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "AP News",
+        "source_domain": "apnews.com",
+        "event_origin": "news",
+        "relevance": 0.65,
+        "quality_score": 0.5625,
+        "_channel": "google_broad",
+        "_alt_sources": [
+          "Spectrum News"
+        ]
+      }
+    },
+    {
+      "id": "d7bef85f-87fe-596b-823a-d8b716f0abbb",
+      "timestamp_utc": "2026-04-08T02:00:00+00:00",
+      "source": "ibd",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcWRqSzRGczJoQVVrVlhWU3kyUTNSeW90V0RKWjJCREt2MjlWdGxiQTdfTUNGOV8wNWJ5TXdQM3ZjOXBDVGxWYTVHa3NKS0UtMlk3WExWbUdnM0xtcUczZHlQVUVPMW4yYW5PQlFpWlE4M2Y5YjZITmZaZENTZU02MGxyLVBOZ1o1WkRtT1pkdTZCc2haRF9BenlOSGhObXFGRGtINUFQeEg3Y0VtQjlwSHdoNEc5aEctLVhVZUtsOUVKTnhrWGNKZQ?oc=5",
+      "title": "Dow Jones Futures Spike 1,300 Points, Oil Prices Dive On Trump-Iran Ceasefire; What To Do Now - Investor's Business Daily",
+      "body": "Dow Jones Futures Spike 1,300 Points, Oil Prices Dive On Trump-Iran Ceasefire; What To Do Now Investor's Business Daily",
+      "author": null,
+      "language": "en",
+      "ticker": "DOW",
+      "tickers_hint": [
+        "DOW"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "investors.com",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Investor's Business Daily",
+        "source_domain": "investors.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.56,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "d4ad37b5-f60f-5cd4-8b71-4b6d48ed3697",
+      "timestamp_utc": "2026-04-08T10:10:46+00:00",
+      "source": "kiplinger",
+      "url": "https://www.kiplinger.com/investing/stocks/dow-climbs-1-325-points-in-relief-rally-stock-market-today",
+      "title": "Dow Climbs 1,325 Points in Relief Rally: Stock Market Today - Kiplinger",
+      "body": "Dow Climbs 1,325 Points in Relief Rally: Stock Market Today Kiplinger",
+      "author": null,
+      "language": "en",
+      "ticker": "DOW",
+      "tickers_hint": [
+        "DOW"
+      ],
+      "source_quality": "medium",
+      "publisher_raw": "kiplinger.com",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Kiplinger",
+        "source_domain": "kiplinger.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.5575,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "e0c13fc9-6117-54af-9b3f-f5428e2a9e47",
+      "timestamp_utc": "2026-04-07T14:26:21+00:00",
       "source": "investing.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa05yeEY5REZTRFF4OFpSSzRDb2pTWmNjZVhGWllNWWJwbU52OXZ2X3ZaOUllXzIybmYydGozaXo1cHZtRXB3WG5VS2M5X0hJRFFueXNUMXA4LTJ6OElmVUZaT2o5WnB1VWxBdkRXVlByckxUR1hQRFFrUlFDNVh4NTIyWEZ3VnQyMG5OYnljYVYyY3htX1RSc01CVmE4elYydmlWRkRVWDhGRUp4S2NGdGZjVHhwcC15ekNmczJBR0VHTDZ3V2c?oc=5",
-      "title": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.48% - investing.com",
-      "body": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.48% investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTFZYVnM3VEkyX2Z3VnFXdnNiRzdQRllFWTlMQ1Z4QkRYM2tVdXVRNEpDTVpVR0V0dDNWRmFHWFZzQy0zeWw1aFFqUmxHNUI3Mk9wSklELUNWOVg5Sm5pa2VmM21aNDVRZGxwM2NROXp4TjM3c096RVdaZG84UUpoelJfZW1qRHZZaEViQXBTWERWWmFnQVV5MzVPZ0V2aG9ONG1HY29TdUR2bmpoU09vUzVlVk5BVndMSVU0eUZJSzM?oc=5",
+      "title": "Stocks soar, Dow posts best day in a year as Trump, Iran agree to 2-week ceasefire - Investing.com",
+      "body": "Stocks soar, Dow posts best day in a year as Trump, Iran agree to 2-week ceasefire Investing.com",
       "author": null,
       "language": "en",
       "ticker": "DOW",
@@ -1021,56 +1111,25 @@
       ],
       "source_quality": "medium",
       "publisher_raw": "investing.com",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "investing.com",
+        "source_name": "Investing.com",
         "source_domain": "investing.com",
-        "trust_tier": 2,
-        "relevance": 0.5,
         "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.54,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "c1fe38b3-b660-5b3c-850f-430960e49baf",
-      "timestamp_utc": "2026-04-01T03:39:40+00:00",
-      "source": "tradingview",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbjFMaFE5cTBSYldZUFcyRl9qSWZGbUI4eU45cEluLThKbmEzMlk4UW5KNFAzV1BCMTd1NzhpRU5VcW40X3ZLQ21zYkJaQ1FFeURxd0hYcTlEOUFGcWJTSVZXZUF5akhGdnQtWll0Q1E4TkVOTjJUZkpXS2Z1aWRwb0RqbnJ2bF9MT0JOaXRyWEh3OGhiOTFJSm94enBCbFlnOVBFS1JWbDRsMWlPTjhnZTYxNmdKX19NbWh4S0hoU0FFcXc?oc=5",
-      "title": "Dow Jones jumps over 300 points as hopes of Iran war end lift stocks - TradingView",
-      "body": "Dow Jones jumps over 300 points as hopes of Iran war end lift stocks TradingView",
-      "author": null,
-      "language": "en",
-      "ticker": "DOW",
-      "tickers_hint": [
-        "DOW"
-      ],
-      "source_quality": "medium",
-      "publisher_raw": "tradingview.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "TradingView",
-        "source_domain": "tradingview.com",
-        "trust_tier": 2,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "b9af0ea6-ce98-5b71-9db7-1ee4dc597391",
-      "timestamp_utc": "2026-03-31T05:55:02+00:00",
-      "source": "barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOalE3VDhmUndKVkdSbFNGZmk4MWxHUHVLSE5QX1dIRGpTNXM1TlR4UHRIekJJTUpXVkdzajVjYmd5c1ppeFlrZ1NVaUtTY2s2XzZDbWZVOVZ4cEp4T0hWcndVWW0yc0RLd1dSWGNUQVVMN2dfNUlmNVU5eGxMSDJDYV9kdWJJNTRWYTJHRTdldTBLV1pvekw0TUlLcF9nWENNRldnTg?oc=5",
-      "title": "The Dow Jones May Be Down, But DOW Stock Is Winning in 2026 - Barchart.com",
-      "body": "The Dow Jones May Be Down, But DOW Stock Is Winning in 2026 Barchart.com",
+      "id": "573a6e4e-2850-52a1-9567-6d082b15f03d",
+      "timestamp_utc": "2026-04-08T09:58:13+00:00",
+      "source": "pbs",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1Q1Y3REcC03RURzSHJLREVfMmRMUGNtVHE3cFNZdndKSFhSa0d0bUoySlRiWl9jUmVaSFBBdVdaRjdiOERGVi1nLUdZdGtNYjhPWHYxbEdVQTJ2dkNXSUdGb05jNl9pSDNYQ21pZjhLeGszVEZBUzRBd1FwSUUwTE53OUM2VkpDcGVxOWpSUXJjYWp4RFg4SjV4MXN0NEw1QUhwTVBJYTVhZ9IBrwFBVV95cUxOUG11SVJKdmlsVGdFTFk2N2tqUF9RZGNLbFAwdEpxYl9abTlqTm9XUU5qSGhpU0c1MUZ1bEZiZGljY2ppWjRqZ1k5M0tRYWRPMnhvTW5FcVZxOGUzMmIxRFljeWF6eUV1ZWxTWl9PR3ljVE1vNU9SR2JKWFJzVlZxREJqeUNaMnh0NEppQ2lYTF9iMTA2bXdJbHdMd2M3RGI5cW15Wk5CRzRBQVRicWxn?oc=5",
+      "title": "Oil plunges below $95 as Dow surges 1,100 following Iran ceasefire deal - PBS",
+      "body": "Oil plunges below $95 as Dow surges 1,100 following Iran ceasefire deal PBS",
       "author": null,
       "language": "en",
       "ticker": "DOW",
@@ -1078,28 +1137,26 @@
         "DOW"
       ],
       "source_quality": "low",
-      "publisher_raw": "barchart.com",
+      "publisher_raw": "pbs",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Barchart.com",
-        "source_domain": "barchartcom.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
+        "source_name": "PBS",
+        "source_domain": "pbs.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.65,
+        "quality_score": 0.5375,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "86304445-1228-5d6b-8ca0-4480354f4d59",
-      "timestamp_utc": "2026-04-01T00:38:00+00:00",
-      "source": "marketpulse.com",
-      "url": "https://www.marketpulse.com/markets/chart-alert-us-stock-indices-rally-smells-like-a-dead-cat-bounce-outlook-on-sp-500-nasdaq-100-and-dow-jones-djia/",
-      "title": "Chart alert: US stock indices rally smells like a dead cat bounce – outlook on S&P 500, Nasdaq 100, and Dow Jones (DJIA) - marketpulse.com",
-      "body": "Chart alert: US stock indices rally smells like a dead cat bounce – outlook on S&P 500, Nasdaq 100, and Dow Jones (DJIA) marketpulse.com",
+      "id": "f75130a8-2659-5b11-8329-a47a7533734f",
+      "timestamp_utc": "2026-04-08T10:04:14+00:00",
+      "source": "the_economic_times",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZW5XX05rZ0ZkU2dVRE81OTdKclIydUhhMVNTZzhCMkVQbEM4a0hBUmlzbFd1alpSal9hb2ZaVDlpN1VRVGppS285WnRIdGZjV1JISUpuUWdzdHdKTmRaR0NWcERFdUNOUEhLc0UyUnRZNnpWRFJjd2pVV1M0STlaWkZkOWJPbXdtaXMyWGpzQWZYQjRCdHNoVVBUQ0pzOXN4Z29lckplMy1ZY3BLMzJDNUFFc3lsQlZIZW5aX2dvTE5RTWRkbVc4X0dFclZXTUFVSGxWdzgzN1ZoY1HSAeABQVVfeXFMTTFjSzBEajdQeEtFOW11ZGg2cHdaQjFfWlI2ZEw5Y1dsN1J0OUI1MUpyd3ZvZmlIZ2NuQkRwcERKa2UyRm1JZ3pteHRHZjJwZkpfUE5ncVIwNDR2TW5ST3J6MUxjSGRsYXBINlQ5TzZVT0V5cXlwTTd0OHZQT05ma25veG9YX19KZnoyclEzSWtIdzNsQVBNc21KSENBVDdDY2d3ZTVEYUJSOHhXbzRfNGs3T0NKMmIwUHV5bW54cFZfZ0VjWFhDU3dlSUkwOUdJdzFTbENJU0VmZjRDdnJNckg?oc=5",
+      "title": "US stocks today: Dow Jones surges 1,300 points, S&P, Nasdaq 2% on U.S.-Iran ceasefire - The Economic Times",
+      "body": "US stocks today: Dow Jones surges 1,300 points, S&P, Nasdaq 2% on U.S.-Iran ceasefire The Economic Times",
       "author": null,
       "language": "en",
       "ticker": "DOW",
@@ -1107,28 +1164,26 @@
         "DOW"
       ],
       "source_quality": "low",
-      "publisher_raw": "marketpulse.com",
+      "publisher_raw": "the economic times",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "marketpulse.com",
-        "source_domain": "marketpulsecom.com",
-        "trust_tier": 1,
+        "source_name": "The Economic Times",
+        "source_domain": "theeconomictimes.com",
+        "event_origin": "news",
         "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.4975,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "ca8c53ea-38ea-5a9f-8c54-1043d012a934",
-      "timestamp_utc": "2026-04-01T10:36:46+00:00",
-      "source": "msn",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY1A2dmpvdkFKaWQ2VnVhWDNlWmxzWlpma2IxS2JRb0RJaWp6Ul9VcHNsWGFxb0xVX3JCTlMyYVlrc3FuTzI1emd3Nm5zOXZOQmZDcmd0d1NBQ3ZvX1ZoTDBkdnczSzM5a053blZtNUs2aVZnLWJIb0lJb2FRcGdUQmtQblFIRy01ME9YRDEwbmtwMi10Y3VMVkdrdDVRVUVYVjFZd1dyRHcwclg5eGx2UHR4TnZ4OXhPdnAwUk1UWHdZZHEySThXdWFlSTYzTzBhLTVWaw?oc=5",
-      "title": "In a dreadful month for the Dow Jones Index, one stock shined - MSN",
-      "body": "In a dreadful month for the Dow Jones Index, one stock shined MSN",
+      "id": "de55f717-4242-5341-bbdf-dec496293a1b",
+      "timestamp_utc": "2026-04-08T10:21:35+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMnlOTzZnYzAwNnZPYTliZExNMTVhWlItS081SS1vdkRPMHV3X0R0cGtOeG9PNllhS24yOW4ybXJnSjhVQXJqaE1BeVBjaDFvTllnT2VVOWlzd0hmN2luWUdwekpwWTcwa2dJRHJtR0JFZGJ0UUxLUEh4S1FCVC1wWEk3cDJSckxoRmtxTWlMM1U2S2w4ZGtYRGdQaFg2c3l2UWlTd0ljempmMmc2S3JpSHhDVFV1bkFsLXZLVUZWTGFJdnM3YmhkV1UxOGY?oc=5",
+      "title": "Citigroup Raises Price Target for Dow (DOW) to $48.00 while Main - GuruFocus",
+      "body": "Citigroup Raises Price Target for Dow (DOW) to $48.00 while Main GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "DOW",
@@ -1136,28 +1191,26 @@
         "DOW"
       ],
       "source_quality": "low",
-      "publisher_raw": "msn",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MSN",
-        "source_domain": "msn.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4925,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "b6d79b75-ce67-5604-868d-f3b3d160c678",
-      "timestamp_utc": "2026-04-01T10:00:00+00:00",
-      "source": "diya_tv",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oNEJJNUxSc0VaVmd6aUk3RmJ2U0dWNGRUT1FHZE8zQll3dXFNOF9zSjV0b2hWQTdfcE92MHU4N24zWExPQ1A3bEFfMFBkcnBrS21GMWZLYkI1SnhlSnpfVmxycnJkV0J1ZDFCOHFQdnRiQQ?oc=5",
-      "title": "Dow Jones jumps 1,125 on US-Iran war hopes - Diya TV",
-      "body": "Dow Jones jumps 1,125 on US-Iran war hopes Diya TV",
+      "id": "3d30d0f8-901b-5a5c-bf31-489084fb3f28",
+      "timestamp_utc": "2026-04-08T16:50:53+00:00",
+      "source": "ebc_financial_group",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT3RNZGlkNlRfNGZSSVJhV0dxd2lwS3A3MVI1N2NlUTV5TFJpREVUWURrcG5feDlCaWZvcGMxMkJZcHdvUDhnMWVzbFFrRUFzMXU3aUxZbW5hS01CbHVWcEFaQ0ZxZ3dPSmUwSEVPVjI4Ymh4MWFYcERNTGNtLUZPaDNzaXlOOW8?oc=5",
+      "title": "Dow Jones Rally After Iran Ceasefire Stuns Wall Street - EBC Financial Group",
+      "body": "Dow Jones Rally After Iran Ceasefire Stuns Wall Street EBC Financial Group",
       "author": null,
       "language": "en",
       "ticker": "DOW",
@@ -1165,28 +1218,215 @@
         "DOW"
       ],
       "source_quality": "low",
-      "publisher_raw": "diya tv",
+      "publisher_raw": "ebc financial group",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Diya TV",
-        "source_domain": "diyatv.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "EBC Financial Group",
+        "source_domain": "ebcfinancialgroup.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4725,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "8f7d226b-9a90-58fa-a3e3-b4f0ec81c183",
-      "timestamp_utc": "2026-04-01T09:48:00+00:00",
+      "id": "cc60d11e-d965-5340-a543-6e7ec805d34d",
+      "timestamp_utc": "2026-04-08T06:51:11+00:00",
+      "source": "fxstreet",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM0tmdUE1V0hEa3hPZHJYaXlGTXRYdndHRlUwQW5jVEpRVmR6OHczRnRIUHVmeXpWRURkUmE3Q25KbHNXNlRGcjltZjk3V1lHN2dGY2NfRXJWLXBxWXZCZ3NxTUp2clN4OTBpNEJ2d3dvTXAydG8zTXlwaDd3YmYwVm5jNXo0TEVYWVN4U2ctTGQ1T09RS3BHTjhfQlllbW80S0hxZjYteWM3MldvWDJjWWN5M0hRalBCUnpxQmRiY0RYYTZVVlRLZEk5T2lmRHU4?oc=5",
+      "title": "Dow Jones Industrial Average futures surge 1,200 points on ceasefire, but cracks are emerging - FXStreet",
+      "body": "Dow Jones Industrial Average futures surge 1,200 points on ceasefire, but cracks are emerging FXStreet",
+      "author": null,
+      "language": "en",
+      "ticker": "DOW",
+      "tickers_hint": [
+        "DOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "fxstreet",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "FXStreet",
+        "source_domain": "fxstreet.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4675,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "d83d610a-0886-5301-82ad-f3bd81e21571",
+      "timestamp_utc": "2026-04-08T18:00:00+00:00",
+      "source": "富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmJoQ2M4X2IyOG5oMUtTU1RYWWN4bUNLZnVQWGNHeDk2ZVVsTXlYQW1lVExKQlF5STFEekR6UWYxSF8tSHc4bFhWbHo4c2pqaTlkbGdwZk45alJ1aHRWZnJHWUYxQkhBMlZKdzZGU1o5YW9iMm0zQnIxTElLQ2h5eXZMQW9Fc3N3SHhQdXNXSTRuUG90eHV6UlZ3UQ?oc=5",
+      "title": "Dow Jones Top Financial Services Headlines at 12 AM ET: Why Fed Rate-Cut Prospects Have Dimmed, With or Without a Cease-Fire | Why ... - 富途牛牛",
+      "body": "Dow Jones Top Financial Services Headlines at 12 AM ET: Why Fed Rate-Cut Prospects Have Dimmed, With or Without a Cease-Fire | Why ... 富途牛牛",
+      "author": null,
+      "language": "en",
+      "ticker": "DOW",
+      "tickers_hint": [
+        "DOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "富途牛牛",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "富途牛牛",
+        "source_domain": ".com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.46,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "9d62a1a1-f0df-5358-9313-9aa22908aa95",
+      "timestamp_utc": "2026-04-08T04:29:26+00:00",
+      "source": "rolling_out",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CeF9OR2gxRVloeWhkbFJUVlpnejdOc1kzMTMtd3NBNGhJNjhPQTJOWk5FMmxIa0JBY2R1XzQ1SEJjQkNTeHM5bnNtcXNqTzNEQnk3blM2ZlNlTkZCak1BbXl3c0ZhVFhSbXF1c1cxWFBxNS1ENmptcnVfVlYydDg?oc=5",
+      "title": "Dow Jones surges 1,378 points on US-Iran ceasefire news - Rolling Out",
+      "body": "Dow Jones surges 1,378 points on US-Iran ceasefire news Rolling Out",
+      "author": null,
+      "language": "en",
+      "ticker": "DOW",
+      "tickers_hint": [
+        "DOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "rolling out",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Rolling Out",
+        "source_domain": "rollingout.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4525,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "cd556adc-e569-5915-9bc6-1d4d163cafae",
+      "timestamp_utc": "2026-04-08T02:57:00+00:00",
+      "source": "cbs_news",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uaUFiZmtTSzdUMjMwYW5jMGlOMTVkbHRrN3BjTDJDRmFKN181QWl0TWNBcWI5TnNSLURIeFN3N3FkTEJWZUUxSXFucXJwUHlxRGVBaDItM0FRQ2VjSGwxT01xOUZ4MDRTaFQxZjRJSGZtN2hWMU9VM2tWeWPSAYIBQVVfeXFMTWh1YmhLMUJ2UmRMdllGRWlxVGJTU3dPUVVxc3BRSVIxZXNrcmpfSDNBZVc3WmNwSlZIQm9Nc1lMd0tJMUVvckMyR0Z3T0hnWnE4N2NhS3hWTVc0dWNVcDljTF9ocTNpOTVoQnE1VW9TVUdZc2UyMGpMeW4zUkRIT0thdw?oc=5",
+      "title": "Dow surges more than 1,300 points as investors embrace U.S.-Iran ceasefire - CBS News",
+      "body": "Dow surges more than 1,300 points as investors embrace U.S.-Iran ceasefire CBS News",
+      "author": null,
+      "language": "en",
+      "ticker": "DOW",
+      "tickers_hint": [
+        "DOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "cbs news",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "CBS News",
+        "source_domain": "cbsnews.com",
+        "event_origin": "news",
+        "relevance": 0.55,
+        "quality_score": 0.4525,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "0b66f7bb-d391-5a14-9ed1-fce8ed32ce89",
+      "timestamp_utc": "2026-04-08T22:13:09+00:00",
+      "source": "fxstreet",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUkxUT20tU2szcFV4a0F5VzNnVkpaQkl6b1RSbjFnR1czVnRDbEtGZzVqcThacUF1SFU0bVRxV3k5aVRnTE5HUXZKc3VXYXo5Q2lGUE8xamV5WHBRQlV1Q3NrTXNtc3dPcEtzNUJGN2NYZVFlZGdWQ29HWGJDZU43bmNzRkVid3NiczVDdWVfZFdqbFN3eWhkMmRFc2tpYXZEa1p0Rmh4ZklMUQ?oc=5",
+      "title": "Dow Jones futures slip due to fading US-Iran ceasefire optimism - FXStreet",
+      "body": "Dow Jones futures slip due to fading US-Iran ceasefire optimism FXStreet",
+      "author": null,
+      "language": "en",
+      "ticker": "DOW",
+      "tickers_hint": [
+        "DOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "fxstreet",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "FXStreet",
+        "source_domain": "fxstreet.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.445,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "cb421b53-fc3f-5828-85fb-e81fdb77f905",
+      "timestamp_utc": "2026-04-08T10:03:24+00:00",
+      "source": "moomoo",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQU43YmZZY3p3V0hGbXFIMGFHUm9mVHA0MG5iSEFTVDJPZEFnNTJ3bjRYMUxvSEk2MFo1T01TcVVVR3NfSW14cnJPcGhlYzZGWVN0dnA4UE9HRGd0ZGpSWnJNS2cxUlZ3bi1yV2tWcEVKaXlQWGFDNUpJNnNWLXFldjJQWnFsZE94LWlfeUh2RUs?oc=5",
+      "title": "Dow Jones Top Energy Headlines at 4 PM ET: Oil Prices Continue to Tumble After Cease-Fire Despite Slow Reopening of Strait of Hormuz | U.S. ... - Moomoo",
+      "body": "Dow Jones Top Energy Headlines at 4 PM ET: Oil Prices Continue to Tumble After Cease-Fire Despite Slow Reopening of Strait of Hormuz | U.S. ... Moomoo",
+      "author": null,
+      "language": "en",
+      "ticker": "DOW",
+      "tickers_hint": [
+        "DOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "moomoo",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Moomoo",
+        "source_domain": "moomoo.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.44,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "1e5a6f0d-e7f9-5d3c-826f-7594ad57a76f",
+      "timestamp_utc": "2026-04-08T04:23:31+00:00",
+      "source": "marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY1Boam5KYWo5dC1nR0tNT0tzcGRPRG1vT3R1ZUdRU0stZ1JkYUx6dUZPUk9uRUhjZ1F3TTVsUEF5UHI2bnBkbXB5YlQxWkI3R1huX19XRldzMWRnLW1RbEk1SXFkWjhuVlJoR09qRUZYSDZxM3M5d3FMMGtVNEY3YUtLTUF1TlNoa0dNeFB6VTlhdFRIcml5R2pTbGN4ZTROMF9uNVpGLUI5Y0dRMlFhUHNpbw?oc=5",
+      "title": "Dow Jones Transport Average Index hits record high, last up 3% - marketscreener.com",
+      "body": "Dow Jones Transport Average Index hits record high, last up 3% marketscreener.com",
+      "author": null,
+      "language": "en",
+      "ticker": "DOW",
+      "tickers_hint": [
+        "DOW"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketscreener.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "marketscreener.com",
+        "source_domain": "marketscreenercom.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.44,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "d303cfee-4fb0-5cc7-b087-b0e0df1db666",
+      "timestamp_utc": "2026-04-08T03:40:00+00:00",
       "source": "fxempire",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaklkRVVEM18tMTduOHpyWTVuS3FMdzM1SlhxZzZpa1I1dGJWT2M2SkwwNktLMmJsWjhRc3FpcXBvUXZ2b3ZkRnFZRXJUbmQyUkpMWWZla0lPOGtKcEF0ODd4dmNVRnRiOHE0TndHOGIzNjRFeUFfZ3ZfOUlkS1VMam1zUU9qalRTbUVhdXZaYmFSOEdfNHBHaWVBZnQzTV9pWmx1VGhLdVpvakQ5X2V5WXRCQnl6RTZ3Z2R1U2o2ejNGeXQ4Sk9IWlpXcmY?oc=5",
-      "title": "NASDAQ Index, SP500, Dow Jones Forecasts – NASDAQ Rallies As Western Digital Soars 11% - FXEmpire",
-      "body": "NASDAQ Index, SP500, Dow Jones Forecasts – NASDAQ Rallies As Western Digital Soars 11% FXEmpire",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWxLRkRodDc5YWQyWlRFSDBwM0tmVV9vTnhWQ0FUTS1TUGJ3OFdTS25TQ1ZEMXpWdmUxT1E2TTRRT044VTVPREY0Vlh1ZDFQbF9iVTZ2R1BveERpWmdRZHQtcmhTMUJLaHRUakwtS1E1dWdWZzRRNHFQdEpUT0dzT1duMTN1Sm5PdVoyd0x2Nmk4ZUpzWGR5d2JsRDBIWC1hRk1iYVlmZkRWSVU0cVZMYUpYanpzcE8zNXZDTkF2OXhMbjhPU0E?oc=5",
+      "title": "Nasdaq 100, Dow Jones 30 and S&P 500 Forecasts – US Indices Rise After Ceasefire - FXEmpire",
+      "body": "Nasdaq 100, Dow Jones 30 and S&P 500 Forecasts – US Indices Rise After Ceasefire FXEmpire",
       "author": null,
       "language": "en",
       "ticker": "DOW",
@@ -1195,27 +1435,25 @@
       ],
       "source_quality": "low",
       "publisher_raw": "fxempire",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "FXEmpire",
         "source_domain": "fxempire.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
         "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.44,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "a12f0cac-04f4-52a4-bc9c-5927924ca33f",
-      "timestamp_utc": "2026-04-01T07:04:46+00:00",
-      "source": "fxstreet",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd01McDAxdXRHZGx2MU1vZENNSi1MMXZrcm9ZQWJ2TWdYb2NJWExMajNhZmVHdlVWQWt6VVlnM1BobUZTVEcyb2tKVkZ5UlBXd3ZKVE8wTEkwYzBMOVQ3Z3ZYdTBrUF93YXBaTm1lSldWWXBFcThlTWlWb29PXzZRd0xLbEhUMUZfSHV1QzJHenlqYmp4aUJKQTFGZDBtUVNVbnJCMk9hdWswOHFZVE1XNExYQQ?oc=5",
-      "title": "Dow Jones Industrial Average rallies as ceasefire hopes lift sentiment - FXStreet",
-      "body": "Dow Jones Industrial Average rallies as ceasefire hopes lift sentiment FXStreet",
+      "id": "9cd33f14-14a5-5f4d-9ddc-3ddf9e5ed5af",
+      "timestamp_utc": "2026-04-08T03:04:32+00:00",
+      "source": "moomoo",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZkVFZTFYU3BtYi0zSEl0blhSWk1Kdm5La2dZZkhxS0hyVFFQVUxsdnJJSGNhbHhjOVVsV2RRY3lodVIwX0gwOE1fTGZJTzVieDRrdnZRRUlGblJvdkplS0VFb1dGT0J4M0UtcmJjdWVmcUhCSkdZalBfeGhPcTZ0UVo4SGs3REQyM0hvT0NZaU1tQThi?oc=5",
+      "title": "Dow Jones Top Markets Headlines at 9 AM ET: Stock Futures Soar After U.S., Iran Walk Back From the Brink | Oil ... - Moomoo",
+      "body": "Dow Jones Top Markets Headlines at 9 AM ET: Stock Futures Soar After U.S., Iran Walk Back From the Brink | Oil ... Moomoo",
       "author": null,
       "language": "en",
       "ticker": "DOW",
@@ -1223,202 +1461,26 @@
         "DOW"
       ],
       "source_quality": "low",
-      "publisher_raw": "fxstreet",
+      "publisher_raw": "moomoo",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "FXStreet",
-        "source_domain": "fxstreet.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Moomoo",
+        "source_domain": "moomoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.44,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "d5a8b43d-2bef-5ea3-9c02-0138b005724d",
-      "timestamp_utc": "2026-04-01T03:09:49+00:00",
-      "source": "let's_data_science",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONnpkZnZCR250MUxSdk83Y2tuSWNVbHpLcnhtX2VuNzFzVjBUNm50WEtSM1ZtWXR6SFZXc2g0QmdDd1RjcE9sbmc2TkF3V0JPZDR6MWxLV2JMZ1dudEdhWFM0Nm1vUHpVTWVBWFhBX2dKWmt5ZVp2cEpQRTZTQmJiQ2pjWmFTeExEQXduZ19iQQ?oc=5",
-      "title": "Dow Jones Rises On Middle East De-Escalation - Let's Data Science",
-      "body": "Dow Jones Rises On Middle East De-Escalation Let's Data Science",
-      "author": null,
-      "language": "en",
-      "ticker": "DOW",
-      "tickers_hint": [
-        "DOW"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "let's data science",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Let's Data Science",
-        "source_domain": "letsdatascience.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "84ced2ff-4bde-592a-b686-5376714ba4d8",
-      "timestamp_utc": "2026-04-01T02:08:00+00:00",
-      "source": "investor's_business_daily",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbThzcmlZSFRVemhCcXExMmE4U0otSGlXcGNaYVJzOUNvS2FPeE1EcFJFWGRaQTZsTkE2eE5xRkxmZmt6SFplb2lHZWFIeFRPQTRWMmZ2T0ppRUVwT0RKZ1FZY295UlJPY29kS0huTkJxX1dON1U4bUxSZGVWblNZVjBLdXhxTG9RQVhVR0N4U3ZVbW11SHpZOWwydW4xdEM0RXdOcnpYc1NGem1jWlR2elAxMlVkZ3pEMGRLX01R?oc=5",
-      "title": "Dow Jones Futures Rise, Oil Prices Fall Below $100; Trump To Speak To Nation On Iran War - Investor's Business Daily",
-      "body": "Dow Jones Futures Rise, Oil Prices Fall Below $100; Trump To Speak To Nation On Iran War Investor's Business Daily",
-      "author": null,
-      "language": "en",
-      "ticker": "DOW",
-      "tickers_hint": [
-        "DOW"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "investor's business daily",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Investor's Business Daily",
-        "source_domain": "investorsbusinessdaily.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "6d49d975-f7cc-5480-bfd1-8d6e2c485040",
-      "timestamp_utc": "2026-03-31T22:18:30+00:00",
-      "source": "fxstreet",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZlFRbTJjVzJuUGgyZkJwOU5GVVVwY1pVS0VpZDNkem5kdHc2dmFHUktjRmk0S3JOTDlEd3pmcUpnT3cyX0lqaVRCMVdxckxfa1pkLXk5ZVEtcDNwZEJhUTdtdXNmWFRrSlRVa1J6NGVOV1BkT2p2ZGpwOHdsUWpHOUxvODBDdXhvQWJsV3JHWmV4RkRYdjY4aDd6Vjk0bFNkcDY3anpn0gGrAUFVX3lxTFBBRlduYjZhRm5WVmZtRWZSWHFFS0V2eXNzTEUzMm1iUkRLdDY1QXNWLU9ieUNpdTN2U2E0TkpYWlpMZHFEekc3VzZISXlldDJWTnp0ZGluU19lanRmNEpHUHdJeEpETjdiTmtxb3pzTkkzNFI5RFZxZUIzdUlDVUdkTFg2RnpBNUhlUnpCcEczeHZsUmJna25hV3Y3Sml6aXpGX2FCT2pBdDBmaw?oc=5",
-      "title": "Dow Jones futures rise on de-escalating Middle East tensions - FXStreet",
-      "body": "Dow Jones futures rise on de-escalating Middle East tensions FXStreet",
-      "author": null,
-      "language": "en",
-      "ticker": "DOW",
-      "tickers_hint": [
-        "DOW"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "fxstreet",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "FXStreet",
-        "source_domain": "fxstreet.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "450c544c-7537-5e72-8f13-7c2c4e43fa4a",
-      "timestamp_utc": "2026-03-31T14:54:26+00:00",
-      "source": "denver7",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVVNxeHNJWG95RkZOblJrSE9IeUVLQjNsYWtaZ2o3QmRaem9zd0JfMjYybTluSWNlQlNtWU5EVnoxaXc3T0FLNW15dkZoR1FDN0dfbG4zOS1iUFFBcEwxX1NqMTdBQ3ZvckE5T1AzVFdaN3pRR0tDa0xBUmZiNGJCdlJLcGkyNVdOVWxsaEc2VzhHdTFIOFhqc3hwQVRFb1hXMUxMSkNWUDFjUHVPQXdCX1Nma05rRnVnMktqVDNvQVl2cVJ4algwblN4S2lpMkRUazNEQ2RZVQ?oc=5",
-      "title": "Dow jumps over 1,000 points as Trump suggests ending the Iran war without reopening Strait of Hormuz - Denver7",
-      "body": "Dow jumps over 1,000 points as Trump suggests ending the Iran war without reopening Strait of Hormuz Denver7",
-      "author": null,
-      "language": "en",
-      "ticker": "DOW",
-      "tickers_hint": [
-        "DOW"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "denver7",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Denver7",
-        "source_domain": "denver7.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "37b672e0-8c11-5e2c-b4d7-3b87000242b0",
-      "timestamp_utc": "2026-03-31T11:06:27+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/DOW/earnings",
-      "title": "DOW Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "DOW Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
-      "author": null,
-      "language": "en",
-      "ticker": "DOW",
-      "tickers_hint": [
-        "DOW"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "intellectia ai",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "d030303d-3088-5bc9-a1a9-e883c1175de1",
-      "timestamp_utc": "2026-03-31T10:28:00+00:00",
-      "source": "investor's_business_daily",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU2R2OF94MlVTOF9tcGRZRjBBWUJuMnBNTkNNTXR1bmkzdkhuQ2I3TjdNdk5YOXZjWVBWN2s3Ym81QzVjUE04WGs3cHpRTjl4YWZ0ekhRVkdkZndGMGo3d2txOGFHZVROSDJBR3ZlbHlmMG1zM3VKWUJlMHdJSmt4ck1rTE9VS1BPclBYMjNlaGJqZUptU0lodlFTYnJybVkxVzVwS2FGWS1NS1JWQUdxV0RvQQ?oc=5",
-      "title": "Stock Market Today: Dow Gains 1,100 Points Amid Huge Recovery; Micron, Nvidia Score Big Wins (Live Coverage) - Investor's Business Daily",
-      "body": "Stock Market Today: Dow Gains 1,100 Points Amid Huge Recovery; Micron, Nvidia Score Big Wins (Live Coverage) Investor's Business Daily",
-      "author": null,
-      "language": "en",
-      "ticker": "DOW",
-      "tickers_hint": [
-        "DOW"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "investor's business daily",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Investor's Business Daily",
-        "source_domain": "investorsbusinessdaily.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "cabd0ff0-33f8-5310-8445-8ad4c1c07a1a",
-      "timestamp_utc": "2026-03-31T10:05:59+00:00",
+      "id": "45368ccc-9497-5e82-a964-14bad93483ae",
+      "timestamp_utc": "2026-04-07T13:52:17+00:00",
       "source": "cnn",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdFl4cllCRzVqa05rREpVSnR4Zk9sZVEyUm4wUm43RkpFbXpJZkU2UmZpSnFqcXJ4Nl9oR2w2VGIyVFIxUW1yaXU3cWlkVmVCN01fTEtCRmRTTUhOY3VuZC00ZTU2UXZrV2tPZ0NLdERlaEs0YWYwQW4tTlBaSU1EcUk5Sl8?oc=5",
-      "title": "What in the world just happened to the Dow? - CNN",
-      "body": "What in the world just happened to the Dow? CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TMC1lTUpRV0VGWmRwNDFLTktBTlh1RExYWk5rWC1NcV9GQW5icmw3cV80VGVkV05sNlFaeVNqcW8ybVNNd083bEUydkl2SUl2N29vR19lVGU3N2Y3SHdkRUp5WTRCWVhxWHRab0ZtcENNaWpWRnpHN1lqeHhDQQ?oc=5",
+      "title": "Oil plunges, Dow sees its best day in a year after US-Iran ceasefire, but ‘hurdles remain’ - CNN",
+      "body": "Oil plunges, Dow sees its best day in a year after US-Iran ceasefire, but ‘hurdles remain’ CNN",
       "author": null,
       "language": "en",
       "ticker": "DOW",
@@ -1427,27 +1489,25 @@
       ],
       "source_quality": "low",
       "publisher_raw": "cnn",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "CNN",
         "source_domain": "cnn.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
         "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4325,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "5e4cdef5-758d-5235-bdbe-16569df52574",
-      "timestamp_utc": "2026-03-31T04:17:59+00:00",
-      "source": "forex.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN1NPVGxCUzhDV2RaTGE2aG43SHItcklqMlAtR0V2bUJvUWtnNjAtXzJaQjlXaHpMU0kwTnJ3bHBlNFhPRlh2OWhxWlVXTmo0QzZSTHZRdmtnUTByY3N2NDZoeDJlNVM4dlRiVG5YZXpOMzRGUGt6ZGt1QXViQldUdFJON21UQzBOZktiT2dLb0VtaWRuekdJcUVvdnFxeldaLWZGTjF2dWhSYUdlTWg3V3JWZVQwSEZ6YW5zYTJaZXdLcDB0ZUJLUEdR0gHWAUFVX3lxTE8xQjR1SVhtQm9USzBPNXNfRnFSeEdSM19fdmZiSzgtNEN6Z0RYWUVNamV1V3lhdG9hbC00cHVPQ1poQmh3eGVWTzZQTnB3Yk5OWUppUV9pU2VES00yM0FjMXRmckRLc0hXX0pTTnRsNm1zT0J3SzN6Yl8zWm9zUENsNzZ6WFdQN2dJSzJ4cGRSQzRia0FOMG9uX2R6YlFNMUtleFFQX0Jxcl94Snh0NC1QMXFLRW5QT21PdVkwaU81STZ1c3I0ZnJFbXVib29XcVV2T2NoZ0E?oc=5",
-      "title": "Dow Jones Forecast: DJIA rebounds as Trump seeks exit plan as mixed messaging continues - forex.com",
-      "body": "Dow Jones Forecast: DJIA rebounds as Trump seeks exit plan as mixed messaging continues forex.com",
+      "id": "b406b5f8-80aa-5382-96e3-d03c5596751f",
+      "timestamp_utc": "2026-04-08T21:26:31+00:00",
+      "source": "news.az",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS21lM1psR1pJOElSd2dnS3VMQXZQc3BURUo3NERiOWtDWkVlNHp3ZzFvUUlCLTd5a1VITUhieG5lWmRuT1RVa0RoYzNtNHh4MDBGX0R0c2xWeF82cm92SHMtcXJnLVBkQWh5UXd3TzQ4eXJ1SUdXalR1VXgzOFR3Y242X24?oc=5",
+      "title": "Dow, S&P 500, Nasdaq futures edge lower on Middle East news - News.az",
+      "body": "Dow, S&P 500, Nasdaq futures edge lower on Middle East news News.az",
       "author": null,
       "language": "en",
       "ticker": "DOW",
@@ -1455,20 +1515,18 @@
         "DOW"
       ],
       "source_quality": "low",
-      "publisher_raw": "forex.com",
+      "publisher_raw": "news.az",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "forex.com",
-        "source_domain": "forexcom.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "News.az",
+        "source_domain": "newsaz.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DOW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.43,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

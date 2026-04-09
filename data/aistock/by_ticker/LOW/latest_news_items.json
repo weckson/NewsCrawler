@@ -1,11 +1,41 @@
 [
   {
-    "id": "ffce85f9-a3b8-5c77-b96e-1be6450aef7d",
-    "timestamp_utc": "2026-04-03T13:47:02+00:00",
+    "id": "12f55cac-e8f3-5a7f-8e87-c7afc4317c6c",
+    "timestamp_utc": "2026-04-08T05:48:27+00:00",
+    "source": "benzinga",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS2hwaG9GOFdvNXEtdDFTQUJ4cUM3cEw3MXJmbnl4dXl4b25pSG1yeVRfdUpJSGtDMDVfNV9tMUFzVGh2bHNsNUZKaWVhYWlZekdmTlJ2Qk05RjVOUFFHWFU1RUpoVjFUZE5SaU5pM0JzYVdac1RLNGJmd2NxUVoxSWlfMDVTMXJZcTRUdk9sbTB3NlJDQ3JfRHZ2a09qWXNrcnZXMGFMZl9lUngtSHctcC1vNVRadUUzc1B5a1JaazI5RmU5NHVwcEZtYzE0VE0?oc=5",
+    "title": "Morgan Stanley Launches Low-Fee Bitcoin ETF To Rival BlackRock, Grayscale - BlackRock (NYSE:BLK), Coinbas - Benzinga",
+    "body": "Morgan Stanley Launches Low-Fee Bitcoin ETF To Rival BlackRock, Grayscale - BlackRock (NYSE:BLK), Coinbas Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "LOW",
+    "tickers_hint": [
+      "LOW"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.645,
+      "_channel": "google_benzinga",
+      "_alt_sources": [
+        "Benzinga"
+      ]
+    }
+  },
+  {
+    "id": "b2f84fe0-b560-5ae0-8d5b-119dc1b344b9",
+    "timestamp_utc": "2026-04-07T17:44:42+00:00",
     "source": "tipranks",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaU5aMmZnZXdSZlNXQWUxeTlvQm9iZmNEaUNwTTlVVUJHamJiYTRURjhncFpfclIyVl9wMU9WS2U0M1dQTGdmT0dGVi1jYjZacWlyS05QUUIxZ2VONTd2Qk41bklQRjlPMmJUNlkxLXQ4ZjgyM1J0R3VKUUlfUzI0U0Zzck9IWkM2dVpFZ2JB?oc=5",
-    "title": "Nvidia Stock Forecast — How High or Low Can NVDA Stock Go? - TipRanks",
-    "body": "Nvidia Stock Forecast — How High or Low Can NVDA Stock Go? TipRanks",
+    "url": "https://www.tipranks.com/news/the-trade-desk-stock-ttd-hits-52-week-low-on-triple-executive-exit-and-analyst-downgrade",
+    "title": "The Trade Desk Stock (TTD) Hits 52-Week Low on Triple Executive Exit and Price Target Cut - TipRanks",
+    "body": "The Trade Desk Stock (TTD) Hits 52-Week Low on Triple Executive Exit and Price Target Cut TipRanks",
     "author": null,
     "language": "en",
     "ticker": "LOW",
@@ -14,27 +44,160 @@
     ],
     "source_quality": "high",
     "publisher_raw": "tipranks.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "TipRanks",
       "source_domain": "tipranks.com",
-      "trust_tier": 3,
-      "relevance": 0.5,
       "event_origin": "news",
-      "query_tickers": [
-        "LOW"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.6275,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "bd5507bc-aa18-5700-8719-3f4698668179",
-    "timestamp_utc": "2026-04-03T21:44:18+00:00",
-    "source": "ad_hoc_news",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSVhhWmtQdnVoUHVudl8zZk9SZjR1THgxSmJldUFJekFPcko1OTJsV2V3OVk2NHU0aVJLamxzQWFMZDU1S1Uxd1RiaWdVRmN6eFJOYW1hOHRrSGEtRklFcHV2WmNjV093TV9EdGxIVjNvaHZDcmtmRWtaNUVhMFhLYXE4dFNIbFlnbnNYSWRLcWF1XzJiM1EwY3NQaWhRd0V1OFZNd3lnX2lJUlpDTTUtN1plVU1GemdsSkNVVlJlN0R4b0h2WkE?oc=5",
-    "title": "Bharat Petroleum Corp Ltd stock: Low P/ E signals value amid oil volatility - AD HOC NEWS",
-    "body": "Bharat Petroleum Corp Ltd stock: Low P/ E signals value amid oil volatility AD HOC NEWS",
+    "id": "f2628e2e-90d9-58a9-8f61-afade5e7442b",
+    "timestamp_utc": "2026-04-08T09:46:28+00:00",
+    "source": "investing.com",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdnQxRDNOTW92WTgwNWlvUV9Ed1RKWXJPajItNS1uZTVZU1BYSHNSSXhGbFFudXFYMVZJY3BBOGZYTENBRno0MUpwa0NNQ1pKZWdaalF0Q2hOdVpoQ0h5a3hENVFpR3lDNEthRGVrWXRIWGd3WkJod2s1aV9ZQzhTc21DckNPMnJuYmZZS1o5SjZISUxhMVVrXzRRMmdpNDFYQ2lV?oc=5",
+    "title": "Veeva Systems stock hits 52-week low at $168.10 - Investing.com",
+    "body": "Veeva Systems stock hits 52-week low at $168.10 Investing.com",
+    "author": null,
+    "language": "en",
+    "ticker": "LOW",
+    "tickers_hint": [
+      "LOW"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "investing.com",
+    "trust_tier": 2,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Investing.com",
+      "source_domain": "investing.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.551,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "4aa607bc-fdb8-5f6b-9c8a-e631ceae830e",
+    "timestamp_utc": "2026-04-08T09:13:50+00:00",
+    "source": "investing.com",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcFplQVhIbFpOWDREZ0pqbnhRcWwyYk16V0kzQ0pYbkIxdThjNFRhRENRd0tVRVJDbkZsZHNQZ3pTN0FSSzhtb2lZMFNVbHRGTk5NekxmeUdhR0NGYU1uUGFZYjZzUmFTbzk3Sk9laDlOQ0VUeWtIWU5VMk9hajBwUUV0VkVKYUVYWDJIYl8wOXhmSGRPNzlfRG9lbEt6SGtWWWc?oc=5",
+    "title": "Campbell’s stock hits 52-week low at 20.62 USD - Investing.com",
+    "body": "Campbell’s stock hits 52-week low at 20.62 USD Investing.com",
+    "author": null,
+    "language": "en",
+    "ticker": "LOW",
+    "tickers_hint": [
+      "LOW"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "investing.com",
+    "trust_tier": 2,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Investing.com",
+      "source_domain": "investing.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.521,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "4ace75c0-feb8-5b0b-9c92-30f0fd4180b5",
+    "timestamp_utc": "2026-04-08T08:58:51+00:00",
+    "source": "investing.com",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRmlkMjk3Z3YwUWl0MUdDNHN1VnVTWGxTeXU1ZzRyNG5iR3Q3X0V3emh2emRmeXcyOXN4VEJDQllrN1ZFRG12dE9rTjllNS11dndiMGNYWlAwU2VNTlJSQmNqQi1WeFpCcXFVYkViSUU3ZktrdVNuUldld0Fxb1pKR24wZkdOd2JZdGZBZ3ZOeEk4MV9VSVNTdURWal9KTlJFeWxn?oc=5",
+    "title": "Servicenow stock hits 52-week low at 97.96 USD - Investing.com",
+    "body": "Servicenow stock hits 52-week low at 97.96 USD Investing.com",
+    "author": null,
+    "language": "en",
+    "ticker": "LOW",
+    "tickers_hint": [
+      "LOW"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "investing.com",
+    "trust_tier": 2,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Investing.com",
+      "source_domain": "investing.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.521,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "62f62c76-0542-5ce4-a5bc-3e49fbae3dea",
+    "timestamp_utc": "2026-04-08T07:46:51+00:00",
+    "source": "investing.com",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHltNE00YW9MTlZxUUtWQlpZQ294WHh2Ty1mWWlnU1Q1aGVDM2JWdy1GMktsUzNmTEd2MHBtTXhmOURqMFBqZjZkSTRYdzN0UGN3ODZaWUd6dnJ2UGZ6TW9Yc3lVMHZaZlpQUzVmWjdFekZjLVVtOXFOODUwTjhMZWVjTWhtQTQzOVMwUDVIS0trY21ZZ0hSdTQ4cWVfVW5vaHc?oc=5",
+    "title": "Atlassian stock hits 52-week low at 64.23 USD - Investing.com",
+    "body": "Atlassian stock hits 52-week low at 64.23 USD Investing.com",
+    "author": null,
+    "language": "en",
+    "ticker": "LOW",
+    "tickers_hint": [
+      "LOW"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "investing.com",
+    "trust_tier": 2,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Investing.com",
+      "source_domain": "investing.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.521,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "8b297f23-6e2c-542c-b187-902a7b10ef44",
+    "timestamp_utc": "2026-04-08T04:16:43+00:00",
+    "source": "investing.com",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFBrd0ptSEh3a18tcUQ5Q18yUExURExuTkpzRm5ONzJSREcyaEtEVlNaYllSMEhhZjFyN3lNRzExUXpCaFNsZ0RNUm9EcV9oblZJSE1GanVaUUttMkFaQXNoWF9fWGU0Z3VqMVFNT0ZuMFJweEVfTWhFdXlGVUZ1WEtsSU5aVk93WWU3cjhic29kQVpMd0VrVlVOeWxlem5S?oc=5",
+    "title": "Doximity stock hits 52-week low at 21.81 USD - Investing.com",
+    "body": "Doximity stock hits 52-week low at 21.81 USD Investing.com",
+    "author": null,
+    "language": "en",
+    "ticker": "LOW",
+    "tickers_hint": [
+      "LOW"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "investing.com",
+    "trust_tier": 2,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Investing.com",
+      "source_domain": "investing.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.521,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "cc157a43-5270-556e-84ce-515e9653aa62",
+    "timestamp_utc": "2026-04-09T00:56:41+00:00",
+    "source": "finbold",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9CamEyTHNpRzdwbW9Cd0pDZWdGMy1lbkF0aWF3Q1pBSGF3MmVkQlMxc1pZbnVpMTk3V0xrMzFwOXZnSk1VMGF4X2hBZG43U2JtQ1l4VWZjNXJoRXdDeVdacmlpTTZ1R0pkdFRBemVJeWp2ZjhfaXVJNmE5QkI?oc=5",
+    "title": "Is Lucid stock a buy after hitting new all-time low? - Finbold",
+    "body": "Is Lucid stock a buy after hitting new all-time low? Finbold",
     "author": null,
     "language": "en",
     "ticker": "LOW",
@@ -42,106 +205,17 @@
       "LOW"
     ],
     "source_quality": "low",
-    "publisher_raw": "ad hoc news",
+    "publisher_raw": "finbold",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "AD HOC NEWS",
-      "source_domain": "adhocnews.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "Finbold",
+      "source_domain": "finbold.com",
       "event_origin": "news",
-      "query_tickers": [
-        "LOW"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "a7e376b5-e4f8-52b9-8c06-30e26dc0e1a1",
-    "timestamp_utc": "2026-04-03T17:12:19+00:00",
-    "source": "ad_hoc_news",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQjRFbWxCalB2Z1N5NXE3eVJ1UFZkblREcjV6ZzdNQ2dOM3dBUF9wRUdLSlFkWWJxdkVXRmxXNy13RlYtcml3bnc1V3pUb21CYXNhNVN2NEE2dU1wY3RsMWFFcDVyd3g1RUhtWEdGTElRWHdrX3FJVWVrc3BRN0I1OFNPWTJzanVfLWJicUpVZkhvbDJQaHJ5ZjY5MnZCS3FHNkhON1J4aHcydFNPc0ZCOFZRelJhaDVCR0xn?oc=5",
-    "title": "Cardinal Energy stock: Low-decline assets in a volatile oil market - AD HOC NEWS",
-    "body": "Cardinal Energy stock: Low-decline assets in a volatile oil market AD HOC NEWS",
-    "author": null,
-    "language": "en",
-    "ticker": "LOW",
-    "tickers_hint": [
-      "LOW"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "ad hoc news",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "AD HOC NEWS",
-      "source_domain": "adhocnews.com",
-      "trust_tier": 1,
       "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "LOW"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "c8c4b1f6-b288-56bb-ab1b-a5c5093a8b34",
-    "timestamp_utc": "2026-04-03T12:16:57+00:00",
-    "source": "ad_hoc_news",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONDRVZE9IenNURzE3WXU1Q2pXR3pDY1FzY1BMMzAzeEwyZUh0VFE3ZXZfMUx2cnRKYTQyUVJyRDRjTUc2a1BjVnYzT1VUQXlkTUEybjAzeWhpMTVkZXdtaF9qZHJoSFhiV1dtOVNuMjZGTl9GS1NKY2k3UHJ4Z3VfLUU3cFMtVXRLSWZjMjVzTjViamZyRXFkRHRrckUyZG5XOGE5TVA4bHJtYnJaR0dFLQ?oc=5",
-    "title": "The Home Depot, Inc. stock: Hits 52-Week Low – Buy Opportunity? - AD HOC NEWS",
-    "body": "The Home Depot, Inc. stock: Hits 52-Week Low – Buy Opportunity? AD HOC NEWS",
-    "author": null,
-    "language": "en",
-    "ticker": "LOW",
-    "tickers_hint": [
-      "LOW"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "ad hoc news",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "AD HOC NEWS",
-      "source_domain": "adhocnews.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "LOW"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "70c3f54b-629e-5f91-aacc-b60b58230006",
-    "timestamp_utc": "2026-04-03T09:40:00+00:00",
-    "source": "beincrypto",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55cXV4ZHQxX3h1OXBIcWs1WWYydUVNQmNmRlh6RElPdjQwNkl2RkhwQ2NheVZsdFFGb185VjZrS1luZDJ2MlE2R0xPdTJfcmROekJqckctbDA5VDB1U2E1bHhfci04cDVyYmdJT1VoTmQ5QmZm?oc=5",
-    "title": "Blue Owl Stock Hits Record Low as Redemption Pressure Mounts - BeInCrypto",
-    "body": "Blue Owl Stock Hits Record Low as Redemption Pressure Mounts BeInCrypto",
-    "author": null,
-    "language": "en",
-    "ticker": "LOW",
-    "tickers_hint": [
-      "LOW"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "beincrypto",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "BeInCrypto",
-      "source_domain": "beincrypto.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "LOW"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.43,
+      "_channel": "google_broad"
+    }
   }
 ]

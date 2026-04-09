@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "c02ac623-2789-518d-888a-4a722aa217f8",
-      "timestamp_utc": "2026-04-04T15:50:21+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/KLAC/earnings",
-      "title": "KLAC Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "KLAC Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "c3755bdb-8c80-56a6-8f41-4998769cdd79",
+      "timestamp_utc": "2026-04-08T11:32:28+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/why-is-kla-corporation-klac-stock-soaring-today/ar-AA20rO2Z?ocid=finance-verthp-feeds",
+      "title": "Why is KLA Corporation (KLAC) stock soaring today - MSN",
+      "body": "Why is KLA Corporation (KLAC) stock soaring today MSN",
       "author": null,
       "language": "en",
       "ticker": "KLAC",
@@ -15,31 +15,29 @@
         "KLAC"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "msn",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MSN",
+        "source_domain": "msn.com",
         "event_origin": "news",
-        "query_tickers": [
-          "KLAC"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4535,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "c02ac623-2789-518d-888a-4a722aa217f8",
-      "timestamp_utc": "2026-04-04T15:50:21+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/KLAC/earnings",
-      "title": "KLAC Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "KLAC Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "c3755bdb-8c80-56a6-8f41-4998769cdd79",
+      "timestamp_utc": "2026-04-08T11:32:28+00:00",
+      "source": "msn",
+      "url": "https://www.msn.com/en-us/money/topstocks/why-is-kla-corporation-klac-stock-soaring-today/ar-AA20rO2Z?ocid=finance-verthp-feeds",
+      "title": "Why is KLA Corporation (KLAC) stock soaring today - MSN",
+      "body": "Why is KLA Corporation (KLAC) stock soaring today MSN",
       "author": null,
       "language": "en",
       "ticker": "KLAC",
@@ -47,20 +45,18 @@
         "KLAC"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "msn",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MSN",
+        "source_domain": "msn.com",
         "event_origin": "news",
-        "query_tickers": [
-          "KLAC"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4535,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

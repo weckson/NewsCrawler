@@ -1,11 +1,38 @@
 [
   {
-    "id": "ccace25a-30e1-59e1-8f8b-b9871bdc8d31",
-    "timestamp_utc": "2026-04-03T08:35:52+00:00",
-    "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-pfizer-inc-pfe-stock-position-reduced-by-first-pacific-financial-2026-04-03/",
-    "title": "Pfizer Inc. $PFE Stock Position Reduced by First Pacific Financial - MarketBeat",
-    "body": "Pfizer Inc. $PFE Stock Position Reduced by First Pacific Financial MarketBeat",
+    "id": "1c500f9c-584d-58b0-b6aa-17f6c3fc623c",
+    "timestamp_utc": "2026-04-08T00:54:00+00:00",
+    "source": "the_globe_and_mail",
+    "url": "https://www.theglobeandmail.com/investing/markets/stocks/PFE/pressreleases/1194299/rbc-capital-reaffirms-their-sell-rating-on-pfizer-pfe/",
+    "title": "RBC Capital Reaffirms Their Sell Rating on Pfizer (PFE) - The Globe and Mail",
+    "body": "In a report released today, Trung Huynh from RBC Capital maintained a Sell rating on Pfizer, with a price target of $25.00.\n\nHuynh covers the Healthcare sector, focusing on stocks such as Merck & Company, Eli Lilly & Co, and Pfizer. According to TipRanks, Huynh has an average return of 27.1% and a 74.40% success rate on recommended stocks.\n\nPfizer has an analyst consensus of Moderate Buy, with a price target consensus of $29.02.\n\nBased on Pfizer’s latest earnings release for the quarter ending December 31, the company reported a quarterly revenue of $17.56 billion and a GAAP net loss of $1.65 billion. In comparison, last year the company earned a revenue of $17.76 billion and had a net profit of $403 million",
+    "author": null,
+    "language": "en",
+    "ticker": "PFE",
+    "tickers_hint": [
+      "PFE"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "theglobeandmail.com",
+    "trust_tier": 2,
+    "body_kind": "article_text",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "The Globe and Mail",
+      "source_domain": "theglobeandmail.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.5375,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "cfd95ca0-8a5d-5137-8f83-67ad686ca161",
+    "timestamp_utc": "2026-04-08T12:15:05+00:00",
+    "source": "mshale",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wSWJaOFNKTkNoSmNKRmlPNlVhMFVlc0t2NGZGRkp2WFFyN1ZGcVNjcEtnWDdpdXNobEttVVZhRUVhZk96YjYtLW4tZmhRME9LU2t1eEVLUkFBRXotMDBvQ21sRQ?oc=5",
+    "title": "PFIZER INC HUGE TARGET | PFE STOCK NEWS More Tips Here (0G6fMCSiIT) - Mshale",
+    "body": "PFIZER INC HUGE TARGET | PFE STOCK NEWS More Tips Here (0G6fMCSiIT) Mshale",
     "author": null,
     "language": "en",
     "ticker": "PFE",
@@ -13,19 +40,17 @@
       "PFE"
     ],
     "source_quality": "low",
-    "publisher_raw": "marketbeat.com",
+    "publisher_raw": "mshale",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "MarketBeat",
-      "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
+      "source_name": "Mshale",
+      "source_domain": "mshale.com",
       "event_origin": "news",
-      "query_tickers": [
-        "PFE"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.41,
+      "_channel": "google_broad"
+    }
   }
 ]

@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "4ba988d4-eb94-5d82-be73-e0bdc7c9e4f7",
-      "timestamp_utc": "2026-04-01T00:05:42+00:00",
-      "source": "msn",
-      "url": "https://www.msn.com/en-us/money/topstocks/what-to-expect-from-mascos-next-quarterly-earnings-report/ar-AA1ZJ6dZ",
-      "title": "What to expect from Masco's next quarterly earnings report - MSN",
-      "body": "What to expect from Masco's next quarterly earnings report MSN",
+      "id": "e67e373b-917f-5a4d-a47d-2afc815e1136",
+      "timestamp_utc": "2026-04-08T09:52:30+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782404/wells-fargo-lowers-price-target-for-masco-mas-to-70-mas-stock-news?mobile=true",
+      "title": "Wells Fargo Lowers Price Target for Masco (MAS) to $70 | MAS Sto - GuruFocus",
+      "body": "Wells Fargo Lowers Price Target for Masco (MAS) to $70 | MAS Sto GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "MAS",
@@ -15,28 +15,26 @@
         "MAS"
       ],
       "source_quality": "low",
-      "publisher_raw": "msn",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MSN",
-        "source_domain": "msn.com",
-        "trust_tier": 1,
-        "relevance": 0.6,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "MAS"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4925,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "661db080-5ab0-55b4-8cde-00c8bcd9af18",
-      "timestamp_utc": "2026-03-31T20:55:00+00:00",
-      "source": "minichart",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMVlEbkpTN2VfeGU4bF9sSlRqckhRRFl1SzcwSFBWUTRSNWNlUy12UDFmclZPcjdpNWNKeURkZWhKX0FBQy04U2haeW9sY1pyLWsxTFZQNElFOVE2ekpCbUlVdkNJT21nRFFnZkxQWWEwbnFycmtFUUtlNWNHNGtsZkkzanBvMW1TWkJpSVhOeHhISjV4bS1fZHc3alZGT0otZU5fZ0Q5LTBQZlRrNHdsVlFMSHd3ZGw0U2ctVlZVZnMwa1pvb1E?oc=5",
-      "title": "UOB and Singtel Stock Analysis: MAS Policy, Provisioning, Capital Returns & FY26 Outlook 12 - Minichart",
-      "body": "UOB and Singtel Stock Analysis: MAS Policy, Provisioning, Capital Returns & FY26 Outlook 12 Minichart",
+      "id": "4ece3122-afd6-5cfa-97a8-1658aebed152",
+      "timestamp_utc": "2026-04-08T07:46:06+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782263/barclays-adjusts-price-target-on-masco-mas-today-mas-stock-news?mobile=true",
+      "title": "Barclays Adjusts Price Target on Masco (MAS) Today | MAS Stock N - GuruFocus",
+      "body": "Barclays Adjusts Price Target on Masco (MAS) Today | MAS Stock N GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "MAS",
@@ -44,34 +42,56 @@
         "MAS"
       ],
       "source_quality": "low",
-      "publisher_raw": "minichart",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Minichart",
-        "source_domain": "minichart.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "MAS"
-        ],
-        "alt_sources": [
-          "Minichart"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4625,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "12bea71a-6616-57ba-b54a-ee892e630360",
+      "timestamp_utc": "2026-04-09T00:17:56+00:00",
+      "source": "stockstory",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOW45TjNfZy1YSnJBcTZpVlNqTGJIMGw3cVNBR0FYS052akRmSy00QWNnV0thNVhHT3BiUE4zU2o1ZmpudVF1WDRleEtTT1FlbU1IMG40a0g5X3Itc1R1a2ZMZ2dGQmg5d0RXUHl4cHdNUEZoTVd6cllydDVDbThWMmJNalh3QmctM2hVUjU0YmV4alphRnRfUlE1d3BvUC1UNjJRdjBVLXo0c0FVODFj?oc=5",
+      "title": "3 Reasons MAS is Risky and 1 Stock to Buy Instead - StockStory",
+      "body": "3 Reasons MAS is Risky and 1 Stock to Buy Instead StockStory",
+      "author": null,
+      "language": "en",
+      "ticker": "MAS",
+      "tickers_hint": [
+        "MAS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stockstory",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "StockStory",
+        "source_domain": "stockstory.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.421,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "4ba988d4-eb94-5d82-be73-e0bdc7c9e4f7",
-      "timestamp_utc": "2026-04-01T00:05:42+00:00",
-      "source": "msn",
-      "url": "https://www.msn.com/en-us/money/topstocks/what-to-expect-from-mascos-next-quarterly-earnings-report/ar-AA1ZJ6dZ",
-      "title": "What to expect from Masco's next quarterly earnings report - MSN",
-      "body": "What to expect from Masco's next quarterly earnings report MSN",
+      "id": "e67e373b-917f-5a4d-a47d-2afc815e1136",
+      "timestamp_utc": "2026-04-08T09:52:30+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782404/wells-fargo-lowers-price-target-for-masco-mas-to-70-mas-stock-news?mobile=true",
+      "title": "Wells Fargo Lowers Price Target for Masco (MAS) to $70 | MAS Sto - GuruFocus",
+      "body": "Wells Fargo Lowers Price Target for Masco (MAS) to $70 | MAS Sto GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "MAS",
@@ -79,28 +99,26 @@
         "MAS"
       ],
       "source_quality": "low",
-      "publisher_raw": "msn",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MSN",
-        "source_domain": "msn.com",
-        "trust_tier": 1,
-        "relevance": 0.6,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "MAS"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4925,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "661db080-5ab0-55b4-8cde-00c8bcd9af18",
-      "timestamp_utc": "2026-03-31T20:55:00+00:00",
-      "source": "minichart",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMVlEbkpTN2VfeGU4bF9sSlRqckhRRFl1SzcwSFBWUTRSNWNlUy12UDFmclZPcjdpNWNKeURkZWhKX0FBQy04U2haeW9sY1pyLWsxTFZQNElFOVE2ekpCbUlVdkNJT21nRFFnZkxQWWEwbnFycmtFUUtlNWNHNGtsZkkzanBvMW1TWkJpSVhOeHhISjV4bS1fZHc3alZGT0otZU5fZ0Q5LTBQZlRrNHdsVlFMSHd3ZGw0U2ctVlZVZnMwa1pvb1E?oc=5",
-      "title": "UOB and Singtel Stock Analysis: MAS Policy, Provisioning, Capital Returns & FY26 Outlook 12 - Minichart",
-      "body": "UOB and Singtel Stock Analysis: MAS Policy, Provisioning, Capital Returns & FY26 Outlook 12 Minichart",
+      "id": "4ece3122-afd6-5cfa-97a8-1658aebed152",
+      "timestamp_utc": "2026-04-08T07:46:06+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782263/barclays-adjusts-price-target-on-masco-mas-today-mas-stock-news?mobile=true",
+      "title": "Barclays Adjusts Price Target on Masco (MAS) Today | MAS Stock N - GuruFocus",
+      "body": "Barclays Adjusts Price Target on Masco (MAS) Today | MAS Stock N GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "MAS",
@@ -108,23 +126,45 @@
         "MAS"
       ],
       "source_quality": "low",
-      "publisher_raw": "minichart",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Minichart",
-        "source_domain": "minichart.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "MAS"
-        ],
-        "alt_sources": [
-          "Minichart"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4625,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "12bea71a-6616-57ba-b54a-ee892e630360",
+      "timestamp_utc": "2026-04-09T00:17:56+00:00",
+      "source": "stockstory",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOW45TjNfZy1YSnJBcTZpVlNqTGJIMGw3cVNBR0FYS052akRmSy00QWNnV0thNVhHT3BiUE4zU2o1ZmpudVF1WDRleEtTT1FlbU1IMG40a0g5X3Itc1R1a2ZMZ2dGQmg5d0RXUHl4cHdNUEZoTVd6cllydDVDbThWMmJNalh3QmctM2hVUjU0YmV4alphRnRfUlE1d3BvUC1UNjJRdjBVLXo0c0FVODFj?oc=5",
+      "title": "3 Reasons MAS is Risky and 1 Stock to Buy Instead - StockStory",
+      "body": "3 Reasons MAS is Risky and 1 Stock to Buy Instead StockStory",
+      "author": null,
+      "language": "en",
+      "ticker": "MAS",
+      "tickers_hint": [
+        "MAS"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "stockstory",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "StockStory",
+        "source_domain": "stockstory.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.421,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

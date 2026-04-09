@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "98c450cc-9be7-5491-a72e-c47a952a8b3d",
-      "timestamp_utc": "2026-04-04T22:30:39+00:00",
-      "source": "yahoo_finance_australia",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MVHphY3ZDcERvTng1WXpiYnRKZ1VHTFh0X21MRkg1U29Da0hMU2pLaHE0Z2gwTm84WGJ0X0ZBR1AzT2hEYUFkX3A3VHNqN1Fma2ZjeHlCUktQc0JMb1pZ?oc=5",
-      "title": "The Kroger Co. (KR) stock price, news, quote and history - Yahoo Finance Australia",
-      "body": "The Kroger Co. (KR) stock price, news, quote and history Yahoo Finance Australia",
+      "id": "0eb268e9-ced8-579e-9bc1-a2aa58729760",
+      "timestamp_utc": "2026-04-08T06:27:42+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTXhnc2NYb1BVLUhiX1V2Szl0NF9CbjdFLWxyLS1ZRnYxQTVDNzhkVzl2WGZMVkdHZGlheWRrcDRXbEZRQXFFaXlqa0VRYzdDeGxlYkQ5NDFFTUNYcVhPWWJPbWxsWF9UdG5JR3ZNNFhJSDAzZW12U25rbGd5M2VLRzJsUHNsLVg1N2hNVERXbldyUVFMM3Nj?oc=5",
+      "title": "The Kroger Co (KR) Shares Down 3.07% on Apr 8 - GuruFocus",
+      "body": "The Kroger Co (KR) Shares Down 3.07% on Apr 8 GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "KR",
@@ -15,31 +15,29 @@
         "KR"
       ],
       "source_quality": "low",
-      "publisher_raw": "yahoo finance australia",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance Australia",
-        "source_domain": "yahoofinanceaustralia.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "KR"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.431,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "98c450cc-9be7-5491-a72e-c47a952a8b3d",
-      "timestamp_utc": "2026-04-04T22:30:39+00:00",
-      "source": "yahoo_finance_australia",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MVHphY3ZDcERvTng1WXpiYnRKZ1VHTFh0X21MRkg1U29Da0hMU2pLaHE0Z2gwTm84WGJ0X0ZBR1AzT2hEYUFkX3A3VHNqN1Fma2ZjeHlCUktQc0JMb1pZ?oc=5",
-      "title": "The Kroger Co. (KR) stock price, news, quote and history - Yahoo Finance Australia",
-      "body": "The Kroger Co. (KR) stock price, news, quote and history Yahoo Finance Australia",
+      "id": "0eb268e9-ced8-579e-9bc1-a2aa58729760",
+      "timestamp_utc": "2026-04-08T06:27:42+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTXhnc2NYb1BVLUhiX1V2Szl0NF9CbjdFLWxyLS1ZRnYxQTVDNzhkVzl2WGZMVkdHZGlheWRrcDRXbEZRQXFFaXlqa0VRYzdDeGxlYkQ5NDFFTUNYcVhPWWJPbWxsWF9UdG5JR3ZNNFhJSDAzZW12U25rbGd5M2VLRzJsUHNsLVg1N2hNVERXbldyUVFMM3Nj?oc=5",
+      "title": "The Kroger Co (KR) Shares Down 3.07% on Apr 8 - GuruFocus",
+      "body": "The Kroger Co (KR) Shares Down 3.07% on Apr 8 GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "KR",
@@ -47,20 +45,18 @@
         "KR"
       ],
       "source_quality": "low",
-      "publisher_raw": "yahoo finance australia",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance Australia",
-        "source_domain": "yahoofinanceaustralia.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "KR"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.431,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

@@ -1,31 +1,29 @@
 [
   {
-    "id": "945216cf-dc10-5dab-8f53-712b8833e16e",
-    "timestamp_utc": "2026-03-31T09:52:30+00:00",
-    "source": "gurufocus",
-    "url": "https://www.gurufocus.com/news/8762285/cintas-ctas-receives-maintained-sell-rating-from-citigroup-as-price-target-lowered-ctas-stock-news?mobile=true",
-    "title": "Cintas (CTAS) Receives Maintained 'Sell' Rating from Citigroup a - GuruFocus",
-    "body": "Cintas (CTAS) Receives Maintained 'Sell' Rating from Citigroup a GuruFocus",
+    "id": "f17ecf1d-464d-5be4-8d03-5a336f7a9ddb",
+    "timestamp_utc": "2026-04-08T05:40:05+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVXNTTGFQUkRsbkVGUHZUWmFDRXhjZGNqMlN3WEJCUERPa1c3R1hFUGZ2ZTBiZG1NRW52QU1QVlBkWmR5TlRkbG1aRnB6VnQ0RHpKc3VYallZYnczRXNaUE44VzU3d1BYejZuVmdmeXVjUDhwSXRlVHNabWV2X1MyM3dLYVdvN043YWswUF83RExxYTQ?oc=5",
+    "title": "CROX vs. CTAS: Which Stock Should Value Investors Buy Now? - Yahoo Finance",
+    "body": "CROX vs. CTAS: Which Stock Should Value Investors Buy Now? Yahoo Finance",
     "author": null,
     "language": "en",
     "ticker": "CTAS",
     "tickers_hint": [
       "CTAS"
     ],
-    "source_quality": "low",
-    "publisher_raw": "gurufocus.com",
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "GuruFocus",
-      "source_domain": "gurufocus.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
       "event_origin": "news",
-      "query_tickers": [
-        "CTAS"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.62,
+      "_channel": "google_broad"
+    }
   }
 ]

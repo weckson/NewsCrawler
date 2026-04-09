@@ -1,11 +1,11 @@
 [
   {
-    "id": "9b3642b0-36b9-5777-9a54-1ec8137592ff",
-    "timestamp_utc": "2026-04-01T10:03:04+00:00",
+    "id": "1a27d8bc-6e0f-54dc-9cc1-df36049d8165",
+    "timestamp_utc": "2026-04-07T20:51:55+00:00",
     "source": "tipranks",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdjRnbWFRSVpuR0pzUzFMTVJLdEt6YUtZQ3RSeUNkNnFiT3I1YTkxWGJON1ZITFh0SHVibDZlcUZoUXJlMzM4Q1pIc2Y2bVlIVkdacGliazQ1bTM5RlBVdkhndjNOTGQ2d1VCU0RqRkZkbURJNFpsTkhpc2RTN1hfUTg4NjdjNDk5cWhVbg?oc=5",
-    "title": "Paramount Skydance Stock (NASDAQ:PSKY) Gains With New SVP - TipRanks",
-    "body": "Paramount Skydance Stock (NASDAQ:PSKY) Gains With New SVP TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaWlJenlyTk5KMkJLejEtcElMYUZBRTBnMGJFdVlxOGhIMXZnUDRQSWVpVTBEcWxFaFZWNVowbWpZUktzdmpBV0NrQjNnMDlFUDhoZHRKLVg5bWVVeU5ab05CSWZZNm5McndLam9LQmR0RVVfbVJBaTlvd2V6YVkwRWR5Q290MmhST2c?oc=5",
+    "title": "Why Did Paramount Skydance (PSKY) Stock Gain 11% on April 7? - TipRanks",
+    "body": "Why Did Paramount Skydance (PSKY) Stock Gain 11% on April 7? TipRanks",
     "author": null,
     "language": "en",
     "ticker": "PSKY",
@@ -14,18 +14,70 @@
     ],
     "source_quality": "high",
     "publisher_raw": "tipranks.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "TipRanks",
       "source_domain": "tipranks.com",
-      "trust_tier": 3,
-      "relevance": 0.5,
       "event_origin": "news",
-      "query_tickers": [
-        "PSKY"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.63,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "e5de2ec4-350b-5a15-b4c6-b564d415907b",
+    "timestamp_utc": "2026-04-07T17:58:00+00:00",
+    "source": "qz.com",
+    "url": "https://qz.com/paramount-skydance-psky-surges-10-7-is-this-an-indication-of-further-gains",
+    "title": "Paramount Skydance (PSKY) Surges 10.7%: Is This an Indication of Further Gains? - qz.com",
+    "body": "Paramount Skydance (PSKY) Surges 10.7%: Is This an Indication of Further Gains? qz.com",
+    "author": null,
+    "language": "en",
+    "ticker": "PSKY",
+    "tickers_hint": [
+      "PSKY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "qz.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "qz.com",
+      "source_domain": "qzcom.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4475,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "a14fb7f5-0453-529c-9592-58c0c4ef4fdf",
+    "timestamp_utc": "2026-04-08T14:41:10+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/stocks/NASDAQ/PSKY/news/",
+    "title": "PSKY News Today | Why did Paramount Skydance stock go down today? - MarketBeat",
+    "body": "PSKY News Today | Why did Paramount Skydance stock go down today? MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "PSKY",
+    "tickers_hint": [
+      "PSKY"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4425,
+      "_channel": "google_broad"
+    }
   }
 ]

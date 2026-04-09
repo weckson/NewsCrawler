@@ -1,11 +1,39 @@
 [
   {
-    "id": "7ef69473-80b0-5506-bb06-d09e413890b0",
-    "timestamp_utc": "2026-03-31T04:48:24+00:00",
+    "id": "b2f84fe0-b560-5ae0-8d5b-119dc1b344b9",
+    "timestamp_utc": "2026-04-07T17:44:42+00:00",
+    "source": "tipranks",
+    "url": "https://www.tipranks.com/news/the-trade-desk-stock-ttd-hits-52-week-low-on-triple-executive-exit-and-analyst-downgrade",
+    "title": "The Trade Desk Stock (TTD) Hits 52-Week Low on Triple Executive Exit and Price Target Cut - TipRanks",
+    "body": "The Trade Desk Stock (TTD) Hits 52-Week Low on Triple Executive Exit and Price Target Cut TipRanks",
+    "author": null,
+    "language": "en",
+    "ticker": "LOW",
+    "tickers_hint": [
+      "LOW",
+      "TTD"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "tipranks.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.6275,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "50d3dcac-c38c-5612-a649-6fdce62de0ec",
+    "timestamp_utc": "2026-04-08T11:45:04+00:00",
     "source": "yahoo_finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/trade-desk-ttd-slid-sluggish-144824378.html",
-    "title": "The Trade Desk (TTD) Slid on Sluggish Revenue Guidance - Yahoo Finance",
-    "body": "The Trade Desk (TTD) Slid on Sluggish Revenue Guidance Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWE5BOWxrS2ZBSmFaQUxyUVZpc3NJdkJYSlZURmpVc3R6Qm92WVN2Y0taN3JFQkM4V0VTZGR6WFdzVkpCZURoSVMtQTI0UzU4dVNCNnlSSGRrNEhxVEtqVmtvZElfVFA1aVdta2hWV3B1SkhJbFN3VGE5ZG9VbGpBVkd1S1lwQ2JXTlNGa09sdjlFN1ZxWFE?oc=5",
+    "title": "The Trade Desk (TTD) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
+    "body": "The Trade Desk (TTD) Stock Falls Amid Market Uptick: What Investors Need to Know Yahoo Finance",
     "author": null,
     "language": "en",
     "ticker": "TTD",
@@ -14,76 +42,46 @@
     ],
     "source_quality": "high",
     "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "Yahoo Finance",
       "source_domain": "finance.yahoo.com",
-      "trust_tier": 3,
-      "relevance": 0.6,
       "event_origin": "news",
-      "query_tickers": [
-        "TTD"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "14295621-8e78-5413-adc6-bc4987851b0c",
-    "timestamp_utc": "2026-03-31T17:37:00+00:00",
-    "source": "tradingview",
-    "url": "https://www.tradingview.com/news/stockstory:bb590c59d094b:0-q4-earnings-highlights-the-trade-desk-nasdaq-ttd-vs-the-rest-of-the-advertising-software-stocks/",
-    "title": "Q4 Earnings Highlights: The Trade Desk (NASDAQ:TTD) Vs The Rest Of The Advertising Software Stocks - TradingView",
-    "body": "Wrapping up Q4 earnings, we look at the numbers and key takeaways for the advertising software stocks, including The Trade Desk TTD and its peers.\n\nThe digital advertising market is large, growing, and becoming more diverse, both in terms of audiences and media. As a result, there is a growing need for software that enables advertisers to use data to automate and optimize ad placements.\n\nThe 6 advertising software stocks we track reported a satisfactory Q4. As a group, revenues beat analysts’ consensus estimates by 1.9% while next quarter’s revenue guidance was in line.\n\nIn light of this news, share prices of the companies have held steady. On average, they are relatively unchanged since the latest earnings results.\n\nBuilt as an alternative to \"walled garden\" advertising ecosystems, The Trade Desk TTD provides a cloud-based platform that helps advertisers and agencies plan, manage, and optimize digital advertising campaigns across multiple channels and devices.\n\nThe Trade Desk reported revenues of $846.8 million, up 14.3% year on year. This print exceeded analysts’ expectations by 0.6%. Despite the top-line beat, it was still a softer quarter for the company with revenue guidance for next quarter slightly missing analysts’ expectations and EBITDA guidance for next quarter missing analysts’ expectations significantly.\n\n“The Trade Desk delivered $2.9 billion in revenue in 2025 while continuing to generate significant profitability and cash flow,” said Jeff Green, Co-Founder and CEO of The Trade Desk.\n\nUnsurprisingly, the stock is down 9.1% since reporting and currently trades at $22.88.\n\nPowering billions of daily ad impressions across the open internet, PubMatic PUBM operates a technology platform that helps publishers maximize revenue from their digital advertising inventory while giving advertisers more control and transparency.\n\nPubMatic reported revenues of $80.05 million, down 6.4% year on year, outperforming analysts’ expectations by 6.2%. The business had an exceptional quarter with EBITDA guidance for next quarter exceeding analysts’ expectations and a solid beat of analysts’ EBITDA estimates.\n\nPubMatic achieved the biggest analyst estimates beat among its peers. The market seems happy with the results as the stock is up 13.7% since reporting. It currently trades at $8.04.\n\nUsing advanced analytics to evaluate over 17 billion digital ad transactions daily, DoubleVerify DV provides AI-powered technology that verifies digital ads are viewable, fraud-free, brand-suitable, and displayed in the intended geographic location.\n\nDoubleVerify reported revenues of $205.6 million, up 7.9% year on year, falling short of analysts’ expectations by 1.5%. It was a slower quarter as it posted a significant miss of analysts’ revenue estimates and a slight miss of analysts’ EBITDA estimates.\n\nDoubleVerify delivered the weakest performance against analyst estimates in the group. The stock is flat since the results and currently trades at $9.51.\n\nRead our full analysis of DoubleVerify’s results here.\n\nServing as the digital middleman in an increasingly privacy-conscious world, LiveRamp RAMP provides technology that helps companies securely share and connect their customer data with trusted partners while maintaining privacy compliance.\n\nLiveRamp reported revenues of $212.2 million, up 8.6% year on year. This result met analysts’ expectations. Taking a step back, it was a slower quarter as it logged revenue guidance for next quarter slightly missing analysts’ expectations and full-year revenue guidance slightly missing analysts’ expectations.\n\nLiveRamp scored the highest full-year guidance raise among its peers. The company added 8 enterprise customers paying more than $1 million annually to reach a total of 140. The stock is up 18.3% since reporting and currently trades at $26.53.\n\nRead our full, actionable report on LiveRamp here, it’s free.\n\nPowered by an AI engine that processes over one trillion consumer signals monthly, Zeta Global ZETA operates a data-driven cloud platform that helps companies target, connect, and engage with consumers through personalized marketing across channels like email, social media, and video.\n\nZeta Global reported revenues of $394.6 million, up 25.4% year on year. This number surpassed analysts’ expectations by 3.7%. It was a very strong quarter as it also produced an impressive beat of analysts’ billings estimates and full-year guidance of accelerating revenue growth.\n\nThe stock is down 5.5% since reporting and currently trades at $16.05.\n\nRead our full, actionable report on Zeta Global here, it’s free.",
-    "author": null,
-    "language": "en",
-    "ticker": "TTD",
-    "tickers_hint": [
-      "TTD"
-    ],
-    "source_quality": "medium",
-    "publisher_raw": "tradingview.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "TradingView",
-      "source_domain": "tradingview.com",
-      "trust_tier": 2,
-      "relevance": 0.6,
-      "event_origin": "news",
-      "query_tickers": [
-        "TTD"
-      ],
-      "body_kind": "article_text"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "f13f0e24-70c0-5394-a8aa-386b0ec8ed61",
-    "timestamp_utc": "2026-03-31T15:30:00+00:00",
-    "source": "indexbox",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbGVKbTMtQXBPbXRRX1JBQkxKRkVMOXJqR0ZxSEpKazQ1VElkLVZDZzU5bXhHR1FnWTVleXRTZFcyWjVTaldld1hlR0w3TTJnaTlTTVlRd0pMNGxXY1NjTFFySWFucUt2cmQ5TmNwTTA0VXVGeS1FWDMydV9mT2JOSHc0S3BRcHlCa2FyS2E5N3g1NVJHQjB3WFd1QnFGdw?oc=5",
-    "title": "The Trade Desk (TTD) Stock Gains Amid Iran Talks and Software Sector Recovery - News and Statistics - IndexBox",
-    "body": "The Trade Desk (TTD) Stock Gains Amid Iran Talks and Software Sector Recovery - News and Statistics IndexBox",
-    "author": null,
-    "language": "en",
-    "ticker": "TTD",
-    "tickers_hint": [
-      "TTD"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "indexbox",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "IndexBox",
-      "source_domain": "indexbox.com",
-      "trust_tier": 1,
       "relevance": 0.5,
+      "quality_score": 0.62,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "17f193c6-09e3-5bff-8ab4-5b73c627703e",
+    "timestamp_utc": "2026-04-07T18:30:08+00:00",
+    "source": "benzinga",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdlFUODhUZm9wUG1yZmlCUmdwb1d4YWI2aEtrNDd0cHdrZ2t5Vm9Kc01mRUJBUlkxblRhSVVIX19YOGRZTnNMeG42cUZBVjAzWGlFTWtUQk5OanZGYWZ6OTlZTTZIZ1dpcUUzcUoxZFZUZmNnUEx2VEhCMkN4RE9ROFg1VnlsaU9WVUUzeDRFSkRNbWk3OFRhY2ctenJrTlN2QlJBeTJpMl84RUFfTkVOTlJrTlkzSWhLYVVaNzRLSFpSUUtVdTJz?oc=5",
+    "title": "Trade Desk Stock Rebounds After-Hours: Here's Why TTD Is Trending Tonight - Benzinga",
+    "body": "Trade Desk Stock Rebounds After-Hours: Here's Why TTD Is Trending Tonight Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "TTD",
+    "tickers_hint": [
+      "TTD"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
       "event_origin": "news",
-      "query_tickers": [
-        "TTD"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.61,
+      "_channel": "google_benzinga",
+      "_alt_sources": [
+        "Benzinga"
+      ]
+    }
   }
 ]

@@ -1,11 +1,11 @@
 [
   {
-    "id": "112ef95c-9d88-50a6-9ed1-85718301b833",
-    "timestamp_utc": "2026-04-03T06:02:40+00:00",
-    "source": "yahoo!_finance_canada",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFeVhWc0EzOG1XdEJPUDZfODM2bExlOTVCZUxjeDc5Z19OS1c3YkxkNjhobjkyenhOQlZ1THJOM1V2QWprQ3lrSTNmeXBBWFE?oc=5",
-    "title": "Edwards Lifesciences Corporation (EW) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "body": "Edwards Lifesciences Corporation (EW) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "id": "9bafb3a5-7089-5aba-8175-c37961912475",
+    "timestamp_utc": "2026-04-06T14:00:15+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8776626/edwards-lifesciences-ew-sees-analyst-rating-maintain-with-target-price-lowered-ew-stock-news?mobile=true",
+    "title": "Edwards Lifesciences (EW) Sees Analyst Rating Maintain with Targ - GuruFocus",
+    "body": "Edwards Lifesciences (EW) Sees Analyst Rating Maintain with Targ GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "EW",
@@ -13,19 +13,17 @@
       "EW"
     ],
     "source_quality": "low",
-    "publisher_raw": "yahoo! finance canada",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo! Finance Canada",
-      "source_domain": "yahoofinancecanada.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
       "event_origin": "news",
-      "query_tickers": [
-        "EW"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6,
+      "quality_score": 0.445,
+      "_channel": "google_broad"
+    }
   }
 ]

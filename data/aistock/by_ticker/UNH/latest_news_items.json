@@ -1,11 +1,11 @@
 [
   {
-    "id": "983ee13c-bcca-5f95-9cf6-795b1dbc5026",
-    "timestamp_utc": "2026-04-03T12:22:59+00:00",
+    "id": "0b99be6e-f659-54cc-b836-3b849c92a370",
+    "timestamp_utc": "2026-04-07T22:59:00+00:00",
     "source": "yahoo_finance",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTWdneGNXbUMxVFZGZkhRVEh0a0dyRnRGWWlrZTROeXd2Tmt1R2JwS3EwVFFaMi1DTUJsaEFCOHgtdzM3VnBRUkI3XzZoaDRZdnRyNHBjbHJEU3FzeDNMbUJNT2g3TlJGTHFDSXFsd1hTSFM5bi1XOVoxa3FCd2pWN0tSNzRQUkwtZVVXYTdPSDE5cXN6WXgyUjJSQU9OV21lX2NlTmxOOWk2TllY?oc=5",
-    "title": "Self-Inflicted Operational Issues Pressured UnitedHealth Group (UNH) In 2025 - Yahoo Finance",
-    "body": "Self-Inflicted Operational Issues Pressured UnitedHealth Group (UNH) In 2025 Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX3pQSnNoXy1Fcm9HTnE5bHBWRDlmbEdhVFJobUw3MC0wWEMtSVBQN3FlSHlfU3FaN0dKY2FvQklMUXNfaDhLY1ZRSXdaU1lUSkM3Q1QwUVNKTlNhNVRQOV9qWHlyeElpTjg1aG1uLWJoUjNBSFNGVjNBZXpXZGdacg?oc=5",
+    "title": "UnitedHealth (UNH) Soars 9.4%: Is Further Upside Left in the Stock? - Yahoo Finance UK",
+    "body": "UnitedHealth (UNH) Soars 9.4%: Is Further Upside Left in the Stock? Yahoo Finance UK",
     "author": null,
     "language": "en",
     "ticker": "UNH",
@@ -14,47 +14,208 @@
     ],
     "source_quality": "high",
     "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance",
+      "source_name": "Yahoo Finance UK",
       "source_domain": "finance.yahoo.com",
-      "trust_tier": 3,
-      "relevance": 0.5,
       "event_origin": "news",
-      "query_tickers": [
-        "UNH"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.655,
+      "_channel": "google_broad",
+      "_alt_sources": [
+        "qz.com"
+      ]
+    }
   },
   {
-    "id": "5a47fcad-5eb3-5b64-925d-0523bbceb20e",
-    "timestamp_utc": "2026-04-04T20:37:42+00:00",
-    "source": "insider_monkey",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc0psbzVFV2h3TmhEWXIwUWp4WTFoZF9OUTNscmJNbWFOcnFDeDJ6QWJ0VTQzOTF1Q0hXazc5c1U0VjJLMmpRQzBRdHd0Q2dIWG5VOWhXOGRPNEx6SUh0cFA1TDJBcG5jSXc4YkJTVFR0bEVtVU9nVzJNRkN5R210WnRDV3YyVW9WODg0Q0Vfb0h2WjZFVEg4UUxFYko0Nkx5UUozaURIejNPdmhnSU4wdW1rbUlPdjdVZUV6el9YWFdUdU9NUUVfZUlnU3dQd2lWb0NuelVB0gHeAUFVX3lxTE5XMlMybjJDSGhFbFh4cmtocnFlUjJQa3YzbGVxVlg4LV9SVTdUbjRLanc1R202cjNlVmVDVklGekxkRHFQRFFoNk1rdDNjeEdLcENybEV5RnlZdnpFUVI0aWxSSEFUempXR2RWdHZoRGV0Y29BZnh0OW93TWxoM0k5S1l3SEhwdkViZnZhSUU2UWtzNFNTdE5rSVMweWtXRkFLaVdSME4xRzJNX2FyX1F0VnpVU1ZHUXd4TVZxZ0tIbU1PbFBWLU42b1JwM2JpY29qTG9lRlVGc0xJZzZmdw?oc=5",
-    "title": "Is UnitedHealth Group (UNH) The Best Healthcare Stock to Buy According to Billionaire Ken Griffin? - Insider Monkey",
-    "body": "Is UnitedHealth Group (UNH) The Best Healthcare Stock to Buy According to Billionaire Ken Griffin? Insider Monkey",
+    "id": "29f8e903-27d7-5430-8a78-56b5a3666112",
+    "timestamp_utc": "2026-04-07T20:21:00+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/sectors/healthcare/articles/unitedhealth-group-unh-upgraded-over-070224075.html",
+    "title": "UnitedHealth Group (UNH) Upgraded Over Potential Upside to Earnings Estimates - Yahoo Finance",
+    "body": "UnitedHealth Group (UNH) Upgraded Over Potential Upside to Earnings Estimates Yahoo Finance",
     "author": null,
     "language": "en",
     "ticker": "UNH",
     "tickers_hint": [
       "UNH"
     ],
-    "source_quality": "medium",
-    "publisher_raw": "insidermonkey.com",
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Insider Monkey",
-      "source_domain": "insidermonkey.com",
-      "trust_tier": 2,
-      "relevance": 0.5,
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
       "event_origin": "news",
-      "query_tickers": [
-        "UNH"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6,
+      "quality_score": 0.655,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "17b98c34-52ba-5588-b105-56a502cdbffe",
+    "timestamp_utc": "2026-04-08T11:13:50+00:00",
+    "source": "seeking_alpha",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU2dha1VfT3hCY1Ixc3pqdWE4cnNDc2NBT0JJNWx2SjFURVdRTVFOYUlSUC1qQWd3eGhHSG1UbmNYZE9VX1pqX1ZyUkxsZFN3ZjBVV2V6U3BaZHdUU2hLTkxjY1MySlpOMm1uMk1vSnF2ckp2bkJWMnAtUTZJSFpJTkZxTVprbERSbmN2RGNGVFNPemRIVV9tSg?oc=5",
+    "title": "UnitedHealth Could Reprice Soon: The Catalyst Is Here (NYSE:UNH) - Seeking Alpha",
+    "body": "UnitedHealth Could Reprice Soon: The Catalyst Is Here (NYSE:UNH) Seeking Alpha",
+    "author": null,
+    "language": "en",
+    "ticker": "UNH",
+    "tickers_hint": [
+      "UNH"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "seekingalpha.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Seeking Alpha",
+      "source_domain": "seekingalpha.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.62,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "fbfa1117-b22e-5676-b845-a22358cf4d5d",
+    "timestamp_utc": "2026-04-07T18:51:08+00:00",
+    "source": "tipranks",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRGFZeDdGcGdFR3hOU2pUOWVHbnpicGhfbVBWaUNNQkw0SW53QXZpX1dWQ05VV1dYMFF1ZlNleDdQQzZzTy11ZkFhVEhkMW8xcXQ0LTZXcVczV1oySlVaei0xbjNyUUx1eXNubEp6OU1EUjFVS0daZXhSbzRoSkhHVER2ZTZheDMxeW1KM3BCcllIVjlLck03eC0wV0tKYXNRZVBpY0NrVDRtZl9oTmRGZmxCQ0pFbmJ0LS1HR2ZCTQ?oc=5",
+    "title": "UnitedHealth (UNH) vs. Humana (HUM): Which Healthcare Stock Is the Better Bet After the CMS Update? - TipRanks",
+    "body": "UnitedHealth (UNH) vs. Humana (HUM): Which Healthcare Stock Is the Better Bet After the CMS Update? TipRanks",
+    "author": null,
+    "language": "en",
+    "ticker": "UNH",
+    "tickers_hint": [
+      "UNH"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "tipranks.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.615,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "77e8e303-edb7-5942-af0b-ffec66f9cd37",
+    "timestamp_utc": "2026-04-08T14:05:16+00:00",
+    "source": "mshale",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16eWFzbDkwUW1VeDhYejBBWE0zLVlndTVGRkxURTBoYVl0S0JrQTl3d0RQbUc0MmZqU1RJT0M3UTU2SU5ab0xlZzF0dGhQdkNZN2tCY05YUmRWV3B2UzV1QXJDQQ?oc=5",
+    "title": "UNH Stock Friday Forecast | UnitedHealth Group (UNH) Stock Analysis & Weekly Close Click The Next Page (ItWe7i0pA5) - Mshale",
+    "body": "UNH Stock Friday Forecast | UnitedHealth Group (UNH) Stock Analysis & Weekly Close Click The Next Page (ItWe7i0pA5) Mshale",
+    "author": null,
+    "language": "en",
+    "ticker": "UNH",
+    "tickers_hint": [
+      "UNH"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "mshale",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Mshale",
+      "source_domain": "mshale.com",
+      "event_origin": "news",
+      "relevance": 0.6000000000000001,
+      "quality_score": 0.485,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "eff8a09e-f040-5aa7-942a-b954c67c2c66",
+    "timestamp_utc": "2026-04-08T12:42:46+00:00",
+    "source": "mshale",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HRVB4R0VmYkFzd0Jjcjg5M1hTNGU2aTZuVXlqX1lrczMwUEpTdlNVejY2RnloR2pCTm5SU00xZVc1bE1rLUc4ZzNGOWREZ0NERVhKb1dRSXRzQ0lpSE5Yajl2NA?oc=5",
+    "title": "UNH Stock (UnitedHealth Group Inc.) UNH Stock Analysis | January 9, 2026 Full Content (3oNr9plq5a) - Mshale",
+    "body": "UNH Stock (UnitedHealth Group Inc.) UNH Stock Analysis | January 9, 2026 Full Content (3oNr9plq5a) Mshale",
+    "author": null,
+    "language": "en",
+    "ticker": "UNH",
+    "tickers_hint": [
+      "UNH"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "mshale",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Mshale",
+      "source_domain": "mshale.com",
+      "event_origin": "news",
+      "relevance": 0.6000000000000001,
+      "quality_score": 0.45,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "64463044-13d5-571b-b8ab-9d944fcd33ea",
+    "timestamp_utc": "2026-04-08T13:03:44+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8782884/unitedhealth-unh-shares-dip-after-sixday-rally",
+    "title": "UnitedHealth (UNH) Shares Dip After Six-Day Rally - GuruFocus",
+    "body": "UnitedHealth (UNH) Shares Dip After Six-Day Rally GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "UNH",
+    "tickers_hint": [
+      "UNH"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4285,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "2340939c-df84-5098-a7e0-ce7177976205",
+    "timestamp_utc": "2026-04-08T12:24:36+00:00",
+    "source": "mshale",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QeHJSZlZEVzhfdy1MZmFlV2dYd090VWhtdnQxM191S2F2djQ0RkpXNFFrM2FzN3JsTXpwWUYxOU5vbFFvb1VEOG5GSDFISGhpVll4SFRlZFpEUks5UDVWQjYyQQ?oc=5",
+    "title": "UNH Stock Prediction Today | UnitedHealth Group Stock Analysis – Will This Level Hold? Blog (gZM2Qo7q9i) - Mshale",
+    "body": "UNH Stock Prediction Today | UnitedHealth Group Stock Analysis – Will This Level Hold? Blog (gZM2Qo7q9i) Mshale",
+    "author": null,
+    "language": "en",
+    "ticker": "UNH",
+    "tickers_hint": [
+      "UNH"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "mshale",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Mshale",
+      "source_domain": "mshale.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.425,
+      "_channel": "google_broad"
+    }
   }
 ]

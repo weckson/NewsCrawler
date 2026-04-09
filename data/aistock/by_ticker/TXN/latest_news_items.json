@@ -1,11 +1,119 @@
 [
   {
-    "id": "faf5b24f-5820-5320-9141-0e5531d123af",
-    "timestamp_utc": "2026-04-03T08:51:57+00:00",
+    "id": "82056dda-3133-5ef3-936d-f128747db98e",
+    "timestamp_utc": "2026-04-08T22:06:19+00:00",
+    "source": "investing.com",
+    "url": "https://www.investing.com/news/analyst-ratings/stifel-upgrades-texas-instruments-stock-rating-on-manufacturing-outlook-93CH-4604677",
+    "title": "Stifel upgrades Texas Instruments stock rating on manufacturing outlook - Investing.com",
+    "body": "Stifel upgrades Texas Instruments stock rating on manufacturing outlook Investing.com",
+    "author": null,
+    "language": "en",
+    "ticker": "TXN",
+    "tickers_hint": [
+      "TXN"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "investing.com",
+    "trust_tier": 2,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Investing.com",
+      "source_domain": "investing.com",
+      "event_origin": "news",
+      "relevance": 0.6,
+      "quality_score": 0.605,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "6f49330b-2362-565a-aee6-73d4072ae78e",
+    "timestamp_utc": "2026-04-09T01:07:27+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8783340/texas-instruments-txn-receives-rating-upgrade-from-stifel-txn-stock-news",
+    "title": "Texas Instruments (TXN) Receives Rating Upgrade from Stifel | TX - GuruFocus",
+    "body": "Texas Instruments (TXN) Receives Rating Upgrade from Stifel | TX GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "TXN",
+    "tickers_hint": [
+      "TXN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "event_origin": "news",
+      "relevance": 0.7000000000000001,
+      "quality_score": 0.51,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "c3a65d98-d3ad-5c67-90c4-c5a728b5b88f",
+    "timestamp_utc": "2026-04-08T07:12:56+00:00",
+    "source": "gurufocus",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWFh3UmYwR0xlUExWSTUwTHR3SElmUGktNFpBSmZOdVNpZHRnMkpSQ3FhS3V2eS1IVVFNU0hiOGNkTGVmWmd0S3hCclFfU05iZjcxT3A1bzZhU2wyV0tLajRIb2xCcE1hT19pczByMDFobnZHNzQwNzBPMEV3VVhlWHA5WjR2b0RGcDdMM2QxNnhISVU3WFluUXB0TUtDNXVfQzlURnFFOA?oc=5",
+    "title": "Texas Instruments Inc (TXN) Stock Price Up 4.11% on Apr 8 - GuruFocus",
+    "body": "Texas Instruments Inc (TXN) Stock Price Up 4.11% on Apr 8 GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "TXN",
+    "tickers_hint": [
+      "TXN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "event_origin": "news",
+      "relevance": 0.6000000000000001,
+      "quality_score": 0.465,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "a2d1075f-d475-5f6b-84e7-db94c07e49f7",
+    "timestamp_utc": "2026-04-09T01:56:54+00:00",
+    "source": "bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPREx6cWJpR25nY0VGQVRiMGpDZjk3aXNMTW14cFliUlVPdUpmSDZ0bEdQdmItUWRkWS0tYXJTT2lNcjVPVDBabkpqWGRaNjctemhhbGItYmxnOFNZRmljOC1GRlFjQ1VkU0RFaU1zelBJeEtPTXFXYlJ0ak5oWjVEYnpaMDBRT3BFMTJFdE8xM05CR3ZwTGF4U0poMHBqenRXUWo1b3JhTXVmV1d4Sm5TbQ?oc=5",
+    "title": "US Premarket Movers: CoreWeave, Instacart, Texas Instruments - Bloomberg.com",
+    "body": "US Premarket Movers: CoreWeave, Instacart, Texas Instruments Bloomberg.com",
+    "author": null,
+    "language": "en",
+    "ticker": "TXN",
+    "tickers_hint": [
+      "TXN"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "bloomberg.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Bloomberg.com",
+      "source_domain": "bloombergcom.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.45,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "fb068938-126c-546c-8058-e446fa8b5857",
+    "timestamp_utc": "2026-04-08T02:54:57+00:00",
     "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-eldred-rock-partners-llc-decreases-stake-in-texas-instruments-incorporated-txn-2026-04-03/",
-    "title": "Eldred Rock Partners LLC Decreases Stake in Texas Instruments Incorporated $TXN - MarketBeat",
-    "body": "Eldred Rock Partners LLC Decreases Stake in Texas Instruments Incorporated $TXN MarketBeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-yousif-capital-management-llc-trims-stake-in-texas-instruments-incorporated-txn-2026-04-08/",
+    "title": "Yousif Capital Management LLC Trims Stake in Texas Instruments Incorporated $TXN - MarketBeat",
+    "body": "Yousif Capital Management LLC Trims Stake in Texas Instruments Incorporated $TXN MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "TXN",
@@ -14,27 +122,25 @@
     ],
     "source_quality": "low",
     "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "MarketBeat",
       "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.6500000000000001,
       "event_origin": "news",
-      "query_tickers": [
-        "TXN"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.4475,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "32d93c2a-4679-5b46-b033-498d74dfb3eb",
-    "timestamp_utc": "2026-04-05T01:10:49+00:00",
-    "source": "stocktitan.net",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YXzRqZm1Bd1A3dlIzYXJ6NDMzc3JEQ3VVaDdCdWRETWhlOXFXYy1mdnRBbXg1TllzVS03cHlla1RKZ0dEWUFXQWY5WnhYMVVaTlBHMXBYYlNpbTFwXzNEcnFRSkhtbmFBZ3NYVA?oc=5",
-    "title": "If You Invested $1,000 in Texas Instrument (TXN) - stocktitan.net",
-    "body": "If You Invested $1,000 in Texas Instrument (TXN) stocktitan.net",
+    "id": "569b420b-6ac0-5266-8ec7-17446375c82c",
+    "timestamp_utc": "2026-04-08T08:34:07+00:00",
+    "source": "traders_union",
+    "url": "https://tradersunion.com/news/financial-news/show/1861962-texas-instruments-surges-3-94percent-today/",
+    "title": "Why is Texas Instruments stock up today? - Traders Union",
+    "body": "Why is Texas Instruments stock up today? Traders Union",
     "author": null,
     "language": "en",
     "ticker": "TXN",
@@ -42,19 +148,17 @@
       "TXN"
     ],
     "source_quality": "low",
-    "publisher_raw": "stocktitan.net",
+    "publisher_raw": "traders union",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "stocktitan.net",
-      "source_domain": "stocktitannet.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "Traders Union",
+      "source_domain": "tradersunion.com",
       "event_origin": "news",
-      "query_tickers": [
-        "TXN"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4135,
+      "_channel": "google_broad"
+    }
   }
 ]

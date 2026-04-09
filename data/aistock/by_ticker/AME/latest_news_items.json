@@ -1,11 +1,11 @@
 [
   {
-    "id": "f9eb911b-ccd4-5a79-acf8-f8dc1afed19f",
-    "timestamp_utc": "2026-04-03T20:04:08+00:00",
-    "source": "yahoo!_finance_canada",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QUVJZbnE2T0ZrQnhFN0FwMFpwWGdtLVJHU1QzaUVURmdxQmxXNmhmbmRVcGJLOG1Kc1RTWXhkcXBVN0JEaHJpMk5WRjZCRnI0RzFTMHluakFQeVZTS21GNW9n?oc=5",
-    "title": "Abacus Mining & Exploration Corporation (AME.V) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "body": "Abacus Mining & Exploration Corporation (AME.V) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "id": "9aef46e8-1cdf-5d18-8ee3-7367006f1859",
+    "timestamp_utc": "2026-04-08T10:04:46+00:00",
+    "source": "msn",
+    "url": "https://www.msn.com/en-us/money/topstocks/will-ametek-ame-beat-estimates-again-in-its-next-earnings-report/ar-AA20qWsF",
+    "title": "Will Ametek (AME) beat estimates again in its next earnings report? - MSN",
+    "body": "Will Ametek (AME) beat estimates again in its next earnings report? MSN",
     "author": null,
     "language": "en",
     "ticker": "AME",
@@ -13,19 +13,44 @@
       "AME"
     ],
     "source_quality": "low",
-    "publisher_raw": "yahoo! finance canada",
+    "publisher_raw": "msn",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo! Finance Canada",
-      "source_domain": "yahoofinancecanada.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "MSN",
+      "source_domain": "msn.com",
       "event_origin": "news",
-      "query_tickers": [
-        "AME"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6,
+      "quality_score": 0.465,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "c7f0dc2a-e240-519b-bff1-8fee2923b645",
+    "timestamp_utc": "2026-04-08T23:33:29+00:00",
+    "source": "national_today",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSlVLbkR1R2h1YjY4X3FLUTR2S2dOTzlpT2tqaWhCaFlnaEJGbTNXZ05yS24tcURoVUZ6VWYzalg4MnNWTHRWUElOdGluRWRIVnlVaUVaMDVNQlZocTYyWHllY2NKeDlYYS05ZmM3aFN3Z3NTMzNxVGZYUFd2MDY4TW5PZDdQcXNRNE5lX04zVGlhU0hkd0V6Y29YNk5qZkJPVGhlZjFDNHNhUXF4bGhtbUVzaHlRZGMxbnVCZ3dySQ?oc=5",
+    "title": "CCLA Investment Management Buys 12,907 Shares of AMETEK, Inc. $AME - National Today",
+    "body": "CCLA Investment Management Buys 12,907 Shares of AMETEK, Inc. $AME National Today",
+    "author": null,
+    "language": "en",
+    "ticker": "AME",
+    "tickers_hint": [
+      "AME"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "national today",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "National Today",
+      "source_domain": "nationaltoday.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.43,
+      "_channel": "google_broad"
+    }
   }
 ]

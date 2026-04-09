@@ -2,123 +2,63 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "587a069f-f0c8-5bed-906a-57c0ca5428a9",
-      "timestamp_utc": "2026-04-03T18:41:27+00:00",
-      "source": "tipranks",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3RoRFNWUFpuZFBtcTlmXzBfa1NDaWVOU2t3QmliOExhMG01aS00NUMyQ0JuOENZbWtMZjJYMFd3RVd6eXhfVVprQ2ZRWFdLcm9vYVFaM1YzX0FicklhYzN1SWNObWNBN1QwNmtyWDlJUWZ1Y3o3djItdW9SQ3hwR25MYW1MZ3hqblZhSlZ0a3ZQTHZlYkRUM09BXzF2TEY5elYydEJYNUVwTzQ?oc=5",
-      "title": "Berkshire Hathaway (BRK.B) Insures Ships Traveling Through the Strait of Hormuz - TipRanks",
-      "body": "Berkshire Hathaway (BRK.B) Insures Ships Traveling Through the Strait of Hormuz TipRanks",
+      "id": "884bb7f0-873b-53db-afc7-2fb8136ff010",
+      "timestamp_utc": "2026-04-08T10:30:59+00:00",
+      "source": "stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOU2o5RUpaSW91QTAtWUUwbVJwWkxIai1XRHl0YzhUbjBOcnhvNGtOS2Z0V3dHS3hGSGJ5OXROaFRfYWJNczdaRC1oTklJZEFmbWVLWmtrNVFLR1ZpMm1zaWlyelQtdXkxaGxTa2hYTmU5UEtHWEtfSWlMeDdmZ18wb1dsWHBpSTJLMVpMTnlRRVZpX1cxUEwzMG9ERDVnSnQzSmxpQWM0X0thUDNQTGl5UVFoVk1lWHRpY1Y4U3F1N1ZJVFhRY0RVbUp0TGE0Zw?oc=5",
+      "title": "Dow, S&P 500, Nasdaq Futures Dip As US-Iran Ceasefire Doubts Resurface: Why APLD, BRK.B, PLTR, COST Stocks Are Trending After-Hours - Stocktwits",
+      "body": "Dow, S&P 500, Nasdaq Futures Dip As US-Iran Ceasefire Doubts Resurface: Why APLD, BRK.B, PLTR, COST Stocks Are Trending After-Hours Stocktwits",
       "author": null,
       "language": "en",
       "ticker": "BRK.B",
       "tickers_hint": [
-        "BRK.B"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "tipranks.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "TipRanks",
-        "source_domain": "tipranks.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "BRK.B"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "2910d4fa-d688-5201-a04e-b38ae46569f5",
-      "timestamp_utc": "2026-04-05T05:11:00+00:00",
-      "source": "yahoo_finance_singapore",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOUVqbVdTVXJnN0lBQkxwdENHT1FEbk1XdmJwU1VDdE5wUGtRN1RtdHk4YjdkZTV3N1NLNVFpVFhBTFI3Q1NaV0pjVzJoYlZSVHQ4NGlnWXJhaVlNc1VYZFF0RzgxYm1WVDh3Z050VEJPSXhEVXhsWjdiYW92U3dtRkRmT0g?oc=5",
-      "title": "Does Berkshire Hathaway (BRK.B) Offer Value After Recent Share Price Softness? - Yahoo Finance Singapore",
-      "body": "Does Berkshire Hathaway (BRK.B) Offer Value After Recent Share Price Softness? Yahoo Finance Singapore",
-      "author": null,
-      "language": "en",
-      "ticker": "BRK.B",
-      "tickers_hint": [
-        "BRK.B"
+        "BRK.B",
+        "COST"
       ],
       "source_quality": "low",
-      "publisher_raw": "yahoo finance singapore",
+      "publisher_raw": "stocktwits",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance Singapore",
-        "source_domain": "yahoofinancesingapore.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Stocktwits",
+        "source_domain": "stocktwits.com",
         "event_origin": "news",
-        "query_tickers": [
-          "BRK.B"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.44,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "587a069f-f0c8-5bed-906a-57c0ca5428a9",
-      "timestamp_utc": "2026-04-03T18:41:27+00:00",
-      "source": "tipranks",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3RoRFNWUFpuZFBtcTlmXzBfa1NDaWVOU2t3QmliOExhMG01aS00NUMyQ0JuOENZbWtMZjJYMFd3RVd6eXhfVVprQ2ZRWFdLcm9vYVFaM1YzX0FicklhYzN1SWNObWNBN1QwNmtyWDlJUWZ1Y3o3djItdW9SQ3hwR25MYW1MZ3hqblZhSlZ0a3ZQTHZlYkRUM09BXzF2TEY5elYydEJYNUVwTzQ?oc=5",
-      "title": "Berkshire Hathaway (BRK.B) Insures Ships Traveling Through the Strait of Hormuz - TipRanks",
-      "body": "Berkshire Hathaway (BRK.B) Insures Ships Traveling Through the Strait of Hormuz TipRanks",
+      "id": "884bb7f0-873b-53db-afc7-2fb8136ff010",
+      "timestamp_utc": "2026-04-08T10:30:59+00:00",
+      "source": "stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOU2o5RUpaSW91QTAtWUUwbVJwWkxIai1XRHl0YzhUbjBOcnhvNGtOS2Z0V3dHS3hGSGJ5OXROaFRfYWJNczdaRC1oTklJZEFmbWVLWmtrNVFLR1ZpMm1zaWlyelQtdXkxaGxTa2hYTmU5UEtHWEtfSWlMeDdmZ18wb1dsWHBpSTJLMVpMTnlRRVZpX1cxUEwzMG9ERDVnSnQzSmxpQWM0X0thUDNQTGl5UVFoVk1lWHRpY1Y4U3F1N1ZJVFhRY0RVbUp0TGE0Zw?oc=5",
+      "title": "Dow, S&P 500, Nasdaq Futures Dip As US-Iran Ceasefire Doubts Resurface: Why APLD, BRK.B, PLTR, COST Stocks Are Trending After-Hours - Stocktwits",
+      "body": "Dow, S&P 500, Nasdaq Futures Dip As US-Iran Ceasefire Doubts Resurface: Why APLD, BRK.B, PLTR, COST Stocks Are Trending After-Hours Stocktwits",
       "author": null,
       "language": "en",
       "ticker": "BRK.B",
       "tickers_hint": [
-        "BRK.B"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "tipranks.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "TipRanks",
-        "source_domain": "tipranks.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "BRK.B"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "2910d4fa-d688-5201-a04e-b38ae46569f5",
-      "timestamp_utc": "2026-04-05T05:11:00+00:00",
-      "source": "yahoo_finance_singapore",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOUVqbVdTVXJnN0lBQkxwdENHT1FEbk1XdmJwU1VDdE5wUGtRN1RtdHk4YjdkZTV3N1NLNVFpVFhBTFI3Q1NaV0pjVzJoYlZSVHQ4NGlnWXJhaVlNc1VYZFF0RzgxYm1WVDh3Z050VEJPSXhEVXhsWjdiYW92U3dtRkRmT0g?oc=5",
-      "title": "Does Berkshire Hathaway (BRK.B) Offer Value After Recent Share Price Softness? - Yahoo Finance Singapore",
-      "body": "Does Berkshire Hathaway (BRK.B) Offer Value After Recent Share Price Softness? Yahoo Finance Singapore",
-      "author": null,
-      "language": "en",
-      "ticker": "BRK.B",
-      "tickers_hint": [
-        "BRK.B"
+        "BRK.B",
+        "COST"
       ],
       "source_quality": "low",
-      "publisher_raw": "yahoo finance singapore",
+      "publisher_raw": "stocktwits",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance Singapore",
-        "source_domain": "yahoofinancesingapore.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Stocktwits",
+        "source_domain": "stocktwits.com",
         "event_origin": "news",
-        "query_tickers": [
-          "BRK.B"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.44,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

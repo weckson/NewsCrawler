@@ -1,11 +1,11 @@
 [
   {
-    "id": "c40cdd80-8690-5774-aee9-3faa18dc3dc0",
-    "timestamp_utc": "2026-04-01T16:10:03+00:00",
-    "source": "yahoo_finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-gs-beat-estimates-again-161003884.html",
-    "title": "Will Goldman (GS) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
-    "body": "Will Goldman (GS) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance",
+    "id": "97dfd2f2-fc61-5c35-b522-8082dc36cde4",
+    "timestamp_utc": "2026-04-08T08:22:08+00:00",
+    "source": "tipranks",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdmxuTHpXaDhVS1dkRHpBQ0JsZ0JObHNZcXVYQ25QX1FZaDZWSWplbGR1dlhWM0F5ZlIyRWk0UjJBVUdtczIwN2dmM3dka0QyZVYwN3MtYmQ4LVpiZ0kteUlUNjJjdVB4QXpRVTMzOXFwR2hVQU4yWVJiaVAxVndOWlNhbE1kLTFtd2x2S1NvRHp3ZkctekJWOWVwWXdVcGRG?oc=5",
+    "title": "This Is the Best Semiconductor Stock to Buy Now, Says Goldman Sachs (GS) - TipRanks",
+    "body": "This Is the Best Semiconductor Stock to Buy Now, Says Goldman Sachs (GS) TipRanks",
     "author": null,
     "language": "en",
     "ticker": "GS",
@@ -13,19 +13,17 @@
       "GS"
     ],
     "source_quality": "high",
-    "publisher_raw": "finance.yahoo.com",
+    "publisher_raw": "tipranks.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance",
-      "source_domain": "finance.yahoo.com",
-      "trust_tier": 3,
-      "relevance": 0.6,
+      "source_name": "TipRanks",
+      "source_domain": "tipranks.com",
       "event_origin": "news",
-      "query_tickers": [
-        "GS"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.62,
+      "_channel": "google_broad"
+    }
   }
 ]

@@ -1,11 +1,11 @@
 [
   {
-    "id": "e7d6f54f-3f03-5a1e-8c22-2dba403c0b54",
-    "timestamp_utc": "2026-04-03T20:06:26+00:00",
-    "source": "yahoo!_finance_canada",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qbDZrQUJlclEybFlQa3h0bzdJTFJCVjJSTXdDQ3RFYmI1Mm92QVAyVElEaHo5U0l4V3NiTWQzeGNnXy1XMVdWdGxKUlBVVGlqR3FncE1PS3QtdDB3a3dFX2pkX00?oc=5",
-    "title": "APH Jul 2026 145.000 put (APH260717P00145000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "body": "APH Jul 2026 145.000 put (APH260717P00145000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "id": "46d02dba-56cb-59fc-b4d7-02d0d6d708a4",
+    "timestamp_utc": "2026-04-08T08:58:50+00:00",
+    "source": "gurufocus",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUUpJODdqOGIzaFF2ZWxRbGlHU1RRVFlza1NVejF5UF9kcm5sUmRfUl93ZEVGXzczYmFVblBSSkpsWHpBS1dQdGhLS2dWTWY2TWtNdE1lWEw1d3hMOG5UejhWOHBxT08tNzd5dGwyY3g5SkZadDV6T0NVZElnMUlCN01QY3BMbDMyNmRvcWdBWnc2N25BMWlfNENFenA?oc=5",
+    "title": "Amphenol Corp (APH) Stock Price Up 4.06% on Apr 8 - GuruFocus",
+    "body": "Amphenol Corp (APH) Stock Price Up 4.06% on Apr 8 GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "APH",
@@ -13,19 +13,17 @@
       "APH"
     ],
     "source_quality": "low",
-    "publisher_raw": "yahoo! finance canada",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo! Finance Canada",
-      "source_domain": "yahoofinancecanada.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
       "event_origin": "news",
-      "query_tickers": [
-        "APH"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.431,
+      "_channel": "google_broad"
+    }
   }
 ]

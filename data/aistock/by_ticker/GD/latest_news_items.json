@@ -1,11 +1,38 @@
 [
   {
-    "id": "c4046f02-3de7-52e5-a3b5-7ee5e8bdd634",
-    "timestamp_utc": "2026-04-01T06:01:15+00:00",
+    "id": "1ec7c779-d7c0-5353-9cd0-972f7e365ebf",
+    "timestamp_utc": "2026-04-09T02:01:14+00:00",
+    "source": "chartmill",
+    "url": "https://www.chartmill.com/news/GD/Chartmill-45170-General-Dynamics-Corp-NYSEGD-A-High-Scoring-Dividend-Stock-with-Strong-Fundamentals",
+    "title": "General Dynamics Corp (NYSE:GD): A High-Scoring Dividend Stock with Strong Fundamentals - ChartMill",
+    "body": "General Dynamics Corp (NYSE:GD): A High-Scoring Dividend Stock with Strong Fundamentals ChartMill",
+    "author": null,
+    "language": "en",
+    "ticker": "GD",
+    "tickers_hint": [
+      "GD"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "chartmill",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "ChartMill",
+      "source_domain": "chartmill.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4775,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "d14fa922-bb09-5bf6-8bac-50b7955f16b2",
+    "timestamp_utc": "2026-04-08T04:07:38+00:00",
     "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/citigroup-has-lowered-expectations-for-general-dynamics-nysegd-stock-price-2026-04-01/",
-    "title": "Citigroup Has Lowered Expectations for General Dynamics (NYSE:GD) Stock Price - MarketBeat",
-    "body": "Citigroup Has Lowered Expectations for General Dynamics (NYSE:GD) Stock Price MarketBeat",
+    "url": "https://www.marketbeat.com/instant-alerts/bnp-paribas-exane-issues-positive-forecast-for-general-dynamics-nysegd-stock-price-2026-04-08/",
+    "title": "BNP Paribas Exane Issues Positive Forecast for General Dynamics (NYSE:GD) Stock Price - MarketBeat",
+    "body": "BNP Paribas Exane Issues Positive Forecast for General Dynamics (NYSE:GD) Stock Price MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "GD",
@@ -14,47 +41,16 @@
     ],
     "source_quality": "low",
     "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "MarketBeat",
       "source_domain": "marketbeat.com",
-      "trust_tier": 1,
+      "event_origin": "news",
       "relevance": 0.55,
-      "event_origin": "news",
-      "query_tickers": [
-        "GD"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "834922ba-2177-53e8-bb8c-34e80591ccf0",
-    "timestamp_utc": "2026-04-01T06:30:00+00:00",
-    "source": "gurufocus",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV2RaeGlnRlcxMlRmX25RWUQzekxYWE9uWlAyQ3dJRnZqTDJBbHRGZE5JQjBzclh3X05RUlNsS1RfVThrQV9wRzdmaDhDYjBSSDd6ZnRLWndDVFhnMzFlVk9RM2xlcGVOV1lPUFQyRlpfdFNkcnFvczJKLXA0YkR3THVaNUtUaTU1aW9pNFpBaTFvZUpKaHBpbTNEUFZaa3lfR2k5NmRfQVhvaVQ4WnN4OWtWQ1lkcXV6X2kzNmtET1d1R2d3?oc=5",
-    "title": "General Dynamics (GD): Wells Fargo Initiates Coverage with Overw - GuruFocus",
-    "body": "General Dynamics (GD): Wells Fargo Initiates Coverage with Overw GuruFocus",
-    "author": null,
-    "language": "en",
-    "ticker": "GD",
-    "tickers_hint": [
-      "GD"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "gurufocus.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "GuruFocus",
-      "source_domain": "gurufocus.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "GD"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.4375,
+      "_channel": "google_broad"
+    }
   }
 ]

@@ -2,123 +2,61 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "f80ff92a-0db0-524f-8499-8a04b18481a5",
-      "timestamp_utc": "2026-04-01T11:17:48+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/lockheed-martin-nyselmt-stock-price-up-24-following-analyst-upgrade-2026-04-01/",
-      "title": "Lockheed Martin (NYSE:LMT) Stock Price Up 2.4% Following Analyst Upgrade - MarketBeat",
-      "body": "Lockheed Martin (NYSE:LMT) Stock Price Up 2.4% Following Analyst Upgrade MarketBeat",
+      "id": "376d0991-00cc-5b71-941a-0a231600f4d7",
+      "timestamp_utc": "2026-04-08T03:50:10+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZzhNTlJRRVVmNWRhQVNKZEdnTTF1ckhvMW9CVEY1VE1za3hIbGw5bmZtaG1rdWRacTQxMmF6dGJzR1FFOGRxaWVWVzlraENFS2tiN25MVzlSTTNUTHNsMlV5bVJYaXc4VzJmaFFnd0NEVVRTd0J5YUhkX3RsVV9rRk1nRUxsVF9RZmk2VXdwRDlzQWNINm9odTEtMA?oc=5",
+      "title": "Wars cut output and force hard fiscal trade-offs, IMF says (LMT:NYSE) - Seeking Alpha",
+      "body": "Wars cut output and force hard fiscal trade-offs, IMF says (LMT:NYSE) Seeking Alpha",
       "author": null,
       "language": "en",
       "ticker": "LMT",
       "tickers_hint": [
         "LMT"
       ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.65,
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
         "event_origin": "news",
-        "query_tickers": [
-          "LMT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "18b5e355-2dfd-5478-b875-1cb4d519963b",
-      "timestamp_utc": "2026-04-01T08:48:17+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-forecasts-strong-price-appreciation-for-lockheed-martin-nyselmt-stock-2026-04-01/",
-      "title": "Citigroup Forecasts Strong Price Appreciation for Lockheed Martin (NYSE:LMT) Stock - MarketBeat",
-      "body": "Citigroup Forecasts Strong Price Appreciation for Lockheed Martin (NYSE:LMT) Stock MarketBeat",
-      "author": null,
-      "language": "en",
-      "ticker": "LMT",
-      "tickers_hint": [
-        "LMT"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "LMT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.635,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "f80ff92a-0db0-524f-8499-8a04b18481a5",
-      "timestamp_utc": "2026-04-01T11:17:48+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/lockheed-martin-nyselmt-stock-price-up-24-following-analyst-upgrade-2026-04-01/",
-      "title": "Lockheed Martin (NYSE:LMT) Stock Price Up 2.4% Following Analyst Upgrade - MarketBeat",
-      "body": "Lockheed Martin (NYSE:LMT) Stock Price Up 2.4% Following Analyst Upgrade MarketBeat",
+      "id": "376d0991-00cc-5b71-941a-0a231600f4d7",
+      "timestamp_utc": "2026-04-08T03:50:10+00:00",
+      "source": "seeking_alpha",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZzhNTlJRRVVmNWRhQVNKZEdnTTF1ckhvMW9CVEY1VE1za3hIbGw5bmZtaG1rdWRacTQxMmF6dGJzR1FFOGRxaWVWVzlraENFS2tiN25MVzlSTTNUTHNsMlV5bVJYaXc4VzJmaFFnd0NEVVRTd0J5YUhkX3RsVV9rRk1nRUxsVF9RZmk2VXdwRDlzQWNINm9odTEtMA?oc=5",
+      "title": "Wars cut output and force hard fiscal trade-offs, IMF says (LMT:NYSE) - Seeking Alpha",
+      "body": "Wars cut output and force hard fiscal trade-offs, IMF says (LMT:NYSE) Seeking Alpha",
       "author": null,
       "language": "en",
       "ticker": "LMT",
       "tickers_hint": [
         "LMT"
       ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.65,
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
         "event_origin": "news",
-        "query_tickers": [
-          "LMT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "18b5e355-2dfd-5478-b875-1cb4d519963b",
-      "timestamp_utc": "2026-04-01T08:48:17+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-forecasts-strong-price-appreciation-for-lockheed-martin-nyselmt-stock-2026-04-01/",
-      "title": "Citigroup Forecasts Strong Price Appreciation for Lockheed Martin (NYSE:LMT) Stock - MarketBeat",
-      "body": "Citigroup Forecasts Strong Price Appreciation for Lockheed Martin (NYSE:LMT) Stock MarketBeat",
-      "author": null,
-      "language": "en",
-      "ticker": "LMT",
-      "tickers_hint": [
-        "LMT"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "LMT"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.635,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

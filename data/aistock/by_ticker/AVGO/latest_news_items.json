@@ -1,11 +1,11 @@
 [
   {
-    "id": "59905f99-950b-5b6e-822c-c9ecd96f77de",
-    "timestamp_utc": "2026-04-05T07:42:45+00:00",
+    "id": "0753ea49-f293-5f2d-a006-a20bf02fcbbc",
+    "timestamp_utc": "2026-04-08T22:13:36+00:00",
     "source": "tipranks",
-    "url": "https://www.tipranks.com/news/broadcom-avgo-or-marvell-mrvl-top-analyst-picks-the-better-chip-stock",
-    "title": "Broadcom (AVGO) or Marvell (MRVL)? Top Analyst Picks the Better Chip Stock - TipRanks",
-    "body": "Broadcom (AVGO) or Marvell (MRVL)? Top Analyst Picks the Better Chip Stock TipRanks",
+    "url": "https://www.tipranks.com/news/seaport-downgrades-broadcom-stock-avgo-to-hold-says-gains-are-fully-factored-in",
+    "title": "Seaport Downgrades Broadcom Stock (AVGO) to Hold — Says ‘Gains Are Fully Factored In’ - TipRanks",
+    "body": "Seaport Downgrades Broadcom Stock (AVGO) to Hold — Says ‘Gains Are Fully Factored In’ TipRanks",
     "author": null,
     "language": "en",
     "ticker": "AVGO",
@@ -14,56 +14,25 @@
     ],
     "source_quality": "high",
     "publisher_raw": "tipranks.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "TipRanks",
       "source_domain": "tipranks.com",
-      "trust_tier": 3,
-      "relevance": 0.7000000000000001,
       "event_origin": "news",
-      "query_tickers": [
-        "AVGO"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "0e4c8409-5061-50c6-924f-fd9368c959e6",
-    "timestamp_utc": "2026-04-03T15:30:03+00:00",
-    "source": "yahoo_finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-down-5-153003917.html",
-    "title": "Broadcom Inc. (AVGO) Down 5.5% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
-    "body": "Broadcom Inc. (AVGO) Down 5.5% Since Last Earnings Report: Can It Rebound? Yahoo Finance",
-    "author": null,
-    "language": "en",
-    "ticker": "AVGO",
-    "tickers_hint": [
-      "AVGO"
-    ],
-    "source_quality": "high",
-    "publisher_raw": "finance.yahoo.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance",
-      "source_domain": "finance.yahoo.com",
-      "trust_tier": 3,
       "relevance": 0.6500000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "AVGO"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.6925,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "c725cfd9-6504-5871-8673-dbf1ae24d361",
-    "timestamp_utc": "2026-04-03T21:42:58+00:00",
+    "id": "0ed2d28c-cf4a-5e21-ba85-1e28380f6952",
+    "timestamp_utc": "2026-04-08T03:48:47+00:00",
     "source": "yahoo_finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-billionaire-steve-214258758.html",
-    "title": "Broadcom Inc. (AVGO): Billionaire Steve Cohen Almost Doubles Stake - Yahoo Finance",
-    "body": "Broadcom Inc. (AVGO): Billionaire Steve Cohen Almost Doubles Stake Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/clearbridge-dividend-strategy-trimmed-broadcom-134847454.html",
+    "title": "Clearbridge Dividend Strategy Trimmed Broadcom (AVGO) Due to Diminishing Risk-Reward Outlook - Yahoo Finance",
+    "body": "Clearbridge Dividend Strategy Trimmed Broadcom (AVGO) Due to Diminishing Risk-Reward Outlook Yahoo Finance",
     "author": null,
     "language": "en",
     "ticker": "AVGO",
@@ -72,27 +41,245 @@
     ],
     "source_quality": "high",
     "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "Yahoo Finance",
       "source_domain": "finance.yahoo.com",
-      "trust_tier": 3,
-      "relevance": 0.6000000000000001,
       "event_origin": "news",
-      "query_tickers": [
-        "AVGO"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.6875,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "9ab500ab-4dc7-5ed4-a0d4-3cf0bf3c46ec",
-    "timestamp_utc": "2026-04-03T13:07:02+00:00",
-    "source": "tradingview",
-    "url": "https://www.tradingview.com/news/gurufocus:505f0949d094b:0-broadcom-stock-in-spotlight-names-alphabet-s-top-accounting-leader-for-cfo-role/",
-    "title": "Broadcom Stock In Spotlight -- Names Alphabet's Top Accounting Leader for CFO Role - TradingView",
-    "body": "Broadcom AVGO stock is in focus on Friday after it said Amie Thuener will take over as chief financial officer on June 12.\n\nThuener currently serves as vice president, corporate controller and chief accounting officer at Alphabet, a role she has held since 2018. She will join Broadcom on May 4 before stepping into the CFO position.\n\nThe chipmaker's outgoing finance chief, Kirsten Spears, is retiring after 12 years with the company. Spears plans to remain as an advisor for nine months following the transition, with her outstanding equity awards continuing to vest during that period.\n\nThuener's compensation package includes an annual base salary of $700,000 and a target bonus of 100% of that amount. She is also set to receive a $1 million cash sign-on bonus along with restricted and performance stock units under Broadcom's 2012 stock incentive plan, subject to approval and continued employment.\n\nThe leadership change comes as Broadcom looks to maintain continuity in its finance operations. Shares of Broadcom remained little changed in early trading.",
+    "id": "37a12a5a-bc3c-5c2e-861a-c3af4d76c23d",
+    "timestamp_utc": "2026-04-08T06:11:04+00:00",
+    "source": "benzinga",
+    "url": "https://www.benzinga.com/analyst-stock-ratings/downgrades/26/04/51710904/broadcom-analyst-is-no-longer-bullish-despite-recent-google-agreement",
+    "title": "Broadcom Analyst No Longer Bullish Despite Google Agreement - Broadcom (NASDAQ:AVGO) - Benzinga",
+    "body": "Broadcom Analyst No Longer Bullish Despite Google Agreement - Broadcom (NASDAQ:AVGO) Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "AVGO",
+    "tickers_hint": [
+      "AVGO"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.6825,
+      "_channel": "google_benzinga",
+      "_alt_sources": [
+        "Benzinga"
+      ]
+    }
+  },
+  {
+    "id": "b430e619-cd46-5322-bbdf-bb1dc5a6a92d",
+    "timestamp_utc": "2026-04-08T06:23:19+00:00",
+    "source": "barchart",
+    "url": "https://www.barchart.com/story/news/1202269/broadcom-is-getting-a-new-cfo-what-does-that-mean-for-avgo-stock",
+    "title": "Broadcom Is Getting a New CFO. What Does That Mean for AVGO Stock? - Barchart",
+    "body": "All information and data in this article is solely for informational purposes. For more information please view the Barchart Disclosure Policy here\n\nBroadcom (AVGO) is entering a notable leadership transition at a pivotal moment. The company has announced that Amie Thuener, a senior finance executive from Alphabet Inc., will take over as Chief Financial Officer on June 12, marking the first CFO change in roughly 12 years as longtime finance leader Kirsten M. Spears steps down.\n\nThis transition comes as Broadcom is scaling aggressively into AI infrastructure, following transformative moves like its $69 billion VMware acquisition and growing demand for custom AI chips. Against that backdrop, a CFO change is more than a routine succession as it introduces a new financial steward at a time when capital allocation and margin discipline are critical to sustaining the company’s premium valuation.\n\nIt remains to be seen whether Thuener’s deep experience can reinforce Broadcom’s execution in its next growth phase. So, is the stock worth buying here?\n\nBroadcom is a global technology leader that designs, develops, and supplies a broad range of semiconductor and infrastructure software solutions, serving markets such as data centers, networking, broadband, wireless, and enterprise software. The company is headquartered in San José, California, and has increasingly positioned itself at the center of the AI infrastructure buildout through custom silicon and networking solutions. Broadcom has a market cap of around $1.6 trillion, making it one of the largest semiconductor companies globally and a key player in the next generation of computing infrastructure.\n\nBroadcom stock has delivered exceptional long-term returns, but its recent price action reflects a more volatile phase following a massive AI-driven rally.\n\nOver the past 52 weeks, Broadcom stock has surged 123.93%, underscoring its position as one of the biggest beneficiaries of the AI infrastructure buildout.\n\nHowever, year-to-date (YTD) performance has turned negative. The stock has grown a mere 0.95% YTD, reflecting a correction as investors rotated out of high-multiple AI names and reassessed near-term growth expectations.\n\nAlthough not immediately, Broadcom shares saw a positive reaction following the Apr. 2, CFO transition announcement, with the stock closing higher by 6.2% on Apr. 7, following a combination of the news and a new long-term AI deal with Alphabet (GOOGL). While the initial announcement on Apr. 2 showed minor movement, investor sentiment solidified on Apr. 7 as the company confirmed a 2031 AI chip deal on Apr. 6, driving the stock higher.\n\nBroadcom has extended its partnership with Google and Anthropic through 2031, under which it will co-develop and supply next-generation AI chips and networking components for Google’s TPU-based infrastructure, while also enabling Anthropic to access large-scale TPU compute capacity (around 3.5 GW starting 2027), strengthening long-term AI revenue visibility and demand.\n\nThe stock is currently trading at a premium compared to industry peers at 32.58 times forward earnings.\n\nBroadcom reported its first-quarter fiscal 2026 financial results on March 4, delivering a strong start to the year with results driven by accelerating AI semiconductor demand.\n\nThe company posted revenue of $19.3 billion, representing a robust 29% year-over-year (YOY) increase, marking a new quarterly record. Profitability expanded meaningfully, with net income rising to $7.4 billion from $5.5 billion a year ago, while on an adjusted basis, EPS grew to $2.05 from $1.60, beating expectations and reflecting strong earnings momentum.\n\nMargins and cash generation remained exceptional, with adjusted EBITDA reaching $13.1 billion, up 30% YOY, while free cash flow came in at around $8 billion, up 33% YOY.\n\nA key highlight was AI-driven growth, with AI revenue surging 106% YOY to about $8.4 billion, becoming the primary engine of overall growth as hyperscaler demand for custom accelerators and networking solutions accelerated sharply.\n\nFurthermore, management provided strong guidance for the second quarter of fiscal 2026, projecting revenue of $22 billion, alongside continued strength in AI semiconductor revenues expected to reach about $10.7 billion in the quarter.\n\nAnalysts remain optimistic as they predict EPS to be around $9.65 for fiscal 2026, up 71.4% YOY, and surge by another 59.1% annually to $15.35 in fiscal 2027.\n\nRecently, several analysts have reiterated their positive ratings. Mizuho reaffirmed its bullish stance on Broadcom with an “Outperform” rating and $480 price target following an extended TPU partnership with Google and Anthropic through 2031.\n\nMoreover, BofA Securities reiterated a “Buy” rating and $450 price target on Broadcom after the agreement, while Rosenblatt also restated a “Buy” rating and $500 price target.\n\nBroadcom stock has a consensus “Strong Buy” rating overall. Among the 42 analysts covering the tech stock, 36 recommend a “Strong Buy,” three give a “Moderate Buy,” and three analysts stay cautious with a “Hold” rating.\n\nWhile its average price target of $466.65 indicates an upside of 34%, the Street-high target price of $630 suggests that the stock could rally as much as 81%.\n\nStocks: 15 20 minute delay (Cboe BZX is real-time), ET. Volume reflects consolidated markets. Futures and Forex: 10 or 15 minute delay, CT. Market Data powered by Barchart Solutions. Fundamental data provided by Zacks and Morningstar.\n\n© 2026 Barchart.com, Inc. All Rights Reserved.",
+    "author": null,
+    "language": "en",
+    "ticker": "AVGO",
+    "tickers_hint": [
+      "AVGO"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "barchart.com",
+    "trust_tier": 3,
+    "body_kind": "article_text",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Barchart",
+      "source_domain": "barchart.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.6725,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "685a0681-27b9-5bb5-91cf-cfc31578f3e3",
+    "timestamp_utc": "2026-04-08T05:12:32+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-one-most-oversold-142332848.html",
+    "title": "Broadcom (AVGO): 7 Most Oversold Data Center Stocks to Invest In - Yahoo Finance",
+    "body": "Broadcom (AVGO): 7 Most Oversold Data Center Stocks to Invest In Yahoo Finance",
+    "author": null,
+    "language": "en",
+    "ticker": "AVGO",
+    "tickers_hint": [
+      "AVGO"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.6575,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "725b0dae-c0bc-566d-b3c4-e87294517411",
+    "timestamp_utc": "2026-04-08T03:08:41+00:00",
+    "source": "benzinga",
+    "url": "https://www.benzinga.com/markets/tech/26/04/51702336/broadcom-is-repeating-its-apple-playbook-but-this-time-its-ai",
+    "title": "Broadcom Stock Repeats Apple Playbook In AI - Broadcom (NASDAQ:AVGO) - Benzinga",
+    "body": "Broadcom Stock Repeats Apple Playbook In AI - Broadcom (NASDAQ:AVGO) Benzinga",
+    "author": null,
+    "language": "en",
+    "ticker": "AAPL",
+    "tickers_hint": [
+      "AAPL",
+      "AVGO"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "benzinga.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Benzinga",
+      "source_domain": "benzinga.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.6575,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "4ee88a52-240a-5bfd-9832-dd63a91c8750",
+    "timestamp_utc": "2026-04-08T10:19:00+00:00",
+    "source": "barrons",
+    "url": "https://www.barrons.com/articles/broadcom-stock-price-downgrade-a9b094fc",
+    "title": "Broadcom Stock Gets a Rare Downgrade. It Gains Anyway. - Barron's",
+    "body": "Broadcom Stock Gets a Rare Downgrade. It Gains Anyway. Barron's",
+    "author": null,
+    "language": "en",
+    "ticker": "AVGO",
+    "tickers_hint": [
+      "AVGO"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "barrons.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Barron's",
+      "source_domain": "barrons.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.6475,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "f7ea809c-0b32-587e-a5e2-65695e245d3f",
+    "timestamp_utc": "2026-04-08T03:13:00+00:00",
+    "source": "marketwatch",
+    "url": "https://www.marketwatch.com/story/broadcoms-stock-picks-up-a-rare-downgrade-whats-behind-the-contrarian-call-26fcd7c5",
+    "title": "Broadcom’s stock picks up a rare downgrade. What’s behind the contrarian call. - MarketWatch",
+    "body": "Broadcom’s stock picks up a rare downgrade. What’s behind the contrarian call. MarketWatch",
+    "author": null,
+    "language": "en",
+    "ticker": "AVGO",
+    "tickers_hint": [
+      "AVGO"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "marketwatch.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketWatch",
+      "source_domain": "marketwatch.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.6475,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "07ca2a93-a8e5-5aa2-8780-dc98362b23b1",
+    "timestamp_utc": "2026-04-08T02:15:00+00:00",
+    "source": "seeking_alpha",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQzBsRURPLXh6QWp3Q05ueHpFdE9iZUgzTjUxdkQwd0FxYkhEaVB6dGc3c0prZ1ZjWkg4ZTE2TnhfMHdjQWpkLTRPVGdOejBqRDctaXZhSUl5R1g5aHlqeWVNZWJkR2otZDJzbVlKb1kxRVJCZmFDdmRVU0Nhc3A1Vw?oc=5",
+    "title": "Broadcom: Riding The Anthropic Boom (NASDAQ:AVGO) - Seeking Alpha",
+    "body": "Broadcom: Riding The Anthropic Boom (NASDAQ:AVGO) Seeking Alpha",
+    "author": null,
+    "language": "en",
+    "ticker": "AVGO",
+    "tickers_hint": [
+      "AVGO"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "seekingalpha.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Seeking Alpha",
+      "source_domain": "seekingalpha.com",
+      "event_origin": "news",
+      "relevance": 0.6000000000000001,
+      "quality_score": 0.636,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "17bd67b6-eb89-5cc9-aafd-940c1240ba68",
+    "timestamp_utc": "2026-04-08T11:37:00+00:00",
+    "source": "the_street",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTVZKVi1UX1VVWlFmYnh2alphYmtfOGozbDBZYW1VNGhFbHp4UC1ZUGFwUTEyc2dQZkNPODRRYzQ0ZWwyWmVudlg2RG1NcjUzS2V4NUxfOVNmX2xOV1FfQ2hGSThqa2lSRDFOWmdsU3FFMElpckNSZWF2aXF4ZklHYXQ1Wm12OUpDQ2N4NXYxdFVTUUk?oc=5",
+    "title": "Bank of America resets Broadcom stock forecast - thestreet.com",
+    "body": "Bank of America resets Broadcom stock forecast thestreet.com",
+    "author": null,
+    "language": "en",
+    "ticker": "AVGO",
+    "tickers_hint": [
+      "AVGO"
+    ],
+    "source_quality": "high",
+    "publisher_raw": "thestreet.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "thestreet.com",
+      "source_domain": "thestreet.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.626,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "58c2bd96-1505-5907-96ae-be682f1d426c",
+    "timestamp_utc": "2026-04-08T03:31:24+00:00",
+    "source": "247_wall_st",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVWtSY3plWmQ1SWplSGItTnFMbGxJdDFYVFktYUhSN0RJdGxfR1pmanY2SUN1c1N5TU9yMUpqQl9aaVRCakxQbUJxbVdsUGVlS1JINGNZb1dFM0I4Ry1mOXdCcXZXUllkNWN6cFBnSGZNanZ4TGdqc04zMVREZHZDOU5QSUZnaFBQZTRKcXdjQTR1UU1NbUp1T09PVl9iTnJMdmVkYmZ6MnVVTWhfX1ZDWFNJOWpIS3ZBaGtRM213?oc=5",
+    "title": "Broadcom Cut to Neutral at Seaport: Has the AI Chip Party Finally Gone Too Far? - 24/7 Wall St.",
+    "body": "Broadcom Cut to Neutral at Seaport: Has the AI Chip Party Finally Gone Too Far? 24/7 Wall St.",
     "author": null,
     "language": "en",
     "ticker": "AVGO",
@@ -100,28 +287,26 @@
       "AVGO"
     ],
     "source_quality": "medium",
-    "publisher_raw": "tradingview.com",
+    "publisher_raw": "247wallst.com",
+    "trust_tier": 2,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "TradingView",
-      "source_domain": "tradingview.com",
-      "trust_tier": 2,
-      "relevance": 0.55,
+      "source_name": "24/7 Wall St.",
+      "source_domain": "247wallst.com",
       "event_origin": "news",
-      "query_tickers": [
-        "AVGO"
-      ],
-      "body_kind": "article_text"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6,
+      "quality_score": 0.555,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "d4d8f105-ea32-50b4-a949-b4f5e39c2fc0",
-    "timestamp_utc": "2026-04-04T16:30:27+00:00",
-    "source": "seekingalpha.com",
-    "url": "https://seekingalpha.com/article/4888432-broadcom-the-ai-plumber-set-for-massive-explosion",
-    "title": "Broadcom: The AI Plumber Set For A Massive Explosion (NASDAQ:AVGO) - seekingalpha.com",
-    "body": "JHVEPhoto/iStock Editorial via Getty Images\n\nBroadcom Inc. (AVGO) develops custom AI accelerators called XPUs, Ethernet networking, and also runs an infrastructure software business (VMware), thus playing the role of an AI plumber for the entire AI infrastructure buildout, so to speak. Logically, the current AI boom drove\n\nAnalyst’s Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, but may initiate a beneficial Long position through a purchase of the stock, or the purchase of call options or similar derivatives in AVGO over the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+    "id": "81be9a19-3cc0-59da-b5e8-58972d8bfbcc",
+    "timestamp_utc": "2026-04-08T21:17:39+00:00",
+    "source": "marketbeat",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORUExblUwd2ZjNUloYl9zekQ1SGFrRnJDcUV0cmtHdTUyakFERDEyeW13ZUoyQkxKRWlIYWpFSjdoR19rODhJczRIZkNWOG5NUVBxSGpBM3ZNNkJTRDRMNGtnNDRuWUpJQ0IxQ3JYZ0Vzd3NRWHQwSTRRcF8tYzlteDA3Qi0wWEVydURPN1ZrbnlCLUpkaFFvR0hvVnNKRmJGVnJjX0cybmQ4VFNJNzVWd0hleVF2ZTRJekhjZVRkNHZaSllpM0c1NFE1bU9wdw?oc=5",
+    "title": "1900 Wealth Management LLC Has $2.91 Million Position in Broadcom Inc. $AVGO - MarketBeat",
+    "body": "1900 Wealth Management LLC Has $2.91 Million Position in Broadcom Inc. $AVGO MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "AVGO",
@@ -129,28 +314,26 @@
       "AVGO"
     ],
     "source_quality": "low",
-    "publisher_raw": "seekingalpha.com",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "seekingalpha.com",
-      "source_domain": "seekingalphacom.com",
-      "trust_tier": 1,
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
       "relevance": 0.6500000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "AVGO"
-      ],
-      "body_kind": "article_text"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.5175,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "fa844b50-c043-5715-b237-ebf4599f5496",
-    "timestamp_utc": "2026-04-04T13:30:00+00:00",
-    "source": "seekingalpha.com",
-    "url": "https://seekingalpha.com/article/4888363-broadcom-3t-market-cap-possible-ai-monetization-deepens",
-    "title": "Broadcom: $3T Market Cap Possible - AI Monetization Deepens (NASDAQ:AVGO) - seekingalpha.com",
-    "body": "Jonathan Kitchen/DigitalVision via Getty Images\n\nI previously covered Broadcom Inc. (NASDAQ:AVGO, NEOE:AVGO:CA) in December 2025, discussing why I had reiterated my Buy rating then, given their dominant custom AI accelerator position, the robust intermediate-term revenue visibility from the\n\nAnalyst’s Disclosure: I/we have a beneficial long position in the shares of AVGO, NVDA, AMD, GOOG either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article. The analysis is provided exclusively for informational purposes and should not be considered professional investment advice. Before investing, please conduct personal in-depth research and utmost due diligence, as there are many risks associated with the trade, including capital loss.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+    "id": "caa020d7-d2e6-5b80-9062-2ebe0602bd03",
+    "timestamp_utc": "2026-04-08T05:04:07+00:00",
+    "source": "traders_union",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY1k0OTZwYTdrLWZMMk1CNkx3MHljX2RIVlo5MVEwRW9YVzhXZGtMcVhZTHZlcmMwSjFTejFnSlZYd19QZ2pyWk9RWFQtTEpnb2xyOHZvWUpvQ1VyS3RBS1ducTZvdGZPTEVvT2dtblp2Z0xNbjhrMjJzVjhVMDV6ZXNJYmZlSHp2ZEpPX2hiWm5JTndoX3ZoYVZB?oc=5",
+    "title": "Broadcom stock price forecast: Holding above $343.60–$348.01 range as AVGO rises 3.18% - Traders Union",
+    "body": "Broadcom stock price forecast: Holding above $343.60–$348.01 range as AVGO rises 3.18% Traders Union",
     "author": null,
     "language": "en",
     "ticker": "AVGO",
@@ -158,86 +341,26 @@
       "AVGO"
     ],
     "source_quality": "low",
-    "publisher_raw": "seekingalpha.com",
+    "publisher_raw": "traders union",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "seekingalpha.com",
-      "source_domain": "seekingalphacom.com",
-      "trust_tier": 1,
-      "relevance": 0.6500000000000001,
+      "source_name": "Traders Union",
+      "source_domain": "tradersunion.com",
       "event_origin": "news",
-      "query_tickers": [
-        "AVGO"
-      ],
-      "body_kind": "article_text"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "cfebfeac-96e2-5534-9d00-98abf2c6fcc0",
-    "timestamp_utc": "2026-04-03T12:23:00+00:00",
-    "source": "coincentral",
-    "url": "https://coincentral.com/broadcom-avgo-stock-new-cfo-named-alphabets-amie-thuener-takes-the-role/",
-    "title": "Broadcom (AVGO) Stock — New CFO Named, Alphabet’s Amie Thuener Takes the Role - CoinCentral",
-    "body": "The Best AI Stock Picking Tools in 2026: Your Complete Guide to Smarter InvestingFebruary 3, 2026 Finding The Best Crypto to Invest In: Expert Strategies for Identifying Tomorrow’s WinnersFebruary 27, 2025 Sui Blockchain Explained: How It Works and What You Need to KnowFebruary 6, 2025 Is Trump’s Memecoin Legit?\n\nHere’s What We Know About $TRUMPFebruary 1, 2025 What is Decentralized AI and Why We Need It ASAP?December 29, 2024",
-    "author": null,
-    "language": "en",
-    "ticker": "AVGO",
-    "tickers_hint": [
-      "AVGO"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "coincentral",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "CoinCentral",
-      "source_domain": "coincentral.com",
-      "trust_tier": 1,
-      "relevance": 0.6500000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "AVGO"
-      ],
-      "body_kind": "article_text"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "af6aa75a-23eb-52b2-987e-d13adc51c331",
-    "timestamp_utc": "2026-04-04T12:11:03+00:00",
-    "source": "chartmill",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2dIaG9JdlRhZUJFT09FQThPMldkU1N6Q0JwMDcxekxXLWtiU3pZemNtbFRzbFBQQ3lja0dWdERJMndVZm0ybHhzUWJHb2lJU2dDNUp1WHBzanl6MkdhWHcyRjhjN043UU9OWmlzYjhyNGZwekxWUXhSVE41NnYtelNzVEppNEhBYmtvMm9ZVkNxMy15b0F6UTRrbHNQakpsTTF4NHlZTDR5NklHM2VqZWktc3BIRlZqVkRUMnlmM1RQNGM?oc=5",
-    "title": "Broadcom Inc. (NASDAQ:AVGO) Passes the \"Caviar Cruise\" Quality Investing Screen - ChartMill",
-    "body": "Broadcom Inc. (NASDAQ:AVGO) Passes the \"Caviar Cruise\" Quality Investing Screen ChartMill",
-    "author": null,
-    "language": "en",
-    "ticker": "AVGO",
-    "tickers_hint": [
-      "AVGO"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "chartmill",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "ChartMill",
-      "source_domain": "chartmill.com",
-      "trust_tier": 1,
       "relevance": 0.6000000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "AVGO"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.515,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "484f585c-4a07-5280-a08f-d2d9df9cd830",
-    "timestamp_utc": "2026-04-03T11:07:00+00:00",
-    "source": "thestreet.com",
-    "url": "https://www.thestreet.com/investing/stocks/1000-invested-in-avgo-broadcom-stock-in-2016-would-be-worth-this-much-today-including-dividends",
-    "title": "$1,000 of AVGO stock from 2016 is worth this much with dividends - thestreet.com",
-    "body": "$1,000 of AVGO stock from 2016 is worth this much with dividends thestreet.com",
+    "id": "f81805ca-a04e-580c-b280-959f64ff719b",
+    "timestamp_utc": "2026-04-08T02:40:38+00:00",
+    "source": "marketbeat",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWkk1M2JJRVFSaEktcVRuUi16V1loVmQ4TW4wTkV6ZXhJZlF6SWlFbV9aOXV4eDdsWnFxRDU3Wm1Ha1JlVUJrdDZPenJEbGhNUDlVTnh4TjJjeVJqanhueFJHQTdXcS1Rcy02UkxVOUlKTi1QM1FKY3RINGdOSWU5emhUSWVJcXh3Z0M0RWo5cnhiT1pSRzFzcWNMY1djYkFyQ1JsTk5qRVpPNS10NGFpd19jYV9zZE5ZTWJWaEd4ZjA?oc=5",
+    "title": "Broadcom's (AVGO) Neutral Rating Reiterated at Seaport Research Partners - MarketBeat",
+    "body": "Broadcom's (AVGO) Neutral Rating Reiterated at Seaport Research Partners MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "AVGO",
@@ -245,19 +368,152 @@
       "AVGO"
     ],
     "source_quality": "low",
-    "publisher_raw": "thestreet.com",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "thestreet.com",
-      "source_domain": "thestreetcom.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
       "event_origin": "news",
-      "query_tickers": [
-        "AVGO"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.7000000000000001,
+      "quality_score": 0.49,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "bacbedd9-042d-51c5-808c-bcc5930db874",
+    "timestamp_utc": "2026-04-08T00:20:46+00:00",
+    "source": "tikr.com",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM29aRUJtZE1qb0xRSE5LN1NpREhUb3hMTnNTQVlqNWY1R2tKNDZua0FiVTMzVFFyVkJuUGxTakpfN0RMVjRRYm5NcFp6ak5maGZRLThvQlV0b0JOUkhScVhFZi00S0kyWHNzUzJ3UWVVUFlTWTFaUkFzLWlqSHNwa1ZJWVJRMXRSaHFTYXZmaURVNzdqenItU2k4ZGp0RDAwSl9IU0d3?oc=5",
+    "title": "Broadcom Stock Climbs 6% After Securing Google AI Chip Supply Deal - TIKR.com",
+    "body": "Broadcom Stock Climbs 6% After Securing Google AI Chip Supply Deal TIKR.com",
+    "author": null,
+    "language": "en",
+    "ticker": "AVGO",
+    "tickers_hint": [
+      "AVGO"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "tikr.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "TIKR.com",
+      "source_domain": "tikrcom.com",
+      "event_origin": "news",
+      "relevance": 0.65,
+      "quality_score": 0.4725,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "39f9c2a7-00c2-500a-b227-b14200ac0d5e",
+    "timestamp_utc": "2026-04-08T23:25:07+00:00",
+    "source": "marketbeat",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc1pHLWJrc2NDekI3VFdnaVB4NWRTSWNjeGdFQ01LcEhzME9jSVVIbmdPSnowT1FhU01xdWoyODVvQlc5d093enI2ZE1wVUNWNXE5T3ZDN1J3Q1ZUelpnTDQ5dUV5Y0FNVFpTNXVxVnlubkNiU1FadG5fOE1yYy1VV2ZJZTdja1NkX2ZzSTE1TWpmSUNrc0VUclBLd0tXWDZ1bjVMWGswU1hYWnk4SmFwRWtvcGNWS185ejJ1eUwzVHowVEZrd3NXR0F0dGVQak53eVY5c3hlblFYcnM?oc=5",
+    "title": "Broadcom Inc. $AVGO Stock Position Lifted by Thurston Springer Miller Herd & Titak Inc. - MarketBeat",
+    "body": "Broadcom Inc. $AVGO Stock Position Lifted by Thurston Springer Miller Herd & Titak Inc. MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "AVGO",
+    "tickers_hint": [
+      "AVGO"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.4675,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "f65ae7e0-9c2e-53f6-a8a8-ae2ebbebe81b",
+    "timestamp_utc": "2026-04-08T23:23:13+00:00",
+    "source": "marketbeat",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRnFCekc3TW5pandlMWp5TENMeVg1bklmWjRHQ0VpUHRLc09jN0xONUlUREh5OEVJcjQzVlI3NHNyNDBIcWd0eUYxem1aU041QUhGSk9LNHZuU19xd2NWbm1hb3FDMHQtTlpaV29yS0poSC1PSENOclh2LUpaMUpDb21hU0htbVB1U0x6MnYwQ2NRZEZzUWVpbEpPV3BzbVQ0X1VLRk1xT254ejYwR1IyVHl4SHZkSFRJ?oc=5",
+    "title": "Rep. Gilbert Ray Cisneros, Jr. Sells Broadcom Inc. (NASDAQ:AVGO) Stock - MarketBeat",
+    "body": "Rep. Gilbert Ray Cisneros, Jr. Sells Broadcom Inc. (NASDAQ:AVGO) Stock MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "AVGO",
+    "tickers_hint": [
+      "AVGO"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.4675,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "7d6a0076-d07b-5d9e-b944-ba028a46e8fb",
+    "timestamp_utc": "2026-04-08T21:42:54+00:00",
+    "source": "marketbeat",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPanYzTVpaMlBSSDh0b0tpMmZwX0lzUFpfdlBBSjNPWFJVdUxQTVJXVmc4c3BrbWpFVU0xaXh5QVZCWjg3U05mdzVmUTM0ZWNWZFoyNUVSanliX1c0UHlDTUIybl9TOUNERWpoUU1kbXhoT2Ezc3NFN3R1OHZJWDRXTmIwakdTaDU5VUp3ckpoMHVNbDhVWE9RUlYxN3B0NEIyOHBSSWxsM2s1cEQ2eGVjdmJR?oc=5",
+    "title": "Broadcom Inc. $AVGO Shares Purchased by Aspiriant LLC - MarketBeat",
+    "body": "Broadcom Inc. $AVGO Shares Purchased by Aspiriant LLC MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "AVGO",
+    "tickers_hint": [
+      "AVGO"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.4675,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "be31e230-dd51-5d6f-9137-a6f2099b23d7",
+    "timestamp_utc": "2026-04-07T21:35:50+00:00",
+    "source": "marketbeat",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYzJQaWNVUmRNMFFpdkQteE5WOVkwLW1IZDhBN1VVZmRTN0Rpb21MQ0xpQWROeWFhOHdPOGg4RGpMdWJTZHhmVWFFaW1xSjlnYjlta1lBQ2lrTW1RdWhkMC0tenpyUkJ3OG9KakJkM0wyZ0ZmUmRYNDdtOVF5X2I2U1BUOE5waEJlLTJRbXNpVlNyWEctRWZXWVhrQUIyQW5aLVdKSk80STRyYm44R1A1d0MyR3RPblpib3RiUw?oc=5",
+    "title": "Aberdeen Group plc Cuts Stock Position in Broadcom Inc. $AVGO - MarketBeat",
+    "body": "Aberdeen Group plc Cuts Stock Position in Broadcom Inc. $AVGO MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "AVGO",
+    "tickers_hint": [
+      "AVGO"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.4275,
+      "_channel": "google_broad"
+    }
   }
 ]

@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "f8c6340f-a6c7-5b36-bda7-9a9a41e01ef3",
-      "timestamp_utc": "2026-04-03T14:36:00+00:00",
-      "source": "barrons",
-      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNRW9VazdjSTNSbWV3ODJ6LW1BaUtoQlVsYkItX3EzSzJuOURuTk9xMkxwd1c3REdLRkJIbVlybXZjNzJiTG5NWXI1QzZjbWFpMkk5WEVIQ0dIY01HclJvUnVGOE5MM1Jvb2phdF9Hbkt0RmFZMVpkejFMMjRhU0ZmQ1Zqa3ZkenJZdzY2VFRuMlFVaVhMRktVYktHdDNPZjBDcXhCek53Zy1kOTdpbUE2eFdKb08ybkF3N1l3MEFqanlXeG1pODdZTjdOTVdKQ3NmQUw4bHBXdHJQYkpDRmVXa2YyOUFPeElvbmd5dHNNaGZmUUNuV0FHRDR4azRPZXU1Y1V1UC1jYnRzbzJuOXRmLVFLYVVFa0xPdk9TMk9uMkhBVV9aTy1oUm5kRjVxaXVIUjJwUGhwaHFXRGhSY2drdFpRVWZwOGFsc3EyWkVqaEFLZVcwd1cyREt0cTFsSkMzeExkekE2TFp5Q0RicEZKM2xTd3VMdFRUN3otQUVTanE0cXBFOVQ4?oc=5",
-      "title": "Why the Stock Market Has Held Up So Well Despite the Spike in Oil Prices - Barron's",
-      "body": "Why the Stock Market Has Held Up So Well Despite the Spike in Oil Prices Barron's",
+      "id": "2bbb860a-e7dc-50a8-b5e8-16843cced610",
+      "timestamp_utc": "2026-04-08T01:40:00+00:00",
+      "source": "marketwatch",
+      "url": "https://www.marketwatch.com/story/deltas-stock-soars-after-a-well-timed-earnings-report-showed-higher-fuel-costs-werent-an-issue-1acacd56",
+      "title": "Delta’s stock soars after a well-timed earnings report showed higher fuel costs weren’t an issue - MarketWatch",
+      "body": "Delta’s stock soars after a well-timed earnings report showed higher fuel costs weren’t an issue MarketWatch",
       "author": null,
       "language": "en",
       "ticker": "WELL",
@@ -15,89 +15,86 @@
         "WELL"
       ],
       "source_quality": "high",
-      "publisher_raw": "barrons.com",
+      "publisher_raw": "marketwatch.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Barron's",
-        "source_domain": "barrons.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
+        "source_name": "MarketWatch",
+        "source_domain": "marketwatch.com",
         "event_origin": "news",
-        "query_tickers": [
-          "WELL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "c11d0bea-7a2b-5d01-802e-6dc72b7ae26f",
-      "timestamp_utc": "2026-04-04T09:09:07+00:00",
-      "source": "yahoo_finance_singapore",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlZ1pxWkhNLUVWVlNXVmRSWjBveWo3c251NTZ2cEFoQ3oyZ0dEOHFUc1prNE9IWHUzVHN1NjVtRkpGNlJkcFo0SFdXdDR4MHozOXVqTjRR?oc=5",
-      "title": "WELL Health Technologies Corp. (WELL.TO) stock price, news, quote and history - Yahoo Finance Singapore",
-      "body": "WELL Health Technologies Corp. (WELL.TO) stock price, news, quote and history Yahoo Finance Singapore",
-      "author": null,
-      "language": "en",
-      "ticker": "WELL",
-      "tickers_hint": [
-        "WELL"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo finance singapore",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance Singapore",
-        "source_domain": "yahoofinancesingapore.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "WELL"
-        ],
-        "alt_sources": [
-          "Yahoo Finance UK"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "f5388c66-0640-52e4-a631-24b32ca6c27d",
-      "timestamp_utc": "2026-04-04T07:40:18+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-welltower-inc-well-stock-position-increased-by-american-national-bank-trust-2026-04-04/",
-      "title": "Welltower Inc. $WELL Stock Position Increased by American National Bank & Trust - MarketBeat",
-      "body": "Welltower Inc. $WELL Stock Position Increased by American National Bank & Trust MarketBeat",
-      "author": null,
-      "language": "en",
-      "ticker": "WELL",
-      "tickers_hint": [
-        "WELL"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
         "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "WELL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.6875,
+        "_channel": "google_broad",
+        "_alt_sources": [
+          "MarketWatch"
+        ]
+      }
     },
     {
-      "id": "daad0bb1-9a6d-5ba6-bf39-d4a4b48a43c1",
-      "timestamp_utc": "2026-04-03T14:54:39+00:00",
-      "source": "tekedia",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUUlGSEJaa0NBZTVOX2g2N3BZclcyV041THZGbTJKellKeHpXNGU5am1GYk54MjE5VjM1Q09QcXBRY21maE1rSWJ3cVVwVzhWbXpFLVB3cHBYVV8tRFRqQnR6OGxzLXhySmlmWENQaDlObHlESVNadXVRQ0pxbVFGWndhNV9aNW80LUZZSnh6OGl1cURMWS1TYVdZeVNWLThjQWV3X1JJaDZ1WEw0eDNCbUVmbHRxaUhkekJ3YTk1b0RaUUtEd0JrUHkwNlp4QQ?oc=5",
-      "title": "U.S. Senators Demand Insider Stock & Derivatives Trading Probe Over Well-Timed Bets Ahead of Trump Policy Moves - Tekedia",
-      "body": "U.S. Senators Demand Insider Stock & Derivatives Trading Probe Over Well-Timed Bets Ahead of Trump Policy Moves Tekedia",
+      "id": "38e1832c-e842-5b97-a380-e005bacd2b09",
+      "timestamp_utc": "2026-04-08T18:32:18+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYVRaVldkZGlLZXJ5WnFycVZPVmZqMV80UmFCWEFJT3JIeFV5ckdtaS1MZlJVb2s5LVZERWsybHlOTVE3OWJ2VzZsRng1VXQxekVnSjU5ay0zeWROaks3VElpSzNYVXNFa1ZvRmlpLUZyR2tvaWRuN29mT2NFYnZrNmktUnBySk5UbmpEb1hlcVo3V2NWZ0oyUXJKSEtFbEloajVTY25GRVlZRnNwMFdNZVh1Tko4WHhSYjdkVVln?oc=5",
+      "title": "Calfrac Well Services Announces Chief Financial Officer Transition - Benzinga - Benzinga",
+      "body": "Calfrac Well Services Announces Chief Financial Officer Transition - Benzinga Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "WELL",
+      "tickers_hint": [
+        "WELL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.65,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
+    },
+    {
+      "id": "5ee3c910-8dba-5765-aa3c-903b633b6aef",
+      "timestamp_utc": "2026-04-07T23:45:13+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKR2QzTGU0SUhnZUFOXzhaQzhtRkJUOWFWZ0NoelJORXROUUszUzJYd1FQS2xDakM2Wk54elhrcDI0bFVicDdYX3J2c05BZDVTUUE?oc=5",
+      "title": "Welltower Inc. (WELL) stock price, news, quote and history - Yahoo Finance Singapore",
+      "body": "Welltower Inc. (WELL) stock price, news, quote and history Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "WELL",
+      "tickers_hint": [
+        "WELL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "finance.yahoo.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.6,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "f8a33757-3d01-5a6a-85ec-4a1d40902f58",
+      "timestamp_utc": "2026-04-08T04:41:33+00:00",
+      "source": "traders_union",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQUdubUd6X0xLSWZtRlo0SEVyZm5PM3RHSG54SWtxQWhlQXZSU1U2ZG93UVJ6S0laS3NMdzJkcWhXSFpiNzM4VTdiazRVZVg4bC1EeWhYckFJbWRxWEhUd0lFSFQ1T0NjeUJ6TWNnazJTZXg3Yi1wUjVTa0J6NEFZbC1QdVhWTURmanJzUWZCbmVzMDV0WHd0dTRn?oc=5",
+      "title": "Prolonged trading well below historic averages lifts LAES stock more than 2% - Traders Union",
+      "body": "Prolonged trading well below historic averages lifts LAES stock more than 2% Traders Union",
       "author": null,
       "language": "en",
       "ticker": "WELL",
@@ -105,31 +102,110 @@
         "WELL"
       ],
       "source_quality": "low",
-      "publisher_raw": "tekedia",
+      "publisher_raw": "traders union",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Tekedia",
-        "source_domain": "tekedia.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Traders Union",
+        "source_domain": "tradersunion.com",
         "event_origin": "news",
-        "query_tickers": [
-          "WELL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.44,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "45c416d4-54a3-5be7-b88d-a72e5ba1f416",
+      "timestamp_utc": "2026-04-08T04:36:16+00:00",
+      "source": "traders_union",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb3VYeUx1dXFTdXpqcWlkR3JzUWE2QjRHQzJSVS02QWpKVG1yd3JhTmpUTDBSTFVRTExBZU01NldnXzk4aXlBTkhwZUhQTGZoQlRJWmxmSzFrODh5bzhQNVBveFo5WFh2N0ViRzZjYUplb2VlcE1Qa1pCbGpISm5nOGltYW03RV9rYVRjY3Q0Rmd2WHJCX2FlSW5GVXRvblNB?oc=5",
+      "title": "Microsoft stock gains 1.75% as price stays well below long-term average - Traders Union",
+      "body": "Microsoft stock gains 1.75% as price stays well below long-term average Traders Union",
+      "author": null,
+      "language": "en",
+      "ticker": "WELL",
+      "tickers_hint": [
+        "WELL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "traders union",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Traders Union",
+        "source_domain": "tradersunion.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.44,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "756495a0-141d-5e89-97b6-15d40e061673",
+      "timestamp_utc": "2026-04-08T05:10:36+00:00",
+      "source": "traders_union",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMkdqMzhLRnJ1cU9LNGxuZGVBSXM0Z2YyUm1iTmhkdVdxbEdfZ3lxNVp3NVJqeXAyVTZERmZwdWhJRmJ3Q0tCVUhIQzBfWVRHNFRhNkVobV9pV2wtM1ZqRkJSVVU1cGFDdWtaMVZXM3ZWc0lzQnpGamFpRnBMOHprWFRBREJ5TVRyTmdDaDl2dnROQzVxYTVFNlR1ajdfcTJ5aU05VlVGVQ?oc=5",
+      "title": "Price well below long-term average keeps Rogers Communication stock in flat territory - Traders Union",
+      "body": "Price well below long-term average keeps Rogers Communication stock in flat territory Traders Union",
+      "author": null,
+      "language": "en",
+      "ticker": "WELL",
+      "tickers_hint": [
+        "WELL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "traders union",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Traders Union",
+        "source_domain": "tradersunion.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.41,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "1ce90c82-e3f0-5a37-9a1a-5864dc7b3134",
+      "timestamp_utc": "2026-04-08T04:06:07+00:00",
+      "source": "traders_union",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTUd5ck1lV2ljU3FGNnkzajdKZkVYUUVNZUIwRzJ0YlVteFc1SnZ6N1dHc3R0WlBlQ1hPMkhERkRuYUk5MFVLamg5WGh5V1hsaEswbVBGUVlORmZLcGYxeGpJS2hxb00tdkFlWmxlN1JIWmNTT1JoV0lZeTFZNDFKdjBGeGh2Zm8xVnc?oc=5",
+      "title": "Royal Bank of Canada stock climbs with price moving well above key averages - Traders Union",
+      "body": "Royal Bank of Canada stock climbs with price moving well above key averages Traders Union",
+      "author": null,
+      "language": "en",
+      "ticker": "WELL",
+      "tickers_hint": [
+        "WELL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "traders union",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Traders Union",
+        "source_domain": "tradersunion.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.41,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "f8c6340f-a6c7-5b36-bda7-9a9a41e01ef3",
-      "timestamp_utc": "2026-04-03T14:36:00+00:00",
-      "source": "barrons",
-      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNRW9VazdjSTNSbWV3ODJ6LW1BaUtoQlVsYkItX3EzSzJuOURuTk9xMkxwd1c3REdLRkJIbVlybXZjNzJiTG5NWXI1QzZjbWFpMkk5WEVIQ0dIY01HclJvUnVGOE5MM1Jvb2phdF9Hbkt0RmFZMVpkejFMMjRhU0ZmQ1Zqa3ZkenJZdzY2VFRuMlFVaVhMRktVYktHdDNPZjBDcXhCek53Zy1kOTdpbUE2eFdKb08ybkF3N1l3MEFqanlXeG1pODdZTjdOTVdKQ3NmQUw4bHBXdHJQYkpDRmVXa2YyOUFPeElvbmd5dHNNaGZmUUNuV0FHRDR4azRPZXU1Y1V1UC1jYnRzbzJuOXRmLVFLYVVFa0xPdk9TMk9uMkhBVV9aTy1oUm5kRjVxaXVIUjJwUGhwaHFXRGhSY2drdFpRVWZwOGFsc3EyWkVqaEFLZVcwd1cyREt0cTFsSkMzeExkekE2TFp5Q0RicEZKM2xTd3VMdFRUN3otQUVTanE0cXBFOVQ4?oc=5",
-      "title": "Why the Stock Market Has Held Up So Well Despite the Spike in Oil Prices - Barron's",
-      "body": "Why the Stock Market Has Held Up So Well Despite the Spike in Oil Prices Barron's",
+      "id": "2bbb860a-e7dc-50a8-b5e8-16843cced610",
+      "timestamp_utc": "2026-04-08T01:40:00+00:00",
+      "source": "marketwatch",
+      "url": "https://www.marketwatch.com/story/deltas-stock-soars-after-a-well-timed-earnings-report-showed-higher-fuel-costs-werent-an-issue-1acacd56",
+      "title": "Delta’s stock soars after a well-timed earnings report showed higher fuel costs weren’t an issue - MarketWatch",
+      "body": "Delta’s stock soars after a well-timed earnings report showed higher fuel costs weren’t an issue MarketWatch",
       "author": null,
       "language": "en",
       "ticker": "WELL",
@@ -137,89 +213,86 @@
         "WELL"
       ],
       "source_quality": "high",
-      "publisher_raw": "barrons.com",
+      "publisher_raw": "marketwatch.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Barron's",
-        "source_domain": "barrons.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
+        "source_name": "MarketWatch",
+        "source_domain": "marketwatch.com",
         "event_origin": "news",
-        "query_tickers": [
-          "WELL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "c11d0bea-7a2b-5d01-802e-6dc72b7ae26f",
-      "timestamp_utc": "2026-04-04T09:09:07+00:00",
-      "source": "yahoo_finance_singapore",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlZ1pxWkhNLUVWVlNXVmRSWjBveWo3c251NTZ2cEFoQ3oyZ0dEOHFUc1prNE9IWHUzVHN1NjVtRkpGNlJkcFo0SFdXdDR4MHozOXVqTjRR?oc=5",
-      "title": "WELL Health Technologies Corp. (WELL.TO) stock price, news, quote and history - Yahoo Finance Singapore",
-      "body": "WELL Health Technologies Corp. (WELL.TO) stock price, news, quote and history Yahoo Finance Singapore",
-      "author": null,
-      "language": "en",
-      "ticker": "WELL",
-      "tickers_hint": [
-        "WELL"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo finance singapore",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance Singapore",
-        "source_domain": "yahoofinancesingapore.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "WELL"
-        ],
-        "alt_sources": [
-          "Yahoo Finance UK"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "f5388c66-0640-52e4-a631-24b32ca6c27d",
-      "timestamp_utc": "2026-04-04T07:40:18+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-welltower-inc-well-stock-position-increased-by-american-national-bank-trust-2026-04-04/",
-      "title": "Welltower Inc. $WELL Stock Position Increased by American National Bank & Trust - MarketBeat",
-      "body": "Welltower Inc. $WELL Stock Position Increased by American National Bank & Trust MarketBeat",
-      "author": null,
-      "language": "en",
-      "ticker": "WELL",
-      "tickers_hint": [
-        "WELL"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
         "relevance": 0.55,
-        "event_origin": "news",
-        "query_tickers": [
-          "WELL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.6875,
+        "_channel": "google_broad",
+        "_alt_sources": [
+          "MarketWatch"
+        ]
+      }
     },
     {
-      "id": "daad0bb1-9a6d-5ba6-bf39-d4a4b48a43c1",
-      "timestamp_utc": "2026-04-03T14:54:39+00:00",
-      "source": "tekedia",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUUlGSEJaa0NBZTVOX2g2N3BZclcyV041THZGbTJKellKeHpXNGU5am1GYk54MjE5VjM1Q09QcXBRY21maE1rSWJ3cVVwVzhWbXpFLVB3cHBYVV8tRFRqQnR6OGxzLXhySmlmWENQaDlObHlESVNadXVRQ0pxbVFGWndhNV9aNW80LUZZSnh6OGl1cURMWS1TYVdZeVNWLThjQWV3X1JJaDZ1WEw0eDNCbUVmbHRxaUhkekJ3YTk1b0RaUUtEd0JrUHkwNlp4QQ?oc=5",
-      "title": "U.S. Senators Demand Insider Stock & Derivatives Trading Probe Over Well-Timed Bets Ahead of Trump Policy Moves - Tekedia",
-      "body": "U.S. Senators Demand Insider Stock & Derivatives Trading Probe Over Well-Timed Bets Ahead of Trump Policy Moves Tekedia",
+      "id": "38e1832c-e842-5b97-a380-e005bacd2b09",
+      "timestamp_utc": "2026-04-08T18:32:18+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYVRaVldkZGlLZXJ5WnFycVZPVmZqMV80UmFCWEFJT3JIeFV5ckdtaS1MZlJVb2s5LVZERWsybHlOTVE3OWJ2VzZsRng1VXQxekVnSjU5ay0zeWROaks3VElpSzNYVXNFa1ZvRmlpLUZyR2tvaWRuN29mT2NFYnZrNmktUnBySk5UbmpEb1hlcVo3V2NWZ0oyUXJKSEtFbEloajVTY25GRVlZRnNwMFdNZVh1Tko4WHhSYjdkVVln?oc=5",
+      "title": "Calfrac Well Services Announces Chief Financial Officer Transition - Benzinga - Benzinga",
+      "body": "Calfrac Well Services Announces Chief Financial Officer Transition - Benzinga Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "WELL",
+      "tickers_hint": [
+        "WELL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.65,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
+    },
+    {
+      "id": "5ee3c910-8dba-5765-aa3c-903b633b6aef",
+      "timestamp_utc": "2026-04-07T23:45:13+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKR2QzTGU0SUhnZUFOXzhaQzhtRkJUOWFWZ0NoelJORXROUUszUzJYd1FQS2xDakM2Wk54elhrcDI0bFVicDdYX3J2c05BZDVTUUE?oc=5",
+      "title": "Welltower Inc. (WELL) stock price, news, quote and history - Yahoo Finance Singapore",
+      "body": "Welltower Inc. (WELL) stock price, news, quote and history Yahoo Finance Singapore",
+      "author": null,
+      "language": "en",
+      "ticker": "WELL",
+      "tickers_hint": [
+        "WELL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "finance.yahoo.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.6,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "f8a33757-3d01-5a6a-85ec-4a1d40902f58",
+      "timestamp_utc": "2026-04-08T04:41:33+00:00",
+      "source": "traders_union",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQUdubUd6X0xLSWZtRlo0SEVyZm5PM3RHSG54SWtxQWhlQXZSU1U2ZG93UVJ6S0laS3NMdzJkcWhXSFpiNzM4VTdiazRVZVg4bC1EeWhYckFJbWRxWEhUd0lFSFQ1T0NjeUJ6TWNnazJTZXg3Yi1wUjVTa0J6NEFZbC1QdVhWTURmanJzUWZCbmVzMDV0WHd0dTRn?oc=5",
+      "title": "Prolonged trading well below historic averages lifts LAES stock more than 2% - Traders Union",
+      "body": "Prolonged trading well below historic averages lifts LAES stock more than 2% Traders Union",
       "author": null,
       "language": "en",
       "ticker": "WELL",
@@ -227,20 +300,99 @@
         "WELL"
       ],
       "source_quality": "low",
-      "publisher_raw": "tekedia",
+      "publisher_raw": "traders union",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Tekedia",
-        "source_domain": "tekedia.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Traders Union",
+        "source_domain": "tradersunion.com",
         "event_origin": "news",
-        "query_tickers": [
-          "WELL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.44,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "45c416d4-54a3-5be7-b88d-a72e5ba1f416",
+      "timestamp_utc": "2026-04-08T04:36:16+00:00",
+      "source": "traders_union",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb3VYeUx1dXFTdXpqcWlkR3JzUWE2QjRHQzJSVS02QWpKVG1yd3JhTmpUTDBSTFVRTExBZU01NldnXzk4aXlBTkhwZUhQTGZoQlRJWmxmSzFrODh5bzhQNVBveFo5WFh2N0ViRzZjYUplb2VlcE1Qa1pCbGpISm5nOGltYW03RV9rYVRjY3Q0Rmd2WHJCX2FlSW5GVXRvblNB?oc=5",
+      "title": "Microsoft stock gains 1.75% as price stays well below long-term average - Traders Union",
+      "body": "Microsoft stock gains 1.75% as price stays well below long-term average Traders Union",
+      "author": null,
+      "language": "en",
+      "ticker": "WELL",
+      "tickers_hint": [
+        "WELL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "traders union",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Traders Union",
+        "source_domain": "tradersunion.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.44,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "756495a0-141d-5e89-97b6-15d40e061673",
+      "timestamp_utc": "2026-04-08T05:10:36+00:00",
+      "source": "traders_union",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMkdqMzhLRnJ1cU9LNGxuZGVBSXM0Z2YyUm1iTmhkdVdxbEdfZ3lxNVp3NVJqeXAyVTZERmZwdWhJRmJ3Q0tCVUhIQzBfWVRHNFRhNkVobV9pV2wtM1ZqRkJSVVU1cGFDdWtaMVZXM3ZWc0lzQnpGamFpRnBMOHprWFRBREJ5TVRyTmdDaDl2dnROQzVxYTVFNlR1ajdfcTJ5aU05VlVGVQ?oc=5",
+      "title": "Price well below long-term average keeps Rogers Communication stock in flat territory - Traders Union",
+      "body": "Price well below long-term average keeps Rogers Communication stock in flat territory Traders Union",
+      "author": null,
+      "language": "en",
+      "ticker": "WELL",
+      "tickers_hint": [
+        "WELL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "traders union",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Traders Union",
+        "source_domain": "tradersunion.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.41,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "1ce90c82-e3f0-5a37-9a1a-5864dc7b3134",
+      "timestamp_utc": "2026-04-08T04:06:07+00:00",
+      "source": "traders_union",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTUd5ck1lV2ljU3FGNnkzajdKZkVYUUVNZUIwRzJ0YlVteFc1SnZ6N1dHc3R0WlBlQ1hPMkhERkRuYUk5MFVLamg5WGh5V1hsaEswbVBGUVlORmZLcGYxeGpJS2hxb00tdkFlWmxlN1JIWmNTT1JoV0lZeTFZNDFKdjBGeGh2Zm8xVnc?oc=5",
+      "title": "Royal Bank of Canada stock climbs with price moving well above key averages - Traders Union",
+      "body": "Royal Bank of Canada stock climbs with price moving well above key averages Traders Union",
+      "author": null,
+      "language": "en",
+      "ticker": "WELL",
+      "tickers_hint": [
+        "WELL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "traders union",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Traders Union",
+        "source_domain": "tradersunion.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.41,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

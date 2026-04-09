@@ -1,60 +1,32 @@
 [
   {
-    "id": "ded2889b-8b17-59b0-a1f2-6c4174e7a0a3",
-    "timestamp_utc": "2026-04-01T03:57:10+00:00",
-    "source": "intellectia_ai",
-    "url": "https://intellectia.ai/en/stock/CRL/earnings",
-    "title": "CRL Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-    "body": "CRL Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+    "id": "55e41464-6880-5787-a544-467065f3f570",
+    "timestamp_utc": "2026-04-07T10:17:39+00:00",
+    "source": "yahoo_finance",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhZV9UWE84Mzd0MnAzTkhKTklOZG5QeW9OY3didnRIN0wzcWtBX1dJVkQ3MEtaRE9sZHB1ZlI5bm4tQ3JUMHRtRS16clNfSmJN?oc=5",
+    "title": "Charles River Laboratories International, Inc. (CRL) stock price, news, quote and history - Yahoo Finance UK",
+    "body": "Charles River Laboratories International, Inc. (CRL) stock price, news, quote and history Yahoo Finance UK",
     "author": null,
     "language": "en",
     "ticker": "CRL",
     "tickers_hint": [
       "CRL"
     ],
-    "source_quality": "low",
-    "publisher_raw": "intellectia ai",
+    "source_quality": "high",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Intellectia AI",
-      "source_domain": "intellectiaai.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "Yahoo Finance UK",
+      "source_domain": "finance.yahoo.com",
       "event_origin": "news",
-      "query_tickers": [
-        "CRL"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "74374bf7-6595-536e-9cee-e2e8b6c9922a",
-    "timestamp_utc": "2026-03-31T18:19:30+00:00",
-    "source": "intellectia_ai",
-    "url": "https://intellectia.ai/en/stock/CRL/technical",
-    "title": "CRL Technical Analysis & Stock Price Forecast - Intellectia AI",
-    "body": "CRL Technical Analysis & Stock Price Forecast Intellectia AI",
-    "author": null,
-    "language": "en",
-    "ticker": "CRL",
-    "tickers_hint": [
-      "CRL"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "intellectia ai",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Intellectia AI",
-      "source_domain": "intellectiaai.com",
-      "trust_tier": 1,
       "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "CRL"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "quality_score": 0.665,
+      "_channel": "google_broad",
+      "_alt_sources": [
+        "Yahoo Finance UK"
+      ]
+    }
   }
 ]

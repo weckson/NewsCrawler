@@ -2,41 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "e54d9f4c-0032-54a3-a270-213957a1d0f6",
-      "timestamp_utc": "2026-03-31T10:30:00+00:00",
-      "source": "marketwatch",
-      "url": "https://www.marketwatch.com/data-news/on-semiconductor-corp-stock-outperforms-competitors-on-strong-trading-day-4f8b0566-dfe930116705?gaa_at=eafs&gaa_n=AWEtsqdtQO880dtg7_Q29ceIUjUmAg9C1FPy6_je95ijzhBL0xfi075VCQFY&gaa_ts=69ce3f94&gaa_sig=w7od14qWY8_WUqorXYiSwm2WvCAcQrGQtTMqkEypDTz51ohOln8ZevsnzBr-W9KzpI3OvFZnNYEDz2nvaXDf-A%3D%3D",
-      "title": "ON Semiconductor Corp. stock outperforms competitors on strong trading day - MarketWatch",
-      "body": "ON Semiconductor Corp. stock outperforms competitors on strong trading day MarketWatch",
-      "author": null,
-      "language": "en",
-      "ticker": "ON",
-      "tickers_hint": [
-        "ON"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "marketwatch.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketWatch",
-        "source_domain": "marketwatch.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "ON"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "1c6b83e0-ca03-5471-9d77-0927d621a181",
-      "timestamp_utc": "2026-04-01T22:47:27+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-fv-capital-management-llc-purchases-shares-of-278390-on-semiconductor-corporation-on-2026-04-02/",
-      "title": "F&V Capital Management LLC Purchases Shares of 278,390 ON Semiconductor Corporation $ON - MarketBeat",
-      "body": "F&V Capital Management LLC Purchases Shares of 278,390 ON Semiconductor Corporation $ON MarketBeat",
+      "id": "ddccaac2-6ca0-5128-979c-2ec2d0937cfe",
+      "timestamp_utc": "2026-04-09T02:03:30+00:00",
+      "source": "markets_mojo",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN0ZWcXVUc2NsMlhrWV9Rb2dqRHl2QXA1ZGEwM1VXMklOYkQ5cFZBc0FjY1FaLXdYNElUeE9YZzcxQkdheDhjYjA0aVFVYUVGMFhwelppeV9WS1lWa1BrVGtnaFVCQ1RNWG0zSjZydzgxTUJvaUgtdjFUTjJDUXBxbVRBclhLOVYzN1J3VEpzeVk2aVEweWZ4eDhzZzQ4TmdGVUNQMEpOVkFCTWpzVFhublp5Vml6VG5JR3NsTEp5TEkxWHI5NTJqN3NxemZYTlp4Rjk1SWhwR2hFMWNDekROS3hR?oc=5",
+      "title": "ON Semiconductor Corp. Experiences Revision in Its Stock Evaluation Amid Strong Market Performance - Markets Mojo",
+      "body": "ON Semiconductor Corp. Experiences Revision in Its Stock Evaluation Amid Strong Market Performance Markets Mojo",
       "author": null,
       "language": "en",
       "ticker": "ON",
@@ -44,60 +15,29 @@
         "ON"
       ],
       "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "publisher_raw": "markets mojo",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
+        "source_name": "Markets Mojo",
+        "source_domain": "marketsmojo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "ON"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.465,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "e54d9f4c-0032-54a3-a270-213957a1d0f6",
-      "timestamp_utc": "2026-03-31T10:30:00+00:00",
-      "source": "marketwatch",
-      "url": "https://www.marketwatch.com/data-news/on-semiconductor-corp-stock-outperforms-competitors-on-strong-trading-day-4f8b0566-dfe930116705?gaa_at=eafs&gaa_n=AWEtsqdtQO880dtg7_Q29ceIUjUmAg9C1FPy6_je95ijzhBL0xfi075VCQFY&gaa_ts=69ce3f94&gaa_sig=w7od14qWY8_WUqorXYiSwm2WvCAcQrGQtTMqkEypDTz51ohOln8ZevsnzBr-W9KzpI3OvFZnNYEDz2nvaXDf-A%3D%3D",
-      "title": "ON Semiconductor Corp. stock outperforms competitors on strong trading day - MarketWatch",
-      "body": "ON Semiconductor Corp. stock outperforms competitors on strong trading day MarketWatch",
-      "author": null,
-      "language": "en",
-      "ticker": "ON",
-      "tickers_hint": [
-        "ON"
-      ],
-      "source_quality": "high",
-      "publisher_raw": "marketwatch.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketWatch",
-        "source_domain": "marketwatch.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "ON"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "1c6b83e0-ca03-5471-9d77-0927d621a181",
-      "timestamp_utc": "2026-04-01T22:47:27+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-fv-capital-management-llc-purchases-shares-of-278390-on-semiconductor-corporation-on-2026-04-02/",
-      "title": "F&V Capital Management LLC Purchases Shares of 278,390 ON Semiconductor Corporation $ON - MarketBeat",
-      "body": "F&V Capital Management LLC Purchases Shares of 278,390 ON Semiconductor Corporation $ON MarketBeat",
+      "id": "ddccaac2-6ca0-5128-979c-2ec2d0937cfe",
+      "timestamp_utc": "2026-04-09T02:03:30+00:00",
+      "source": "markets_mojo",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN0ZWcXVUc2NsMlhrWV9Rb2dqRHl2QXA1ZGEwM1VXMklOYkQ5cFZBc0FjY1FaLXdYNElUeE9YZzcxQkdheDhjYjA0aVFVYUVGMFhwelppeV9WS1lWa1BrVGtnaFVCQ1RNWG0zSjZydzgxTUJvaUgtdjFUTjJDUXBxbVRBclhLOVYzN1J3VEpzeVk2aVEweWZ4eDhzZzQ4TmdGVUNQMEpOVkFCTWpzVFhublp5Vml6VG5JR3NsTEp5TEkxWHI5NTJqN3NxemZYTlp4Rjk1SWhwR2hFMWNDekROS3hR?oc=5",
+      "title": "ON Semiconductor Corp. Experiences Revision in Its Stock Evaluation Amid Strong Market Performance - Markets Mojo",
+      "body": "ON Semiconductor Corp. Experiences Revision in Its Stock Evaluation Amid Strong Market Performance Markets Mojo",
       "author": null,
       "language": "en",
       "ticker": "ON",
@@ -105,20 +45,18 @@
         "ON"
       ],
       "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "publisher_raw": "markets mojo",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
+        "source_name": "Markets Mojo",
+        "source_domain": "marketsmojo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "ON"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.465,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

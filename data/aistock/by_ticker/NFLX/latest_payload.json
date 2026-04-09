@@ -2,12 +2,40 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "464cefaa-6467-5ea3-b0dd-9d514577e78e",
-      "timestamp_utc": "2026-04-03T18:30:50+00:00",
+      "id": "226e1aee-24f6-5cc1-9c9a-78ba2b97a4c8",
+      "timestamp_utc": "2026-04-09T03:05:41+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/article/4889486-netflix-q1-earnings-preview-with-the-wbd-saga-over-focus-shifts-to-advertising-and-live-sports",
+      "title": "Netflix Q1 Earnings Preview: With The WBD Saga Over, Focus Shifts To Advertising & Live Sports (NASDAQ:NFLX) - Seeking Alpha",
+      "body": "Netflix Inc. (NASDAQ: (NFLX)) is scheduled to report its Q1 earnings on Thursday, 16 April. In this article, I explore the key factors that investors need to focus on in the company’s Q1 report.\n\nAnalyst’s Disclosure: I/we have a beneficial long position in the shares of NFLX either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+      "author": null,
+      "language": "en",
+      "ticker": "NFLX",
+      "tickers_hint": [
+        "NFLX",
+        "WBD"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "event_origin": "news",
+        "relevance": 0.6,
+        "quality_score": 0.73,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "1e382edc-ec12-506f-b7fe-9531d13d49fb",
+      "timestamp_utc": "2026-04-09T01:23:18+00:00",
       "source": "tipranks",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPektNcmEySVJkUG9XQXlpMkN3M01VOTBZY3lfYU02NU9rTmJ1MXpGZGtGMUFEN0JyMmhqaWZ4anI4UXl4YXBJVzgtbXNrYUdYeEk3STJ5WWVfSGF4T2ZwekpHdGVUY1p4X2VEOEVZT2NFMXJkQ1p2bncyTmd5VE5UOGJzZDNyajJwcnA2WHRUOE1JTy1yNmU4ekhIanlIX21qc0xrTG5KdmM?oc=5",
-      "title": "Netflix (NFLX) Co-Founder Reed Hastings Just Sold $40 Million of Company Stock - TipRanks",
-      "body": "Netflix (NFLX) Co-Founder Reed Hastings Just Sold $40 Million of Company Stock TipRanks",
+      "url": "https://www.tipranks.com/news/an-attractive-entry-point-morgan-stanley-raises-netflix-nflx-price-target-ahead-of-earnings",
+      "title": "‘An Attractive Entry Point’: Morgan Stanley Raises Netflix (NFLX) Price Target Ahead of Earnings - TipRanks",
+      "body": "‘An Attractive Entry Point’: Morgan Stanley Raises Netflix (NFLX) Price Target Ahead of Earnings TipRanks",
       "author": null,
       "language": "en",
       "ticker": "NFLX",
@@ -16,56 +44,52 @@
       ],
       "source_quality": "high",
       "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "TipRanks",
         "source_domain": "tipranks.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
         "event_origin": "news",
-        "query_tickers": [
-          "NFLX"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.71,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "ff6db9ae-ffc1-5a7f-ad10-d7dfe970b913",
-      "timestamp_utc": "2026-04-03T20:31:10+00:00",
-      "source": "investing.com",
-      "url": "https://www.investing.com/news/insider-trading-news/neumann-netflix-cfo-sells-28m-in-nflx-stock-93CH-4597263",
-      "title": "Neumann, Netflix CFO, sells $2.8m in NFLX stock - Investing.com",
-      "body": "Neumann, Netflix CFO, sells $2.8m in NFLX stock Investing.com",
+      "id": "136b6b5c-c97e-5965-89bc-04737df18a4f",
+      "timestamp_utc": "2026-04-08T10:05:59+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGdyUmZkaDE5d1M1ZFRrVlJpdjI3a3dqZDRCSE16SkdQZ215ZzFIbHQxdEd6c3hqc1A5SkVhMTdUWFlVbGlPalN0SWtqNEtoRUhYVlQ1ejQ1Yk5WWVlETnhrVEpNb1gxRWFnZE1keWN4cTFkYV9KRFZGcHNwQkpaeVcyNzdZV2J1RnBZdWhEZ1BpTG5FUVh0S0FZYVIwaHhDWXNzeA?oc=5",
+      "title": "Netflix Sets Its Sights on Argentina, Netflix Stock (NASDAQ:NFLX) Notches Up - TipRanks",
+      "body": "Netflix Sets Its Sights on Argentina, Netflix Stock (NASDAQ:NFLX) Notches Up TipRanks",
       "author": null,
       "language": "en",
       "ticker": "NFLX",
       "tickers_hint": [
         "NFLX"
       ],
-      "source_quality": "medium",
-      "publisher_raw": "investing.com",
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Investing.com",
-        "source_domain": "investing.com",
-        "trust_tier": 2,
-        "relevance": 0.55,
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
         "event_origin": "news",
-        "query_tickers": [
-          "NFLX"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.62,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "b403ae07-cf39-5b99-b957-22a5614a7996",
-      "timestamp_utc": "2026-04-04T07:48:31+00:00",
+      "id": "13209a83-e8b3-564f-9bcb-48abc75b6ac0",
+      "timestamp_utc": "2026-04-09T00:12:18+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-netflix-inc-nflx-shares-acquired-by-balboa-wealth-partners-2026-04-04/",
-      "title": "Netflix, Inc. $NFLX Shares Acquired by Balboa Wealth Partners - MarketBeat",
-      "body": "Netflix, Inc. $NFLX Shares Acquired by Balboa Wealth Partners MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-modera-wealth-management-llc-has-199-million-stock-position-in-netflix-inc-nflx-2026-04-09/",
+      "title": "Modera Wealth Management LLC Has $1.99 Million Stock Position in Netflix, Inc. $NFLX - MarketBeat",
+      "body": "Modera Wealth Management LLC Has $1.99 Million Stock Position in Netflix, Inc. $NFLX MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "NFLX",
@@ -74,27 +98,25 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
         "event_origin": "news",
-        "query_tickers": [
-          "NFLX"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4925,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "e0c66491-f6f4-579d-b40d-ae6f88d463cf",
-      "timestamp_utc": "2026-04-03T16:58:02+00:00",
-      "source": "coincentral",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcE16UVdsNm5WTEQzTG03TnZCVmg5WGlZb3RBR3FtbkQ4b3U0STFYMnRzaHJ2NFhCeG1KbmMwUjdCTVBQSmRBZUc0S1JXRGtaMkFSVXNVc3J2UUhidFd0MWZqUFRwM2ZLRXA2QkZPNENudWlQcnFsalVuelRiUEV4cWhadERrN2F0Zl9NcS10WDdRcTVXd0FvWEtkV1l0Zw?oc=5",
-      "title": "Netflix (NFLX) Stock: Italian Court Orders Refunds Over Illegal Price Hikes - CoinCentral",
-      "body": "Netflix (NFLX) Stock: Italian Court Orders Refunds Over Illegal Price Hikes CoinCentral",
+      "id": "8ba294c5-c0ee-5c7b-9b47-b6d1769af714",
+      "timestamp_utc": "2026-04-07T21:33:46+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-netflix-inc-nflx-stock-position-raised-by-asio-capital-llc-2026-04-08/",
+      "title": "Netflix, Inc. $NFLX Stock Position Raised by Asio Capital LLC - MarketBeat",
+      "body": "Netflix, Inc. $NFLX Stock Position Raised by Asio Capital LLC MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "NFLX",
@@ -102,31 +124,57 @@
         "NFLX"
       ],
       "source_quality": "low",
-      "publisher_raw": "coincentral",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "CoinCentral",
-        "source_domain": "coincentral.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "NFLX"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4025,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "464cefaa-6467-5ea3-b0dd-9d514577e78e",
-      "timestamp_utc": "2026-04-03T18:30:50+00:00",
+      "id": "226e1aee-24f6-5cc1-9c9a-78ba2b97a4c8",
+      "timestamp_utc": "2026-04-09T03:05:41+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/article/4889486-netflix-q1-earnings-preview-with-the-wbd-saga-over-focus-shifts-to-advertising-and-live-sports",
+      "title": "Netflix Q1 Earnings Preview: With The WBD Saga Over, Focus Shifts To Advertising & Live Sports (NASDAQ:NFLX) - Seeking Alpha",
+      "body": "Netflix Inc. (NASDAQ: (NFLX)) is scheduled to report its Q1 earnings on Thursday, 16 April. In this article, I explore the key factors that investors need to focus on in the company’s Q1 report.\n\nAnalyst’s Disclosure: I/we have a beneficial long position in the shares of NFLX either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+      "author": null,
+      "language": "en",
+      "ticker": "NFLX",
+      "tickers_hint": [
+        "NFLX",
+        "WBD"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
+        "event_origin": "news",
+        "relevance": 0.6,
+        "quality_score": 0.73,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "1e382edc-ec12-506f-b7fe-9531d13d49fb",
+      "timestamp_utc": "2026-04-09T01:23:18+00:00",
       "source": "tipranks",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPektNcmEySVJkUG9XQXlpMkN3M01VOTBZY3lfYU02NU9rTmJ1MXpGZGtGMUFEN0JyMmhqaWZ4anI4UXl4YXBJVzgtbXNrYUdYeEk3STJ5WWVfSGF4T2ZwekpHdGVUY1p4X2VEOEVZT2NFMXJkQ1p2bncyTmd5VE5UOGJzZDNyajJwcnA2WHRUOE1JTy1yNmU4ekhIanlIX21qc0xrTG5KdmM?oc=5",
-      "title": "Netflix (NFLX) Co-Founder Reed Hastings Just Sold $40 Million of Company Stock - TipRanks",
-      "body": "Netflix (NFLX) Co-Founder Reed Hastings Just Sold $40 Million of Company Stock TipRanks",
+      "url": "https://www.tipranks.com/news/an-attractive-entry-point-morgan-stanley-raises-netflix-nflx-price-target-ahead-of-earnings",
+      "title": "‘An Attractive Entry Point’: Morgan Stanley Raises Netflix (NFLX) Price Target Ahead of Earnings - TipRanks",
+      "body": "‘An Attractive Entry Point’: Morgan Stanley Raises Netflix (NFLX) Price Target Ahead of Earnings TipRanks",
       "author": null,
       "language": "en",
       "ticker": "NFLX",
@@ -135,56 +183,52 @@
       ],
       "source_quality": "high",
       "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "TipRanks",
         "source_domain": "tipranks.com",
-        "trust_tier": 3,
-        "relevance": 0.5,
         "event_origin": "news",
-        "query_tickers": [
-          "NFLX"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.71,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "ff6db9ae-ffc1-5a7f-ad10-d7dfe970b913",
-      "timestamp_utc": "2026-04-03T20:31:10+00:00",
-      "source": "investing.com",
-      "url": "https://www.investing.com/news/insider-trading-news/neumann-netflix-cfo-sells-28m-in-nflx-stock-93CH-4597263",
-      "title": "Neumann, Netflix CFO, sells $2.8m in NFLX stock - Investing.com",
-      "body": "Neumann, Netflix CFO, sells $2.8m in NFLX stock Investing.com",
+      "id": "136b6b5c-c97e-5965-89bc-04737df18a4f",
+      "timestamp_utc": "2026-04-08T10:05:59+00:00",
+      "source": "tipranks",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGdyUmZkaDE5d1M1ZFRrVlJpdjI3a3dqZDRCSE16SkdQZ215ZzFIbHQxdEd6c3hqc1A5SkVhMTdUWFlVbGlPalN0SWtqNEtoRUhYVlQ1ejQ1Yk5WWVlETnhrVEpNb1gxRWFnZE1keWN4cTFkYV9KRFZGcHNwQkpaeVcyNzdZV2J1RnBZdWhEZ1BpTG5FUVh0S0FZYVIwaHhDWXNzeA?oc=5",
+      "title": "Netflix Sets Its Sights on Argentina, Netflix Stock (NASDAQ:NFLX) Notches Up - TipRanks",
+      "body": "Netflix Sets Its Sights on Argentina, Netflix Stock (NASDAQ:NFLX) Notches Up TipRanks",
       "author": null,
       "language": "en",
       "ticker": "NFLX",
       "tickers_hint": [
         "NFLX"
       ],
-      "source_quality": "medium",
-      "publisher_raw": "investing.com",
+      "source_quality": "high",
+      "publisher_raw": "tipranks.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Investing.com",
-        "source_domain": "investing.com",
-        "trust_tier": 2,
-        "relevance": 0.55,
+        "source_name": "TipRanks",
+        "source_domain": "tipranks.com",
         "event_origin": "news",
-        "query_tickers": [
-          "NFLX"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.62,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "b403ae07-cf39-5b99-b957-22a5614a7996",
-      "timestamp_utc": "2026-04-04T07:48:31+00:00",
+      "id": "13209a83-e8b3-564f-9bcb-48abc75b6ac0",
+      "timestamp_utc": "2026-04-09T00:12:18+00:00",
       "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-netflix-inc-nflx-shares-acquired-by-balboa-wealth-partners-2026-04-04/",
-      "title": "Netflix, Inc. $NFLX Shares Acquired by Balboa Wealth Partners - MarketBeat",
-      "body": "Netflix, Inc. $NFLX Shares Acquired by Balboa Wealth Partners MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-modera-wealth-management-llc-has-199-million-stock-position-in-netflix-inc-nflx-2026-04-09/",
+      "title": "Modera Wealth Management LLC Has $1.99 Million Stock Position in Netflix, Inc. $NFLX - MarketBeat",
+      "body": "Modera Wealth Management LLC Has $1.99 Million Stock Position in Netflix, Inc. $NFLX MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "NFLX",
@@ -193,27 +237,25 @@
       ],
       "source_quality": "low",
       "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
         "source_name": "MarketBeat",
         "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.55,
         "event_origin": "news",
-        "query_tickers": [
-          "NFLX"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4925,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "e0c66491-f6f4-579d-b40d-ae6f88d463cf",
-      "timestamp_utc": "2026-04-03T16:58:02+00:00",
-      "source": "coincentral",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcE16UVdsNm5WTEQzTG03TnZCVmg5WGlZb3RBR3FtbkQ4b3U0STFYMnRzaHJ2NFhCeG1KbmMwUjdCTVBQSmRBZUc0S1JXRGtaMkFSVXNVc3J2UUhidFd0MWZqUFRwM2ZLRXA2QkZPNENudWlQcnFsalVuelRiUEV4cWhadERrN2F0Zl9NcS10WDdRcTVXd0FvWEtkV1l0Zw?oc=5",
-      "title": "Netflix (NFLX) Stock: Italian Court Orders Refunds Over Illegal Price Hikes - CoinCentral",
-      "body": "Netflix (NFLX) Stock: Italian Court Orders Refunds Over Illegal Price Hikes CoinCentral",
+      "id": "8ba294c5-c0ee-5c7b-9b47-b6d1769af714",
+      "timestamp_utc": "2026-04-07T21:33:46+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-netflix-inc-nflx-stock-position-raised-by-asio-capital-llc-2026-04-08/",
+      "title": "Netflix, Inc. $NFLX Stock Position Raised by Asio Capital LLC - MarketBeat",
+      "body": "Netflix, Inc. $NFLX Stock Position Raised by Asio Capital LLC MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "NFLX",
@@ -221,20 +263,18 @@
         "NFLX"
       ],
       "source_quality": "low",
-      "publisher_raw": "coincentral",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "CoinCentral",
-        "source_domain": "coincentral.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "NFLX"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4025,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

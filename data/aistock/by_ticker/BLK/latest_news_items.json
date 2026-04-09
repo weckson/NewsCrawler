@@ -1,11 +1,11 @@
 [
   {
-    "id": "a1c638a1-6eda-58d9-a588-91e5ca984164",
-    "timestamp_utc": "2026-04-01T03:42:57+00:00",
+    "id": "182930ef-8666-584c-9c55-e5484aadf45f",
+    "timestamp_utc": "2026-04-08T06:13:41+00:00",
     "source": "gurufocus",
-    "url": "https://www.gurufocus.com/news/8765063/blackrock-blk-sees-price-target-lowered-by-morgan-stanley-blk-stock-news",
-    "title": "BlackRock (BLK) Sees Price Target Lowered by Morgan Stanley | BL - GuruFocus",
-    "body": "BlackRock (BLK) Sees Price Target Lowered by Morgan Stanley | BL GuruFocus",
+    "url": "https://www.gurufocus.com/news/8782006/barclays-lowers-price-target-for-blackrock-blk-maintains-overweight-rating-blk-stock-news",
+    "title": "Barclays Lowers Price Target for BlackRock (BLK), Maintains Over - GuruFocus",
+    "body": "Barclays Lowers Price Target for BlackRock (BLK), Maintains Over GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "BLK",
@@ -14,18 +14,43 @@
     ],
     "source_quality": "low",
     "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "GuruFocus",
       "source_domain": "gurufocus.com",
-      "trust_tier": 1,
-      "relevance": 0.55,
       "event_origin": "news",
-      "query_tickers": [
-        "BLK"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.4375,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "f9b60c5d-5b37-5534-9ad0-3a4527ebc8c0",
+    "timestamp_utc": "2026-04-08T23:20:37+00:00",
+    "source": "defense_world",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNnpzWlQ3bENhU3lQN1lGWUdPQU9PQUQtcGxKc0tzUDBQN21ZV1hSblQ0aEEtS0Q0ZlBpWlo3VXJKSmhnRzBReS16WWNHbnpSM1llVlRFYU5nXy13MzRtS0ozMVZORzFCS01URTctLVJuMk1GMWpPUHNrWjFoMFc3Q0xhV24zNUlndEdORDhxNFR4UWtHc0dnUFdzQm1IeVd6Vmo0?oc=5",
+    "title": "BlackRock $BLK Stock Holdings Lessened by Greenleaf Trust - Defense World",
+    "body": "BlackRock $BLK Stock Holdings Lessened by Greenleaf Trust Defense World",
+    "author": null,
+    "language": "en",
+    "ticker": "BLK",
+    "tickers_hint": [
+      "BLK"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "defense world",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Defense World",
+      "source_domain": "defenseworld.com",
+      "event_origin": "news",
+      "relevance": 0.5,
+      "quality_score": 0.43,
+      "_channel": "google_broad"
+    }
   }
 ]

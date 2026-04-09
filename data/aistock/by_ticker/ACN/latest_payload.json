@@ -2,65 +2,127 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "96af151b-0785-5615-a643-6f2383ce2e5a",
-      "timestamp_utc": "2026-04-03T23:50:53+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyMEIwbVh0WUhjZ25ZOHFRbHBYM0FqVU9tSkpEUEtSNml6ZFE2N1dHTlpRSnlwSmdWRHlEUDJVcTBLM21WODl6dFVlM3N0dWJibGxuOXc3eDV4TFF4UUZIV3AyOEg?oc=5",
-      "title": "ACCENTURE PLC CEDEAR EACH 75 RE (ACN.BA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "body": "ACCENTURE PLC CEDEAR EACH 75 RE (ACN.BA) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "id": "5fc180c9-2063-5972-98f4-34ecb8016282",
+      "timestamp_utc": "2026-04-08T15:01:20+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1PdGV6WHowaTk3aUFKQUpFUVF4THItM05jdi1qcV9jWU9fTjZMQ3JHTzhfNTUzcUJhUWc3NDhKQVR6YmZyeWZZeEJ3?oc=5",
+      "title": "Accenture PLC (ACN) Stock Price, Quote, News & History - Benzinga",
+      "body": "Accenture PLC (ACN) Stock Price, Quote, News & History Benzinga",
       "author": null,
       "language": "en",
       "ticker": "ACN",
       "tickers_hint": [
         "ACN"
       ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
         "event_origin": "news",
-        "query_tickers": [
-          "ACN"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.65,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
+    },
+    {
+      "id": "43a26aa4-5caa-5834-a070-797284303a1b",
+      "timestamp_utc": "2026-04-08T02:56:35+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNakZOWTB0WVlxeThwM1RFc05WMnZVcWFGTklfNlhyZ3Z5MXVvVzZnOE90enZNU0toQWxCdFRLWndHRFJ6NW1VV1ZlbEpNS0ljakNQSERlQ0VzR0p0MUV2Mmh1ZXp1WUx3bUhjdW8zUU1TVUVCc1hVc2V2czFKdVZGcnlqaHUta2ZNLVREcXFoUEtnRUZNZVhBcXYwd2czVlZlbWdlNV8wRG83eWJXenN0U0hhc1Jjb1E?oc=5",
+      "title": "What's Going On With Accenture Stock Wednesday? - Accenture (NYSE:ACN) - Benzinga",
+      "body": "What's Going On With Accenture Stock Wednesday? - Accenture (NYSE:ACN) Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "ACN",
+      "tickers_hint": [
+        "ACN"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.63,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "96af151b-0785-5615-a643-6f2383ce2e5a",
-      "timestamp_utc": "2026-04-03T23:50:53+00:00",
-      "source": "yahoo!_finance_canada",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyMEIwbVh0WUhjZ25ZOHFRbHBYM0FqVU9tSkpEUEtSNml6ZFE2N1dHTlpRSnlwSmdWRHlEUDJVcTBLM21WODl6dFVlM3N0dWJibGxuOXc3eDV4TFF4UUZIV3AyOEg?oc=5",
-      "title": "ACCENTURE PLC CEDEAR EACH 75 RE (ACN.BA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "body": "ACCENTURE PLC CEDEAR EACH 75 RE (ACN.BA) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "id": "5fc180c9-2063-5972-98f4-34ecb8016282",
+      "timestamp_utc": "2026-04-08T15:01:20+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1PdGV6WHowaTk3aUFKQUpFUVF4THItM05jdi1qcV9jWU9fTjZMQ3JHTzhfNTUzcUJhUWc3NDhKQVR6YmZyeWZZeEJ3?oc=5",
+      "title": "Accenture PLC (ACN) Stock Price, Quote, News & History - Benzinga",
+      "body": "Accenture PLC (ACN) Stock Price, Quote, News & History Benzinga",
       "author": null,
       "language": "en",
       "ticker": "ACN",
       "tickers_hint": [
         "ACN"
       ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo! finance canada",
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo! Finance Canada",
-        "source_domain": "yahoofinancecanada.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
         "event_origin": "news",
-        "query_tickers": [
-          "ACN"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.65,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
+    },
+    {
+      "id": "43a26aa4-5caa-5834-a070-797284303a1b",
+      "timestamp_utc": "2026-04-08T02:56:35+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNakZOWTB0WVlxeThwM1RFc05WMnZVcWFGTklfNlhyZ3Z5MXVvVzZnOE90enZNU0toQWxCdFRLWndHRFJ6NW1VV1ZlbEpNS0ljakNQSERlQ0VzR0p0MUV2Mmh1ZXp1WUx3bUhjdW8zUU1TVUVCc1hVc2V2czFKdVZGcnlqaHUta2ZNLVREcXFoUEtnRUZNZVhBcXYwd2czVlZlbWdlNV8wRG83eWJXenN0U0hhc1Jjb1E?oc=5",
+      "title": "What's Going On With Accenture Stock Wednesday? - Accenture (NYSE:ACN) - Benzinga",
+      "body": "What's Going On With Accenture Stock Wednesday? - Accenture (NYSE:ACN) Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "ACN",
+      "tickers_hint": [
+        "ACN"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.63,
+        "_channel": "google_benzinga",
+        "_alt_sources": [
+          "Benzinga"
+        ]
+      }
     }
   ]
 }

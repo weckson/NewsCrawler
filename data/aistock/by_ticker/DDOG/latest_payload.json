@@ -2,65 +2,61 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "23a70311-7aa5-502f-a6f3-98429200c834",
-      "timestamp_utc": "2026-04-01T10:43:51+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTlFQa1FyRlBlNnJPcEp5NWZzWm15akszRnRXOTRnY0d3MUZGT3hWNU9pX2tERG5nY1JUN25ndDRpY3RfbFhSb3ktcVBTZmp2bUpVZWZNQkRoVC14d1NZcDZpNVVCbzVYXzNPajBDajFLaEZhbXgyU3dNTUlFdEt4TldfQTVaYmVGb3c5ejRrQWhkZw?oc=5",
-      "title": "Trusts sell large DDOG (NASDAQ: DDOG) Class A blocks under 10b5-1 plans - Stock Titan",
-      "body": "Trusts sell large DDOG (NASDAQ: DDOG) Class A blocks under 10b5-1 plans Stock Titan",
+      "id": "aa8af92f-c431-5706-84fb-3eee300a422f",
+      "timestamp_utc": "2026-04-08T10:30:45+00:00",
+      "source": "investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcUlfSzRRQVZtT24wVWwxSmRLTGxHdUZVWWdjaGxlQUlfSVlFbWJobDNFenhkS0pjaDgtYjZUdnMyYVFpSjlvakdUUTJ0ekdWZkxCcVlOcGxWNmxfRWNVVXo2Q25HOUR3QWZ3SkdGZmtnZFNjWEx6Ym5YUllpaVlhQVdHYWlXYnFkVnRxb1ZsQ29PcGRzSC1tSkRDZjB0ZFNBQnEwTmFmWXFqTGRVVjJsS01oaWJPUQ?oc=5",
+      "title": "Datadog CTO Le-Quoc Alexis sells $3.76m in DDOG stock - Investing.com",
+      "body": "Datadog CTO Le-Quoc Alexis sells $3.76m in DDOG stock Investing.com",
       "author": null,
       "language": "en",
       "ticker": "DDOG",
       "tickers_hint": [
         "DDOG"
       ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DDOG"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.56,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "23a70311-7aa5-502f-a6f3-98429200c834",
-      "timestamp_utc": "2026-04-01T10:43:51+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTlFQa1FyRlBlNnJPcEp5NWZzWm15akszRnRXOTRnY0d3MUZGT3hWNU9pX2tERG5nY1JUN25ndDRpY3RfbFhSb3ktcVBTZmp2bUpVZWZNQkRoVC14d1NZcDZpNVVCbzVYXzNPajBDajFLaEZhbXgyU3dNTUlFdEt4TldfQTVaYmVGb3c5ejRrQWhkZw?oc=5",
-      "title": "Trusts sell large DDOG (NASDAQ: DDOG) Class A blocks under 10b5-1 plans - Stock Titan",
-      "body": "Trusts sell large DDOG (NASDAQ: DDOG) Class A blocks under 10b5-1 plans Stock Titan",
+      "id": "aa8af92f-c431-5706-84fb-3eee300a422f",
+      "timestamp_utc": "2026-04-08T10:30:45+00:00",
+      "source": "investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcUlfSzRRQVZtT24wVWwxSmRLTGxHdUZVWWdjaGxlQUlfSVlFbWJobDNFenhkS0pjaDgtYjZUdnMyYVFpSjlvakdUUTJ0ekdWZkxCcVlOcGxWNmxfRWNVVXo2Q25HOUR3QWZ3SkdGZmtnZFNjWEx6Ym5YUllpaVlhQVdHYWlXYnFkVnRxb1ZsQ29PcGRzSC1tSkRDZjB0ZFNBQnEwTmFmWXFqTGRVVjJsS01oaWJPUQ?oc=5",
+      "title": "Datadog CTO Le-Quoc Alexis sells $3.76m in DDOG stock - Investing.com",
+      "body": "Datadog CTO Le-Quoc Alexis sells $3.76m in DDOG stock Investing.com",
       "author": null,
       "language": "en",
       "ticker": "DDOG",
       "tickers_hint": [
         "DDOG"
       ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "source_quality": "medium",
+      "publisher_raw": "investing.com",
+      "trust_tier": 2,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
+        "source_name": "Investing.com",
+        "source_domain": "investing.com",
         "event_origin": "news",
-        "query_tickers": [
-          "DDOG"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.56,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

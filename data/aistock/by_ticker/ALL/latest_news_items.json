@@ -1,11 +1,11 @@
 [
   {
-    "id": "85b0cd1c-71d2-5315-880d-93befa8d8ed4",
-    "timestamp_utc": "2026-04-04T13:08:11+00:00",
-    "source": "seeking_alpha",
-    "url": "https://seekingalpha.com/article/4888400-allstate-has-weathered-insurance-storm-in-2025-its-umbrella-remains-strong",
-    "title": "Allstate Stock: Weathered Insurance Storm In 2025, Its Umbrella Remains Strong (NYSE:ALL) - Seeking Alpha",
-    "body": "Dougal Waters/DigitalVision via Getty Images\n\nAn analogy I love to use about the insurance sector, since springtime is when many people go sailing or boating, is that an experienced skipper should anticipate the risk of potential storms or sudden wind changes\n\nAnalyst’s Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+    "id": "35f218f4-775b-548e-aa25-027facb69199",
+    "timestamp_utc": "2026-04-08T05:03:12+00:00",
+    "source": "yahoo_finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-allstates-next-earnings-150312982.html",
+    "title": "Here's What to Expect From Allstate's Next Earnings Report - Yahoo Finance",
+    "body": "Here's What to Expect From Allstate's Next Earnings Report Yahoo Finance",
     "author": null,
     "language": "en",
     "ticker": "ALL",
@@ -13,57 +13,26 @@
       "ALL"
     ],
     "source_quality": "high",
-    "publisher_raw": "seekingalpha.com",
+    "publisher_raw": "finance.yahoo.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Seeking Alpha",
-      "source_domain": "seekingalpha.com",
-      "trust_tier": 3,
-      "relevance": 0.6000000000000001,
+      "source_name": "Yahoo Finance",
+      "source_domain": "finance.yahoo.com",
       "event_origin": "news",
-      "query_tickers": [
-        "ALL"
-      ],
-      "body_kind": "article_text"
-    },
-    "stream_type": "soft"
+      "relevance": 0.55,
+      "quality_score": 0.6475,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "43f37fa5-3c5a-580a-9227-d047eeec350f",
-    "timestamp_utc": "2026-04-04T08:41:44+00:00",
-    "source": "defense_world",
-    "url": "https://www.defenseworld.net/2026/04/04/the-allstate-corporation-nyseall-given-average-rating-of-moderate-buy-by-brokerages.html",
-    "title": "The Allstate Corporation (NYSE:ALL) Given Average Rating of “Moderate Buy” by Brokerages - Defense World",
-    "body": "Air Armament Engines Fighter Aircraft Helicopters Land Armored Vehicles and Tanks Ordinance and Artillery Personnel Equipment Small Arms Missiles and Space Air Defense Military Satellites Missile Technology Naval Civil Aviation Accidents Airlines Engines Manufacturers MRO Economy Management Appointments Market Trends and Finance Mergers and Acquisitions Companies",
-    "author": null,
-    "language": "en",
-    "ticker": "ALL",
-    "tickers_hint": [
-      "ALL"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "defense world",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Defense World",
-      "source_domain": "defenseworld.com",
-      "trust_tier": 1,
-      "relevance": 0.6500000000000001,
-      "event_origin": "news",
-      "query_tickers": [
-        "ALL"
-      ],
-      "body_kind": "article_text"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "04fcc5d6-41d5-5a44-91d0-2a4a6d34ad63",
-    "timestamp_utc": "2026-04-04T07:25:55+00:00",
+    "id": "bcfb732f-439e-52cf-846d-e906987cff68",
+    "timestamp_utc": "2026-04-09T01:21:12+00:00",
     "source": "marketbeat",
-    "url": "https://www.marketbeat.com/instant-alerts/filing-the-allstate-corporation-all-shares-purchased-by-aberdeen-group-plc-2026-04-04/",
-    "title": "The Allstate Corporation $ALL Shares Purchased by Aberdeen Group plc - MarketBeat",
-    "body": "The Allstate Corporation $ALL Shares Purchased by Aberdeen Group plc MarketBeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-ofi-invest-asset-management-invests-2307-million-in-the-allstate-corporation-all-2026-04-09/",
+    "title": "OFI Invest Asset Management Invests $23.07 Million in The Allstate Corporation $ALL - MarketBeat",
+    "body": "OFI Invest Asset Management Invests $23.07 Million in The Allstate Corporation $ALL MarketBeat",
     "author": null,
     "language": "en",
     "ticker": "ALL",
@@ -72,18 +41,43 @@
     ],
     "source_quality": "low",
     "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
       "source_name": "MarketBeat",
       "source_domain": "marketbeat.com",
-      "trust_tier": 1,
-      "relevance": 0.6500000000000001,
       "event_origin": "news",
-      "query_tickers": [
-        "ALL"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.5175,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "52c25571-14b4-571c-94b0-b030ceaae407",
+    "timestamp_utc": "2026-04-08T01:54:30+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-oak-thistle-llc-buys-shares-of-11015-the-allstate-corporation-all-2026-04-08/",
+    "title": "Oak Thistle LLC Buys Shares of 11,015 The Allstate Corporation $ALL - MarketBeat",
+    "body": "Oak Thistle LLC Buys Shares of 11,015 The Allstate Corporation $ALL MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "ALL",
+    "tickers_hint": [
+      "ALL"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.4475,
+      "_channel": "google_broad"
+    }
   }
 ]

@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "363d5506-0ae9-50c6-9bd4-5e445488bf6c",
-      "timestamp_utc": "2026-04-03T02:13:05+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdXVEUUlWbjFsd3ptNTc0TnJRNVl1d0hxOU5ZY0ltVjZwcWhFX244UkY2clJfMWlmaklHNUU3Umt6dVdYczB4ck9nM3JmdW52Y3ZILW9NS1NDWGxKYVpKWG44NTNLcWY0MFFkZlpEbHE2QTN1T19DTldWMzdQWGJJQ0JhT2JRTDgtR1lvdmgxOGhPd0l1WHd2d1lXdEc2OVBKUVpuVGN1WTJnSVp4R3dmTmxTVQ?oc=5",
-      "title": "Schwab (SCHW) director granted 1,286 nonqualified stock options as board fees - Stock Titan",
-      "body": "Schwab (SCHW) director granted 1,286 nonqualified stock options as board fees Stock Titan",
+      "id": "97f67d63-accd-578f-b742-e34358b528cf",
+      "timestamp_utc": "2026-04-08T10:37:37+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782488/ubs-analyst-lowers-price-target-for-charles-schwab-schw-to-119-schw-stock-news",
+      "title": "UBS Analyst Lowers Price Target for Charles Schwab (SCHW) to $11 - GuruFocus",
+      "body": "UBS Analyst Lowers Price Target for Charles Schwab (SCHW) to $11 GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "SCHW",
@@ -15,28 +15,26 @@
         "SCHW"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "SCHW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.495,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "abe3f4b9-018b-587b-8b2a-e038ecc8f316",
-      "timestamp_utc": "2026-04-03T02:13:05+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlNZTnJnRE9ieUhjUTc5MEtRYkEyekNGbDVGRFpwczhKd1NHUUo5V1lYdzdZVmNueUZJU3NBeWZ1Q2xUY05vOTdQT0tMakxpLWxwOXJIOTNSSHMxWFRVNW5wMXdXdGxpUmZnMWtzLUlRQWRXUlhoVzNwUWxMSHJobnV0U0lfUDhLNHF5bDZXMjJVZVdYc0JvTzVJR0VSd2R4V3lOMG44dFA4eGZrZVdOZENSVQ?oc=5",
-      "title": "Schwab (SCHW) director takes 434 RSUs instead of cash board fees - Stock Titan",
-      "body": "Schwab (SCHW) director takes 434 RSUs instead of cash board fees Stock Titan",
+      "id": "5d93fb7a-b300-56be-9d86-302f09419d6b",
+      "timestamp_utc": "2026-04-08T19:29:41+00:00",
+      "source": "defense_world",
+      "url": "https://www.defenseworld.net/2026/04/09/charles-schwab-schw-expected-to-announce-quarterly-earnings-on-thursday.html",
+      "title": "Charles Schwab (SCHW) Expected to Announce Quarterly Earnings on Thursday - Defense World",
+      "body": "Air Armament Engines Fighter Aircraft Helicopters Land Armored Vehicles and Tanks Ordinance and Artillery Personnel Equipment Small Arms Missiles and Space Air Defense Military Satellites Missile Technology Naval Civil Aviation Accidents Airlines Engines Manufacturers MRO Economy Management Appointments Market Trends and Finance Mergers and Acquisitions Companies",
       "author": null,
       "language": "en",
       "ticker": "SCHW",
@@ -44,28 +42,26 @@
         "SCHW"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "defense world",
+      "trust_tier": 1,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
         "event_origin": "news",
-        "query_tickers": [
-          "SCHW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.485,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "e9698906-b00f-5493-9d38-c334c70acad1",
-      "timestamp_utc": "2026-04-03T01:30:50+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUmhnZ096OTJ2QngwTTdwN2h4Yjh5aDJubDZEOVNGV0c3ZnVJdi11ajBvUmNiN09qRWN1RW1rX0JFb0RHZmRvZVlfTGtfMXh1Z0J4SmtIVzBqckxlWWwxcmxURTRHWTR5SnZqZzZSb2lDVm0tZ2RSNDVVdmd3Ty1LdTJUdjZRWUhOUm9FUmxQdl9YZDVmQ3dtZnlRUGF0YzIwY29meTNhYTJHdm5pREpHQnJ1VQ?oc=5",
-      "title": "Director at Schwab (SCHW) granted 393 RSUs in lieu of cash fees - Stock Titan",
-      "body": "Director at Schwab (SCHW) granted 393 RSUs in lieu of cash fees Stock Titan",
+      "id": "eb4cfaf3-4942-5829-a30f-ccf7749dde33",
+      "timestamp_utc": "2026-04-08T04:27:35+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8781784/charles-schwab-schw-analyst-reinstates-outperform-rating-schw-stock-news",
+      "title": "Charles Schwab (SCHW): Analyst Reinstates 'Outperform' Rating | - GuruFocus",
+      "body": "Charles Schwab (SCHW): Analyst Reinstates 'Outperform' Rating | GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "SCHW",
@@ -73,28 +69,26 @@
         "SCHW"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "SCHW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.48,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "1d1034b7-a85e-5b04-ac9f-cebc0aee3749",
-      "timestamp_utc": "2026-04-03T01:30:50+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2RyRDN6S3FPOGZtaFBCdTdJT21OWGVsb1FBRkZZV01aOEJsNVdCdXgzSlFUUnN1aEx4cFZQNzM5cEp1QW94UThuMUEtRWh5UEc3U21ETUhTYTV5YzFDT3NzZERiTnU5cVdRVEpOVFlpRVdIbElTdDBCMzJoM1RpdUJWM3FEV0ZzM0xoMUY2RzZKYW00YUxQZkR5OHB1dERnSk1IMGlteExSazR1cXRPZ0piVQ?oc=5",
-      "title": "Schwab (SCHW) director Herringer receives 474 RSUs in lieu of cash fees - Stock Titan",
-      "body": "Schwab (SCHW) director Herringer receives 474 RSUs in lieu of cash fees Stock Titan",
+      "id": "8a9ea27d-40a1-58f7-8952-2ce43f5ce8aa",
+      "timestamp_utc": "2026-04-08T08:27:33+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782327/charles-schwab-schw-analyst-rating-update-barclays-lowers-price-target-schw-stock-news?mobile=true",
+      "title": "Charles Schwab (SCHW) Analyst Rating Update: Barclays Lowers Pri - GuruFocus",
+      "body": "Charles Schwab (SCHW) Analyst Rating Update: Barclays Lowers Pri GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "SCHW",
@@ -102,31 +96,29 @@
         "SCHW"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "SCHW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.465,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "363d5506-0ae9-50c6-9bd4-5e445488bf6c",
-      "timestamp_utc": "2026-04-03T02:13:05+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdXVEUUlWbjFsd3ptNTc0TnJRNVl1d0hxOU5ZY0ltVjZwcWhFX244UkY2clJfMWlmaklHNUU3Umt6dVdYczB4ck9nM3JmdW52Y3ZILW9NS1NDWGxKYVpKWG44NTNLcWY0MFFkZlpEbHE2QTN1T19DTldWMzdQWGJJQ0JhT2JRTDgtR1lvdmgxOGhPd0l1WHd2d1lXdEc2OVBKUVpuVGN1WTJnSVp4R3dmTmxTVQ?oc=5",
-      "title": "Schwab (SCHW) director granted 1,286 nonqualified stock options as board fees - Stock Titan",
-      "body": "Schwab (SCHW) director granted 1,286 nonqualified stock options as board fees Stock Titan",
+      "id": "97f67d63-accd-578f-b742-e34358b528cf",
+      "timestamp_utc": "2026-04-08T10:37:37+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782488/ubs-analyst-lowers-price-target-for-charles-schwab-schw-to-119-schw-stock-news",
+      "title": "UBS Analyst Lowers Price Target for Charles Schwab (SCHW) to $11 - GuruFocus",
+      "body": "UBS Analyst Lowers Price Target for Charles Schwab (SCHW) to $11 GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "SCHW",
@@ -134,28 +126,26 @@
         "SCHW"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "SCHW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.495,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "abe3f4b9-018b-587b-8b2a-e038ecc8f316",
-      "timestamp_utc": "2026-04-03T02:13:05+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlNZTnJnRE9ieUhjUTc5MEtRYkEyekNGbDVGRFpwczhKd1NHUUo5V1lYdzdZVmNueUZJU3NBeWZ1Q2xUY05vOTdQT0tMakxpLWxwOXJIOTNSSHMxWFRVNW5wMXdXdGxpUmZnMWtzLUlRQWRXUlhoVzNwUWxMSHJobnV0U0lfUDhLNHF5bDZXMjJVZVdYc0JvTzVJR0VSd2R4V3lOMG44dFA4eGZrZVdOZENSVQ?oc=5",
-      "title": "Schwab (SCHW) director takes 434 RSUs instead of cash board fees - Stock Titan",
-      "body": "Schwab (SCHW) director takes 434 RSUs instead of cash board fees Stock Titan",
+      "id": "5d93fb7a-b300-56be-9d86-302f09419d6b",
+      "timestamp_utc": "2026-04-08T19:29:41+00:00",
+      "source": "defense_world",
+      "url": "https://www.defenseworld.net/2026/04/09/charles-schwab-schw-expected-to-announce-quarterly-earnings-on-thursday.html",
+      "title": "Charles Schwab (SCHW) Expected to Announce Quarterly Earnings on Thursday - Defense World",
+      "body": "Air Armament Engines Fighter Aircraft Helicopters Land Armored Vehicles and Tanks Ordinance and Artillery Personnel Equipment Small Arms Missiles and Space Air Defense Military Satellites Missile Technology Naval Civil Aviation Accidents Airlines Engines Manufacturers MRO Economy Management Appointments Market Trends and Finance Mergers and Acquisitions Companies",
       "author": null,
       "language": "en",
       "ticker": "SCHW",
@@ -163,28 +153,26 @@
         "SCHW"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "defense world",
+      "trust_tier": 1,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
         "event_origin": "news",
-        "query_tickers": [
-          "SCHW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.485,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "e9698906-b00f-5493-9d38-c334c70acad1",
-      "timestamp_utc": "2026-04-03T01:30:50+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUmhnZ096OTJ2QngwTTdwN2h4Yjh5aDJubDZEOVNGV0c3ZnVJdi11ajBvUmNiN09qRWN1RW1rX0JFb0RHZmRvZVlfTGtfMXh1Z0J4SmtIVzBqckxlWWwxcmxURTRHWTR5SnZqZzZSb2lDVm0tZ2RSNDVVdmd3Ty1LdTJUdjZRWUhOUm9FUmxQdl9YZDVmQ3dtZnlRUGF0YzIwY29meTNhYTJHdm5pREpHQnJ1VQ?oc=5",
-      "title": "Director at Schwab (SCHW) granted 393 RSUs in lieu of cash fees - Stock Titan",
-      "body": "Director at Schwab (SCHW) granted 393 RSUs in lieu of cash fees Stock Titan",
+      "id": "eb4cfaf3-4942-5829-a30f-ccf7749dde33",
+      "timestamp_utc": "2026-04-08T04:27:35+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8781784/charles-schwab-schw-analyst-reinstates-outperform-rating-schw-stock-news",
+      "title": "Charles Schwab (SCHW): Analyst Reinstates 'Outperform' Rating | - GuruFocus",
+      "body": "Charles Schwab (SCHW): Analyst Reinstates 'Outperform' Rating | GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "SCHW",
@@ -192,28 +180,26 @@
         "SCHW"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "SCHW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.48,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "1d1034b7-a85e-5b04-ac9f-cebc0aee3749",
-      "timestamp_utc": "2026-04-03T01:30:50+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2RyRDN6S3FPOGZtaFBCdTdJT21OWGVsb1FBRkZZV01aOEJsNVdCdXgzSlFUUnN1aEx4cFZQNzM5cEp1QW94UThuMUEtRWh5UEc3U21ETUhTYTV5YzFDT3NzZERiTnU5cVdRVEpOVFlpRVdIbElTdDBCMzJoM1RpdUJWM3FEV0ZzM0xoMUY2RzZKYW00YUxQZkR5OHB1dERnSk1IMGlteExSazR1cXRPZ0piVQ?oc=5",
-      "title": "Schwab (SCHW) director Herringer receives 474 RSUs in lieu of cash fees - Stock Titan",
-      "body": "Schwab (SCHW) director Herringer receives 474 RSUs in lieu of cash fees Stock Titan",
+      "id": "8a9ea27d-40a1-58f7-8952-2ce43f5ce8aa",
+      "timestamp_utc": "2026-04-08T08:27:33+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782327/charles-schwab-schw-analyst-rating-update-barclays-lowers-price-target-schw-stock-news?mobile=true",
+      "title": "Charles Schwab (SCHW) Analyst Rating Update: Barclays Lowers Pri - GuruFocus",
+      "body": "Charles Schwab (SCHW) Analyst Rating Update: Barclays Lowers Pri GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "SCHW",
@@ -221,20 +207,18 @@
         "SCHW"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "SCHW"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6,
+        "quality_score": 0.465,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

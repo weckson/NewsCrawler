@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "de8cbba5-7457-5a03-a27b-10e336a69b3f",
-      "timestamp_utc": "2026-04-01T02:30:00+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSXphUEdQb2FxdURya1BVRlBSSVFRZjh6OE1ONkNYeXFDWUk4MjNqZGctSzhIOEhDLTZGTnJ0NHBWOVpSaG5ZX3VsbWpRSjNGcTF6TVU1bUwyMDV1aDFBNHFvZ3RBNjVpUWE2RWlFcFlSVkhYLVppQmZDZjI4bXJMbTVKVldzNWIybGtFc3NPcUJ0RzkyLUNyU0JxVXdDeGNIYXhBdUNJUWFxWXI2N2xjeklQSlo4Q1FhcDJj?oc=5",
-      "title": "BMW replaces fragmented engineering systems with PTC Codebeamer - Stock Titan",
-      "body": "BMW replaces fragmented engineering systems with PTC Codebeamer Stock Titan",
+      "id": "47dfe044-d8ab-53a2-9d9b-d4bc5f050e71",
+      "timestamp_utc": "2026-04-08T11:52:12+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nb1d6OEE3UEhhenJsU05ZSFpOazM0MHdjMUh6VUZBMVowQWoyeklsNXU4dWh6XzZaOG1jeEZPT1pPVWVLeVVDM1dmTEVQUDZ4ZXpRQTdWTWppT1dkZ0sw?oc=5",
+      "title": "PTC Inc (BSP:P2TC34) Stock News, Headlines & Updates - GuruFocus",
+      "body": "PTC Inc (BSP:P2TC34) Stock News, Headlines & Updates GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "PTC",
@@ -15,31 +15,29 @@
         "PTC"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "PTC"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.41,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "de8cbba5-7457-5a03-a27b-10e336a69b3f",
-      "timestamp_utc": "2026-04-01T02:30:00+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSXphUEdQb2FxdURya1BVRlBSSVFRZjh6OE1ONkNYeXFDWUk4MjNqZGctSzhIOEhDLTZGTnJ0NHBWOVpSaG5ZX3VsbWpRSjNGcTF6TVU1bUwyMDV1aDFBNHFvZ3RBNjVpUWE2RWlFcFlSVkhYLVppQmZDZjI4bXJMbTVKVldzNWIybGtFc3NPcUJ0RzkyLUNyU0JxVXdDeGNIYXhBdUNJUWFxWXI2N2xjeklQSlo4Q1FhcDJj?oc=5",
-      "title": "BMW replaces fragmented engineering systems with PTC Codebeamer - Stock Titan",
-      "body": "BMW replaces fragmented engineering systems with PTC Codebeamer Stock Titan",
+      "id": "47dfe044-d8ab-53a2-9d9b-d4bc5f050e71",
+      "timestamp_utc": "2026-04-08T11:52:12+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nb1d6OEE3UEhhenJsU05ZSFpOazM0MHdjMUh6VUZBMVowQWoyeklsNXU4dWh6XzZaOG1jeEZPT1pPVWVLeVVDM1dmTEVQUDZ4ZXpRQTdWTWppT1dkZ0sw?oc=5",
+      "title": "PTC Inc (BSP:P2TC34) Stock News, Headlines & Updates - GuruFocus",
+      "body": "PTC Inc (BSP:P2TC34) Stock News, Headlines & Updates GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "PTC",
@@ -47,20 +45,18 @@
         "PTC"
       ],
       "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "PTC"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.41,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

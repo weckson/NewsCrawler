@@ -2,12 +2,12 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "43c47419-b4a3-552b-8b14-284e3617d8ae",
-      "timestamp_utc": "2026-04-01T16:11:27+00:00",
-      "source": "fakta.co",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HVTd6WU5hb25TN0hBLVcyVGJDZVo0SktyYlZOQkQ2VFk0bTM1T3VYTU51THMzeUMxTVRlRjN1eVNWTjlkd290VXZsNER4OWE3dDF6OE9ENmxKVVctZXo0TXhRczlrZHhE?oc=5",
-      "title": "CNBC Partners with Cboe for Daily Live Market Coverage from Chicago Floor - fakta.co",
-      "body": "CNBC Partners with Cboe for Daily Live Market Coverage from Chicago Floor fakta.co",
+      "id": "5a33c3e3-0ba4-5399-b3dd-963cf078857f",
+      "timestamp_utc": "2026-04-08T22:15:32+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb1hZQV93ZGRvUGc1WlV5emoybUZqaFpESko1RVkwVHI2Sk1FNTlmdEJWb1hNS2E4eVJwWjRoaVdyYks1VkUzczh1SmhydFQ1NS1wTmNwZjMyS1l0YURjVkw2aDVXc2NTeXM1eTRMa29ZdDFDU0s0bUVHQUlucUhkd194djlEUWljZk8yaVlyTWVvUlpaM1JhS2hSd2xRb09pZzRkLWJFYTNrUHFuQ1E?oc=5",
+      "title": "Cboe Global Markets (BATS:CBOE) Now Covered by Keefe, Bruyette & Woods - Defense World",
+      "body": "Cboe Global Markets (BATS:CBOE) Now Covered by Keefe, Bruyette & Woods Defense World",
       "author": null,
       "language": "en",
       "ticker": "CBOE",
@@ -15,28 +15,26 @@
         "CBOE"
       ],
       "source_quality": "low",
-      "publisher_raw": "fakta.co",
+      "publisher_raw": "defense world",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "fakta.co",
-        "source_domain": "faktaco.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
         "event_origin": "news",
-        "query_tickers": [
-          "CBOE"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.455,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "b4b856f7-1220-507f-93ee-89ed06edc56a",
-      "timestamp_utc": "2026-03-31T10:41:21+00:00",
-      "source": "ts2.tech",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbFdrWnk0bm1lQ2V3b25OUm5xSFpkNUQ0aWVfa1JmeW5rY2lGY0xQWTN3V2owcGN4dV9PQy1BaWpjRjZDY3lUWllJWjNuLXlEWWZPa05CUGlPRnhRU3pqWnVZMUU4TUhjYVV1dGJ6dU1SNTR4U1hRYTc1VGRjLUR3dWJRdV9BOE5yemlUUDI1Z2VIaExRbDZmQXBOdE1oQTlwNFhXV1ZB?oc=5",
-      "title": "CNBC to Air Daily From Cboe’s Chicago Trading Floor as Options Trading Hits Records - ts2.tech",
-      "body": "CNBC to Air Daily From Cboe’s Chicago Trading Floor as Options Trading Hits Records ts2.tech",
+      "id": "a3c9c6d5-46d0-5189-af3b-460faba42e8c",
+      "timestamp_utc": "2026-04-08T03:37:56+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8781581/cboe-keefe-bruyette-woods-reinstates-market-perform-rating-with-300-pt-cboe-stock-news?mobile=true",
+      "title": "CBOE: Keefe, Bruyette & Woods Reinstates Market Perform Rating w - GuruFocus",
+      "body": "CBOE: Keefe, Bruyette & Woods Reinstates Market Perform Rating w GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "CBOE",
@@ -44,31 +42,29 @@
         "CBOE"
       ],
       "source_quality": "low",
-      "publisher_raw": "ts2.tech",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "ts2.tech",
-        "source_domain": "ts2tech.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "CBOE"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "43c47419-b4a3-552b-8b14-284e3617d8ae",
-      "timestamp_utc": "2026-04-01T16:11:27+00:00",
-      "source": "fakta.co",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HVTd6WU5hb25TN0hBLVcyVGJDZVo0SktyYlZOQkQ2VFk0bTM1T3VYTU51THMzeUMxTVRlRjN1eVNWTjlkd290VXZsNER4OWE3dDF6OE9ENmxKVVctZXo0TXhRczlrZHhE?oc=5",
-      "title": "CNBC Partners with Cboe for Daily Live Market Coverage from Chicago Floor - fakta.co",
-      "body": "CNBC Partners with Cboe for Daily Live Market Coverage from Chicago Floor fakta.co",
+      "id": "5a33c3e3-0ba4-5399-b3dd-963cf078857f",
+      "timestamp_utc": "2026-04-08T22:15:32+00:00",
+      "source": "defense_world",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb1hZQV93ZGRvUGc1WlV5emoybUZqaFpESko1RVkwVHI2Sk1FNTlmdEJWb1hNS2E4eVJwWjRoaVdyYks1VkUzczh1SmhydFQ1NS1wTmNwZjMyS1l0YURjVkw2aDVXc2NTeXM1eTRMa29ZdDFDU0s0bUVHQUlucUhkd194djlEUWljZk8yaVlyTWVvUlpaM1JhS2hSd2xRb09pZzRkLWJFYTNrUHFuQ1E?oc=5",
+      "title": "Cboe Global Markets (BATS:CBOE) Now Covered by Keefe, Bruyette & Woods - Defense World",
+      "body": "Cboe Global Markets (BATS:CBOE) Now Covered by Keefe, Bruyette & Woods Defense World",
       "author": null,
       "language": "en",
       "ticker": "CBOE",
@@ -76,28 +72,26 @@
         "CBOE"
       ],
       "source_quality": "low",
-      "publisher_raw": "fakta.co",
+      "publisher_raw": "defense world",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "fakta.co",
-        "source_domain": "faktaco.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Defense World",
+        "source_domain": "defenseworld.com",
         "event_origin": "news",
-        "query_tickers": [
-          "CBOE"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.455,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "b4b856f7-1220-507f-93ee-89ed06edc56a",
-      "timestamp_utc": "2026-03-31T10:41:21+00:00",
-      "source": "ts2.tech",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbFdrWnk0bm1lQ2V3b25OUm5xSFpkNUQ0aWVfa1JmeW5rY2lGY0xQWTN3V2owcGN4dV9PQy1BaWpjRjZDY3lUWllJWjNuLXlEWWZPa05CUGlPRnhRU3pqWnVZMUU4TUhjYVV1dGJ6dU1SNTR4U1hRYTc1VGRjLUR3dWJRdV9BOE5yemlUUDI1Z2VIaExRbDZmQXBOdE1oQTlwNFhXV1ZB?oc=5",
-      "title": "CNBC to Air Daily From Cboe’s Chicago Trading Floor as Options Trading Hits Records - ts2.tech",
-      "body": "CNBC to Air Daily From Cboe’s Chicago Trading Floor as Options Trading Hits Records ts2.tech",
+      "id": "a3c9c6d5-46d0-5189-af3b-460faba42e8c",
+      "timestamp_utc": "2026-04-08T03:37:56+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8781581/cboe-keefe-bruyette-woods-reinstates-market-perform-rating-with-300-pt-cboe-stock-news?mobile=true",
+      "title": "CBOE: Keefe, Bruyette & Woods Reinstates Market Perform Rating w - GuruFocus",
+      "body": "CBOE: Keefe, Bruyette & Woods Reinstates Market Perform Rating w GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "CBOE",
@@ -105,20 +99,18 @@
         "CBOE"
       ],
       "source_quality": "low",
-      "publisher_raw": "ts2.tech",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "ts2.tech",
-        "source_domain": "ts2tech.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "CBOE"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

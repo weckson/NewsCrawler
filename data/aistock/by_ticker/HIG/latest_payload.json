@@ -2,12 +2,39 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "3fbb49fe-fc9f-5d30-a4e7-36ac514a5a42",
-      "timestamp_utc": "2026-04-04T15:06:46+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/HIG/earnings",
-      "title": "HIG Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "HIG Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "ae6577e6-86fd-5141-a856-d40481134d0b",
+      "timestamp_utc": "2026-04-09T02:30:25+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RNDRrTjBaVGtSU2NuRWZGLXdLZEVNbkYxMlBaekRfaHV1YTlTdjlLaFNtLUo4czVicFVveXZzSWMtMTZjcU1kb0dtTFBvN3FG?oc=5",
+      "title": "The Hartford Insurance Group, Inc. (HIG) stock price, news, quote and history - Yahoo Finance Australia",
+      "body": "The Hartford Insurance Group, Inc. (HIG) stock price, news, quote and history Yahoo Finance Australia",
+      "author": null,
+      "language": "en",
+      "ticker": "HIG",
+      "tickers_hint": [
+        "HIG"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Yahoo Finance Australia",
+        "source_domain": "finance.yahoo.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.675,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "192aef44-2629-52ee-b199-a7d2545a6092",
+      "timestamp_utc": "2026-04-08T08:56:15+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782330/barclays-lowers-price-target-for-hig-maintains-overweight-rating-hig-stock-news?mobile=true",
+      "title": "Barclays Lowers Price Target for HIG, Maintains Overweight Ratin - GuruFocus",
+      "body": "Barclays Lowers Price Target for HIG, Maintains Overweight Ratin GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "HIG",
@@ -15,31 +42,56 @@
         "HIG"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "HIG"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "3fbb49fe-fc9f-5d30-a4e7-36ac514a5a42",
-      "timestamp_utc": "2026-04-04T15:06:46+00:00",
-      "source": "intellectia_ai",
-      "url": "https://intellectia.ai/en/stock/HIG/earnings",
-      "title": "HIG Earning Date, Earning Analysis and Earning Prediction - Intellectia AI",
-      "body": "HIG Earning Date, Earning Analysis and Earning Prediction Intellectia AI",
+      "id": "ae6577e6-86fd-5141-a856-d40481134d0b",
+      "timestamp_utc": "2026-04-09T02:30:25+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RNDRrTjBaVGtSU2NuRWZGLXdLZEVNbkYxMlBaekRfaHV1YTlTdjlLaFNtLUo4czVicFVveXZzSWMtMTZjcU1kb0dtTFBvN3FG?oc=5",
+      "title": "The Hartford Insurance Group, Inc. (HIG) stock price, news, quote and history - Yahoo Finance Australia",
+      "body": "The Hartford Insurance Group, Inc. (HIG) stock price, news, quote and history Yahoo Finance Australia",
+      "author": null,
+      "language": "en",
+      "ticker": "HIG",
+      "tickers_hint": [
+        "HIG"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Yahoo Finance Australia",
+        "source_domain": "finance.yahoo.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.675,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "192aef44-2629-52ee-b199-a7d2545a6092",
+      "timestamp_utc": "2026-04-08T08:56:15+00:00",
+      "source": "gurufocus",
+      "url": "https://www.gurufocus.com/news/8782330/barclays-lowers-price-target-for-hig-maintains-overweight-rating-hig-stock-news?mobile=true",
+      "title": "Barclays Lowers Price Target for HIG, Maintains Overweight Ratin - GuruFocus",
+      "body": "Barclays Lowers Price Target for HIG, Maintains Overweight Ratin GuruFocus",
       "author": null,
       "language": "en",
       "ticker": "HIG",
@@ -47,20 +99,18 @@
         "HIG"
       ],
       "source_quality": "low",
-      "publisher_raw": "intellectia ai",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Intellectia AI",
-        "source_domain": "intellectiaai.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
         "event_origin": "news",
-        "query_tickers": [
-          "HIG"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.55,
+        "quality_score": 0.4375,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

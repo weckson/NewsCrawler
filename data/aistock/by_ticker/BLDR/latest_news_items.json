@@ -1,40 +1,11 @@
 [
   {
-    "id": "a94b5123-0025-5c94-8002-b178ebc5a573",
-    "timestamp_utc": "2026-04-01T11:50:04+00:00",
-    "source": "yahoo_finance",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOGtKNTVLRUxBVTZFd0Q0Q2pxNWpaUzdNNjQ1eWJUSGQ3SXVfVUpaeXB0dkxYWTZvM2J2Zl9iUmdDLUVJXzhoNzA1TkFBWTBORjNXWlY2NVVzNENGSmI4ckhoUE8tRDRvM2pkQ0J1M3JSbEtieVAyTzJTM1Zoa1BwNVZucFJlcW9DNWI2QS1SdmVjVUpzZDREajB6dGVFdy1lOFVXSQ?oc=5",
-    "title": "Builders FirstSource (BLDR) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
-    "body": "Builders FirstSource (BLDR) Stock Falls Amid Market Uptick: What Investors Need to Know Yahoo Finance",
-    "author": null,
-    "language": "en",
-    "ticker": "BLDR",
-    "tickers_hint": [
-      "BLDR"
-    ],
-    "source_quality": "high",
-    "publisher_raw": "finance.yahoo.com",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Yahoo Finance",
-      "source_domain": "finance.yahoo.com",
-      "trust_tier": 3,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "BLDR"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "be89fe5c-6be0-554f-8a58-ae4070d61389",
-    "timestamp_utc": "2026-04-01T13:02:14+00:00",
-    "source": "bitget",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiaEZBRFpqZGxOOXo3ekNaeTJnTGp0ckJBTkszZFdsNVBmcExlMVhxczM3clFNdHdMR3R3UGdyY3RDVkNNbDZmaEhwZjgxOEE5akw1YzZMYlBPSWFqR1B3RWFURdIBY0FVX3lxTFBiaEZBRFpqZGxOOXo3ekNaeTJnTGp0ckJBTkszZFdsNVBmcExlMVhxczM3clFNdHdMR3R3UGdyY3RDVkNNbDZmaEhwZjgxOEE5akw1YzZMYlBPSWFqR1B3RWFURQ?oc=5",
-    "title": "Builders FirstSource (BLDR) Shares Decline Despite Market Gains: Essential Information for Investors - Bitget",
-    "body": "Builders FirstSource (BLDR) Shares Decline Despite Market Gains: Essential Information for Investors Bitget",
+    "id": "32549131-3d89-5d90-8f54-45732acb0c38",
+    "timestamp_utc": "2026-04-08T09:35:32+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8782408/bldr-analyst-rating-update-wells-fargo-lowers-price-target-bldr-stock-news",
+    "title": "BLDR Analyst Rating Update: Wells Fargo Lowers Price Target | BL - GuruFocus",
+    "body": "BLDR Analyst Rating Update: Wells Fargo Lowers Price Target | BL GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "BLDR",
@@ -42,19 +13,98 @@
       "BLDR"
     ],
     "source_quality": "low",
-    "publisher_raw": "bitget",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Bitget",
-      "source_domain": "bitget.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
       "event_origin": "news",
-      "query_tickers": [
-        "BLDR"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.65,
+      "quality_score": 0.4925,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "ba662af5-6196-54a1-a08c-89c4cb3d2665",
+    "timestamp_utc": "2026-04-08T05:56:15+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8782013/builders-firstsource-bldr-barclays-analyst-adjusts-price-target-bldr-stock-news?mobile=true",
+    "title": "Builders FirstSource (BLDR): Barclays Analyst Adjusts Price Targ - GuruFocus",
+    "body": "Builders FirstSource (BLDR): Barclays Analyst Adjusts Price Targ GuruFocus",
+    "author": null,
+    "language": "en",
+    "ticker": "BLDR",
+    "tickers_hint": [
+      "BLDR"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4375,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "1fcdefb6-40e2-5444-9d66-10d4afd91c9c",
+    "timestamp_utc": "2026-04-08T03:30:49+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/wells-fargo-company-has-lowered-expectations-for-builders-firstsource-nysebldr-stock-price-2026-04-08/",
+    "title": "Wells Fargo & Company Has Lowered Expectations for Builders FirstSource (NYSE:BLDR) Stock Price - MarketBeat",
+    "body": "Wells Fargo & Company Has Lowered Expectations for Builders FirstSource (NYSE:BLDR) Stock Price MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "BLDR",
+    "tickers_hint": [
+      "BLDR"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4375,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "0f8ba085-ce0e-5fac-9260-c206ebeb926d",
+    "timestamp_utc": "2026-04-08T03:30:52+00:00",
+    "source": "marketbeat",
+    "url": "https://www.marketbeat.com/instant-alerts/barclays-has-lowered-expectations-for-builders-firstsource-nysebldr-stock-price-2026-04-08/",
+    "title": "Barclays Has Lowered Expectations for Builders FirstSource (NYSE:BLDR) Stock Price - MarketBeat",
+    "body": "Barclays Has Lowered Expectations for Builders FirstSource (NYSE:BLDR) Stock Price MarketBeat",
+    "author": null,
+    "language": "en",
+    "ticker": "BLDR",
+    "tickers_hint": [
+      "BLDR"
+    ],
+    "source_quality": "low",
+    "publisher_raw": "marketbeat.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "MarketBeat",
+      "source_domain": "marketbeat.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.4225,
+      "_channel": "google_broad"
+    }
   }
 ]

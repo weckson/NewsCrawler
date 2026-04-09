@@ -1,11 +1,11 @@
 [
   {
-    "id": "0ceef1d5-5a40-5bc1-9b0f-5db823d0d215",
-    "timestamp_utc": "2026-04-01T14:47:32+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdjl6UXhCVkx1TGZCLTY5V0k5Znc1dkhhQS1WcnBoT25lREdMdExVUHNLUmhYUFAwelZ0Mk5tM0paRDllR2N2U2Z6LVBPcHA1Nmxad1RJMkF0UndDbE42RWpnNGZLWU9KQ3hlODlRNFdkUXVqb25Rek9kdzFDY2UzbmVzc25nNGNhNGhDVHYzU2tnX0N0UnRSVnhMZDJyT0RINW9lZVVqRHpQSUF4R2NWaXhpV2JZMEFP?oc=5",
-    "title": "Molson Coors (TAP) director receives 334-share deferred stock grant in lieu of cash - Stock Titan",
-    "body": "Molson Coors (TAP) director receives 334-share deferred stock grant in lieu of cash Stock Titan",
+    "id": "1d84804f-fd80-5b63-b33d-9c337ecdd2c1",
+    "timestamp_utc": "2026-04-08T10:07:34+00:00",
+    "source": "gurufocus",
+    "url": "https://www.gurufocus.com/news/8782374/wells-fargo-lowers-price-target-for-molson-coors-tap-to-45-tap-stock-news",
+    "title": "Wells Fargo Lowers Price Target for Molson Coors (TAP) to $45 | TAP Stock News - GuruFocus",
+    "body": "Wells Fargo Lowers Price Target for Molson Coors (TAP) to $45 | TAP Stock News GuruFocus",
     "author": null,
     "language": "en",
     "ticker": "TAP",
@@ -13,48 +13,17 @@
       "TAP"
     ],
     "source_quality": "low",
-    "publisher_raw": "stock titan",
+    "publisher_raw": "gurufocus.com",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "GuruFocus",
+      "source_domain": "gurufocus.com",
       "event_origin": "news",
-      "query_tickers": [
-        "TAP"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
-  },
-  {
-    "id": "346628fb-7c97-5bc6-9434-fa7cfc7b1115",
-    "timestamp_utc": "2026-04-01T14:47:29+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeW9JMXdodXpkTVNzbGNsYTdtdVpZRWFaX0E1VVN0d2JoSGF0MjNMejdXVXUzSnYzczdqLWxVOUs4eGVzQzg3US1UOUF2LXdJRHlVMTUzUF9NTHZDVnpVLWVzUHNVcmVxd19uNnV0S3pONUpUbDRtd0RGd3E1TUdwRUdHVko4UlRhQXcwTW5KSkFPY0dWREdreUlVZFl2X2F5aEliRmNFUlplcFV2RmFpZDMwX0d2RDA2?oc=5",
-    "title": "Molson Coors (NYSE: TAP) director gets 668 Class B stock award - Stock Titan",
-    "body": "Molson Coors (NYSE: TAP) director gets 668 Class B stock award Stock Titan",
-    "author": null,
-    "language": "en",
-    "ticker": "TAP",
-    "tickers_hint": [
-      "TAP"
-    ],
-    "source_quality": "low",
-    "publisher_raw": "stock titan",
-    "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
-      "event_origin": "news",
-      "query_tickers": [
-        "TAP"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6500000000000001,
+      "quality_score": 0.4925,
+      "_channel": "google_broad"
+    }
   }
 ]

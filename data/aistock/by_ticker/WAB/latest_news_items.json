@@ -1,11 +1,11 @@
 [
   {
-    "id": "927f40d7-1d05-5632-92bd-92d7f427def4",
-    "timestamp_utc": "2026-03-31T06:41:15+00:00",
-    "source": "gurufocus",
-    "url": "https://www.gurufocus.com/news/8761802/jefferies-lowers-price-target-for-wab-maintains-buy-rating-wab-stock-news?mobile=true",
-    "title": "Jefferies Lowers Price Target for WAB, Maintains Buy Rating | WA - GuruFocus",
-    "body": "Jefferies Lowers Price Target for WAB, Maintains Buy Rating | WA GuruFocus",
+    "id": "45d8d7a9-a406-5385-b82f-be7dcad1d881",
+    "timestamp_utc": "2026-04-08T05:40:02+00:00",
+    "source": "yahoo!_finance_canada",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WdlVhcFdKY3NDWks0MG1pN3oxdzVnNzk0T3FFeTlONGpGQlJrS3Z3QmJ4aTdOTDFMbUZ4bEc1RlF1bHIwWkp4YmF4aEIxT3VNeEZpNG5FVWVlUURZVnR3WEcxcXYtRFMwM05ydURSbzBlTUFidkZOcXln?oc=5",
+    "title": "AL vs. WAB: Which Stock Should Value Investors Buy Now? - Yahoo! Finance Canada",
+    "body": "AL vs. WAB: Which Stock Should Value Investors Buy Now? Yahoo! Finance Canada",
     "author": null,
     "language": "en",
     "ticker": "WAB",
@@ -13,19 +13,17 @@
       "WAB"
     ],
     "source_quality": "low",
-    "publisher_raw": "gurufocus.com",
+    "publisher_raw": "yahoo! finance canada",
+    "trust_tier": 1,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "GuruFocus",
-      "source_domain": "gurufocus.com",
-      "trust_tier": 1,
-      "relevance": 0.6,
+      "source_name": "Yahoo! Finance Canada",
+      "source_domain": "yahoofinancecanada.com",
       "event_origin": "news",
-      "query_tickers": [
-        "WAB"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.41,
+      "_channel": "google_broad"
+    }
   }
 ]

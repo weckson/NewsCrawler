@@ -1,11 +1,11 @@
 [
   {
-    "id": "84ac8541-b5cb-5844-a197-be950ee5f649",
-    "timestamp_utc": "2026-04-01T17:34:25+00:00",
-    "source": "benzinga",
-    "url": "https://www.benzinga.com/news/26/04/51617298/apollo-circles-kkrs-atlantic-aviation-in-10-billion-acquisition-move",
-    "title": "Apollo Circles KKR's Atlantic Aviation In $10 Billion Acquisition Move - Apollo Global Management (NYSE:A - Benzinga",
-    "body": "Apollo Circles KKR's Atlantic Aviation In $10 Billion Acquisition Move - Apollo Global Management (NYSE:A Benzinga",
+    "id": "06482cd8-6edc-500f-858d-608c1b1f3c29",
+    "timestamp_utc": "2026-04-08T10:41:00+00:00",
+    "source": "marketwatch",
+    "url": "https://www.marketwatch.com/data-news/kkr-co-inc-stock-underperforms-wednesday-when-compared-to-competitors-despite-daily-gains-940a3e8b-b0fc48b56303?mod=mw_quote_news",
+    "title": "KKR & Co. Inc. stock underperforms Wednesday when compared to competitors despite daily gains - MarketWatch",
+    "body": "KKR & Co. Inc. stock underperforms Wednesday when compared to competitors despite daily gains MarketWatch",
     "author": null,
     "language": "en",
     "ticker": "KKR",
@@ -13,31 +13,53 @@
       "KKR"
     ],
     "source_quality": "high",
-    "publisher_raw": "benzinga.com",
+    "publisher_raw": "marketwatch.com",
+    "trust_tier": 3,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_benzinga",
-      "source_name": "Benzinga",
-      "source_domain": "benzinga.com",
-      "trust_tier": 3,
-      "relevance": 0.55,
+      "source_name": "MarketWatch",
+      "source_domain": "marketwatch.com",
       "event_origin": "news",
-      "query_tickers": [
-        "KKR"
-      ],
-      "alt_sources": [
-        "Benzinga"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.5,
+      "quality_score": 0.65,
+      "_channel": "google_broad"
+    }
   },
   {
-    "id": "a25c6929-badd-5edb-85cd-aaf68b4fb881",
-    "timestamp_utc": "2026-03-31T05:00:00+00:00",
-    "source": "stock_titan",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlZNZkctM3NaeUR1MmdwbmpkR2QzWms5OF9lWlFIMnF0OEF6OXJpUXZSdUZDVC0xQU9CdmFiMlZjX1lOM1VHaHBORFBBUHZkMFg4V2VIbmxCVDJ5TG5HcDl0U3FKSGlRcU9raWluVWhqVmNIQ2xyWGVES25GLS03MFptR3dRd2d1YWhHalFJdmYzamlmeDNicG9GZFd1QlJNR1lzcTBNU2R3dFB2YVBGLVlVa3BCeHVuZEE?oc=5",
-    "title": "KKR offers a 117% premium to take Taiyo Holdings private - Stock Titan",
-    "body": "KKR offers a 117% premium to take Taiyo Holdings private Stock Titan",
+    "id": "c53eb386-3b6a-53d4-a9e1-d48e794c501e",
+    "timestamp_utc": "2026-04-07T22:47:32+00:00",
+    "source": "investing.com",
+    "url": "https://www.investing.com/news/analyst-ratings/barclays-reiterates-kkr-stock-overweight-rating-with-127-target-93CH-4602222",
+    "title": "Barclays reiterates KKR stock Overweight rating with $127 target - Investing.com",
+    "body": "Barclays reiterates KKR stock Overweight rating with $127 target Investing.com",
+    "author": null,
+    "language": "en",
+    "ticker": "KKR",
+    "tickers_hint": [
+      "KKR"
+    ],
+    "source_quality": "medium",
+    "publisher_raw": "investing.com",
+    "trust_tier": 2,
+    "body_kind": "summary_snippet",
+    "ingest_source": "newscrawler_local",
+    "meta": {
+      "source_name": "Investing.com",
+      "source_domain": "investing.com",
+      "event_origin": "news",
+      "relevance": 0.55,
+      "quality_score": 0.5825,
+      "_channel": "google_broad"
+    }
+  },
+  {
+    "id": "6a203374-2325-5567-826f-6d6da3fa344f",
+    "timestamp_utc": "2026-04-08T15:02:09+00:00",
+    "source": "national_today",
+    "url": "https://nationaltoday.com/us/ny/new-york/news/2026/04/08/kkr-real-estate-finance-trust-to-report-q1-2026-earnings/",
+    "title": "KKR Real Estate Finance Trust to Report Q1 2026 Earnings - National Today",
+    "body": "The commercial real estate investment firm will announce its latest quarterly financial results.\n\nGot story updates? Submit your updates here. ›\n\nKKR Real Estate Finance Trust Inc., a leading commercial real estate investment firm, announced that it will report its financial results for the first quarter of 2026 on an upcoming date. The company invests in a variety of commercial real estate assets and provides financing solutions to property owners and developers.\n\nAs a major player in the commercial real estate market, KKR's quarterly earnings report provides insights into the overall health and performance of the sector. Investors and industry analysts will be closely watching the results to gauge trends in areas like occupancy rates, rental income, and investment activity.\n\nKKR Real Estate Finance Trust did not specify the exact date for the Q1 2026 earnings announcement, but said it will be released in the coming weeks. The company invests in a diverse portfolio of commercial real estate assets including office buildings, multifamily properties, industrial facilities, and hospitality assets across the United States.\n\nA commercial real estate investment firm that provides financing solutions and invests in a variety of property types across the United States.\n\nKKR's upcoming earnings report will offer valuable insights into the current state of the commercial real estate market and the performance of one of the industry's leading investment firms.",
     "author": null,
     "language": "en",
     "ticker": "KKR",
@@ -45,19 +67,17 @@
       "KKR"
     ],
     "source_quality": "low",
-    "publisher_raw": "stock titan",
+    "publisher_raw": "national today",
+    "trust_tier": 1,
+    "body_kind": "article_text",
+    "ingest_source": "newscrawler_local",
     "meta": {
-      "channel": "google_broad",
-      "source_name": "Stock Titan",
-      "source_domain": "stocktitan.com",
-      "trust_tier": 1,
-      "relevance": 0.5,
+      "source_name": "National Today",
+      "source_domain": "nationaltoday.com",
       "event_origin": "news",
-      "query_tickers": [
-        "KKR"
-      ],
-      "body_kind": "summary_snippet"
-    },
-    "stream_type": "soft"
+      "relevance": 0.6,
+      "quality_score": 0.485,
+      "_channel": "google_broad"
+    }
   }
 ]

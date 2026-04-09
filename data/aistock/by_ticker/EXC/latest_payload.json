@@ -2,413 +2,61 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "f8b39c86-0da4-5c7e-94ea-6baaead78c30",
-      "timestamp_utc": "2026-04-01T09:30:07+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdUJzT2NibEJjRXRYRzBKRWk0X3ZGME56WE1nUzZFZldxTFAtMWNlcWdnM3pZWktKQ2dmR3BGLS1DSFpvOU5paWhndUlXa2VmTEpwZWtMQ0plODBwelFhM3ZvR202SkpERlJKdlYySHZSajVrc2J0OXRmUnFjT21pVmRycnE5WHFlbWUya3drZFVycDF3TjZPYk5nTk9NUzA3NlFGVjlNbw?oc=5",
-      "title": "Exelon (EXC) director granted 878 deferred stock units under plan - Stock Titan",
-      "body": "Exelon (EXC) director granted 878 deferred stock units under plan Stock Titan",
+      "id": "87e5ae3f-df21-5b44-9114-1aa65782ed07",
+      "timestamp_utc": "2026-04-07T22:24:05+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OaDRzaHNPdnZnXy1RMGlraDQzcE16NHlFelNxcUtsVFhtTEFyNXNlNjBMTmZXekdqMkRBc1Boa0w1aTc5MmQweG5FdU1kc0xz?oc=5",
+      "title": "Exelon Corporation (EXC) stock price, news, quote and history - Yahoo Finance Singapore",
+      "body": "Exelon Corporation (EXC) stock price, news, quote and history Yahoo Finance Singapore",
       "author": null,
       "language": "en",
       "ticker": "EXC",
       "tickers_hint": [
         "EXC"
       ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "EXC"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "935ff757-55b0-5eb5-9eab-368bb34afa5e",
-      "timestamp_utc": "2026-04-01T09:29:31+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbzNZZ3dCNFBOVTI2d1dZQ2xtbXhSTUdHMWdoeXAxTk5UQzVraDJJRzFmalliQzFJbGtOdEo4Z0xaRjBQX1c1UENsYWxXeXd6bm05UTRVVDhWSnhqSnE0Tlp0d0RoT1F5SGFQNWYzWXZ6VGFQQXYtQTN2aldia0Q3aEhGWlUyckFXcXViam9Fd2V2LTZEVlMxeXVTTGt6Y0lUTF9UYXNtaw?oc=5",
-      "title": "Exelon (NASDAQ: EXC) director receives deferred stock units and phantom shares - Stock Titan",
-      "body": "Exelon (NASDAQ: EXC) director receives deferred stock units and phantom shares Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "EXC",
-      "tickers_hint": [
-        "EXC"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
         "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "EXC"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "0cff3f1d-1b2e-559d-b902-17cc0c7796a4",
-      "timestamp_utc": "2026-04-01T09:28:58+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYkRlN0diREFIbk5ZRUFpMS1FbXNYdV9qX3QwcDJMOTZCLXFxYTVoTWo5OU5EVWtyWjhCY1VpTTk5eXBvQUpVYzlGcjQ0RkhET1JGTDEwN0c3Y0lJM25hZ2tKR2VldU5VWUlCUDZHZzhhR3liSEs5YnByMVdVSGZiNk5mV2tzemUzWUZrUGpmaUNuRU83ZzE0Z0pnNGtOT2s4aHhKRW9mQQ?oc=5",
-      "title": "Exelon (EXC) director adds deferred stock units and phantom units - Stock Titan",
-      "body": "Exelon (EXC) director adds deferred stock units and phantom units Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "EXC",
-      "tickers_hint": [
-        "EXC"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "EXC"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "16f2c093-2bc7-5de7-9b14-d82cecd56c39",
-      "timestamp_utc": "2026-04-01T09:28:23+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLW0xcWtCbjBGck5VcktPNTNuMGJNdzlqcWVPRi1yY25SQjh4Z2pyQmhwZlVzTEVQNzBWZ1RHby1QejJGOGxFRmJnbDdyQjQxcVBIV2ltN2o1RERrX1RTM0xDZG5RbUR5dHNITG8tQWkteVBaaEtFdi1yR0t5M1lxN0FxX0VLMG1NZXY0UkR1VEo0bl9PdWM0clJNWmJZVVRvMUh0d20wMA?oc=5",
-      "title": "Exelon (EXC) director receives deferred stock units and phantom share awards - Stock Titan",
-      "body": "Exelon (EXC) director receives deferred stock units and phantom share awards Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "EXC",
-      "tickers_hint": [
-        "EXC"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "EXC"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "5213278f-7db9-5698-bce8-ffae77518cf4",
-      "timestamp_utc": "2026-04-01T09:26:38+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTC1GYlBiLTRFQ0tNTXk0N0dteVJPRzBfajJDaEdrSU1qU0lub3BObnBid0gzWGZFdjZwZ1VCbGFOY3BsLV9jQmYzdWRDeDl4S2JHak5PcFE1dzU4RjZyQW5iNkwwU3NGR1pYYlBuY2JSaWNLMzBVMllIM0xsTC1sY3E2WjhXbkNHSU0xMGJvQUY2MXBnVGNWanVENWl3d2lycG1CZ29MQQ?oc=5",
-      "title": "Exelon (EXC) director DeWalt receives 878 deferred stock units as compensation - Stock Titan",
-      "body": "Exelon (EXC) director DeWalt receives 878 deferred stock units as compensation Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "EXC",
-      "tickers_hint": [
-        "EXC"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "EXC"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "9d63e886-5951-5cd4-a65e-bec89fd2e802",
-      "timestamp_utc": "2026-04-01T09:25:54+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY2VyNE1XWDFtTGNhTGVnVHpTY0wtT1ZlN1diOVdIdjFPSUtoX2VSQXo0Q2lDR0JnMjEwUEtYYVg5VmlMMWI4SnRDSzZBTWlKbFpSVlV2d2syMGVHdXpnWDhwU1VEaFBJRHhsQ3dNRmFYdnFlN2d2LTN4NWlOQlNrazN5WUtmMkFUTjRNZVRtU2J1RS1QVEpLTG1jR3BBclhadWFKeWlLRQ?oc=5",
-      "title": "Exelon (EXC) director granted deferred stock units and phantom shares - Stock Titan",
-      "body": "Exelon (EXC) director granted deferred stock units and phantom shares Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "EXC",
-      "tickers_hint": [
-        "EXC"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "EXC"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "6ff90060-f84f-5974-889d-58cf408e8a68",
-      "timestamp_utc": "2026-04-01T09:25:04+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLTNaaUlMMDVYZ0F6bEh2b3htMHUxN0RQeklBLVFBYTVncV92SEVoVVhBQ1pCZExXQmUwNWs0LWhEUEpVSVBzdHdONk1jSWs2N2FWeHBzS2hLS1JzX283SEpJTUZzc2VfdjREU0dLRlM5RWh0RUVSUnQ4UTg4UlpKVi15NVNVRFEwc0N0VGRpb1o1bVRIQ204aHB3SS1YRkVKYm8ydk9COA?oc=5",
-      "title": "Exelon Corp (EXC) director receives deferred share and phantom unit grants - Stock Titan",
-      "body": "Exelon Corp (EXC) director receives deferred share and phantom unit grants Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "EXC",
-      "tickers_hint": [
-        "EXC"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "EXC"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.6,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "f8b39c86-0da4-5c7e-94ea-6baaead78c30",
-      "timestamp_utc": "2026-04-01T09:30:07+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdUJzT2NibEJjRXRYRzBKRWk0X3ZGME56WE1nUzZFZldxTFAtMWNlcWdnM3pZWktKQ2dmR3BGLS1DSFpvOU5paWhndUlXa2VmTEpwZWtMQ0plODBwelFhM3ZvR202SkpERlJKdlYySHZSajVrc2J0OXRmUnFjT21pVmRycnE5WHFlbWUya3drZFVycDF3TjZPYk5nTk9NUzA3NlFGVjlNbw?oc=5",
-      "title": "Exelon (EXC) director granted 878 deferred stock units under plan - Stock Titan",
-      "body": "Exelon (EXC) director granted 878 deferred stock units under plan Stock Titan",
+      "id": "87e5ae3f-df21-5b44-9114-1aa65782ed07",
+      "timestamp_utc": "2026-04-07T22:24:05+00:00",
+      "source": "yahoo_finance",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OaDRzaHNPdnZnXy1RMGlraDQzcE16NHlFelNxcUtsVFhtTEFyNXNlNjBMTmZXekdqMkRBc1Boa0w1aTc5MmQweG5FdU1kc0xz?oc=5",
+      "title": "Exelon Corporation (EXC) stock price, news, quote and history - Yahoo Finance Singapore",
+      "body": "Exelon Corporation (EXC) stock price, news, quote and history Yahoo Finance Singapore",
       "author": null,
       "language": "en",
       "ticker": "EXC",
       "tickers_hint": [
         "EXC"
       ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
+      "source_quality": "high",
+      "publisher_raw": "finance.yahoo.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
+        "source_name": "Yahoo Finance Singapore",
+        "source_domain": "finance.yahoo.com",
         "event_origin": "news",
-        "query_tickers": [
-          "EXC"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "935ff757-55b0-5eb5-9eab-368bb34afa5e",
-      "timestamp_utc": "2026-04-01T09:29:31+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbzNZZ3dCNFBOVTI2d1dZQ2xtbXhSTUdHMWdoeXAxTk5UQzVraDJJRzFmalliQzFJbGtOdEo4Z0xaRjBQX1c1UENsYWxXeXd6bm05UTRVVDhWSnhqSnE0Tlp0d0RoT1F5SGFQNWYzWXZ6VGFQQXYtQTN2aldia0Q3aEhGWlUyckFXcXViam9Fd2V2LTZEVlMxeXVTTGt6Y0lUTF9UYXNtaw?oc=5",
-      "title": "Exelon (NASDAQ: EXC) director receives deferred stock units and phantom shares - Stock Titan",
-      "body": "Exelon (NASDAQ: EXC) director receives deferred stock units and phantom shares Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "EXC",
-      "tickers_hint": [
-        "EXC"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
         "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "EXC"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "0cff3f1d-1b2e-559d-b902-17cc0c7796a4",
-      "timestamp_utc": "2026-04-01T09:28:58+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYkRlN0diREFIbk5ZRUFpMS1FbXNYdV9qX3QwcDJMOTZCLXFxYTVoTWo5OU5EVWtyWjhCY1VpTTk5eXBvQUpVYzlGcjQ0RkhET1JGTDEwN0c3Y0lJM25hZ2tKR2VldU5VWUlCUDZHZzhhR3liSEs5YnByMVdVSGZiNk5mV2tzemUzWUZrUGpmaUNuRU83ZzE0Z0pnNGtOT2s4aHhKRW9mQQ?oc=5",
-      "title": "Exelon (EXC) director adds deferred stock units and phantom units - Stock Titan",
-      "body": "Exelon (EXC) director adds deferred stock units and phantom units Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "EXC",
-      "tickers_hint": [
-        "EXC"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "EXC"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "16f2c093-2bc7-5de7-9b14-d82cecd56c39",
-      "timestamp_utc": "2026-04-01T09:28:23+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLW0xcWtCbjBGck5VcktPNTNuMGJNdzlqcWVPRi1yY25SQjh4Z2pyQmhwZlVzTEVQNzBWZ1RHby1QejJGOGxFRmJnbDdyQjQxcVBIV2ltN2o1RERrX1RTM0xDZG5RbUR5dHNITG8tQWkteVBaaEtFdi1yR0t5M1lxN0FxX0VLMG1NZXY0UkR1VEo0bl9PdWM0clJNWmJZVVRvMUh0d20wMA?oc=5",
-      "title": "Exelon (EXC) director receives deferred stock units and phantom share awards - Stock Titan",
-      "body": "Exelon (EXC) director receives deferred stock units and phantom share awards Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "EXC",
-      "tickers_hint": [
-        "EXC"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "EXC"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "5213278f-7db9-5698-bce8-ffae77518cf4",
-      "timestamp_utc": "2026-04-01T09:26:38+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTC1GYlBiLTRFQ0tNTXk0N0dteVJPRzBfajJDaEdrSU1qU0lub3BObnBid0gzWGZFdjZwZ1VCbGFOY3BsLV9jQmYzdWRDeDl4S2JHak5PcFE1dzU4RjZyQW5iNkwwU3NGR1pYYlBuY2JSaWNLMzBVMllIM0xsTC1sY3E2WjhXbkNHSU0xMGJvQUY2MXBnVGNWanVENWl3d2lycG1CZ29MQQ?oc=5",
-      "title": "Exelon (EXC) director DeWalt receives 878 deferred stock units as compensation - Stock Titan",
-      "body": "Exelon (EXC) director DeWalt receives 878 deferred stock units as compensation Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "EXC",
-      "tickers_hint": [
-        "EXC"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "EXC"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "9d63e886-5951-5cd4-a65e-bec89fd2e802",
-      "timestamp_utc": "2026-04-01T09:25:54+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY2VyNE1XWDFtTGNhTGVnVHpTY0wtT1ZlN1diOVdIdjFPSUtoX2VSQXo0Q2lDR0JnMjEwUEtYYVg5VmlMMWI4SnRDSzZBTWlKbFpSVlV2d2syMGVHdXpnWDhwU1VEaFBJRHhsQ3dNRmFYdnFlN2d2LTN4NWlOQlNrazN5WUtmMkFUTjRNZVRtU2J1RS1QVEpLTG1jR3BBclhadWFKeWlLRQ?oc=5",
-      "title": "Exelon (EXC) director granted deferred stock units and phantom shares - Stock Titan",
-      "body": "Exelon (EXC) director granted deferred stock units and phantom shares Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "EXC",
-      "tickers_hint": [
-        "EXC"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "EXC"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "6ff90060-f84f-5974-889d-58cf408e8a68",
-      "timestamp_utc": "2026-04-01T09:25:04+00:00",
-      "source": "stock_titan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLTNaaUlMMDVYZ0F6bEh2b3htMHUxN0RQeklBLVFBYTVncV92SEVoVVhBQ1pCZExXQmUwNWs0LWhEUEpVSVBzdHdONk1jSWs2N2FWeHBzS2hLS1JzX283SEpJTUZzc2VfdjREU0dLRlM5RWh0RUVSUnQ4UTg4UlpKVi15NVNVRFEwc0N0VGRpb1o1bVRIQ204aHB3SS1YRkVKYm8ydk9COA?oc=5",
-      "title": "Exelon Corp (EXC) director receives deferred share and phantom unit grants - Stock Titan",
-      "body": "Exelon Corp (EXC) director receives deferred share and phantom unit grants Stock Titan",
-      "author": null,
-      "language": "en",
-      "ticker": "EXC",
-      "tickers_hint": [
-        "EXC"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "stock titan",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Stock Titan",
-        "source_domain": "stocktitan.com",
-        "trust_tier": 1,
-        "relevance": 0.5,
-        "event_origin": "news",
-        "query_tickers": [
-          "EXC"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.6,
+        "_channel": "google_broad"
+      }
     }
   ]
 }

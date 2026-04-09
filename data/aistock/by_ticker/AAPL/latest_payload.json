@@ -2,186 +2,148 @@
   "hard_event_news": [],
   "soft_event_news": [
     {
-      "id": "a2d2e3ba-0c4b-5fd0-8e74-57585ab9eb99",
-      "timestamp_utc": "2026-04-04T00:41:55+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/apple-nasdaqaapl-ceo-timothy-cook-sells-64949-shares-2026-04-03/",
-      "title": "Apple (NASDAQ:AAPL) CEO Timothy Cook Sells 64,949 Shares - MarketBeat",
-      "body": "Apple (NASDAQ:AAPL) CEO Timothy Cook Sells 64,949 Shares MarketBeat",
+      "id": "725b0dae-c0bc-566d-b3c4-e87294517411",
+      "timestamp_utc": "2026-04-08T03:08:41+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/04/51702336/broadcom-is-repeating-its-apple-playbook-but-this-time-its-ai",
+      "title": "Broadcom Stock Repeats Apple Playbook In AI - Broadcom (NASDAQ:AVGO) - Benzinga",
+      "body": "Broadcom Stock Repeats Apple Playbook In AI - Broadcom (NASDAQ:AVGO) Benzinga",
       "author": null,
       "language": "en",
       "ticker": "AAPL",
       "tickers_hint": [
-        "AAPL"
+        "AAPL",
+        "AVGO"
       ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.7000000000000001,
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
         "event_origin": "news",
-        "query_tickers": [
-          "AAPL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "c6721ca1-e34b-57c3-b77a-d08a7dfcbf16",
-      "timestamp_utc": "2026-04-04T09:19:56+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-norden-group-llc-buys-44107-shares-of-apple-inc-aapl-2026-04-04/",
-      "title": "Norden Group LLC Buys 44,107 Shares of Apple Inc. $AAPL - MarketBeat",
-      "body": "Norden Group LLC Buys 44,107 Shares of Apple Inc. $AAPL MarketBeat",
-      "author": null,
-      "language": "en",
-      "ticker": "AAPL",
-      "tickers_hint": [
-        "AAPL"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
         "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "AAPL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.6575,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "12010701-b714-5e51-b6a4-f9613bef522f",
-      "timestamp_utc": "2026-04-04T09:07:19+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-apple-inc-aapl-stock-holdings-reduced-by-spring-capital-management-llc-2026-04-04/",
-      "title": "Apple Inc. $AAPL Stock Holdings Reduced by Spring Capital Management LLC - MarketBeat",
-      "body": "Apple Inc. $AAPL Stock Holdings Reduced by Spring Capital Management LLC MarketBeat",
+      "id": "be6ca745-024f-5c3f-835f-ae33e9b76e89",
+      "timestamp_utc": "2026-04-08T23:58:52+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRnU0WFMtc3hRYTFfVXd4eHF1LW40bnN5LVR2c3ZQaGVmY3ktZmtpeEt0Smo5SnVXeGR6TkNmdzNyTzlwZm43VDhQcXdBTTVkX2FPN0pnT2laSWRTN1hXZm1yV1RlbjZrTEdSY2JlajFFcHI1MjE3UjJWdEpoWmh1YzFaX09wMjJOSDItZjJoOXF5NHN1eTN3NDdVa0djaXlXZFdmSkpNdmdJQTlBWmhrQ1VyOXRlckdJd1JEaTlWLWdTb0JMcU1uSHFGZXFQWWpsc1Flb2R6ZlN1QkZyS081STZLLXRxZGFy?oc=5",
+      "title": "Understanding Apple's Position In Technology Hardware, Storage & Peripherals Industry Compared To Com - Benzinga",
+      "body": "Understanding Apple's Position In Technology Hardware, Storage & Peripherals Industry Compared To Com Benzinga",
       "author": null,
       "language": "en",
       "ticker": "AAPL",
       "tickers_hint": [
         "AAPL"
       ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
         "event_origin": "news",
-        "query_tickers": [
-          "AAPL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.655,
+        "_channel": "google_benzinga"
+      }
     },
     {
-      "id": "4fc6acb6-4ec1-5599-a9e7-558a037667a3",
-      "timestamp_utc": "2026-04-04T08:04:19+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-apple-inc-aapl-shares-purchased-by-compton-wealth-advisory-group-llc-2026-04-04/",
-      "title": "Apple Inc. $AAPL Shares Purchased by Compton Wealth Advisory Group LLC - MarketBeat",
-      "body": "Apple Inc. $AAPL Shares Purchased by Compton Wealth Advisory Group LLC MarketBeat",
+      "id": "966ff7b7-0961-51e2-8028-fcab5fcd4b25",
+      "timestamp_utc": "2026-04-08T07:37:43+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/article/4889298-apple-everyone-wrong-about-the-delay",
+      "title": "Apple: Everyone's Wrong About The Delay (NASDAQ:AAPL) - Seeking Alpha",
+      "body": "Apple Inc. (AAPL) shares fell as much as 5% on Tuesday after a scathing report from Nikkei Asia that pointed to setbacks in the engineering test phase for the long-awaited foldable iPhone, which\n\nDon’t just invest—dominate with Tech Contrarians' realized return on closed positions of 65.8% since inception. You’ll get exclusive insights into high-focus stocks, curated watchlists, one-on-one portfolio consultations, and everything from live portfolio tracking to earnings updates on 50+ companies.\n\nAnalyst’s Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, but may initiate a beneficial Long position through a purchase of the stock, or the purchase of call options or similar derivatives in AAPL over the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
       "author": null,
       "language": "en",
       "ticker": "AAPL",
       "tickers_hint": [
         "AAPL"
       ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
         "event_origin": "news",
-        "query_tickers": [
-          "AAPL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "3cc77745-153f-5300-98b3-89aae62a1e3f",
-      "timestamp_utc": "2026-04-03T23:31:50+00:00",
-      "source": "investing.com_australia",
-      "url": "https://au.investing.com/news/insider-trading-news/apple-ceo-tim-cook-sells-165-million-in-aapl-stock-93CH-4346551",
-      "title": "Apple CEO Tim Cook sells $16.5 million in AAPL stock By Investing.com - Investing.com Australia",
-      "body": "Apple CEO Tim Cook sells $16.5 million in AAPL stock By Investing.com Investing.com Australia",
-      "author": null,
-      "language": "en",
-      "ticker": "AAPL",
-      "tickers_hint": [
-        "AAPL"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "investing.com australia",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Investing.com Australia",
-        "source_domain": "investingcomaustralia.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "AAPL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "288d05d4-b75e-50ca-b0bb-74d9755639b6",
-      "timestamp_utc": "2026-04-03T13:00:03+00:00",
-      "source": "yahoo_finance_singapore",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPanRzTG41bFM1MTNVWVdKMi1uUnk2WjZhX1dlRmJIY0Z2eEVVaUlHbkFVQTNlMGZxczJVN2lpQXR2RVJVUnoybUptUGRoTllJc2lhNUE0b2dJS1hkOGowN01lREVfSTRoNlRaNmkwM2Nkd1VVd0wxTlVsdENYS3pZWm9KaEU?oc=5",
-      "title": "Is Trending Stock Apple Inc. (AAPL) a Buy Now? - Yahoo Finance Singapore",
-      "body": "Is Trending Stock Apple Inc. (AAPL) a Buy Now? Yahoo Finance Singapore",
-      "author": null,
-      "language": "en",
-      "ticker": "AAPL",
-      "tickers_hint": [
-        "AAPL"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo finance singapore",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance Singapore",
-        "source_domain": "yahoofinancesingapore.com",
-        "trust_tier": 1,
         "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "AAPL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.645,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "f25152cf-64e4-540f-88d7-f2212efc6ba9",
-      "timestamp_utc": "2026-04-03T09:41:57+00:00",
-      "source": "national_today",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcFR2MjFsRWl5ckZsQVNma2VBUHhKYy1jMUJIR3RzTzllVGlGYkNjR1NnYW16Rk82SVI1ZGdLbEZ5WnotU2tSdXZtMmFkSmhhTnQyQnhEZTdGazNwWk9Db19tR3dfRll2N3hKWjAwYmdqbm1vQ2dXVlFJaE54N3RHd3REaGt0ck5yd2RhX2lrdDRKdFVuWEVlWjhRcXNXdGZuTHZET1FTbkpJYUN4ck5vejRiY3gyTFR3eDFURQ?oc=5",
-      "title": "Apple Inc. $AAPL is Perkins Coie Trust Co's 4th Largest Position - National Today",
-      "body": "Apple Inc. $AAPL is Perkins Coie Trust Co's 4th Largest Position National Today",
+      "id": "f43a44c6-a110-503e-be52-55eac7317fd3",
+      "timestamp_utc": "2026-04-08T01:11:34+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/04/51699535/apples-foldable-iphone-reportedly-remains-on-track-for-september-debut",
+      "title": "Apple's Foldable iPhone Reportedly Remains On Track For September Debut - Apple (NASDAQ:AAPL), Invesco QQ - Benzinga",
+      "body": "Apple's Foldable iPhone Reportedly Remains On Track For September Debut - Apple (NASDAQ:AAPL), Invesco QQ Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.64,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "1b46fb42-34ed-545a-b9b9-71e386e26024",
+      "timestamp_utc": "2026-04-08T07:58:37+00:00",
+      "source": "the_street",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOENBR0FrYXFQbFRsX3ZjLTZVdnBmTGR4ZUhvY1ZNV1FtUW5xLWVvS0ZNMXRaR1VPczZnaFRpdjJQUWdOb2RhaGZWWV9yMkR2NnVTdy10c0QzQ3FxZ25OMGd0Y0p4U1BNUXpMWmNRY2hkUTJ2QkhfYjAtSHZPOHlGaVpXX3VvdjFhNGVRc0ktbw?oc=5",
+      "title": "Bank of America resets Apple stock forecast - thestreet.com",
+      "body": "Bank of America resets Apple stock forecast thestreet.com",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "thestreet.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "thestreet.com",
+        "source_domain": "thestreet.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.626,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "abcbd56e-c79b-52ce-a95e-19b4260432f2",
+      "timestamp_utc": "2026-04-08T11:32:10+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/apple-nasdaqaapl-shares-up-21-heres-why-2026-04-08/",
+      "title": "Apple (NASDAQ:AAPL) Shares Up 2.1% - Here's Why - MarketBeat",
+      "body": "Apple (NASDAQ:AAPL) Shares Up 2.1% - Here's Why MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "AAPL",
@@ -189,205 +151,273 @@
         "AAPL"
       ],
       "source_quality": "low",
-      "publisher_raw": "national today",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "National Today",
-        "source_domain": "nationaltoday.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "AAPL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4685,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "44f3b915-b0d2-5731-816a-cf591c30c714",
+      "timestamp_utc": "2026-04-08T23:37:14+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-apple-inc-aapl-holdings-lifted-by-nova-r-wealth-inc-2026-04-09/",
+      "title": "Apple Inc. $AAPL Holdings Lifted by Nova R Wealth Inc. - MarketBeat",
+      "body": "Apple Inc. $AAPL Holdings Lifted by Nova R Wealth Inc. MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4675,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "bb5cc3b4-84b7-5b9b-ac71-afd6bdea80bb",
+      "timestamp_utc": "2026-04-08T02:40:37+00:00",
+      "source": "watcher_guru",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZnpwWXlTYWVqM0QwS2htOTE5QWxpVVE2N3YtdmltZVVxdTgzTzh6OUFJelNBcGRtNFlHeng2My1reFFPdEs5dU51U2NBb3ZqVkRJOElEMVU1bUJOa2RWZm5Xc01jdlpwWElrNUFyMzhmMWd6dTROMFRoQkZPZTR1ZFAydkhTOF9ub0NIX2ZWc3pBREx6S2FN?oc=5",
+      "title": "Innovation Anxiety Hits Apple Stock (AAPL): 3 Things You Need To Know - Watcher Guru",
+      "body": "Innovation Anxiety Hits Apple Stock (AAPL): 3 Things You Need To Know Watcher Guru",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "watcher guru",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Watcher Guru",
+        "source_domain": "watcherguru.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.435,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "69009b3d-b378-59ef-a87b-5c403c1e36b6",
+      "timestamp_utc": "2026-04-08T02:18:59+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQTBlZ3h6X2dPMGx3a2hDR0NXdkZKQkJOM1BONGRycWExakFmWm83TDFjWHdCRnVjMWFrNm1kZlM5X19xR2s3c0hka1UySWU0OXZtU2dLYmhiWGEzVXltUFdWcTBYSWdHczA2ZDEzLUpfaUpuSGFaaVY3bFltTGFXa2o0dFJFUzFsN0lldFlZNTRxMVVkMnc?oc=5",
+      "title": "AAPL: Apple Stock Drops on Foldable iPhone Delay News - GuruFocus",
+      "body": "AAPL: Apple Stock Drops on Foldable iPhone Delay News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.435,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "fc0df976-ff2b-5ffe-abf2-78fa216f43b1",
+      "timestamp_utc": "2026-04-08T01:09:51+00:00",
+      "source": "finbold",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcUkzRnR4cGxsbDAyNUxHX3N1NTBocFl3VHV6S2s1LUxETlM2VHdYSHktYzVtMWpvTUxxMVJoOFdEWEhBTTg2blZjUUJ5SldldUI4cWo4ZmdaN2hyTW9Qbmktc2Fzb1FCOTBYclJkSFBZUmVYNnZnVGRpaGkzWnNyX3Exd2k5S25SSm04eXhR?oc=5",
+      "title": "Crypto markets predict Apple’s (AAPL) stock price for April 30, 2026 - Finbold",
+      "body": "Crypto markets predict Apple’s (AAPL) stock price for April 30, 2026 Finbold",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "finbold",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Finbold",
+        "source_domain": "finbold.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.415,
+        "_channel": "google_broad"
+      }
     }
   ],
   "alt_sentiment_news": [],
   "news": [
     {
-      "id": "a2d2e3ba-0c4b-5fd0-8e74-57585ab9eb99",
-      "timestamp_utc": "2026-04-04T00:41:55+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/apple-nasdaqaapl-ceo-timothy-cook-sells-64949-shares-2026-04-03/",
-      "title": "Apple (NASDAQ:AAPL) CEO Timothy Cook Sells 64,949 Shares - MarketBeat",
-      "body": "Apple (NASDAQ:AAPL) CEO Timothy Cook Sells 64,949 Shares MarketBeat",
+      "id": "725b0dae-c0bc-566d-b3c4-e87294517411",
+      "timestamp_utc": "2026-04-08T03:08:41+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/04/51702336/broadcom-is-repeating-its-apple-playbook-but-this-time-its-ai",
+      "title": "Broadcom Stock Repeats Apple Playbook In AI - Broadcom (NASDAQ:AVGO) - Benzinga",
+      "body": "Broadcom Stock Repeats Apple Playbook In AI - Broadcom (NASDAQ:AVGO) Benzinga",
       "author": null,
       "language": "en",
       "ticker": "AAPL",
       "tickers_hint": [
-        "AAPL"
+        "AAPL",
+        "AVGO"
       ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.7000000000000001,
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
         "event_origin": "news",
-        "query_tickers": [
-          "AAPL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "c6721ca1-e34b-57c3-b77a-d08a7dfcbf16",
-      "timestamp_utc": "2026-04-04T09:19:56+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-norden-group-llc-buys-44107-shares-of-apple-inc-aapl-2026-04-04/",
-      "title": "Norden Group LLC Buys 44,107 Shares of Apple Inc. $AAPL - MarketBeat",
-      "body": "Norden Group LLC Buys 44,107 Shares of Apple Inc. $AAPL MarketBeat",
-      "author": null,
-      "language": "en",
-      "ticker": "AAPL",
-      "tickers_hint": [
-        "AAPL"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
         "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "AAPL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.6575,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "12010701-b714-5e51-b6a4-f9613bef522f",
-      "timestamp_utc": "2026-04-04T09:07:19+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-apple-inc-aapl-stock-holdings-reduced-by-spring-capital-management-llc-2026-04-04/",
-      "title": "Apple Inc. $AAPL Stock Holdings Reduced by Spring Capital Management LLC - MarketBeat",
-      "body": "Apple Inc. $AAPL Stock Holdings Reduced by Spring Capital Management LLC MarketBeat",
+      "id": "be6ca745-024f-5c3f-835f-ae33e9b76e89",
+      "timestamp_utc": "2026-04-08T23:58:52+00:00",
+      "source": "benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRnU0WFMtc3hRYTFfVXd4eHF1LW40bnN5LVR2c3ZQaGVmY3ktZmtpeEt0Smo5SnVXeGR6TkNmdzNyTzlwZm43VDhQcXdBTTVkX2FPN0pnT2laSWRTN1hXZm1yV1RlbjZrTEdSY2JlajFFcHI1MjE3UjJWdEpoWmh1YzFaX09wMjJOSDItZjJoOXF5NHN1eTN3NDdVa0djaXlXZFdmSkpNdmdJQTlBWmhrQ1VyOXRlckdJd1JEaTlWLWdTb0JMcU1uSHFGZXFQWWpsc1Flb2R6ZlN1QkZyS081STZLLXRxZGFy?oc=5",
+      "title": "Understanding Apple's Position In Technology Hardware, Storage & Peripherals Industry Compared To Com - Benzinga",
+      "body": "Understanding Apple's Position In Technology Hardware, Storage & Peripherals Industry Compared To Com Benzinga",
       "author": null,
       "language": "en",
       "ticker": "AAPL",
       "tickers_hint": [
         "AAPL"
       ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
         "event_origin": "news",
-        "query_tickers": [
-          "AAPL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.5,
+        "quality_score": 0.655,
+        "_channel": "google_benzinga"
+      }
     },
     {
-      "id": "4fc6acb6-4ec1-5599-a9e7-558a037667a3",
-      "timestamp_utc": "2026-04-04T08:04:19+00:00",
-      "source": "marketbeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-apple-inc-aapl-shares-purchased-by-compton-wealth-advisory-group-llc-2026-04-04/",
-      "title": "Apple Inc. $AAPL Shares Purchased by Compton Wealth Advisory Group LLC - MarketBeat",
-      "body": "Apple Inc. $AAPL Shares Purchased by Compton Wealth Advisory Group LLC MarketBeat",
+      "id": "966ff7b7-0961-51e2-8028-fcab5fcd4b25",
+      "timestamp_utc": "2026-04-08T07:37:43+00:00",
+      "source": "seeking_alpha",
+      "url": "https://seekingalpha.com/article/4889298-apple-everyone-wrong-about-the-delay",
+      "title": "Apple: Everyone's Wrong About The Delay (NASDAQ:AAPL) - Seeking Alpha",
+      "body": "Apple Inc. (AAPL) shares fell as much as 5% on Tuesday after a scathing report from Nikkei Asia that pointed to setbacks in the engineering test phase for the long-awaited foldable iPhone, which\n\nDon’t just invest—dominate with Tech Contrarians' realized return on closed positions of 65.8% since inception. You’ll get exclusive insights into high-focus stocks, curated watchlists, one-on-one portfolio consultations, and everything from live portfolio tracking to earnings updates on 50+ companies.\n\nAnalyst’s Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, but may initiate a beneficial Long position through a purchase of the stock, or the purchase of call options or similar derivatives in AAPL over the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\n\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
       "author": null,
       "language": "en",
       "ticker": "AAPL",
       "tickers_hint": [
         "AAPL"
       ],
-      "source_quality": "low",
-      "publisher_raw": "marketbeat.com",
+      "source_quality": "high",
+      "publisher_raw": "seekingalpha.com",
+      "trust_tier": 3,
+      "body_kind": "article_text",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "MarketBeat",
-        "source_domain": "marketbeat.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
+        "source_name": "Seeking Alpha",
+        "source_domain": "seekingalpha.com",
         "event_origin": "news",
-        "query_tickers": [
-          "AAPL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "3cc77745-153f-5300-98b3-89aae62a1e3f",
-      "timestamp_utc": "2026-04-03T23:31:50+00:00",
-      "source": "investing.com_australia",
-      "url": "https://au.investing.com/news/insider-trading-news/apple-ceo-tim-cook-sells-165-million-in-aapl-stock-93CH-4346551",
-      "title": "Apple CEO Tim Cook sells $16.5 million in AAPL stock By Investing.com - Investing.com Australia",
-      "body": "Apple CEO Tim Cook sells $16.5 million in AAPL stock By Investing.com Investing.com Australia",
-      "author": null,
-      "language": "en",
-      "ticker": "AAPL",
-      "tickers_hint": [
-        "AAPL"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "investing.com australia",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Investing.com Australia",
-        "source_domain": "investingcomaustralia.com",
-        "trust_tier": 1,
-        "relevance": 0.6500000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "AAPL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
-    },
-    {
-      "id": "288d05d4-b75e-50ca-b0bb-74d9755639b6",
-      "timestamp_utc": "2026-04-03T13:00:03+00:00",
-      "source": "yahoo_finance_singapore",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPanRzTG41bFM1MTNVWVdKMi1uUnk2WjZhX1dlRmJIY0Z2eEVVaUlHbkFVQTNlMGZxczJVN2lpQXR2RVJVUnoybUptUGRoTllJc2lhNUE0b2dJS1hkOGowN01lREVfSTRoNlRaNmkwM2Nkd1VVd0wxTlVsdENYS3pZWm9KaEU?oc=5",
-      "title": "Is Trending Stock Apple Inc. (AAPL) a Buy Now? - Yahoo Finance Singapore",
-      "body": "Is Trending Stock Apple Inc. (AAPL) a Buy Now? Yahoo Finance Singapore",
-      "author": null,
-      "language": "en",
-      "ticker": "AAPL",
-      "tickers_hint": [
-        "AAPL"
-      ],
-      "source_quality": "low",
-      "publisher_raw": "yahoo finance singapore",
-      "meta": {
-        "channel": "google_broad",
-        "source_name": "Yahoo Finance Singapore",
-        "source_domain": "yahoofinancesingapore.com",
-        "trust_tier": 1,
         "relevance": 0.6000000000000001,
-        "event_origin": "news",
-        "query_tickers": [
-          "AAPL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "quality_score": 0.645,
+        "_channel": "google_broad"
+      }
     },
     {
-      "id": "f25152cf-64e4-540f-88d7-f2212efc6ba9",
-      "timestamp_utc": "2026-04-03T09:41:57+00:00",
-      "source": "national_today",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcFR2MjFsRWl5ckZsQVNma2VBUHhKYy1jMUJIR3RzTzllVGlGYkNjR1NnYW16Rk82SVI1ZGdLbEZ5WnotU2tSdXZtMmFkSmhhTnQyQnhEZTdGazNwWk9Db19tR3dfRll2N3hKWjAwYmdqbm1vQ2dXVlFJaE54N3RHd3REaGt0ck5yd2RhX2lrdDRKdFVuWEVlWjhRcXNXdGZuTHZET1FTbkpJYUN4ck5vejRiY3gyTFR3eDFURQ?oc=5",
-      "title": "Apple Inc. $AAPL is Perkins Coie Trust Co's 4th Largest Position - National Today",
-      "body": "Apple Inc. $AAPL is Perkins Coie Trust Co's 4th Largest Position National Today",
+      "id": "f43a44c6-a110-503e-be52-55eac7317fd3",
+      "timestamp_utc": "2026-04-08T01:11:34+00:00",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/04/51699535/apples-foldable-iphone-reportedly-remains-on-track-for-september-debut",
+      "title": "Apple's Foldable iPhone Reportedly Remains On Track For September Debut - Apple (NASDAQ:AAPL), Invesco QQ - Benzinga",
+      "body": "Apple's Foldable iPhone Reportedly Remains On Track For September Debut - Apple (NASDAQ:AAPL), Invesco QQ Benzinga",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "benzinga.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Benzinga",
+        "source_domain": "benzinga.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.64,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "1b46fb42-34ed-545a-b9b9-71e386e26024",
+      "timestamp_utc": "2026-04-08T07:58:37+00:00",
+      "source": "the_street",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOENBR0FrYXFQbFRsX3ZjLTZVdnBmTGR4ZUhvY1ZNV1FtUW5xLWVvS0ZNMXRaR1VPczZnaFRpdjJQUWdOb2RhaGZWWV9yMkR2NnVTdy10c0QzQ3FxZ25OMGd0Y0p4U1BNUXpMWmNRY2hkUTJ2QkhfYjAtSHZPOHlGaVpXX3VvdjFhNGVRc0ktbw?oc=5",
+      "title": "Bank of America resets Apple stock forecast - thestreet.com",
+      "body": "Bank of America resets Apple stock forecast thestreet.com",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "high",
+      "publisher_raw": "thestreet.com",
+      "trust_tier": 3,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "thestreet.com",
+        "source_domain": "thestreet.com",
+        "event_origin": "news",
+        "relevance": 0.5,
+        "quality_score": 0.626,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "abcbd56e-c79b-52ce-a95e-19b4260432f2",
+      "timestamp_utc": "2026-04-08T11:32:10+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/apple-nasdaqaapl-shares-up-21-heres-why-2026-04-08/",
+      "title": "Apple (NASDAQ:AAPL) Shares Up 2.1% - Here's Why - MarketBeat",
+      "body": "Apple (NASDAQ:AAPL) Shares Up 2.1% - Here's Why MarketBeat",
       "author": null,
       "language": "en",
       "ticker": "AAPL",
@@ -395,20 +425,126 @@
         "AAPL"
       ],
       "source_quality": "low",
-      "publisher_raw": "national today",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
       "meta": {
-        "channel": "google_broad",
-        "source_name": "National Today",
-        "source_domain": "nationaltoday.com",
-        "trust_tier": 1,
-        "relevance": 0.6000000000000001,
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
         "event_origin": "news",
-        "query_tickers": [
-          "AAPL"
-        ],
-        "body_kind": "summary_snippet"
-      },
-      "stream_type": "soft"
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4685,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "44f3b915-b0d2-5731-816a-cf591c30c714",
+      "timestamp_utc": "2026-04-08T23:37:14+00:00",
+      "source": "marketbeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-apple-inc-aapl-holdings-lifted-by-nova-r-wealth-inc-2026-04-09/",
+      "title": "Apple Inc. $AAPL Holdings Lifted by Nova R Wealth Inc. - MarketBeat",
+      "body": "Apple Inc. $AAPL Holdings Lifted by Nova R Wealth Inc. MarketBeat",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "marketbeat.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "MarketBeat",
+        "source_domain": "marketbeat.com",
+        "event_origin": "news",
+        "relevance": 0.6500000000000001,
+        "quality_score": 0.4675,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "bb5cc3b4-84b7-5b9b-ac71-afd6bdea80bb",
+      "timestamp_utc": "2026-04-08T02:40:37+00:00",
+      "source": "watcher_guru",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZnpwWXlTYWVqM0QwS2htOTE5QWxpVVE2N3YtdmltZVVxdTgzTzh6OUFJelNBcGRtNFlHeng2My1reFFPdEs5dU51U2NBb3ZqVkRJOElEMVU1bUJOa2RWZm5Xc01jdlpwWElrNUFyMzhmMWd6dTROMFRoQkZPZTR1ZFAydkhTOF9ub0NIX2ZWc3pBREx6S2FN?oc=5",
+      "title": "Innovation Anxiety Hits Apple Stock (AAPL): 3 Things You Need To Know - Watcher Guru",
+      "body": "Innovation Anxiety Hits Apple Stock (AAPL): 3 Things You Need To Know Watcher Guru",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "watcher guru",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Watcher Guru",
+        "source_domain": "watcherguru.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.435,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "69009b3d-b378-59ef-a87b-5c403c1e36b6",
+      "timestamp_utc": "2026-04-08T02:18:59+00:00",
+      "source": "gurufocus",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQTBlZ3h6X2dPMGx3a2hDR0NXdkZKQkJOM1BONGRycWExakFmWm83TDFjWHdCRnVjMWFrNm1kZlM5X19xR2s3c0hka1UySWU0OXZtU2dLYmhiWGEzVXltUFdWcTBYSWdHczA2ZDEzLUpfaUpuSGFaaVY3bFltTGFXa2o0dFJFUzFsN0lldFlZNTRxMVVkMnc?oc=5",
+      "title": "AAPL: Apple Stock Drops on Foldable iPhone Delay News - GuruFocus",
+      "body": "AAPL: Apple Stock Drops on Foldable iPhone Delay News GuruFocus",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "gurufocus.com",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "GuruFocus",
+        "source_domain": "gurufocus.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.435,
+        "_channel": "google_broad"
+      }
+    },
+    {
+      "id": "fc0df976-ff2b-5ffe-abf2-78fa216f43b1",
+      "timestamp_utc": "2026-04-08T01:09:51+00:00",
+      "source": "finbold",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcUkzRnR4cGxsbDAyNUxHX3N1NTBocFl3VHV6S2s1LUxETlM2VHdYSHktYzVtMWpvTUxxMVJoOFdEWEhBTTg2blZjUUJ5SldldUI4cWo4ZmdaN2hyTW9Qbmktc2Fzb1FCOTBYclJkSFBZUmVYNnZnVGRpaGkzWnNyX3Exd2k5S25SSm04eXhR?oc=5",
+      "title": "Crypto markets predict Apple’s (AAPL) stock price for April 30, 2026 - Finbold",
+      "body": "Crypto markets predict Apple’s (AAPL) stock price for April 30, 2026 Finbold",
+      "author": null,
+      "language": "en",
+      "ticker": "AAPL",
+      "tickers_hint": [
+        "AAPL"
+      ],
+      "source_quality": "low",
+      "publisher_raw": "finbold",
+      "trust_tier": 1,
+      "body_kind": "summary_snippet",
+      "ingest_source": "newscrawler_local",
+      "meta": {
+        "source_name": "Finbold",
+        "source_domain": "finbold.com",
+        "event_origin": "news",
+        "relevance": 0.6000000000000001,
+        "quality_score": 0.415,
+        "_channel": "google_broad"
+      }
     }
   ]
 }
