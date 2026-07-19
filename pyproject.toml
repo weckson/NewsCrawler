@@ -20,6 +20,8 @@ dependencies = [
     "structlog>=24.1",
     "click>=8.1",
     "python-dateutil>=2.9",
+    "trafilatura>=2.0",       # main-content extractor for article bodies
+    "rapidfuzz>=3.14",        # fast fuzzy string matching for title similarity
 ]
 
 [project.optional-dependencies]

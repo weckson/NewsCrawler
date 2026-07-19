@@ -7,14 +7,24 @@ Produces per-ticker JSON exports consumed by [`D:\AIStock`](../AIStock) as a cur
 
 ## Sources
 
+**Per-ticker sources** (6 channels per ticker):
 | Channel | Method | Volume |
 |---------|--------|--------|
-| Benzinga RSS (`/feed`, `/news/feed`) | Public RSS, no CF block | ~10–15 articles |
-| Google News → Benzinga (`site:benzinga.com`) | Google News RSS filtered to BZ | ~100 articles |
-| Google News broad (`{ticker} stock news`) | All sources, quality-scored | variable |
+| Google News → Benzinga (`site:benzinga.com when:2d`) | Google as BZ proxy | ~100 articles |
+| Google News → SeekingAlpha (`site:seekingalpha.com when:2d`) | Google as SA proxy (SA's own RSS is 98% stale) | ~100 articles |
+| Google News broad (`when:1d` + `when:2d`) | All sources, 5 query variants for freshness + coverage | variable |
+| Yahoo Finance RSS (`/rss/headline?s={TICKER}`) | Per-ticker headlines, trust=3 | ~20 articles |
+| Nasdaq RSS (`/feed/rssoutbound?symbol={TICKER}`) | Curated, best fulltext rate (63%) | ~15 articles |
 | Company IR RSS | RSS polling | per-company |
 
+**Shared** (fetched once per run):
+| Channel | Method |
+|---------|--------|
+| Benzinga RSS (`/feed`, `/news/feed`) | Official RSS, distributed to all tickers |
+
 No direct HTML scraping — all feeds are structured RSS, no Cloudflare challenge.
+Google News queries use `when:2d` to return only recent articles, dramatically improving freshness.
+Full article text is extracted with [trafilatura](https://trafilatura.readthedocs.io/) when available (boilerplate-free main content), falling back to a regex-based extractor.
 
 ## Quick Start
 
@@ -63,10 +73,44 @@ The default `aistock` preset reads AIStock's watchlist at runtime so crawl ticke
 --ticker-set aistock200        Built-in preset (see table above)
 --hours 48                     Look-back window in hours (default: 48)
 --fulltext-mode high-value     off | high-value | all (default: high-value)
---fulltext-max-articles 8      Per-ticker cap for full-text fetch
+--fulltext-max-articles 20     Per-ticker cap for full-text fetch (default: 20)
 --output newsitem-json         newsitem-json (default, for piping) | pretty
 --data-dir /path/to/data       Override base data directory
+--no-rolling                   Disable rolling-window export (default: enabled)
+--summarize-errors 24          Print error audit report for last N hours and exit
 ```
+
+## Error Audit
+
+Every WARNING/ERROR event is written to `data/runs/{timestamp}/errors.jsonl`
+as structured JSON (only created when the run produces warnings/errors).
+
+```bash
+# Quick audit: what went wrong in the last 24h?
+python crawl_news.py --summarize-errors 24
+
+# Sample output:
+# === Error audit: last 24h ===
+# Total events: 12
+# By level: {'warning': 10, 'error': 2}
+# By event type: {fetch_rate_limited: 8, circuit_breaker_tripped: 2, ...}
+# By domain: {news.google.com: 9, finance.yahoo.com: 3}
+# By HTTP status: {'503': 8, '400': 3, '429': 1}
+```
+
+Programmatic API: `summarize_errors(hours=24)` returns a dict suitable for
+cron-based alerting.
+
+## Rolling Window
+
+By default, the exported `latest_news_items.json` and `by_ticker/{TICKER}/*`
+contain **all articles from the last `--hours` window** (across runs), read
+from SQLite. Repeated runs accumulate coverage instead of overwriting.
+
+Taxonomy and disambiguation rules are re-applied at export time, so updates
+take effect on next run without re-crawling.
+
+Use `--no-rolling` to export only this run's fresh fetches.
 
 ## Output Layout
 
@@ -124,6 +168,8 @@ Each item in `latest_news_items.json` follows the AIStock `NewsItem` contract:
     "event_origin":  "news",
     "relevance":     0.75,
     "quality_score": 0.82,
+    "event_types":   ["earnings_release", "analyst_rating"],
+    "sentiment":     {"score": 0.67, "pos": 0.032, "neg": 0.006, "unc": 0.010, "matched": 12},
     "_channel":      "google_broad"
   }
 }
@@ -145,10 +191,10 @@ Raw RSS articles
   → Relevance       (ticker mention density ≥ 0.10)
   → Junk filter     (listicles, sponsored content)
   → Weak-signal     (holdings / profile fluff)
-  → Quality score   (7-signal composite, threshold 0.40)    ← NEW
+  → Quality score   (7-signal composite, threshold 0.45)
   → SimHash dedup   (Hamming ≤ 6 = same article)
   → Re-score        (source_diversity signal updated post-dedup)
-  → Quality gate    (drop below threshold; adaptive 0.35 fallback)
+  → Quality gate    (drop below threshold; adaptive 0.40 fallback)
   → Sort: quality_score ↓  newest first
   → [optional] Full-text fetch for high-value articles
 ```
@@ -168,16 +214,63 @@ Each article receives a composite quality score [0.0, 1.0] from 7 weighted signa
 | Summary Richness | 0.05 | Full text=1.0, summary ≥100ch=0.7, nothing=0.1 |
 | Source Diversity | 0.05 | Multi-source confirmation: ≥3 sources=1.0, 0=0.2 |
 
-**Threshold**: 0.40 (adaptive fallback to 0.35 for tickers with <2 articles).
+**Threshold**: 0.45 (adaptive fallback to 0.40 for tickers with <2 articles).
 
 Effect: low-quality articles reduced from 72% to 18% of output.
+
+### Near-Duplicate Clustering
+
+Same-story articles across sources are collapsed into a single cluster head
+with the other publishers listed in `meta._alt_sources`. Two-pass approach:
+
+1. **SimHash** (Hamming ≤ 8) — catches near-identical titles
+2. **Fuzzy token-set ratio** (rapidfuzz, threshold 85) — catches paraphrased rewrites
+
+The highest-trust source wins; alt_sources drive the source_diversity signal,
+so corroborated events score higher in the quality pipeline.
+
+### Financial Sentiment (Loughran-McDonald)
+
+Each article carries a pre-computed LM sentiment score in `meta.sentiment`:
+
+```json
+{"score": 0.67, "pos": 0.032, "neg": 0.006, "unc": 0.010, "matched": 12}
+```
+
+- `score` — normalized net sentiment in `[-1, 1]` = `(pos_count - neg_count) / matched`
+- `pos` / `neg` — fraction of tokens matching LM positive / negative lexicon
+- `unc` — fraction matching uncertainty/hedging words (correlates with downside surprises)
+- `matched` — total LM dictionary hits (0 → sentiment field is `null`)
+
+Uses a curated subset (~300 high-signal terms) of the Loughran-McDonald 2018
+financial sentiment dictionary — calibrated to financial text, unlike
+general-purpose lexicons (VADER, AFINN). Null when no dictionary words matched.
+
+### Event Classification
+
+Each article is tagged with matching event types via regex taxonomy (stored in `meta.event_types`).
+AIStock can route articles by event type instead of just trust tier.
+
+| Event type | Examples |
+|------------|----------|
+| `earnings_release` | Q3 results, beats estimates, quarterly report |
+| `earnings_guidance` | raises/cuts guidance, reaffirms outlook |
+| `analyst_rating` | upgrades/downgrades, price target changes |
+| `ma_activity` | acquisitions, mergers, takeovers, spin-offs |
+| `management_change` | CEO/CFO appointments and departures |
+| `product_launch` | new product announcements, debuts |
+| `litigation` | lawsuits, SEC probes, class-actions, settlements |
+| `regulatory` | FDA/FTC approvals, phase trials |
+| `capital_action` | dividends, buybacks, stock splits, offerings |
+| `insider_activity` | Form 4, insider buying/selling |
+| `macro_sector` | Fed rates, inflation, tariffs, GDP |
 
 ## Performance
 
 500 tickers complete in ~11 minutes (down from ~67 min sequential).
 
 Optimizations:
-- **Per-domain rate limiting** — Google News 0.3s, Benzinga 1.5s, others 1.0s (vs fixed 2s)
+- **Per-domain rate limiting** — Google News 0.3s, Yahoo Finance 0.5s, Nasdaq 1.0s, others 1.0s
 - **5 tickers in parallel** — `asyncio.Semaphore` with shared HTTP connection pool
 - **Shared Benzinga RSS** — fetched once globally, distributed to all tickers
 - **DNS caching** — 300s TTL on the shared `aiohttp.TCPConnector`
@@ -243,7 +336,7 @@ AIStock config keys (`config/default.json`):
 ## Tests
 
 ```bash
-pytest tests/ -q    # 95 tests
+pytest tests/ -q    # 100 tests
 ```
 
 | Test file | Coverage |
@@ -251,3 +344,9 @@ pytest tests/ -q    # 95 tests
 | `tests/test_crawl_news_quality.py` | Quality scoring signals, composite scorer, filter gating, ticker parsing, presets |
 | `tests/test_crawl_news_output.py` | NewsItem schema, payload envelope, full-text extraction, Google URL decoding |
 | `tests/test_crawl_news_paths.py` | Path resolution, env var overrides, relative path scoping |
+| `tests/test_rss_parser.py` | RSS parsing, URL canonicalization, content type inference |
+| `tests/test_benzinga_parser.py` | Benzinga-specific RSS parsing |
+| `tests/test_fetcher.py` | HTTP retry, conditional GET, rate limiting, captcha handling |
+| `tests/test_alerts.py` | Alert generation and filtering |
+| `tests/test_compliance.py` | Compliance checks and validation |
+| `tests/test_dedupe.py` | SimHash fingerprinting, Hamming distance, near-duplicate clustering |
