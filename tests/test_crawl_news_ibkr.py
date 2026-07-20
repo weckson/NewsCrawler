@@ -10,6 +10,7 @@ from crawler.sources.ibkr_news import (
     clean_headline,
     html_to_text,
     is_fragment,
+    is_low_signal_dj,
     provider_meta,
     _parse_news_time,
 )
@@ -42,6 +43,49 @@ def test_fragment_detection_continuation_pages():
 def test_fragment_detection_stubs():
     assert is_fragment("Review")           # too short to carry signal
     assert not is_fragment("Apple's AI Spending Earned an Upgrade")
+
+
+# ── DJ auto-blurb noise filter ──────────────────────────────────────────────
+
+def test_low_signal_dj_drops_auto_market_data():
+    assert is_low_signal_dj("Synopsys Inc. Stock Slides 7.9%, Underperforms Peers")
+    assert is_low_signal_dj("Advanced Micro Devices Inc. Stock Slides 5.3%, Underperforms Market")
+    assert is_low_signal_dj("Intel Corp. Stock Falls 5.8%, Outperforms Peers")
+    assert is_low_signal_dj("Dow Jones Futures: Google, Tesla, AMD Loom After Sell-Off")
+
+
+def test_low_signal_dj_keeps_real_stories():
+    # Real signal that must NOT be filtered
+    keep = [
+        "VP Papermaster Sells 6,000 Of Advanced Micro Devices >AMD",
+        "AST SpaceMobile Raised to Buy From Neutral by B. Riley Securities",
+        "Air Products & Chemicals Price Target Raised to $345.00/Share",
+        "Netflix Could See Boost from Gaming, AI Efforts -- Market Talk",
+        "Chip Stocks Enter Bear Market. Astera Labs Continues Slump. -- IBD",
+        "Nvidia Jumps 10% After Blowout Earnings Beat",  # real move, no auto-tail
+        # tail-anchor fix: "Outperforms Market" WITHOUT a leading comma is a real
+        # story, not the DJ auto-column, and must survive.
+        "Costco Outperforms Market Expectations in Q3 With Strong Sales",
+    ]
+    for h in keep:
+        assert not is_low_signal_dj(h), h
+
+
+def test_article_id_deterministic_without_articleid():
+    """No-articleId fallback must produce a STABLE id across runs (not hash())."""
+    a1 = article_from_headline(_mk_hn("Some DJ Headline", article_id=""), "NVDA")
+    a2 = article_from_headline(_mk_hn("Some DJ Headline", article_id=""), "NVDA")
+    assert a1["id"] == a2["id"]
+    assert a1["id"].startswith("ibkr-")
+    assert a1["id"] != "ibkr-"  # actually hashed, not empty
+
+
+def test_article_from_headline_drops_low_signal_dj():
+    art = article_from_headline(
+        _mk_hn("{A:1:L:en}HCA Healthcare Inc. Stock Falls 3.8%, Underperforms Peers"),
+        "HCA",
+    )
+    assert art is None
 
 
 # ── provider mapping ────────────────────────────────────────────────────────
