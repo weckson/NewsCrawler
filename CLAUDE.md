@@ -301,6 +301,21 @@ Quant-grade storage with **point-in-time (PIT) correctness** for backtest replay
 | `first_seen_at` (transaction time) | **Immutable forever** | When NewsCrawler first observed the URL |
 | `fetched_at` | Updates on every refresh | Last time we re-fetched / touched the row |
 
+⚠️ **Historical `published` skew (rows written before 2026-07-20).** `parse_rss`
+built `published` with `time.mktime(entry.published_parsed)`. feedparser
+normalizes those structs to UTC but `mktime` reads them as LOCAL time, so on a
+non-UTC host every RSS timestamp was shifted by the machine's offset (−10h on
+the Australia/Sydney box that wrote this DB; −11h for rows whose publish date
+falls in AEDT). Fixed in `_rss_published_utc()` (`calendar.timegm`), guarded by
+`tests/test_crawl_news_time.py`. Affects only the parse_rss channels
+(`google_*`, `yahoo_finance_rss`, `nasdaq_rss`, `ir_feed`, `wire_tripwire`) —
+~252k of 317k rows. **`first_seen_at` was never affected**, so PIT/backtest
+correctness holds and the rolling-window export (which windows on
+`first_seen_at`) self-heals within 48h. Pre-fix rows keep the skewed
+`published`; anything reading `published` for age on historical rows should
+add back the offset. Exact per-row inverse if a backfill is ever wanted:
+`timegm(time.localtime(stored_epoch))` — must run on the same host timezone.
+
 ### SQLite tables added
 
 | Table | Purpose |
