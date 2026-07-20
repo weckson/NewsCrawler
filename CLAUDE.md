@@ -24,9 +24,31 @@ No API key required. Per-ticker channels:
   6.8h earlier, full Barron's/WSJ paywalled text via reqNewsArticle (gated to
   high-value events, ≤40 bodies/run). trust=3 (DJ), authoritative conid
   attribution → relevance floor 0.30 no hard gate, weak-signal exempt (DJ
-  insider/stake wire stories are signal, not 13F churn). Hot-ticker gated on
-  >150-ticker runs; silently absent when TWS closed; `--no-ibkr-news` or
+  insider/stake wire stories are signal, not 13F churn). Source-level noise
+  filter (`is_low_signal_dj`) drops DJ auto market-data columns ("X Stock
+  Slides 5.3%, Underperforms Peers") + "Dow Jones Futures" macro roundups —
+  ~16% of a 150-ticker run, zero incremental signal; applied at fetch AND at
+  rolling-window reload so it prunes stored rows immediately. Market-Talk and
+  real price-move stories are preserved. FULL-watchlist coverage (2026-07-20:
+  old top-150 hot-gate starved 17/27 flagged late M&A/regulatory events on
+  mid-caps — UBER/KKR/LLY/BIIB/DUK/SCCO sat outside top-150 so DJ wire never
+  queried them; a no-news ticker returns empty fast so full coverage costs
+  request count not data; `NEWSCRAWLER_IBKR_MAX_TICKERS` caps the list, default
+  600). Silently absent when TWS closed; `--no-ibkr-news` or
   `NEWSCRAWLER_IBKR_NEWS=0` disables. Watchlist runs only (≥2 tickers).
+  Cold-farm resilience: a timed-out `reqHistoricalNews` (common right after a
+  fresh login/restart) retries once after a 3s warm-up. UNATTENDED LOGIN:
+  `scripts/ibkr_ensure_tws.py` idempotently brings TWS to a logged-in state —
+  launches TWS, drives the Swing login by click-points, enters username/password
+  from `D:/AIStock/.env` + IBKR Mobile Authenticator TOTP via AIStock's
+  `shared.ibkr_launcher.current_totp_code()` (reused). After a COLD login it
+  also warms the news farm (`warm_news_farm`: probes AAPL reqHistoricalNews
+  until it responds, ≤90s) before returning, so the crawl that follows gets
+  full coverage instead of the thin cold-farm harvest (observed 26 vs ~100
+  items on 2026-07-20). Run it from the account
+  owner's own scheduler (Task Scheduler at logon / a daily_run pre-step), NEVER
+  from the crawl process (which stays credential-free). Pairs with TWS native
+  Auto-Restart; only the weekly IBKR reset forces a re-auth.
 - **M&A wire tripwire** (`wire_tripwire`, 2026-06-29) — fetches PR Newswire's
   dedicated M&A feed + GlobeNewswire ONCE per run; two-stage cheap→expensive
   filter (high-value event-type gate → watchlist company-name match) keeps
@@ -103,6 +125,7 @@ pytest tests/ -q
 | Preset | Source | Count |
 |--------|--------|-------|
 | `aistock` **(default)** | Reads `D:\AIStock\config\default.json` at runtime | matches AIStock exactly |
+| `moomoo` | Reads moomoo OpenD (:11111) — custom watchlist groups ∪ US positions | your live moomoo list; falls back to `aistock` if OpenD down |
 | `aistock500` | Hardcoded fallback (used if AIStock repo not found) | 500 |
 | `aistock200` | Legacy core watchlist | ~200 |
 | `semis20` | Semiconductor focus | 20 |
@@ -124,6 +147,10 @@ filtered by `max_tickers`. Falls back to `aistock500` if file not found.
 --no-rolling                    Disable rolling-window export (default: enabled)
 --no-ibkr-news                  Disable IBKR TWS wire-news channel (auto-skipped if TWS closed)
 --no-sec-edgar                  Disable SEC EDGAR filings channel (Form 4 / 8-K / 13D/G)
+--fast-only                     Run ONLY the global tripwire channels (wire+sec+ibkr),
+                                skip per-ticker RSS + Finnhub. ~5s vs ~14min. For a
+                                high-frequency (every 1-2h) breaking-event job; keep
+                                rolling ENABLED (accumulates into news.db).
 --summarize-errors 24           Audit mode: print error/warning report for last N hours and exit
 ```
 
@@ -151,10 +178,13 @@ deal is visible the next morning (e.g.
 ## Integration Health Harness (AIStock side, 2026-06)
 
 `D:/AIStock/scripts/selfcheck_news_integration.py` validates the full
-NewsCrawler→AIStock chain offline (7 isolated checks): export freshness,
+NewsCrawler→AIStock chain offline (8 isolated checks): export freshness,
 connector reads, PIT fields (first_seen_at/classifier_version), event_signals
 flowing, **impact.py functional consumption** (synthetic large-M&A → severity
-0.80), source diversity, trust-tier health. Writes
+0.80), source diversity, trust-tier health, **broker-channel liveness**
+(2026-07-20: WARN when ibkr_news / sec_edgar have 0 items in the rolling
+export — these channels soft-fail inside NewsCrawler, so a silently dead
+channel is otherwise invisible; the WARN carries where-to-look hints). Writes
 `data/validation/news_integration_selfcheck_latest.md`, exit 0/1.
 
 Wired into `scripts/daily_run.py` as step **0c** (`_step_news_integration_check`),

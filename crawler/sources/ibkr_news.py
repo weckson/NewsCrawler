@@ -25,6 +25,7 @@ and the 7-signal quality score does the final gating.
 from __future__ import annotations
 
 import asyncio
+import hashlib
 import html
 import json
 import logging
@@ -87,6 +88,28 @@ def is_fragment(headline: str) -> bool:
     return len(headline) < 12
 
 
+# DJ auto-generated market-data columns carry zero incremental signal — they
+# just restate a price move AIStock already has from quotes. The "Underperforms
+# Peers/Market" tail is that column's unique tell ("X Stock Slides 5.3%,
+# Underperforms Peers"); "Dow Jones Futures ..." roundups name the ticker only
+# in passing. Measured 2026-07-19: ~16% of a 150-ticker run's DJ items. Real
+# insider/M&A/analyst/Market-Talk stories never match these, so the filter is
+# precise (does NOT touch "Netflix Could See Boost ... -- Market Talk").
+_DJ_LOW_SIGNAL = re.compile(
+    # The auto-column form is "…, Underperforms Peers/Market" — anchor to the
+    # leading comma so a real "X Outperforms Market Expectations …" (no comma)
+    # is NOT dropped.
+    r",\s*(?:Under|Out)performs?\s+(?:Peers|Market)\b"
+    r"|^Dow Jones Futures\b",
+    re.I,
+)
+
+
+def is_low_signal_dj(headline: str) -> bool:
+    """True for DJ auto market-data blurbs / macro futures roundups."""
+    return bool(_DJ_LOW_SIGNAL.search(headline))
+
+
 def html_to_text(body_html: str) -> str:
     """DJ article bodies are simple <p>-tag HTML with entity escapes."""
     text = _HTML_TAG.sub(" ", body_html or "")
@@ -120,14 +143,18 @@ def article_from_headline(art: Any, ticker: str) -> dict | None:
     """Convert an ib_insync HistoricalNews record to the parse_rss() article
     schema. Returns None for fragments/empties."""
     headline = clean_headline(getattr(art, "headline", "") or "")
-    if not headline or is_fragment(headline):
+    if not headline or is_fragment(headline) or is_low_signal_dj(headline):
         return None
     provider = getattr(art, "providerCode", "") or ""
     article_id = getattr(art, "articleId", "") or ""
     name, domain, trust = provider_meta(provider)
     published = _parse_news_time(getattr(art, "time", None))
     return {
-        "id": f"ibkr-{article_id}" if article_id else f"ibkr-{hash(headline)}",
+        # Deterministic id even in the no-articleId fallback — hash() is
+        # PYTHONHASHSEED-randomized and would flip the exported NewsItem.id
+        # every run (save_article does id=excluded.id on UPSERT).
+        "id": (f"ibkr-{article_id}" if article_id
+               else "ibkr-" + hashlib.sha1(headline.encode("utf-8")).hexdigest()[:16]),
         "title": headline,
         # No public URL exists for wire items; honest synthetic scheme keyed
         # by IBKR's own articleId (stable across runs → SQLite dedup works).
@@ -201,13 +228,20 @@ async def fetch_ibkr_news_for_tickers(
     """
     if not tickers:
         return {}
-    if os.environ.get("NEWSCRAWLER_IBKR_NEWS", "1") in ("0", "false", "no"):
+    if os.environ.get("NEWSCRAWLER_IBKR_NEWS", "1").strip().lower() in ("0", "false", "no", "off"):
         log.info("ibkr_news disabled via NEWSCRAWLER_IBKR_NEWS")
         return {}
 
     env_port = os.environ.get("NEWSCRAWLER_IBKR_PORT")
-    ports = (int(env_port),) if env_port else _DEFAULT_PORTS
-    client_id = int(os.environ.get("NEWSCRAWLER_IBKR_CLIENT_ID", _DEFAULT_CLIENT_ID))
+    try:
+        ports = (int(env_port),) if env_port else _DEFAULT_PORTS
+    except ValueError:
+        log.warning("ibkr_news: bad NEWSCRAWLER_IBKR_PORT=%r — probing defaults", env_port)
+        ports = _DEFAULT_PORTS
+    try:
+        client_id = int(os.environ.get("NEWSCRAWLER_IBKR_CLIENT_ID", _DEFAULT_CLIENT_ID))
+    except ValueError:
+        client_id = _DEFAULT_CLIENT_ID
 
     port = _tws_port_alive(host, ports)
     if port is None:
@@ -231,7 +265,16 @@ async def fetch_ibkr_news_for_tickers(
 
     result: dict[str, list[dict]] = {}
     try:
-        providers = await ib.reqNewsProvidersAsync()
+        # ib_insync's *Async methods return BARE futures (IB.RequestTimeout is
+        # NOT applied to them) — an unbounded await here would wedge the whole
+        # unattended crawl when a news/contract farm is cold right after login.
+        # Every await below is therefore wrapped in asyncio.wait_for.
+        try:
+            providers = await asyncio.wait_for(ib.reqNewsProvidersAsync(), timeout=15)
+        except Exception as exc:
+            log.warning("ibkr_news: reqNewsProviders timed out/failed (%s) — channel skipped",
+                        type(exc).__name__)
+            return {}
         codes = "+".join(p.code for p in providers)
         if not codes:
             log.warning("ibkr_news: account has no news provider subscriptions")
@@ -245,13 +288,19 @@ async def fetch_ibkr_news_for_tickers(
             batch = missing[i:i + 50]
             contracts = [Stock(t, "SMART", "USD") for t in batch]
             try:
-                qualified = await ib.qualifyContractsAsync(*contracts)
+                await asyncio.wait_for(
+                    ib.qualifyContractsAsync(*contracts), timeout=30)
             except Exception as exc:
-                log.warning("ibkr_news: qualify batch failed: %s", exc)
+                log.warning("ibkr_news: qualify batch timed out/failed: %s",
+                            type(exc).__name__)
                 continue
-            for c in qualified:
+            # Key by the REQUESTED ticker (qualifyContracts mutates `contracts`
+            # in place, order-aligned with `batch`), NOT by IB's normalized
+            # c.symbol — else class-shares like BRK.B (looked up as 'BRK.B')
+            # never hit the cache and get re-qualified every run.
+            for req_ticker, c in zip(batch, contracts):
                 if getattr(c, "conId", 0):
-                    conids[c.symbol] = c.conId
+                    conids[req_ticker] = c.conId
         if missing:
             _save_conid_cache(conid_cache_path, conids)
 
@@ -259,20 +308,37 @@ async def fetch_ibkr_news_for_tickers(
         cutoff = datetime.now(timezone.utc) - timedelta(hours=hours)
         sem = asyncio.Semaphore(req_concurrency)
 
+        async def _raw_fetch(conid: int):
+            """Return the HistoricalNews list, or None on timeout/error (retry
+            signal). An empty list means 'genuinely no news' — do NOT retry."""
+            async with sem:
+                try:
+                    arts = await asyncio.wait_for(
+                        ib.reqHistoricalNewsAsync(conid, codes, "", "", max_per_ticker),
+                        timeout=20)
+                except Exception as exc:
+                    # TimeoutError included → arts=None → _one() retries once.
+                    log.debug("ibkr_news: reqHistoricalNews error: %s", type(exc).__name__)
+                    arts = None
+                await asyncio.sleep(req_delay)   # pacing inside the slot
+            return arts
+
         async def _one(ticker: str) -> None:
             conid = conids.get(ticker)
             if not conid:
                 return
-            async with sem:
-                try:
-                    arts = await ib.reqHistoricalNewsAsync(
-                        conid, codes, "", "", max_per_ticker)
-                except Exception as exc:
-                    log.warning("ibkr_news: %s news fetch failed: %s", ticker, exc)
-                    return
-                await asyncio.sleep(req_delay)   # pacing inside the slot
+            arts = await _raw_fetch(conid)
+            # None = timeout/error (commonly a cold news farm right after a
+            # fresh auto-login/restart). Warm up briefly and retry ONCE. An
+            # empty list is a real "no news" answer and is left as-is.
+            if arts is None:
+                await asyncio.sleep(3.0)
+                arts = await _raw_fetch(conid)
+            if arts is None:
+                log.warning("ibkr_news: %s news fetch timed out twice", ticker)
+                return
             out = []
-            for a in arts or []:
+            for a in arts:
                 art = article_from_headline(a, ticker)
                 if art is None:
                     continue
@@ -305,7 +371,8 @@ async def fetch_ibkr_news_for_tickers(
                     continue
                 async with sem:
                     try:
-                        na = await ib.reqNewsArticleAsync(prov, aid)
+                        na = await asyncio.wait_for(
+                            ib.reqNewsArticleAsync(prov, aid), timeout=10)
                     except Exception:
                         continue
                     await asyncio.sleep(req_delay)

@@ -345,6 +345,7 @@ MEGA_WATCHLIST_TICKERS = AISTOCK500_TICKERS
 
 BUILTIN_TICKER_SETS: dict[str, list[str] | None] = {
     "aistock": None,           # dynamically loaded from sibling AIStock repo (see _load_aistock_watchlist)
+    "moomoo": None,            # dynamically loaded from moomoo OpenD (see _load_moomoo_watchlist)
     "aistock500": AISTOCK500_TICKERS,
     "aistock200": AISTOCK200_TICKERS,
     "core200": AISTOCK200_TICKERS,
@@ -2417,6 +2418,85 @@ def _load_aistock_watchlist() -> list[str]:
         return []
 
 
+def _load_moomoo_watchlist() -> list[str]:
+    """Load US tickers from a running moomoo OpenD gateway (127.0.0.1:11111):
+    custom watchlist groups (`get_user_security`) UNION real positions
+    (`position_list_query`). moomoo codes are 'US.NVDA' form — only US.* are
+    kept and the prefix is stripped.
+
+    Fully graceful: returns [] when the moomoo SDK is absent or OpenD is not
+    running, so the 'moomoo' preset degrades exactly like 'aistock'. The moomoo
+    *news* API was rejected in the 2026-07 evaluation (no timestamps → not PIT-
+    safe); this uses moomoo ONLY as a watchlist/positions source, which is the
+    value that survived that evaluation.
+
+    Positions need the account's SecurityFirm entity — FUTUAU for this account
+    (moomoo AU, confirmed 2026-07); overridable via NEWSCRAWLER_MOOMOO_FIRM.
+    """
+    host = "127.0.0.1"
+    port = int(os.environ.get("NEWSCRAWLER_MOOMOO_PORT", "11111"))
+    # Fast reachability probe BEFORE the heavy `import moomoo`, so a closed
+    # OpenD costs <1s (just a TCP attempt) instead of paying the SDK import.
+    import socket as _socket
+    try:
+        with _socket.create_connection((host, port), timeout=1.0):
+            pass
+    except OSError:
+        log.warning("moomoo_opend_unreachable", port=port)
+        return []
+
+    try:
+        import moomoo as ft
+    except ImportError:
+        log.warning("moomoo_watchlist_no_sdk")
+        return []
+
+    def _us_only(codes) -> set[str]:
+        out: set[str] = set()
+        for c in codes:
+            if isinstance(c, str) and c.upper().startswith("US."):
+                out.add(c.split(".", 1)[1].upper())
+        return out
+
+    tickers: set[str] = set()
+
+    # Custom watchlist groups (quote context — no SecurityFirm needed).
+    try:
+        q = ft.OpenQuoteContext(host=host, port=port)
+        try:
+            ret, groups = q.get_user_security_group(
+                group_type=ft.UserSecurityGroupType.CUSTOM)
+            if ret == ft.RET_OK and "group_name" in groups:
+                for gname in groups["group_name"].tolist():
+                    r, mem = q.get_user_security(gname)
+                    if r == ft.RET_OK and "code" in mem:
+                        tickers |= _us_only(mem["code"].tolist())
+        finally:
+            q.close()
+    except Exception as exc:
+        log.warning("moomoo_watchlist_quote_error", error=str(exc)[:120])
+
+    # Real positions (best-effort — entity-specific).
+    try:
+        firm_name = os.environ.get("NEWSCRAWLER_MOOMOO_FIRM", "FUTUAU")
+        firm = getattr(ft.SecurityFirm, firm_name, None) or ft.SecurityFirm.FUTUINC
+        trd = ft.OpenSecTradeContext(
+            filter_trdmarket=ft.TrdMarket.US, host=host, port=port,
+            security_firm=firm)
+        try:
+            ret, pos = trd.position_list_query()
+            if ret == ft.RET_OK and "code" in pos:
+                tickers |= _us_only(pos["code"].tolist())
+        finally:
+            trd.close()
+    except Exception as exc:
+        log.warning("moomoo_positions_error", error=str(exc)[:120])
+
+    result = sorted(tickers)
+    log.info("moomoo_watchlist_loaded", count=len(result))
+    return result
+
+
 def parse_tickers(value: str | None, preset: str | None = None) -> list[str]:
     if preset:
         if preset == "aistock":
@@ -2425,6 +2505,15 @@ def parse_tickers(value: str | None, preset: str | None = None) -> list[str]:
                 return tickers
             log.warning("aistock_watchlist_unavailable", fallback="aistock500")
             return AISTOCK500_TICKERS[:]
+        if preset == "moomoo":
+            tickers = _load_moomoo_watchlist()
+            if tickers:
+                return tickers
+            # OpenD down / empty — fall back to the aistock watchlist so the
+            # crawl still runs rather than crashing on an empty ticker list.
+            log.warning("moomoo_watchlist_unavailable", fallback="aistock")
+            fb = _load_aistock_watchlist()
+            return fb or AISTOCK500_TICKERS[:]
         preset_tickers = BUILTIN_TICKER_SETS.get(preset)
         if preset_tickers:
             return preset_tickers[:]
@@ -2816,6 +2905,13 @@ def load_rolling_window(
                 # bypass relevance recompute (same rationale as wire_tripwire).
                 current_rel = max(rel or 0.0, 0.55)
             elif ch == "ibkr_news":
+                # Prune DJ auto market-data blurbs ("... Underperforms Peers")
+                # on reload too, so a tightened filter takes effect immediately
+                # on stored rows instead of waiting for them to age out.
+                from crawler.sources.ibkr_news import is_low_signal_dj
+                if is_low_signal_dj(clean_title):
+                    stale_junk += 1
+                    continue
                 # DJ conid attribution is authoritative; headlines often omit
                 # the company name → relevance recompute would wrongly prune.
                 current_rel = max(rel or 0.0, 0.30)
@@ -3048,6 +3144,15 @@ def dedup_articles(articles: list[dict]) -> list[dict]:
     clean_titles: list[str] = []  # parallel to kept — normalized titles for fuzzy pass
 
     for article in articles:
+        # SEC EDGAR filings are authoritative and each accession is a DISTINCT
+        # legal document — never fuzzy/simhash-collapse them. Two same-issuer,
+        # same-day Form 4s by different insiders have near-identical synthetic
+        # titles and would wrongly merge into one. URL-level dedup
+        # (merge_articles_by_url) still removes any true same-accession dup.
+        if article.get("_channel") == "sec_edgar":
+            kept.append(article)
+            continue
+
         raw_title = article["title"]
         plain_title = raw_title.rsplit(" - ", 1)[0] if " - " in raw_title else raw_title
         clean = _clean_title_for_match(raw_title)
@@ -4892,7 +4997,7 @@ def _parse_edgar_atom(body: bytes, cik_to_ticker: dict[int, str]) -> tuple[list[
 
     # Pass 2: filter + build articles.
     articles: list[dict] = []
-    seen_acc: set[str] = set()
+    seen_acc: set[tuple[str, str]] = set()
     for entry, raw_title, form, name, cik, role, acc in parsed:
         want_role = _EDGAR_FORMS.get(form)
         if want_role is None:
@@ -4903,9 +5008,11 @@ def _parse_edgar_atom(body: bytes, cik_to_ticker: dict[int, str]) -> tuple[list[
         if not ticker:
             continue   # not a watchlist company
         if acc:
-            if acc in seen_acc:
+            # Key by (accession, ticker): a co-registrant filing shares one
+            # accession across two watchlist tickers — both should surface.
+            if (acc, ticker) in seen_acc:
                 continue
-            seen_acc.add(acc)
+            seen_acc.add((acc, ticker))
         link = entry.get("link", "")
         published = _edgar_entry_time(entry)
         counterparty = names_by_acc.get(acc or "", "")
@@ -4974,7 +5081,13 @@ async def crawl_watchlist(
     fulltext_max_articles: int = DEFAULT_FULLTEXT_MAX_ARTICLES,
     ibkr_news: bool = True,
     sec_edgar: bool = True,
+    fast_only: bool = False,
 ):
+    # fast_only: run ONLY the low-latency global tripwire channels
+    # (wire_tripwire + sec_edgar + ibkr_news) and skip the heavy per-ticker RSS
+    # sweep + Finnhub. For a high-frequency job (every 1-2h) that catches
+    # breaking M&A/regulatory events hours before the once-a-day full crawl —
+    # writes the same news.db, so the rolling-window export accumulates both.
     import time as _time
     t0 = _time.monotonic()
 
@@ -5020,7 +5133,7 @@ async def crawl_watchlist(
         # and typically takes ~500s for 500 tickers — entirely within the
         # RSS crawl window, so zero wall-clock cost.
         finnhub_task = None
-        if os.environ.get("FINNHUB_API_KEY"):
+        if os.environ.get("FINNHUB_API_KEY") and not fast_only:
             try:
                 from crawler.sources.finnhub_api import fetch_finnhub_for_tickers
                 # Finnhub uses days_back, not hours. Round up from hours window.
@@ -5044,11 +5157,17 @@ async def crawl_watchlist(
         if ibkr_news:
             try:
                 from crawler.sources.ibkr_news import fetch_ibkr_news_for_tickers
-                if len(tickers) > 150:
-                    hot = _get_hot_tickers()
-                    ibkr_tickers = [t for t in tickers if t in hot]
-                else:
-                    ibkr_tickers = list(tickers)
+                # FULL-watchlist coverage (2026-07-20): the old top-150 hot-gate
+                # was starving high-value events on mid-caps — a late-event audit
+                # found 17/27 flagged M&A/regulatory events (UBER, KKR, LLY,
+                # BIIB, DUK, SCCO …) sat OUTSIDE top-150, so DJ wire never even
+                # queried them and they only surfaced 40h late via slow RSS,
+                # gutting their T+5 window. A ticker with no DJ news returns an
+                # empty list fast (no timeout), so full coverage costs request
+                # count, not data. NEWSCRAWLER_IBKR_MAX_TICKERS caps the list to
+                # bound IBKR historical-request pacing on very large watchlists.
+                ibkr_cap = int(os.environ.get("NEWSCRAWLER_IBKR_MAX_TICKERS", "600"))
+                ibkr_tickers = list(tickers)[:ibkr_cap]
                 if ibkr_tickers:
                     ibkr_task = asyncio.create_task(
                         fetch_ibkr_news_for_tickers(
@@ -5087,7 +5206,13 @@ async def crawl_watchlist(
                     _progress(f"-- progress {completed}/{len(tickers)} tickers  ({elapsed:.0f}s)")
                 return ticker, filtered, raw, stats
 
-        results = await asyncio.gather(*(_crawl_one(t) for t in tickers))
+        # fast_only skips the heavy per-ticker RSS sweep — only the global
+        # tripwire channels (wire/sec/ibkr, fetched in Step 1) run.
+        if fast_only:
+            _progress(f"-- fast-only: skipping per-ticker RSS for {len(tickers)} tickers")
+            results = []
+        else:
+            results = await asyncio.gather(*(_crawl_one(t) for t in tickers))
 
         # Step 2b (NEW): await Finnhub task inside the session context so the
         # HTTP session is still valid if it needs any pending IO.
@@ -5102,7 +5227,15 @@ async def crawl_watchlist(
         ibkr_by_ticker: dict[str, list[dict]] = {}
         if ibkr_task is not None:
             try:
-                ibkr_by_ticker = await ibkr_task
+                # Hard ceiling on the whole channel so no single IBKR call can
+                # ever wedge the crawl (defense-in-depth; the module also bounds
+                # each internal await). 300s accommodates full-watchlist coverage
+                # (~500 tickers). On timeout, cancel and proceed without it.
+                ibkr_by_ticker = await asyncio.wait_for(ibkr_task, timeout=300)
+            except asyncio.TimeoutError:
+                log.warning("ibkr_news task exceeded 300s — proceeding without it")
+                ibkr_task.cancel()
+                ibkr_by_ticker = {}
             except Exception as exc:
                 log.warning("ibkr_news task failed", error=str(exc)[:100])
                 ibkr_by_ticker = {}
@@ -5540,6 +5673,18 @@ async def main():
             "Watchlist runs only."
         ),
     )
+    parser.add_argument(
+        "--fast-only",
+        action="store_true",
+        help=(
+            "Run ONLY the low-latency global tripwire channels (wire_tripwire + "
+            "sec_edgar + ibkr_news), skipping the heavy per-ticker RSS sweep + "
+            "Finnhub. For a high-frequency job (every 1-2h) that catches breaking "
+            "M&A/regulatory events hours before the once-a-day full crawl. Writes "
+            "the same news.db so the rolling-window export accumulates both — keep "
+            "rolling ENABLED (do not combine with --no-rolling)."
+        ),
+    )
     args = parser.parse_args()
     runtime_paths = configure_runtime_paths(data_dir=args.data_dir)
 
@@ -5592,6 +5737,7 @@ async def main():
             fulltext_max_articles=args.fulltext_max_articles,
             ibkr_news=not args.no_ibkr_news,
             sec_edgar=not args.no_sec_edgar,
+            fast_only=args.fast_only,
         )
     news_items = to_news_items(articles)
     report_text = render_report(

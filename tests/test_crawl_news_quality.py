@@ -100,6 +100,30 @@ def test_parse_tickers_supports_aistock200_preset():
     assert BUILTIN_TICKER_SETS["core200"] == AISTOCK200_TICKERS
 
 
+def test_moomoo_preset_registered():
+    from crawl_news import BUILTIN_TICKER_SETS
+    # Registered as dynamic (None), like aistock, so argparse accepts it.
+    assert "moomoo" in BUILTIN_TICKER_SETS
+    assert BUILTIN_TICKER_SETS["moomoo"] is None
+
+
+def test_moomoo_watchlist_graceful_when_opend_down(monkeypatch):
+    """OpenD not running → fast empty list (no crash, no hang)."""
+    import crawl_news as cn
+    # Point at a port nothing listens on so the reachability probe fails fast.
+    monkeypatch.setenv("NEWSCRAWLER_MOOMOO_PORT", "59998")
+    assert cn._load_moomoo_watchlist() == []
+
+
+def test_parse_tickers_moomoo_falls_back_when_unavailable(monkeypatch):
+    """preset=moomoo with OpenD down must fall back (never return [])."""
+    import crawl_news as cn
+    monkeypatch.setenv("NEWSCRAWLER_MOOMOO_PORT", "59998")
+    monkeypatch.setattr(cn, "_load_moomoo_watchlist", lambda: [])
+    monkeypatch.setattr(cn, "_load_aistock_watchlist", lambda: ["NVDA", "AMD"])
+    assert cn.parse_tickers(None, preset="moomoo") == ["NVDA", "AMD"]
+
+
 def test_build_sources_uses_company_hint_for_ambiguous_ticker():
     urls = [url for source in build_sources("A", include_global_feeds=False) for url in source["urls"]]
 

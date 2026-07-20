@@ -15,6 +15,7 @@ from crawl_news import (
     _fetch_edgar_filings,
     _parse_edgar_atom,
     classify_events,
+    dedup_articles,
     quality_filter,
     select_articles_for_fulltext,
     to_news_item,
@@ -106,12 +107,30 @@ def test_form4_article_schema_and_pit_timestamp():
     assert FORM4_ACC in art["summary"]
 
 
-def test_one_article_per_accession():
+def test_one_article_per_accession_and_ticker():
+    """Accession dedup is keyed by (accession, ticker), not accession alone —
+    the paired Issuer/Reporting rows of one Form 4 collapse to one article,
+    while a co-registrant accession still surfaces for each watchlist company
+    (see test_co_registrant_accession_surfaces_for_both_tickers)."""
     articles, _ = _parse_edgar_atom(SAMPLE_FEED, CIK_MAP)
-    accs = [a["_meta"]["edgar_accession"] for a in articles]
-    assert len(accs) == len(set(accs))
+    keys = [(a["_meta"]["edgar_accession"], a["_ticker"]) for a in articles]
+    assert len(keys) == len(set(keys))
     # The Form 4 Reporting row and the 13D Filed-by row must not emit articles
     assert all(a["_meta"]["edgar_cik"] in CIK_MAP for a in articles)
+
+
+def test_co_registrant_accession_surfaces_for_both_tickers():
+    """One 8-K filed jointly by two watchlist companies (e.g. merger parties)
+    shares a single accession. Keying dedup on accession ALONE silently
+    dropped one of them — both must reach their own ticker."""
+    shared_acc = "0001045810-26-000777"
+    feed = _atom(
+        _entry("8-K - NVIDIA CORP (0001045810) (Filer)", "8-K", shared_acc)
+        + _entry("8-K - Rocket Lab Corp (0001819994) (Filer)", "8-K", shared_acc)
+    )
+    articles, _ = _parse_edgar_atom(feed, CIK_MAP)
+    assert {a["_ticker"] for a in articles} == {"NVDA", "RKLB"}
+    assert all(a["_meta"]["edgar_accession"] == shared_acc for a in articles)
 
 
 def test_13d_title_names_the_acquiring_fund():
@@ -201,6 +220,62 @@ def test_quality_filter_accepts_edgar_article_via_relevance_floor():
 def test_quality_filter_drops_stale_edgar_article():
     passed = quality_filter([_mk_edgar_article(hours_ago=400)], "NVDA", hours=48)
     assert passed == []
+
+
+# ── dedup: distinct filings must never collapse ─────────────────────────────
+
+def _mk_form4(insider: str, url: str, company="Natera, Inc.", ticker="NTRA"):
+    return {
+        "title": _edgar_title("4", company, ticker, insider),
+        "url": url,
+        "_source_name": "SEC EDGAR",
+        "_source_domain": "sec.gov",
+        "_trust": 3,
+        "_relevance": 0.55,
+        "_channel": "sec_edgar",
+        "_ticker": ticker,
+    }
+
+
+def test_same_day_form4s_by_different_insiders_survive_dedup():
+    """Observed 2026-07-20: two Natera Form 4s filed seconds apart by different
+    insiders collapsed to one. SimHash kept them apart (hamming 14 > 8) but the
+    fuzzy pass merged them (token_set_ratio 88 >= 85) — the shared synthetic
+    boilerplate dominates the token set, so the insider name carries too little
+    weight. Each accession is a distinct legal filing, and "N insiders sold
+    today" is a materially stronger signal than one, so the magnitude must
+    survive."""
+    articles = [
+        _mk_form4("Sheena Jonathan", "https://sec.gov/a/0001-26-01-index.htm"),
+        _mk_form4("Chapman Rowan E", "https://sec.gov/a/0001-26-02-index.htm"),
+    ]
+    assert len(dedup_articles(articles)) == 2
+
+
+def test_dedup_exemption_does_not_leak_to_other_channels():
+    """The sec_edgar exemption must be channel-scoped: near-identical titles
+    on a normal channel still cluster (that's the whole point of the fuzzy
+    pass — paraphrased re-reports of one story)."""
+    articles = [
+        dict(_mk_form4("Sheena Jonathan", "https://x.com/1"), _channel="yahoo_finance_rss"),
+        dict(_mk_form4("Chapman Rowan E", "https://x.com/2"), _channel="yahoo_finance_rss"),
+    ]
+    assert len(dedup_articles(articles)) == 1
+
+
+def test_edgar_dedup_survives_full_quality_filter():
+    """End-to-end: both filings must still be there after the whole pipeline
+    (quality_filter runs dedup internally)."""
+    now = datetime.now(timezone.utc) - timedelta(hours=2)
+    published = now.replace(microsecond=0).isoformat()
+    articles = []
+    for insider, n in (("Sheena Jonathan", 1), ("Chapman Rowan E", 2)):
+        a = _mk_form4(insider, f"https://sec.gov/a/0001-26-0{n}-index.htm")
+        a["published"] = published
+        a["summary"] = f"4 accepted {published}, accession 0001554859-26-00{n}."
+        articles.append(a)
+    passed = quality_filter(articles, "NTRA", hours=48)
+    assert len(passed) == 2
 
 
 def test_fulltext_selector_skips_edgar_index_pages():
