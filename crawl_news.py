@@ -40,7 +40,7 @@ from contextlib import redirect_stdout
 from datetime import datetime, timezone, timedelta
 from io import StringIO
 from pathlib import Path
-from time import mktime
+from calendar import timegm
 from urllib.parse import urlparse, quote, quote_plus
 
 import aiohttp
@@ -3483,6 +3483,41 @@ def _extract_google_decode_attrs(html: str) -> tuple[str | None, str | None]:
     return None, None
 
 
+def _rss_published_utc(entry) -> str | None:
+    """Publish time of a feedparser entry as a UTC ISO string, or None.
+
+    TIMEZONE CORRECTNESS (fixed 2026-07-20): feedparser normalizes every
+    `*_parsed` struct to UTC. The obvious idiom `time.mktime(struct)`
+    interprets it as LOCAL time instead, so on any host not running UTC every
+    RSS timestamp lands off by the machine's offset — measured -10h on this
+    Australia/Sydney box, i.e. articles looked 10 hours older than they were.
+    `calendar.timegm` is the UTC-correct inverse. This silently shifted the
+    --hours cutoff, the freshness signal, and publish_to_observe_latency_s
+    across every parse_rss channel (google_*, yahoo, nasdaq, ir_feed,
+    wire_tripwire). first_seen_at (the PIT axis) was never affected.
+
+    Never returns a non-ISO string: two sort sites call fromisoformat()
+    unguarded, so leaking a raw RFC-822 header here would crash the run.
+    """
+    struct = entry.get("published_parsed")
+    if struct:
+        try:
+            return datetime.fromtimestamp(timegm(struct), tz=timezone.utc).isoformat()
+        except (TypeError, ValueError, OverflowError, OSError):
+            pass
+    raw = entry.get("published")
+    if raw:
+        try:
+            from email.utils import parsedate_to_datetime
+            dt = parsedate_to_datetime(raw)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt.astimezone(timezone.utc).isoformat()
+        except (TypeError, ValueError):
+            pass
+    return None
+
+
 def parse_rss(body: bytes, source_tag: str, ticker: str) -> list[dict]:
     feed = feedparser.parse(body)
     articles = []
@@ -3494,14 +3529,7 @@ def parse_rss(body: bytes, source_tag: str, ticker: str) -> list[dict]:
         if len(summary) > 500:
             summary = summary[:500] + "..."
 
-        published = None
-        if entry.get("published_parsed"):
-            try:
-                published = datetime.fromtimestamp(
-                    mktime(entry.published_parsed), tz=timezone.utc
-                ).isoformat()
-            except Exception:
-                published = entry.get("published")
+        published = _rss_published_utc(entry)
 
         source_name, source_domain = _extract_real_source(title, link)
         trust = get_trust(source_name, source_domain)
@@ -4913,10 +4941,10 @@ async def _load_cik_to_ticker(
 def _edgar_entry_time(entry) -> str | None:
     """Acceptance timestamp of a getcurrent entry as UTC ISO.
 
-    NOTE: uses fromisoformat on the raw string (offset-aware, e.g. -04:00)
-    with calendar.timegm on the feedparser UTC struct as fallback — NOT the
-    mktime idiom used in parse_rss, which assumes the local zone is UTC.
-    This channel exists for PIT correctness; the timestamp must be exact."""
+    Prefers fromisoformat on the raw string (offset-aware, e.g. -04:00) and
+    falls back to calendar.timegm on the feedparser UTC struct — same
+    UTC-correct treatment as _rss_published_utc(). This channel exists for
+    PIT correctness; the timestamp must be exact."""
     raw = entry.get("updated") or entry.get("published")
     if raw:
         try:
