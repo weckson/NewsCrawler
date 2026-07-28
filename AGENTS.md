@@ -483,29 +483,34 @@ staleness multiplier based on observed latency:
 
 | Function | Location | Purpose |
 |----------|----------|---------|
-| `build_runtime_paths()` | line ~82 | Resolve all data paths from env/args |
-| `configure_runtime_paths()` | line ~123 | Apply resolved paths to module globals |
-| `_DomainRateLimiter` | line ~147 | Per-domain async rate limiter |
-| `build_sources()` | line ~527 | Build RSS source list for a ticker (10 channels) |
-| `get_trust()` | line ~839 | Look up trust tier for a source |
-| `relevance_score()` | line ~849 | Compute ticker relevance for an article |
-| `article_quality_score()` | line ~1032 | 7-signal composite quality scorer |
-| `classify_events()` | line ~1152 | Regex taxonomy for event types (11 categories) |
-| `lexicon_sentiment()` | line ~1326 | Loughran-McDonald financial sentiment scorer |
-| `_load_aistock_watchlist()` | line ~1367 | Read ticker list from AIStock config |
-| `parse_tickers()` | line ~1390 | Resolve preset / comma-list / default |
-| `export_articles_by_ticker()` | line ~1514 | Write stable per-ticker files |
-| `persist_run_artifacts()` | line ~1579 | Write run dir + stable exports |
-| `dedup_articles()` | line ~1670 | SimHash + rapidfuzz fuzzy title clustering |
-| `quality_filter()` | line ~1726 | Full quality pipeline + score gating |
-| `extract_article_text()` | line ~1873 | trafilatura-based full-text extraction with regex fallback |
-| `parse_rss()` | line ~1956 | Parse RSS XML into article dicts (handles 10 channel tags) |
-| `crawl()` | line ~2287 | Fetch + filter single ticker |
-| `merge_articles_by_url()` | line ~2395 | Merge cross-ticker duplicate articles |
-| `_fetch_shared_benzinga_rss()` | line ~2426 | Fetch BZ RSS once, share globally |
-| `crawl_watchlist()` | line ~2494 | Parallel tickers, merge, save |
-| `to_news_item()` | line ~2594 | Raw article → AIStock NewsItem (includes event_types + sentiment) |
-| `main()` | line ~2774 | CLI entry point |
+| `build_runtime_paths()` | line ~142 | Resolve all data paths from env/args |
+| `configure_runtime_paths()` | line ~183 | Apply resolved paths to module globals |
+| `_DomainRateLimiter` | line ~225 | Per-domain async rate limiter |
+| `build_sources()` | line ~884 | Build RSS source list for a ticker (10 channels) |
+| `get_trust()` | line ~1243 | Look up trust tier for a source |
+| `relevance_score()` | line ~1256 | Compute ticker relevance for an article |
+| `article_quality_score()` | line ~1439 | 7-signal composite quality scorer |
+| `classify_events()` | line ~1814 | Regex taxonomy for event types (11 categories) |
+| `lexicon_sentiment()` | line ~2242 | Loughran-McDonald financial sentiment scorer |
+| `_load_aistock_watchlist()` | line ~2398 | Read ticker list from AIStock config |
+| `parse_tickers()` | line ~2500 | Resolve preset / comma-list / default |
+| `iter_error_events()` | line ~2588 | Read structured error events from per-run `errors.jsonl` |
+| `summarize_errors()` | line ~2628 | Aggregate error audit report (by level/event/domain/status) |
+| `export_articles_by_ticker()` | line ~2766 | Write stable per-ticker files |
+| `load_rolling_window()` | line ~2831 | PIT-correct rolling-window read from SQLite (backtest `as_of`) |
+| `persist_run_artifacts()` | line ~3031 | Write run dir + stable exports |
+| `dedup_articles()` | line ~3131 | SimHash + rapidfuzz fuzzy title clustering |
+| `quality_filter()` | line ~3196 | Full quality pipeline + score gating |
+| `extract_article_text()` | line ~3403 | trafilatura-based full-text extraction with regex fallback |
+| `parse_rss()` | line ~3521 | Parse RSS XML into article dicts (handles 10 channel tags) |
+| `fetch_url()` | line ~3858 | HTTP fetch: retry + circuit breaker + conditional GET |
+| `save_article()` | line ~4417 | Bitemporal UPSERT into `news.db` (preserves `first_seen_at`) |
+| `crawl()` | line ~4541 | Fetch + filter single ticker |
+| `merge_articles_by_url()` | line ~4638 | Merge cross-ticker duplicate articles |
+| `_fetch_shared_benzinga_rss()` | line ~4669 | Fetch BZ RSS once, share globally |
+| `crawl_watchlist()` | line ~5104 | Parallel tickers, merge, save |
+| `to_news_item()` | line ~5403 | Raw article → AIStock NewsItem (includes event_types + sentiment) |
+| `main()` | line ~5626 | CLI entry point |
 
 ## Environment Variables
 
