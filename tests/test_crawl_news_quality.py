@@ -1791,4 +1791,3 @@ def test_export_news_item_has_aistock_required_pit_fields():
     assert item["ticker"] == "AAPL"
     assert item["trust_tier"] == 3
     assert item["ingest_source"] == "newscrawler_local"
-
