@@ -3,28 +3,37 @@
 Quality-filtered financial news crawler for US equities. No API key required.
 Produces per-ticker JSON exports consumed by [`D:\AIStock`](../AIStock) as a curated news data source.
 
-**Explicitly excludes** sources already in AIStock (Polygon, SEC/EDGAR, FINRA, Finnhub, Reddit, FRED, yfinance).
+Single-file design — everything lives in `crawl_news.py`. Full-text extraction via trafilatura.
+
+> `AGENTS.md` / `CLAUDE.md` carry the deep operator notes (per-channel rationale,
+> bitemporal storage, integration harness, key-function line map). This README is
+> the quick start.
 
 ## Sources
 
-**Per-ticker sources** (6 channels per ticker):
+**Per-ticker sources:**
 | Channel | Method | Volume |
 |---------|--------|--------|
 | Google News → Benzinga (`site:benzinga.com when:2d`) | Google as BZ proxy | ~100 articles |
 | Google News → SeekingAlpha (`site:seekingalpha.com when:2d`) | Google as SA proxy (SA's own RSS is 98% stale) | ~100 articles |
-| Google News broad (`when:1d` + `when:2d`) | All sources, 5 query variants for freshness + coverage | variable |
+| Google News broad (`when:1d` + `when:2d`) + site proxies for Reuters/Bloomberg/CNBC (top-150 hot tickers) | All sources | variable |
 | Yahoo Finance RSS (`/rss/headline?s={TICKER}`) | Per-ticker headlines, trust=3 | ~20 articles |
-| Nasdaq RSS (`/feed/rssoutbound?symbol={TICKER}`) | Curated, best fulltext rate (63%) | ~15 articles |
-| Company IR RSS | RSS polling | per-company |
+| Nasdaq RSS (`/feed/rssoutbound?symbol={TICKER}`) | Curated, best fulltext rate | ~15 articles |
+| Company IR RSS (`data/ir_feeds.json`, 158 feeds) | PRIMARY sources — zero re-reporting latency, trust=3 | per-company |
+| Finnhub company news (optional, if `FINNHUB_API_KEY` set) | REST API | per-company |
 
-**Shared** (fetched once per run):
-| Channel | Method |
-|---------|--------|
-| Benzinga RSS (`/feed`, `/news/feed`) | Official RSS, distributed to all tickers |
+**Global tripwire / broker channels** (fetched once per run, watchlist runs only):
+| Channel | Method | Notes |
+|---------|--------|-------|
+| SEC EDGAR filings (`sec_edgar`) | EDGAR "latest filings" Atom feed | Form 4 / 8-K / SC 13D/G with exact acceptance timestamps; `--no-sec-edgar` disables |
+| IBKR TWS wire news (`ibkr_news`) | `ib_insync` readonly socket to a running TWS/IB Gateway | Dow Jones + Briefing.com headlines; silently absent when TWS closed; `--no-ibkr-news` disables |
+| M&A wire tripwire (`wire_tripwire`) | PR Newswire M&A feed + GlobeNewswire | Catches breaking deals 6-12h before secondary aggregators |
+| Benzinga RSS | Official RSS | Shared fetch is now a no-op (Cloudflare 403); BZ flows via `google_benzinga` proxy |
 
 No direct HTML scraping — all feeds are structured RSS, no Cloudflare challenge.
 Google News queries use `when:2d` to return only recent articles, dramatically improving freshness.
 Full article text is extracted with [trafilatura](https://trafilatura.readthedocs.io/) when available (boilerplate-free main content), falling back to a regex-based extractor.
+Re-discover IR feeds with `python scripts/probe_ir_feeds.py` (quarterly / after watchlist changes).
 
 ## Quick Start
 
@@ -50,6 +59,9 @@ python crawl_news.py --ticker NVDA --output pretty
 # Custom data directory (Linux/cron)
 python crawl_news.py --data-dir /var/lib/newscrawler
 
+# Fast breaking-event pass: ONLY the global tripwire channels (~5s vs ~14min)
+python crawl_news.py --fast-only
+
 # Tests
 pytest tests/ -q
 ```
@@ -59,8 +71,9 @@ pytest tests/ -q
 | Preset | Source | Count |
 |--------|--------|-------|
 | `aistock` **(default)** | Reads `D:\AIStock\config\default.json` live | matches AIStock exactly |
-| `aistock500` | Hardcoded fallback (used if AIStock repo not found) | 500 |
-| `aistock200` | Legacy core watchlist (noisy single-letter symbols removed) | ~200 |
+| `moomoo` | Reads moomoo OpenD (:11111) — watchlist groups ∪ US positions; falls back to `aistock` if OpenD down | your live moomoo list |
+| `aistock500` / `mega_watchlist` | Hardcoded fallback (used if AIStock repo not found) | 500 |
+| `aistock200` / `core200` | Legacy core watchlist (noisy single-letter symbols removed) | ~200 |
 | `semis20` | Semiconductor focus | 20 |
 
 The default `aistock` preset reads AIStock's watchlist at runtime so crawl tickers always stay in sync — no manual list maintenance needed.
@@ -77,6 +90,10 @@ The default `aistock` preset reads AIStock's watchlist at runtime so crawl ticke
 --output newsitem-json         newsitem-json (default, for piping) | pretty
 --data-dir /path/to/data       Override base data directory
 --no-rolling                   Disable rolling-window export (default: enabled)
+--no-ibkr-news                 Disable IBKR TWS wire-news channel (auto-skipped if TWS closed)
+--no-sec-edgar                 Disable SEC EDGAR filings channel (Form 4 / 8-K / 13D/G)
+--fast-only                    Run ONLY the global tripwire channels (wire+sec+ibkr),
+                               skip per-ticker RSS + Finnhub. Keep rolling ENABLED.
 --summarize-errors 24          Print error audit report for last N hours and exit
 ```
 
@@ -147,29 +164,34 @@ Each item in `latest_news_items.json` follows the AIStock `NewsItem` contract:
 
 ```json
 {
-  "id":             "uuid-v5",
-  "timestamp_utc":  "2026-04-06T12:00:00+00:00",
-  "source":         "yahoo_finance",
-  "url":            "https://...",
-  "title":          "Article headline",
-  "body":           "Full text or summary snippet (nullable)",
-  "author":         null,
-  "language":       "en",
-  "ticker":         "NVDA",
-  "tickers_hint":   ["NVDA", "AMD"],
-  "source_quality": "high",
-  "publisher_raw":  "finance.yahoo.com",
-  "trust_tier":     3,
-  "body_kind":      "article_text",
-  "ingest_source":  "newscrawler_local",
+  "id":                "uuid-v5",
+  "timestamp_utc":     "2026-04-06T12:00:00+00:00",
+  "first_seen_at_utc": "2026-04-06T12:08:30+00:00",
+  "source":            "yahoo_finance",
+  "url":               "https://...",
+  "title":             "Article headline",
+  "body":              "Full text or summary snippet (nullable)",
+  "author":            null,
+  "language":          "en",
+  "ticker":            "NVDA",
+  "tickers_hint":      ["NVDA", "AMD"],
+  "source_quality":    "high",
+  "publisher_raw":     "finance.yahoo.com",
+  "trust_tier":        3,
+  "body_kind":         "article_text",
+  "ingest_source":     "newscrawler_local",
   "meta": {
     "source_name":   "Yahoo Finance",
     "source_domain": "finance.yahoo.com",
     "event_origin":  "news",
     "relevance":     0.75,
     "quality_score": 0.82,
+    "importance":    0.65,
     "event_types":   ["earnings_release", "analyst_rating"],
     "sentiment":     {"score": 0.67, "pos": 0.032, "neg": 0.006, "unc": 0.010, "matched": 12},
+    "classifier_version":          "tax_v7-lm_v3-disambig_v2",
+    "first_seen_at_utc":           "2026-04-06T12:08:30+00:00",
+    "publish_to_observe_latency_s": 510,
     "_channel":      "google_broad"
   }
 }
@@ -177,15 +199,26 @@ Each item in `latest_news_items.json` follows the AIStock `NewsItem` contract:
 
 | Field | Values | Description |
 |-------|--------|-------------|
+| `timestamp_utc` | ISO-8601 | Source-claimed publish time (**valid time**) — display / narrative |
+| `first_seen_at_utc` | ISO-8601 | When NewsCrawler first observed the URL (**transaction time**) — **immutable, use for PIT/backtest windowing** |
 | `trust_tier` | 3 / 2 / 1 / 0 | 3=TOP (WSJ/Bloomberg), 2=OK (Yahoo/SA), 1=low, 0=blocked |
 | `body_kind` | `article_text` / `summary_snippet` | Full text fetched vs RSS excerpt |
 | `ingest_source` | `newscrawler_local` | Fixed marker; AIStock scorer applies 15% discount to snippets |
 | `source_quality` | `high` / `medium` / `low` | Derived from trust_tier |
+| `meta.classifier_version` | e.g. `tax_v7-lm_v3-disambig_v2` | Which taxonomy/lexicon produced the derived signals; backtests can pin |
+| `meta.publish_to_observe_latency_s` | int ≥ 0 | publish → observe lag; AIStock scorer uses for staleness penalty |
+
+> **Backtest replay MUST window on `first_seen_at_utc`, never `timestamp_utc`** —
+> sources occasionally backfill old articles with wrong publish times, so using
+> valid time creates look-ahead bias. `first_seen_at_utc` is immutable across
+> re-fetches. See the Bitemporal Storage section of `AGENTS.md` for the PIT
+> query API (`load_rolling_window(..., as_of=T)`).
 
 ## Quality Pipeline
 
 ```
 Raw RSS articles
+  → URL canonicalize (strip utm_*/fbclid/gclid tracking params → dedup key)
   → Time recency    (hard cutoff = now - hours)
   → Blocked domains (trust_tier == 0 dropped)
   → Relevance       (ticker mention density ≥ 0.10)
@@ -194,10 +227,22 @@ Raw RSS articles
   → Quality score   (7-signal composite, threshold 0.45)
   → SimHash dedup   (Hamming ≤ 6 = same article)
   → Re-score        (source_diversity signal updated post-dedup)
+  → Noise floor     (drop hype/fluff; per-ticker minimum retention)
   → Quality gate    (drop below threshold; adaptive 0.40 fallback)
   → Sort: quality_score ↓  newest first
-  → [optional] Full-text fetch for high-value articles
+  → [optional] Full-text fetch for high-value articles (extraction off-loop)
 ```
+
+Each exported item also carries `meta.importance` (0.0–1.0) — a rules-only
+priority hint (event type + primary source + magnitude + corroboration +
+relevance) for downstream ranking. It is advisory: it never drops or reorders
+what gets exported.
+
+The **noise floor** drops obvious promotional / engagement-bait headlines
+("unstoppable stock", "is attracting investor attention", "reasons to buy") that
+slip past the quality gate on trust-3 sources, but guarantees a per-ticker
+minimum (`NEWSCRAWLER_NOISE_MIN_RETAIN`, default 2) so a thinly-covered ticker
+is never zeroed. Disable with `NEWSCRAWLER_NOISE_FILTER=0`.
 
 ### Quality Scoring System
 
@@ -267,15 +312,29 @@ AIStock can route articles by event type instead of just trust tier.
 
 ## Performance
 
-500 tickers complete in ~11 minutes (down from ~67 min sequential).
+500 tickers complete in ~12-15 minutes (down from ~67 min sequential).
 
 Optimizations:
-- **Per-domain rate limiting** — Google News 0.3s, Yahoo Finance 0.5s, Nasdaq 1.0s, others 1.0s
+- **Per-domain rate limiting** — Google News 0.6s, Yahoo Finance 0.5s, Nasdaq 1.5s, SEC 0.15s, others 1.0s
 - **5 tickers in parallel** — `asyncio.Semaphore` with shared HTTP connection pool
 - **Shared Benzinga RSS** — fetched once globally, distributed to all tickers
 - **DNS caching** — 300s TTL on the shared `aiohttp.TCPConnector`
+- **Cross-run caches** — SQLite-backed body extraction, Google URL resolution, and HTTP `ETag`/`Last-Modified` conditional GET. Warm caches give ~3-4x speedup on a re-run.
 
 Tunable constants at the top of `crawl_news.py`: `TICKER_CONCURRENCY`, `DOMAIN_DELAY`.
+
+## Ops Scripts & Monitoring
+
+| Script | Role | Writes to production? |
+|--------|------|-----------------------|
+| `crawl_news.py` | The only production entry point — full crawl / `--fast-only` breaking-event pass | Yes — `news.db` + AIStock exports |
+| `scripts/monitor_late_events.py` | Daily watchdog: flags high-value events caught only via slow channels >6h late. `data/validation/late_events_latest.{md,json}` | No (read-only, always exits 0) |
+| `scripts/probe_ir_feeds.py` | Re-discover company IR RSS feeds → `data/ir_feeds.json` (run quarterly / after watchlist changes) | Rewrites `data/ir_feeds.json` |
+| `scripts/ibkr_ensure_tws.py` | Unattended TWS/IB Gateway login + news-farm warm-up. Run from the account owner's own scheduler, NEVER from the crawl process | No (crawl stays credential-free) |
+
+`crawler/` (except `crawler/sources/`) and `crawl_amd.py` are **legacy** — not
+imported by `crawl_news.py`. Only touch `crawl_news.py` and
+`tests/test_crawl_news_*.py` for production work.
 
 ## Environment Variables
 
@@ -289,6 +348,15 @@ Tunable constants at the top of `crawl_news.py`: `TICKER_CONCURRENCY`, `DOMAIN_D
 | `NEWSCRAWLER_TICKER_EXPORTS_DIR` | `{AISTOCK_DIR}/by_ticker` | Per-ticker exports |
 | `NEWSCRAWLER_SNAPSHOT_PATH` | *(from config)* | Override flat snapshot path |
 | `NEWSCRAWLER_BY_TICKER_DIR` | *(from config)* | Override per-ticker dir path |
+| `NEWSCRAWLER_SEC_EDGAR` | `1` | Set `0` to disable the SEC EDGAR filings channel |
+| `NEWSCRAWLER_SEC_USER_AGENT` | *(declared UA)* | UA sent to SEC per its fair-access policy |
+| `NEWSCRAWLER_IBKR_NEWS` | `1` | Set `0` to disable the IBKR TWS wire-news channel |
+| `NEWSCRAWLER_IBKR_PORT` | *(probe 7496/4001/7497/4002)* | Pin the TWS/Gateway socket port |
+| `NEWSCRAWLER_IBKR_CLIENT_ID` | `23` | `ib_insync` clientId (keep distinct from other consumers) |
+| `NEWSCRAWLER_IBKR_MAX_TICKERS` | `600` | Cap on tickers queried for IBKR wire news |
+| `NEWSCRAWLER_NOISE_FILTER` | `1` | Set `0` to disable the hype/fluff noise filter |
+| `NEWSCRAWLER_NOISE_MIN_RETAIN` | `2` | Per-ticker floor the noise filter never drops below |
+| `FINNHUB_API_KEY` | *(unset)* | Enables the optional Finnhub company-news channel when present |
 
 All relative paths resolve from the script location (`PROJECT_ROOT`), so
 `python /opt/NewsCrawler/crawl_news.py` works correctly from any working directory.
@@ -336,14 +404,28 @@ AIStock config keys (`config/default.json`):
 ## Tests
 
 ```bash
-pytest tests/ -q    # 100 tests
+pytest tests/ -q    # active crawl_news suite: 203 passed, 1 skipped
+```
+
+The active suite is `tests/test_crawl_news_*.py` (covers `crawl_news.py`). The
+other files cover the legacy `crawler/` package and include network-touching
+cases; run the active suite alone offline with:
+
+```bash
+pytest tests/test_crawl_news_*.py -q
 ```
 
 | Test file | Coverage |
 |-----------|---------|
 | `tests/test_crawl_news_quality.py` | Quality scoring signals, composite scorer, filter gating, ticker parsing, presets |
 | `tests/test_crawl_news_output.py` | NewsItem schema, payload envelope, full-text extraction, Google URL decoding |
+| `tests/test_crawl_news_output_contract.py` | AIStock output-contract lock (schema keys, time formats, meta) — safety net for refactors |
+| `tests/test_crawl_news_upgrade.py` | URL canonicalization + `importance_score` (2026-07-29) |
+| `tests/test_crawl_news_noise.py` | Noise filter recall guard + minimum-retention floor (2026-07-29) |
 | `tests/test_crawl_news_paths.py` | Path resolution, env var overrides, relative path scoping |
+| `tests/test_crawl_news_edgar.py` | SEC EDGAR channel: form-type whitelist, CIK gating, synthetic titles, dedup guard |
+| `tests/test_crawl_news_ibkr.py` | IBKR wire-news channel: DJ noise filter, attribution, cold-farm retry |
+| `tests/test_crawl_news_time.py` | RSS publish-time UTC parsing (guards the `calendar.timegm` skew fix) |
 | `tests/test_rss_parser.py` | RSS parsing, URL canonicalization, content type inference |
 | `tests/test_benzinga_parser.py` | Benzinga-specific RSS parsing |
 | `tests/test_fetcher.py` | HTTP retry, conditional GET, rate limiting, captcha handling |
