@@ -425,6 +425,7 @@ Top-level fields (match `shared/models.py NewsItem` in AIStock):
     "event_origin":  "news",
     "relevance":     0.75,
     "quality_score": 0.82,
+    "importance":    0.65,
     "event_types":   ["earnings_release", "analyst_rating"],
     "sentiment":     {"score": 0.67, "pos": 0.032, "neg": 0.006, "unc": 0.010, "matched": 12},
     "classifier_version":          "tax_v7-lm_v3-disambig_v2",
@@ -462,6 +463,7 @@ the original timestamp on every subsequent UPSERT. Content changes go to the
 | `source_quality` | `high`/`medium`/`low` | Derived from trust_tier |
 | `meta.classifier_version` | e.g. `"tax_v7-lm_v3-disambig_v2"` | Which version produced derived signals; backtest can pin |
 | `meta.publish_to_observe_latency_s` | int ≥ 0 | publish → observe lag; AIStock scorer uses for staleness penalty |
+| `meta.importance` | float 0.0–1.0 | Rules-only priority hint (2026-07-29): event type + primary source + magnitude + corroboration + relevance. Advisory only — does not gate |
 
 AIStock drops items where `trust_tier < min_trust_tier` (default 2) AND `source_quality == "low"`.
 
@@ -479,33 +481,84 @@ staleness multiplier based on observed latency:
 - `3 - 24 hr`: 0.80×
 - `> 24 hr`: 0.50× (likely backfill)
 
+## Signal Quality Upgrades (2026-07-29)
+
+Three minimally-invasive changes on top of the existing pipeline. All are
+additive — the AIStock output contract is unchanged (locked by
+`tests/test_crawl_news_output_contract.py`), old DB rows are never mutated, and
+each has an off switch or is a pure new field. Branch:
+`feat/crawler-importance-url-dedup-2026-07-29`.
+
+1. **URL canonicalization dedup** (`canonicalize_url`, applied in `parse_rss`
+   and after Google-News URL decode in `resolve_article_url`). Strips tracking
+   / attribution query params (`utm_*`, `fbclid`, `gclid`, …) and normalizes
+   scheme/host + query order, so `…?utm_source=rss` and `…?utm_source=twitter`
+   variants of the same story collapse to one URL key (the dedup + SQLite store
+   key on URL). Opaque `news.google.com` redirectors are left untouched until
+   decoded, then canonicalized. Verified on the live DB: merges real Benzinga
+   `utm_*` duplicates, **zero** false merges of distinct articles.
+
+2. **Off-loop full-text extraction** (`fetch_article_body`). trafilatura's
+   CPU-bound HTML parse now runs via `asyncio.to_thread` instead of inline on
+   the event loop, so a slow page no longer stalls the other
+   `ARTICLE_FETCH_CONCURRENCY` in-flight body fetches.
+
+3. **Conservative noise filter with retention floor** (`is_noise` +
+   `filter_noise_with_floor`, applied in `quality_filter` and
+   `load_rolling_window` after dedup, before the quality gate). Drops obvious
+   promotional / engagement-bait headlines (`NOISE_TITLE_PATTERNS`:
+   "unstoppable stock", "is attracting investor attention", "reasons to buy",
+   millionaire-maker, …) that slip past the quality gate on trust-3 sources.
+   CONSERVATIVE — real events (acquires / reports / launches / FDA / "upgraded
+   to Buy") never match (recall guard in `tests/test_crawl_news_noise.py`).
+   **Minimum-retention floor**: a ticker with `<= NOISE_MIN_RETAIN` (default 2)
+   items skips the filter, and if filtering would leave fewer than that, the
+   best-scoring dropped items are restored — a sparsely-covered ticker is never
+   zeroed. Off: `NEWSCRAWLER_NOISE_FILTER=0`; floor: `NEWSCRAWLER_NOISE_MIN_RETAIN`.
+
+**`meta.importance`** (`importance_score`, → `to_news_item` meta) — a rules-only
+[0,1] scalar (strongest event type + primary-source bump + structured magnitude
++ corroboration + relevance) for AIStock to prioritise *which* watchlist news
+matters most. No LLM, no extra IO; does **not** change any existing scoring or
+gating — purely a new advisory field.
+
 ## Key Functions
 
 | Function | Location | Purpose |
 |----------|----------|---------|
-| `build_runtime_paths()` | line ~82 | Resolve all data paths from env/args |
-| `configure_runtime_paths()` | line ~123 | Apply resolved paths to module globals |
-| `_DomainRateLimiter` | line ~147 | Per-domain async rate limiter |
-| `build_sources()` | line ~527 | Build RSS source list for a ticker (10 channels) |
-| `get_trust()` | line ~839 | Look up trust tier for a source |
-| `relevance_score()` | line ~849 | Compute ticker relevance for an article |
-| `article_quality_score()` | line ~1032 | 7-signal composite quality scorer |
-| `classify_events()` | line ~1152 | Regex taxonomy for event types (11 categories) |
-| `lexicon_sentiment()` | line ~1326 | Loughran-McDonald financial sentiment scorer |
-| `_load_aistock_watchlist()` | line ~1367 | Read ticker list from AIStock config |
-| `parse_tickers()` | line ~1390 | Resolve preset / comma-list / default |
-| `export_articles_by_ticker()` | line ~1514 | Write stable per-ticker files |
-| `persist_run_artifacts()` | line ~1579 | Write run dir + stable exports |
-| `dedup_articles()` | line ~1670 | SimHash + rapidfuzz fuzzy title clustering |
-| `quality_filter()` | line ~1726 | Full quality pipeline + score gating |
-| `extract_article_text()` | line ~1873 | trafilatura-based full-text extraction with regex fallback |
-| `parse_rss()` | line ~1956 | Parse RSS XML into article dicts (handles 10 channel tags) |
-| `crawl()` | line ~2287 | Fetch + filter single ticker |
-| `merge_articles_by_url()` | line ~2395 | Merge cross-ticker duplicate articles |
-| `_fetch_shared_benzinga_rss()` | line ~2426 | Fetch BZ RSS once, share globally |
-| `crawl_watchlist()` | line ~2494 | Parallel tickers, merge, save |
-| `to_news_item()` | line ~2594 | Raw article → AIStock NewsItem (includes event_types + sentiment) |
-| `main()` | line ~2774 | CLI entry point |
+| `build_runtime_paths()` | line ~142 | Resolve all data paths from env/args |
+| `configure_runtime_paths()` | line ~183 | Apply resolved paths to module globals |
+| `_DomainRateLimiter` | line ~225 | Per-domain async rate limiter |
+| `build_sources()` | line ~918 | Build RSS source list for a ticker (10 channels) |
+| `get_trust()` | line ~1277 | Look up trust tier for a source |
+| `relevance_score()` | line ~1290 | Compute ticker relevance for an article |
+| `is_noise()` | line ~1344 | Conservative hype/fluff headline detector (NOISE_TITLE_PATTERNS) |
+| `filter_noise_with_floor()` | line ~1359 | Drop is_noise() items with a per-ticker minimum-retention floor |
+| `article_quality_score()` | line ~1521 | 7-signal composite quality scorer |
+| `classify_events()` | line ~1896 | Regex taxonomy for event types (see categories below) |
+| `lexicon_sentiment()` | line ~2324 | Loughran-McDonald financial sentiment scorer |
+| `_load_aistock_watchlist()` | line ~2480 | Read ticker list from AIStock config |
+| `parse_tickers()` | line ~2582 | Resolve preset / comma-list / default |
+| `iter_error_events()` | line ~2670 | Read structured error events from per-run `errors.jsonl` |
+| `summarize_errors()` | line ~2710 | Aggregate error audit report (by level/event/domain/status) |
+| `export_articles_by_ticker()` | line ~2848 | Write stable per-ticker files |
+| `load_rolling_window()` | line ~2913 | PIT-correct rolling-window read from SQLite (backtest `as_of`); applies noise floor + two-layer gate |
+| `persist_run_artifacts()` | line ~3122 | Write run dir + stable exports |
+| `dedup_articles()` | line ~3222 | SimHash + rapidfuzz fuzzy title clustering |
+| `quality_filter()` | line ~3287 | Full quality pipeline + noise floor + score gating |
+| `is_high_value_article()` / `importance_score()` | line ~3474 / ~3495 | Fulltext-selection gate / rules-only [0,1] importance (→ `meta.importance`) |
+| `extract_article_text()` | line ~3596 | trafilatura-based full-text extraction with regex fallback |
+| `canonicalize_url()` | line ~3730 | Strip tracking params + normalize URL for dedup keying |
+| `parse_rss()` | line ~3765 | Parse RSS XML into article dicts (handles 10 channel tags) |
+| `fetch_url()` | line ~4102 | HTTP fetch: retry + circuit breaker + conditional GET |
+| `fetch_article_body()` | line ~4346 | Full-text fetch; trafilatura extraction offloaded via `asyncio.to_thread` |
+| `save_article()` | line ~4667 | Bitemporal UPSERT into `news.db` (preserves `first_seen_at`) |
+| `crawl()` | line ~4791 | Fetch + filter single ticker |
+| `merge_articles_by_url()` | line ~4888 | Merge cross-ticker duplicate articles |
+| `_fetch_shared_benzinga_rss()` | line ~4919 | Fetch BZ RSS once, share globally |
+| `crawl_watchlist()` | line ~5354 | Parallel tickers, merge, save |
+| `to_news_item()` | line ~5653 | Raw article → AIStock NewsItem (event_types + sentiment + importance) |
+| `main()` | line ~5877 | CLI entry point |
 
 ## Environment Variables
 
@@ -524,6 +577,8 @@ staleness multiplier based on observed latency:
 | `NEWSCRAWLER_IBKR_NEWS` | `1` | Set `0` to disable the IBKR TWS wire-news channel |
 | `NEWSCRAWLER_IBKR_PORT` | *(probe 7496/4001/7497/4002)* | Pin the TWS/Gateway socket port |
 | `NEWSCRAWLER_IBKR_CLIENT_ID` | `23` | ib_insync clientId (17=AIStock monitor, keep distinct) |
+| `NEWSCRAWLER_NOISE_FILTER` | `1` | Set `0` to disable the hype/fluff noise filter (2026-07-29) |
+| `NEWSCRAWLER_NOISE_MIN_RETAIN` | `2` | Per-ticker floor the noise filter never drops below |
 
 All relative paths resolve from `PROJECT_ROOT` (script location).
 `python /opt/NewsCrawler/crawl_news.py` works correctly from any cwd.
