@@ -41,7 +41,7 @@ from datetime import datetime, timezone, timedelta
 from io import StringIO
 from pathlib import Path
 from calendar import timegm
-from urllib.parse import urlparse, quote, quote_plus
+from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode, quote, quote_plus
 
 import aiohttp
 import feedparser
@@ -3360,6 +3360,101 @@ def is_high_value_article(article: dict) -> bool:
     return False
 
 
+# Per-event-type base importance, ordered by how market-moving / time-critical
+# the category is for a watchlist name (mirrors the user-facing priority list:
+# earnings, guidance, SEC filings, M&A, capital actions, regulatory, litigation,
+# management/insider, contracts, products, ratings, then macro/technical noise).
+# An article can match several event types — importance uses the strongest one.
+_EVENT_IMPORTANCE = {
+    "ma_activity": 0.95,
+    "earnings_guidance": 0.90,
+    "regulatory": 0.90,
+    "earnings_release": 0.85,
+    "capital_action": 0.80,
+    "litigation": 0.80,
+    "activist_short": 0.75,
+    "management_change": 0.75,
+    "insider_activity": 0.70,
+    "cyber_risk": 0.65,
+    "partnership": 0.65,
+    "product_launch": 0.60,
+    "trade_policy": 0.60,
+    "analyst_rating": 0.55,
+    "macro_sector": 0.45,
+    "valuation": 0.40,
+    "price_action": 0.35,
+    "technical_signal": 0.30,
+    "market_commentary": 0.25,
+}
+
+# Primary / authoritative channels — a filing or company press release is a
+# first-hand disclosure, not a re-report, so it earns an importance bump.
+_PRIMARY_SOURCE_CHANNELS = frozenset(
+    {"sec_edgar", "ir_feed", "amd_ir", "wire_tripwire"}
+)
+
+
+def importance_score(
+    article: dict,
+    event_types: list[str] | None,
+    event_signals: dict | None,
+) -> float:
+    """Lightweight, rules-only importance score in [0, 1] for a watchlist item.
+
+    Combines signals already computed elsewhere — no LLM, no extra IO:
+      • event category (strongest matched type)     → base weight
+      • primary/authoritative source                → +bump
+      • structured magnitude (deal size, guidance,
+        regulatory outcome, strong beat/miss)       → +bump
+      • multi-source corroboration (_alt_sources)   → +bump
+      • ticker relevance                            → down-weights off-topic items
+
+    Purpose: give AIStock (and the late-event monitor / fast-only triage) a
+    single scalar to prioritise *which* watchlist news matters most, without
+    changing any existing scoring or gating. Emitted as meta.importance.
+    """
+    types = event_types or []
+    base = max((_EVENT_IMPORTANCE.get(t, 0.30) for t in types), default=0.20)
+
+    score = base
+    channel = article.get("_channel", "") or ""
+    trust = article.get("_trust", 1) or 0
+    relevance = article.get("_relevance", 0.0) or 0.0
+    alt_sources = article.get("_alt_sources") or []
+
+    # Authoritative first-hand source vs. a re-report of the same event.
+    if channel in _PRIMARY_SOURCE_CHANNELS:
+        score += 0.10
+    elif trust >= 3:
+        score += 0.05
+
+    # Structured magnitude — a $10bn deal or a guidance cut is more important
+    # than a bare "agrees to acquire" with no number.
+    sig = event_signals or {}
+    if sig.get("deal_size_class") == "large":
+        score += 0.10
+    elif sig.get("deal_size_class") == "mid":
+        score += 0.05
+    if sig.get("guidance_direction"):
+        score += 0.05
+    if sig.get("regulatory_outcome"):
+        score += 0.05
+    if sig.get("earnings_surprise_dir") in ("strong_beat", "strong_miss"):
+        score += 0.05
+    if sig.get("product_breakthrough"):
+        score += 0.05
+
+    # Independent corroboration raises confidence this is a real event.
+    if len(alt_sources) >= 2:
+        score += 0.05
+
+    # A weakly-relevant mention can't be "important" *to this ticker*.
+    if relevance < 0.30:
+        score *= 0.70
+
+    return round(max(0.0, min(1.0, score)), 3)
+
+
 def select_articles_for_fulltext(
     articles: list[dict],
     *,
@@ -3518,13 +3613,64 @@ def _rss_published_utc(entry) -> str | None:
     return None
 
 
+# Tracking / attribution query params that never change *which* article a URL
+# points at — stripping them collapses e.g. `?utm_source=twitter` and
+# `?utm_source=rss` variants of the same story into one row. Kept in sync with
+# the legacy crawler.dedupe.canonical list; extend conservatively (only params
+# that are provably navigation-irrelevant) so we never merge two real articles.
+_TRACKING_PARAMS = frozenset(
+    [
+        "utm_source", "utm_medium", "utm_campaign", "utm_content", "utm_term",
+        "utm_id", "utm_reader", "utm_brand", "utm_social", "utm_social-type",
+        "ref", "referrer", "fbclid", "gclid", "dclid", "msclkid", "yclid",
+        "mc_cid", "mc_eid", "igshid", "_ga", "_hsenc", "_hsmi",
+        "guccounter", "cmpid", "ncid", "sr_share", "taid",
+    ]
+)
+
+
+def canonicalize_url(url: str) -> str:
+    """Return a stable canonical form of *url* for dedup keying.
+
+    - lowercases scheme + host (path/query kept case-sensitive — some CMSes
+      are case-sensitive on path)
+    - drops the fragment
+    - removes known tracking/attribution query params
+    - sorts remaining query params for stable ordering
+
+    Opaque `news.google.com` redirector URLs are left untouched: their query
+    string carries the encoded target and must survive until
+    `resolve_article_url` decodes them. Canonicalization is re-applied to the
+    decoded publisher URL at that point.
+
+    Never raises — returns the original string on any parse failure so a weird
+    URL can't drop an article.
+    """
+    if not url:
+        return url
+    try:
+        p = urlparse(url)
+        if not p.scheme or not p.netloc:
+            return url  # relative / malformed — leave as-is
+        if p.netloc.lower().endswith("news.google.com"):
+            return url  # opaque redirector — decode happens later
+        kept = [
+            (k, v) for k, v in parse_qsl(p.query, keep_blank_values=True)
+            if k.lower() not in _TRACKING_PARAMS
+        ]
+        query = urlencode(sorted(kept), doseq=True)
+        return urlunparse((p.scheme.lower(), p.netloc.lower(), p.path, p.params, query, ""))
+    except Exception:
+        return url
+
+
 def parse_rss(body: bytes, source_tag: str, ticker: str) -> list[dict]:
     feed = feedparser.parse(body)
     articles = []
 
     for entry in feed.entries:
         title = clean_text(entry.get("title", ""))
-        link = entry.get("link", "")
+        link = canonicalize_url(entry.get("link", ""))
         summary = clean_text(entry.get("summary", "") or entry.get("description", ""))
         if len(summary) > 500:
             summary = summary[:500] + "..."
@@ -4145,7 +4291,12 @@ async def fetch_article_body(session: aiohttp.ClientSession, article: dict) -> N
         _BODY_CACHE[url] = None
         return
 
-    body = extract_article_text(html)
+    # trafilatura's HTML parse + main-content extraction is CPU-bound and can
+    # take tens of ms on a large page. Running it inline would block the
+    # asyncio loop, stalling every other in-flight body fetch (ARTICLE_FETCH_
+    # CONCURRENCY of them). Offload to the default thread pool so network IO
+    # for the other candidates keeps flowing while this page is parsed.
+    body = await asyncio.to_thread(extract_article_text, html)
     if len(body) < 200:
         _BODY_CACHE[url] = None
         return
@@ -4250,6 +4401,7 @@ async def resolve_article_url(session: aiohttp.ClientSession, article: dict) -> 
                 _url_resolution_store(url, decoded)
 
     if decoded:
+        decoded = canonicalize_url(decoded)
         article["url"] = decoded
         article["id"] = str(uuid.uuid5(uuid.NAMESPACE_URL, decoded or article.get("title", "")))
 
@@ -5476,6 +5628,7 @@ def to_news_item(article: dict) -> dict:
         "event_origin": "news",
         "relevance": article.get("_relevance"),
         "quality_score": article.get("_quality_score"),
+        "importance": importance_score(article, event_types, event_signals),
         "event_types": event_types or None,
         "event_signals": event_signals or None,
         "sentiment": sentiment if sentiment.get("matched", 0) > 0 else None,
