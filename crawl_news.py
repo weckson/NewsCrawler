@@ -476,6 +476,31 @@ WEAK_SIGNAL_PATTERNS = [
     r"\bgenerational buying opportunity\b",
 ]
 
+# Obvious low-quality / promotional headline patterns — hype and engagement
+# bait that carry NO event. CONSERVATIVE by design: every pattern should read
+# as worthless to a human even without context. Real news (acquires, reports,
+# launches, FDA approval, "upgraded to Buy, PT $X") must never match.
+# Complements is_junk (listicles / landing pages) and is_weak_signal (13F /
+# holdings churn); this targets the trust-3 fluff that slips past both.
+# Tune via NEWSCRAWLER_NOISE_FILTER (off switch) + NEWSCRAWLER_NOISE_MIN_RETAIN.
+NOISE_TITLE_PATTERNS = [
+    # hype adjectives describing the stock itself
+    r"\b(?:unstoppable|no[- ]brainer|screaming buy|table[- ]pounding|surefire|"
+    r"slam[- ]dunk|can'?t[- ]miss|once[- ]in[- ]a[- ]lifetime|must[- ]own)\b",
+    # get-rich / millionaire bait
+    r"\b(?:millionaire[- ]maker|make you (?:a )?millionaire|will make you rich|"
+    r"road to riches|retire (?:a )?(?:millionaire|rich))\b",
+    # empty engagement bait
+    r"\bis attracting (?:investor|retail)? ?attention\b",
+    r"\bwhy (?:everyone|investors|wall street) (?:is|are) talking about\b",
+    r"\bhere'?s what makes\b.*\bstock\b",
+    r"\b(?:reasons?|ways?) to (?:buy|love|own)\b",
+    # "1 incredible/brilliant/... stock" (Motley-Fool-style hype). NB:
+    # 'magnificent' deliberately excluded — "Magnificent Seven" is a real term.
+    r"\b(?:incredible|brilliant|genius|amazing|phenomenal|ultimate|jaw[- ]dropping)"
+    r"\b.{0,30}\bstock\b",
+]
+
 NEWS_CONTENT_KEYWORDS = [
     "earnings", "revenue", "profit", "loss", "guidance",
     "acquisition", "merger", "deal", "partnership",
@@ -507,6 +532,15 @@ QUALITY_WEIGHTS = {
 }
 QUALITY_THRESHOLD = 0.45       # articles below this are dropped
 QUALITY_THRESHOLD_RELAXED = 0.40  # fallback for tickers with < 2 articles
+
+# Noise filter — drops obvious hype/fluff (NOISE_TITLE_PATTERNS) that slips
+# past the quality gate on trust-3 sources. Applied per-ticker WITH a minimum
+# retention floor so a sparsely-covered ticker never drops to zero: if removing
+# noise would leave fewer than NOISE_MIN_RETAIN items, the best-scoring dropped
+# items are added back. Tickers with <= NOISE_MIN_RETAIN items skip the filter
+# entirely. Off switch: NEWSCRAWLER_NOISE_FILTER=0.
+NOISE_FILTER_ENABLED = os.environ.get("NEWSCRAWLER_NOISE_FILTER", "1").strip().lower() not in ("0", "false", "no")
+NOISE_MIN_RETAIN = max(1, int(os.environ.get("NEWSCRAWLER_NOISE_MIN_RETAIN", "2")))
 
 # ── Classifier versioning for PIT-correct backtesting ──────────────────────
 # Bump this string whenever event taxonomy / LM lexicon / disambiguation /
@@ -1305,6 +1339,54 @@ def is_weak_signal(title: str, source_domain: str) -> bool:
         if re.search(pat, t, re.IGNORECASE):
             return True
     return False
+
+
+def is_noise(title: str) -> bool:
+    """True for obvious promotional / engagement-bait headlines with no event.
+
+    Conservative on purpose (see NOISE_TITLE_PATTERNS): only headlines a human
+    would read as worthless. Never call this as a hard drop without the
+    minimum-retention floor (filter_noise_with_floor) — a thinly-covered ticker
+    may have nothing *but* fluff, and zero export is worse than one weak item.
+    """
+    t = (title or "").lower().strip()
+    for pat in NOISE_TITLE_PATTERNS:
+        if re.search(pat, t, re.IGNORECASE):
+            return True
+    return False
+
+
+def filter_noise_with_floor(
+    articles: list[dict],
+    *,
+    min_retain: int = NOISE_MIN_RETAIN,
+) -> list[dict]:
+    """Drop is_noise() headlines but guarantee a per-call minimum retention.
+
+    Rules:
+      • disabled (NEWSCRAWLER_NOISE_FILTER=0) → return unchanged
+      • <= min_retain articles → skip filtering entirely (too sparse to prune)
+      • otherwise drop noise, but if that leaves < min_retain, add the
+        highest-_quality_score dropped items back until min_retain is met
+
+    Input order is preserved for the kept items (callers sort afterwards).
+    Never returns fewer than min(min_retain, len(articles)) items.
+    """
+    if not NOISE_FILTER_ENABLED or len(articles) <= min_retain:
+        return articles
+
+    kept = [a for a in articles if not is_noise(a.get("title", ""))]
+    if len(kept) >= min_retain:
+        return kept
+
+    # Too much got dropped — restore the best of the dropped ones so the ticker
+    # keeps a floor of coverage even when it's all low quality.
+    dropped = [a for a in articles if is_noise(a.get("title", ""))]
+    dropped.sort(key=lambda a: a.get("_quality_score", 0.0), reverse=True)
+    need = min_retain - len(kept)
+    restore = set(id(a) for a in dropped[:need])
+    # Rebuild in original order: keep non-noise + restored noise.
+    return [a for a in articles if not is_noise(a.get("title", "")) or id(a) in restore]
 
 
 # ── Quality scoring signals ──────────────────────────────────────────────────
@@ -2979,7 +3061,15 @@ def load_rolling_window(
     gated: list[dict] = []
     relaxed_tickers = 0
     aggregator_fallback_tickers = 0
+    noise_dropped = 0
     for tkr, arts in by_ticker.items():
+        # Noise floor: drop obvious hype/fluff but never below NOISE_MIN_RETAIN
+        # for this ticker (a thinly-covered name keeps its best items even if
+        # they read as noise). Applied before the trust/quality gates.
+        before_noise = len(arts)
+        arts = filter_noise_with_floor(arts)
+        noise_dropped += before_noise - len(arts)
+
         # Layer A: trust-based aggregator suppression
         high_trust = [a for a in arts if (a.get("_trust") or 0) >= 2]
         tier1_agg = [a for a in arts if (a.get("_trust") or 0) == 1]
@@ -3021,6 +3111,7 @@ def load_rolling_window(
         after_quality_gate=len(gated),
         relaxed_tickers=relaxed_tickers,
         aggregator_fallback_tickers=aggregator_fallback_tickers,
+        noise_dropped=noise_dropped,
         tickers=len(ticker_set),
         hours=hours,
         cutoff=cutoff_iso,
@@ -3317,6 +3408,13 @@ def quality_filter(articles: list[dict], ticker: str, hours: int) -> list[dict]:
     # ⑨ Post-dedup: recompute quality score with source_diversity signal
     for a in deduped:
         a["_quality_score"] = article_quality_score(a, ticker, now=now)
+
+    # ⑨b Noise floor: drop obvious hype/fluff, but keep at least
+    # NOISE_MIN_RETAIN of this ticker's items so a sparse ticker isn't zeroed.
+    before_noise = len(deduped)
+    deduped = filter_noise_with_floor(deduped)
+    if before_noise != len(deduped):
+        log.info("noise_filtered", ticker=ticker, before=before_noise, after=len(deduped))
 
     # ⑩ Quality gate — drop below threshold
     threshold = QUALITY_THRESHOLD
