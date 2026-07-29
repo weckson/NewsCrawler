@@ -522,6 +522,37 @@ each has an off switch or is a pure new field. Branch:
 matters most. No LLM, no extra IO; does **not** change any existing scoring or
 gating — purely a new advisory field.
 
+### Reference projects evaluated (2026-07-29)
+
+The upgrade brief suggested selectively borrowing from Crawlee Python, RSSHub,
+Trafilatura, Scrapling, and Crawl4AI. What was actually adopted vs. why not:
+
+- **Trafilatura** — already the primary body extractor (`extract_article_text`).
+  The only change was running it off the event loop (`asyncio.to_thread`).
+- **URL canonicalization** — reused this repo's own
+  `crawler/dedupe/canonical.py::normalise_url` tracking-param list rather than
+  pulling a new dependency; `canonicalize_url` in `crawl_news.py` is the
+  hot-path copy so the single-file crawler has no cross-package import.
+- **Crawlee Python** — **NOT adopted.** Its core value (async scheduling,
+  per-domain concurrency, retry/backoff, circuit breaking, request dedup /
+  conditional GET) is already implemented inline: `asyncio.Semaphore`
+  (`TICKER_CONCURRENCY`) + `_DomainRateLimiter`, `fetch_url` retry/backoff, the
+  per-domain circuit breaker, and `fetch_rss_with_conditional_get` (ETag/304).
+  Adopting Crawlee would mean a rewrite for no net capability — rejected under
+  the "in-place, no rewrite" constraint.
+- **RSSHub / Scrapling / Crawl4AI (browser pool, adaptive selectors, Playwright
+  fallback)** — **NOT adopted.** All current sources are structured RSS/API/
+  socket feeds with **no JS execution needed**, so a headless-browser tier adds
+  heavy deps and ops surface for zero coverage gain on today's channels. Left as
+  an option if a future source genuinely requires a rendered page.
+
+**Deferred backlog — adaptive concurrency (Crawlee `AutoscaledPool` idea).**
+`TICKER_CONCURRENCY` / `ARTICLE_FETCH_CONCURRENCY` are fixed constants. Brief
+requirement #8 ("set concurrency from host resources at runtime") is only
+partially met. A worthwhile next step is a lightweight CPU/memory-aware pool
+that raises concurrency on a fast host and backs off under load — WITHOUT
+pulling in Crawlee itself. Not yet implemented.
+
 ## Key Functions
 
 | Function | Location | Purpose |
