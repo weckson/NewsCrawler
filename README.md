@@ -6,8 +6,8 @@ Produces per-ticker JSON exports consumed by [`D:\AIStock`](../AIStock) as a cur
 Single-file design — everything lives in `crawl_news.py`. Full-text extraction via trafilatura.
 
 > `AGENTS.md` / `CLAUDE.md` carry the deep operator notes (per-channel rationale,
-> bitemporal storage, integration harness, key-function line map). This README is
-> the quick start.
+> bitemporal storage, integration harness, key-function line map, and the
+> reference-project / design-decision log). This README is the quick start.
 
 ## Sources
 
