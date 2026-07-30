@@ -103,3 +103,85 @@ def test_importance_surfaces_in_newsitem_meta():
     assert "importance" in item["meta"]
     assert isinstance(item["meta"]["importance"], float)
     assert item["meta"]["importance"] > 0.8  # large M&A from a primary wire
+
+
+# ── Business Wire source added to the tripwire (2026-07-30) ──────────────────
+
+def test_business_wire_feed_registered():
+    import crawl_news as cn
+    assert any("businesswire.com" in u for u in cn._WIRE_TRIPWIRE_FEEDS), \
+        "Business Wire feed missing from _WIRE_TRIPWIRE_FEEDS"
+
+
+def test_business_wire_item_labeled_correctly():
+    # A Business Wire release flowing through the wire_tripwire parse branch
+    # must be attributed to Business Wire (not defaulted to PR Newswire) at
+    # trust tier 3.
+    import crawl_news as cn
+    rss = (
+        b'<?xml version="1.0"?><rss version="2.0"><channel>'
+        b'<item><title>Acme Corp to Acquire Beta Inc for $3 billion</title>'
+        b'<link>https://www.businesswire.com/news/home/20260730/en/Acme-Beta</link>'
+        b'<description>Acme announced a definitive agreement.</description>'
+        b'<pubDate>Wed, 30 Jul 2026 09:00:00 GMT</pubDate></item></channel></rss>'
+    )
+    arts = cn.parse_rss(rss, "wire_tripwire", "")
+    assert arts, "parse_rss returned no articles"
+    a = arts[0]
+    assert a["_source_name"] == "Business Wire"
+    assert a["_source_domain"] == "businesswire.com"
+    assert a["_trust"] == 3
+
+
+def test_wire_tripwire_still_labels_prnewswire_and_globenewswire():
+    # Regression guard: adding Business Wire must not change the other two.
+    import crawl_news as cn
+    for dom, expect in (
+        ("https://www.prnewswire.com/news-releases/x.html", "PR Newswire"),
+        ("https://www.globenewswire.com/news-release/x", "GlobeNewswire"),
+    ):
+        rss = (
+            b'<?xml version="1.0"?><rss version="2.0"><channel><item>'
+            b'<title>Company reports Q3 earnings beat</title>'
+            b'<link>' + dom.encode() + b'</link>'
+            b'<description>x</description></item></channel></rss>'
+        )
+        a = cn.parse_rss(rss, "wire_tripwire", "")[0]
+        assert a["_source_name"] == expect, (dom, a["_source_name"])
+
+
+# ── Widened tripwire event gate: contracts + capital investment (2026-07-30) ──
+
+def test_major_contract_and_capital_investment_classified():
+    import crawl_news as cn
+    contract = cn.classify_events("Booz Allen Wins $1 Billion Army Cyber Contract")
+    assert "major_contract" in contract
+    order = cn.classify_events("Lockheed Receives Order for 50 F-35 Jets")
+    assert "major_contract" in order
+    capex = cn.classify_events("Intel to Invest $20 Billion in New Arizona Fab")
+    assert "capital_investment" in capex
+    plant = cn.classify_events("PMI U.S. Opens $1.2 Billion Aurora Campus")
+    assert "capital_investment" in plant
+
+
+def test_new_categories_are_in_tripwire_gate():
+    import crawl_news as cn
+    assert {"major_contract", "capital_investment", "partnership"} <= cn._TRIPWIRE_EVENT_TYPES
+
+
+def test_contract_capex_categories_do_not_flag_consumer_pr():
+    # Recall guard: real Business Wire consumer/PR noise must NOT trip the new
+    # high-value categories (verified against the live feed's fluff).
+    import crawl_news as cn
+    noise = [
+        "The Cheesecake Factory Celebrates National Cheesecake Day July 30",
+        "Open Farm Introduces Pets Are Perfect Brand Evolution",
+        "La-Z-Boy and Kristin Juszczyk Team Up to Create the Jer-Z-Boy",
+        "Fieldwork Appoints Dr. Cleo Valentine as Advisor",
+    ]
+    for t in noise:
+        ets = set(cn.classify_events(t))
+        assert "major_contract" not in ets, t
+        assert "capital_investment" not in ets, t
+
+

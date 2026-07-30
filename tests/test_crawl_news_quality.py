@@ -1312,10 +1312,18 @@ def test_wire_tripwire_name_match(monkeypatch):
 
 
 def test_wire_tripwire_event_gate_constants():
-    """Tripwire only fires on first-publication high-value events."""
+    """Tripwire only fires on first-publication high-value events.
+
+    2026-07-30: widened from the original 4 (M&A / earnings / guidance /
+    regulatory) to also catch major contracts/orders, large capital
+    investment, and strategic partnerships — all on the watchlist priority
+    list and all first-published on the wires.
+    """
     import crawl_news as cn
-    assert cn._TRIPWIRE_EVENT_TYPES == frozenset(
-        {"ma_activity", "earnings_release", "earnings_guidance", "regulatory"})
+    assert cn._TRIPWIRE_EVENT_TYPES == frozenset({
+        "ma_activity", "earnings_release", "earnings_guidance", "regulatory",
+        "major_contract", "capital_investment", "partnership",
+    })
     # The Rocket Lab headline must carry a tripwire-eligible event type
     ets = set(cn.classify_events("Rocket Lab to Acquire Iridium in Historic Deal", ""))
     assert cn._TRIPWIRE_EVENT_TYPES & ets

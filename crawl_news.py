@@ -1805,6 +1805,36 @@ EVENT_TAXONOMY: dict[str, list[str]] = {
         r"\b(?:wins?|awards?|secures?|lands?)(?:\s+\w+){0,3}\s+(?:contracts?|deals?|commitments?)\b",
     ],
 
+    # ─── Major customer contracts / orders (2026-07-30) ───────────────────
+    # Watchlist priority: "重大客户、订单和合同". The partnership category's
+    # verb+contract patterns miss size-qualified headlines with 4+ words in
+    # between ("Wins $1 Billion Army Cyber Contract") and award phrasing
+    # ("Awarded a $500M contract"). These require a contract/order noun AND a
+    # magnitude/scope qualifier so generic "signs agreement" fluff stays out.
+    "major_contract": [
+        # award/win verb ... contract/order/deal (loose word gap, size-agnostic
+        # because the wire tripwire already needs a watchlist-name match)
+        r"\b(?:wins?|won|awarded|secures?|secured|lands?|landed|receives?|received|bags?|clinches?)\b(?:\s+\S+){0,6}?\s+(?:contract|order|award|deal|tender|mandate)\b",
+        r"\b(?:contract|order|deal|tender)\s+(?:win|award|worth|valued\s+at|of)\b",
+        # explicit sized order/contract
+        r"\$\s?\d[\d.,]*\s?(?:million|billion|bn|m)\b(?:\s+\S+){0,4}?\s+(?:contract|order|deal|award)\b",
+        r"\b(?:contract|order|award|deal)\b(?:\s+\S+){0,4}?\s+worth\s+\$?\d",
+        # large unit / volume orders
+        r"\b(?:receives?|places?|lands?)\b(?:\s+\S+){0,4}?\s+order\s+for\b",
+    ],
+
+    # ─── Major capital investment / capex (2026-07-30) ────────────────────
+    # Watchlist priority: "重大投资". A large plant/fab/campus build or a sized
+    # investment commitment — a material capital-allocation event that
+    # classify_events did not previously tag at all. Requires a size or a
+    # concrete facility noun so routine "invests in talent" PR stays out.
+    "capital_investment": [
+        r"\bto\s+invest\b(?:\s+\S+){0,4}?\s+\$?\d[\d.,]*\s?(?:million|billion|bn)\b",
+        r"\$\s?\d[\d.,]*\s?(?:million|billion|bn)\b(?:\s+\S+){0,5}?\s+(?:investment|campus|plant|factory|fab|facility|gigafactory|expansion)\b",
+        r"\b(?:opens?|opening|breaks?\s+ground|builds?|building|expands?|expansion\s+of)\b(?:\s+\S+){0,5}?\s+(?:\$?\d[\d.,]*\s?(?:million|billion|bn)\b|plant|factory|fab|campus|gigafactory)\b",
+        r"\bcapital\s+(?:investment|expenditure|commitment)\b(?:\s+\S+){0,4}?\s+\$?\d",
+    ],
+
     # Technical trading signals (momentum trader vocabulary)
     "technical_signal": [
         r"\bRSI\b", r"\bMACD\b", r"\bBollinger\s+bands?\b",
@@ -3475,6 +3505,8 @@ _EVENT_IMPORTANCE = {
     "insider_activity": 0.70,
     "cyber_risk": 0.65,
     "partnership": 0.65,
+    "major_contract": 0.70,
+    "capital_investment": 0.65,
     "product_launch": 0.60,
     "trade_policy": 0.60,
     "analyst_rating": 0.55,
@@ -3822,12 +3854,18 @@ def parse_rss(body: bytes, source_tag: str, ticker: str) -> list[dict]:
             source_domain = "investing.com"
             trust = 2
         elif source_tag == "wire_tripwire":
-            # Primary press-release wire (PR Newswire / GlobeNewswire). Derive
-            # the real publisher domain from the link; trust=3 (company's own
-            # authoritative announcement, hard-source tier in AIStock).
+            # Primary press-release wire (PR Newswire / Business Wire /
+            # GlobeNewswire). Derive the real publisher domain from the link;
+            # trust=3 (company's own authoritative announcement, hard-source
+            # tier in AIStock).
             wdom = urlparse(link).netloc.lower().lstrip("www.") if link else "prnewswire.com"
             source_domain = wdom or "prnewswire.com"
-            source_name = "GlobeNewswire" if "globenewswire" in wdom else "PR Newswire"
+            if "globenewswire" in wdom:
+                source_name = "GlobeNewswire"
+            elif "businesswire" in wdom:
+                source_name = "Business Wire"
+            else:
+                source_name = "PR Newswire"
             trust = 3
         elif source_tag == "pr_newswire":
             source_name = "PR Newswire"
@@ -4945,13 +4983,25 @@ _WIRE_TRIPWIRE_FEEDS = [
     "https://www.prnewswire.com/rss/financial-services-latest-news/acquisitions-mergers-and-takeovers-list.rss",
     # GlobeNewswire public companies — broad press-release wire
     "https://www.globenewswire.com/rssfeed/orgclass/1/feedTitle/GlobeNewswire%20-%20News%20about%20Public%20Companies",
+    # Business Wire — the other major newswire (Apple, Berkshire, etc. file
+    # their official releases here, not PR Newswire). This is the broad
+    # all-news home feed; the two-stage event-type + watchlist-name filter
+    # downstream drops the consumer/PR fluff and keeps only watchlist events
+    # (verified 2026-07-30 against the live feed — e.g. it carried PM's $1.2B
+    # campus, EA FC launch, Guardant Health while dropping cheesecake-day PR).
+    "https://feed.businesswire.com/mrss/home/?rss=G1QFDERJXkJcFVJYWQ==",
     # PR Newswire general (filtered hard downstream)
     "https://www.prnewswire.com/rss/news-releases-list.rss",
 ]
 
 # Only these event types justify a wire tripwire hit (first-publication value).
+# 2026-07-30: widened beyond M&A/earnings/regulatory to cover the watchlist
+# priority list's "重大合同/订单" (major_contract, partnership) and "重大投资"
+# (capital_investment) — a Booz Allen $1B contract or a $1.2B plant build is a
+# first-publication event worth catching on the wire, not just deals/earnings.
 _TRIPWIRE_EVENT_TYPES = frozenset({
     "ma_activity", "earnings_release", "earnings_guidance", "regulatory",
+    "major_contract", "capital_investment", "partnership",
 })
 
 _NAME_TO_TICKER_CACHE: dict[str, str] | None = None
