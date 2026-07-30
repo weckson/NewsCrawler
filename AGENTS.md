@@ -583,30 +583,30 @@ pulling in Crawlee itself. Not yet implemented.
 | `is_noise()` | line ~1344 | Conservative hype/fluff headline detector (NOISE_TITLE_PATTERNS) |
 | `filter_noise_with_floor()` | line ~1359 | Drop is_noise() items with a per-ticker minimum-retention floor |
 | `article_quality_score()` | line ~1521 | 7-signal composite quality scorer |
-| `classify_events()` | line ~1896 | Regex taxonomy for event types (see categories below) |
-| `lexicon_sentiment()` | line ~2324 | Loughran-McDonald financial sentiment scorer |
-| `_load_aistock_watchlist()` | line ~2480 | Read ticker list from AIStock config |
-| `parse_tickers()` | line ~2582 | Resolve preset / comma-list / default |
-| `iter_error_events()` | line ~2670 | Read structured error events from per-run `errors.jsonl` |
-| `summarize_errors()` | line ~2710 | Aggregate error audit report (by level/event/domain/status) |
-| `export_articles_by_ticker()` | line ~2848 | Write stable per-ticker files |
-| `load_rolling_window()` | line ~2913 | PIT-correct rolling-window read from SQLite (backtest `as_of`); applies noise floor + two-layer gate |
-| `persist_run_artifacts()` | line ~3122 | Write run dir + stable exports |
-| `dedup_articles()` | line ~3222 | SimHash + rapidfuzz fuzzy title clustering |
-| `quality_filter()` | line ~3287 | Full quality pipeline + noise floor + score gating |
-| `is_high_value_article()` / `importance_score()` | line ~3474 / ~3495 | Fulltext-selection gate / rules-only [0,1] importance (→ `meta.importance`) |
-| `extract_article_text()` | line ~3596 | trafilatura-based full-text extraction with regex fallback |
-| `canonicalize_url()` | line ~3730 | Strip tracking params + normalize URL for dedup keying |
-| `parse_rss()` | line ~3765 | Parse RSS XML into article dicts (handles 10 channel tags) |
-| `fetch_url()` | line ~4102 | HTTP fetch: retry + circuit breaker + conditional GET |
-| `fetch_article_body()` | line ~4346 | Full-text fetch; trafilatura extraction offloaded via `asyncio.to_thread` |
-| `save_article()` | line ~4667 | Bitemporal UPSERT into `news.db` (preserves `first_seen_at`) |
-| `crawl()` | line ~4791 | Fetch + filter single ticker |
-| `merge_articles_by_url()` | line ~4888 | Merge cross-ticker duplicate articles |
-| `_fetch_shared_benzinga_rss()` | line ~4919 | Fetch BZ RSS once, share globally |
-| `crawl_watchlist()` | line ~5354 | Parallel tickers, merge, save |
-| `to_news_item()` | line ~5653 | Raw article → AIStock NewsItem (event_types + sentiment + importance) |
-| `main()` | line ~5877 | CLI entry point |
+| `classify_events()` | line ~1926 | Regex taxonomy for event types (see categories below) |
+| `lexicon_sentiment()` | line ~2354 | Loughran-McDonald financial sentiment scorer |
+| `_load_aistock_watchlist()` | line ~2510 | Read ticker list from AIStock config |
+| `parse_tickers()` | line ~2612 | Resolve preset / comma-list / default |
+| `iter_error_events()` | line ~2700 | Read structured error events from per-run `errors.jsonl` |
+| `summarize_errors()` | line ~2740 | Aggregate error audit report (by level/event/domain/status) |
+| `export_articles_by_ticker()` | line ~2878 | Write stable per-ticker files |
+| `load_rolling_window()` | line ~2943 | PIT-correct rolling-window read from SQLite (backtest `as_of`); applies noise floor + two-layer gate |
+| `persist_run_artifacts()` | line ~3152 | Write run dir + stable exports |
+| `dedup_articles()` | line ~3252 | SimHash + rapidfuzz fuzzy title clustering |
+| `quality_filter()` | line ~3317 | Full quality pipeline + noise floor + score gating |
+| `is_high_value_article()` / `importance_score()` | line ~3471 / ~3527 | Fulltext-selection gate / rules-only [0,1] importance (→ `meta.importance`) |
+| `extract_article_text()` | line ~3628 | trafilatura-based full-text extraction with regex fallback |
+| `canonicalize_url()` | line ~3762 | Strip tracking params + normalize URL for dedup keying |
+| `parse_rss()` | line ~3797 | Parse RSS XML into article dicts (handles 10 channel tags) |
+| `fetch_url()` | line ~4140 | HTTP fetch: retry + circuit breaker + conditional GET |
+| `fetch_article_body()` | line ~4384 | Full-text fetch; trafilatura extraction offloaded via `asyncio.to_thread` |
+| `save_article()` | line ~4705 | Bitemporal UPSERT into `news.db` (preserves `first_seen_at`) |
+| `crawl()` | line ~4829 | Fetch + filter single ticker |
+| `merge_articles_by_url()` | line ~4926 | Merge cross-ticker duplicate articles |
+| `_fetch_shared_benzinga_rss()` | line ~4957 | Fetch BZ RSS once, share globally |
+| `crawl_watchlist()` | line ~5404 | Parallel tickers, merge, save |
+| `to_news_item()` | line ~5703 | Raw article → AIStock NewsItem (event_types + sentiment + importance) |
+| `main()` | line ~5927 | CLI entry point |
 
 ## Environment Variables
 
