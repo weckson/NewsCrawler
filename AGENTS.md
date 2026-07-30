@@ -50,13 +50,19 @@ No API key required. Per-ticker channels:
   from the crawl process (which stays credential-free). Pairs with TWS native
   Auto-Restart; only the weekly IBKR reset forces a re-auth.
 - **M&A wire tripwire** (`wire_tripwire`, 2026-06-29) — fetches PR Newswire's
-  dedicated M&A feed + GlobeNewswire ONCE per run; two-stage cheap→expensive
-  filter (high-value event-type gate → watchlist company-name match) keeps
-  only breaking deals about watchlist names. Catches M&A 6-12h before
-  secondary aggregators (Yahoo/Benzinga) surface them. Root case: Rocket Lab→
-  Iridium $8B broke 01:00 UTC, secondary sources didn't carry it until ~12:00;
-  the tripwire reads the company's own press release at announcement.
-  trust=3, authoritative attribution, relevance gate bypassed.
+  dedicated M&A feed + GlobeNewswire + Business Wire (2026-07-30) ONCE per run;
+  two-stage cheap→expensive filter (high-value event-type gate → watchlist
+  company-name match) keeps only breaking events about watchlist names. Catches
+  M&A 6-12h before secondary aggregators (Yahoo/Benzinga) surface them. Root
+  case: Rocket Lab→Iridium $8B broke 01:00 UTC, secondary sources didn't carry
+  it until ~12:00; the tripwire reads the company's own press release at
+  announcement. trust=3, authoritative attribution, relevance gate bypassed.
+  The event-type gate `_TRIPWIRE_EVENT_TYPES` was widened 2026-07-30 from
+  {ma_activity, earnings_release, earnings_guidance, regulatory} to also include
+  {major_contract, capital_investment, partnership} — a $1B contract win or a
+  $1.2B plant build is also a first-publication event on these wires. Business
+  Wire's broad all-news feed is fine because the two-stage filter drops the
+  consumer/PR fluff (verified 2026-07-30 against the live feed).
 - **Company IR feeds** — 158 discovered IR RSS feeds (`data/ir_feeds.json`, tag `ir_feed`).
   PRIMARY sources: zero media-re-reporting latency, trust=3, authoritative attribution.
   Re-discover with `python scripts/probe_ir_feeds.py` (quarterly / after watchlist changes).
@@ -522,6 +528,17 @@ each has an off switch or is a pure new field. Branch:
 matters most. No LLM, no extra IO; does **not** change any existing scoring or
 gating — purely a new advisory field.
 
+**Business Wire source + widened wire gate (2026-07-30).** Added Business Wire's
+all-news feed to `_WIRE_TRIPWIRE_FEEDS` (the other major newswire alongside PR
+Newswire / GlobeNewswire; verified live). To make the wire tripwire actually
+surface Business Wire's watchlist events — and to close a pre-existing gap that
+also affected the other two wires — `_TRIPWIRE_EVENT_TYPES` was widened with two
+NEW taxonomy categories, `major_contract` (won/awarded/sized contracts & orders)
+and `capital_investment` (large capex / plant / fab / campus builds), plus the
+existing `partnership`. Both new categories require a size/scope qualifier so
+routine consumer PR (National Cheesecake Day, pet-food campaigns) stays out —
+recall guards in `tests/test_crawl_news_upgrade.py`.
+
 ### Reference projects evaluated (2026-07-29)
 
 The upgrade brief suggested selectively borrowing from Crawlee Python, RSSHub,
@@ -813,10 +830,11 @@ If no dictionary words matched, `meta.sentiment` is set to `null`.
 Each article can match multiple event types (stored in `meta.event_types`).
 AIStock can route articles by event type instead of just trust tier.
 
-19 event types (~200 regex patterns total, pre-compiled at import):
+21 event types (~200 regex patterns total, pre-compiled at import):
 
 **Corporate actions**: `earnings_release`, `earnings_guidance`, `analyst_rating`, `ma_activity`,
-`management_change`, `product_launch`, `partnership`, `capital_action`, `insider_activity`
+`management_change`, `product_launch`, `partnership`, `major_contract`, `capital_investment`,
+`capital_action`, `insider_activity`
 
 **Risk / regulatory**: `litigation`, `regulatory`, `trade_policy`, `cyber_risk`, `activist_short`
 
@@ -824,6 +842,11 @@ AIStock can route articles by event type instead of just trust tier.
 `valuation` (fair value, P/E, too-late-to-buy), `technical_signal` (RSI, MACD, options flow),
 `market_commentary` (trending stock, laps the market, defensive name),
 `macro_sector` (Fed, tariffs, inflation, GDP)
+
+`major_contract` (won/awarded/sized contracts & orders) and `capital_investment`
+(large capex / plant / fab / campus builds) were added 2026-07-30 to cover the
+watchlist priority list's "重大合同/订单" and "重大投资"; both require a size or
+scope qualifier so routine PR stays out, and both feed the wire tripwire gate.
 
 Patterns live in `EVENT_TAXONOMY`. Designed against live watchlist headlines —
 regression tests verify real missed titles (SNDK skyrockets, Corning taps Meta,

@@ -27,7 +27,7 @@ Single-file design — everything lives in `crawl_news.py`. Full-text extraction
 |---------|--------|-------|
 | SEC EDGAR filings (`sec_edgar`) | EDGAR "latest filings" Atom feed | Form 4 / 8-K / SC 13D/G with exact acceptance timestamps; `--no-sec-edgar` disables |
 | IBKR TWS wire news (`ibkr_news`) | `ib_insync` readonly socket to a running TWS/IB Gateway | Dow Jones + Briefing.com headlines; silently absent when TWS closed; `--no-ibkr-news` disables |
-| M&A wire tripwire (`wire_tripwire`) | PR Newswire M&A feed + GlobeNewswire | Catches breaking deals 6-12h before secondary aggregators |
+| M&A wire tripwire (`wire_tripwire`) | PR Newswire M&A feed + GlobeNewswire + Business Wire | Catches breaking deals / contracts / capex 6-12h before secondary aggregators |
 | Benzinga RSS | Official RSS | Shared fetch is now a no-op (Cloudflare 403); BZ flows via `google_benzinga` proxy |
 
 No direct HTML scraping — all feeds are structured RSS, no Cloudflare challenge.
@@ -302,6 +302,9 @@ AIStock can route articles by event type instead of just trust tier.
 | `earnings_guidance` | raises/cuts guidance, reaffirms outlook |
 | `analyst_rating` | upgrades/downgrades, price target changes |
 | `ma_activity` | acquisitions, mergers, takeovers, spin-offs |
+| `major_contract` | won/awarded/sized contracts & orders (e.g. $1B Army contract) |
+| `capital_investment` | large capex — plant/fab/campus builds, sized investments |
+| `partnership` | strategic partnerships, alliances, supply deals |
 | `management_change` | CEO/CFO appointments and departures |
 | `product_launch` | new product announcements, debuts |
 | `litigation` | lawsuits, SEC probes, class-actions, settlements |
